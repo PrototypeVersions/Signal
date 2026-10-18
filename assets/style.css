@@ -40,3 +40,12 @@ body{font-size:16px}.navlinks{gap:27px}.nav-actions{font-size:12px}.issue-intro{
 @media print{.opening-note{display:block}.thread-index,.thread-update .context{display:block}.map-cover .hero-image{position:static;width:100%;max-height:250px}.map-cover .cover-copy{width:100%;padding:20px}.cover-stage.map-cover{color:#183148;background:#fff}.map-cover:after{display:none}}
 
 .quick .cover-stage.map-cover{min-height:0}.quick .map-cover .hero-image{display:none}.quick .map-cover .cover-copy{width:100%;max-width:900px;padding:35px 30px 50px}
+
+/* Fuller reporting: key facts, the full report, and a quieter card. */
+.card-details{margin:0 0 18px;font-size:14px}.card-details>summary{cursor:pointer;width:fit-content;color:var(--muted);font:10px/1.7 var(--mono);letter-spacing:1px;text-transform:uppercase;list-style:none;border-bottom:1px solid var(--line);padding-bottom:3px}.card-details>summary::-webkit-details-marker{display:none}.card-details>summary:after{content:' +';color:var(--accent)}.card-details[open]>summary:after{content:' −'}.card-details[open]>summary{margin-bottom:16px}.card-details .context{display:grid;grid-template-columns:1fr 1fr;gap:0 24px}.card-details .sources-inline{grid-column:1/-1}
+.card-links{display:flex;gap:20px;align-items:center}.card-thread{font-size:13px;color:var(--muted);border-bottom:1px solid var(--line)}.card-thread:hover{color:var(--ink);text-decoration:none}
+.lead-actions .textlink{font-size:13px}
+.key-facts{margin:28px 0 8px;padding:22px 26px;background:var(--panel);border-left:1px solid var(--accent)}.key-facts ul{margin:12px 0 0;padding:0;list-style:none;display:grid;gap:10px}.key-facts li{position:relative;padding-left:20px;font-size:16px;line-height:1.55;color:var(--ink)}.key-facts li:before{content:'';position:absolute;left:0;top:.62em;width:7px;height:7px;border-radius:50%;background:var(--accent)}
+.full-report{margin:8px 0 40px;padding-bottom:30px;border-bottom:1px solid var(--line)}.full-report h2{font:30px/1.2 var(--serif);margin:36px 0 14px}.full-report p{font:19px/1.75 var(--serif);color:var(--ink);opacity:.9;margin:0 0 1.1em}
+.quick .card-details{display:none}
+@media(max-width:760px){.card-details .context{display:block}.full-report p{font-size:18px}.key-facts{padding:18px 20px}.card-links{gap:14px}}

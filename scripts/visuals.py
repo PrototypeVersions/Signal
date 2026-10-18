@@ -62,11 +62,11 @@ def map_svg(story, visual):
     body+='</g>'
     for label in visual.get('labels',[]):
         x,y=project(label['lon'],label['lat']); water=label.get('kind')=='water'
-        body+=f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" fill="{"#8ba9c3" if water else "#b9cfe2"}" font-family="Georgia,serif" font-size="{46 if water else 40}" font-style="{"italic" if water else "normal"}">{ESC(label["label"])}</text>'
+        body+=f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" fill="{"#8ba9c3" if water else "#b9cfe2"}" font-family="Georgia,serif" font-size="{36 if water else 32}" font-style="{"italic" if water else "normal"}">{ESC(label["label"])}</text>'
     for point in story.get('locations',[]):
         if not (west<=point['lon']<=east and south<=point['lat']<=north): continue
         x,y=project(point['lon'],point['lat']); anchor='end' if x>860 else 'start'; offset=-15 if anchor=='end' else 15
-        body+=f'<circle cx="{x:.1f}" cy="{y:.1f}" r="12" fill="#d4a07d" fill-opacity=".15"/><circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="#e2b18e" stroke="#09131d" stroke-width="2"/><text x="{x+offset:.1f}" y="{y-15:.1f}" text-anchor="{anchor}" fill="#d8e7f5" stroke="#0b1825" stroke-width="5" paint-order="stroke" font-family="Arial,sans-serif" font-size="42">{ESC(point.get("mapLabel",point["label"]))}</text>'
+        body+=f'<circle cx="{x:.1f}" cy="{y:.1f}" r="12" fill="#d4a07d" fill-opacity=".15"/><circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="#e2b18e" stroke="#09131d" stroke-width="2"/><text x="{x+offset:.1f}" y="{y-15:.1f}" text-anchor="{anchor}" fill="#d8e7f5" stroke="#0b1825" stroke-width="5" paint-order="stroke" font-family="Arial,sans-serif" font-size="30">{ESC(point.get("mapLabel",point["label"]))}</text>'
     body+=f'<text x="54" y="62" fill="#d4a07d" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">{ESC(visual["title"].upper())}</text><path d="M54 738H1146" stroke="#2b4052"/><circle cx="62" cy="768" r="5" fill="#d4a07d"/><text x="80" y="775" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="18">Approximate reporting locations · country outlines simplified</text>'
     return svg_shell(visual['title'],visual['alt'],body)
 

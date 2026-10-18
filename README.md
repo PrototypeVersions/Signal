@@ -15,13 +15,11 @@ python3 -m http.server 8000 --directory dist
 
 `assets/` contains the visual design and browser interactions. `data/editions/` contains the published record. `scripts/build.py` validates the data and creates the homepage, dated editions, persistent story pages, archive, RSS and sitemap. Generated output lives in `dist/` and is deployed by GitHub Actions.
 
-## Daily trial
+## Daily editions
 
-The subscription-based ChatGPT Work task researches and prepares draft JSON under `drafts/` with story-specific map/chart choices and any original artwork under `draft-assets/`. Drafts do not trigger publication. Review the draft and images, then copy the approved edition to `data/editions/YYYY-MM-DD.json` and any uploaded artwork to the matching `assets/editions/YYYY-MM-DD/` paths in one commit. The artwork manifest lists the intended paths. The push triggers validation and GitHub Pages publication. No OpenAI API key is used by this repository.
+A scheduled Claude task (Opus 5.5) produces each edition every morning, Central time. It researches the day's developments, writes `data/editions/YYYY-MM-DD.json` following [EDITORIAL.md](EDITORIAL.md), validates it with `scripts/build.py`, and pushes to `main`; the push triggers validation and GitHub Pages publication. Every story includes key facts and a full report shown on its article page. No API key is used by this repository.
 
-Read [EDITORIAL.md](EDITORIAL.md) for the commissioning prompt and evidence rules. The first edition demonstrates the full schema. Keep story IDs stable when updating an ongoing story; the site assembles its history automatically. Every edition is dated and has an evidence cutoff. Do not invent prior editions.
-
-The initial trial runs for fourteen mornings. Scheduled runs depend on available ChatGPT capabilities, usage limits, and connected-app access. Image generation uses the included capability when available; a simple original SVG can be used when generation is unavailable. Maps and charts are generated at build time from reviewed JSON; an illustration is used only when it adds meaning. The research task's notification is the place to review results; the public site only reflects approved published editions.
+Keep story IDs stable when updating an ongoing story; the site assembles its history automatically. Every edition is dated and has an evidence cutoff. Do not invent prior editions.
 
 ## Corrections
 
@@ -33,9 +31,9 @@ GitHub Pages is the prototype host. The build is portable to other static hosts;
 
 ## Visual identity
 
-The publication name is **The Signal**. Its Night Observatory design uses midnight navy, pale ice-blue typography, copper details, an illustrated lead, and story-specific maps, sourced charts, or simple original illustrations. Images are visibly labeled as Editorial illustrations and are not documentary evidence. The same artwork appears on the article page. A light reading theme is available through the masthead control.
+The publication name is **The Signal**. Its Night Observatory design uses midnight navy, pale ice-blue typography, copper details, an illustrated lead, and story-specific maps, sourced charts, or simple original illustrations. Images are visibly labeled as Editorial illustrations and are not documentary evidence. The same artwork appears on the article page. The site always uses the night theme.
 
-The compact **Frontiers** section keeps AI central and selectively includes science, medicine, space, and energy breakthroughs. Its cards show a field tag, headline, and concise editorial hook, with Read more linking directly to the full article. Follow this story links open the topic thread, including dated updates across different reports. The `leadStoryId` field lets the most consequential story lead regardless of section. Legacy editions and `section: ai` remain supported.
+The compact **Frontiers** section keeps AI central and selectively includes science, medicine, space, and energy breakthroughs. Its cards show a field tag, headline, and concise editorial hook, with Full report linking directly to the article. Follow this story links open the topic thread, including dated updates across different reports. The `leadStoryId` field lets the most consequential story lead regardless of section. Legacy editions and `section: ai` remain supported.
 
 Each story's optional `image` has `asset`, `alt`, and `credit`. The optional edition `cover` must match the selected lead. Without a cover, the build supplies a dated typographic illustration. Optional story `locations` power the geographic index. See [EDITORIAL.md](EDITORIAL.md) for the schema, art direction, research requirements, and image-review workflow.
 

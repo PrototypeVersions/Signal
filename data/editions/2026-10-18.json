@@ -1,525 +1,1074 @@
 {
-  "date": "2026-10-18",
-  "number": 1,
-  "cutoff": "2026-10-18T16:31:39Z",
-  "cutoffLabel": "11:31 AM CT",
-  "opening": "Washington pauses new Russia-related sanctions as China proposes tighter controls on clean-energy know-how. In AI, new model access and research results sharpen the question of what outside teams can independently verify.",
-  "note": "Our first edition. World reporting from October 16–18; AI developments from October 13–16. Dates and uncertainties accompany every story.",
-  "stories": [
+ "date": "2026-10-18",
+ "number": 1,
+ "cutoff": "2026-10-18T18:45:00Z",
+ "cutoffLabel": "1:45 PM CT",
+ "opening": "France counts the cost of its worst unrest in years as Macron vows to punish rioters. Washington waives new Russia sanctions while Ukraine strikes deep into Russia, oil nears $110 and Ebola spreads inside Kenya. In AI, new access and results test what outsiders can verify.",
+ "note": "Our first edition, revised on Sunday afternoon after President Macron's address. World reporting covers October 16–18; AI developments, October 13–16. Each story now has a full report with key facts and sources.",
+ "stories": [
+  {
+   "id": "france-unrest",
+   "threadId": "france-unrest",
+   "threadTitle": "France's cost-of-living unrest",
+   "threadSummary": "Student and union protests over living costs and schools, and how the government responds.",
+   "section": "world",
+   "title": "France counts the cost of its worst unrest in years",
+   "category": "Civil unrest",
+   "region": "Europe · France",
+   "status": "Major development",
+   "eventDate": "2026-10-17 / 2026-10-18",
+   "body": "Saturday's national day of protest over living costs and school conditions drew about 550,000 people by the government's count and 800,000 by organizers'. Most marched peacefully, but looting and arson hit cities across France: Limoges's town hall burned, Lyon's tourist office caught fire and Marseille's town hall was entered. The interior minister put arrests at about 2,000 and injured police, gendarmes and firefighters at more than 600, both provisional. In a Sunday-evening address, President Macron said nothing justified the violence.",
+   "whatChanged": "Macron has answered with a hard line on violence, local powers to ban marches and talks led by the prime minister. Reports of the address included no new economic measures.",
+   "whyMatters": "With a presidential election about six months away, how the government balances order and grievances will shape whether the movement fades or hardens.",
+   "uncertainty": "Arrest and injury figures are provisional and have risen each day. The scope of any protest bans and of the prime minister's talks is not yet defined.",
+   "watchNext": "Watch whether disorder continues without large marches, which towns ban protests, and turnout for the November 5 strike.",
+   "keyFacts": [
+    "About 550,000 marchers by the government's count, 800,000 by organizers', on October 17",
+    "About 2,000 arrests nationwide, including a record 855 in Paris (provisional)",
+    "More than 600 police, gendarmes and firefighters injured (provisional)",
+    "About 1,500 businesses hit directly, according to the retail federation",
+    "A nationwide strike is called for November 5"
+   ],
+   "report": [
     {
-      "id": "russia-sanctions-waiver",
-      "title": "Washington pauses new pressure on Russia",
-      "category": "Geopolitics",
-      "region": "United States · Russia",
-      "status": "Major development",
-      "eventDate": "2026-10-16 / 2026-10-17",
-      "body": "The White House has waived new Russia-related sanctions and tariffs under the Graham Act. Secretary of State Marco Rubio says officials will take up to 60 days to assess the economic consequences. The written order sets no automatic expiry and preserves specified earlier sanctions. Lawmakers from both parties have objected, but Congress is in recess until after Election Day. The dispute comes as Washington also seeks Russian diesel supplies amid pressure over energy costs.",
-      "whatChanged": "Measures due to take effect are now waived; the administration describes a review rather than a firm start date.",
-      "whyMatters": "Energy affordability is complicating Washington's effort to impose economic costs on Moscow.",
-      "uncertainty": "A review period is not a commitment to restore the measures, and the effect on fuel prices is unproven.",
-      "watchNext": "Watch for a written decision on the waiver and any congressional response.",
-      "sources": [
-        {
-          "publisher": "The White House",
-          "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
-          "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
-          "publishedAt": "2026-10-16 (time not displayed)",
-          "kind": "Primary executive order"
-        },
-        {
-          "publisher": "Reuters",
-          "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
-          "url": "https://www.reuters.com/world/us/rubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18/",
-          "publishedAt": "2026-10-18T03:38:00Z",
-          "kind": "Independent reporting"
-        },
-        {
-          "publisher": "Associated Press",
-          "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-          "url": "https://apnews.com/article/trump-sanctions-waiver-russa-putin-ukraine-war-3cc9740c39e9e9eb713b1c553b5709e6",
-          "publishedAt": "2026-10-17 (time not available in extracted page)",
-          "kind": "Independent reporting"
-        }
-      ],
-      "section": "world",
-      "locations": [
-        {
-          "label": "Washington",
-          "lon": -77,
-          "lat": 39
-        },
-        {
-          "label": "Moscow",
-          "lon": 38,
-          "lat": 56
-        }
-      ],
-      "threadId": "russia-ukraine-security",
-      "threadTitle": "Russia, Ukraine & European security",
-      "threadSummary": "Sanctions, spillover risks, and the wider consequences of the war in Ukraine.",
-      "visual": {
-        "type": "map",
-        "title": "Washington · Moscow",
-        "bounds": [
-          -180,
-          -58,
-          180,
-          82
-        ],
-        "countries": [
-          "840",
-          "643"
-        ],
-        "labels": [],
-        "alt": "A world overview highlighting the United States and Russia, with approximate reporting locations at Washington and Moscow.",
-        "caption": "United States and Russia · approximate reporting locations"
-      }
+     "heading": "What happened",
+     "paragraphs": [
+      "The October 17 protests grew out of weeks of student demonstrations over school conditions and widened into a broader movement over the cost of living, backed by unions. The interior ministry counted about 550,000 participants nationwide; organizers and the CGT union claimed 800,000, including roughly 110,000 in Paris.",
+      "Most of the marches passed off peacefully. Masked groups operating on their margins looted shops and attacked public buildings. In Limoges, the 19th-century town hall was deliberately set alight and its clock tower collapsed. In Lyon, the tourist office was burned; in Marseille, protesters briefly entered the town hall and a police station was damaged. The retail federation says about 1,500 businesses were hit directly, with damage its president puts at several hundred million euros.",
+      "One man died in Paris after collapsing on the march route; police describe a cardiac arrest, and prosecutors are investigating. In Saint-Étienne, a 17-year-old lost a hand after picking up a stun grenade. The police watchdog is examining at least two dozen allegations of police violence."
+     ]
     },
     {
-      "id": "romania-drone-interception",
-      "title": "Romania shoots down drones over its waters",
-      "category": "Security",
-      "region": "Europe · Black Sea",
-      "status": "Meaningful update",
-      "eventDate": "2026-10-17",
-      "body": "Romania says two F-16s destroyed drones after they entered its airspace over territorial waters on Saturday. The defence ministry published the interception timeline. On Sunday, the defence minister said they were probably Russian-made; that identification remains an assessment. Reuters reports that NATO's North Atlantic Council will discuss Black Sea defence on Tuesday. Recent attacks on commercial ships near Romania add a second concern: protecting a trading route alongside NATO territory.",
-      "whatChanged": "Two further incursions ended in interceptions, with Black Sea defence heading to NATO discussions.",
-      "whyMatters": "Repeated incidents create risks for civilian shipping and increase the chance of escalation at NATO's border.",
-      "uncertainty": "The drones' origin and intended targets were not conclusively established in the official release.",
-      "watchNext": "Watch for forensic identification and concrete measures following Tuesday's NATO meeting.",
-      "sources": [
-        {
-          "publisher": "Romanian Ministry of National Defence",
-          "title": "Press Release No. 213, 17.10.2026",
-          "url": "https://english.mapn.ro/cpresa/6888_press-release",
-          "publishedAt": "2026-10-17 (time not displayed)",
-          "kind": "Primary ministry account"
-        },
-        {
-          "publisher": "Reuters",
-          "title": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters",
-          "url": "https://www.reuters.com/world/romanian-f-16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-2026-10-18/",
-          "publishedAt": "2026-10-18T13:59:00Z",
-          "kind": "Independent reporting using official accounts"
-        }
-      ],
-      "section": "world",
-      "locations": [
-        {
-          "label": "Romanian Black Sea coast",
-          "lon": 29,
-          "lat": 44,
-          "mapLabel": "Romanian coast"
-        }
-      ],
-      "threadId": "russia-ukraine-security",
-      "threadTitle": "Russia, Ukraine & European security",
-      "threadSummary": "Sanctions, spillover risks, and the wider consequences of the war in Ukraine.",
-      "visual": {
-        "type": "map",
-        "title": "Romania & the Black Sea",
-        "bounds": [
-          18,
-          38,
-          44,
-          52
-        ],
-        "countries": [
-          "642"
-        ],
-        "labels": [
-          {
-            "label": "Romania",
-            "lon": 24.4,
-            "lat": 46.1
-          },
-          {
-            "label": "Ukraine",
-            "lon": 31.5,
-            "lat": 49
-          },
-          {
-            "label": "Bulgaria",
-            "lon": 24.6,
-            "lat": 42
-          },
-          {
-            "label": "Türkiye",
-            "lon": 34,
-            "lat": 39.5
-          },
-          {
-            "label": "Black Sea",
-            "lon": 35,
-            "lat": 42.4,
-            "kind": "water"
-          }
-        ],
-        "alt": "A regional map highlighting Romania beside the Black Sea, with Ukraine, Bulgaria, and Türkiye labeled. A marker indicates the approximate Romanian Black Sea coast, not an exact interception site.",
-        "caption": "Romania and its Black Sea neighbors · approximate coastal location"
-      }
+     "heading": "The government's response",
+     "paragraphs": [
+      "Interior Minister Laurent Nuñez put arrests at more than 2,000 and injuries among police, gendarmes and firefighters at more than 600, figures he called provisional. In Paris, the police prefecture reported a record 855 arrests, and prosecutors said 557 people were in custody, 151 of them minors. Nuñez and Prime Minister Sébastien Lecornu blamed radical far-left groups for starting the violence.",
+      "In a televised address on Sunday evening, President Emmanuel Macron said nothing explained, excused or justified the violence and looting, and that the authorities would be uncompromising with those responsible. He distinguished the hundreds of thousands who marched peacefully, including students still calling for more resources for schools, from those who destroyed and looted. He said Lecornu would hold meetings on the protesters' concerns in the coming days and weeks, and that local authorities could take the decisions needed to protect their towns, including banning certain marches."
+     ]
     },
     {
-      "id": "china-solar-export-proposal",
-      "title": "China moves to control more clean-energy know-how",
-      "category": "Energy & technology",
-      "region": "Asia · China",
-      "status": "Meaningful update",
-      "eventDate": "2026-10-16",
-      "body": "China has proposed adding 12 solar-manufacturing technologies to its export-control catalogue, within a wider package covering AI and biotechnology. Some transfers would be prohibited; others would require restrictions or licensing. A temporary registration requirement already applies while consultation proceeds. The ministry says the controls concern specified technology, with products manufactured using it outside the general scope. The final rules are still unsettled, and the public consultation closes on November 15.",
-      "whatChanged": "Beijing has moved from discussion to a published proposal and interim registration for covered technology transfers.",
-      "whyMatters": "Control over manufacturing knowledge could complicate efforts to build advanced solar production elsewhere.",
-      "uncertainty": "The final scope and practical effect depend on the adopted rules and their implementation.",
-      "watchNext": "Watch the November 15 consultation deadline and companies' responses.",
-      "sources": [
-        {
-          "publisher": "China Ministry of Commerce",
-          "title": "MOFCOM spokesperson answers questions on revising the Catalogue of Technologies Prohibited or Restricted from Export",
-          "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html",
-          "publishedAt": "2026-10-16 16:00 (as displayed on Chinese ministry site)",
-          "kind": "Primary policy explanation, Chinese"
-        },
-        {
-          "publisher": "Reuters",
-          "title": "China proposes export controls on solar-manufacturing technologies",
-          "url": "https://www.reuters.com/business/autos-transportation/china-proposes-export-controls-solar-manufacturing-technologies-2026-10-18/",
-          "publishedAt": "2026-10-18T06:22:00Z",
-          "kind": "Independent reporting"
-        }
-      ],
-      "section": "world",
-      "locations": [
-        {
-          "label": "Beijing",
-          "lon": 116,
-          "lat": 40
-        }
-      ],
-      "image": {
-        "asset": "assets/editions/2026-10-18/china-solar-export-proposal.jpg",
-        "alt": "A geometric row of blue solar panels receding toward a copper sun.",
-        "credit": "Editorial illustration"
-      },
-      "threadId": "clean-energy-supply-chains",
-      "threadTitle": "Clean-energy supply chains",
-      "threadSummary": "How controls on manufacturing knowledge shape access to solar technology."
-    },
-    {
-      "id": "imf-debt-development-gap",
-      "title": "The growth story still leaves poorer countries exposed",
-      "category": "Economy",
-      "region": "Global · Bangkok",
-      "status": "Meaningful update",
-      "eventDate": "2026-10-16 / 2026-10-17 / 2026-10-18",
-      "body": "As the IMF and World Bank meetings close in Bangkok, IMF chief Kristalina Georgieva warns that higher borrowing costs and energy shocks are squeezing poorer countries. AFP reports her estimate that debt repayments now consume 14% of government revenue in low-income countries, up from 8%. The IMF has secured more than $100 million in new capacity-development commitments. That supports technical assistance and training; it is not a broad debt-relief package or a resolution of the financing gap.",
-      "whatChanged": "The meetings have made the debt and unequal-growth problem explicit, alongside limited new technical-assistance funding.",
-      "whyMatters": "Money spent servicing debt leaves less room for public services and responding to the next shock.",
-      "uncertainty": "AI's long-term growth benefits and their distribution remain uncertain; pledges do not establish outcomes.",
-      "watchNext": "Watch whether support becomes funded country programmes, debt restructurings and measurable fiscal relief.",
-      "sources": [
-        {
-          "publisher": "International Monetary Fund",
-          "title": "Rebuilding Buffers Without the Luxury of Time",
-          "url": "https://www.imf.org/en/news/articles/2026/10/16/101626-managing-director-annual-meetings-plenary",
-          "publishedAt": "2026-10-16 (time not displayed)",
-          "kind": "Primary plenary speech"
-        },
-        {
-          "publisher": "AFP via Thai PBS World",
-          "title": "IMF chief flags 'optimism', 'worry' after Bangkok annual meetings",
-          "url": "https://www.thaipbsworld.com/world/571206",
-          "publishedAt": "2026-10-17 (time not displayed)",
-          "kind": "Independent AFP reporting, syndicated"
-        },
-        {
-          "publisher": "Reuters",
-          "title": "IMF/World Bank meetings leave developing countries with more questions than answers",
-          "url": "https://www.reuters.com/business/imfworld-bank-meetings-leave-developing-countries-with-more-questions-than-2026-10-18/",
-          "publishedAt": "2026-10-18T10:45:00Z",
-          "kind": "Analysis"
-        }
-      ],
-      "section": "world",
-      "locations": [
-        {
-          "label": "Bangkok",
-          "lon": 101,
-          "lat": 14
-        }
-      ],
-      "threadId": "debt-and-development",
-      "threadTitle": "Debt & development",
-      "threadSummary": "The room governments have to fund public services when debt and borrowing costs rise.",
-      "visual": {
-        "type": "bars",
-        "title": "A larger claim on public budgets",
-        "measure": "Low-income countries · debt repayments as a share of government revenue",
-        "unit": "%",
-        "values": [
-          {
-            "label": "Earlier reference",
-            "value": 8
-          },
-          {
-            "label": "Reported estimate",
-            "value": 14
-          }
-        ],
-        "sourceUrl": "https://www.thaipbsworld.com/world/571206",
-        "alt": "Two bars show debt repayments as a share of government revenue in low-income countries: an earlier reference of 8 percent and a reported estimate of 14 percent. The source does not specify the baseline year.",
-        "caption": "Debt repayments as a share of government revenue in low-income countries. AFP reports the IMF chief’s comparison, from 8% to 14% in recent years; the baseline year is not specified."
-      }
-    },
-    {
-      "id": "brazil-meta-election-scrutiny",
-      "title": "Brazil presses Meta over election-era restrictions",
-      "category": "Democracy & technology",
-      "region": "South America · Brazil",
-      "status": "Meaningful update",
-      "eventDate": "2026-10-16 / 2026-10-17",
-      "body": "Brazil's Justice Ministry has asked prosecutors and the data-protection authority to consider action over Meta's content restrictions and transparency, UOL reports. The request follows an electoral court order requiring equal treatment of presidential candidates before the October 25 runoff. Meta denies political bias and says technical problems explain incidents cited against it. The latest step is a request for further action, not a finding that the company deliberately interfered in the vote.",
-      "whatChanged": "Scrutiny has expanded from the candidates' electoral dispute to a ministry request for broader oversight.",
-      "whyMatters": "Opaque distribution and moderation systems can affect the information voters encounter.",
-      "uncertainty": "Technical failures and unequal effects do not by themselves prove partisan intent or establish an electoral impact.",
-      "watchNext": "Watch whether prosecutors file the proposed case and whether regulators require an audit.",
-      "sources": [
-        {
-          "publisher": "UOL",
-          "title": "Ministério da Justiça aciona MPF e sugere ação contra a Meta por bloqueios",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/10/17/ministerio-da-justica-aciona-mpf-e-sugere-acao-contra-a-meta-por-bloqueios.ghtm",
-          "publishedAt": "2026-10-17 19h25 (as displayed; no explicit zone in extracted page)",
-          "kind": "Independent local reporting, Portuguese"
-        },
-        {
-          "publisher": "Associated Press",
-          "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
-          "url": "https://apnews.com/article/brazil-meta-political-bias-denial-lula-bolsonaro-954d26ac1eed94acd62c8156e7aa55d9",
-          "publishedAt": "2026-10-16 (Friday event; syndicated AP copy timestamp 18:39 EDT)",
-          "kind": "Independent reporting"
-        }
-      ],
-      "section": "world",
-      "locations": [
-        {
-          "label": "Brasília",
-          "lon": -48,
-          "lat": -16
-        }
-      ],
-      "threadId": "platforms-and-elections",
-      "threadTitle": "Platforms & elections",
-      "threadSummary": "How distribution and moderation systems are scrutinized during Brazil’s election.",
-      "visual": {
-        "type": "map",
-        "title": "Brazil · election oversight",
-        "bounds": [
-          -83,
-          -37,
-          -28,
-          12
-        ],
-        "countries": [
-          "076"
-        ],
-        "labels": [
-          {
-            "label": "Brazil",
-            "lon": -53,
-            "lat": -7
-          },
-          {
-            "label": "Peru",
-            "lon": -75,
-            "lat": -10
-          },
-          {
-            "label": "Bolivia",
-            "lon": -65,
-            "lat": -17
-          },
-          {
-            "label": "Argentina",
-            "lon": -66,
-            "lat": -32
-          },
-          {
-            "label": "South Atlantic",
-            "lon": -32,
-            "lat": -28,
-            "kind": "water"
-          }
-        ],
-        "alt": "A South American overview highlighting Brazil and marking the approximate location of Brasília. Neighboring countries and the South Atlantic are labeled.",
-        "caption": "Brazil · Brasília is a reporting location"
-      }
-    },
-    {
-      "id": "sudan-hunger-continues",
-      "title": "Sudan's hunger crisis cannot wait for a new headline",
-      "category": "Humanitarian",
-      "region": "Africa · Sudan",
-      "status": "Still matters",
-      "eventDate": "Continuing crisis; source checked 2026-10-18",
-      "body": "The World Food Programme says almost 19.5 million people in Sudan face crisis levels of hunger, with some in catastrophic conditions and several areas at risk of famine. Conflict and restricted access continue to obstruct assistance. WFP says funding shortages force it to prioritize the hungriest communities; its operations reach more than four million people a month. Today's reporting in The National describes displaced families still struggling with lost homes, insecurity and inadequate support. This remains urgent without being a new daily event.",
-      "whatChanged": "This is a continuing-priority entry; no new daily change in the hunger estimate is claimed.",
-      "whyMatters": "Attention can fade while preventable hunger and displacement continue at enormous scale.",
-      "uncertainty": "The WFP overview has no displayed update date; estimates and access conditions can change.",
-      "watchNext": "Watch for new food-security assessments, funded aid commitments and sustained access to affected communities.",
-      "sources": [
-        {
-          "publisher": "World Food Programme",
-          "title": "Sudan — emergency overview",
-          "url": "https://www.wfp.org/emergencies/sudan",
-          "publishedAt": "Undated live overview; retrieved 2026-10-18",
-          "kind": "Primary humanitarian operations account"
-        },
-        {
-          "publisher": "The National",
-          "title": "Sudan's humanitarian crisis deepens as millions face displacement and aid funding shortages",
-          "url": "https://www.thenationalnews.com/news/mena/2026/10/18/sudans-humanitarian-crisis-deepens-as-millions-face-displacement-and-aid-funding-shortages/",
-          "publishedAt": "2026-10-18; updated 14:10 (zone not displayed)",
-          "kind": "Reporting"
-        }
-      ],
-      "section": "still",
-      "locations": [
-        {
-          "label": "Sudan",
-          "lon": 32,
-          "lat": 15
-        }
-      ],
-      "image": {
-        "asset": "assets/editions/2026-10-18/sudan-hunger-continues.jpg",
-        "alt": "An empty blue ceramic bowl beside a copper-colored stalk of grain, a symbolic still life about hunger.",
-        "credit": "Editorial illustration"
-      },
-      "threadId": "sudan-hunger",
-      "threadTitle": "Sudan’s hunger crisis",
-      "threadSummary": "Food insecurity, aid access, and funding during a continuing humanitarian emergency."
-    },
-    {
-      "id": "gemini-argon-release",
-      "category": "Capabilities",
-      "status": "This week",
-      "eventDate": "2026-10-13",
-      "whatChanged": "Argon moved into public paid access across Google’s developer and consumer products.",
-      "whyMatters": "Wider access lets outside teams test whether long, complicated assignments become more economical.",
-      "uncertainty": "Google’s reported performance and productivity gains are company claims, not independent confirmation of results across workplaces.",
-      "watchNext": "Independent task completion, error and cost comparisons after the launch discount.",
-      "sources": [
-        {
-          "publisher": "Google",
-          "title": "Gemini 4 Argon: Built to solve your hardest problems",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-          "publishedAt": "2026-10-13",
-          "kind": "Primary company announcement"
-        }
-      ],
-      "section": "ai",
-      "title": "Google puts its new frontier model into developers’ hands",
-      "body": "Google released Gemini 4 Argon through its paid API and selected subscriptions on October 13. The company reports stronger performance on complex coding and professional tasks, and points to software changes made with the model. Availability is a concrete change; claims of broad productivity gains still need testing outside Google’s selected examples. Introductory API pricing ends November 30, so the launch price should not be mistaken for the permanent cost.",
-      "region": "AI frontier",
-      "image": {
-        "asset": "assets/editions/2026-10-18/gemini-argon-release.jpg",
-        "alt": "A faceted blue sphere opens around a copper core, symbolizing access to a new AI model.",
-        "credit": "Editorial illustration"
-      },
-      "field": "AI",
-      "threadId": "frontier-models",
-      "threadTitle": "Frontier model releases",
-      "threadSummary": "What becomes available, what companies claim, and what independent testing can establish."
-    },
-    {
-      "id": "anthropic-metr-access",
-      "category": "Accountability",
-      "status": "Meaningful update",
-      "eventDate": "2026-10-15",
-      "whatChanged": "The company announced an embedded evaluator team, with terms clarified on October 16.",
-      "whyMatters": "Outsiders need access to internal incidents and safeguards to assess risks that public demonstrations cannot reveal.",
-      "uncertainty": "This is an access arrangement, not a finding that Anthropic’s systems are safe. Confidentiality exceptions remain.",
-      "watchNext": "METR’s published assessments and disclosures about limitations on access or publication.",
-      "sources": [
-        {
-          "publisher": "Anthropic",
-          "title": "An update on independent evaluators",
-          "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-          "publishedAt": "2026-10-15; updated 2026-10-16",
-          "kind": "Primary company announcement"
-        },
-        {
-          "publisher": "METR",
-          "title": "Risk Assessment",
-          "url": "https://metr.org/risk-assessment/",
-          "publishedAt": "Undated background; checked October 18, 2026",
-          "kind": "Primary evaluator background"
-        }
-      ],
-      "section": "ai",
-      "title": "An AI safety evaluator gets a closer look inside Anthropic",
-      "body": "Anthropic says six METR employees now have internal access roughly comparable to its risk assessment teams. METR can publish assessments without Anthropic vetoing publication. The important qualification is that Anthropic can require redactions under defined categories, and determines which information falls within them. The arrangement expands outside scrutiny, but its value will depend on the evidence evaluators obtain and what reaches the public.",
-      "region": "AI frontier",
-      "image": {
-        "asset": "assets/editions/2026-10-18/anthropic-metr-access.jpg",
-        "alt": "A copper thread passes through three translucent blue doorways, a metaphor for independent evaluation access.",
-        "credit": "Editorial illustration"
-      },
-      "field": "AI",
-      "threadId": "independent-ai-evaluation",
-      "threadTitle": "Independent AI evaluation",
-      "threadSummary": "Access, publication terms, and outside scrutiny of powerful AI systems."
-    },
-    {
-      "id": "claude-curve-seeds",
-      "category": "Research",
-      "status": "Research result",
-      "eventDate": "2026-10-16",
-      "whatChanged": "A proposed, reproducible explanation now exists for the origins of several previously unexplained public constants.",
-      "whyMatters": "A result with checkable outputs offers stronger evidence of useful research than an impressive answer alone.",
-      "uncertainty": "The account comes from Anthropic. It leaves one binary-curve seed, several base points and skipped candidate curves unresolved.",
-      "watchNext": "Cryptographers’ independent reproduction and examination of the remaining selection questions.",
-      "sources": [
-        {
-          "publisher": "Anthropic",
-          "title": "Claude reveals ECDSA curve origins",
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "publishedAt": "2026-10-16",
-          "kind": "Primary research report with reproduction code"
-        }
-      ],
-      "section": "ai",
-      "title": "Claude helps explain a decades-old cryptography mystery",
-      "body": "Anthropic reports that an internal Claude research model traced several widely used elliptic-curve parameters to an old random-number generator initialized with timestamps. It published code to reproduce the recovered seeds. The result concerns how public cryptographic constants were chosen; it does not break encrypted messages or expose private keys. Some parameters and selection decisions remain unexplained, so the broader historical story is incomplete.",
-      "region": "AI frontier",
-      "image": {
-        "asset": "assets/editions/2026-10-18/claude-curve-seeds.jpg",
-        "alt": "Two intersecting blue ribbons with a copper thread, evoking a mathematical mystery being untangled.",
-        "credit": "Editorial illustration"
-      },
-      "field": "AI",
-      "threadId": "ai-and-research",
-      "threadTitle": "AI & scientific research",
-      "threadSummary": "Research results, reproducible evidence, and the limits of claims about AI capability."
+     "heading": "What comes next",
+     "paragraphs": [
+      "Saturday was a planned national day of action. The next test is whether disorder continues without one. Unions have called a nationwide strike for November 5, and the presidential election is about six months away, which raises the political cost of both a crackdown and concessions. Green leader Marine Tondelier has called for the interior minister's resignation, and the Socialist senator Patrick Kanner wants a Senate debate on how protests are policed."
+     ]
     }
-  ],
-  "watch": [
+   ],
+   "sources": [
     {
-      "title": "Black Sea defence · October 20",
-      "text": "What follows NATO’s planned discussion: identification of the drones, protection for shipping, and concrete changes to air defence."
+     "publisher": "The Local (AFP)",
+     "title": "Macron says 'nothing justifies' scenes of violence in France",
+     "url": "https://www.thelocal.fr/20261018/latest-macron-says-nothing-justifies-scenes-of-violence-in-france",
+     "publishedAt": "2026-10-18 (evening; time not displayed)",
+     "kind": "Independent reporting"
     },
     {
-      "title": "Brazil’s election · October 25",
-      "text": "Whether scrutiny of platform moderation leads to an audit, a new case, or substantiated findings before the runoff."
+     "publisher": "Associated Press via The Christian Science Monitor",
+     "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+     "url": "https://www.csmonitor.com/World/2026/1018/france-protests-arrests",
+     "publishedAt": "2026-10-18",
+     "kind": "Independent reporting"
     },
     {
-      "title": "The AI claims, tested",
-      "text": "Independent reproduction of the cryptography result, METR’s public assessments, and real-world tests of Argon."
+     "publisher": "Sortiraparis",
+     "title": "Emmanuel Macron to address the nation tonight after October 17 violence",
+     "url": "https://www.sortiraparis.com/en/news/in-paris/articles/354921-emmanuel-macron-s-address-tonight-following-the-october-17-violence",
+     "publishedAt": "2026-10-18, updated 17:46 CEST",
+     "kind": "Local reporting citing police, prosecutors and ministers"
+    },
+    {
+     "publisher": "LBC",
+     "title": "Macron set to address nation after riots rock France, as arrest toll hits 2,000",
+     "url": "https://www.lbc.co.uk/article/macron-to-address-france-after-riots-5Hjdk5f_2/",
+     "publishedAt": "2026-10-18",
+     "kind": "Reporting"
     }
-  ],
-  "realityCheck": {
-    "title": "Better quantum circuits are not a finished quantum computer",
-    "text": "Anthropic reports Claude-designed improvements across eight quantum circuit tasks. These are circuit designs and resource estimates. They do not demonstrate a new working quantum computer or establish when useful quantum advantage will arrive.",
-    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+   ],
+   "locations": [
+    {
+     "label": "Paris",
+     "lon": 2.35,
+     "lat": 48.86
+    },
+    {
+     "label": "Lyon",
+     "lon": 4.84,
+     "lat": 45.76
+    },
+    {
+     "label": "Marseille",
+     "lon": 5.37,
+     "lat": 43.3
+    },
+    {
+     "label": "Limoges",
+     "lon": 1.26,
+     "lat": 45.83
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "France · where the violence hit",
+    "bounds": [
+     -5.5,
+     41.2,
+     10,
+     51.4
+    ],
+    "countries": [
+     "250"
+    ],
+    "labels": [
+     {
+      "label": "Bay of Biscay",
+      "lon": -3.5,
+      "lat": 45,
+      "kind": "water"
+     },
+     {
+      "label": "Mediterranean",
+      "lon": 6.5,
+      "lat": 42.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of France with Paris, Lyon, Marseille and Limoges marked as approximate reporting locations of the October 17 unrest.",
+    "caption": "France · selected cities where looting and arson were reported"
+   }
   },
-  "leadStoryId": "russia-sanctions-waiver"
+  {
+   "id": "russia-sanctions-waiver",
+   "title": "Washington eases pressure on Russia as the energy war escalates",
+   "category": "Geopolitics",
+   "region": "United States · Russia",
+   "status": "Major development",
+   "eventDate": "2026-10-16 / 2026-10-18",
+   "body": "The White House has waived nearly all of the new Russia sanctions and tariffs in the Graham Act, days before they were due to take effect. Secretary of State Marco Rubio says officials will take up to 60 days to assess the economic consequences; the order sets no automatic expiry. Lawmakers from both parties objected, and Zelenskyy called the waiver a gift to Putin. Overnight into Sunday, Ukraine launched more than 1,000 drones at Russia, setting St. Petersburg oil facilities on fire, while Russian strikes cut power in four Ukrainian regions.",
+   "whatChanged": "Measures due to take effect on October 18 are waived with no end date, while both sides are escalating attacks on each other's energy systems.",
+   "whyMatters": "Energy affordability is complicating Washington's effort to impose costs on Moscow, just as the winter fight over power and fuel intensifies.",
+   "uncertainty": "A review period is not a commitment to restore the measures. Figures on the drone attack and its damage come mainly from officials on each side.",
+   "watchNext": "Watch for a written decision on the waiver, any congressional move to block it, and further strikes on energy sites.",
+   "sources": [
+    {
+     "publisher": "The White House",
+     "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+     "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+     "publishedAt": "2026-10-16 (time not displayed)",
+     "kind": "Primary executive order"
+    },
+    {
+     "publisher": "Reuters",
+     "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+     "url": "https://www.reuters.com/world/us/rubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18/",
+     "publishedAt": "2026-10-18T03:38:00Z",
+     "kind": "Independent reporting"
+    },
+    {
+     "publisher": "Associated Press",
+     "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+     "url": "https://apnews.com/article/trump-sanctions-waiver-russa-putin-ukraine-war-3cc9740c39e9e9eb713b1c553b5709e6",
+     "publishedAt": "2026-10-17 (time not available in extracted page)",
+     "kind": "Independent reporting"
+    },
+    {
+     "publisher": "RFE/RL",
+     "title": "Trump waives Graham Act sanctions on Russia before they take effect",
+     "url": "https://www.rferl.org/a/trump-waives-graham-act-sanctions-on-russia/33878335.html",
+     "publishedAt": "2026-10-17",
+     "kind": "Independent reporting"
+    },
+    {
+     "publisher": "Associated Press via ABC News",
+     "title": "Blaze at St Petersburg oil sites as Kyiv launches more than 1,000 drones at Russia",
+     "url": "https://abcnews.com/International/wireStory/blaze-st-petersburg-oil-sites-kyiv-launches-1000-137358485",
+     "publishedAt": "2026-10-18 05:49 (zone not displayed)",
+     "kind": "Independent reporting"
+    }
+   ],
+   "section": "world",
+   "locations": [
+    {
+     "label": "Moscow",
+     "lon": 38,
+     "lat": 56
+    },
+    {
+     "label": "St. Petersburg",
+     "lon": 30.31,
+     "lat": 59.94
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Sanctions, spillover risks, and the wider consequences of the war in Ukraine.",
+   "visual": {
+    "type": "map",
+    "title": "Russia, Ukraine & the energy war",
+    "bounds": [
+     14,
+     40,
+     62,
+     64
+    ],
+    "countries": [
+     "804",
+     "643"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.2,
+      "kind": "water"
+     },
+     {
+      "label": "Baltic Sea",
+      "lon": 19.5,
+      "lat": 57.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "A regional map highlighting Ukraine and western Russia, marking St. Petersburg, Moscow and Kyiv as approximate reporting locations. Washington is outside the map.",
+    "caption": "Ukraine and Russia · approximate reporting locations"
+   },
+   "keyFacts": [
+    "The Graham Act allowed tariffs of up to 100% on major buyers of Russian oil and gas",
+    "The waiver was signed late on October 16, with no expiry date",
+    "Russia says it downed 1,015 Ukrainian drones over 15 regions, Crimea and the Black Sea",
+    "Kyiv counts 76 Russian attacks on its energy sector since the October 11 'energy ceasefire'"
+   ],
+   "report": [
+    {
+     "heading": "The waiver",
+     "paragraphs": [
+      "The Lindsey O. Graham Sanctioning Russia and Iran Act, signed in September and named for the late senator, authorized tariffs of up to 100% on major buyers of Russian oil and gas, including China and India, along with sanctions on Russian officials, financial institutions and the so-called shadow fleet of tankers. The package was due to take effect on October 18.",
+      "Late on October 16, President Trump signed an executive order waiving nearly all of its substantive measures, certifying that withholding them was in the national interest. The order sets no automatic expiry and preserves specified earlier sanctions. Rubio said the administration would take up to 60 days to weigh the economic consequences. The move follows a separate decision to allow purchases of Russian diesel as fuel prices rise."
+     ]
+    },
+    {
+     "heading": "The reaction",
+     "paragraphs": [
+      "Lawmakers from both parties objected. Democratic senator Richard Blumenthal, a co-author of the law, accused the president of siding with Putin, and Republican congressman Don Bacon said the decision prolonged the war. With Congress in recess until after Election Day, no quick counter-move is expected. Zelenskyy said the reversal came at a moment when pressure was needed."
+     ]
+    },
+    {
+     "heading": "The energy war",
+     "paragraphs": [
+      "Overnight into Sunday, Ukraine launched what Russia's defense ministry described as 1,015 drones over 15 regions, Crimea and the Black Sea, one of the largest aerial attacks of the war. Fires broke out at the Petersburg Oil Terminal and the city's Ruchi oil depot, and a logistics center of the retailer Ozon and a VK data center were also targeted, both companies confirmed. St. Petersburg's governor reported one person killed and five wounded.",
+      "Russia kept up its own strikes on Ukraine's energy system. Zelenskyy said attacks on four regions overnight left tens of thousands of families without power, and counted 76 Russian attacks on Ukraine's energy, oil and gas sectors since Trump announced an 'energy ceasefire' on October 11. Ukraine paused strikes on Russian oil for three days before resuming them on Thursday; Trump has criticized those strikes and demanded that both sides stop targeting energy."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gulf-oil-prices",
+   "threadId": "gulf-conflict",
+   "threadTitle": "Iran war and the Gulf",
+   "threadSummary": "The US–Iran war, the Saudi–Houthi front and their effect on shipping and oil.",
+   "section": "world",
+   "title": "Oil nears $110 as the Saudi–Houthi war widens",
+   "category": "Energy & conflict",
+   "region": "Middle East · Gulf",
+   "status": "Meaningful update",
+   "eventDate": "2026-10-16 / 2026-10-18",
+   "body": "Brent crude settled at $109.86 a barrel on Friday, up 3.7% and its highest since May, as Houthi missiles and drones kept targeting Saudi Arabia. The Saudi-led coalition reports intercepting drones over Riyadh, the Eastern Province and the south, and a ballistic missile aimed at Yanbu. Riyadh's main airport remains closed after an October 10 strike killed at least 12 people. In the Strait of Hormuz, accounts conflict: Iran's Revolutionary Guards say it is closed, while cargo data show crude flows recovering.",
+   "whatChanged": "A second front is now driving oil markets: sustained Houthi attacks on Saudi Arabia, on top of the contested Strait of Hormuz.",
+   "whyMatters": "Crude is up more than 75% this year, feeding fuel costs that are shaping politics from Washington to Paris.",
+   "uncertainty": "Iran's claims about mines and tanker fires in Hormuz are disputed. Whether the United States joins strikes on the Houthis is undecided.",
+   "watchNext": "Watch for a US decision on joining Saudi strikes, whether Riyadh's airport reopens, and the oil market's Monday open.",
+   "keyFacts": [
+    "Brent settled at $109.86 on October 16, up 3.7% and the highest since May",
+    "Crude is up more than 75% in 2026",
+    "Eurasia Group raised its odds of an intensified conflict to 65% from 35%",
+    "Washington offered up to 17 million barrels from the Strategic Petroleum Reserve"
+   ],
+   "report": [
+    {
+     "heading": "The market",
+     "paragraphs": [
+      "Brent for December delivery rose 3.7% on Friday to settle at $109.86 a barrel, touching $110 for the first time since May and posting a second straight weekly gain. US crude added 3.5% to $101.41. Traders pointed to Houthi strikes on Saudi Arabia, attacks on energy infrastructure in Russia and Ukraine, and the continued exclusion of Russian diesel from global markets. Eurasia Group raised its estimate of the odds of an intensified conflict to 65% from 35%, and Washington offered up to 17 million barrels from the Strategic Petroleum Reserve."
+     ]
+    },
+    {
+     "heading": "The Saudi front",
+     "paragraphs": [
+      "A Houthi strike on Riyadh's King Khalid International Airport on October 10 killed at least 12 people, including an American. Since then the Saudi-led coalition has reported repeated interceptions of drones and missiles aimed at Riyadh, the Eastern Province, the south and the Red Sea port of Yanbu, and says it has destroyed launchers firing at the kingdom. The airport remains closed, and Air India has suspended flights to Jeddah, Riyadh and Dammam until October 24.",
+      "President Trump has said the United States may join Saudi Arabia's fight against the Houthis. Egypt's President Sisi said Egypt would defend Saudi Arabia if asked, a step that would need parliamentary approval. Iran denies involvement in the Houthi attacks and has offered to mediate."
+     ]
+    },
+    {
+     "heading": "The wider war",
+     "paragraphs": [
+      "The US–Iran war began in late February. A ceasefire collapsed in July, and talks have stalled since Tehran called the latest US response insufficient. Iran's Revolutionary Guards say the Strait of Hormuz is closed and that tankers have caught fire after hitting mines; US officials say an escorted southern route is open, and cargo data show more than 100 million barrels of crude transiting last week. Trump has said the United States will not attack Iran before the November 3 midterm elections."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Rigzone (Bloomberg)",
+     "title": "Brent oil hits $110 as supply risks mount",
+     "url": "https://www.rigzone.com/news/wire/brent_oil_hits_110_as_supply_risks_mount-16-oct-2026-184870-article/",
+     "publishedAt": "2026-10-16",
+     "kind": "Market reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "Saudi Arabia intercepts Houthi drones amid rising Middle East tensions",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-lifts-russia-energy-sanctions-saudi-arabia-intercepts-missiles-1.500713832",
+     "publishedAt": "2026-10-18 06:52 (zone not displayed)",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "Iran calls U.S. response \"insufficient\" amid stalled talks to end the war",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/",
+     "publishedAt": "2026-10-11 15:07 EDT",
+     "kind": "Live reporting"
+    }
+   ],
+   "locations": [
+    {
+     "label": "Riyadh",
+     "lon": 46.68,
+     "lat": 24.71
+    },
+    {
+     "label": "Yanbu",
+     "lon": 38.06,
+     "lat": 24.09
+    },
+    {
+     "label": "Strait of Hormuz",
+     "lon": 56.25,
+     "lat": 26.57,
+     "mapLabel": "Hormuz"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Saudi Arabia, Yemen & the Gulf",
+    "bounds": [
+     32,
+     11,
+     62,
+     33
+    ],
+    "countries": [
+     "682",
+     "887"
+    ],
+    "labels": [
+     {
+      "label": "Iran",
+      "lon": 55,
+      "lat": 31
+     },
+     {
+      "label": "Yemen",
+      "lon": 47.5,
+      "lat": 15.3
+     },
+     {
+      "label": "Red Sea",
+      "lon": 38.3,
+      "lat": 19.5,
+      "kind": "water"
+     },
+     {
+      "label": "Arabian Sea",
+      "lon": 59,
+      "lat": 15,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map highlighting Saudi Arabia and Yemen, with Iran labeled, marking Riyadh, the port of Yanbu and the Strait of Hormuz as approximate reporting locations.",
+    "caption": "Saudi Arabia and Yemen · approximate reporting locations"
+   }
+  },
+  {
+   "id": "kenya-ebola",
+   "threadId": "ebola-east-africa",
+   "threadTitle": "Ebola in East Africa",
+   "threadSummary": "A Bundibugyo-strain outbreak in Congo, with no approved vaccine, and its spread to Kenya.",
+   "section": "world",
+   "title": "Ebola is spreading inside Kenya for the first time",
+   "category": "Health",
+   "region": "Africa · Kenya",
+   "status": "Major development",
+   "eventDate": "2026-10-17",
+   "body": "Kenya has confirmed four more Ebola cases, bringing its total to seven. Three are health workers who treated the country's first patient and one is linked to him, making these the first infections passed on inside Kenya. The first patient, a 40-year-old Kenyan man, had been ill in the Democratic Republic of Congo for about a month before flying to Nairobi; he died on October 5. Officials say 128 of his 130 known contacts are in quarantine and there is no evidence of community spread.",
+   "whatChanged": "Kenya has moved from one imported case to local transmission, including among the health workers caring for patients.",
+   "whyMatters": "Infections among clinicians are an early warning about hospital infection control in a regional travel hub, against a strain with no vaccine.",
+   "uncertainty": "Seven cases is a small cluster. Whether it is contained depends on contact tracing that cannot yet be independently assessed.",
+   "watchNext": "Watch for any case outside the known contact list, which would signal community spread.",
+   "keyFacts": [
+    "Seven confirmed cases in Kenya, all linked to one imported case",
+    "128 of about 130 known contacts are quarantined; two are being traced",
+    "Congo's outbreak has killed at least 4,300 people since May",
+    "The Bundibugyo strain has no approved vaccine or treatment"
+   ],
+   "report": [
+    {
+     "heading": "The cluster",
+     "paragraphs": [
+      "Kenya's health ministry announced on October 17 that four more people had tested positive: three health workers who cared for the country's first confirmed patient and a person linked to him who tested positive while in quarantine. The four new patients are isolated and receiving care; two other patients are in stable condition, the ministry says.",
+      "The first patient, a 40-year-old Kenyan man, had been ill for about a month in the Democratic Republic of Congo before flying to Nairobi on October 3. He died on October 5. Some observers have asked how he passed screening on arrival."
+     ]
+    },
+    {
+     "heading": "Containment",
+     "paragraphs": [
+      "Officials say 128 of the first patient's roughly 130 contacts, about 98.5%, are in quarantine, above the 85% global benchmark, with the remaining two being traced. The ministry says there is no evidence of community spread. Kenya has strengthened screening and set up an emergency hotline for anyone who may have had contact with a patient or develops symptoms.",
+      "Infections among health workers are a recognized warning sign in Ebola outbreaks, because clinicians care for patients when they are most infectious and can in turn expose colleagues and other patients."
+     ]
+    },
+    {
+     "heading": "The regional outbreak",
+     "paragraphs": [
+      "Kenya's cases are linked to the outbreak in Congo, which was detected in May and has recorded more than 9,000 cases and at least 4,300 deaths. The dominant strain is Bundibugyo, for which there is no approved vaccine or treatment; several candidate vaccines are in early human trials."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+     "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven",
+     "publishedAt": "2026-10-17",
+     "kind": "Independent reporting citing the Health Ministry"
+    },
+    {
+     "publisher": "Associated Press via ABC News",
+     "title": "Kenya's Ebola cases rise to 7, including health workers who cared for the first patient",
+     "url": "https://abcnews.com/Health/wireStory/kenyas-ebola-cases-rise-7-including-health-workers-137348256",
+     "publishedAt": "2026-10-17",
+     "kind": "Independent reporting"
+    }
+   ],
+   "locations": [
+    {
+     "label": "Nairobi",
+     "lon": 36.82,
+     "lat": -1.29
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Kenya & DR Congo",
+    "bounds": [
+     11,
+     -13,
+     48,
+     7
+    ],
+    "countries": [
+     "404"
+    ],
+    "labels": [
+     {
+      "label": "DR Congo",
+      "lon": 23.5,
+      "lat": -2.5
+     },
+     {
+      "label": "Tanzania",
+      "lon": 34.5,
+      "lat": -6.5
+     },
+     {
+      "label": "Indian Ocean",
+      "lon": 44,
+      "lat": -8,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of East and Central Africa highlighting Kenya, with the Democratic Republic of Congo labeled and Nairobi marked.",
+    "caption": "Kenya, with Congo to the west · Nairobi is a reporting location"
+   }
+  },
+  {
+   "id": "romania-drone-interception",
+   "title": "Romania shoots down drones over its waters",
+   "category": "Security",
+   "region": "Europe · Black Sea",
+   "status": "Meaningful update",
+   "eventDate": "2026-10-17",
+   "body": "Romania says two F-16s destroyed drones after they entered its airspace over territorial waters on Saturday. The defence ministry published the interception timeline. On Sunday, the defence minister said they were probably Russian-made; that identification remains an assessment. Reuters reports that NATO's North Atlantic Council will discuss Black Sea defence on Tuesday. Recent attacks on commercial ships near Romania add a second concern: protecting a trading route alongside NATO territory.",
+   "whatChanged": "Two further incursions ended in interceptions, with Black Sea defence heading to NATO discussions.",
+   "whyMatters": "Repeated incidents create risks for civilian shipping and increase the chance of escalation at NATO's border.",
+   "uncertainty": "The drones' origin and intended targets were not conclusively established in the official release.",
+   "watchNext": "Watch for forensic identification and concrete measures following Tuesday's NATO meeting.",
+   "sources": [
+    {
+     "publisher": "Romanian Ministry of National Defence",
+     "title": "Press Release No. 213, 17.10.2026",
+     "url": "https://english.mapn.ro/cpresa/6888_press-release",
+     "publishedAt": "2026-10-17 (time not displayed)",
+     "kind": "Primary ministry account"
+    },
+    {
+     "publisher": "Reuters",
+     "title": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters",
+     "url": "https://www.reuters.com/world/romanian-f-16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-2026-10-18/",
+     "publishedAt": "2026-10-18T13:59:00Z",
+     "kind": "Independent reporting using official accounts"
+    }
+   ],
+   "section": "world",
+   "locations": [
+    {
+     "label": "Romanian Black Sea coast",
+     "lon": 29,
+     "lat": 44,
+     "mapLabel": "Romanian coast"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Sanctions, spillover risks, and the wider consequences of the war in Ukraine.",
+   "visual": {
+    "type": "map",
+    "title": "Romania & the Black Sea",
+    "bounds": [
+     18,
+     38,
+     44,
+     52
+    ],
+    "countries": [
+     "642"
+    ],
+    "labels": [
+     {
+      "label": "Romania",
+      "lon": 24.4,
+      "lat": 46.1
+     },
+     {
+      "label": "Ukraine",
+      "lon": 31.5,
+      "lat": 49
+     },
+     {
+      "label": "Bulgaria",
+      "lon": 24.6,
+      "lat": 42
+     },
+     {
+      "label": "Türkiye",
+      "lon": 34,
+      "lat": 39.5
+     },
+     {
+      "label": "Black Sea",
+      "lon": 35,
+      "lat": 42.4,
+      "kind": "water"
+     }
+    ],
+    "alt": "A regional map highlighting Romania beside the Black Sea, with Ukraine, Bulgaria, and Türkiye labeled. A marker indicates the approximate Romanian Black Sea coast, not an exact interception site.",
+    "caption": "Romania and its Black Sea neighbors · approximate coastal location"
+   },
+   "keyFacts": [
+    "Two F-16s scrambled from the 86th Air Base at Borcea at 17:43",
+    "The drones were shot down at 18:01 and 18:05 over Romanian territorial waters",
+    "The official release does not establish their origin; the defence minister says they were probably Russian-made",
+    "NATO's North Atlantic Council is due to discuss Black Sea defence on October 20"
+   ],
+   "report": [
+    {
+     "heading": "The interception",
+     "paragraphs": [
+      "Two Romanian F-16s on air-policing duty took off from the 86th Air Base at Borcea at 17:43 on Saturday after radar picked up a group of aerial targets about 120 kilometres east of Snake Island, heading southwest. The first drone entered Romanian airspace at 17:59 and was shot down at 18:01. The second entered at 18:01 and was destroyed at 18:05. Both came down over Romanian territorial waters, according to the defence ministry's account."
+     ]
+    },
+    {
+     "heading": "What is known about the drones",
+     "paragraphs": [
+      "The ministry's release identified the targets as drones but did not say where they came from or how many were in the original group, and promised more information once the mission was complete. On Sunday, the defence minister said they were probably Russian-made. That is an assessment, not a published forensic finding. The interceptions follow earlier incursions along Romania's frontier with Ukraine."
+     ]
+    },
+    {
+     "heading": "Why NATO is involved",
+     "paragraphs": [
+      "Reuters reports that NATO's North Atlantic Council will discuss Black Sea defence on Tuesday. The incidents add to concern about commercial shipping: recent attacks on vessels near Romania raise the question of how to protect a trading route that runs alongside NATO territory."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "china-solar-export-proposal",
+   "title": "China moves to control more clean-energy know-how",
+   "category": "Energy & technology",
+   "region": "Asia · China",
+   "status": "Meaningful update",
+   "eventDate": "2026-10-16",
+   "body": "China has proposed adding 12 solar-manufacturing technologies to its export-control catalogue, within a wider package covering AI and biotechnology. Some transfers would be prohibited; others would require restrictions or licensing. A temporary registration requirement already applies while consultation proceeds. The ministry says the controls concern specified technology, with products manufactured using it outside the general scope. The final rules are still unsettled, and the public consultation closes on November 15.",
+   "whatChanged": "Beijing has moved from discussion to a published proposal and interim registration for covered technology transfers.",
+   "whyMatters": "Control over manufacturing knowledge could complicate efforts to build advanced solar production elsewhere.",
+   "uncertainty": "The final scope and practical effect depend on the adopted rules and their implementation.",
+   "watchNext": "Watch the November 15 consultation deadline and companies' responses.",
+   "sources": [
+    {
+     "publisher": "China Ministry of Commerce",
+     "title": "MOFCOM spokesperson answers questions on revising the Catalogue of Technologies Prohibited or Restricted from Export",
+     "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html",
+     "publishedAt": "2026-10-16 16:00 (as displayed on Chinese ministry site)",
+     "kind": "Primary policy explanation, Chinese"
+    },
+    {
+     "publisher": "Reuters",
+     "title": "China proposes export controls on solar-manufacturing technologies",
+     "url": "https://www.reuters.com/business/autos-transportation/china-proposes-export-controls-solar-manufacturing-technologies-2026-10-18/",
+     "publishedAt": "2026-10-18T06:22:00Z",
+     "kind": "Independent reporting"
+    }
+   ],
+   "section": "world",
+   "locations": [
+    {
+     "label": "Beijing",
+     "lon": 116,
+     "lat": 40
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-18/china-solar-export-proposal.jpg",
+    "alt": "A geometric row of blue solar panels receding toward a copper sun.",
+    "credit": "Editorial illustration"
+   },
+   "threadId": "clean-energy-supply-chains",
+   "threadTitle": "Clean-energy supply chains",
+   "threadSummary": "How controls on manufacturing knowledge shape access to solar technology.",
+   "keyFacts": [
+    "40 technologies listed: 23 in AI, 5 in biotechnology and 12 in solar manufacturing",
+    "14 are proposed as prohibited and 26 as restricted",
+    "Products made with the listed technologies are not covered",
+    "Exporters must register listed technologies before any transfer while the rules are finalized"
+   ],
+   "report": [
+    {
+     "heading": "The proposal",
+     "paragraphs": [
+      "On October 16, China's commerce and science ministries published a proposed revision of the country's catalogue of technologies prohibited or restricted from export. It covers 40 technologies: 23 in artificial intelligence, five in biotechnology and 12 in solar manufacturing, spanning polysilicon, wafers and cells. Fourteen would be prohibited and 26 restricted.",
+      "Among the solar items, production technology for perovskite and perovskite-tandem cell modules would be prohibited, while polysilicon engineering for plants with a single-line capacity of at least 30,000 tonnes a year would be restricted."
+     ]
+    },
+    {
+     "heading": "What it covers, and what it doesn't",
+     "paragraphs": [
+      "The controls apply to transfers of the technology itself: selling or licensing it abroad, or handing ownership or control of it to a foreign entity. Products made with the technology are outside the scope, as is most equipment, except key machines that embody controlled know-how. Technologies below the control thresholds can still be exported freely.",
+      "Until the revised catalogue takes effect, exporters must register listed technologies with the commerce ministry before any transfer, including deals already under way. The ministry says the revision is routine, is not aimed at any country, and responds to the growing use of solar technology in aerospace, defense and security-critical infrastructure. Reuters reports that public consultation runs until November 15."
+     ]
+    },
+    {
+     "heading": "Why it matters",
+     "paragraphs": [
+      "China dominates global solar manufacturing, and its engineers and equipment have been central to efforts to build factories elsewhere. Restricting the export of the newest manufacturing know-how could slow those efforts even if finished panels keep flowing. The practical effect will depend on the final thresholds and on how strictly registration and licensing are applied."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "brazil-meta-election-scrutiny",
+   "title": "Brazil presses Meta over election-era restrictions",
+   "category": "Democracy & technology",
+   "region": "South America · Brazil",
+   "status": "Meaningful update",
+   "eventDate": "2026-10-16 / 2026-10-17",
+   "body": "Brazil's Justice Ministry has asked prosecutors and the data-protection authority to consider action over Meta's content restrictions and transparency, UOL reports. The request follows an electoral court order requiring equal treatment of presidential candidates before the October 25 runoff. Meta denies political bias and says technical problems explain incidents cited against it. The latest step is a request for further action, not a finding that the company deliberately interfered in the vote.",
+   "whatChanged": "Scrutiny has expanded from the candidates' electoral dispute to a ministry request for broader oversight.",
+   "whyMatters": "Opaque distribution and moderation systems can affect the information voters encounter.",
+   "uncertainty": "Technical failures and unequal effects do not by themselves prove partisan intent or establish an electoral impact.",
+   "watchNext": "Watch whether prosecutors file the proposed case and whether regulators require an audit.",
+   "sources": [
+    {
+     "publisher": "UOL",
+     "title": "Ministério da Justiça aciona MPF e sugere ação contra a Meta por bloqueios",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/10/17/ministerio-da-justica-aciona-mpf-e-sugere-acao-contra-a-meta-por-bloqueios.ghtm",
+     "publishedAt": "2026-10-17 19h25 (as displayed; no explicit zone in extracted page)",
+     "kind": "Independent local reporting, Portuguese"
+    },
+    {
+     "publisher": "Associated Press",
+     "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
+     "url": "https://apnews.com/article/brazil-meta-political-bias-denial-lula-bolsonaro-954d26ac1eed94acd62c8156e7aa55d9",
+     "publishedAt": "2026-10-16 (Friday event; syndicated AP copy timestamp 18:39 EDT)",
+     "kind": "Independent reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+     "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off",
+     "publishedAt": "2026-10-16",
+     "kind": "Independent reporting on published polls"
+    }
+   ],
+   "section": "world",
+   "locations": [
+    {
+     "label": "Brasília",
+     "lon": -48,
+     "lat": -16
+    }
+   ],
+   "threadId": "platforms-and-elections",
+   "threadTitle": "Platforms & elections",
+   "threadSummary": "How distribution and moderation systems are scrutinized during Brazil’s election.",
+   "visual": {
+    "type": "map",
+    "title": "Brazil · election oversight",
+    "bounds": [
+     -83,
+     -37,
+     -28,
+     12
+    ],
+    "countries": [
+     "076"
+    ],
+    "labels": [
+     {
+      "label": "Brazil",
+      "lon": -53,
+      "lat": -7
+     },
+     {
+      "label": "Peru",
+      "lon": -75,
+      "lat": -10
+     },
+     {
+      "label": "Bolivia",
+      "lon": -65,
+      "lat": -17
+     },
+     {
+      "label": "Argentina",
+      "lon": -66,
+      "lat": -32
+     },
+     {
+      "label": "South Atlantic",
+      "lon": -32,
+      "lat": -28,
+      "kind": "water"
+     }
+    ],
+    "alt": "A South American overview highlighting Brazil and marking the approximate location of Brasília. Neighboring countries and the South Atlantic are labeled.",
+    "caption": "Brazil · Brasília is a reporting location"
+   },
+   "keyFacts": [
+    "The presidential runoff is on October 25",
+    "The Justice Ministry referred Meta's restrictions to federal prosecutors and the data-protection authority",
+    "Meta denies bias and says technical problems explain the incidents",
+    "The latest polls give Flávio Bolsonaro a lead of one to two points over Lula, within the margin of error"
+   ],
+   "report": [
+    {
+     "heading": "The ministry's request",
+     "paragraphs": [
+      "Brazil's Justice Ministry has asked federal prosecutors and the national data-protection authority to consider action over Meta's content restrictions and transparency, according to UOL. The request follows a ruling by the electoral court ordering equal treatment of presidential candidates on Meta's platforms before the October 25 runoff."
+     ]
+    },
+    {
+     "heading": "Meta's position",
+     "paragraphs": [
+      "Meta denies accusations of bias against President Lula's campaign and says technical problems explain the incidents cited against it. The ministry's step is a request for further action, not a finding that the company deliberately interfered in the election or that the incidents changed any votes."
+     ]
+    },
+    {
+     "heading": "The race",
+     "paragraphs": [
+      "The runoff pits Lula against Senator Flávio Bolsonaro, 42, son of former president Jair Bolsonaro, who is under house arrest and barred from office until 2030. Flávio led the October 4 first round with about 56.1 million votes to Lula's 53.9 million. The latest runoff polls give him a narrow lead: CNT/MDA 46.8% to 45.9%, Quaest 46% to 44% and Datafolha 47% to 45%, all within the margin of error. In a race that close, disputes over what voters see online carry extra weight."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sudan-hunger-continues",
+   "title": "Sudan's hunger crisis cannot wait for a new headline",
+   "category": "Humanitarian",
+   "region": "Africa · Sudan",
+   "status": "Still matters",
+   "eventDate": "Continuing crisis; source checked 2026-10-18",
+   "body": "The World Food Programme says almost 19.5 million people in Sudan face crisis levels of hunger, with some in catastrophic conditions and several areas at risk of famine. Conflict and restricted access continue to obstruct assistance. WFP says funding shortages force it to prioritize the hungriest communities; its operations reach more than four million people a month. Today's reporting in The National describes displaced families still struggling with lost homes, insecurity and inadequate support. This remains urgent without being a new daily event.",
+   "whatChanged": "This is a continuing-priority entry; no new daily change in the hunger estimate is claimed.",
+   "whyMatters": "Attention can fade while preventable hunger and displacement continue at enormous scale.",
+   "uncertainty": "The WFP overview has no displayed update date; estimates and access conditions can change.",
+   "watchNext": "Watch for new food-security assessments, funded aid commitments and sustained access to affected communities.",
+   "sources": [
+    {
+     "publisher": "World Food Programme",
+     "title": "Sudan — emergency overview",
+     "url": "https://www.wfp.org/emergencies/sudan",
+     "publishedAt": "Undated live overview; retrieved 2026-10-18",
+     "kind": "Primary humanitarian operations account"
+    },
+    {
+     "publisher": "The National",
+     "title": "Sudan's humanitarian crisis deepens as millions face displacement and aid funding shortages",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/18/sudans-humanitarian-crisis-deepens-as-millions-face-displacement-and-aid-funding-shortages/",
+     "publishedAt": "2026-10-18; updated 14:10 (zone not displayed)",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "UN News",
+     "title": "Security Council: Sudan's war spreads as drones and hunger take a deadly toll",
+     "url": "https://news.un.org/en/story/2026/10/1168612",
+     "publishedAt": "2026-10-16",
+     "kind": "Primary UN reporting"
+    }
+   ],
+   "section": "still",
+   "locations": [
+    {
+     "label": "Sudan",
+     "lon": 32,
+     "lat": 15
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-18/sudan-hunger-continues.jpg",
+    "alt": "An empty blue ceramic bowl beside a copper-colored stalk of grain, a symbolic still life about hunger.",
+    "credit": "Editorial illustration"
+   },
+   "threadId": "sudan-hunger",
+   "threadTitle": "Sudan’s hunger crisis",
+   "threadSummary": "Food insecurity, aid access, and funding during a continuing humanitarian emergency.",
+   "keyFacts": [
+    "Almost 19.5 million people face crisis-level hunger, according to WFP",
+    "Famine has been declared in one area and is threatened in 14 others",
+    "825,000 children under five are expected to suffer severe acute malnutrition in 2026",
+    "Estimates of the displaced range from about 9 million (WFP) to 14 million (The National)"
+   ],
+   "report": [
+    {
+     "heading": "The scale",
+     "paragraphs": [
+      "The World Food Programme says almost 19.5 million people in Sudan face crisis levels of hunger, some of them in catastrophic conditions. Famine has been declared in one area and is threatened in 14 others, and WFP expects 825,000 children under five to suffer severe acute malnutrition this year. WFP says about 9 million people have been forced from their homes; The National, reporting on Sunday, puts the number displaced by the war at about 14 million. The figures come from different counts and are not directly comparable."
+     ]
+    },
+    {
+     "heading": "Reaching people",
+     "paragraphs": [
+      "WFP says it reaches more than 4 million people a month, including about 2 million in hard-to-reach Darfur and 825,000 in Kordofan, but that violence and severe access restrictions continue to obstruct aid and funding shortfalls force it to prioritize the hungriest communities. Disruption in the Red Sea is delaying imports and raising the cost of food, fuel and fertilizer.",
+      "At a Security Council meeting on Sudan on October 16, the UN noted that drone strikes are killing civilians from El Obeid to Blue Nile; a strike near the Ethiopian border on October 10 killed 41 displaced people."
+     ]
+    },
+    {
+     "heading": "Why it stays in the edition",
+     "paragraphs": [
+      "The war is in its fourth year without a lasting ceasefire. A humanitarian expert quoted by The National says funding for displaced people is more than 47% short and that UN agencies have cut staff who served refugees. This entry claims no new daily change in the hunger figures; it is here because a crisis of this size can fall out of view without ever easing."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gemini-argon-release",
+   "category": "Capabilities",
+   "status": "This week",
+   "eventDate": "2026-10-13",
+   "whatChanged": "Argon moved into public paid access across Google’s developer and consumer products.",
+   "whyMatters": "Wider access lets outside teams test whether long, complicated assignments become more economical.",
+   "uncertainty": "Google’s reported performance and productivity gains are company claims, not independent confirmation of results across workplaces.",
+   "watchNext": "Independent task completion, error and cost comparisons after the launch discount.",
+   "sources": [
+    {
+     "publisher": "Google",
+     "title": "Gemini 4 Argon: Built to solve your hardest problems",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+     "publishedAt": "2026-10-13",
+     "kind": "Primary company announcement"
+    }
+   ],
+   "section": "ai",
+   "title": "Google puts its new frontier model into developers’ hands",
+   "body": "Google released Gemini 4 Argon through its paid API and selected subscriptions on October 13. The company reports stronger performance on complex coding and professional tasks, and points to software changes made with the model. Availability is a concrete change; claims of broad productivity gains still need testing outside Google’s selected examples. Introductory API pricing ends November 30, so the launch price should not be mistaken for the permanent cost.",
+   "region": "AI frontier",
+   "image": {
+    "asset": "assets/editions/2026-10-18/gemini-argon-release.jpg",
+    "alt": "A faceted blue sphere opens around a copper core, symbolizing access to a new AI model.",
+    "credit": "Editorial illustration"
+   },
+   "field": "AI",
+   "threadId": "frontier-models",
+   "threadTitle": "Frontier model releases",
+   "threadSummary": "What becomes available, what companies claim, and what independent testing can establish.",
+   "keyFacts": [
+    "Released October 13 through Google's paid API, AI Studio and selected subscriptions",
+    "Introductory price of $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 after November 30",
+    "Google reports more than 35% more AI-assisted code submissions internally and nearly a third fewer rollbacks",
+    "A version without cyber guardrails goes to vetted defenders in Google's Fairwind Program"
+   ],
+   "report": [
+    {
+     "heading": "What is available",
+     "paragraphs": [
+      "Google released Gemini 4 Argon on October 13. Developers and businesses can use it through the paid tier of the Gemini API and AI Studio; Google AI Pro and Ultra subscribers get it in the Gemini app and AI Mode in Search, and Ultra subscribers in the Antigravity coding tool. The model accepts up to a million tokens of combined input and output.",
+      "Introductory pricing is $2 per million input tokens and $10 per million output tokens. After November 30 it rises to $4 and $20. Google is also opening free six-month access to its highest Antigravity usage tier for up to 10,000 researchers, and extending a version without standard cyber guardrails to hundreds more vetted security partners in its Fairwind Program."
+     ]
+    },
+    {
+     "heading": "What Google claims",
+     "paragraphs": [
+      "Google says Argon ranks first on the Vals Index of finance, coding, legal and tax tasks and scores 87% on the ERQA embodied-reasoning benchmark. Internally, it reports that teams using Argon in Antigravity submitted more than 35% more AI-assisted code with nearly a third fewer rollbacks. It cites examples ranging from a Chrome refactoring finished in weeks to faster quantum-chemistry software and new enzyme designs confirmed in the lab.",
+      "On safety, Google says external biology red-teamers could unlock fewer than 1% of the sub-tasks they tested and that prompt-injection attack success fell to 0.7% on one benchmark."
+     ]
+    },
+    {
+     "heading": "What still needs testing",
+     "paragraphs": [
+      "Nearly all of these figures are Google's own or come from partners. The important questions now are whether outside users see similar gains on their own work, how often the model fails on long tasks, and what it costs once the launch discount ends."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anthropic-metr-access",
+   "category": "Accountability",
+   "status": "Meaningful update",
+   "eventDate": "2026-10-15",
+   "whatChanged": "The company announced an embedded evaluator team, with terms clarified on October 16.",
+   "whyMatters": "Outsiders need access to internal incidents and safeguards to assess risks that public demonstrations cannot reveal.",
+   "uncertainty": "This is an access arrangement, not a finding that Anthropic’s systems are safe. Confidentiality exceptions remain.",
+   "watchNext": "METR’s published assessments and disclosures about limitations on access or publication.",
+   "sources": [
+    {
+     "publisher": "Anthropic",
+     "title": "An update on independent evaluators",
+     "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+     "publishedAt": "2026-10-15; updated 2026-10-16",
+     "kind": "Primary company announcement"
+    },
+    {
+     "publisher": "METR",
+     "title": "Risk Assessment",
+     "url": "https://metr.org/risk-assessment/",
+     "publishedAt": "Undated background; checked October 18, 2026",
+     "kind": "Primary evaluator background"
+    }
+   ],
+   "section": "ai",
+   "title": "An AI safety evaluator gets a closer look inside Anthropic",
+   "body": "Anthropic says six METR employees now have internal access roughly comparable to its risk assessment teams. METR can publish assessments without Anthropic vetoing publication. The important qualification is that Anthropic can require redactions under defined categories, and determines which information falls within them. The arrangement expands outside scrutiny, but its value will depend on the evidence evaluators obtain and what reaches the public.",
+   "region": "AI frontier",
+   "image": {
+    "asset": "assets/editions/2026-10-18/anthropic-metr-access.jpg",
+    "alt": "A copper thread passes through three translucent blue doorways, a metaphor for independent evaluation access.",
+    "credit": "Editorial illustration"
+   },
+   "field": "AI",
+   "threadId": "independent-ai-evaluation",
+   "threadTitle": "Independent AI evaluation",
+   "threadSummary": "Access, publication terms, and outside scrutiny of powerful AI systems.",
+   "keyFacts": [
+    "Six METR staff have internal access roughly comparable to Anthropic's own risk-assessment teams",
+    "METR can publish without Anthropic's approval",
+    "Anthropic can require redactions in three categories: customer data, privileged legal information and model architecture",
+    "Anthropic decides what falls inside those categories"
+   ],
+   "report": [
+    {
+     "heading": "The arrangement",
+     "paragraphs": [
+      "Anthropic said on October 15 that six employees of METR, a nonprofit that evaluates frontier AI systems, now have what it calls employee-like access: company hardware, office space and internal tools roughly comparable to those of its own risk-assessment teams. Anthropic staff are encouraged to share information with them outside a few restricted categories, and other METR staff are walled off from the work."
+     ]
+    },
+    {
+     "heading": "What METR can publish",
+     "paragraphs": [
+      "METR will publish its own analysis of Anthropic's risk levels, incidents and practices, and Anthropic cannot block publication. It can, however, require redactions in predefined categories: customer data, attorney-client privileged information and details of model architecture. Anthropic decides what falls into those categories, though METR can say publicly what access it received."
+     ]
+    },
+    {
+     "heading": "Context and limits",
+     "paragraphs": [
+      "Anthropic describes a tiered system of outside evaluation. SecureBio is reviewing the biological and chemical weapons chapter of its August risk report, and the company says it is working toward broader partnerships with Accenture and Faculty, and is in early talks with others. The METR arrangement is the deepest tier and is voluntary. Its value will depend on what the evaluators actually find and how much of it reaches the public."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "claude-curve-seeds",
+   "category": "Research",
+   "status": "Research result",
+   "eventDate": "2026-10-16",
+   "whatChanged": "A proposed, reproducible explanation now exists for the origins of several previously unexplained public constants.",
+   "whyMatters": "A result with checkable outputs offers stronger evidence of useful research than an impressive answer alone.",
+   "uncertainty": "The account comes from Anthropic. It leaves one binary-curve seed, several base points and skipped candidate curves unresolved.",
+   "watchNext": "Cryptographers’ independent reproduction and examination of the remaining selection questions.",
+   "sources": [
+    {
+     "publisher": "Anthropic",
+     "title": "Claude reveals ECDSA curve origins",
+     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+     "publishedAt": "2026-10-16",
+     "kind": "Primary research report with reproduction code"
+    }
+   ],
+   "section": "ai",
+   "title": "Claude helps explain a decades-old cryptography mystery",
+   "body": "Anthropic reports that an internal Claude research model traced several widely used elliptic-curve parameters to an old random-number generator initialized with timestamps. It published code to reproduce the recovered seeds. The result concerns how public cryptographic constants were chosen; it does not break encrypted messages or expose private keys. Some parameters and selection decisions remain unexplained, so the broader historical story is incomplete.",
+   "region": "AI frontier",
+   "image": {
+    "asset": "assets/editions/2026-10-18/claude-curve-seeds.jpg",
+    "alt": "Two intersecting blue ribbons with a copper thread, evoking a mathematical mystery being untangled.",
+    "credit": "Editorial illustration"
+   },
+   "field": "AI",
+   "threadId": "ai-and-research",
+   "threadTitle": "AI & scientific research",
+   "threadSummary": "Research results, reproducible evidence, and the limits of claims about AI capability.",
+   "keyFacts": [
+    "Covers the NIST FIPS 186-2 curves, including P-256 and P-384, and several ANSI X9.62 example curves",
+    "The seeds came from the C library's lrand48 generator seeded with timestamps from 1997–98",
+    "Anthropic published code that regenerates the seeds",
+    "This is not a break of ECDSA; some base points and choices remain unexplained"
+   ],
+   "report": [
+    {
+     "heading": "The mystery",
+     "paragraphs": [
+      "The elliptic curves standardized by NIST in 2000, including P-256 and P-384, are generated from published seed values whose origin was never explained, which has fueled decades of speculation that they might hide a weakness. Anthropic reports that a Claude research model has traced several of those seeds, and some related ANSI example curves, to their source."
+     ]
+    },
+    {
+     "heading": "What Claude found",
+     "paragraphs": [
+      "Rather than chase the long-standing rumor that the seeds were hashed passphrases, Claude hypothesized that they came from a weak 1990s random-number generator. It noticed that the top bits of several seeds were zero, a signature of the C library's lrand48 function, and recovered the generator's hidden state, by brute force for the binary curves and with a lattice-reduction technique for the prime curves. The recovered states correspond to Unix timestamps between May 1997 and April 1998, and each one regenerates the full published seed. Anthropic has released the code."
+     ]
+    },
+    {
+     "heading": "What it does and doesn't mean",
+     "paragraphs": [
+      "Anthropic says this is not a cryptographic break: nothing here exposes keys or weakens ECDSA, and a simple, reproducible generation process makes a hidden backdoor less plausible. Questions remain. The base points of several major curves, one binary-curve seed, and the reason some viable candidates were skipped are still unexplained, and the account has not yet been independently reviewed. Anthropic is donating the long-standing bounty for the seeds, $36,864, to the Internet Security Research Group."
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": [
+  {
+   "title": "France · November 5",
+   "text": "Whether disorder continues without big marches, how towns use new powers to ban protests, and turnout for the nationwide strike."
+  },
+  {
+   "title": "Brazil’s election · October 25",
+   "text": "Whether scrutiny of platform moderation leads to an audit, a new case, or substantiated findings before the runoff."
+  },
+  {
+   "title": "The AI claims, tested",
+   "text": "Independent reproduction of the cryptography result, METR’s public assessments, and real-world tests of Argon."
+  }
+ ],
+ "realityCheck": {
+  "title": "Better quantum circuits are not a finished quantum computer",
+  "text": "Anthropic reports Claude-designed improvements across eight quantum circuit tasks. These are circuit designs and resource estimates. They do not demonstrate a new working quantum computer or establish when useful quantum advantage will arrive.",
+  "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+ },
+ "leadStoryId": "france-unrest"
 }

@@ -216,7 +216,7 @@ def updated_link(s, prefix):
     return f'<a class="corrected-tag updated-tag" href="{prefix}stories/{e(s["id"])}/#updates">Updated{" " + e(when) if when else ""}</a>'
 
 def row_tags(s, prefix):
-    tags = updated_link(s, prefix) + corrected_tag(s, prefix)
+    tags = corrected_tag(s, prefix) + updated_link(s, prefix)
     return f'<div class="updated-row">{tags}</div>' if tags else ''
 
 def updates_full(s):
@@ -254,13 +254,13 @@ def lead_story(edition):
 
 def frontier_card(s, n, prefix, lead=False):
     return f'''<article class="story-card frontier-card{' lead' if lead else ''}" id="{e(s['id'])}" data-section="frontiers">
-    {story_image(s,prefix,True)}<div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}{corrected_tag(s, prefix)}</span><span class="number">{n:02}</span></div>
+    {story_image(s,prefix,True)}<div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}</span><span class="number">{n:02}</span></div>
     <h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3>
-    <div class="frontier-hook"><span class="eyebrow">Why it matters</span><p>{e(s.get('hook',s['whyMatters']))}</p></div>{updated_tag(s,prefix)}
+    <div class="frontier-hook"><span class="eyebrow">Why it matters</span><p>{e(s.get('hook',s['whyMatters']))}</p></div>{row_tags(s,prefix)}
     <div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></div></article>'''
 
 def card(s, n, prefix, lead=False):
-    kicker = f'<div class="kicker"><span class="eyebrow">{("Top story · " if lead else "")+e(s["region"])} / {e(s["category"])}{corrected_tag(s, prefix)}</span><span class="number">{n:02}</span></div>'
+    kicker = f'<div class="kicker"><span class="eyebrow">{("Top story · " if lead else "")+e(s["region"])} / {e(s["category"])}</span><span class="number">{n:02}</span></div>'
     title = f'<h3><a href="{prefix}stories/{s["id"]}/">{e(s["title"])}</a></h3>'
     change = f'<div class="change"><p><strong>What changed</strong><br>{e(s["whatChanged"])}</p></div>'
     context = f'<div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(s["whyMatters"])}</p></div>'
@@ -269,9 +269,9 @@ def card(s, n, prefix, lead=False):
     if lead:
         return (f'<article class="story-card lead" id="{e(s["id"])}" data-section="{e(s["section"])}"><div class="lead-top">{story_image(s, prefix, True)}'
                 f'<div class="lead-copy">{kicker}{title}<p class="summary">{e(s["body"])}</p></div></div>'
-                f'<div class="lead-bottom"><div>{change}</div><div>{context}{details}{updated_tag(s, prefix)}{foot}</div></div></article>')
+                f'<div class="lead-bottom"><div>{change}</div><div>{context}{details}{row_tags(s, prefix)}{foot}</div></div></article>')
     folded = f'<details class="card-details"><summary>Why it matters, uncertainty &amp; sources</summary><div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(s["whyMatters"])}</p><p><strong>Still uncertain</strong><br>{e(s["uncertainty"])}</p><p><strong>What to watch</strong><br>{e(s["watchNext"])}</p>{source_links(s)}</div></details>'
-    return f'<article class="story-card" id="{e(s["id"])}" data-section="{e(s["section"])}">{story_image(s, prefix, True)}<div class="card-body">{kicker}{title}{change}{folded}{updated_tag(s, prefix)}{foot}</div></article>'
+    return f'<article class="story-card" id="{e(s["id"])}" data-section="{e(s["section"])}">{story_image(s, prefix, True)}<div class="card-body">{kicker}{title}{change}{folded}{row_tags(s, prefix)}{foot}</div></article>'
 
 def more_item(s, n, prefix):
     report = f'<a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a>' if s.get('report') else ''

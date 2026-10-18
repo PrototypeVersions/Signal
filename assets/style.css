@@ -158,3 +158,4 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
   .more-dek,.more-details p{font-size:15px}
 }
 .lead-bottom .change{border-top:0}
+.card-foot .card-thread{color:var(--ink);font-size:13px}.card-foot .card-thread:hover{color:var(--accent)}

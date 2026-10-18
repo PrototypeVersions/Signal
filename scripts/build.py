@@ -193,13 +193,12 @@ def frontier_card(s, n, prefix, lead=False):
     <div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></div></article>'''
 
 def card(s, n, prefix, lead=False):
-    badge = ' major' if s['status'] == 'Major development' else ''
     kicker = f'<div class="kicker"><span class="eyebrow">{("Top story · " if lead else "")+e(s["region"])} / {e(s["category"])}</span><span class="number">{n:02}</span></div>'
     title = f'<h3><a href="{prefix}stories/{s["id"]}/">{e(s["title"])}</a></h3>'
     change = f'<div class="change"><p><strong>What changed</strong><br>{e(s["whatChanged"])}</p></div>{updates_inline(s)}'
     context = f'<div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(s["whyMatters"])}</p></div>'
     details = f'<details class="card-details"><summary>Uncertainty &amp; sources</summary><div class="context"><p><strong>Still uncertain</strong><br>{e(s["uncertainty"])}</p><p><strong>What to watch</strong><br>{e(s["watchNext"])}</p>{source_links(s)}</div></details>'
-    foot = f'<div class="card-foot"><span class="badge{badge}">{e(s["status"])}</span><span class="card-links"><a class="card-thread" href="{thread_link(s,prefix)}" aria-label="Follow this story: {e(s["title"])}">Follow</a><a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a></span></div>'
+    foot = f'<div class="card-foot"><a class="card-thread" href="{thread_link(s,prefix)}" aria-label="Follow this story: {e(s["title"])}">Follow</a><a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a></div>'
     if lead:
         return (f'<article class="story-card lead" id="{e(s["id"])}" data-section="{e(s["section"])}"><div class="lead-top">{story_image(s, prefix, True)}'
                 f'<div class="lead-copy">{kicker}{title}<p class="summary">{e(s["body"])}</p></div></div>'

@@ -116,6 +116,7 @@ def validate(edition):
         assert datetime.fromisoformat(edition['updatedAt'].replace('Z', '+00:00')).tzinfo is not None, 'updatedAt needs a timezone'
         assert edition.get('updatedLabel'), 'updatedAt needs a readable updatedLabel'
     assert edition['watch'], 'Missing watch list'
+    if 'note' in edition: assert isinstance(edition['note'], str) and edition['note'].strip(), 'note must be text; omit it when there is nothing unusual to say'
     if edition.get('leadStoryId'):
         assert edition['leadStoryId'] in ids, 'Lead must reference an edition story'
         assert lead_story(edition)['section'] in ('world', 'ai', 'frontiers'), 'The lead must be a World or Frontiers story'
@@ -380,7 +381,7 @@ def home(edition, prefix='./', archived=False):
     <section class="ai-section" id="frontiers" {"hidden" if not ai_cards else ""}><span id="ai-frontier" aria-hidden="true"></span><div class="section-head"><div><div class="eyebrow">AI · Science · Medicine · Space · Energy</div><h2><em>Frontiers.</em></h2></div><p>What’s changing the future.<br>And the evidence behind it.</p></div><div class="story-grid">{ai_cards}</div></section>
     {atlas(edition,prefix)}
     <div class="below"><section><div class="eyebrow">Beyond the news cycle</div><h2><em>Still</em> matters.</h2>{still_html or '<p>No continuing-priority entry in this edition.</p>'}</section><section><div class="eyebrow">The next signals</div><h2>What we’re watching.</h2>{watch}</section></div>
-    <details class="edition-note"><summary>About this edition</summary><p>{e(edition['note'])}</p></details>
+    {f'<aside class="edition-note-box" aria-label="A note on this edition"><span class="eyebrow">A note on this edition</span><p>{e(edition["note"])}</p></aside>' if edition.get('note') else ''}
     <section class="endnote"><div class="endnote-mark" aria-hidden="true">✳</div><div><h2>You’re caught up.<br><em>Go live your day.</em></h2><p>One considered edition. A natural place to stop.</p>{signup_form('endnote')}</div><div class="endnote-actions"><button class="textlink" id="share-edition">Share this edition ↗</button><a class="textlink" href="{prefix}threads/">Follow the story threads →</a><a class="textlink" href="{prefix}archive/">Explore the archive →</a></div></section></main>'''
 
 def threads_index(threads):

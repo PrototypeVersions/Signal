@@ -194,3 +194,5 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
   .world-grid .story-card:not(.lead) .story-art img{aspect-ratio:2/1;object-fit:cover;object-position:top}
 }
 .thread-more:last-of-type{margin-bottom:70px}
+.edition-note-box{margin:40px 0 0;padding:16px 20px;border-left:2px solid var(--accent);background:var(--panel);max-width:760px}
+.edition-note-box p{margin:6px 0 0;font-size:14px;line-height:1.7;color:var(--ink)}

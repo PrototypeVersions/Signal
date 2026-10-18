@@ -3,7 +3,7 @@
   "number": 1,
   "cutoff": "2026-10-18T16:31:39Z",
   "cutoffLabel": "11:31 AM CT",
-  "opening": "Power, pressure, and the terms of progress. Washington pauses new sanctions on Russia, China draws a tighter line around manufacturing knowledge, and the AI frontier raises fresh questions about evidence and oversight.",
+  "opening": "Washington pauses new Russia-related sanctions as China proposes tighter controls on clean-energy know-how. In AI, new model access and research results sharpen the question of what outside teams can independently verify.",
   "note": "Our first edition. World reporting from October 16–18; AI developments from October 13–16. Dates and uncertainties accompany every story.",
   "stories": [
     {
@@ -54,10 +54,25 @@
           "lat": 56
         }
       ],
-      "image": {
-        "asset": "assets/editions/2026-10-18/russia-sanctions-waiver.jpg",
-        "alt": "A pale blue globe above dark ocean waves, with a fine copper rim: an illustration of a fragile global balance.",
-        "credit": "Editorial illustration"
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Sanctions, spillover risks, and the wider consequences of the war in Ukraine.",
+      "visual": {
+        "type": "map",
+        "title": "Washington · Moscow",
+        "bounds": [
+          -180,
+          -58,
+          180,
+          82
+        ],
+        "countries": [
+          "840",
+          "643"
+        ],
+        "labels": [],
+        "alt": "A world overview highlighting the United States and Russia, with approximate reporting locations at Washington and Moscow.",
+        "caption": "United States and Russia · approximate reporting locations"
       }
     },
     {
@@ -93,13 +108,55 @@
         {
           "label": "Romanian Black Sea coast",
           "lon": 29,
-          "lat": 44
+          "lat": 44,
+          "mapLabel": "Romanian coast"
         }
       ],
-      "image": {
-        "asset": "assets/editions/2026-10-18/romania-drone-interception.jpg",
-        "alt": "A blue radar dish on an imagined coastal cliff beneath a copper arc, symbolizing airspace monitoring.",
-        "credit": "Editorial illustration"
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Sanctions, spillover risks, and the wider consequences of the war in Ukraine.",
+      "visual": {
+        "type": "map",
+        "title": "Romania & the Black Sea",
+        "bounds": [
+          18,
+          38,
+          44,
+          52
+        ],
+        "countries": [
+          "642"
+        ],
+        "labels": [
+          {
+            "label": "Romania",
+            "lon": 24.4,
+            "lat": 46.1
+          },
+          {
+            "label": "Ukraine",
+            "lon": 31.5,
+            "lat": 49
+          },
+          {
+            "label": "Bulgaria",
+            "lon": 24.6,
+            "lat": 42
+          },
+          {
+            "label": "Türkiye",
+            "lon": 34,
+            "lat": 39.5
+          },
+          {
+            "label": "Black Sea",
+            "lon": 35,
+            "lat": 42.4,
+            "kind": "water"
+          }
+        ],
+        "alt": "A regional map highlighting Romania beside the Black Sea, with Ukraine, Bulgaria, and Türkiye labeled. A marker indicates the approximate Romanian Black Sea coast, not an exact interception site.",
+        "caption": "Romania and its Black Sea neighbors · approximate coastal location"
       }
     },
     {
@@ -142,7 +199,10 @@
         "asset": "assets/editions/2026-10-18/china-solar-export-proposal.jpg",
         "alt": "A geometric row of blue solar panels receding toward a copper sun.",
         "credit": "Editorial illustration"
-      }
+      },
+      "threadId": "clean-energy-supply-chains",
+      "threadTitle": "Clean-energy supply chains",
+      "threadSummary": "How controls on manufacturing knowledge shape access to solar technology."
     },
     {
       "id": "imf-debt-development-gap",
@@ -187,10 +247,27 @@
           "lat": 14
         }
       ],
-      "image": {
-        "asset": "assets/editions/2026-10-18/imf-debt-development-gap.jpg",
-        "alt": "An uneven balance holding blue and copper spheres and stone blocks, a metaphor for economic burdens.",
-        "credit": "Editorial illustration"
+      "threadId": "debt-and-development",
+      "threadTitle": "Debt & development",
+      "threadSummary": "The room governments have to fund public services when debt and borrowing costs rise.",
+      "visual": {
+        "type": "bars",
+        "title": "A larger claim on public budgets",
+        "measure": "Low-income countries · debt repayments as a share of government revenue",
+        "unit": "%",
+        "values": [
+          {
+            "label": "Earlier reference",
+            "value": 8
+          },
+          {
+            "label": "Reported estimate",
+            "value": 14
+          }
+        ],
+        "sourceUrl": "https://www.thaipbsworld.com/world/571206",
+        "alt": "Two bars show debt repayments as a share of government revenue in low-income countries: an earlier reference of 8 percent and a reported estimate of 14 percent. The source does not specify the baseline year.",
+        "caption": "Debt repayments as a share of government revenue in low-income countries. AFP reports the IMF chief’s comparison, from 8% to 14% in recent years; the baseline year is not specified."
       }
     },
     {
@@ -229,10 +306,51 @@
           "lat": -16
         }
       ],
-      "image": {
-        "asset": "assets/editions/2026-10-18/brazil-meta-election-scrutiny.jpg",
-        "alt": "A copper thread passes through glass panes around a dark obstruction, representing scrutiny of information flow.",
-        "credit": "Editorial illustration"
+      "threadId": "platforms-and-elections",
+      "threadTitle": "Platforms & elections",
+      "threadSummary": "How distribution and moderation systems are scrutinized during Brazil’s election.",
+      "visual": {
+        "type": "map",
+        "title": "Brazil · election oversight",
+        "bounds": [
+          -83,
+          -37,
+          -28,
+          12
+        ],
+        "countries": [
+          "076"
+        ],
+        "labels": [
+          {
+            "label": "Brazil",
+            "lon": -53,
+            "lat": -7
+          },
+          {
+            "label": "Peru",
+            "lon": -75,
+            "lat": -10
+          },
+          {
+            "label": "Bolivia",
+            "lon": -65,
+            "lat": -17
+          },
+          {
+            "label": "Argentina",
+            "lon": -66,
+            "lat": -32
+          },
+          {
+            "label": "South Atlantic",
+            "lon": -37,
+            "lat": -24,
+            "kind": "water"
+          }
+        ],
+        "alt": "A South American overview highlighting Brazil and marking the approximate location of Brasília. Neighboring countries and the South Atlantic are labeled.",
+        "caption": "Brazil · Brasília is a reporting location"
       }
     },
     {
@@ -275,7 +393,10 @@
         "asset": "assets/editions/2026-10-18/sudan-hunger-continues.jpg",
         "alt": "An empty blue ceramic bowl beside a copper-colored stalk of grain, a symbolic still life about hunger.",
         "credit": "Editorial illustration"
-      }
+      },
+      "threadId": "sudan-hunger",
+      "threadTitle": "Sudan’s hunger crisis",
+      "threadSummary": "Food insecurity, aid access, and funding during a continuing humanitarian emergency."
     },
     {
       "id": "gemini-argon-release",
@@ -304,7 +425,10 @@
         "alt": "A faceted blue sphere opens around a copper core, symbolizing access to a new AI model.",
         "credit": "Editorial illustration"
       },
-      "field": "AI"
+      "field": "AI",
+      "threadId": "frontier-models",
+      "threadTitle": "Frontier model releases",
+      "threadSummary": "What becomes available, what companies claim, and what independent testing can establish."
     },
     {
       "id": "anthropic-metr-access",
@@ -340,7 +464,10 @@
         "alt": "A copper thread passes through three translucent blue doorways, a metaphor for independent evaluation access.",
         "credit": "Editorial illustration"
       },
-      "field": "AI"
+      "field": "AI",
+      "threadId": "independent-ai-evaluation",
+      "threadTitle": "Independent AI evaluation",
+      "threadSummary": "Access, publication terms, and outside scrutiny of powerful AI systems."
     },
     {
       "id": "claude-curve-seeds",
@@ -369,7 +496,10 @@
         "alt": "Two intersecting blue ribbons with a copper thread, evoking a mathematical mystery being untangled.",
         "credit": "Editorial illustration"
       },
-      "field": "AI"
+      "field": "AI",
+      "threadId": "ai-and-research",
+      "threadTitle": "AI & scientific research",
+      "threadSummary": "Research results, reproducible evidence, and the limits of claims about AI capability."
     }
   ],
   "watch": [
@@ -390,13 +520,6 @@
     "title": "Better quantum circuits are not a finished quantum computer",
     "text": "Anthropic reports Claude-designed improvements across eight quantum circuit tasks. These are circuit designs and resource estimates. They do not demonstrate a new working quantum computer or establish when useful quantum advantage will arrive.",
     "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
-  },
-  "cover": {
-    "storyId": "russia-sanctions-waiver",
-    "asset": "assets/editions/2026-10-18/russia-sanctions-waiver.jpg",
-    "alt": "A pale blue globe above dark ocean waves, with a fine copper rim: an illustration of a fragile global balance.",
-    "credit": "Editorial illustration",
-    "caption": "A fragile global balance"
   },
   "leadStoryId": "russia-sanctions-waiver"
 }

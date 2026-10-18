@@ -75,7 +75,7 @@
     $('#atlas-region').textContent=story.region;
     $('#atlas-title').textContent=story.title;
     $('#atlas-change').textContent=story.whatChanged;
-    $('.atlas-read').href=prefix+'stories/'+story.id+'/';
+    $('.atlas-read').href=prefix+'threads/'+(story.threadId||story.id)+'/';
   }
   pins.forEach(pin=>pin.addEventListener('click',event=>{event.preventDefault();selectLocation(pin.dataset.atlasId);}));
   if(pins.length)selectLocation(pins[0].dataset.atlasId);

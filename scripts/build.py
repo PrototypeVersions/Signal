@@ -199,6 +199,16 @@ def updates_inline(s):
     if not ups: return ''
     return '<div class="story-updates">' + ''.join(f'<p><strong>{e(update_label(u))}</strong> {e(u["text"])}</p>' for u in ups) + '</div>'
 
+def update_time(u):
+    label = update_label(u)
+    return label.split('·', 1)[1].strip() if '·' in label else ''
+
+def updated_tag(s, prefix):
+    ups = s.get('updates', [])
+    if not ups: return ''
+    when = update_time(ups[-1])
+    return f'<a class="corrected-tag updated-tag" href="{prefix}stories/{e(s["id"])}/#updates">Updated{" " + e(when) if when else ""}</a>'
+
 def updates_full(s):
     ups = s.get('updates', [])
     if not ups: return ''
@@ -234,15 +244,15 @@ def lead_story(edition):
 
 def frontier_card(s, n, prefix, lead=False):
     return f'''<article class="story-card frontier-card{' lead' if lead else ''}" id="{e(s['id'])}" data-section="frontiers">
-    {story_image(s,prefix,True)}<div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}{corrected_tag(s, prefix)}</span><span class="number">{n:02}</span></div>
+    {story_image(s,prefix,True)}<div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}{updated_tag(s, prefix)}{corrected_tag(s, prefix)}</span><span class="number">{n:02}</span></div>
     <h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3>
-    <div class="frontier-hook"><span class="eyebrow">Why it matters</span><p>{e(s.get('hook',s['whyMatters']))}</p></div>{updates_inline(s)}
+    <div class="frontier-hook"><span class="eyebrow">Why it matters</span><p>{e(s.get('hook',s['whyMatters']))}</p></div>
     <div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></div></article>'''
 
 def card(s, n, prefix, lead=False):
-    kicker = f'<div class="kicker"><span class="eyebrow">{("Top story · " if lead else "")+e(s["region"])} / {e(s["category"])}{corrected_tag(s, prefix)}</span><span class="number">{n:02}</span></div>'
+    kicker = f'<div class="kicker"><span class="eyebrow">{("Top story · " if lead else "")+e(s["region"])} / {e(s["category"])}{updated_tag(s, prefix)}{corrected_tag(s, prefix)}</span><span class="number">{n:02}</span></div>'
     title = f'<h3><a href="{prefix}stories/{s["id"]}/">{e(s["title"])}</a></h3>'
-    change = f'<div class="change"><p><strong>What changed</strong><br>{e(s["whatChanged"])}</p></div>{updates_inline(s)}'
+    change = f'<div class="change"><p><strong>What changed</strong><br>{e(s["whatChanged"])}</p></div>'
     context = f'<div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(s["whyMatters"])}</p></div>'
     details = f'<details class="card-details"><summary>Uncertainty &amp; sources</summary><div class="context"><p><strong>Still uncertain</strong><br>{e(s["uncertainty"])}</p><p><strong>What to watch</strong><br>{e(s["watchNext"])}</p>{source_links(s)}</div></details>'
     foot = f'<div class="card-foot"><a class="card-thread" href="{thread_link(s,prefix)}" aria-label="Follow this story: {e(s["title"])}">Follow</a><a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a></div>'
@@ -255,7 +265,7 @@ def card(s, n, prefix, lead=False):
 
 def more_item(s, n, prefix):
     report = f'<a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a>' if s.get('report') else ''
-    return f'''<article class="more-item" id="{e(s['id'])}"><span class="more-number">{n:02}</span><div class="more-copy"><span class="eyebrow">{e(s['region'])} / {e(s['category'])}{corrected_tag(s, prefix)}</span><h3>{e(s['title'])}</h3><p class="more-dek">{e(s['whatChanged'])}</p>{updates_inline(s)}<details class="more-details"><summary>More</summary><p>{e(s['body'])}</p>{source_links(s)}</details>{report}</div></article>'''
+    return f'''<article class="more-item" id="{e(s['id'])}"><span class="more-number">{n:02}</span><div class="more-copy"><span class="eyebrow">{e(s['region'])} / {e(s['category'])}{updated_tag(s, prefix)}{corrected_tag(s, prefix)}</span><h3>{e(s['title'])}</h3><p class="more-dek">{e(s['whatChanged'])}</p><details class="more-details"><summary>More</summary>{''.join(f'<p class="more-update"><strong>{e(update_label(u))}</strong> {e(u["text"])}</p>' for u in s.get('updates', []))}<p>{e(s['body'])}</p>{source_links(s)}</details>{report}</div></article>'''
 
 def reality_card(rc):
     return f'''<article class="story-card frontier-card reality-card"><div class="kicker"><span class="eyebrow">Reality check / A claim, tested</span></div><h3>{e(rc['title'])}</h3><div class="frontier-hook"><span class="eyebrow">What the evidence does and doesn’t show</span><p>{e(rc['text'])}</p></div><div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{e(rc['url'])}" target="_blank" rel="noopener noreferrer">Read the research <span>↗</span></a></div></article>'''
@@ -454,7 +464,7 @@ def article(s, edition, history):
     recent_reports=list(reversed(thread_history))[:10]
     timeline=''.join(f'<div class="archive-row"><div><a href="../../editions/{x["date"]}/#{item["id"]}">{pretty(x["date"])}</a><h3>{e(item["title"])}</h3><p>{e(item["whatChanged"])}</p></div></div>' for x,item in recent_reports)
     if len(thread_history)>10: timeline+=f'<p class="source-note"><a href="{thread_link(s,"../../")}">See all {len(thread_history)} reports in this story →</a></p>'
-    return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(event_label(s['eventDate']))} · {e(read_label(s))}{' · <a href="#correction">Corrected</a>' if correction_items(edition, s['id']) else ''}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div>{story_image(s,"../../")}{updates_full(s)}<p class="article-summary">{e(s['body'])}</p>{key_facts(s)}{full_report(s)}{assessment_box(s)}{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
+    return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(event_label(s['eventDate']))} · {e(read_label(s))}{(' · <a href="#updates">Updated ' + e(update_time(s['updates'][-1])) + '</a>') if s.get('updates') else ''}{' · <a href="#correction">Corrected</a>' if correction_items(edition, s['id']) else ''}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div>{story_image(s,"../../")}<p class="article-summary">{e(s['body'])}</p>{updates_full(s)}{key_facts(s)}{full_report(s)}{assessment_box(s)}{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
 
 ABOUT_TEMPLATE = '''<main class="wrap" id="main"><article class="article-page"><div class="eyebrow">The editorial promise</div><h1>Attention is finite.<br><em>Spend it well.</em></h1><p class="article-summary">The Signal is an independent daily briefing. It follows consequential changes in the world and at the frontiers of AI and science, in one daily edition.</p>{signup}<h2>Change, with context</h2><p>We ask what is new, how strong the evidence is, and what the development could change. A quieter day can mean a shorter edition. An enduring crisis can deserve attention even when there is no fresh headline.</p><h2>Evidence before certainty</h2><p>Every item links to its sources. We prioritize primary documents and established reporting, seek independent corroboration, and distinguish an announcement from a demonstrated result. Sources repeating the same original account are not independent confirmation. Company research is labeled as such.</p><h2>Facts and judgments</h2><p>The report and “What changed” describe available evidence. “Why it matters” and “Watch next” are editorial assessments. We show uncertainties instead of manufacturing precise importance scores or unsupported probabilities.</p><h2>A publication with a memory</h2><p>Daily editions are retained in the archive. Continuing stories use stable identifiers so their developments can be followed across editions. The first edition starts that record; it does not invent a past.</p><h2>How each edition is produced</h2><p>Each morning, the edition is researched and assembled from the linked reporting, and each evening it is updated where stories have moved, with context, evidence limitations, and a clear point at which to stop. Follow those sources for their full reporting.</p><h2>Corrections belong in the open</h2><p>If a claim is wrong, we correct it and record what changed. We do not silently erase mistakes from the historical record. <a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Report an error on GitHub ↗</a> · <a href="../corrections/">See every correction →</a></p><h2>Images as editorial interpretation</h2><p>Our original illustrations use simple visual metaphors for each story. They are labeled as illustrations, not photographs of the reported events, and are not evidence for the reporting. Maps locate the reporting; charts show sourced figures; illustrations provide a visual interpretation. Each edition uses the form that best explains the story.</p><h2>Your reading stays yours</h2><p>{privacy}</p><h2>Read at your own pace</h2><p>{signup_note}Every main story has a full report with key facts, background, sources and a dated timeline, and shorter items under More that changed open with a tap; Follow opens the whole thread across editions. Regions gathers each part of the world in one place.</p></article></main>'''
 

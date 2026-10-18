@@ -241,3 +241,8 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .correction-entry h2{font-size:26px;margin:0 0 4px}
 .correction-entry h2 a{text-decoration:none}
 .assessment-box.single p{font-size:15px;line-height:1.7;margin:10px 0 0;color:var(--ink)}
+.updated-tag{border-color:#7fa7c9;color:#a9c6e0}
+.updated-tag:hover{background:rgba(127,167,201,.12)}
+.more-update{border-left:2px solid #7fa7c9;padding-left:12px}
+.more-update strong{font:600 10px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:#a9c6e0;display:block;margin-bottom:2px}
+#updates{scroll-margin-top:20px}

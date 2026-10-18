@@ -56,8 +56,8 @@
       const pending=history.filter(x=>selected==='all'||x.date>selected);
       if(!pending.length){target.innerHTML='<h3>You’re up to date.</h3><p>There are no published editions after the one you selected. Come back for the next edition.</p>';return;}
       const grouped=new Map();
-      pending.forEach(x=>x.stories.forEach(s=>{if(!grouped.has(s.id))grouped.set(s.id,[]);grouped.get(s.id).push({date:x.date,story:s});}));
-      target.innerHTML=`<p>${editions.length===1?'This is The Signal’s first edition. The history begins here.':`${pending.length} edition${pending.length>1?'s':''} since your last read.`}</p>`+[...grouped.values()].map(items=>{const last=items.at(-1);return `<div class="evidence"><h3><a href="${prefix}stories/${last.story.id}/">${escape(last.story.title)} ↗</a></h3>${items.map(i=>`<small>${escape(pretty(i.date))}</small><p>${escape(i.story.whatChanged)}</p>`).join('')}</div>`;}).join('');
+      pending.forEach(x=>x.stories.forEach(s=>{const key=s.threadId||s.id;if(!grouped.has(key))grouped.set(key,[]);grouped.get(key).push({date:x.date,story:s});}));
+      target.innerHTML=`<p>${editions.length===1?'This is The Signal’s first edition. The history begins here.':`${pending.length} edition${pending.length>1?'s':''} since your last read.`}</p>`+[...grouped.values()].map(items=>{const last=items.at(-1);return `<div class="evidence"><h3><a href="${prefix}threads/${last.story.threadId||last.story.id}/">${escape(last.story.threadTitle||last.story.title)} ↗</a></h3>${items.map(i=>`<small>${escape(pretty(i.date))}</small><p><strong>${escape(i.story.title)}</strong><br>${escape(i.story.whatChanged)}</p>`).join('')}</div>`;}).join('');
     }catch{historyPromise=null;target.innerHTML=`<p>The catch-up view could not load. <a href="${prefix}archive/"><u>Browse the edition archive instead →</u></a></p>`;}
   }
   $('#since-date').addEventListener('change',catchup);

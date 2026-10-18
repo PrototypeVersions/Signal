@@ -159,3 +159,38 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 }
 .lead-bottom .change{border-top:0}
 .card-foot .card-thread{color:var(--ink);font-size:13px}.card-foot .card-thread:hover{color:var(--accent)}
+/* Story page: one assessment box */
+.assessment-box{margin:44px 0 10px;padding:26px 30px 22px;background:var(--panel);border-left:2px solid var(--accent)}
+.assessment-box dl{margin:14px 0 0;display:grid;grid-template-columns:1fr 1fr;gap:20px 34px}
+.assessment-box dt{font:600 10px/1.6 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
+.assessment-box dd{margin:0;font-size:15px;line-height:1.7;color:var(--ink)}
+.assessment-note{font-size:12px;color:var(--muted);margin:20px 0 0;border-top:1px solid var(--line);padding-top:12px}
+/* Threads page */
+.thread-more{margin-top:34px;border-top:1px solid var(--line);padding-top:18px}
+.thread-more>summary{font:600 11px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--accent);cursor:pointer;width:fit-content}
+.thread-more[open]>summary{margin-bottom:22px}
+/* Email signup */
+.signup{margin-top:22px;max-width:520px}
+.signup label{display:block;font:500 15px/1.4 var(--sans);color:var(--ink);margin-bottom:10px}
+.signup-row{display:flex;gap:8px}
+.signup input[type=email]{flex:1;min-width:0;padding:12px 14px;background:#0d1b28;border:1px solid var(--line);color:var(--ink);font:15px var(--sans);border-radius:2px}
+.signup input[type=email]:focus{outline:none;border-color:var(--accent)}
+.signup button{padding:12px 20px;background:var(--accent);color:#09131d;border:0;font:600 14px var(--sans);cursor:pointer;border-radius:2px}
+.signup button:hover{background:#e2b896}
+.signup-note{font-size:12px;color:var(--muted);margin:10px 0 0;line-height:1.6}
+.signup-about{margin:26px 0 8px;padding:22px 24px;background:var(--panel)}
+@media(max-width:760px){
+  .assessment-box{padding:22px 20px 18px;margin-inline:-4px}
+  .assessment-box dl{grid-template-columns:1fr}
+  .signup-row{flex-direction:column}
+  .signup button{padding:14px}
+}
+@media print{.signup{display:none}}
+@media(max-width:760px){
+  .frontier-card .story-art img{aspect-ratio:16/9;object-fit:cover;object-position:center}
+  .frontier-card .frontier-hook p{font-size:17px}
+}
+@media(max-width:760px){
+  .world-grid .story-card:not(.lead) .story-art img{aspect-ratio:2/1;object-fit:cover;object-position:top}
+}
+.thread-more:last-of-type{margin-bottom:70px}

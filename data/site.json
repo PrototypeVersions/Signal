@@ -1,0 +1,4 @@
+{
+ "newsletter": {"provider": "buttondown", "username": ""},
+ "analytics": {"goatcounter": ""}
+}

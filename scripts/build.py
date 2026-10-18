@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'dist'
 BASE = 'https://prototypeversions.github.io/Signal'
 e = lambda s: html.escape(str(s), quote=True)
+SITE = {}
 ASSET_VERSION = hashlib.sha256(((ROOT/'assets/style.css').read_text() + (ROOT/'assets/app.js').read_text()).encode()).hexdigest()[:12]
 
 def validate_image(image):
@@ -18,6 +19,27 @@ def validate_image(image):
     assert re.fullmatch(r'assets/(?:[a-zA-Z0-9_-]+/)*[a-zA-Z0-9_-]+\.(jpg|jpeg|png|webp|svg)', asset), 'Unsafe image path'
     assert (ROOT / asset).is_file(), f'Missing image: {asset}'
     assert image['alt'].strip() and image['credit'].strip(), 'Images need alt text and credit'
+
+def load_site():
+    path = ROOT / 'data/site.json'
+    site = json.loads(path.read_text()) if path.exists() else {}
+    user = site.get('newsletter', {}).get('username', '')
+    code = site.get('analytics', {}).get('goatcounter', '')
+    assert not user or re.fullmatch(r'[A-Za-z0-9_-]{1,64}', user), 'Newsletter username must be letters, numbers, - or _'
+    assert not code or re.fullmatch(r'[a-z0-9-]{1,63}', code), 'GoatCounter code must be lowercase letters, numbers or -'
+    return site
+
+def newsletter_user(): return SITE.get('newsletter', {}).get('username', '')
+def analytics_code(): return SITE.get('analytics', {}).get('goatcounter', '')
+
+def signup_form(where):
+    user = newsletter_user()
+    if not user: return ''
+    return (f'<form class="signup signup-{where}" action="https://buttondown.com/api/emails/embed-subscribe/{e(user)}" method="post">'
+            f'<label for="signup-{where}">Get each morning’s edition by email</label>'
+            f'<div class="signup-row"><input type="email" id="signup-{where}" name="email" placeholder="you@example.com" autocomplete="email" required>'
+            f'<input type="hidden" name="embed" value="1"><button type="submit">Sign up</button></div>'
+            f'<p class="signup-note">One email a day, free. Unsubscribe any time. Your address is held by Buttondown and used only to send the edition.</p></form>')
 
 def validate(edition):
     date.fromisoformat(edition['date'])
@@ -213,7 +235,8 @@ def card(s, n, prefix, lead=False):
         return (f'<article class="story-card lead" id="{e(s["id"])}" data-section="{e(s["section"])}"><div class="lead-top">{story_image(s, prefix, True)}'
                 f'<div class="lead-copy">{kicker}{title}<p class="summary">{e(s["body"])}</p></div></div>'
                 f'<div class="lead-bottom"><div>{change}</div><div>{context}{details}{foot}</div></div></article>')
-    return f'<article class="story-card" id="{e(s["id"])}" data-section="{e(s["section"])}">{story_image(s, prefix, True)}<div class="card-body">{kicker}{title}{change}{context}{details}{foot}</div></article>'
+    folded = f'<details class="card-details"><summary>Why it matters, uncertainty &amp; sources</summary><div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(s["whyMatters"])}</p><p><strong>Still uncertain</strong><br>{e(s["uncertainty"])}</p><p><strong>What to watch</strong><br>{e(s["watchNext"])}</p>{source_links(s)}</div></details>'
+    return f'<article class="story-card" id="{e(s["id"])}" data-section="{e(s["section"])}">{story_image(s, prefix, True)}<div class="card-body">{kicker}{title}{change}{folded}{foot}</div></article>'
 
 def more_item(s, n, prefix):
     report = f'<a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a>' if s.get('report') else ''
@@ -226,7 +249,7 @@ def shell(content, edition, title='The Signal — The world, considered. Once a 
     stamp = date.fromisoformat(edition['date']).strftime('%A, %d %B %Y')
     metadata = dict(edition=edition, editions=[{'date': x['date'], 'number': x['number'], 'count': len(x['stories'])} for x in EDITIONS], prefix=prefix)
     serialized = json.dumps(metadata, ensure_ascii=False).replace('<', '\\u003c')
-    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(description)}"><meta name="theme-color" content="#09131d"><link rel="canonical" href="{BASE}/{canonical}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:site_name" content="The Signal"><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/{canonical}"><link rel="icon" type="image/svg+xml" href="{prefix}assets/signal.svg?v={ASSET_VERSION}"><link rel="stylesheet" href="{prefix}assets/style.css?v={ASSET_VERSION}"><link rel="alternate" type="application/rss+xml" title="The Signal editions" href="{prefix}feed.xml"></head>
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(description)}"><meta name="theme-color" content="#09131d"><link rel="canonical" href="{BASE}/{canonical}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:site_name" content="The Signal"><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/{canonical}"><meta property="og:image" content="{BASE}/assets/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="The Signal. The world, considered. Once a day."><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{e(title)}"><meta name="twitter:description" content="{e(description)}"><meta name="twitter:image" content="{BASE}/assets/og-image.png">{f'<script data-goatcounter="https://{analytics_code()}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>' if analytics_code() else ''}<link rel="icon" type="image/svg+xml" href="{prefix}assets/signal.svg?v={ASSET_VERSION}"><link rel="stylesheet" href="{prefix}assets/style.css?v={ASSET_VERSION}"><link rel="alternate" type="application/rss+xml" title="The Signal editions" href="{prefix}feed.xml"></head>
     <body><a class="skip" href="#main">Skip to the briefing</a><div class="progress" aria-hidden="true"></div><header class="wrap"><div class="topline eyebrow"><span class="status"><i class="status-dot"></i> An independent daily briefing</span><span>{e(stamp)}</span><span class="timezone">A global perspective</span></div><div class="masthead"><a class="wordmark" href="{prefix}" aria-label="The Signal home"><span class="wordmark-the">The</span><span>Signal</span></a><div class="masthead-note"><p>The world, considered.<br><em>Once a day.</em></p><div class="edition-stamp"><span>Nº</span><strong>{edition['number']:03}</strong><small>The daily edition</small></div></div></div><nav class="navigation" aria-label="Main navigation"><div class="navlinks"><a href="{prefix}#edition">The edition</a><a href="{prefix}#frontiers">Frontiers</a><a class="regions-nav" href="{prefix}#regions">Regions</a><a href="{prefix}threads/">Threads</a><a class="archive-nav" href="{prefix}archive/">Archive</a><a class="about-nav" href="{prefix}about/">Our approach</a></div><div class="nav-actions"><button class="catchup" data-dialog="catchup-dialog">Catch me up ↗</button></div></nav></header>
     {content}
     <footer class="footer"><div class="wrap"><a class="footer-brand" href="{prefix}"><span>The</span> Signal</a><p>Evidence-linked. Open to correction.</p><div class="footer-links"><a href="{prefix}about/">Our approach</a><a href="{prefix}threads/">Threads</a><a href="{prefix}archive/">Archive</a><a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Corrections ↗</a></div></div></footer>
@@ -352,20 +375,39 @@ def home(edition, prefix='./', archived=False):
     return archive_note + f'''<main id="main" class="wrap">{corrections(edition)}
     <section class="issue-intro" id="edition"><div><div class="eyebrow">The daily edition / {edition['number']:03}</div><h2>{e(pretty(edition['date']))}</h2></div><div class="edition-meta"><span>{count} developments</span><span>≈ {minutes} min read</span><span>Checked {e(edition['cutoffLabel'])}</span>{f'<span class="updated-stamp">Updated {e(edition["updatedLabel"])}</span>' if edition.get('updatedAt') else ''}</div></section><div class="stale-note" id="stale-note" hidden></div>
     <section class="opening-note" aria-label="Today in brief"><span class="eyebrow">The day, in view</span><p>{e(edition['opening'])}</p></section>
-    <section class="world-grid-section" {"hidden" if not world_cards else ""}><div class="section-title"><div><span class="eyebrow">The world / In focus</span><h2>Across the <em>world.</em></h2></div><div class="toolbar"><div class="reading-toggle" aria-label="Reading depth"><button data-mode="briefing" aria-pressed="true">Full briefing</button><button data-mode="quick" aria-pressed="false">Quick scan</button></div></div></div><div class="story-grid world-grid" aria-label="World developments">{world_cards}</div></section>
+    <section class="world-grid-section" {"hidden" if not world_cards else ""}><div class="section-title"><div><span class="eyebrow">The world / In focus</span><h2>Across the <em>world.</em></h2></div></div><div class="story-grid world-grid" aria-label="World developments">{world_cards}</div></section>
     <section class="more-section" id="more" {"hidden" if not more_items else ""}><div class="section-title"><div><span class="eyebrow">The world / Also today</span><h2>More that <em>changed.</em></h2></div><span class="section-number">{len(more):02} more</span></div><div class="more-list">{more_items}</div></section>
     <section class="ai-section" id="frontiers" {"hidden" if not ai_cards else ""}><span id="ai-frontier" aria-hidden="true"></span><div class="section-head"><div><div class="eyebrow">AI · Science · Medicine · Space · Energy</div><h2><em>Frontiers.</em></h2></div><p>What’s changing the future.<br>And the evidence behind it.</p></div><div class="story-grid">{ai_cards}</div></section>
     {atlas(edition,prefix)}
     <div class="below"><section><div class="eyebrow">Beyond the news cycle</div><h2><em>Still</em> matters.</h2>{still_html or '<p>No continuing-priority entry in this edition.</p>'}</section><section><div class="eyebrow">The next signals</div><h2>What we’re watching.</h2>{watch}</section></div>
     <details class="edition-note"><summary>About this edition</summary><p>{e(edition['note'])}</p></details>
-    <section class="endnote"><div class="endnote-mark" aria-hidden="true">✳</div><div><h2>You’re caught up.<br><em>Go live your day.</em></h2><p>One considered edition. A natural place to stop.</p></div><div class="endnote-actions"><button class="textlink" id="share-edition">Share this edition ↗</button><a class="textlink" href="{prefix}threads/">Follow the story threads →</a><a class="textlink" href="{prefix}archive/">Explore the archive →</a></div></section></main>'''
+    <section class="endnote"><div class="endnote-mark" aria-hidden="true">✳</div><div><h2>You’re caught up.<br><em>Go live your day.</em></h2><p>One considered edition. A natural place to stop.</p>{signup_form('endnote')}</div><div class="endnote-actions"><button class="textlink" id="share-edition">Share this edition ↗</button><a class="textlink" href="{prefix}threads/">Follow the story threads →</a><a class="textlink" href="{prefix}archive/">Explore the archive →</a></div></section></main>'''
 
 def threads_index(threads):
-    rows=''
-    for slug,history in sorted(threads.items(),key=lambda item:item[1][-1][0]['date'],reverse=True):
-        edition,story=history[-1]
-        rows+=f'<article class="thread-index-card"><div class="eyebrow">{e(story.get("field",story["category"]))}</div><h2><a href="{slug}/">{e(story.get("threadTitle",story["title"]))} <span>↗</span></a></h2><p>{e(story.get("threadSummary",story["whatChanged"]))}</p><div class="thread-meta">{len(history)} report{"s" if len(history)!=1 else ""} · Updated {e(pretty(edition["date"]))}</div></article>'
-    return f'<main class="wrap" id="main"><header class="threads-intro"><span class="eyebrow">The longer view</span><h1>Stories, <em>followed.</em></h1><p>Developments belong to a bigger story. Follow the evidence and the changes, edition by edition.</p></header><div class="thread-index">{rows}</div></main>'
+    latest = max(h[-1][0]['date'] for h in threads.values())
+    def recent(h): return (date.fromisoformat(latest) - date.fromisoformat(h[-1][0]['date'])).days <= 7
+    def row(slug, history):
+        edition, story = history[-1]
+        n = len(history)
+        return f'<article class="thread-index-card"><div class="eyebrow">{e(story.get("field",story["category"]))}</div><h2><a href="{slug}/">{e(story.get("threadTitle",story["title"]))} <span>↗</span></a></h2><p>{e(story.get("threadSummary",story["whatChanged"]))}</p><div class="thread-meta">{n} report{"s" if n!=1 else ""} · Updated {e(pretty(edition["date"]))}</div></article>'
+    order = lambda item: (-len(item[1]), item[1][-1][0]['date'] < latest, item[1][-1][0]['date'])
+    active = sorted([x for x in threads.items() if recent(x[1])], key=order)
+    earlier = sorted([x for x in threads.items() if not recent(x[1])], key=lambda item: item[1][-1][0]['date'], reverse=True)
+    shown, folded = active[:12], active[12:]
+    html = ''.join(row(*x) for x in shown)
+    more = ''
+    if folded: more += f'<details class="thread-more"><summary>{len(folded)} more active {"story" if len(folded)==1 else "stories"}</summary><div class="thread-index">{"".join(row(*x) for x in folded)}</div></details>'
+    if earlier: more += f'<details class="thread-more"><summary>Earlier stories · {len(earlier)} not updated this week</summary><div class="thread-index">{"".join(row(*x) for x in earlier)}</div></details>'
+    return f'<main class="wrap" id="main"><header class="threads-intro"><span class="eyebrow">The longer view</span><h1>Stories, <em>followed.</em></h1><p>Developments belong to a bigger story. The most followed stories come first; follow the evidence and the changes, edition by edition.</p></header><div class="thread-index">{html}</div>{more}</main>'
+
+def assessment_box(s):
+    rows = f'<div><dt>What changed</dt><dd>{e(s["whatChanged"])}</dd></div>'
+    if s.get('whyMatters'): rows += f'<div><dt>Why it matters</dt><dd>{e(s["whyMatters"])}</dd></div>'
+    if s.get('uncertainty'): rows += f'<div><dt>Still uncertain</dt><dd>{e(s["uncertainty"])}</dd></div>'
+    if s.get('watchNext'): rows += f'<div><dt>Watch next</dt><dd>{e(s["watchNext"])}</dd></div>'
+    label = 'Our assessment' if s.get('whyMatters') else 'What changed'
+    note = '<p class="assessment-note">“Why it matters” and “Watch next” are editorial judgments; the rest is drawn from the sources below.</p>' if s.get('whyMatters') else ''
+    return f'<section class="assessment-box" id="assessment" aria-label="{label}"><span class="eyebrow">{label}</span><dl>{rows}</dl>{note}</section>'
 
 def assessment_block(story):
     parts = ''
@@ -383,11 +425,24 @@ def thread_page(history):
 def article(s, edition, history):
     thread_history=THREADS.get(thread_key(s),history)
     timeline=''.join(f'<div class="archive-row"><div><a href="../../editions/{x["date"]}/#{item["id"]}">{pretty(x["date"])}</a><h3>{e(item["title"])}</h3><p>{e(item["whatChanged"])}</p></div></div>' for x,item in reversed(thread_history))
-    return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(event_label(s['eventDate']))} · {e(read_label(s))}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div>{story_image(s,"../../")}{updates_full(s)}<p class="article-summary">{e(s['body'])}</p>{key_facts(s)}{full_report(s)}<h2 id="assessment">What changed</h2><p>{e(s['whatChanged'])}</p>{f'<h2>Why it matters</h2><p class="source-note">Editorial assessment</p><p>{e(s["whyMatters"])}</p>' if s.get('whyMatters') else ''}{f'<h2>What remains uncertain</h2><p>{e(s["uncertainty"])}</p>' if s.get('uncertainty') else ''}{f'<h2>Watch next</h2><p>{e(s["watchNext"])}</p>' if s.get('watchNext') else ''}{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
+    return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(event_label(s['eventDate']))} · {e(read_label(s))}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div>{story_image(s,"../../")}{updates_full(s)}<p class="article-summary">{e(s['body'])}</p>{key_facts(s)}{full_report(s)}{assessment_box(s)}{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
 
-ABOUT = '''<main class="wrap" id="main"><article class="article-page"><div class="eyebrow">The editorial promise</div><h1>Attention is finite.<br><em>Spend it well.</em></h1><p class="article-summary">The Signal is an independent daily briefing. It follows consequential changes in the world and at the frontiers of AI and science, in one finite daily edition.</p><h2>Change, with context</h2><p>We ask what is new, how strong the evidence is, and what the development could change. A quieter day can mean a shorter edition. An enduring crisis can deserve attention even when there is no fresh headline.</p><h2>Evidence before certainty</h2><p>Every item links to its sources. We prioritize primary documents and established reporting, seek independent corroboration, and distinguish an announcement from a demonstrated result. Sources repeating the same original account are not independent confirmation. Company research is labeled as such.</p><h2>Facts and judgments</h2><p>The report and “What changed” describe available evidence. “Why it matters” and “Watch next” are editorial assessments. We show uncertainties instead of manufacturing precise importance scores or unsupported probabilities.</p><h2>A publication with a memory</h2><p>Daily editions are retained in the archive. Continuing stories use stable identifiers so their developments can be followed across editions. The first edition starts that record; it does not invent a past.</p><h2>How each edition is produced</h2><p>Each morning, the edition is researched and assembled from the linked reporting, and each evening it is updated where stories have moved, with context, evidence limitations, and a clear point at which to stop. Follow those sources for their full reporting.</p><h2>Corrections belong in the open</h2><p>If a claim is wrong, we correct it and record what changed. We do not silently erase mistakes from the historical record. <a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Report an error on GitHub ↗</a></p><h2>Images as editorial interpretation</h2><p>Our original illustrations use simple visual metaphors for each story. They are labeled as illustrations, not photographs of the reported events, and are not evidence for the reporting. Maps locate the reporting; charts show sourced figures; illustrations provide a visual interpretation. Each edition uses the form that best explains the story.</p><h2>Your reading stays yours</h2><p>This prototype has no advertising or analytics scripts. Catch-up is based on the edition you select. Google Fonts supplies the typography; source links take you to their respective publishers. Your browser and hosting provider may retain ordinary access logs.</p><h2>Read at your own pace</h2><p>Use Quick scan for the changes alone and Full briefing for summaries and assessments. Every main story has a full report with key facts, background, sources and a dated timeline, and shorter items under More that changed open with a tap; Follow opens the whole thread across editions. Regions gathers each part of the world in one place.</p></article></main>'''
+ABOUT_TEMPLATE = '''<main class="wrap" id="main"><article class="article-page"><div class="eyebrow">The editorial promise</div><h1>Attention is finite.<br><em>Spend it well.</em></h1><p class="article-summary">The Signal is an independent daily briefing. It follows consequential changes in the world and at the frontiers of AI and science, in one finite daily edition.</p>{signup}<h2>Change, with context</h2><p>We ask what is new, how strong the evidence is, and what the development could change. A quieter day can mean a shorter edition. An enduring crisis can deserve attention even when there is no fresh headline.</p><h2>Evidence before certainty</h2><p>Every item links to its sources. We prioritize primary documents and established reporting, seek independent corroboration, and distinguish an announcement from a demonstrated result. Sources repeating the same original account are not independent confirmation. Company research is labeled as such.</p><h2>Facts and judgments</h2><p>The report and “What changed” describe available evidence. “Why it matters” and “Watch next” are editorial assessments. We show uncertainties instead of manufacturing precise importance scores or unsupported probabilities.</p><h2>A publication with a memory</h2><p>Daily editions are retained in the archive. Continuing stories use stable identifiers so their developments can be followed across editions. The first edition starts that record; it does not invent a past.</p><h2>How each edition is produced</h2><p>Each morning, the edition is researched and assembled from the linked reporting, and each evening it is updated where stories have moved, with context, evidence limitations, and a clear point at which to stop. Follow those sources for their full reporting.</p><h2>Corrections belong in the open</h2><p>If a claim is wrong, we correct it and record what changed. We do not silently erase mistakes from the historical record. <a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Report an error on GitHub ↗</a></p><h2>Images as editorial interpretation</h2><p>Our original illustrations use simple visual metaphors for each story. They are labeled as illustrations, not photographs of the reported events, and are not evidence for the reporting. Maps locate the reporting; charts show sourced figures; illustrations provide a visual interpretation. Each edition uses the form that best explains the story.</p><h2>Your reading stays yours</h2><p>{privacy}</p><h2>Read at your own pace</h2><p>{signup_note}Every main story has a full report with key facts, background, sources and a dated timeline, and shorter items under More that changed open with a tap; Follow opens the whole thread across editions. Regions gathers each part of the world in one place.</p></article></main>'''
+
+def about_page():
+    privacy = 'There is no advertising. '
+    if analytics_code():
+        privacy += 'We count visits with GoatCounter, a privacy-friendly service that uses no cookies, collects no personal data and does not follow you across sites; it tells us which pages are read, not who reads them. '
+    else:
+        privacy += 'There are no analytics scripts. '
+    if newsletter_user():
+        privacy += 'If you sign up for email, Buttondown holds your address and uses it only to send the edition; you can unsubscribe from any email. '
+    privacy += 'Catch-up is based on the edition you select. Google Fonts supplies the typography; source links take you to their respective publishers. Your browser and hosting provider may retain ordinary access logs.'
+    signup_note = 'The edition can also come to your inbox each morning. ' if newsletter_user() else ''
+    return ABOUT_TEMPLATE.replace('{privacy}', privacy).replace('{signup_note}', signup_note).replace('{signup}', signup_form('about'))
 
 if __name__ == '__main__':
+    SITE.update(load_site())
     EDITIONS = [json.loads(p.read_text()) for p in sorted((ROOT/'data/editions').glob('*.json'))]
     assert EDITIONS, 'No editions to publish'
     for edition in EDITIONS: validate(edition)
@@ -421,9 +476,19 @@ if __name__ == '__main__':
         write(f'stories/{slug}/index.html',shell(article(s,edition,history),edition,s['title']+' — The Signal','../../',f'stories/{slug}/',description=s['body']))
     rows = ''.join(f'<div class="archive-row"><a href="../editions/{x["date"]}/">{pretty(x["date"])}</a><span>Edition {x["number"]:03} · {len(x["stories"])} stories ↗</span></div>' for x in reversed(EDITIONS))
     write('archive/index.html',shell(f'<main class="wrap" id="main"><div class="eyebrow" style="margin-top:45px">The record, kept</div><h1 class="archive-title">A world in chapters.</h1><p>Every edition, preserved. A little perspective over time.</p><div class="archive-list">{rows}</div></main>',latest,'The archive — The Signal','../','archive/'))
-    write('about/index.html',shell(ABOUT,latest,'Our approach — The Signal','../','about/'))
+    write('about/index.html',shell(about_page(),latest,'Our approach — The Signal','../','about/'))
     write('data/history.json',json.dumps(EDITIONS,ensure_ascii=False))
-    items=''.join(f'<item><title>{xml_escape("The Signal — "+pretty(x["date"]))}</title><link>{BASE}/editions/{x["date"]}/</link><guid>{BASE}/editions/{x["date"]}/</guid><description>{xml_escape(x["opening"])}</description></item>' for x in reversed(EDITIONS))
+    def feed_item(x):
+        stamp = datetime.fromisoformat(x['cutoff'].replace('Z', '+00:00')).strftime('%a, %d %b %Y %H:%M:%S +0000')
+        link = f'{BASE}/editions/{x["date"]}/'
+        groups = [('Across the world', ('world',)), ('More that changed', ('more',)), ('Frontiers', ('ai', 'frontiers')), ('Still matters', ('still',))]
+        body = f'<p>{e(x["opening"])}</p>'
+        for label, sections in groups:
+            picks = [s for s in x['stories'] if s['section'] in sections]
+            if picks: body += f'<h3>{label}</h3><ul>' + ''.join(f'<li><a href="{BASE}/stories/{s["id"]}/">{e(s["title"])}</a>. {e(s["whatChanged"])}</li>' for s in picks) + '</ul>'
+        body += f'<p><a href="{link}">Read the full edition →</a></p>'
+        return f'<item><title>{xml_escape("The Signal — "+pretty(x["date"]))}</title><link>{link}</link><guid isPermaLink="true">{link}</guid><pubDate>{stamp}</pubDate><description><![CDATA[{body}]]></description></item>'
+    items=''.join(feed_item(x) for x in reversed(EDITIONS))
     write('feed.xml',f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>The Signal</title><link>{BASE}/</link><description>A clearer view of a changing world.</description><language>en</language>{items}</channel></rss>')
     paths=['','archive/','about/','threads/']+[f'threads/{slug}/' for slug in THREADS]+[f'stories/{s}/' for s in index]+[f'editions/{x["date"]}/' for x in EDITIONS]+[f'regions/{slug}/' for slug in REGION_SLUGS]
     write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{BASE}/{x}</loc></url>' for x in paths)+'</urlset>')

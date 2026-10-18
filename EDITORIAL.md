@@ -47,7 +47,7 @@ Editions are produced each morning (about 5:57 AM Central) by a scheduled Claude
 1. Clones or pulls `PrototypeVersions/Signal` and reads this file and the latest edition.
 2. Works out today's edition date in America/Chicago. If `data/editions/<date>.json` already exists, it stops and reports.
 3. Researches with web search, opening and reading the actual articles, and writes `data/editions/<date>.json` following this guide, including `keyFacts` and `report` for every story, and the `regions` tags and seven region entries.
-4. Runs `python3 scripts/build.py` and fixes any validation error in the data. It never edits application code, styles, workflows or this file as part of a routine edition.
+4. Runs `python3 scripts/build.py` and fixes any validation error in the data. It never edits application code, styles, workflows, `data/site.json` or this file as part of a routine edition.
 5. Commits and pushes to `main` with the message `Edition <N>: <date>`. The push triggers the Actions workflow, which validates and deploys to GitHub Pages.
 6. Reports a short summary: lead story, items included, anything left out because it could not be verified, and any problem.
 

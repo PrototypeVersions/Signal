@@ -44,3 +44,13 @@ The opening paragraph summarizes the day before the lead. Larger reading text an
 Optional `visual` objects render maps from bundled Natural Earth country geometry or bar comparisons from explicit, sourced values. These SVGs are created in `dist/assets/visuals/` during the build, with no map service, API key, or browser requests to a mapping provider. See `scripts/data/README.md` and `EDITORIAL.md` for provenance, visual schemas, and location limits. Artwork remains available when a metaphor is useful; it is not required for every article.
 
 `threadId`, `threadTitle`, and `threadSummary` group related reports across editions. The `/threads/` index and each thread timeline are built from the published record. Multiple story IDs may belong to a thread. Existing story URLs and dated archives remain available; legacy editions fall back to their story IDs. No prior history is fabricated.
+
+## Email signups and visitor counts
+
+Both are off until `data/site.json` is filled in:
+
+- `newsletter.username`: your Buttondown username. A signup form then appears at the end of each edition and on the Our approach page. Buttondown can send each morning's edition automatically from the site's feed (`feed.xml`) with its RSS-to-email feature.
+- `analytics.goatcounter`: your GoatCounter site code (the part before `.goatcounter.com`). A cookie-free visit counter is then added to every page, and the privacy section of Our approach updates to say so.
+
+Rebuild and push after changing it; routine edition runs never edit this file.
+

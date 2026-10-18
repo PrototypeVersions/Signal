@@ -2,7 +2,7 @@ name: Publish Signal
 on:
   push:
     branches: [main]
-    paths: ['assets/**', 'data/editions/**', 'scripts/**', '.github/workflows/pages.yml']
+    paths: ['assets/**', 'data/editions/**', 'data/site.json', 'scripts/**', '.github/workflows/pages.yml']
   workflow_dispatch:
 permissions:
   contents: read

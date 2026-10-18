@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build Signal's static publication. Python standard library only."""
-import html, json, math, re, shutil
+import html, json, math, re, shutil, hashlib
 from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import urlparse
@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'dist'
 BASE = 'https://prototypeversions.github.io/Signal'
 e = lambda s: html.escape(str(s), quote=True)
+ASSET_VERSION = hashlib.sha256(((ROOT/'assets/style.css').read_text() + (ROOT/'assets/app.js').read_text()).encode()).hexdigest()[:12]
 
 def validate(edition):
     date.fromisoformat(edition['date'])
@@ -67,13 +68,13 @@ def shell(content, edition, title='Signal — A clearer view of a changing world
     stamp = date.fromisoformat(edition['date']).strftime('%A, %d %B %Y')
     metadata = dict(edition=edition, editions=[{'date': x['date'], 'number': x['number'], 'count': len(x['stories'])} for x in EDITIONS], prefix=prefix)
     serialized = json.dumps(metadata, ensure_ascii=False).replace('<', '\\u003c')
-    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(description)}"><meta name="theme-color" content="#f5f3ed"><link rel="canonical" href="{BASE}/{canonical}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/{canonical}"><link rel="icon" type="image/svg+xml" href="{prefix}assets/signal.svg"><link rel="stylesheet" href="{prefix}assets/style.css"><link rel="alternate" type="application/rss+xml" title="Signal editions" href="{prefix}feed.xml"></head>
+    return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(description)}"><meta name="theme-color" content="#f5f3ed"><link rel="canonical" href="{BASE}/{canonical}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/{canonical}"><link rel="icon" type="image/svg+xml" href="{prefix}assets/signal.svg"><link rel="stylesheet" href="{prefix}assets/style.css?v={ASSET_VERSION}"><link rel="alternate" type="application/rss+xml" title="Signal editions" href="{prefix}feed.xml"></head>
     <body><a class="skip" href="#main">Skip to the briefing</a><div class="progress" aria-hidden="true"></div><header class="wrap"><div class="topline eyebrow"><span class="status"><i class="status-dot"></i> An independent daily briefing</span><span>{e(stamp)}</span><span class="timezone">A global perspective</span></div><div class="masthead"><a class="wordmark" href="{prefix}" aria-label="Signal home">SIGNAL<span class="signal-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span></a><div class="masthead-note"><p>The world, considered.<br><em>Once a day.</em></p><div class="edition-stamp">Volume 01<br>Edition {edition['number']:03}<br>Est. 2026</div></div></div><nav class="navigation" aria-label="Main navigation"><div class="navlinks"><a href="{prefix}#edition">The edition</a><a href="{prefix}#ai-frontier">AI frontier</a><a href="{prefix}archive/">Archive</a><a class="about-nav" href="{prefix}about/">Our approach</a></div><div class="nav-actions"><button class="catchup" data-dialog="catchup-dialog">Catch me up ↗</button><button class="theme" aria-label="Switch color theme" title="Switch color theme">◐</button></div></nav></header>
     {content}
     <footer class="footer"><div class="wrap"><a class="footer-brand" href="{prefix}">SIGNAL</a><p>AI-assisted. Evidence-linked. Open to correction.<br>An independent publication by Blake Myers.</p><div class="footer-links"><a href="{prefix}about/">Our approach</a><a href="{prefix}archive/">Archive</a><a href="{prefix}feed.xml">RSS ↗</a><a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Corrections ↗</a></div></div></footer>
     <dialog id="story-dialog" aria-labelledby="story-dialog-title"><button class="close" aria-label="Close dialog">×</button><div id="story-dialog-content"></div></dialog>
     <dialog id="catchup-dialog" aria-labelledby="catchup-title"><button class="close" aria-label="Close dialog">×</button><div class="eyebrow">The thread, picked up</div><h2 id="catchup-title">Away for a few days?</h2><p>Choose the last edition you read. We’ll gather the developments published since then, grouped by story.</p><label for="since-date">Last edition read</label><select id="since-date" class="catchup-select"><option value="all">I’m new here</option>{''.join(f'<option value="{x["date"]}">{pretty(x["date"])}</option>' for x in reversed(EDITIONS))}</select><div id="catchup-results" aria-live="polite"></div></dialog>
-    <div class="toast" role="status" hidden></div><script id="signal-data" type="application/json">{serialized}</script><script src="{prefix}assets/app.js" defer></script></body></html>'''
+    <div class="toast" role="status" hidden></div><script id="signal-data" type="application/json">{serialized}</script><script src="{prefix}assets/app.js?v={ASSET_VERSION}" defer></script></body></html>'''
 
 def home(edition, prefix='./', archived=False):
     world = [s for s in edition['stories'] if s['section'] == 'world']

@@ -23,8 +23,8 @@
    "watchNext": "Watch whether disorder continues without large marches, which towns ban protests, and turnout for the November 5 strike.",
    "keyFacts": [
     "About 550,000 marchers by the government's count, 800,000 by organizers', on October 17",
-    "About 2,000 arrests nationwide, including a record 855 in Paris (provisional)",
-    "More than 600 police, gendarmes and firefighters injured (provisional)",
+    "About 2,400 arrests nationwide as of Sunday evening, including a record 855 in Paris (provisional)",
+    "About 1,000 police and gendarmes injured, per Interior Ministry figures reported Sunday evening (provisional)",
     "About 1,500 businesses hit directly, according to the retail federation",
     "A nationwide strike is called for November 5"
    ],
@@ -134,6 +134,29 @@
    },
    "regions": [
     "europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-10-18T18:10:00-05:00",
+     "label": "Evening update · 6:10 PM CT",
+     "text": "Provisional arrest figures rose to about 2,400 nationwide, and Interior Ministry figures cited by Al Jazeera put injured police and gendarmes at about 1,000. On Sunday hundreds gathered again at Paris's Place de la République, where police used tear gas as small groups tried to set bins and bicycles alight; the mayors of Paris, Marseille and Lyon asked to meet the prime minister.",
+     "sources": [
+      {
+       "publisher": "Associated Press via PBS NewsHour",
+       "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
+       "url": "https://www.pbs.org/newshour/world/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic",
+       "publishedAt": "2026-10-18 15:00 EDT; updated 17:10 EDT",
+       "kind": "reporting"
+      },
+      {
+       "publisher": "Al Jazeera",
+       "title": "'Anger and shame': Macron denounces France's nationwide rioting, looting",
+       "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
+       "publishedAt": "2026-10-18 (time zone not displayed)",
+       "kind": "reporting"
+      }
+     ]
+    }
    ]
   },
   {
@@ -395,6 +418,29 @@
    },
    "regions": [
     "middle-east"
+   ],
+   "updates": [
+    {
+     "at": "2026-10-18T18:10:00-05:00",
+     "label": "Evening update · 6:10 PM CT",
+     "text": "Egypt's National Defense Council, chaired by President el-Sissi, pledged \"all possible forms of support\" for Saudi Arabia's defence on Sunday without giving details, a day after el-Sissi asked parliament to authorize deploying troops abroad. Gulf Cooperation Council foreign ministers meeting in Manama declared that an attack on one member affects all six. In Yemen, the Houthi-run health ministry said an airstrike in Saada that it blamed on Saudi Arabia killed at least nine people.",
+     "sources": [
+      {
+       "publisher": "Associated Press via PBS NewsHour",
+       "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+       "url": "https://www.pbs.org/newshour/world/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
+       "publishedAt": "2026-10-18 15:22 EDT",
+       "kind": "reporting"
+      },
+      {
+       "publisher": "Al Jazeera",
+       "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+       "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies",
+       "publishedAt": "2026-10-18 (time zone not displayed)",
+       "kind": "reporting"
+      }
+     ]
+    }
    ]
   },
   {
@@ -414,7 +460,7 @@
    "uncertainty": "Seven cases is a small cluster. Whether it is contained depends on contact tracing that cannot yet be independently assessed.",
    "watchNext": "Watch for any case outside the known contact list, which would signal community spread.",
    "keyFacts": [
-    "Seven confirmed cases in Kenya, all linked to one imported case",
+    "Eight confirmed cases in Kenya as of Sunday evening, all linked to one imported case",
     "128 of about 130 known contacts are quarantined; two are being traced",
     "Congo's outbreak has killed at least 4,300 people since May",
     "The Bundibugyo strain has no approved vaccine or treatment"
@@ -499,6 +545,22 @@
    },
    "regions": [
     "africa"
+   ],
+   "updates": [
+    {
+     "at": "2026-10-18T18:10:00-05:00",
+     "label": "Evening update · 6:10 PM CT",
+     "text": "Kenya confirmed an eighth case on Sunday: a 49-year-old patient attendant who had cared for the first patient and tested positive while already in quarantine. Health officials say the other patients are stable, and the case count remains linked to the single imported case.",
+     "sources": [
+      {
+       "publisher": "Associated Press via News4JAX",
+       "title": "Kenya's Ebola cases hit 8, with no community transmission yet",
+       "url": "https://www.news4jax.com/health/2026/10/18/kenyas-ebola-cases-hit-8-with-no-community-transmission-yet/",
+       "publishedAt": "2026-10-18 16:35 (zone not displayed)",
+       "kind": "reporting"
+      }
+     ]
+    }
    ]
   },
   {
@@ -606,7 +668,7 @@
    "section": "more",
    "title": "Joseph Kabila now leads Congo’s main rebel coalition",
    "whatChanged": "A former president has taken the head of the rebellion, which now calls for resistance “by all means”.",
-   "body": "Congo’s former president is at the head of a new political-military coalition, the Front for the Refoundation of the Nation (FRN), announced in rebel-held Goma. It replaces the alliance that included the M23 and calls for resistance to President Félix Tshisekedi “by all means”, including force. The government has not responded officially. Peace advocates fear the move will undermine the Doha and Washington talks; the FRN says it will honour its Doha commitments.",
+   "body": "Congo’s former president is at the head of a new political-military coalition, the Front for the Refoundation of the Nation (FRN), announced in rebel-held Goma. It replaces the alliance that included the M23 and calls for resistance to President Félix Tshisekedi “by all means”, including force. Government spokesman Patrick Muyaya told AFP on October 16 that the front was the same armed movement under a new name. Peace advocates fear the move will undermine the Doha and Washington talks; the FRN says it will honour its Doha commitments.",
    "eventDate": "October 2026",
    "category": "Conflict",
    "region": "Africa · DR Congo",
@@ -621,6 +683,13 @@
      "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion",
      "publishedAt": "2026-10-18",
      "kind": "Independent reporting"
+    },
+    {
+     "publisher": "Africanews (AFP)",
+     "title": "DRC accuses ex-president Kabila of planning 'general attack' on the country",
+     "url": "https://www.africanews.com/2026/10/18/drc-accuses-ex-president-kabila-of-planning-general-attack-on-the-country/",
+     "publishedAt": "2026-10-18 (time not displayed)",
+     "kind": "reporting"
     }
    ],
    "threadId": "drc-conflict",
@@ -933,7 +1002,99 @@
    ],
    "threadId": "pope-leo-health",
    "threadTitle": "Pope Leo XIV’s health",
-   "threadSummary": "The pope’s diagnosis, treatment and what it means for his schedule."
+   "threadSummary": "The pope’s diagnosis, treatment and what it means for his schedule.",
+   "updates": [
+    {
+     "at": "2026-10-18T18:10:00-05:00",
+     "label": "Evening update · 6:10 PM CT",
+     "text": "Back at the Vatican, the pope led the Angelus from his window on Sunday as planned, thanking those who had prayed for him and the Gemelli hospital staff, and said he would resume his activities gradually. Audiences are cancelled through October 20.",
+     "sources": [
+      {
+       "publisher": "Vatican News",
+       "title": "Pope at Angelus: 'I have truly felt your support'",
+       "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-at-angelus-i-have-truly-felt-your-support.html",
+       "publishedAt": "2026-10-18 12:30 CEST",
+       "kind": "primary"
+      },
+      {
+       "publisher": "ABC News",
+       "title": "Pope Leo leads prayer at Vatican on Sunday following discharge from hospital",
+       "url": "https://abcnews.com/International/pope-leo-leads-prayer-vatican-sunday-discharge-hospital/story?id=137358488",
+       "publishedAt": "2026-10-18 06:38 (zone not displayed)",
+       "kind": "reporting"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "canada-wainwright-base-fire",
+   "section": "more",
+   "title": "A fire at an Alberta army base kills four service members",
+   "whatChanged": "Prime Minister Mark Carney confirmed four deaths on Sunday from a fire that began in a training area at CFB Wainwright.",
+   "body": "A fire broke out in a training area at Canadian Forces Base Wainwright at about 4 p.m. local time on Saturday and spread beyond the base in strong winds. Carney said four service members died and dozens were seriously hurt; Alberta's premier said 39 people remained in hospital, at least 19 in critical condition. Military sources told Global News that a munition from a live-fire exercise may have started a grass fire, and gave a higher death toll; neither the cause nor that toll has been officially confirmed.",
+   "eventDate": "2026-10-17 / 2026-10-18",
+   "category": "Disaster",
+   "region": "North America · Canada",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Major development",
+   "sources": [
+    {
+     "publisher": "Associated Press via CBS News",
+     "title": "4 dead, dozens wounded after large fire breaks out at Canadian military base, officials say",
+     "url": "https://www.cbsnews.com/news/deadly-incident-fire-alberta-canada-military-base-cfb-wainwright/",
+     "publishedAt": "2026-10-18 17:48 EDT",
+     "kind": "reporting"
+    },
+    {
+     "publisher": "Global News",
+     "title": "CFB Wainwright fire sparked by live training exercise, causes explosion: sources",
+     "url": "https://globalnews.ca/news/12107062/cfb-wainwright-fire-what-we-know/",
+     "publishedAt": "2026-10-18 13:44; updated 16:14 (zone not displayed)",
+     "kind": "reporting"
+    }
+   ],
+   "whyMatters": "Carney called it one of the Canadian military's worst peacetime tragedies, and questions about training in high winds will shape the investigation.",
+   "threadId": "cfb-wainwright-fire",
+   "threadTitle": "Fire at CFB Wainwright",
+   "threadSummary": "A deadly fire at a Canadian army training base in Alberta and the investigation into its cause."
+  },
+  {
+   "id": "trump-netanyahu-endorsement",
+   "section": "more",
+   "title": "Trump endorses Netanyahu nine days before Israel votes",
+   "whatChanged": "After months of holding back, the US president publicly backed Netanyahu for the October 27 election.",
+   "body": "On Truth Social on October 18, President Trump gave Benjamin Netanyahu his full endorsement, praising him as an ally in the war on Iran and warning that if Israelis chose another leader the United States would have to deal with Iran itself. Axios, which interviewed Trump, describes it as the first public endorsement by a US president in an Israeli election. Most polls show Netanyahu's coalition short of a 61-seat majority; his main rival, Gadi Eisenkot, said the vote is a domestic matter.",
+   "eventDate": "2026-10-18",
+   "category": "Politics",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Axios",
+     "title": "Trump tells Axios why he endorsed Netanyahu's reelection in Israel",
+     "url": "https://www.axios.com/2026/10/18/trump-endorses-netanyahu-israel-election-iran",
+     "publishedAt": "2026-10-18T15:06:00Z; updated 17:32 UTC",
+     "kind": "reporting with interview"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Trump endorses Netanyahu in Israeli legislative elections",
+     "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
+     "publishedAt": "2026-10-18 (time zone not displayed)",
+     "kind": "reporting"
+    }
+   ],
+   "whyMatters": "An open US intervention in a close Israeli race ties the election to the course of the Iran war.",
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel votes on October 27 on whether Benjamin Netanyahu's coalition keeps power."
   },
   {
    "id": "gemini-argon-release",
@@ -1259,7 +1420,7 @@
  "leadStoryId": "france-unrest",
  "regions": {
   "north-america": {
-   "summary": "Washington’s Russia sanctions waiver leads today. Alberta’s vote on Monday is the date to watch.",
+   "summary": "A deadly fire at an Alberta army base and Washington's Russia sanctions waiver lead. Alberta's referendum on Monday is the date to watch.",
    "briefs": [
     {
      "title": "Alberta votes Monday on whether to start leaving Canada",
@@ -1369,7 +1530,7 @@
    ]
   },
   "middle-east": {
-   "summary": "The Saudi–Houthi war is widening. In the West Bank, settler violence reached a delegation of European diplomats.",
+   "summary": "The Saudi–Houthi war is widening as Egypt and the Gulf states pledge support to Riyadh. Trump endorsed Netanyahu nine days before Israel's election, and settler violence reached European diplomats.",
    "briefs": [
     {
      "title": "Israel halts commercial goods into Gaza",
@@ -1448,5 +1609,16 @@
     }
    ]
   }
- }
+ },
+ "corrections": [
+  {
+   "storyId": "drc-kabila-rebel-front",
+   "date": "2026-10-18",
+   "original": "The government has not responded officially.",
+   "replacement": "Government spokesman Patrick Muyaya told AFP on October 16 that the front was the same armed movement under a new name.",
+   "reason": "AFP reported comments from the government spokesman on Friday, October 16. The morning text relied on a report that described no official reaction to the coalition."
+  }
+ ],
+ "updatedAt": "2026-10-18T18:10:00-05:00",
+ "updatedLabel": "6:10 PM CT"
 }

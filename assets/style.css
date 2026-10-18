@@ -252,3 +252,4 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .updated-row .corrected-tag+.corrected-tag{margin-left:8px}.updated-row .corrected-tag{margin-left:0}
 .updated-row{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
 .updated-row .corrected-tag+.corrected-tag{margin-left:0}
+.still-card .updated-row,.region-story .updated-row{margin:10px 0 12px}

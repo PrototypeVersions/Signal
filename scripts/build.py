@@ -371,10 +371,11 @@ def atlas(edition, prefix='./'):
             f'<aside class="atlas-detail" aria-live="polite">{panels}</aside></div></section>')
 
 def region_page(r, edition, prefix):
+    CORRECTED.clear(); CORRECTED.update(c['storyId'] for c in edition.get('corrections', []))
     name = e(r['name'])
     stories = ''.join(
         f'<article class="region-story"><span class="eyebrow">{e(s["region"])} / {i:02}</span><h3><a href="{prefix}stories/{e(s["id"])}/">{e(s["title"])}</a></h3>'
-        f'<p>{e(s["whatChanged"])}</p><a class="card-more" href="{prefix}stories/{e(s["id"])}/">Full report <span>→</span></a></article>'
+        f'<p>{e(s["whatChanged"])}</p>{row_tags(s, prefix)}<a class="card-more" href="{prefix}stories/{e(s["id"])}/">Full report <span>→</span></a></article>'
         for i, s in r['stories']) or f'<p class="region-empty">No {name} story made this edition’s main report.</p>'
     briefs = ''.join(
         f'<article class="region-brief" id="brief-{n}"><h3>{e(b["title"])}</h3><p class="source-note">{e(b["eventDate"])}</p><p>{e(b["text"])}</p>{source_links(b)}</article>'
@@ -403,7 +404,7 @@ def home(edition, prefix='./', archived=False):
     minutes = max(3, math.ceil(words / 200))
     archive_note = f'<div class="latest-link">You’re reading an archived edition. <a href="{prefix}"><u>Read the latest →</u></a></div>' if archived else ''
     rc = edition.get('realityCheck')
-    still_html = ''.join(f'''<article class="still-card" id="{s['id']}">{story_image(s,prefix,True)}<span class="eyebrow">{e(s['region'])}</span><h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3><p>{e(s['body'])}</p><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></article>''' for s in still)
+    still_html = ''.join(f'''<article class="still-card" id="{s['id']}">{story_image(s,prefix,True)}<span class="eyebrow">{e(s['region'])}</span><h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3><p>{e(s['body'])}</p>{row_tags(s, prefix)}<a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></article>''' for s in still)
     watch = ''.join(f'<div class="watch-item"><span>{i:02}</span><div><h3>{e(w["title"])}</h3><p>{e(w["text"])}</p></div></div>' for i, w in enumerate(edition['watch'], 1))
     world_cards = ''.join(card(s, num[s['id']], prefix, s['id'] == lead['id']) for s in world)
     more_items = ''.join(more_item(s, num[s['id']], prefix) for s in more)

@@ -198,11 +198,22 @@ def atlas(edition, prefix='./'):
     project=lambda lon,lat: ((lon+180)*2.2,(84-lat)*2.45)
     located=[(i,s) for i,s in enumerate(edition['stories'],1) if s.get('locations')]
     if not located: return ''
-    pins=''
+    # One pin per story, at its first (most representative) location; nudge pins apart so none overlap.
+    placed=[]
     for number,story in located:
-        for point in story['locations']:
-            x,y=project(point['lon'],point['lat'])
-            pins+=f'<a href="#{e(story["id"])}" class="map-pin" data-atlas-id="{e(story["id"])}" aria-label="{e(point["label"])}: {e(story["title"])}"><circle cx="{x:.1f}" cy="{y:.1f}" r="15"/><text x="{x:.1f}" y="{y+4:.1f}" text-anchor="middle">{number:02}</text></a>'
+        point=story['locations'][0]
+        x,y=project(point['lon'],point['lat'])
+        for _ in range(40):
+            clash=next(((px,py) for _,_,px,py,_ in placed if math.hypot(x-px,y-py)<32),None)
+            if not clash: break
+            dx,dy=x-clash[0],y-clash[1]
+            dist=math.hypot(dx,dy) or 1.0
+            if dist<1: dx,dy,dist=1.0,-1.0,1.4
+            x+=dx/dist*6; y+=dy/dist*6
+        placed.append((number,story,x,y,point))
+    pins=''
+    for number,story,x,y,point in placed:
+        pins+=f'<a href="#{e(story["id"])}" class="map-pin" data-atlas-id="{e(story["id"])}" aria-label="{e(point["label"])}: {e(story["title"])}"><circle cx="{x:.1f}" cy="{y:.1f}" r="15"/><text x="{x:.1f}" y="{y+4:.1f}" text-anchor="middle">{number:02}</text></a>'
     first=located[0][1]
     return f'''<section class="atlas" aria-labelledby="atlas-heading"><div class="atlas-top"><div class="eyebrow">The observatory / Reporting locations</div><span class="atlas-instruction">Choose a numbered location ↘</span></div><div class="atlas-layout"><div class="atlas-map"><h2 id="atlas-heading">A wider <em>perspective.</em></h2><svg viewBox="0 0 800 355" role="group" aria-label="World overview with approximate reporting locations"><defs><pattern id="atlas-grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#263c50" stroke-width=".6"/></pattern><pattern id="atlas-dots" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".8" fill="#59768d"/></pattern></defs><rect width="800" height="355" fill="url(#atlas-grid)"/><image href="{prefix}assets/visuals/world-overview.svg" width="800" height="355"/>{pins}</svg><p class="atlas-caption">Approximate reporting locations · map data: Natural Earth</p></div><aside class="atlas-detail" aria-live="polite"><span class="eyebrow" id="atlas-region">{e(first['region'])}</span><h3 id="atlas-title">{e(first['title'])}</h3><p id="atlas-change">{e(first['whatChanged'])}</p><a class="atlas-read" href="{thread_link(first,prefix)}">Follow this story <span>→</span></a></aside></div></section>'''
 

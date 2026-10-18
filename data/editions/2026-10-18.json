@@ -344,8 +344,8 @@
           },
           {
             "label": "South Atlantic",
-            "lon": -37,
-            "lat": -24,
+            "lon": -32,
+            "lat": -28,
             "kind": "water"
           }
         ],

@@ -221,7 +221,7 @@ def frontier_card(s, n, prefix, lead=False):
     return f'''<article class="story-card frontier-card{' lead' if lead else ''}" id="{e(s['id'])}" data-section="frontiers">
     {story_image(s,prefix,True)}<div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}</span><span class="number">{n:02}</span></div>
     <h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3>
-    <div class="frontier-hook"><span class="eyebrow">This changes the picture</span><p>{e(s.get('hook',s['whyMatters']))}</p></div>{updates_inline(s)}
+    <div class="frontier-hook"><span class="eyebrow">Why it matters</span><p>{e(s.get('hook',s['whyMatters']))}</p></div>{updates_inline(s)}
     <div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></div></article>'''
 
 def card(s, n, prefix, lead=False):

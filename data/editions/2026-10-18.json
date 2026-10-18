@@ -636,8 +636,8 @@
     }
    ],
    "image": {
-    "asset": "assets/editions/2026-10-18/china-solar-export-proposal.jpg",
-    "alt": "A geometric row of blue solar panels receding toward a copper sun.",
+    "asset": "assets/editions/2026-10-18/china-solar-export-proposal.svg",
+    "alt": "Rows of blue solar panels recede toward a copper boundary, with a low copper sun beyond it: a metaphor for controls on manufacturing know-how.",
     "credit": "Editorial illustration"
    },
    "threadId": "clean-energy-supply-chains",
@@ -826,16 +826,16 @@
    "section": "still",
    "locations": [
     {
-     "label": "Sudan",
-     "lon": 32,
-     "lat": 15
+     "label": "Khartoum",
+     "lon": 32.53,
+     "lat": 15.59
+    },
+    {
+     "label": "El Obeid",
+     "lon": 30.22,
+     "lat": 13.18
     }
    ],
-   "image": {
-    "asset": "assets/editions/2026-10-18/sudan-hunger-continues.jpg",
-    "alt": "An empty blue ceramic bowl beside a copper-colored stalk of grain, a symbolic still life about hunger.",
-    "credit": "Editorial illustration"
-   },
    "threadId": "sudan-hunger",
    "threadTitle": "Sudan’s hunger crisis",
    "threadSummary": "Food insecurity, aid access, and funding during a continuing humanitarian emergency.",
@@ -865,7 +865,40 @@
       "The war is in its fourth year without a lasting ceasefire. A humanitarian expert quoted by The National says funding for displaced people is more than 47% short and that UN agencies have cut staff who served refugees. This entry claims no new daily change in the hunger figures; it is here because a crisis of this size can fall out of view without ever easing."
      ]
     }
-   ]
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Sudan",
+    "bounds": [
+     20.5,
+     7.5,
+     39.5,
+     23.5
+    ],
+    "countries": [
+     "729"
+    ],
+    "labels": [
+     {
+      "label": "Darfur",
+      "lon": 24.3,
+      "lat": 13.2
+     },
+     {
+      "label": "Kordofan",
+      "lon": 29.5,
+      "lat": 11.2
+     },
+     {
+      "label": "Red Sea",
+      "lon": 38.3,
+      "lat": 20.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of Sudan with the Darfur and Kordofan regions labeled and Khartoum and El Obeid marked as reporting locations.",
+    "caption": "Sudan · Darfur and Kordofan, where famine risk is rising, are labeled"
+   }
   },
   {
    "id": "gemini-argon-release",
@@ -890,8 +923,8 @@
    "body": "Google released Gemini 4 Argon through its paid API and selected subscriptions on October 13. The company reports stronger performance on complex coding and professional tasks, and points to software changes made with the model. Availability is a concrete change; claims of broad productivity gains still need testing outside Google’s selected examples. Introductory API pricing ends November 30, so the launch price should not be mistaken for the permanent cost.",
    "region": "AI frontier",
    "image": {
-    "asset": "assets/editions/2026-10-18/gemini-argon-release.jpg",
-    "alt": "A faceted blue sphere opens around a copper core, symbolizing access to a new AI model.",
+    "asset": "assets/editions/2026-10-18/gemini-argon-release.svg",
+    "alt": "A segmented blue sphere with one section lifted away to reveal a glowing copper core: a metaphor for opening access to a new AI model.",
     "credit": "Editorial illustration"
    },
    "field": "AI",
@@ -957,8 +990,8 @@
    "body": "Anthropic says six METR employees now have internal access roughly comparable to its risk assessment teams. METR can publish assessments without Anthropic vetoing publication. The important qualification is that Anthropic can require redactions under defined categories, and determines which information falls within them. The arrangement expands outside scrutiny, but its value will depend on the evidence evaluators obtain and what reaches the public.",
    "region": "AI frontier",
    "image": {
-    "asset": "assets/editions/2026-10-18/anthropic-metr-access.jpg",
-    "alt": "A copper thread passes through three translucent blue doorways, a metaphor for independent evaluation access.",
+    "asset": "assets/editions/2026-10-18/anthropic-metr-access.svg",
+    "alt": "A copper line runs through three blue doorways toward a lit doorway in the distance: a metaphor for outside evaluators getting deeper access.",
     "credit": "Editorial illustration"
    },
    "field": "AI",
@@ -1015,8 +1048,8 @@
    "body": "Anthropic reports that an internal Claude research model traced several widely used elliptic-curve parameters to an old random-number generator initialized with timestamps. It published code to reproduce the recovered seeds. The result concerns how public cryptographic constants were chosen; it does not break encrypted messages or expose private keys. Some parameters and selection decisions remain unexplained, so the broader historical story is incomplete.",
    "region": "AI frontier",
    "image": {
-    "asset": "assets/editions/2026-10-18/claude-curve-seeds.jpg",
-    "alt": "Two intersecting blue ribbons with a copper thread, evoking a mathematical mystery being untangled.",
+    "asset": "assets/editions/2026-10-18/claude-curve-seeds.svg",
+    "alt": "Two interlaced blue loops with a copper thread and small beads running through them: a metaphor for tracing hidden values back to their source.",
     "credit": "Editorial illustration"
    },
    "field": "AI",

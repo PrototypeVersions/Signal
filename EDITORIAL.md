@@ -29,7 +29,7 @@ Optional `cover`: `storyId`, `asset` (an existing local `assets/` image), `alt`,
 Optional story `locations` is a list of objects with `label`, `lon`, and `lat`. Include only relevant, well-established reporting locations. These represent approximate locations on an illustrated world overview, not exact incident coordinates, disputed borders, or measurements. Omit when location is immaterial or uncertain. Numbering and the map are assembled automatically from available locations.
 
 ## Publication
-Editions are produced each morning by a scheduled Claude (Opus 5.5) task and published directly; there is no draft or manual review step. The task:
+Editions are produced each morning (about 5:57 AM Central) by a scheduled Claude (Opus 5.5) task, and updated each evening (see Evening update) and published directly; there is no draft or manual review step. The task:
 
 1. Clones or pulls `PrototypeVersions/Signal` and reads this file and the latest edition.
 2. Works out today's edition date in America/Chicago. If `data/editions/<date>.json` already exists, it stops and reports.
@@ -39,6 +39,17 @@ Editions are produced each morning by a scheduled Claude (Opus 5.5) task and pub
 6. Reports a short summary: lead story, items included, anything left out because it could not be verified, and any problem.
 
 If sources or access are insufficient, publish fewer items rather than weaker ones; if a usable edition cannot be produced, leave the latest edition in place and report the problem. Never add API credentials or spend paid API credits. Do not send email or social posts.
+
+## Evening update
+A second scheduled task runs each evening (about 5:57 PM Central) and updates that day's edition in place. It does not create a second edition.
+
+1. Read today's edition, recent editions and this guide. If today's edition does not exist (the morning run failed), produce a full edition instead, following the publication steps above, and say in `note` that it was published in the evening.
+2. Research what has happened since the morning `cutoff` for every story in the edition, every dated item in `watch`, and any major new development.
+3. For each story that materially moved, append to its `updates` list: `{"at": "<ISO time with zone>", "label": "Evening update · 5:55 PM CT", "text": "One to three sentences on what changed since this morning.", "sources": [ ...same source fields as stories... ]}`. Do not rewrite the morning's `title`, `body`, `whatChanged` or `report` unless they contain an error, in which case add a `corrections` entry. You may add a short paragraph to the end of a `report` section when the update needs more space, and update `keyFacts` when a figure has changed (state the time, e.g. "as of Sunday evening").
+4. Add at most two new stories, only for major new developments, in the normal schema. Change `leadStoryId` only if a new development clearly outranks the morning lead.
+5. Set top-level `updatedAt` (ISO time with zone) and `updatedLabel` (for example `5:55 PM CT`). Leave `cutoff` as the morning value. Rewrite `opening` only if the day's picture changed.
+6. Run `python3 scripts/build.py`, then commit and push to `main` with the message `Edition <N> evening update: <date>`.
+7. Report which stories were updated, any new stories, and anything left out because it could not be verified. If nothing material happened, still set `updatedAt` and say so.
 
 ## Corrections
 Published corrections are explicit. Add `corrections` objects with `storyId`, `date`, `original`, `replacement`, and `reason` to the affected edition. The build displays these notices. Do not silently rewrite published claims. Story pages show the latest published account and link to dated editions; a daily archive is the historical snapshot.

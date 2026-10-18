@@ -17,7 +17,7 @@ python3 -m http.server 8000 --directory dist
 
 ## Daily editions
 
-A scheduled Claude task (Opus 5.5) produces each edition every morning, Central time. It researches the day's developments, writes `data/editions/YYYY-MM-DD.json` following [EDITORIAL.md](EDITORIAL.md), validates it with `scripts/build.py`, and pushes to `main`; the push triggers validation and GitHub Pages publication. Every story includes key facts and a full report shown on its article page. No API key is used by this repository.
+A scheduled Claude task (Opus 5.5) produces each edition every morning, Central time, and a second task updates it each evening with what changed during the day. It researches the day's developments, writes `data/editions/YYYY-MM-DD.json` following [EDITORIAL.md](EDITORIAL.md), validates it with `scripts/build.py`, and pushes to `main`; the push triggers validation and GitHub Pages publication. Every story includes key facts and a full report shown on its article page. No API key is used by this repository.
 
 Keep story IDs stable when updating an ongoing story; the site assembles its history automatically. Every edition is dated and has an evidence cutoff. Do not invent prior editions.
 

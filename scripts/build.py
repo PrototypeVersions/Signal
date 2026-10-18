@@ -158,10 +158,24 @@ def evidence(s):
     return ''.join(f'<div class="evidence"><a href="{e(x["url"])}" target="_blank" rel="noopener noreferrer">{e(x["title"])} ↗</a><small>{e(x["publisher"])} · {e(x["publishedAt"])}{" · "+e(x["kind"]) if x.get("kind") else ""}</small></div>' for x in s['sources'])
 
 
-def corrections(edition, story_id=None):
-    items = [c for c in edition.get('corrections', []) if story_id is None or c['storyId'] == story_id]
-    if not items: return ''
-    return '<aside class="stale-note"><strong>Corrections to this edition</strong>' + ''.join(f'<p>{e(c["date"])} · Previously: {e(c["original"])}<br>Corrected: {e(c["replacement"])}<br>{e(c["reason"])}</p>' for c in items) + '</aside>'
+CORRECTED = set()
+
+def correction_items(edition, story_id):
+    return [c for c in edition.get('corrections', []) if c['storyId'] == story_id]
+
+def correction_body(c):
+    when = pretty(c['date']) if re.fullmatch(r'\d{4}-\d{2}-\d{2}', c['date']) else c['date']
+    return (f'<span class="eyebrow">Correction · {e(when)}</span>'
+            f'<p><strong>An earlier version said:</strong> “{e(c["original"])}”</p>'
+            f'<p><strong>It now says:</strong> {e(c["replacement"])}</p>'
+            f'<p class="correction-why">{e(c["reason"])}</p>')
+
+def corrections(edition, story_id):
+    """Corrections appear with the story they correct, at the end of its page."""
+    return ''.join(f'<aside class="correction-box" id="correction">{correction_body(c)}</aside>' for c in correction_items(edition, story_id))
+
+def corrected_tag(s, prefix):
+    return f'<a class="corrected-tag" href="{prefix}stories/{e(s["id"])}/#correction">Corrected</a>' if s['id'] in CORRECTED else ''
 
 
 def story_image(s, prefix, link=False):
@@ -220,13 +234,13 @@ def lead_story(edition):
 
 def frontier_card(s, n, prefix, lead=False):
     return f'''<article class="story-card frontier-card{' lead' if lead else ''}" id="{e(s['id'])}" data-section="frontiers">
-    {story_image(s,prefix,True)}<div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}</span><span class="number">{n:02}</span></div>
+    {story_image(s,prefix,True)}<div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}{corrected_tag(s, prefix)}</span><span class="number">{n:02}</span></div>
     <h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3>
     <div class="frontier-hook"><span class="eyebrow">Why it matters</span><p>{e(s.get('hook',s['whyMatters']))}</p></div>{updates_inline(s)}
     <div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></div></article>'''
 
 def card(s, n, prefix, lead=False):
-    kicker = f'<div class="kicker"><span class="eyebrow">{("Top story · " if lead else "")+e(s["region"])} / {e(s["category"])}</span><span class="number">{n:02}</span></div>'
+    kicker = f'<div class="kicker"><span class="eyebrow">{("Top story · " if lead else "")+e(s["region"])} / {e(s["category"])}{corrected_tag(s, prefix)}</span><span class="number">{n:02}</span></div>'
     title = f'<h3><a href="{prefix}stories/{s["id"]}/">{e(s["title"])}</a></h3>'
     change = f'<div class="change"><p><strong>What changed</strong><br>{e(s["whatChanged"])}</p></div>{updates_inline(s)}'
     context = f'<div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(s["whyMatters"])}</p></div>'
@@ -241,7 +255,7 @@ def card(s, n, prefix, lead=False):
 
 def more_item(s, n, prefix):
     report = f'<a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a>' if s.get('report') else ''
-    return f'''<article class="more-item" id="{e(s['id'])}"><span class="more-number">{n:02}</span><div class="more-copy"><span class="eyebrow">{e(s['region'])} / {e(s['category'])}</span><h3>{e(s['title'])}</h3><p class="more-dek">{e(s['whatChanged'])}</p>{updates_inline(s)}<details class="more-details"><summary>More</summary><p>{e(s['body'])}</p>{source_links(s)}</details>{report}</div></article>'''
+    return f'''<article class="more-item" id="{e(s['id'])}"><span class="more-number">{n:02}</span><div class="more-copy"><span class="eyebrow">{e(s['region'])} / {e(s['category'])}{corrected_tag(s, prefix)}</span><h3>{e(s['title'])}</h3><p class="more-dek">{e(s['whatChanged'])}</p>{updates_inline(s)}<details class="more-details"><summary>More</summary><p>{e(s['body'])}</p>{source_links(s)}</details>{report}</div></article>'''
 
 def reality_card(rc):
     return f'''<article class="story-card frontier-card reality-card"><div class="kicker"><span class="eyebrow">Reality check / A claim, tested</span></div><h3>{e(rc['title'])}</h3><div class="frontier-hook"><span class="eyebrow">What the evidence does and doesn’t show</span><p>{e(rc['text'])}</p></div><div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{e(rc['url'])}" target="_blank" rel="noopener noreferrer">Read the research <span>↗</span></a></div></article>'''
@@ -253,7 +267,7 @@ def shell(content, edition, title='The Signal — The world, considered. Once a 
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(description)}"><meta name="theme-color" content="#09131d"><link rel="canonical" href="{BASE}/{canonical}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:site_name" content="The Signal"><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/{canonical}"><meta property="og:image" content="{BASE}/assets/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="The Signal. The world, considered. Once a day."><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{e(title)}"><meta name="twitter:description" content="{e(description)}"><meta name="twitter:image" content="{BASE}/assets/og-image.png">{f'<script data-goatcounter="https://{analytics_code()}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>' if analytics_code() else ''}<link rel="icon" type="image/svg+xml" href="{prefix}assets/signal.svg?v={ASSET_VERSION}"><link rel="stylesheet" href="{prefix}assets/style.css?v={ASSET_VERSION}"><link rel="alternate" type="application/rss+xml" title="The Signal editions" href="{prefix}feed.xml"></head>
     <body><a class="skip" href="#main">Skip to the briefing</a><div class="progress" aria-hidden="true"></div><header class="wrap"><div class="topline eyebrow"><span class="status"><i class="status-dot"></i> An independent daily briefing</span><span>{e(stamp)}</span><span class="timezone">A global perspective</span></div><div class="masthead"><a class="wordmark" href="{prefix}" aria-label="The Signal home"><span class="wordmark-the">The</span><span>Signal</span></a><div class="masthead-note"><p>The world, considered.<br><em>Once a day.</em></p><div class="edition-stamp"><span>Nº</span><strong>{edition['number']:03}</strong><small>The daily edition</small></div></div></div><nav class="navigation" aria-label="Main navigation"><div class="navlinks"><a href="{prefix}#edition">The edition</a><a href="{prefix}#frontiers">Frontiers</a><a class="regions-nav" href="{prefix}#regions">Regions</a><a class="archive-nav" href="{prefix}archive/">Archive</a><a class="about-nav" href="{prefix}about/">Our approach</a></div><div class="nav-actions"><button class="catchup" data-dialog="catchup-dialog">Catch me up ↗</button></div></nav></header>
     {content}
-    <footer class="footer"><div class="wrap"><a class="footer-brand" href="{prefix}"><span>The</span> Signal</a><p>Evidence-linked. Open to correction.</p><div class="footer-links"><a href="{prefix}about/">Our approach</a><a href="{prefix}archive/">Archive</a><a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Corrections ↗</a></div></div></footer>
+    <footer class="footer"><div class="wrap"><a class="footer-brand" href="{prefix}"><span>The</span> Signal</a><p>Evidence-linked. Open to correction.</p><div class="footer-links"><a href="{prefix}about/">Our approach</a><a href="{prefix}archive/">Archive</a><a href="{prefix}corrections/">Corrections</a></div></div></footer>
     <dialog id="catchup-dialog" aria-labelledby="catchup-title"><button class="close" aria-label="Close dialog">×</button><div class="eyebrow">The thread, picked up</div><h2 id="catchup-title">How long were you away?</h2><p id="catchup-welcome" hidden></p><div class="cu-choices" role="group" aria-label="Time away"><button data-days="1">Since yesterday</button><button data-days="3">Last 3 days</button><button data-days="7">Last week</button><button data-days="14">Last 2 weeks</button><button data-days="30">Last month</button><button data-days="new">I’m new here</button></div><p class="cu-longer">Away for longer? <a href="{prefix}archive/">Browse the archive →</a></p><div id="catchup-results" aria-live="polite"></div></dialog>
     <div class="toast" role="status" hidden></div><script id="signal-data" type="application/json">{serialized}</script><script src="{prefix}assets/app.js?v={ASSET_VERSION}" defer></script></body></html>'''
 
@@ -355,6 +369,7 @@ def region_page(r, edition, prefix):
             f'{briefs}</article></main>')
 
 def home(edition, prefix='./', archived=False):
+    CORRECTED.clear(); CORRECTED.update(c['storyId'] for c in edition.get('corrections', []))
     stories = edition['stories']
     num = {s['id']: i for i, s in enumerate(stories, 1)}
     lead = lead_story(edition)
@@ -373,7 +388,7 @@ def home(edition, prefix='./', archived=False):
     world_cards = ''.join(card(s, num[s['id']], prefix, s['id'] == lead['id']) for s in world)
     more_items = ''.join(more_item(s, num[s['id']], prefix) for s in more)
     ai_cards = ''.join(frontier_card(s, num[s['id']], prefix, s['id'] == lead['id']) for s in ai) + (reality_card(rc) if rc else '')
-    return archive_note + f'''<main id="main" class="wrap">{corrections(edition)}
+    return archive_note + f'''<main id="main" class="wrap">
     <section class="issue-intro" id="edition"><div><div class="eyebrow">The daily edition / {edition['number']:03}</div><h2>{e(pretty(edition['date']))}</h2></div><div class="edition-meta"><span>{count} developments</span><span>≈ {minutes} min read</span><span>Checked {e(edition['cutoffLabel'])}</span>{f'<span class="updated-stamp">Updated {e(edition["updatedLabel"])}</span>' if edition.get('updatedAt') else ''}</div></section><div class="stale-note" id="stale-note" hidden></div><div class="welcome-back" id="welcome-back" hidden><span></span><button class="textlink" data-dialog="catchup-dialog">Catch up on what changed →</button></div>
     <section class="opening-note" aria-label="Today in brief"><span class="eyebrow">The day, in view</span><p>{e(edition['opening'])}</p></section>
     <section class="world-grid-section" {"hidden" if not world_cards else ""}><div class="section-title"><div><span class="eyebrow">The world / In focus</span><h2>Across the <em>world.</em></h2></div></div><div class="story-grid world-grid" aria-label="World developments">{world_cards}</div></section>
@@ -408,6 +423,8 @@ def assessment_box(s):
     if s.get('watchNext'): rows += f'<div><dt>Watch next</dt><dd>{e(s["watchNext"])}</dd></div>'
     label = 'Our assessment' if s.get('whyMatters') else 'What changed'
     note = '<p class="assessment-note">“Why it matters” and “Watch next” are editorial judgments; the rest is drawn from the sources below.</p>' if s.get('whyMatters') else ''
+    if not s.get('whyMatters') and not s.get('uncertainty') and not s.get('watchNext'):
+        return f'<section class="assessment-box single" id="assessment" aria-label="What changed"><span class="eyebrow">What changed</span><p>{e(s["whatChanged"])}</p></section>'
     return f'<section class="assessment-box" id="assessment" aria-label="{label}"><span class="eyebrow">{label}</span><dl>{rows}</dl>{note}</section>'
 
 def assessment_block(story):
@@ -437,9 +454,9 @@ def article(s, edition, history):
     recent_reports=list(reversed(thread_history))[:10]
     timeline=''.join(f'<div class="archive-row"><div><a href="../../editions/{x["date"]}/#{item["id"]}">{pretty(x["date"])}</a><h3>{e(item["title"])}</h3><p>{e(item["whatChanged"])}</p></div></div>' for x,item in recent_reports)
     if len(thread_history)>10: timeline+=f'<p class="source-note"><a href="{thread_link(s,"../../")}">See all {len(thread_history)} reports in this story →</a></p>'
-    return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(event_label(s['eventDate']))} · {e(read_label(s))}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div>{story_image(s,"../../")}{updates_full(s)}<p class="article-summary">{e(s['body'])}</p>{key_facts(s)}{full_report(s)}{assessment_box(s)}{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
+    return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(event_label(s['eventDate']))} · {e(read_label(s))}{' · <a href="#correction">Corrected</a>' if correction_items(edition, s['id']) else ''}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div>{story_image(s,"../../")}{updates_full(s)}<p class="article-summary">{e(s['body'])}</p>{key_facts(s)}{full_report(s)}{assessment_box(s)}{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
 
-ABOUT_TEMPLATE = '''<main class="wrap" id="main"><article class="article-page"><div class="eyebrow">The editorial promise</div><h1>Attention is finite.<br><em>Spend it well.</em></h1><p class="article-summary">The Signal is an independent daily briefing. It follows consequential changes in the world and at the frontiers of AI and science, in one daily edition.</p>{signup}<h2>Change, with context</h2><p>We ask what is new, how strong the evidence is, and what the development could change. A quieter day can mean a shorter edition. An enduring crisis can deserve attention even when there is no fresh headline.</p><h2>Evidence before certainty</h2><p>Every item links to its sources. We prioritize primary documents and established reporting, seek independent corroboration, and distinguish an announcement from a demonstrated result. Sources repeating the same original account are not independent confirmation. Company research is labeled as such.</p><h2>Facts and judgments</h2><p>The report and “What changed” describe available evidence. “Why it matters” and “Watch next” are editorial assessments. We show uncertainties instead of manufacturing precise importance scores or unsupported probabilities.</p><h2>A publication with a memory</h2><p>Daily editions are retained in the archive. Continuing stories use stable identifiers so their developments can be followed across editions. The first edition starts that record; it does not invent a past.</p><h2>How each edition is produced</h2><p>Each morning, the edition is researched and assembled from the linked reporting, and each evening it is updated where stories have moved, with context, evidence limitations, and a clear point at which to stop. Follow those sources for their full reporting.</p><h2>Corrections belong in the open</h2><p>If a claim is wrong, we correct it and record what changed. We do not silently erase mistakes from the historical record. <a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Report an error on GitHub ↗</a></p><h2>Images as editorial interpretation</h2><p>Our original illustrations use simple visual metaphors for each story. They are labeled as illustrations, not photographs of the reported events, and are not evidence for the reporting. Maps locate the reporting; charts show sourced figures; illustrations provide a visual interpretation. Each edition uses the form that best explains the story.</p><h2>Your reading stays yours</h2><p>{privacy}</p><h2>Read at your own pace</h2><p>{signup_note}Every main story has a full report with key facts, background, sources and a dated timeline, and shorter items under More that changed open with a tap; Follow opens the whole thread across editions. Regions gathers each part of the world in one place.</p></article></main>'''
+ABOUT_TEMPLATE = '''<main class="wrap" id="main"><article class="article-page"><div class="eyebrow">The editorial promise</div><h1>Attention is finite.<br><em>Spend it well.</em></h1><p class="article-summary">The Signal is an independent daily briefing. It follows consequential changes in the world and at the frontiers of AI and science, in one daily edition.</p>{signup}<h2>Change, with context</h2><p>We ask what is new, how strong the evidence is, and what the development could change. A quieter day can mean a shorter edition. An enduring crisis can deserve attention even when there is no fresh headline.</p><h2>Evidence before certainty</h2><p>Every item links to its sources. We prioritize primary documents and established reporting, seek independent corroboration, and distinguish an announcement from a demonstrated result. Sources repeating the same original account are not independent confirmation. Company research is labeled as such.</p><h2>Facts and judgments</h2><p>The report and “What changed” describe available evidence. “Why it matters” and “Watch next” are editorial assessments. We show uncertainties instead of manufacturing precise importance scores or unsupported probabilities.</p><h2>A publication with a memory</h2><p>Daily editions are retained in the archive. Continuing stories use stable identifiers so their developments can be followed across editions. The first edition starts that record; it does not invent a past.</p><h2>How each edition is produced</h2><p>Each morning, the edition is researched and assembled from the linked reporting, and each evening it is updated where stories have moved, with context, evidence limitations, and a clear point at which to stop. Follow those sources for their full reporting.</p><h2>Corrections belong in the open</h2><p>If a claim is wrong, we correct it and record what changed. We do not silently erase mistakes from the historical record. <a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Report an error on GitHub ↗</a> · <a href="../corrections/">See every correction →</a></p><h2>Images as editorial interpretation</h2><p>Our original illustrations use simple visual metaphors for each story. They are labeled as illustrations, not photographs of the reported events, and are not evidence for the reporting. Maps locate the reporting; charts show sourced figures; illustrations provide a visual interpretation. Each edition uses the form that best explains the story.</p><h2>Your reading stays yours</h2><p>{privacy}</p><h2>Read at your own pace</h2><p>{signup_note}Every main story has a full report with key facts, background, sources and a dated timeline, and shorter items under More that changed open with a tap; Follow opens the whole thread across editions. Regions gathers each part of the world in one place.</p></article></main>'''
 
 def about_page():
     privacy = 'There is no advertising. '
@@ -514,6 +531,18 @@ if __name__ == '__main__':
                     f'<section id="stories" class="archive-block"><div class="section-title"><div><span class="eyebrow">The longer view</span><h2>Stories, <em>followed.</em></h2></div></div><p class="archive-lede">The most followed stories come first. Each opens a dated timeline of everything we have reported on it.</p>{thread_sections(THREADS, "../")}</section>'
                     f'<section id="editions" class="archive-block"><div class="section-title"><div><span class="eyebrow">Every edition</span><h2>Day by <em>day.</em></h2></div></div><div class="archive-list">{rows}</div></section></main>')
     write('archive/index.html',shell(archive_html,latest,'The archive — The Signal','../','archive/'))
+    log_by_month = {}
+    for x in reversed(EDITIONS):
+        titles = {s['id']: s['title'] for s in x['stories']}
+        for c in reversed(x.get('corrections', [])):
+            title = titles.get(c['storyId'], c['storyId'])
+            log_by_month.setdefault(x['date'][:7], []).append(f'<article class="correction-entry"><h2><a href="../stories/{e(c["storyId"])}/">{e(title)}</a></h2><p class="source-note">Edition of {e(pretty(x["date"]))}</p><div class="correction-box">{correction_body(c)}</div></article>')
+    log_html = ''.join(f'<details class="archive-month"{" open" if i == 0 else ""}><summary>{date.fromisoformat(month + "-01").strftime("%B %Y")} · {len(items)} correction{"s" if len(items) != 1 else ""}</summary>{"".join(items)}</details>' for i, (month, items) in enumerate(log_by_month.items()))
+    report_link = '<a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Report an error on GitHub ↗</a>'
+    corrections_html = (f'<main class="wrap" id="main"><article class="article-page"><div class="eyebrow">The record, corrected</div><h1>Corrections.</h1>'
+                        f'<p class="article-summary">When we get something wrong, we fix it and say so. Each correction also appears at the end of the story it corrects.</p>'
+                        f'<p>{report_link}</p>{log_html or "<p>No corrections have been needed so far.</p>"}</article></main>')
+    write('corrections/index.html',shell(corrections_html,latest,'Corrections — The Signal','../','corrections/'))
     write('about/index.html',shell(about_page(),latest,'Our approach — The Signal','../','about/'))
     recent = [x for x in EDITIONS if (date.fromisoformat(latest['date']) - date.fromisoformat(x['date'])).days <= 35]
     def slim(x):
@@ -539,7 +568,7 @@ if __name__ == '__main__':
         return f'<item><title>{xml_escape("The Signal — "+pretty(x["date"]))}</title><link>{link}</link><guid isPermaLink="true">{link}</guid><pubDate>{stamp}</pubDate><description><![CDATA[{body}]]></description></item>'
     items=''.join(feed_item(x) for x in list(reversed(EDITIONS))[:30])
     write('feed.xml',f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>The Signal</title><link>{BASE}/</link><description>A clearer view of a changing world.</description><language>en</language>{items}</channel></rss>')
-    paths=['','archive/','about/']+[f'threads/{slug}/' for slug in THREADS]+[f'stories/{s}/' for s in index]+[f'editions/{x["date"]}/' for x in EDITIONS]+[f'regions/{slug}/' for slug in REGION_SLUGS]
+    paths=['','archive/','about/','corrections/']+[f'threads/{slug}/' for slug in THREADS]+[f'stories/{s}/' for s in index]+[f'editions/{x["date"]}/' for x in EDITIONS]+[f'regions/{slug}/' for slug in REGION_SLUGS]
     write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{BASE}/{x}</loc></url>' for x in paths)+'</urlset>')
     write('robots.txt',f'User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n')
     write('.nojekyll','')

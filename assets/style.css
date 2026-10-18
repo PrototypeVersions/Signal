@@ -230,3 +230,14 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .thread-month>summary,.archive-month>summary{font:600 11px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--accent);cursor:pointer;width:fit-content}
 .thread-month[open]>summary,.archive-month[open]>summary{margin-bottom:10px}
 .thread-month .archive-row h3 a{text-decoration:none}
+/* Corrections: with the story they correct */
+.corrected-tag{display:inline-block;margin-left:10px;padding:1px 7px;border:1px solid var(--accent);border-radius:999px;font:600 9px/1.6 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--accent);text-decoration:none;vertical-align:1px}
+.corrected-tag:hover{background:rgba(212,160,125,.12)}
+.correction-box{margin:28px 0 8px;padding:18px 22px;border:1px solid var(--line);border-left:2px solid var(--accent);background:#0c1825;scroll-margin-top:20px}
+.correction-box p{font-size:14px;line-height:1.7;margin:8px 0 0;color:var(--ink)}
+.correction-box strong{font-weight:600}
+.correction-box .correction-why{color:var(--muted);font-size:13px}
+.correction-entry{border-top:1px solid var(--line);padding-top:22px;margin-top:26px}
+.correction-entry h2{font-size:26px;margin:0 0 4px}
+.correction-entry h2 a{text-decoration:none}
+.assessment-box.single p{font-size:15px;line-height:1.7;margin:10px 0 0;color:var(--ink)}

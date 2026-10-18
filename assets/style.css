@@ -196,3 +196,32 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .thread-more:last-of-type{margin-bottom:70px}
 .edition-note-box{margin:40px 0 0;padding:16px 20px;border-left:2px solid var(--accent);background:var(--panel);max-width:760px}
 .edition-note-box p{margin:6px 0 0;font-size:14px;line-height:1.7;color:var(--ink)}
+/* Catch me up */
+.cu-choices{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 4px}
+.cu-choices button{padding:9px 14px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--ink);font:13px var(--sans);cursor:pointer}
+.cu-choices button:hover{border-color:var(--accent)}
+.cu-choices button[aria-pressed=true]{border-color:var(--accent);background:rgba(212,160,125,.14);color:var(--accent)}
+.cu-longer{font-size:12px!important;margin:8px 0 0}
+.cu-longer a{color:var(--accent)}
+#catchup-welcome{color:var(--accent)!important;margin:-10px 0 12px}
+.cu-intro{margin:22px 0 4px;padding-top:16px;border-top:1px solid var(--line)}
+.cu-thread{padding:18px 0;border-bottom:1px solid var(--line)}
+.cu-thread h3{margin:8px 0 8px!important;font-size:24px!important}
+.cu-thread .cu-summary{color:var(--ink);margin:0 0 6px}
+.cu-latest{margin:0}
+.cu-latest small,.cu-earlier small{font:10px var(--mono);color:var(--accent);margin-right:6px}
+.cu-latest a{color:var(--ink);text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+.cu-earlier>summary,.cu-more>summary{font:600 10px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);cursor:pointer;margin-top:8px;width:fit-content}
+.cu-earlier p{margin:8px 0 0;padding-left:12px;border-left:1px solid var(--line)}
+.cu-more{margin-top:16px}
+.welcome-back{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:baseline;padding:12px 16px;margin:14px 0 4px;background:var(--panel);border-left:2px solid var(--accent);font-size:14px}
+.welcome-back[hidden]{display:none}
+.welcome-back .textlink{color:var(--accent);background:none;border:0;padding:0;font:inherit;cursor:pointer}
+/* Archive: by story and by date */
+.archive-jump{display:flex;gap:10px;margin:18px 0 10px}
+.archive-jump a{padding:8px 14px;border:1px solid var(--line);border-radius:999px;font-size:13px;text-decoration:none}
+.archive-jump a:hover{border-color:var(--accent)}
+.archive-block{margin-top:50px;scroll-margin-top:20px}
+.archive-lede{color:var(--muted);max-width:640px;margin:6px 0 24px}
+#editions .archive-list{margin-top:10px}
+@media(max-width:600px){.navlinks .archive-nav{display:inline}}

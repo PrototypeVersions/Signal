@@ -248,13 +248,13 @@ def reality_card(rc):
 
 def shell(content, edition, title='The Signal — The world, considered. Once a day.', prefix='./', canonical='', payload=True, description='A finite daily briefing on the world, AI, and consequential scientific advances. What changed, why it matters, and the evidence behind it.'):
     stamp = date.fromisoformat(edition['date']).strftime('%A, %d %B %Y')
-    metadata = dict(edition=edition, editions=[{'date': x['date'], 'number': x['number'], 'count': len(x['stories'])} for x in EDITIONS], prefix=prefix)
+    metadata = dict(edition={'date': edition['date'], 'cutoff': edition['cutoff'], 'number': edition['number']}, latest=EDITIONS[-1]['date'], prefix=prefix)
     serialized = json.dumps(metadata, ensure_ascii=False).replace('<', '\\u003c')
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(description)}"><meta name="theme-color" content="#09131d"><link rel="canonical" href="{BASE}/{canonical}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:site_name" content="The Signal"><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/{canonical}"><meta property="og:image" content="{BASE}/assets/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="The Signal. The world, considered. Once a day."><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{e(title)}"><meta name="twitter:description" content="{e(description)}"><meta name="twitter:image" content="{BASE}/assets/og-image.png">{f'<script data-goatcounter="https://{analytics_code()}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>' if analytics_code() else ''}<link rel="icon" type="image/svg+xml" href="{prefix}assets/signal.svg?v={ASSET_VERSION}"><link rel="stylesheet" href="{prefix}assets/style.css?v={ASSET_VERSION}"><link rel="alternate" type="application/rss+xml" title="The Signal editions" href="{prefix}feed.xml"></head>
-    <body><a class="skip" href="#main">Skip to the briefing</a><div class="progress" aria-hidden="true"></div><header class="wrap"><div class="topline eyebrow"><span class="status"><i class="status-dot"></i> An independent daily briefing</span><span>{e(stamp)}</span><span class="timezone">A global perspective</span></div><div class="masthead"><a class="wordmark" href="{prefix}" aria-label="The Signal home"><span class="wordmark-the">The</span><span>Signal</span></a><div class="masthead-note"><p>The world, considered.<br><em>Once a day.</em></p><div class="edition-stamp"><span>Nº</span><strong>{edition['number']:03}</strong><small>The daily edition</small></div></div></div><nav class="navigation" aria-label="Main navigation"><div class="navlinks"><a href="{prefix}#edition">The edition</a><a href="{prefix}#frontiers">Frontiers</a><a class="regions-nav" href="{prefix}#regions">Regions</a><a href="{prefix}threads/">Threads</a><a class="archive-nav" href="{prefix}archive/">Archive</a><a class="about-nav" href="{prefix}about/">Our approach</a></div><div class="nav-actions"><button class="catchup" data-dialog="catchup-dialog">Catch me up ↗</button></div></nav></header>
+    <body><a class="skip" href="#main">Skip to the briefing</a><div class="progress" aria-hidden="true"></div><header class="wrap"><div class="topline eyebrow"><span class="status"><i class="status-dot"></i> An independent daily briefing</span><span>{e(stamp)}</span><span class="timezone">A global perspective</span></div><div class="masthead"><a class="wordmark" href="{prefix}" aria-label="The Signal home"><span class="wordmark-the">The</span><span>Signal</span></a><div class="masthead-note"><p>The world, considered.<br><em>Once a day.</em></p><div class="edition-stamp"><span>Nº</span><strong>{edition['number']:03}</strong><small>The daily edition</small></div></div></div><nav class="navigation" aria-label="Main navigation"><div class="navlinks"><a href="{prefix}#edition">The edition</a><a href="{prefix}#frontiers">Frontiers</a><a class="regions-nav" href="{prefix}#regions">Regions</a><a class="archive-nav" href="{prefix}archive/">Archive</a><a class="about-nav" href="{prefix}about/">Our approach</a></div><div class="nav-actions"><button class="catchup" data-dialog="catchup-dialog">Catch me up ↗</button></div></nav></header>
     {content}
-    <footer class="footer"><div class="wrap"><a class="footer-brand" href="{prefix}"><span>The</span> Signal</a><p>Evidence-linked. Open to correction.</p><div class="footer-links"><a href="{prefix}about/">Our approach</a><a href="{prefix}threads/">Threads</a><a href="{prefix}archive/">Archive</a><a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Corrections ↗</a></div></div></footer>
-    <dialog id="catchup-dialog" aria-labelledby="catchup-title"><button class="close" aria-label="Close dialog">×</button><div class="eyebrow">The thread, picked up</div><h2 id="catchup-title">Away for a few days?</h2><p>Choose the last edition you read. We’ll gather the developments published since then, grouped by story.</p><label for="since-date">Last edition read</label><select id="since-date" class="catchup-select"><option value="all">I’m new here</option>{''.join(f'<option value="{x["date"]}">{pretty(x["date"])}</option>' for x in reversed(EDITIONS))}</select><div id="catchup-results" aria-live="polite"></div></dialog>
+    <footer class="footer"><div class="wrap"><a class="footer-brand" href="{prefix}"><span>The</span> Signal</a><p>Evidence-linked. Open to correction.</p><div class="footer-links"><a href="{prefix}about/">Our approach</a><a href="{prefix}archive/">Archive</a><a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Corrections ↗</a></div></div></footer>
+    <dialog id="catchup-dialog" aria-labelledby="catchup-title"><button class="close" aria-label="Close dialog">×</button><div class="eyebrow">The thread, picked up</div><h2 id="catchup-title">How long were you away?</h2><p id="catchup-welcome" hidden></p><div class="cu-choices" role="group" aria-label="Time away"><button data-days="1">Since yesterday</button><button data-days="3">Last 3 days</button><button data-days="7">Last week</button><button data-days="14">Last 2 weeks</button><button data-days="30">Last month</button><button data-days="new">I’m new here</button></div><p class="cu-longer">Away for longer? <a href="{prefix}archive/">Browse the archive →</a></p><div id="catchup-results" aria-live="polite"></div></dialog>
     <div class="toast" role="status" hidden></div><script id="signal-data" type="application/json">{serialized}</script><script src="{prefix}assets/app.js?v={ASSET_VERSION}" defer></script></body></html>'''
 
 REGIONS = [
@@ -374,7 +374,7 @@ def home(edition, prefix='./', archived=False):
     more_items = ''.join(more_item(s, num[s['id']], prefix) for s in more)
     ai_cards = ''.join(frontier_card(s, num[s['id']], prefix, s['id'] == lead['id']) for s in ai) + (reality_card(rc) if rc else '')
     return archive_note + f'''<main id="main" class="wrap">{corrections(edition)}
-    <section class="issue-intro" id="edition"><div><div class="eyebrow">The daily edition / {edition['number']:03}</div><h2>{e(pretty(edition['date']))}</h2></div><div class="edition-meta"><span>{count} developments</span><span>≈ {minutes} min read</span><span>Checked {e(edition['cutoffLabel'])}</span>{f'<span class="updated-stamp">Updated {e(edition["updatedLabel"])}</span>' if edition.get('updatedAt') else ''}</div></section><div class="stale-note" id="stale-note" hidden></div>
+    <section class="issue-intro" id="edition"><div><div class="eyebrow">The daily edition / {edition['number']:03}</div><h2>{e(pretty(edition['date']))}</h2></div><div class="edition-meta"><span>{count} developments</span><span>≈ {minutes} min read</span><span>Checked {e(edition['cutoffLabel'])}</span>{f'<span class="updated-stamp">Updated {e(edition["updatedLabel"])}</span>' if edition.get('updatedAt') else ''}</div></section><div class="stale-note" id="stale-note" hidden></div><div class="welcome-back" id="welcome-back" hidden><span></span><button class="textlink" data-dialog="catchup-dialog">Catch up on what changed →</button></div>
     <section class="opening-note" aria-label="Today in brief"><span class="eyebrow">The day, in view</span><p>{e(edition['opening'])}</p></section>
     <section class="world-grid-section" {"hidden" if not world_cards else ""}><div class="section-title"><div><span class="eyebrow">The world / In focus</span><h2>Across the <em>world.</em></h2></div></div><div class="story-grid world-grid" aria-label="World developments">{world_cards}</div></section>
     <section class="more-section" id="more" {"hidden" if not more_items else ""}><div class="section-title"><div><span class="eyebrow">The world / Also today</span><h2>More that <em>changed.</em></h2></div><span class="section-number">{len(more):02} more</span></div><div class="more-list">{more_items}</div></section>
@@ -382,15 +382,15 @@ def home(edition, prefix='./', archived=False):
     {atlas(edition,prefix)}
     <div class="below"><section><div class="eyebrow">Beyond the news cycle</div><h2><em>Still</em> matters.</h2>{still_html or '<p>No continuing-priority entry in this edition.</p>'}</section><section><div class="eyebrow">The next signals</div><h2>What we’re watching.</h2>{watch}</section></div>
     {f'<aside class="edition-note-box" aria-label="A note on this edition"><span class="eyebrow">A note on this edition</span><p>{e(edition["note"])}</p></aside>' if edition.get('note') else ''}
-    <section class="endnote"><div class="endnote-mark" aria-hidden="true">✳</div><div><h2>You’re caught up.<br><em>Go live your day.</em></h2><p>One considered edition. A natural place to stop.</p>{signup_form('endnote')}</div><div class="endnote-actions"><button class="textlink" id="share-edition">Share this edition ↗</button><a class="textlink" href="{prefix}threads/">Follow the story threads →</a><a class="textlink" href="{prefix}archive/">Explore the archive →</a></div></section></main>'''
+    <section class="endnote"><div class="endnote-mark" aria-hidden="true">✳</div><div><h2>You’re caught up.<br><em>Go live your day.</em></h2><p>One considered edition. A natural place to stop.</p>{signup_form('endnote')}</div><div class="endnote-actions"><button class="textlink" id="share-edition">Share this edition ↗</button><a class="textlink" href="{prefix}archive/">Past stories and editions →</a></div></section></main>'''
 
-def threads_index(threads):
+def thread_sections(threads, prefix):
     latest = max(h[-1][0]['date'] for h in threads.values())
     def recent(h): return (date.fromisoformat(latest) - date.fromisoformat(h[-1][0]['date'])).days <= 7
     def row(slug, history):
         edition, story = history[-1]
         n = len(history)
-        return f'<article class="thread-index-card"><div class="eyebrow">{e(story.get("field",story["category"]))}</div><h2><a href="{slug}/">{e(story.get("threadTitle",story["title"]))} <span>↗</span></a></h2><p>{e(story.get("threadSummary",story["whatChanged"]))}</p><div class="thread-meta">{n} report{"s" if n!=1 else ""} · Updated {e(pretty(edition["date"]))}</div></article>'
+        return f'<article class="thread-index-card"><div class="eyebrow">{e(story.get("field",story["category"]))}</div><h2><a href="{prefix}threads/{slug}/">{e(story.get("threadTitle",story["title"]))} <span>↗</span></a></h2><p>{e(story.get("threadSummary",story["whatChanged"]))}</p><div class="thread-meta">{n} report{"s" if n!=1 else ""} · Updated {e(pretty(edition["date"]))}</div></article>'
     order = lambda item: (-len(item[1]), item[1][-1][0]['date'] < latest, item[1][-1][0]['date'])
     active = sorted([x for x in threads.items() if recent(x[1])], key=order)
     earlier = sorted([x for x in threads.items() if not recent(x[1])], key=lambda item: item[1][-1][0]['date'], reverse=True)
@@ -399,7 +399,7 @@ def threads_index(threads):
     more = ''
     if folded: more += f'<details class="thread-more"><summary>{len(folded)} more active {"story" if len(folded)==1 else "stories"}</summary><div class="thread-index">{"".join(row(*x) for x in folded)}</div></details>'
     if earlier: more += f'<details class="thread-more"><summary>Earlier stories · {len(earlier)} not updated this week</summary><div class="thread-index">{"".join(row(*x) for x in earlier)}</div></details>'
-    return f'<main class="wrap" id="main"><header class="threads-intro"><span class="eyebrow">The longer view</span><h1>Stories, <em>followed.</em></h1><p>Developments belong to a bigger story. The most followed stories come first; follow the evidence and the changes, edition by edition.</p></header><div class="thread-index">{html}</div>{more}</main>'
+    return f'<div class="thread-index">{html}</div>{more}'
 
 def assessment_box(s):
     rows = f'<div><dt>What changed</dt><dd>{e(s["whatChanged"])}</dd></div>'
@@ -421,7 +421,7 @@ def thread_page(history):
     timeline=''
     for published,story in reversed(history):
         timeline+=f'''<article class="thread-update"><div class="thread-date"><a href="../../editions/{published['date']}/#{story['id']}">{e(pretty(published['date']))}</a><span>{e(story['status'])}</span></div><h2><a href="../../stories/{story['id']}/">{e(story['title'])} ↗</a></h2><div class="change"><p><strong>What changed</strong><br>{e(story['whatChanged'])}</p></div>{updates_inline(story)}{assessment_block(story)}<details class="thread-sources"><summary>Sources & evidence ({len(story['sources'])})</summary>{evidence(story)}</details></article>'''
-    return f'''<main class="wrap" id="main"><article class="article-page thread-page"><a class="article-back" href="../">← All story threads</a><span class="eyebrow">The story, in context</span><h1>{e(current.get('threadTitle',current['title']))}</h1><p class="article-summary">{e(current.get('threadSummary',current['whatChanged']))}</p><div class="thread-meta">{len(history)} report{'s' if len(history)!=1 else ''} · First tracked {e(pretty(history[0][0]['date']))} · Updated {e(pretty(edition['date']))}</div><h2 class="timeline-heading" id="timeline">The story so far</h2><div class="thread-timeline">{timeline}</div><p class="source-note">Dated editions preserve what was reported at the time. New developments are added here as the story continues.</p></article></main>'''
+    return f'''<main class="wrap" id="main"><article class="article-page thread-page"><a class="article-back" href="../../archive/#stories">← All stories</a><span class="eyebrow">The story, in context</span><h1>{e(current.get('threadTitle',current['title']))}</h1><p class="article-summary">{e(current.get('threadSummary',current['whatChanged']))}</p><div class="thread-meta">{len(history)} report{'s' if len(history)!=1 else ''} · First tracked {e(pretty(history[0][0]['date']))} · Updated {e(pretty(edition['date']))}</div><h2 class="timeline-heading" id="timeline">The story so far</h2><div class="thread-timeline">{timeline}</div><p class="source-note">Dated editions preserve what was reported at the time. New developments are added here as the story continues.</p></article></main>'''
 
 def article(s, edition, history):
     thread_history=THREADS.get(thread_key(s),history)
@@ -468,7 +468,7 @@ if __name__ == '__main__':
             about=r['summary'] or f'News from {r["name"]} in The Signal.'
             if edition is latest: write(f'regions/{r["slug"]}/index.html',shell(region_page(r,edition,'../../'),edition,title,'../../',f'regions/{r["slug"]}/',description=about))
             write(f'editions/{edition["date"]}/regions/{r["slug"]}/index.html',shell(region_page(r,edition,'../../../../'),edition,title,'../../../../',f'editions/{edition["date"]}/regions/{r["slug"]}/',description=about))
-    write('threads/index.html',shell(threads_index(THREADS),latest,'Story threads — The Signal','../','threads/'))
+    write('threads/index.html','<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Stories — The Signal</title><link rel="canonical" href="'+BASE+'/archive/"><meta http-equiv="refresh" content="0; url=../archive/#stories"></head><body><p><a href="../archive/#stories">Stories have moved to the archive →</a></p></body></html>')
     for slug,history in THREADS.items():
         current=history[-1][1]
         write(f'threads/{slug}/index.html',shell(thread_page(history),latest,current.get('threadTitle',current['title'])+' — The Signal','../../',f'threads/{slug}/'))
@@ -476,9 +476,24 @@ if __name__ == '__main__':
         edition,s = history[-1]
         write(f'stories/{slug}/index.html',shell(article(s,edition,history),edition,s['title']+' — The Signal','../../',f'stories/{slug}/',description=s['body']))
     rows = ''.join(f'<div class="archive-row"><a href="../editions/{x["date"]}/">{pretty(x["date"])}</a><span>Edition {x["number"]:03} · {len(x["stories"])} stories ↗</span></div>' for x in reversed(EDITIONS))
-    write('archive/index.html',shell(f'<main class="wrap" id="main"><div class="eyebrow" style="margin-top:45px">The record, kept</div><h1 class="archive-title">A world in chapters.</h1><p>Every edition, preserved. A little perspective over time.</p><div class="archive-list">{rows}</div></main>',latest,'The archive — The Signal','../','archive/'))
+    archive_html = (f'<main class="wrap" id="main"><div class="eyebrow" style="margin-top:45px">The record, kept</div><h1 class="archive-title">A world in chapters.</h1>'
+                    f'<p>Follow a story from the start, or open any day’s edition as it was published.</p><nav class="archive-jump" aria-label="Archive sections"><a href="#stories">By story</a><a href="#editions">By date</a></nav>'
+                    f'<section id="stories" class="archive-block"><div class="section-title"><div><span class="eyebrow">The longer view</span><h2>Stories, <em>followed.</em></h2></div></div><p class="archive-lede">The most followed stories come first. Each opens a dated timeline of everything we have reported on it.</p>{thread_sections(THREADS, "../")}</section>'
+                    f'<section id="editions" class="archive-block"><div class="section-title"><div><span class="eyebrow">Every edition</span><h2>Day by <em>day.</em></h2></div></div><div class="archive-list">{rows}</div></section></main>')
+    write('archive/index.html',shell(archive_html,latest,'The archive — The Signal','../','archive/'))
     write('about/index.html',shell(about_page(),latest,'Our approach — The Signal','../','about/'))
-    write('data/history.json',json.dumps(EDITIONS,ensure_ascii=False))
+    recent = [x for x in EDITIONS if (date.fromisoformat(latest['date']) - date.fromisoformat(x['date'])).days <= 35]
+    def slim(x):
+        lead = lead_story(x)['id']
+        out = []
+        for s in x['stories']:
+            item = {'id': s['id'], 'h': thread_key(s), 'ht': s.get('threadTitle', s['title']), 't': s['title'], 'w': s['whatChanged'], 's': s['section']}
+            if s.get('threadSummary'): item['hs'] = s['threadSummary']
+            if s['id'] == lead: item['l'] = 1
+            if s.get('updates'): item['u'] = s['updates'][-1]['text']
+            out.append(item)
+        return {'date': x['date'], 'stories': out}
+    write('data/catchup.json', json.dumps({'first': EDITIONS[0]['date'], 'latest': latest['date'], 'editions': [slim(x) for x in recent]}, ensure_ascii=False, separators=(',', ':')))
     def feed_item(x):
         stamp = datetime.fromisoformat(x['cutoff'].replace('Z', '+00:00')).strftime('%a, %d %b %Y %H:%M:%S +0000')
         link = f'{BASE}/editions/{x["date"]}/'
@@ -491,7 +506,7 @@ if __name__ == '__main__':
         return f'<item><title>{xml_escape("The Signal — "+pretty(x["date"]))}</title><link>{link}</link><guid isPermaLink="true">{link}</guid><pubDate>{stamp}</pubDate><description><![CDATA[{body}]]></description></item>'
     items=''.join(feed_item(x) for x in reversed(EDITIONS))
     write('feed.xml',f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>The Signal</title><link>{BASE}/</link><description>A clearer view of a changing world.</description><language>en</language>{items}</channel></rss>')
-    paths=['','archive/','about/','threads/']+[f'threads/{slug}/' for slug in THREADS]+[f'stories/{s}/' for s in index]+[f'editions/{x["date"]}/' for x in EDITIONS]+[f'regions/{slug}/' for slug in REGION_SLUGS]
+    paths=['','archive/','about/']+[f'threads/{slug}/' for slug in THREADS]+[f'stories/{s}/' for s in index]+[f'editions/{x["date"]}/' for x in EDITIONS]+[f'regions/{slug}/' for slug in REGION_SLUGS]
     write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{BASE}/{x}</loc></url>' for x in paths)+'</urlset>')
     write('robots.txt',f'User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n')
     write('.nojekyll','')

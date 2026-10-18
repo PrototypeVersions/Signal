@@ -1,7 +1,7 @@
 (() => {
   'use strict';
   const state = JSON.parse(document.getElementById('signal-data').textContent);
-  const { edition, editions, prefix } = state;
+  const { edition, prefix } = state;
   const $ = s => document.querySelector(s);
   const $$ = s => [...document.querySelectorAll(s)];
   const escape = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -42,22 +42,67 @@
     const age=Date.now()-new Date(edition.cutoff).getTime();
     if(age>40*3600000){note.hidden=false;note.textContent=`The latest published edition is ${pretty(edition.date)}. This page is an edition, not a live news feed.`;}
   }
-  let historyPromise;
-  let request=0;
-  async function catchup(){
-    const ticket=++request;const selected=$('#since-date').value;const target=$('#catchup-results');
-    target.innerHTML='<p>Gathering the thread…</p>';
-    try{
-      historyPromise ||= fetch(prefix+'data/history.json').then(r=>{if(!r.ok)throw Error('Unavailable');return r.json();});
-      const history=await historyPromise;if(ticket!==request)return;
-      const pending=history.filter(x=>selected==='all'||x.date>selected);
-      if(!pending.length){target.innerHTML='<h3>You’re up to date.</h3><p>There are no published editions after the one you selected. Come back for the next edition.</p>';return;}
-      const grouped=new Map();
-      pending.forEach(x=>x.stories.forEach(s=>{const key=s.threadId||s.id;if(!grouped.has(key))grouped.set(key,[]);grouped.get(key).push({date:x.date,story:s});}));
-      target.innerHTML=`<p>${editions.length===1?'This is The Signal’s first edition. The history begins here.':`${pending.length} edition${pending.length>1?'s':''} since your last read.`}</p>`+[...grouped.values()].map(items=>{const last=items.at(-1);return `<div class="evidence"><h3><a href="${prefix}threads/${last.story.threadId||last.story.id}/">${escape(last.story.threadTitle||last.story.title)} ↗</a></h3>${items.map(i=>`<small>${escape(pretty(i.date))}</small><p><strong>${escape(i.story.title)}</strong><br>${escape(i.story.whatChanged)}</p>`).join('')}</div>`;}).join('');
-    }catch{historyPromise=null;target.innerHTML=`<p>The catch-up view could not load. <a href="${prefix}archive/"><u>Browse the edition archive instead →</u></a></p>`;}
+  // Catch me up: choose how long you were away; stories are grouped by thread, biggest first.
+  const VISIT_KEY='signal:lastVisit';
+  const readVisit=()=>{try{return Number(localStorage.getItem(VISIT_KEY))||0;}catch{return 0;}};
+  const writeVisit=()=>{try{localStorage.setItem(VISIT_KEY,String(Date.now()));}catch{}};
+  const lastVisit=readVisit();
+  const awayDays=lastVisit?Math.floor((Date.now()-lastVisit)/86400000):null;
+  writeVisit();
+  const RANGES=[1,3,7,14,30];
+  let choice=awayDays==null?'7':String(RANGES.find(n=>n>=Math.max(1,awayDays))||30);
+  const welcomeText=awayDays>=2?`Welcome back. You were last here ${awayDays} days ago.`:'';
+  const banner=$('#welcome-back');
+  if(banner&&welcomeText&&!location.pathname.includes('/editions/')){banner.hidden=false;banner.querySelector('span').textContent=welcomeText;}
+  if(welcomeText){const w=$('#catchup-welcome');w.hidden=false;w.textContent=welcomeText+' Here is what changed.';}
+  const dayDiff=(a,b)=>Math.round((new Date(a+'T12:00:00Z')-new Date(b+'T12:00:00Z'))/86400000);
+  const WEIGHT={world:3,still:2,ai:2,frontiers:2,more:1};
+  const sectionName=s=>s==='ai'||s==='frontiers'?'Frontiers':s==='more'?'More that changed':s==='still'?'Still matters':'World';
+  function groupThreads(list,latestDate){
+    const groups=new Map();
+    list.forEach(ed=>ed.stories.forEach(s=>{
+      if(!groups.has(s.h))groups.set(s.h,{h:s.h,items:[],score:0});
+      const g=groups.get(s.h);g.items.push({date:ed.date,story:s});
+      g.score+=(WEIGHT[s.s]||1)+(s.l?4:0)+(ed.date===latestDate?1:0);
+    }));
+    const w=i=>(WEIGHT[i.story.s]||1)+(i.story.l?4:0);
+    groups.forEach(g=>g.items.sort((a,b)=>a.date===b.date?w(a)-w(b):(a.date<b.date?-1:1)));
+    return [...groups.values()].sort((a,b)=>b.score-a.score||(b.items.at(-1).date>a.items.at(-1).date?1:-1));
   }
-  $('#since-date').addEventListener('change',catchup);
+  function threadCard(g,primer){
+    const last=g.items.at(-1),s=last.story,n=g.items.length;
+    const earlier=g.items.slice(0,-1).reverse();
+    const older=earlier.length?`<details class="cu-earlier"><summary>${earlier.length} more report${earlier.length>1?'s':''}</summary>${earlier.map(i=>`<p><small>${escape(pretty(i.date))}</small> <strong>${escape(i.story.t)}.</strong> ${escape(i.story.w)}</p>`).join('')}</details>`:'';
+    const meta=primer?sectionName(s.s):`${sectionName(s.s)} · ${n} report${n>1?'s':''}`;
+    const lead=primer&&s.hs?`<p class="cu-summary">${escape(s.hs)}</p>`:'';
+    return `<article class="cu-thread"><span class="eyebrow">${escape(meta)}</span><h3><a href="${prefix}threads/${encodeURIComponent(g.h)}/">${escape(s.ht)} ↗</a></h3>${lead}<p class="cu-latest"><small>${escape(pretty(last.date))}</small> <a href="${prefix}stories/${encodeURIComponent(s.id)}/">${escape(s.t)}</a>. ${escape(s.u||s.w)}</p>${older}</article>`;
+  }
+  let dataPromise, request=0;
+  async function catchup(){
+    const ticket=++request,target=$('#catchup-results');
+    $$('[data-days]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.days===choice)));
+    target.innerHTML='<p>Gathering the stories…</p>';
+    try{
+      dataPromise ||= fetch(prefix+'data/catchup.json').then(r=>{if(!r.ok)throw Error('Unavailable');return r.json();});
+      const data=await dataPromise;if(ticket!==request)return;
+      const latestDate=data.latest;
+      if(choice==='new'){
+        const list=data.editions.filter(x=>dayDiff(latestDate,x.date)<14);
+        const top=groupThreads(list,latestDate).slice(0,6);
+        target.innerHTML='<p class="cu-intro">New here? These are the biggest stories we’re following. Each one opens a timeline of everything we’ve reported on it.</p>'+top.map(g=>threadCard(g,true)).join('');
+        return;
+      }
+      const days=Number(choice);
+      const list=data.editions.filter(x=>dayDiff(latestDate,x.date)<days);
+      if(!list.length){target.innerHTML='<h3>You’re up to date.</h3><p>Nothing new has been published in that time.</p>';return;}
+      const groups=groupThreads(list,latestDate),shown=groups.slice(0,10),rest=groups.slice(10);
+      const young=dayDiff(latestDate,data.first)+1<days?` The Signal began on ${escape(pretty(data.first))}, so this covers everything so far.`:'';
+      const intro=`<p class="cu-intro">${list.length} edition${list.length>1?'s':''} · ${groups.length} stor${groups.length>1?'ies':'y'}, biggest first.${young}</p>`;
+      const more=rest.length?`<details class="cu-more"><summary>${rest.length} more stor${rest.length>1?'ies':'y'}</summary>${rest.map(g=>threadCard(g,false)).join('')}</details>`:'';
+      target.innerHTML=intro+shown.map(g=>threadCard(g,false)).join('')+more;
+    }catch{dataPromise=null;target.innerHTML=`<p>The catch-up view could not load. <a href="${prefix}archive/"><u>Browse the archive instead →</u></a></p>`;}
+  }
+  $$('[data-days]').forEach(b=>b.addEventListener('click',()=>{choice=b.dataset.days;catchup();}));
 
   // Regions: the numbered map markers and the chips below it select a region panel.
   const regionLinks=$$('[data-region]');

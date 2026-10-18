@@ -26,14 +26,22 @@ Every story carries a full report for its article page, so readers who want more
 ## Visual edition fields
 Optional `cover`: `storyId`, `asset` (an existing local `assets/` image), `alt`, `caption`, and `credit`. The cover story must match the selected `leadStoryId`, with the legacy fallback described below. Never copy a prior cover onto an unrelated story. When no approved cover exists, omit `cover`; the site creates a distinct dated typographic cover automatically. Artwork must be visibly labeled as illustration. Use the reader-facing caption Editorial illustration; do not add generation-method disclosures to the public site. Actual news photography requires a verified source and reuse rights.
 
-Optional story `locations` is a list of objects with `label`, `lon`, and `lat`. Include only relevant, well-established reporting locations. These represent approximate locations on an illustrated world overview, not exact incident coordinates, disputed borders, or measurements. Omit when location is immaterial or uncertain. Numbering and the map are assembled automatically from available locations. The overview map shows one numbered pin per story, at its first location, so list the most representative location first; all locations still appear on the story's own map.
+Optional story `locations` is a list of objects with `label`, `lon`, and `lat`. Include only relevant, well-established reporting locations. These represent approximate locations on an illustrated world overview, not exact incident coordinates, disputed borders, or measurements. Omit when location is immaterial or uncertain. Story maps use these locations; the home-page overview is organized by region instead (see Regions).
+
+## Regions
+The home page's "The world, by region" map has seven numbered regions, and each has its own page at `regions/<slug>/`. The slugs are `north-america`, `latin-america` (Mexico, Central and South America, the Caribbean), `europe` (including Russia and Ukraine), `africa` (including Egypt and Sudan), `middle-east` (the Gulf, Levant, Iran, Iraq, Yemen, Israel and the Palestinian territories), `asia` (including South and Central Asia) and `oceania` (Australia, New Zealand and the Pacific islands).
+
+1. Give every world and continuing story a `regions` list of one or two slugs, e.g. `"regions": ["europe"]`. A US policy toward Russia can be `["north-america", "europe"]`. Frontiers stories get `"regions": []` unless a story is really about a place. If `regions` is missing, the build guesses from the `region` label, so set it explicitly.
+2. Add a top-level `regions` object with an entry for each of the seven slugs: `{"summary": "One or two plain sentences on the region today.", "briefs": [ ... ]}`.
+3. `briefs` are extra regional items that did not make the main edition: one to three per region when verified news is available. Each is `{"title", "text", "eventDate", "sources"}`, where `text` is 2–4 sentences of paraphrased, sourced facts and `sources` uses the normal source fields (`title`, `publisher`, `url`, `publishedAt`). Open and read every source; do not rely on search snippets. Prefer the last 48 hours. Do not repeat a main-page story as a brief; mention a genuinely new development in it only if the main story does not already cover it. If nothing clears the bar for a region, leave `briefs` empty and the site says so; never pad.
+4. In the evening update, refresh a region's `summary` if the picture changed, and you may add a brief for a major regional development that does not warrant a main story.
 
 ## Publication
 Editions are produced each morning (about 5:57 AM Central) by a scheduled Claude (Opus 5.5) task, and updated each evening (see Evening update) and published directly; there is no draft or manual review step. The task:
 
 1. Clones or pulls `PrototypeVersions/Signal` and reads this file and the latest edition.
 2. Works out today's edition date in America/Chicago. If `data/editions/<date>.json` already exists, it stops and reports.
-3. Researches with web search, opening and reading the actual articles, and writes `data/editions/<date>.json` following this guide, including `keyFacts` and `report` for every story.
+3. Researches with web search, opening and reading the actual articles, and writes `data/editions/<date>.json` following this guide, including `keyFacts` and `report` for every story, and the `regions` tags and seven region entries.
 4. Runs `python3 scripts/build.py` and fixes any validation error in the data. It never edits application code, styles, workflows or this file as part of a routine edition.
 5. Commits and pushes to `main` with the message `Edition <N>: <date>`. The push triggers the Actions workflow, which validates and deploys to GitHub Pages.
 6. Reports a short summary: lead story, items included, anything left out because it could not be verified, and any problem.

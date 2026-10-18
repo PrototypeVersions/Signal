@@ -132,7 +132,10 @@
     ],
     "alt": "A map of France with Paris, Lyon, Marseille and Limoges marked as approximate reporting locations of the October 17 unrest.",
     "caption": "France · selected cities where looting and arson were reported"
-   }
+   },
+   "regions": [
+    "europe"
+   ]
   },
   {
    "id": "russia-sanctions-waiver",
@@ -261,6 +264,10 @@
       "Russia kept up its own strikes on Ukraine's energy system. Zelenskyy said attacks on four regions overnight left tens of thousands of families without power, and counted 76 Russian attacks on Ukraine's energy, oil and gas sectors since Trump announced an 'energy ceasefire' on October 11. Ukraine paused strikes on Russian oil for three days before resuming them on Thursday; Trump has criticized those strikes and demanded that both sides stop targeting energy."
      ]
     }
+   ],
+   "regions": [
+    "north-america",
+    "europe"
    ]
   },
   {
@@ -386,7 +393,10 @@
     ],
     "alt": "A map highlighting Saudi Arabia and Yemen, with Iran labeled, marking Riyadh, the port of Yanbu and the Strait of Hormuz as approximate reporting locations.",
     "caption": "Saudi Arabia and Yemen · approximate reporting locations"
-   }
+   },
+   "regions": [
+    "middle-east"
+   ]
   },
   {
    "id": "kenya-ebola",
@@ -487,7 +497,10 @@
     ],
     "alt": "A map of East and Central Africa highlighting Kenya, with the Democratic Republic of Congo labeled and Nairobi marked.",
     "caption": "Kenya, with Congo to the west · Nairobi is a reporting location"
-   }
+   },
+   "regions": [
+    "africa"
+   ]
   },
   {
    "id": "romania-drone-interception",
@@ -597,6 +610,9 @@
       "Reuters reports that NATO's North Atlantic Council will discuss Black Sea defence on Tuesday. The incidents add to concern about commercial shipping: recent attacks on vessels near Romania raise the question of how to protect a trading route that runs alongside NATO territory."
      ]
     }
+   ],
+   "regions": [
+    "europe"
    ]
   },
   {
@@ -670,6 +686,9 @@
       "China dominates global solar manufacturing, and its engineers and equipment have been central to efforts to build factories elsewhere. Restricting the export of the newest manufacturing know-how could slow those efforts even if finished panels keep flowing. The practical effect will depend on the final thresholds and on how strictly registration and licensing are applied."
      ]
     }
+   ],
+   "regions": [
+    "asia"
    ]
   },
   {
@@ -786,6 +805,9 @@
       "The runoff pits Lula against Senator Flávio Bolsonaro, 42, son of former president Jair Bolsonaro, who is under house arrest and barred from office until 2030. Flávio led the October 4 first round with about 56.1 million votes to Lula's 53.9 million. The latest runoff polls give him a narrow lead: CNT/MDA 46.8% to 45.9%, Quaest 46% to 44% and Datafolha 47% to 45%, all within the margin of error. In a race that close, disputes over what voters see online carry extra weight."
      ]
     }
+   ],
+   "regions": [
+    "latin-america"
    ]
   },
   {
@@ -898,7 +920,10 @@
     ],
     "alt": "A map of Sudan with the Darfur and Kordofan regions labeled and Khartoum and El Obeid marked as reporting locations.",
     "caption": "Sudan · Darfur and Kordofan, where famine risk is rising, are labeled"
-   }
+   },
+   "regions": [
+    "africa"
+   ]
   },
   {
    "id": "gemini-argon-release",
@@ -958,7 +983,8 @@
       "Nearly all of these figures are Google's own or come from partners. The important questions now are whether outside users see similar gains on their own work, how often the model fails on long tasks, and what it costs once the launch discount ends."
      ]
     }
-   ]
+   ],
+   "regions": []
   },
   {
    "id": "anthropic-metr-access",
@@ -1023,7 +1049,8 @@
       "Anthropic describes a tiered system of outside evaluation. SecureBio is reviewing the biological and chemical weapons chapter of its August risk report, and the company says it is working toward broader partnerships with Accenture and Faculty, and is in early talks with others. The METR arrangement is the deepest tier and is voluntary. Its value will depend on what the evaluators actually find and how much of it reaches the public."
      ]
     }
-   ]
+   ],
+   "regions": []
   },
   {
    "id": "claude-curve-seeds",
@@ -1081,7 +1108,8 @@
       "Anthropic says this is not a cryptographic break: nothing here exposes keys or weakens ECDSA, and a simple, reproducible generation process makes a hidden backdoor less plausible. Questions remain. The base points of several major curves, one binary-curve seed, and the reason some viable candidates were skipped are still unexplained, and the account has not yet been independently reviewed. Anthropic is donating the long-standing bounty for the seeds, $36,864, to the Internet Security Research Group."
      ]
     }
-   ]
+   ],
+   "regions": []
   }
  ],
  "watch": [
@@ -1103,5 +1131,236 @@
   "text": "Anthropic reports Claude-designed improvements across eight quantum circuit tasks. These are circuit designs and resource estimates. They do not demonstrate a new working quantum computer or establish when useful quantum advantage will arrive.",
   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
  },
- "leadStoryId": "france-unrest"
+ "leadStoryId": "france-unrest",
+ "regions": {
+  "north-america": {
+   "summary": "Washington’s Russia sanctions waiver leads today. Alberta’s vote on Monday is the date to watch.",
+   "briefs": [
+    {
+     "title": "Alberta votes Monday on whether to start leaving Canada",
+     "eventDate": "October 19, 2026",
+     "text": "Albertans answer ten referendum questions on October 19. One asks whether the provincial government should begin the legal process toward a binding vote on independence. The Writ’s polling average, updated October 18, has 68% for remaining a province and 26% for starting that process. A poll reported by CTV found that most Albertans trust the count, but fewer expect both sides to accept the result.",
+     "sources": [
+      {
+       "title": "Alberta referendum poll tracker",
+       "publisher": "The Writ",
+       "url": "https://www.thewrit.ca/p/alberta-referendum-poll-tracker",
+       "publishedAt": "2026-10-18"
+      },
+      {
+       "title": "Albertans trust referendum ballot count but fear debate will continue after vote: poll",
+       "publisher": "CTV News",
+       "url": "https://www.ctvnews.ca/calgary/article/albertans-trust-referendum-ballot-count-but-fear-debate-will-continue-after-vote-poll/",
+       "publishedAt": "2026-10-16"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Brazil’s October 25 runoff dominates the week. Elsewhere, Chile and Bolivia took a first step toward restoring full relations.",
+   "briefs": [
+    {
+     "title": "Chile’s president makes the first state visit to Bolivia in 71 years",
+     "eventDate": "October 16, 2026",
+     "text": "José Antonio Kast met Bolivia’s president, Rodrigo Paz, in La Paz. The two governments set a gradual path toward restoring full diplomatic relations, which have been broken for more than 70 years, and signed accords that the Rio Times reports cover trade, mining and connectivity. Paz restated Bolivia’s demand for access to the sea, and accepted an invitation to visit Chile in 2027.",
+     "sources": [
+      {
+       "title": "Kast y Paz: Chile y Bolivia",
+       "publisher": "Emol",
+       "url": "https://www.emol.com/noticias/Nacional/2026/10/16/1214352/kast-paz-chile-bolivia.html",
+       "publishedAt": "2026-10-16"
+      },
+      {
+       "title": "Latin American Pulse, Saturday October 17, 2026",
+       "publisher": "The Rio Times",
+       "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-october-17-2026/",
+       "publishedAt": "2026-10-17"
+      }
+     ]
+    },
+    {
+     "title": "Colombia lifts its ban on coal exports to Israel",
+     "eventDate": "October 2026",
+     "text": "Colombia’s government has reopened coal exports to Israel, ending a ban that producers say cost them millions of tonnes in sales. The coal industry group Fenalcarbón backed the change. This is a single regional digest’s account; we have not seen the government’s own announcement.",
+     "sources": [
+      {
+       "title": "Latin American Pulse, Saturday October 17, 2026",
+       "publisher": "The Rio Times",
+       "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-october-17-2026/",
+       "publishedAt": "2026-10-17"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "France’s unrest and the energy war with Russia lead. EU leaders also left Brussels without a budget deal or a plan for Ukraine’s funding gap.",
+   "briefs": [
+    {
+     "title": "EU leaders leave a €70bn hole in Ukraine’s funding for next year",
+     "eventDate": "October 15–16, 2026",
+     "text": "The European Council summit in Brussels ended with no deal on the EU’s long-term budget. Ukraine has asked for an extra €70bn for next year, because last year’s €90bn loan was expected to cover both 2026 and 2027. The Commission was asked to propose options, including joint debt and frozen Russian assets, all of which remain contested. Council President António Costa called a special summit for November 26.",
+     "sources": [
+      {
+       "title": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit",
+       "publisher": "Euronews",
+       "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
+       "publishedAt": "2026-10-16"
+      }
+     ]
+    },
+    {
+     "title": "Albania’s student-led protests enter a fifth day",
+     "eventDate": "October 17, 2026",
+     "text": "Protests that began with students have spread across Albania, with demands that Prime Minister Edi Rama resign over alleged corruption. Police in Tirana used tear gas, water cannon and rubber bullets. Police say 167 people have been arrested and 132 officers injured over five days, and seven officers have been suspended over allegations of excessive force. Rama has ruled out resigning.",
+     "sources": [
+      {
+       "title": "Albanian police fire rubber bullets as anti-government protests enter fifth day",
+       "publisher": "Euronews",
+       "url": "https://www.euronews.com/2026/10/17/albanian-police-fire-rubber-bullets-and-arrest-hundreds-as-anti-government-protests-enter-",
+       "publishedAt": "2026-10-17"
+      }
+     ]
+    },
+    {
+     "title": "Ukraine asked for Starshield; Washington says not for now",
+     "eventDate": "October 17, 2026",
+     "text": "US Secretary of State Marco Rubio said Ukraine has asked for access to Starshield, the military version of SpaceX’s Starlink, to carry out deep strikes inside Russia. He said Ukraine does not have access “at this moment” and that the request is under discussion. He also rejected reports that the White House ordered slower Starlink speeds in Ukraine.",
+     "sources": [
+      {
+       "title": "Rubio says Ukraine without access to Starshield, future “under discussion”",
+       "publisher": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion",
+       "publishedAt": "2026-10-18"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Ebola in Kenya and hunger in Sudan lead. Congo’s war gained a new political front, and Ethiopia moved to run Tigray directly.",
+   "briefs": [
+    {
+     "title": "Joseph Kabila now leads Congo’s main rebel coalition",
+     "eventDate": "October 2026",
+     "text": "Congo’s former president is at the head of a new political-military coalition, the Front for the Refoundation of the Nation (FRN), announced in rebel-held Goma. It replaces the alliance that included the M23 and calls for resistance to President Félix Tshisekedi “by all means”, including force. The government has not responded officially. Peace advocates fear the move will undermine the Doha and Washington talks; the FRN says it will honour its Doha commitments.",
+     "sources": [
+      {
+       "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
+       "publisher": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion",
+       "publishedAt": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "title": "Ethiopia puts Tigray under a federal interim government",
+     "eventDate": "October 16, 2026",
+     "text": "Prime Minister Abiy Ahmed announced that a five-member interim administration will run Tigray for six months, following federal directives, with elections promised afterward. It follows the defeat of the TPLF uprising that began in September; TPLF fighters surrendered in Mekelle in early October. Ethiopia accuses Eritrea of backing the TPLF, which Eritrea denies.",
+     "sources": [
+      {
+       "title": "Ethiopia announces instalment of interim government in Tigray",
+       "publisher": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray",
+       "publishedAt": "2026-10-16"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "The Saudi–Houthi war is widening. In the West Bank, settler violence reached a delegation of European diplomats.",
+   "briefs": [
+    {
+     "title": "Settlers attack European diplomats near Taybeh",
+     "eventDate": "October 17, 2026",
+     "text": "Masked Israeli settlers attacked a delegation of French, Belgian and Polish diplomats and church representatives near the Christian village of Taybeh, east of Ramallah, during the olive harvest. A French mayor in the group says he was kicked and beaten, and a Belgian diplomatic car was damaged. The EU condemned the attack on October 18 and asked for “full accountability”. Israel’s foreign minister condemned the violence and said police are investigating.",
+     "sources": [
+      {
+       "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+       "publisher": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank",
+       "publishedAt": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "title": "Israel halts commercial goods into Gaza",
+     "eventDate": "Since October 14, 2026",
+     "text": "Israel stopped commercial shipments into Gaza on October 14, citing a dispute over fees involving merchants and Hamas, which Gaza’s media office denies. By October 18 the halt was in its fifth day, and residents report sharp rises in the price of flour and other staples. The UN says Gaza food prices in September were already about three times their pre-war level.",
+     "sources": [
+      {
+       "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+       "publisher": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments",
+       "publishedAt": "2026-10-18"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "China’s clean-energy export controls lead. South Asia had a deadly week of crowd and building disasters.",
+   "briefs": [
+    {
+     "title": "At least 19 killed in a stampede at a Kolkata festival",
+     "eventDate": "October 17, 2026",
+     "text": "Crowds ran for cover from rain near a Durga Puja pavilion in Kolkata, and people were trampled when the crowd surged forward. At least 19 people were killed, including a seven-year-old girl, and 25 were injured. West Bengal’s government set up an investigation led by a high court judge, and police detained some organisers and security staff.",
+     "sources": [
+      {
+       "title": "At least 19 killed in stampede at religious gathering in India",
+       "publisher": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india",
+       "publishedAt": "2026-10-17"
+      }
+     ]
+    },
+    {
+     "title": "Pakistan orders school inspections after a roof collapse kills 35",
+     "eventDate": "October 15, 2026",
+     "text": "The roof of a private school in Peshawar collapsed, killing at least 34 students aged 13 or younger and a teacher. Pakistan’s federal government has ordered Khyber Pakhtunkhwa to inspect its schools and report within three days. Police arrested the school’s owner; families say they had warned about rainwater leaking into classrooms.",
+     "sources": [
+      {
+       "title": "Pakistan orders school inspections following deadly roof collapse",
+       "publisher": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse",
+       "publishedAt": "2026-10-16"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Security ties with Fiji were the region’s main thread this week, from Australian sea drones to a US bribery accusation.",
+   "briefs": [
+    {
+     "title": "Australia will give Fiji’s military long-range sea drones",
+     "eventDate": "October 2026",
+     "text": "Australia will supply Bluebottle maritime drones, which can stay at sea for more than 180 days, to Fiji’s military to counter drug trafficking and organised crime. They are expected in early 2027. The deal is part of the Waqa Moana security partnership and follows the mutual defence treaty the two countries signed in July, Fiji’s first such alliance.",
+     "sources": [
+      {
+       "title": "PACNEWS ONE, 16 October 2026",
+       "publisher": "Islands Business / PACNEWS",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-one-16-october-2026/",
+       "publishedAt": "2026-10-16"
+      }
+     ]
+    },
+    {
+     "title": "US accuses a Suva-based Chinese community leader of bribery",
+     "eventDate": "October 2026",
+     "text": "The US State Department barred Zhao Fugang, head of the Overseas Chinese Service Centre in Suva, from entering the United States, saying he “abused his public position by paying bribes to Fijian citizens”. China’s foreign ministry said it had no knowledge of the case. Fiji has asked Washington for its evidence.",
+     "sources": [
+      {
+       "title": "PACNEWS ONE, 16 October 2026",
+       "publisher": "Islands Business / PACNEWS",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-one-16-october-2026/",
+       "publishedAt": "2026-10-16"
+      }
+     ]
+    }
+   ]
+  }
+ }
 }

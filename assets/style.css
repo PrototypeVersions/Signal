@@ -56,3 +56,61 @@ body{font-size:16px}.navlinks{gap:27px}.nav-actions{font-size:12px}.issue-intro{
 .updated-stamp{color:var(--accent)}
 .article-updates{margin:24px 0 8px;padding:20px 24px;border-left:1px solid var(--accent);background:var(--panel)}.article-updates h2{font:24px/1.2 var(--serif);margin:0 0 12px}.update-item+.update-item{margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}.update-item p{font-size:17px;line-height:1.7;color:var(--ink);margin:8px 0}
 .quick .story-updates{display:block}
+/* Regions */
+#regions{scroll-margin-top:20px}
+.atlas-lede{font-size:13px;line-height:1.7;color:var(--muted);max-width:560px;margin:12px 0 0}
+.region-pin{cursor:pointer}
+.region-pin .halo{fill:#d4a07d;opacity:.16;transition:opacity .2s}
+.region-pin .dot{fill:#d4a07d;stroke:#101f2d;stroke-width:2;transition:fill .18s}
+.region-pin text{fill:#09131d;font:600 13px var(--mono);pointer-events:none}
+.region-pin .region-name{fill:#c5d9f1;font:500 12px var(--mono);letter-spacing:.06em;paint-order:stroke;stroke:#101f2d;stroke-width:4px;stroke-linejoin:round;text-transform:uppercase}
+.region-pin:hover .dot,.region-pin.is-active .dot{fill:#d8e8f8}
+.region-pin:hover .halo,.region-pin.is-active .halo{opacity:.4}
+.region-pin.is-active .region-name{fill:#d4a07d}
+.region-pin:focus-visible{outline:none}
+.region-pin:focus-visible .dot{stroke:#fff;stroke-width:4}
+@media(prefers-reduced-motion:no-preference){.region-pin.is-active .halo{animation:region-pulse 2.4s ease-in-out infinite}}
+@keyframes region-pulse{50%{opacity:.18}}
+.region-chips{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 12px}
+.region-chip{display:inline-flex;align-items:center;gap:8px;padding:8px 12px;border:1px solid var(--line);border-radius:999px;font-size:12px;color:var(--ink);transition:border-color .18s,background .18s}
+.region-chip span{font:600 10px var(--mono);color:var(--accent)}
+.region-chip small{font:10px var(--mono);color:var(--muted);border-left:1px solid var(--line);padding-left:8px}
+.region-chip:hover,.region-chip.is-active{border-color:var(--accent);background:rgba(212,160,125,.1)}
+.region-chip.is-active small{color:var(--accent)}
+.atlas-detail{justify-content:flex-start}
+.region-panel h3{margin:12px 0 8px}
+.region-summary{margin:0 0 6px}
+.region-panel h4{font:500 9px/1.6 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:18px 0 6px;display:flex;justify-content:space-between;gap:10px}
+.region-panel h4 small{font:inherit;letter-spacing:.06em;text-transform:none;color:var(--accent)}
+.region-list{list-style:none;margin:0 0 4px;padding:0}
+.region-list li{border-top:1px solid var(--line)}
+.region-list li:last-child{border-bottom:1px solid var(--line)}
+.region-list a{display:flex;gap:12px;padding:10px 0;font:16px/1.3 var(--serif);color:var(--ink)}
+.region-list a:hover b{text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:3px}
+.region-list a span{font:600 10px/1.9 var(--mono);color:var(--accent);min-width:18px}
+.region-list b{font-weight:400}
+.region-list b small{display:block;font:10px/1.6 var(--mono);color:var(--muted);margin-top:3px}
+.region-empty{font-size:12px;color:var(--muted);padding:10px 0}
+.region-panel .atlas-read{margin-top:18px}
+.region-switch{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 10px}
+.region-switch a{display:inline-flex;gap:7px;align-items:center;padding:7px 12px;border:1px solid var(--line);border-radius:999px;font-size:13px}
+.region-switch a span{font:600 10px var(--mono);color:var(--accent)}
+.region-switch a[aria-current]{border-color:var(--accent);background:rgba(212,160,125,.12)}
+.region-story,.region-brief{border-top:1px solid var(--line);padding:22px 0 8px}
+.region-story h3,.region-brief h3{font:26px/1.2 var(--serif);margin:10px 0}
+.region-brief h3{margin-top:0}
+.region-brief{scroll-margin-top:20px}
+.region-page .region-empty{font-size:15px}
+@media(max-width:760px){
+  .atlas-lede{font-size:15px}
+  .region-pin .region-name{display:none}
+  .region-pin text{font-size:15px}
+  .region-pin .dot{r:22px}
+  .region-chip{font-size:14px;padding:9px 13px}
+  .region-list a{font-size:18px}
+  .region-panel h4{font-size:10px}
+  .region-panel{scroll-margin-top:16px}
+  .region-story h3,.region-brief h3{font-size:23px}
+}
+.region-list a,.region-chip,.region-switch a,.region-pin,.region-story h3 a{text-decoration:none}
+.region-story h3 a:hover{text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:4px}

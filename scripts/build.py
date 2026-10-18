@@ -73,6 +73,19 @@ def validate(edition):
                 assert visual['sourceUrl'] in [x['url'] for x in s['sources']], 'Chart must cite a story source'
                 assert visual['measure'] and visual['unit'] and 1<=len(visual['values'])<=4
                 assert all(isinstance(x['value'],(int,float)) and math.isfinite(x['value']) and x['value']>=0 and x['label'] for x in visual['values'])
+    for s in edition['stories']:
+        if 'regions' in s:
+            assert isinstance(s['regions'], list) and all(x in REGION_SLUGS for x in s['regions']), 'Story regions must use the seven region slugs'
+    if 'regions' in edition:
+        assert isinstance(edition['regions'], dict) and all(k in REGION_SLUGS for k in edition['regions']), 'Unknown region key'
+        for entry in edition['regions'].values():
+            if 'summary' in entry: assert isinstance(entry['summary'], str) and entry['summary'].strip()
+            for b in entry.get('briefs', []):
+                for field in ('title', 'text', 'eventDate'):
+                    assert isinstance(b.get(field), str) and b[field].strip(), f'Region briefs need {field}'
+                assert b.get('sources'), 'Region briefs need sources'
+                for source in b['sources']:
+                    assert urlparse(source['url']).scheme == 'https' and source['title'] and source['publisher'] and source['publishedAt']
     if edition.get('updatedAt'):
         assert datetime.fromisoformat(edition['updatedAt'].replace('Z', '+00:00')).tzinfo is not None, 'updatedAt needs a timezone'
         assert edition.get('updatedLabel'), 'updatedAt needs a readable updatedLabel'
@@ -187,35 +200,108 @@ def shell(content, edition, title='The Signal — The world, considered. Once a 
     metadata = dict(edition=edition, editions=[{'date': x['date'], 'number': x['number'], 'count': len(x['stories'])} for x in EDITIONS], prefix=prefix)
     serialized = json.dumps(metadata, ensure_ascii=False).replace('<', '\\u003c')
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(description)}"><meta name="theme-color" content="#09131d"><link rel="canonical" href="{BASE}/{canonical}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:site_name" content="The Signal"><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/{canonical}"><link rel="icon" type="image/svg+xml" href="{prefix}assets/signal.svg?v={ASSET_VERSION}"><link rel="stylesheet" href="{prefix}assets/style.css?v={ASSET_VERSION}"><link rel="alternate" type="application/rss+xml" title="The Signal editions" href="{prefix}feed.xml"></head>
-    <body><a class="skip" href="#main">Skip to the briefing</a><div class="progress" aria-hidden="true"></div><header class="wrap"><div class="topline eyebrow"><span class="status"><i class="status-dot"></i> An independent daily briefing</span><span>{e(stamp)}</span><span class="timezone">A global perspective</span></div><div class="masthead"><a class="wordmark" href="{prefix}" aria-label="The Signal home"><span class="wordmark-the">The</span><span>Signal</span></a><div class="masthead-note"><p>The world, considered.<br><em>Once a day.</em></p><div class="edition-stamp"><span>Nº</span><strong>{edition['number']:03}</strong><small>The daily edition</small></div></div></div><nav class="navigation" aria-label="Main navigation"><div class="navlinks"><a href="{prefix}#edition">The edition</a><a href="{prefix}#frontiers">Frontiers</a><a href="{prefix}threads/">Threads</a><a class="archive-nav" href="{prefix}archive/">Archive</a><a class="about-nav" href="{prefix}about/">Our approach</a></div><div class="nav-actions"><button class="catchup" data-dialog="catchup-dialog">Catch me up ↗</button></div></nav></header>
+    <body><a class="skip" href="#main">Skip to the briefing</a><div class="progress" aria-hidden="true"></div><header class="wrap"><div class="topline eyebrow"><span class="status"><i class="status-dot"></i> An independent daily briefing</span><span>{e(stamp)}</span><span class="timezone">A global perspective</span></div><div class="masthead"><a class="wordmark" href="{prefix}" aria-label="The Signal home"><span class="wordmark-the">The</span><span>Signal</span></a><div class="masthead-note"><p>The world, considered.<br><em>Once a day.</em></p><div class="edition-stamp"><span>Nº</span><strong>{edition['number']:03}</strong><small>The daily edition</small></div></div></div><nav class="navigation" aria-label="Main navigation"><div class="navlinks"><a href="{prefix}#edition">The edition</a><a href="{prefix}#frontiers">Frontiers</a><a class="regions-nav" href="{prefix}#regions">Regions</a><a href="{prefix}threads/">Threads</a><a class="archive-nav" href="{prefix}archive/">Archive</a><a class="about-nav" href="{prefix}about/">Our approach</a></div><div class="nav-actions"><button class="catchup" data-dialog="catchup-dialog">Catch me up ↗</button></div></nav></header>
     {content}
     <footer class="footer"><div class="wrap"><a class="footer-brand" href="{prefix}"><span>The</span> Signal</a><p>Evidence-linked. Open to correction.</p><div class="footer-links"><a href="{prefix}about/">Our approach</a><a href="{prefix}threads/">Threads</a><a href="{prefix}archive/">Archive</a><a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Corrections ↗</a></div></div></footer>
     <dialog id="catchup-dialog" aria-labelledby="catchup-title"><button class="close" aria-label="Close dialog">×</button><div class="eyebrow">The thread, picked up</div><h2 id="catchup-title">Away for a few days?</h2><p>Choose the last edition you read. We’ll gather the developments published since then, grouped by story.</p><label for="since-date">Last edition read</label><select id="since-date" class="catchup-select"><option value="all">I’m new here</option>{''.join(f'<option value="{x["date"]}">{pretty(x["date"])}</option>' for x in reversed(EDITIONS))}</select><div id="catchup-results" aria-live="polite"></div></dialog>
     <div class="toast" role="status" hidden></div><script id="signal-data" type="application/json">{serialized}</script><script src="{prefix}assets/app.js?v={ASSET_VERSION}" defer></script></body></html>'''
 
+REGIONS = [
+    ('north-america', 'North America', -101, 46),
+    ('latin-america', 'Latin America', -62, -12),
+    ('europe', 'Europe', 14, 51),
+    ('africa', 'Africa', 20, 4),
+    ('middle-east', 'Middle East', 46, 28),
+    ('asia', 'Asia', 96, 40),
+    ('oceania', 'Oceania', 140, -25),
+]
+REGION_SLUGS = [r[0] for r in REGIONS]
+REGION_HINTS = [
+    ('middle-east', ('middle east', 'gulf', 'israel', 'gaza', 'west bank', 'iran', 'iraq', 'syria', 'lebanon', 'yemen', 'saudi', 'jordan', 'turkey', 'türkiye', 'qatar', 'emirates')),
+    ('africa', ('africa', 'kenya', 'sudan', 'nigeria', 'ethiopia', 'congo', 'egypt', 'somalia', 'sahel', 'libya')),
+    ('latin-america', ('latin america', 'south america', 'central america', 'caribbean', 'mexico', 'brazil', 'argentina', 'chile', 'colombia', 'venezuela', 'peru', 'cuba', 'haiti', 'bolivia')),
+    ('north-america', ('north america', 'united states', 'u.s.', 'canada', 'washington')),
+    ('europe', ('europe', 'france', 'germany', 'united kingdom', 'britain', 'ukraine', 'russia', 'poland', 'romania', 'italy', 'spain', 'black sea', 'baltic', 'nato')),
+    ('oceania', ('oceania', 'pacific islands', 'australia', 'new zealand', 'fiji', 'papua', 'solomon', 'samoa', 'tonga')),
+    ('asia', ('asia', 'china', 'india', 'japan', 'korea', 'taiwan', 'pakistan', 'afghanistan', 'indonesia', 'philippines', 'vietnam', 'thailand', 'myanmar', 'bangladesh')),
+]
+
+def story_regions(s):
+    """Regions a story belongs to: explicit tags first, otherwise read from its region label."""
+    if 'regions' in s: return list(s['regions'])
+    if s['section'] in ('ai', 'frontiers'): return []
+    label = s['region'].lower()
+    return [slug for slug, words in REGION_HINTS if any(w in label for w in words)][:2]
+
+def region_items(edition):
+    data = edition.get('regions', {})
+    out = []
+    for number, (slug, name, lon, lat) in enumerate(REGIONS, 1):
+        stories = [(i, s) for i, s in enumerate(edition['stories'], 1) if slug in story_regions(s)]
+        entry = data.get(slug, {})
+        out.append(dict(slug=slug, name=name, number=number, lon=lon, lat=lat, stories=stories,
+                        briefs=entry.get('briefs', []), summary=entry.get('summary', '')))
+    return out
+
+def region_count(r): return len(r['stories']) + len(r['briefs'])
+
+def count_label(r):
+    n = region_count(r)
+    return f'{n} item{"s" if n != 1 else ""}'
+
+def region_panel(r, prefix, active):
+    name = e(r['name'])
+    stories = ''.join(f'<li><a href="{prefix}stories/{e(s["id"])}/"><span>{i:02}</span><b>{e(s["title"])}</b></a></li>' for i, s in r['stories']) \
+        or f'<li class="region-empty">No {name} story made today’s main edition.</li>'
+    briefs = ''.join(f'<li><a href="regions/{r["slug"]}/#brief-{n}"><span>+</span><b>{e(b["title"])}<small>{e(b["sources"][0]["publisher"])} · {e(b["eventDate"])}</small></b></a></li>' for n, b in enumerate(r['briefs'], 1)) \
+        or '<li class="region-empty">No further development cleared our bar today.</li>'
+    summary = f'<p class="region-summary">{e(r["summary"])}</p>' if r['summary'] else ''
+    hidden = '' if active else ' hidden'
+    return (f'<div class="region-panel" id="region-panel-{r["slug"]}" data-panel="{r["slug"]}"{hidden}>'
+            f'<span class="eyebrow">Region {r["number"]:02} · {count_label(r)}</span><h3>{name}</h3>{summary}'
+            f'<h4>In today’s edition</h4><ul class="region-list">{stories}</ul>'
+            f'<h4>More from {name} <small>Beyond the main edition</small></h4><ul class="region-list region-briefs">{briefs}</ul>'
+            f'<a class="atlas-read" href="regions/{r["slug"]}/">All {name} news <span>→</span></a></div>')
+
 def atlas(edition, prefix='./'):
-    # Same projection as the sourced Natural Earth overview generated at build time.
-    project=lambda lon,lat: ((lon+180)*2.2,(84-lat)*2.45)
-    located=[(i,s) for i,s in enumerate(edition['stories'],1) if s.get('locations')]
-    if not located: return ''
-    # One pin per story, at its first (most representative) location; nudge pins apart so none overlap.
-    placed=[]
-    for number,story in located:
-        point=story['locations'][0]
-        x,y=project(point['lon'],point['lat'])
-        for _ in range(40):
-            clash=next(((px,py) for _,_,px,py,_ in placed if math.hypot(x-px,y-py)<32),None)
-            if not clash: break
-            dx,dy=x-clash[0],y-clash[1]
-            dist=math.hypot(dx,dy) or 1.0
-            if dist<1: dx,dy,dist=1.0,-1.0,1.4
-            x+=dx/dist*6; y+=dy/dist*6
-        placed.append((number,story,x,y,point))
-    pins=''
-    for number,story,x,y,point in placed:
-        pins+=f'<a href="#{e(story["id"])}" class="map-pin" data-atlas-id="{e(story["id"])}" aria-label="{e(point["label"])}: {e(story["title"])}"><circle cx="{x:.1f}" cy="{y:.1f}" r="15"/><text x="{x:.1f}" y="{y+4:.1f}" text-anchor="middle">{number:02}</text></a>'
-    first=located[0][1]
-    return f'''<section class="atlas" aria-labelledby="atlas-heading"><div class="atlas-top"><div class="eyebrow">The observatory / Reporting locations</div><span class="atlas-instruction">Choose a numbered location ↘</span></div><div class="atlas-layout"><div class="atlas-map"><h2 id="atlas-heading">A wider <em>perspective.</em></h2><svg viewBox="0 0 800 355" role="group" aria-label="World overview with approximate reporting locations"><defs><pattern id="atlas-grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#263c50" stroke-width=".6"/></pattern><pattern id="atlas-dots" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".8" fill="#59768d"/></pattern></defs><rect width="800" height="355" fill="url(#atlas-grid)"/><image href="{prefix}assets/visuals/world-overview.svg" width="800" height="355"/>{pins}</svg><p class="atlas-caption">Approximate reporting locations · map data: Natural Earth</p></div><aside class="atlas-detail" aria-live="polite"><span class="eyebrow" id="atlas-region">{e(first['region'])}</span><h3 id="atlas-title">{e(first['title'])}</h3><p id="atlas-change">{e(first['whatChanged'])}</p><a class="atlas-read" href="{thread_link(first,prefix)}">Follow this story <span>→</span></a></aside></div></section>'''
+    project = lambda lon, lat: ((lon + 180) * 2.2, (84 - lat) * 2.45)
+    regions = region_items(edition)
+    pins = ''
+    for r in regions:
+        x, y = project(r['lon'], r['lat'])
+        pins += (f'<a href="regions/{r["slug"]}/" class="region-pin" data-region="{r["slug"]}" aria-label="{e(r["name"])}: {count_label(r)}">'
+                 f'<circle class="halo" cx="{x:.1f}" cy="{y:.1f}" r="27"/><circle class="dot" cx="{x:.1f}" cy="{y:.1f}" r="19"/>'
+                 f'<text x="{x:.1f}" y="{y + 4.5:.1f}" text-anchor="middle">{r["number"]:02}</text>'
+                 f'<text class="region-name" x="{x:.1f}" y="{y + 41:.1f}" text-anchor="middle">{e(r["name"])} · {region_count(r)}</text></a>')
+    chips = ''.join(f'<a href="regions/{r["slug"]}/" class="region-chip" data-region="{r["slug"]}"><span>{r["number"]:02}</span>{e(r["name"])}<small>{region_count(r)}</small></a>' for r in regions)
+    panels = ''.join(region_panel(r, prefix, i == 0) for i, r in enumerate(regions))
+    return (f'<section class="atlas" id="regions" aria-labelledby="atlas-heading"><div class="atlas-top"><div class="eyebrow">The observatory / Regions</div>'
+            f'<span class="atlas-instruction">Choose a region for more news ↘</span></div><div class="atlas-layout"><div class="atlas-map">'
+            f'<h2 id="atlas-heading">The world, <em>by region.</em></h2>'
+            f'<p class="atlas-lede">Seven regions, numbered. Choose one to see today’s stories from that part of the world, plus news that didn’t make the main edition.</p>'
+            f'<svg viewBox="0 -12 800 380" role="group" aria-label="World map with seven numbered regions"><defs><pattern id="atlas-grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#263c50" stroke-width=".6"/></pattern></defs>'
+            f'<rect y="-12" width="800" height="380" fill="url(#atlas-grid)"/><image href="{prefix}assets/visuals/world-overview.svg" width="800" height="355"/>{pins}</svg>'
+            f'<nav class="region-chips" aria-label="Regions">{chips}</nav>'
+            f'<p class="atlas-caption">Region markers are approximate · numbers show items for each region · map data: Natural Earth</p></div>'
+            f'<aside class="atlas-detail" aria-live="polite">{panels}</aside></div></section>')
+
+def region_page(r, edition, prefix):
+    name = e(r['name'])
+    stories = ''.join(
+        f'<article class="region-story"><span class="eyebrow">{e(s["region"])} / {i:02}</span><h3><a href="{prefix}stories/{e(s["id"])}/">{e(s["title"])}</a></h3>'
+        f'<p>{e(s["whatChanged"])}</p><a class="card-more" href="{prefix}stories/{e(s["id"])}/">Full report <span>→</span></a></article>'
+        for i, s in r['stories']) or f'<p class="region-empty">No {name} story made this edition’s main report.</p>'
+    briefs = ''.join(
+        f'<article class="region-brief" id="brief-{n}"><h3>{e(b["title"])}</h3><p class="source-note">{e(b["eventDate"])}</p><p>{e(b["text"])}</p>{source_links(b)}</article>'
+        for n, b in enumerate(r['briefs'], 1)) or '<p class="region-empty">No further development cleared our bar today.</p>'
+    switch = ''.join(f'<a href="../{x["slug"]}/"{" aria-current=" + chr(34) + "page" + chr(34) if x["slug"] == r["slug"] else ""}><span>{x["number"]:02}</span>{e(x["name"])}</a>' for x in region_items(edition))
+    summary = f'<p class="article-summary">{e(r["summary"])}</p>' if r['summary'] else ''
+    return (f'<main class="wrap" id="main"><article class="article-page region-page"><a class="article-back" href="../../#regions">← All regions</a>'
+            f'<div class="eyebrow">Region {r["number"]:02} / {e(pretty(edition["date"]))}</div><h1>{name}</h1>{summary}'
+            f'<nav class="region-switch" aria-label="Other regions">{switch}</nav>'
+            f'<h2>In today’s edition</h2><div class="region-stories">{stories}</div>'
+            f'<h2>More from {name}</h2><p class="source-note">These developments did not make the main edition. Each is summarized from the linked reporting; follow the sources for the full story.</p>'
+            f'{briefs}</article></main>')
 
 def home(edition, prefix='./', archived=False):
     world = [s for s in edition['stories'] if s['section'] == 'world']
@@ -294,6 +380,12 @@ if __name__ == '__main__':
     index = {}
     for edition in EDITIONS:
         for s in edition['stories']: index.setdefault(s['id'],[]).append((edition,s))
+    for edition in EDITIONS:
+        for r in region_items(edition):
+            title=f'{r["name"]} — The Signal'
+            about=r['summary'] or f'News from {r["name"]} in The Signal.'
+            if edition is latest: write(f'regions/{r["slug"]}/index.html',shell(region_page(r,edition,'../../'),edition,title,'../../',f'regions/{r["slug"]}/',description=about))
+            write(f'editions/{edition["date"]}/regions/{r["slug"]}/index.html',shell(region_page(r,edition,'../../../../'),edition,title,'../../../../',f'editions/{edition["date"]}/regions/{r["slug"]}/',description=about))
     write('threads/index.html',shell(threads_index(THREADS),latest,'Story threads — The Signal','../','threads/'))
     for slug,history in THREADS.items():
         current=history[-1][1]
@@ -307,7 +399,7 @@ if __name__ == '__main__':
     write('data/history.json',json.dumps(EDITIONS,ensure_ascii=False))
     items=''.join(f'<item><title>{xml_escape("The Signal — "+pretty(x["date"]))}</title><link>{BASE}/editions/{x["date"]}/</link><guid>{BASE}/editions/{x["date"]}/</guid><description>{xml_escape(x["opening"])}</description></item>' for x in reversed(EDITIONS))
     write('feed.xml',f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>The Signal</title><link>{BASE}/</link><description>A clearer view of a changing world.</description><language>en</language>{items}</channel></rss>')
-    paths=['','archive/','about/','threads/']+[f'threads/{slug}/' for slug in THREADS]+[f'stories/{s}/' for s in index]+[f'editions/{x["date"]}/' for x in EDITIONS]
+    paths=['','archive/','about/','threads/']+[f'threads/{slug}/' for slug in THREADS]+[f'stories/{s}/' for s in index]+[f'editions/{x["date"]}/' for x in EDITIONS]+[f'regions/{slug}/' for slug in REGION_SLUGS]
     write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{BASE}/{x}</loc></url>' for x in paths)+'</urlset>')
     write('robots.txt',f'User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n')
     write('.nojekyll','')

@@ -24,7 +24,7 @@
     if(lead)lead.hidden=filter!=='all'&&lead.dataset.section!==filter;
     if($('.atlas'))$('.atlas').hidden=filter==='frontiers';
   }));
-  $$('.navlinks a').forEach(link=>link.addEventListener('click',()=>{if(location.pathname===new URL(link.href).pathname && (link.hash==='#frontiers'||link.hash==='#ai-frontier'))$('[data-filter=all]')?.click();}));
+  $$('.navlinks a').forEach(link=>link.addEventListener('click',()=>{if(location.pathname===new URL(link.href).pathname && (link.hash==='#frontiers'||link.hash==='#ai-frontier'||link.hash==='#regions'))$('[data-filter=all]')?.click();}));
   $$('[data-mode]').forEach(button=>button.addEventListener('click',()=>{
     $$('[data-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
     document.body.classList.toggle('quick',button.dataset.mode==='quick');
@@ -58,21 +58,18 @@
   }
   $('#since-date').addEventListener('change',catchup);
 
-  // The map is an alternate, keyboard-accessible way into the same reporting.
-  const pins=$$('[data-atlas-id]');
-  function selectLocation(id){
-    const story=edition.stories.find(s=>s.id===id);
-    if(!story)return;
-    pins.forEach(pin=>{
-      const active=pin.dataset.atlasId===id;
-      pin.classList.toggle('is-active',active);
-      if(active)pin.setAttribute('aria-current','true');else pin.removeAttribute('aria-current');
+  // Regions: the numbered map markers and the chips below it select a region panel.
+  const regionLinks=$$('[data-region]');
+  function selectRegion(slug,reveal){
+    regionLinks.forEach(link=>{
+      const active=link.dataset.region===slug;
+      link.classList.toggle('is-active',active);
+      if(active)link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');
     });
-    $('#atlas-region').textContent=story.region;
-    $('#atlas-title').textContent=story.title;
-    $('#atlas-change').textContent=story.whatChanged;
-    $('.atlas-read').href=prefix+'threads/'+(story.threadId||story.id)+'/';
+    $$('[data-panel]').forEach(panel=>panel.hidden=panel.dataset.panel!==slug);
+    const panel=document.getElementById('region-panel-'+slug);
+    if(reveal&&panel&&matchMedia('(max-width:760px)').matches)panel.scrollIntoView({behavior:'smooth',block:'start'});
   }
-  pins.forEach(pin=>pin.addEventListener('click',event=>{event.preventDefault();selectLocation(pin.dataset.atlasId);}));
-  if(pins.length)selectLocation(pins[0].dataset.atlasId);
+  regionLinks.forEach(link=>link.addEventListener('click',event=>{event.preventDefault();selectRegion(link.dataset.region,true);}));
+  if(regionLinks.length)selectRegion(regionLinks[0].dataset.region,false);
 })();

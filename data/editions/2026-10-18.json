@@ -623,7 +623,10 @@
      "publishedAt": "2026-10-18",
      "kind": "Independent reporting"
     }
-   ]
+   ],
+   "threadId": "drc-conflict",
+   "threadTitle": "Congo’s eastern war",
+   "threadSummary": "The M23-led rebellion in eastern Congo, the peace talks, and who is now leading the fight."
   },
   {
    "id": "west-bank-diplomats-attacked",
@@ -646,7 +649,10 @@
      "publishedAt": "2026-10-18",
      "kind": "Independent reporting citing official statements"
     }
-   ]
+   ],
+   "threadId": "west-bank-violence",
+   "threadTitle": "Violence in the West Bank",
+   "threadSummary": "Settler attacks, Israeli operations and the international response in the occupied West Bank."
   },
   {
    "id": "romania-drone-interception",
@@ -780,7 +786,10 @@
      "publishedAt": "2026-10-17",
      "kind": "Independent reporting from the IMF meetings"
     }
-   ]
+   ],
+   "threadId": "war-economy",
+   "threadTitle": "The war’s economic toll",
+   "threadSummary": "How the Iran war and its energy shock are hitting prices, debt and growth around the world."
   },
   {
    "id": "brazil-meta-election-scrutiny",
@@ -922,7 +931,10 @@
      "publishedAt": "2026-10-17",
      "kind": "Independent reporting citing the Vatican"
     }
-   ]
+   ],
+   "threadId": "pope-leo-health",
+   "threadTitle": "Pope Leo XIV’s health",
+   "threadSummary": "The pope’s diagnosis, treatment and what it means for his schedule."
   },
   {
    "id": "gemini-argon-release",

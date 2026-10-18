@@ -53,7 +53,12 @@
           "lon": 38,
           "lat": 56
         }
-      ]
+      ],
+      "image": {
+        "asset": "assets/editions/2026-10-18/russia-sanctions-waiver.jpg",
+        "alt": "A pale blue globe above dark ocean waves, with a fine copper rim: an illustration of a fragile global balance.",
+        "credit": "Editorial illustration"
+      }
     },
     {
       "id": "romania-drone-interception",
@@ -90,7 +95,12 @@
           "lon": 29,
           "lat": 44
         }
-      ]
+      ],
+      "image": {
+        "asset": "assets/editions/2026-10-18/romania-drone-interception.jpg",
+        "alt": "A blue radar dish on an imagined coastal cliff beneath a copper arc, symbolizing airspace monitoring.",
+        "credit": "Editorial illustration"
+      }
     },
     {
       "id": "china-solar-export-proposal",
@@ -127,7 +137,12 @@
           "lon": 116,
           "lat": 40
         }
-      ]
+      ],
+      "image": {
+        "asset": "assets/editions/2026-10-18/china-solar-export-proposal.jpg",
+        "alt": "A geometric row of blue solar panels receding toward a copper sun.",
+        "credit": "Editorial illustration"
+      }
     },
     {
       "id": "imf-debt-development-gap",
@@ -171,7 +186,12 @@
           "lon": 101,
           "lat": 14
         }
-      ]
+      ],
+      "image": {
+        "asset": "assets/editions/2026-10-18/imf-debt-development-gap.jpg",
+        "alt": "An uneven balance holding blue and copper spheres and stone blocks, a metaphor for economic burdens.",
+        "credit": "Editorial illustration"
+      }
     },
     {
       "id": "brazil-meta-election-scrutiny",
@@ -208,7 +228,12 @@
           "lon": -48,
           "lat": -16
         }
-      ]
+      ],
+      "image": {
+        "asset": "assets/editions/2026-10-18/brazil-meta-election-scrutiny.jpg",
+        "alt": "A copper thread passes through glass panes around a dark obstruction, representing scrutiny of information flow.",
+        "credit": "Editorial illustration"
+      }
     },
     {
       "id": "sudan-hunger-continues",
@@ -245,7 +270,12 @@
           "lon": 32,
           "lat": 15
         }
-      ]
+      ],
+      "image": {
+        "asset": "assets/editions/2026-10-18/sudan-hunger-continues.jpg",
+        "alt": "An empty blue ceramic bowl beside a copper-colored stalk of grain, a symbolic still life about hunger.",
+        "credit": "Editorial illustration"
+      }
     },
     {
       "id": "gemini-argon-release",
@@ -268,7 +298,13 @@
       "section": "ai",
       "title": "Google puts its new frontier model into developers’ hands",
       "body": "Google released Gemini 4 Argon through its paid API and selected subscriptions on October 13. The company reports stronger performance on complex coding and professional tasks, and points to software changes made with the model. Availability is a concrete change; claims of broad productivity gains still need testing outside Google’s selected examples. Introductory API pricing ends November 30, so the launch price should not be mistaken for the permanent cost.",
-      "region": "AI frontier"
+      "region": "AI frontier",
+      "image": {
+        "asset": "assets/editions/2026-10-18/gemini-argon-release.jpg",
+        "alt": "A faceted blue sphere opens around a copper core, symbolizing access to a new AI model.",
+        "credit": "Editorial illustration"
+      },
+      "field": "AI"
     },
     {
       "id": "anthropic-metr-access",
@@ -298,7 +334,13 @@
       "section": "ai",
       "title": "An AI safety evaluator gets a closer look inside Anthropic",
       "body": "Anthropic says six METR employees now have internal access roughly comparable to its risk assessment teams. METR can publish assessments without Anthropic vetoing publication. The important qualification is that Anthropic can require redactions under defined categories, and determines which information falls within them. The arrangement expands outside scrutiny, but its value will depend on the evidence evaluators obtain and what reaches the public.",
-      "region": "AI frontier"
+      "region": "AI frontier",
+      "image": {
+        "asset": "assets/editions/2026-10-18/anthropic-metr-access.jpg",
+        "alt": "A copper thread passes through three translucent blue doorways, a metaphor for independent evaluation access.",
+        "credit": "Editorial illustration"
+      },
+      "field": "AI"
     },
     {
       "id": "claude-curve-seeds",
@@ -321,7 +363,13 @@
       "section": "ai",
       "title": "Claude helps explain a decades-old cryptography mystery",
       "body": "Anthropic reports that an internal Claude research model traced several widely used elliptic-curve parameters to an old random-number generator initialized with timestamps. It published code to reproduce the recovered seeds. The result concerns how public cryptographic constants were chosen; it does not break encrypted messages or expose private keys. Some parameters and selection decisions remain unexplained, so the broader historical story is incomplete.",
-      "region": "AI frontier"
+      "region": "AI frontier",
+      "image": {
+        "asset": "assets/editions/2026-10-18/claude-curve-seeds.jpg",
+        "alt": "Two intersecting blue ribbons with a copper thread, evoking a mathematical mystery being untangled.",
+        "credit": "Editorial illustration"
+      },
+      "field": "AI"
     }
   ],
   "watch": [
@@ -345,9 +393,10 @@
   },
   "cover": {
     "storyId": "russia-sanctions-waiver",
-    "asset": "assets/edition-001.jpg",
-    "alt": "Conceptual collage of a yellow disc suspended over a pressure valve, between an architectural column and a dark geometric weight.",
-    "caption": "Pressure, on pause.",
-    "credit": "AI-generated editorial illustration"
-  }
+    "asset": "assets/editions/2026-10-18/russia-sanctions-waiver.jpg",
+    "alt": "A pale blue globe above dark ocean waves, with a fine copper rim: an illustration of a fragile global balance.",
+    "credit": "Editorial illustration",
+    "caption": "A fragile global balance"
+  },
+  "leadStoryId": "russia-sanctions-waiver"
 }

@@ -23,19 +23,21 @@
   $$('[data-filter]').forEach(button=>button.addEventListener('click',()=>{
     $$('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
     const filter=button.dataset.filter;
-    $('.world-grid-section').hidden=filter==='ai';
-    $('#ai-frontier').hidden=filter==='world';
+    $('.world-grid-section').hidden=filter==='frontiers'||!$('.world-grid-section .story-card');
+    $('#frontiers').hidden=filter==='world'||!$('#frontiers .story-card');
     const lead=$('.lead-story');
     if(lead)lead.hidden=filter!=='all'&&lead.dataset.section!==filter;
-    if($('.atlas'))$('.atlas').hidden=filter==='ai';
+    if($('.atlas'))$('.atlas').hidden=filter==='frontiers';
   }));
-  $$('.navlinks a').forEach(link=>link.addEventListener('click',()=>{if(location.pathname===new URL(link.href).pathname && link.hash==='#ai-frontier')$('[data-filter=all]')?.click();}));
+  $$('.navlinks a').forEach(link=>link.addEventListener('click',()=>{if(location.pathname===new URL(link.href).pathname && (link.hash==='#frontiers'||link.hash==='#ai-frontier'))$('[data-filter=all]')?.click();}));
   $$('[data-mode]').forEach(button=>button.addEventListener('click',()=>{
     $$('[data-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
     document.body.classList.toggle('quick',button.dataset.mode==='quick');
   }));
-  try {document.body.classList.toggle('dark',localStorage.getItem('signal-theme')==='dark');}catch{}
-  $('.theme').addEventListener('click',()=>{const dark=document.body.classList.toggle('dark');try{localStorage.setItem('signal-theme',dark?'dark':'light');}catch{}});
+  try {document.body.classList.toggle('light',localStorage.getItem('signal-night-theme')==='light');}catch{}
+  function themeLabel(){const label=document.body.classList.contains('light')?'Switch to night theme':'Switch to light theme';$('.theme').setAttribute('aria-label',label);$('.theme').title=label;}
+  themeLabel();
+  $('.theme').addEventListener('click',()=>{const light=document.body.classList.toggle('light');try{localStorage.setItem('signal-night-theme',light?'light':'night');}catch{}themeLabel();});
   $('#share-edition')?.addEventListener('click',async()=>{
     const url=new URL(`${prefix}editions/${edition.date}/`,location.href).href;
     try {await navigator.clipboard.writeText(url);toast('Edition link copied.');}

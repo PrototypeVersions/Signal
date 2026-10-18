@@ -24,3 +24,5 @@ dialog{border:1px solid var(--line);background:var(--paper);color:var(--ink);wid
 /* Frontiers keeps the editorial hook visible and opens the evidence on demand. */
 .ai-section{margin-top:45px}.frontier-hook{margin:0 0 22px}.frontier-hook .eyebrow{font-size:9px;letter-spacing:1px}.frontier-hook p{font:16px/1.55 var(--serif);margin:8px 0 0;color:var(--muted)}.frontier-card .card-foot{border-top:1px solid var(--line);padding-top:13px}.frontier-card .story-art img{aspect-ratio:3/2}
 @media(max-width:480px){.filters button{padding-inline:5px}.reading-toggle{gap:8px}.frontier-hook p{font-size:18px}}
+
+.article-sections{display:flex;flex-wrap:wrap;gap:14px 25px;padding:14px 0;border-block:1px solid var(--line);font:11px/1.7 var(--mono);color:var(--accent)}

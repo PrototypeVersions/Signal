@@ -15,11 +15,6 @@
     dialog.addEventListener('close',()=>lastFocus?.focus());
   });
   $$('[data-dialog]').forEach(button=>button.addEventListener('click',()=>{openDialog(document.getElementById(button.dataset.dialog)); if(button.dataset.dialog==='catchup-dialog')catchup();}));
-  $$('[data-story]').forEach(button=>button.addEventListener('click',()=>{
-    const story=edition.stories.find(s=>s.id===button.dataset.story);
-    $('#story-dialog-content').innerHTML=`<div class="eyebrow">${escape(story.region)} / ${escape(story.category)}</div><h2 id="story-dialog-title">${escape(story.title)}</h2><p class="source-note">Event: ${escape(story.eventDate)} · Edition ${escape(edition.date)}</p><p>${escape(story.body)}</p><h3>What changed</h3><p>${escape(story.whatChanged)}</p><h3>Why it matters <small style="font:10px var(--mono)">/ Our assessment</small></h3><p>${escape(story.whyMatters)}</p><h3>What remains uncertain</h3><p>${escape(story.uncertainty)}</p><h3>Watch next</h3><p>${escape(story.watchNext)}</p><h3>Sources & evidence</h3>${story.sources.map(s=>`<div class="evidence"><a href="${escape(s.url)}" target="_blank" rel="noopener noreferrer">${escape(s.title)} ↗</a><small>${escape(s.publisher)} · ${escape(s.publishedAt)} · ${escape(s.kind)}</small></div>`).join('')}<div class="dialog-actions"><a class="button" href="${prefix}stories/${story.id}/">Follow this story →</a><a class="textlink" href="https://github.com/PrototypeVersions/Signal/issues/new?title=${encodeURIComponent('Correction: '+story.title)}" target="_blank" rel="noopener noreferrer">Suggest a correction ↗</a></div>`;
-    openDialog($('#story-dialog'));
-  }));
   $$('[data-filter]').forEach(button=>button.addEventListener('click',()=>{
     $$('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
     const filter=button.dataset.filter;
@@ -80,7 +75,7 @@
     $('#atlas-region').textContent=story.region;
     $('#atlas-title').textContent=story.title;
     $('#atlas-change').textContent=story.whatChanged;
-    $('.atlas-read').dataset.story=id;
+    $('.atlas-read').href=prefix+'stories/'+story.id+'/';
   }
   pins.forEach(pin=>pin.addEventListener('click',event=>{event.preventDefault();selectLocation(pin.dataset.atlasId);}));
   if(pins.length)selectLocation(pins[0].dataset.atlasId);

@@ -80,7 +80,7 @@ def home(edition, prefix='./', archived=False):
     ai = [s for s in edition['stories'] if s['section'] == 'ai']
     still = [s for s in edition['stories'] if s['section'] == 'still']
     count = len(world) + len(ai)
-    words = sum(len((s['body'] + s['whatChanged']).split()) for s in edition['stories'])
+    words = sum(len((' '.join(s[k] for k in ('body','whatChanged','whyMatters','uncertainty'))).split()) for s in edition['stories']) + sum(len(w['text'].split()) for w in edition['watch'])
     minutes = max(3, math.ceil(words / 200))
     stamp = pretty(edition['date'])
     art = '''<div class="globe-scene"><canvas id="globe" role="img" aria-label="A slowly turning, illustrated globe"></canvas><span class="globe-tag top">A world in motion</span><span class="globe-tag bottom">A moment of clarity</span><span class="orbit-note">01 / A WIDER PERSPECTIVE</span></div>'''

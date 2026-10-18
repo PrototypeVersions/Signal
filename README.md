@@ -43,7 +43,7 @@ The opening paragraph summarizes the day before the lead. Larger reading text an
 
 Optional `visual` objects render maps from bundled Natural Earth country geometry or bar comparisons from explicit, sourced values. These SVGs are created in `dist/assets/visuals/` during the build, with no map service, API key, or browser requests to a mapping provider. See `scripts/data/README.md` and `EDITORIAL.md` for provenance, visual schemas, and location limits. Artwork remains available when a metaphor is useful; it is not required for every article.
 
-`threadId`, `threadTitle`, and `threadSummary` group related reports across editions. The `/threads/` index and each thread timeline are built from the published record. Multiple story IDs may belong to a thread. Existing story URLs and dated archives remain available; legacy editions fall back to their story IDs. No prior history is fabricated.
+`threadId`, `threadTitle`, and `threadSummary` group related reports across editions. The archive’s “By story” list and each thread timeline (`/threads/<id>/`) are built from the published record. Multiple story IDs may belong to a thread. Existing story URLs and dated archives remain available; legacy editions fall back to their story IDs. No prior history is fabricated.
 
 ## Email signups and visitor counts
 

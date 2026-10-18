@@ -225,3 +225,8 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .archive-lede{color:var(--muted);max-width:640px;margin:6px 0 24px}
 #editions .archive-list{margin-top:10px}
 @media(max-width:600px){.navlinks .archive-nav{display:inline}}
+/* Folded months: thread pages and the archive */
+.thread-month,.archive-month{border-top:1px solid var(--line);padding:14px 0}
+.thread-month>summary,.archive-month>summary{font:600 11px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--accent);cursor:pointer;width:fit-content}
+.thread-month[open]>summary,.archive-month[open]>summary{margin-bottom:10px}
+.thread-month .archive-row h3 a{text-decoration:none}

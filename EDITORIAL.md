@@ -1,76 +1,84 @@
 # The Signal editorial instructions
 
+This guide describes the site exactly as it is built today. The scheduled morning and evening runs follow it to the letter, so keep it current whenever the site changes.
+
 ## Promise
 The publication is named **The Signal**. Use the full name in reader-facing copy. The repository remains `PrototypeVersions/Signal`.
 
-One finite daily edition about consequential changes in the world and the frontiers of AI and science. Aim for about five full World stories, five to eight shorter “More that changed” items, two to four Frontiers items, and a continuing-priority item when justified; publish fewer when evidence is weak. Relevance, human consequence, novelty and evidence guide selection. Geographic diversity guides discovery without forcing quotas. Include consequential positive developments when supported; do not equate significance with conflict.
+One finite daily edition about consequential changes in the world and at the frontiers of AI and science. Aim for about five full World stories, five to eight shorter “More that changed” items, two to four Frontiers items, and a continuing-priority (Still matters) item when justified. Publish fewer when evidence is weak. Relevance, human consequence, novelty and evidence guide selection. Geographic diversity guides discovery without forcing quotas. Include consequential positive developments when supported; do not equate significance with conflict.
 
 ## Research and comparison
-Read recent `data/editions/` files before researching. Reuse a stable story ID for the same continuing event and state the actual change relative to prior reporting. Search current reporting broadly and open sources. Check event dates inside articles; search freshness alone is not sufficient. Do not infer that no news found means nothing happened. Cite the original source behind syndicated reporting and do not count repeats as independent evidence.
+Read the most recent files in `data/editions/` before researching, and list the existing story threads with `python3 scripts/build.py --threads` (see Story threads). Reuse a stable story ID for the same continuing event and state the actual change relative to prior reporting. Search current reporting broadly and open the sources. Check event dates inside articles; search freshness alone is not sufficient. Do not infer that no news found means nothing happened. Cite the original source behind syndicated reporting and do not count repeats as independent evidence.
 
 Primary documents verify what an institution says or does, not automatically every underlying claim. Distinguish company claims, independent replication and availability. Prefer two genuinely independent accounts for contested factual claims. A single primary announcement is allowed if clearly attributed and its limits stated. Flag unresolved contradictions, exclude unsupported claims, and never fill a quiet day with invented stories. Respect source quotation and summary limits; use original concise prose and direct URLs.
 
-## Schema
-Use the first published JSON as the schema reference. Top level: `date` (America/Chicago edition date), `number` (prior + 1), `cutoff` (actual UTC timestamp), `cutoffLabel` (readable Central time), `opening`, optional `note`, `stories`, `watch`, optional `realityCheck`, optional `corrections`, optional `cover`, and `leadStoryId`. Omit `note` on ordinary days. Include it only when readers need to know something unusual about the edition, in one or two plain sentences: for example that it was published in the evening because the morning run failed, that a major story is still developing and key facts may change, or that a usual section is missing. When present it appears as a short note near the end of the page. The `opening` is a 30–50 word synthesis of the selected developments, written as a factual, concise opening paragraph; avoid invented causal connections.
-
-Each story: `id` (stable safe slug), optional `threadId`, `threadTitle`, and `threadSummary`, `section` (`world`, `more`, `frontiers`, `still`; legacy `ai` is supported), `title`, `category`, `region`, `status`, `eventDate` (ISO dates such as `2026-10-17` or `2026-10-16 / 2026-10-18` are shown to readers as October 16–18, 2026), `body` (70–100 words), `whatChanged`, `whyMatters`, `uncertainty`, `watchNext`, `sources`, `keyFacts` and `report`. Use 'Major development', 'Meaningful update', 'This week', 'Research result', or 'Still matters' as appropriate. Each source has `publisher`, `title`, exact `url`, `publishedAt` (state undated when appropriate), and `kind` (primary, reporting, company announcement, analysis etc.). No tool citation syntax belongs in JSON.
-
 ## Page layout
-The home page runs: the day in view (`opening`), then **The world / In focus** (`section: world`, about five full cards), then **More that changed** (`section: more`), then **Frontiers**, then the regions map, Still matters and What we’re watching. There is no separate lead block: the `leadStoryId` story is shown first and larger inside its own section.
+The home page runs in this order:
 
-`more` items are shorter world stories that still matter today. Each needs `id`, `section: "more"`, `title`, `category`, `region`, `regions`, `status`, `eventDate`, `whatChanged` (one sentence, shown as the line under the headline), `body` (2–4 sentences, shown when the reader opens “More”) and `sources`. `whyMatters`, `uncertainty`, `watchNext`, `keyFacts`, `report`, `visual` and `image` are optional; if a `more` item has a `report`, the site links its full report. Order `stories` as they appear: world, then more, then frontiers, then still. A story that drops from World to More keeps its id and thread.
+1. **The day, in view**: the edition's `opening`.
+2. **The world / In focus**: `section: "world"` stories as full cards, about five.
+3. **More that changed**: `section: "more"` items as short rows.
+4. **Frontiers**: `section: "frontiers"` items as cards, followed by the optional Reality check card.
+5. **The world, by region**: a map with seven numbered regions, each with its own page (see Regions).
+6. **Still matters** (`section: "still"`) and **What we’re watching** (`watch`).
+7. An optional `note` (only on unusual days), then the closing “You’re caught up” section.
+
+There is no separate lead block or cover. The `leadStoryId` story is shown first, as a larger card, inside its own section. Order the `stories` array as the page shows them: world, then more, then frontiers, then still.
+
+## Schema
+Use the most recent edition as the schema reference.
+
+**Top level:** `date` (America/Chicago edition date), `number` (previous + 1), `cutoff` (actual UTC timestamp of the research cutoff), `cutoffLabel` (readable Central time, e.g. `5:40 AM CT`), `opening`, `leadStoryId`, `stories`, `watch`, `regions`, and optionally `realityCheck`, `note`, `corrections`, `updatedAt` and `updatedLabel`.
+
+- `opening`: a 30–50 word factual synthesis of the day's main developments. Avoid invented causal connections.
+- `leadStoryId`: the most consequential development of the day. It must be a World or Frontiers story; a `more` or `still` story cannot lead.
+- `watch`: three items with `title` and `text`, each tied to a dated or concrete thing to watch.
+- `realityCheck` (optional): `title`, `text`, `url`. It appears as the last Frontiers card, labelled Reality check. Include one only when a prominent claim in the news genuinely needs testing against the evidence; it must be sourced and separate claims from demonstrations. Omit it on other days.
+- `note` (optional): omit on ordinary days. Include it only when readers need to know something unusual, in one or two plain sentences: for example that the edition was published in the evening because the morning run failed, that a major story is still developing and key facts may change, or that a usual section is missing.
+- Do not add `cover`, a markets strip or daily market quotes.
+
+**Every story:** `id` (stable safe slug), `section`, `title`, `category`, `region` (readable label such as `Europe · France`), `regions` (see Regions), `status` (`Major development`, `Meaningful update`, `This week`, `Research result` or `Still matters`), `eventDate`, `body`, `whatChanged`, `sources`, and `threadId` with `threadTitle` and `threadSummary` (see Story threads).
+
+- `eventDate`: ISO dates such as `2026-10-17` or a range `2026-10-16 / 2026-10-18`; the site shows them as October 16–18, 2026.
+- Each source has `publisher`, `title`, exact `url`, `publishedAt` (state undated when appropriate) and `kind` (for example primary, reporting, company announcement, analysis). No tool citation syntax belongs in JSON.
+
+**World, Frontiers and Still stories** also need `body` (70–100 words), `whyMatters`, `uncertainty`, `watchNext`, `keyFacts` and `report` (see Full reports). Frontiers stories also need `field` and may have `hook`.
+
+**More that changed items** (`section: "more"`) need `whatChanged` (one sentence, shown under the headline) and `body` (two to four sentences, shown when the reader opens “More”). `whyMatters`, `uncertainty`, `watchNext`, `keyFacts`, `report`, `visual` and `image` are optional; if an item has a `report`, the site links its full report. A story that moves from World to More keeps its id and thread.
 
 ## Full reports
-Every World, Frontiers and Still story carries a full report for its article page, so readers who want more than the card can click through to it.
+Every World, Frontiers and Still story has a full report on its own page.
 
 - `keyFacts`: three to five short, sourced facts (one line each) that a reader could quote. Numbers, dates, names.
-- `report`: two to four sections, each `{"heading": "...", "paragraphs": ["...", "..."]}`, 200–450 words in total. Typical headings: what happened, the response or reaction, background or context, what comes next. Write original, concise prose; do not copy sentences from sources. Every claim in the report must be supported by a listed source. Attribute contested claims and give both sides when accounts conflict. Do not repeat the card's `whatChanged` and `whyMatters` word for word; the report adds detail and context.
+- `report`: two to four sections, each `{"heading": "...", "paragraphs": ["...", "..."]}`, 200–450 words in total. Typical headings: what happened, the response or reaction, background or context, what comes next. Write original, concise prose; do not copy sentences from sources. Every claim must be supported by a listed source. Attribute contested claims and give both sides when accounts conflict. Do not repeat `whatChanged` and `whyMatters` word for word; the report adds detail and context.
 
-`watch` contains three items with `title` and `text`. Optional `realityCheck` has `title`, `text`, `url`; it must be sourced and separate claims from demonstrations. It appears as the last card in Frontiers, labelled Reality check, so include one only when a prominent claim in the news genuinely needs testing against the evidence; omit it on other days. All public text should be reader-facing, not model workflow instructions. Dates must be precise and relative weekdays resolved. Avoid unsupported probabilities, invented measurements, unverifiable counts of reviewed sources, and fabricated human review labels.
+On cards, the top story shows its summary, What changed and Why it matters; other World cards show What changed, with Why it matters, Still uncertain, What to watch and sources in a dropdown. Story pages end with one “Our assessment” box (What changed, Why it matters, Still uncertain, Watch next).
 
-## Visual edition fields
-`cover` is no longer used: the home page has no separate cover or lead block, so omit it. Artwork must be visibly labeled as illustration. Use the reader-facing caption Editorial illustration; do not add generation-method disclosures to the public site. Actual news photography requires a verified source and reuse rights.
+All public text should be reader-facing, not workflow instructions. Dates must be precise and relative weekdays resolved. Avoid unsupported probabilities, invented measurements, unverifiable counts of reviewed sources, and fabricated human review labels.
 
-Optional story `locations` is a list of objects with `label`, `lon`, and `lat`. Include only relevant, well-established reporting locations. These represent approximate locations on an illustrated world overview, not exact incident coordinates, disputed borders, or measurements. Omit when location is immaterial or uncertain. Story maps use these locations; the home-page overview is organized by region instead (see Regions).
+## Frontiers
+Frontiers combines AI with selective science, medicine, space and energy developments. AI remains central. Do not force a daily number of AI or science stories: publish only material changes with adequate evidence. Science and medicine should distinguish a preprint, peer-reviewed result, trial stage, regulatory approval and real-world deployment; do not turn an early result into a promise of a cure or commercial breakthrough. Include independent evaluation and relevant limitations.
+
+Use `section: "frontiers"` (legacy `ai` is still supported) and a `field` of `AI`, `Science`, `Medicine`, `Space` or `Energy`. The field describes the subject; `category` describes the specific development. The optional `hook` is one concise, supportable sentence shown under “Why it matters” on the card; without it the card uses `whyMatters`. Keep it proportionate: say plainly when a development is a modest step rather than a breakthrough. It is editorial assessment, not an additional factual claim. Frontiers cards show the image, field, headline and hook, and link to the full report.
 
 ## Regions
-The home page's "The world, by region" map has seven numbered regions, and each has its own page at `regions/<slug>/`. The slugs are `north-america`, `latin-america` (Mexico, Central and South America, the Caribbean), `europe` (including Russia and Ukraine), `africa` (including Egypt and Sudan), `middle-east` (the Gulf, Levant, Iran, Iraq, Yemen, Israel and the Palestinian territories), `asia` (including South and Central Asia) and `oceania` (Australia, New Zealand and the Pacific islands).
+The “The world, by region” map has seven numbered regions, each with its own page at `regions/<slug>/`. The slugs are `north-america`, `latin-america` (Mexico, Central and South America, the Caribbean), `europe` (including Russia and Ukraine), `africa` (including Egypt and Sudan), `middle-east` (the Gulf, Levant, Iran, Iraq, Yemen, Israel and the Palestinian territories), `asia` (including South and Central Asia) and `oceania` (Australia, New Zealand and the Pacific islands).
 
-1. Give every world and continuing story a `regions` list of one or two slugs, e.g. `"regions": ["europe"]`. A US policy toward Russia can be `["north-america", "europe"]`. Frontiers stories get `"regions": []` unless a story is really about a place. If `regions` is missing, the build guesses from the `region` label, so set it explicitly.
+1. Give every story a `regions` list of one or two slugs, e.g. `["europe"]`. A US policy toward Russia can be `["north-america", "europe"]`. Frontiers stories get `[]` unless the story is really about a place; a global item with no single region also gets `[]`.
 2. Add a top-level `regions` object with an entry for each of the seven slugs: `{"summary": "One or two plain sentences on the region today.", "briefs": [ ... ]}`.
-3. `briefs` are extra regional items that did not make the main edition: one to three per region when verified news is available. Each is `{"title", "text", "eventDate", "sources"}`, where `text` is 2–4 sentences of paraphrased, sourced facts and `sources` uses the normal source fields (`title`, `publisher`, `url`, `publishedAt`). Open and read every source; do not rely on search snippets. Prefer the last 48 hours. Do not repeat a main-page story (World, More that changed, Frontiers or Still) as a brief; mention a genuinely new development in it only if the main story does not already cover it. If nothing clears the bar for a region, leave `briefs` empty and the site says so; never pad.
-4. In the evening update, refresh a region's `summary` if the picture changed, and you may add a brief for a major regional development that does not warrant a main story.
+3. `briefs` are extra regional items that are not on the main page: one to three per region when verified news is available. Each is `{"title", "text", "eventDate", "sources"}`, where `text` is two to four sentences of paraphrased, sourced facts and `sources` uses the normal source fields. Open and read every source; do not rely on search snippets. Prefer the last 48 hours. Do not repeat a main-page story (World, More that changed, Frontiers or Still) as a brief. If nothing clears the bar for a region, leave `briefs` empty and the site says so; never pad.
 
-## Publication
-Editions are produced each morning (about 5:57 AM Central) by a scheduled Claude (Opus 5.5) task, and updated each evening (see Evening update) and published directly; there is no draft or manual review step. The task:
+## Story threads
+Every story, including `more` items, has a `threadId` (a stable topic slug named for the situation, not the day's headline, e.g. `russia-ukraine-security`), a `threadTitle` (short reader-facing topic) and a `threadSummary` (one factual sentence explaining the ongoing situation).
 
-1. Clones or pulls `PrototypeVersions/Signal` and reads this file and the latest edition.
-2. Works out today's edition date in America/Chicago. If `data/editions/<date>.json` already exists, it stops and reports.
-3. Researches with web search, opening and reading the actual articles, and writes `data/editions/<date>.json` following this guide, including `keyFacts` and `report` for every story, and the `regions` tags and seven region entries.
-4. Runs `python3 scripts/build.py` and fixes any validation error in the data. It never edits application code, styles, workflows, `data/site.json` or this file as part of a routine edition.
-5. Commits and pushes to `main` with the message `Edition <N>: <date>`. The push triggers the Actions workflow, which validates and deploys to GitHub Pages.
-6. Reports a short summary: lead story, items included, anything left out because it could not be verified, and any problem.
+Before creating a new thread, run `python3 scripts/build.py --threads` to list every existing thread with its title, number of reports and the dates it was first and last seen. If a development belongs to a situation already listed, reuse that `threadId`, even if the thread has not appeared for weeks. Create a new thread only for a genuinely new situation. Several stories, including several in one edition, may share a thread.
 
-If sources or access are insufficient, publish fewer items rather than weaker ones; if a usable edition cannot be produced, leave the latest edition in place and report the problem. Never add API credentials or spend paid API credits. Do not send email or social posts.
+The site builds a dated timeline page for each thread at `threads/<threadId>/` and lists the stories in the archive under “By story”. Never invent past entries, claim historical coverage that does not exist, or backfill unsourced context.
 
-## Evening update
-A second scheduled task runs each evening (about 5:57 PM Central) and updates that day's edition in place. It does not create a second edition.
+## Visuals
+Use the Night Observatory palette: midnight navy (#09131d), pale ice blue, slate and restrained copper. Choose a visual because it explains the particular story. Maps locate reporting, charts show sourced comparisons, and illustrations help when a simple visual metaphor is understandable. In practice most World stories should use a built-in map or chart. Frontiers stories usually get an illustration. `more` items show no image on the home page.
 
-1. Read today's edition, recent editions and this guide. If today's edition does not exist (the morning run failed), produce a full edition instead, following the publication steps above, and say in `note` that it was published in the evening.
-2. Research what has happened since the morning `cutoff` for every story in the edition, every dated item in `watch`, and any major new development.
-3. For each story that materially moved, append to its `updates` list: `{"at": "<ISO time with zone>", "label": "Evening update · 5:55 PM CT", "text": "One to three sentences on what changed since this morning.", "sources": [ ...same source fields as stories... ]}`. Do not rewrite the morning's `title`, `body`, `whatChanged` or `report` unless they contain an error, in which case add a `corrections` entry. You may add a short paragraph to the end of a `report` section when the update needs more space, and update `keyFacts` when a figure has changed (state the time, e.g. "as of Sunday evening").
-4. Add at most two new stories, only for major new developments, in the normal schema. Change `leadStoryId` only if a new development clearly outranks the morning lead.
-5. Set top-level `updatedAt` (ISO time with zone) and `updatedLabel` (for example `5:55 PM CT`). Leave `cutoff` as the morning value. Rewrite `opening` only if the day's picture changed.
-6. Run `python3 scripts/build.py`, then commit and push to `main` with the message `Edition <N> evening update: <date>`.
-7. Report which stories were updated, any new stories, and anything left out because it could not be verified. If nothing material happened, still set `updatedAt` and say so.
-
-## Corrections
-Published corrections are explicit. Add `corrections` objects with `storyId`, `date`, `original`, `replacement`, and `reason` to the affected edition. The build displays these notices. Do not silently rewrite published claims. Story pages show the latest published account and link to dated editions; a daily archive is the historical snapshot.
-
-## Night Observatory and useful visuals
-Use midnight navy (#09131d), pale ice blue, slate, and restrained copper. Choose a visual because it explains the particular story. A new artistic illustration is not mandatory for every item. Maps locate reporting, charts show sourced comparisons, and illustrations help when a simple visual metaphor is understandable. Do not force artwork onto a story when it contributes only decoration.
-
-Maps and charts are rendered by the publication from structured `visual` data. They need no uploaded image and no image-generation call. The renderer uses bundled public-domain Natural Earth geography in `scripts/data/world-110m.json`; see its README for provenance. Do not invent country outlines, boundaries, paths, or coordinates with an image model. Locations are approximate reporting locations. Never imply an entire country is affected when evidence concerns a particular area; country highlighting means context, not an incident footprint. Do not add attack paths, territorial-control claims, or trade flows without sourced data. Country boundaries are generalized context.
+**Maps and charts** are rendered by the build from structured `visual` data; they need no uploaded image. The renderer uses bundled public-domain Natural Earth geography in `scripts/data/world-110m.json`. Do not invent country outlines, boundaries, paths or coordinates. Locations are approximate reporting locations. Never imply an entire country is affected when evidence concerns a particular area; country highlighting means context, not an incident footprint. Do not add attack paths, territorial-control claims or trade flows without sourced data.
 
 For a map use:
 ```
@@ -82,26 +90,37 @@ For a map use:
   "caption": "Romania and its neighbors · approximate reporting location"
 }
 ```
-Bounds are west, south, east, north. `countries` contains three-digit country IDs present in the bundled data, for example Romania 642, Brazil 076, United States 840, Russia 643. Verify names, IDs, bounds, and labels; do not guess. `labels` is optional. Markers use the story's `locations`; their optional `mapLabel` gives a shorter display label. A point is not an exact incident coordinate unless explicitly verified.
+Bounds are west, south, east, north. `countries` contains three-digit country IDs present in the bundled data, for example Romania 642, Brazil 076, United States 840, Russia 643. Verify names, IDs, bounds and labels; do not guess. `labels` is optional. Markers come from the story's `locations`, a list of `{label, lon, lat}` with an optional shorter `mapLabel`; include only relevant, well-established reporting locations, and omit them when location is immaterial or uncertain.
 
-For a simple comparison chart use `visual` with `type: bars`, `title`, `measure`, `unit`, one to four `values` containing `label` and nonnegative numeric `value`, `alt`, `caption`, and `sourceUrl`. The source URL must match one of the story's sources. Supply the actual units, denominator, and dates or periods; disclose missing baseline dates rather than inventing them. Compare like quantities. Do not turn uncertainty into a measured number or fabricate a data series. The renderer starts bar axes at zero. A chart is optional when the source does not support a useful comparison.
+For a simple comparison chart use `visual` with `type: "bars"`, `title`, `measure`, `unit`, one to four `values` (each with `label` and a nonnegative numeric `value`), `alt`, `caption` and `sourceUrl`, which must match one of the story's sources. Supply actual units, denominators and dates or periods; disclose missing baselines rather than inventing them. Compare like quantities. Do not turn uncertainty into a measured number. Bar axes start at zero.
 
-An illustration must visibly match its story. Before drawing one, write down in a single sentence the concrete thing from the story it shows: an object, place, mechanism or action a reader would recognize from the headline (solar panels for solar export controls; an elliptic curve and a clock for curve seeds recovered from timestamps; doorways for outside evaluators getting inside access). If you cannot name such a thing, use a map or chart, or omit the visual; do not fall back on a generic abstract shape. The alt text states what is shown and how it connects to the story. Check each finished image against its headline: a reader who sees only the picture and the headline should see the connection.
+**Illustrations** must visibly match their story. Before drawing one, write down in a single sentence the concrete thing from the story it shows: an object, place, mechanism or action a reader would recognize from the headline (solar panels for solar export controls; an elliptic curve and a clock for curve seeds recovered from timestamps; doorways for outside evaluators getting inside access). If you cannot name such a thing, use a map or chart, or omit the visual; never fall back on a generic abstract shape. Check the finished image against its headline: a reader who sees only the picture and the headline should see the connection.
 
-When an illustration is appropriate, use a fresh, simple, story-specific composition: one strong object or a few shapes, quiet negative space, subtle grain, and no lettering or fake data. Avoid generic robots and metaphors that need a paragraph to explain. Never create fictional documentary scenes, officials, identifiable victims, or scientific plots. Image generation is not part of the daily run. When an illustration would genuinely help, create a simple original self-contained SVG with shapes and paths when useful, without scripts, external references, or third-party imagery. No paid API calls, API credentials, or stock purchases. If no useful visual can be produced, omit it and mention the decision in the run report.
+Draw a fresh, simple, story-specific composition as an original self-contained SVG: one strong object or a few shapes, quiet negative space, no lettering or fake data, no scripts, external references or third-party imagery. Avoid generic robots and metaphors that need a paragraph to explain. Never depict fictional documentary scenes, officials, identifiable victims or scientific plots. Image generation, paid APIs, credentials and stock purchases are not part of the daily run. Save the file as `assets/editions/YYYY-MM-DD/<story-id>.svg` in the same commit as the edition and reference it as `image: {"asset": "...", "alt": "...", "credit": "Editorial illustration"}`. The alt text states what is shown and how it connects to the story. Keep files under 250 KB. Do not put generated map or chart paths into the JSON: the build creates them. Real news photography requires a verified source and reuse rights. If no useful visual can be produced, omit it and say so in the run report.
 
-For artwork use optional `image: {asset, alt, credit}`. An asset is a local path such as `assets/editions/YYYY-MM-DD/story-id.jpg` or `.svg`. Use descriptive alt text and `Editorial illustration` as the public credit; do not add generation-method disclosures to the site. Prefer landscape 3:2 compositions and optimized files below 250 KB. Maps/charts should use `visual` instead of `image`. Do not put generated map/chart file paths into the source JSON: the build creates them. Do not add `cover`; the lead's own map, chart or illustration appears in its card. `more` items show no image on the home page.
+## Publication (morning run)
+Editions are produced each morning (about 5:57 AM Central) by a scheduled Claude (Opus 5.5) task and published directly; there is no draft or manual review step. The task:
 
-Save any SVG artwork under `assets/editions/YYYY-MM-DD/` in the same commit as the edition. In practice most stories should use a built-in map or chart; prefer those to artwork.
+1. Clones or pulls `PrototypeVersions/Signal` and reads this file, README.md and the most recent editions.
+2. Works out today's edition date in America/Chicago. If `data/editions/<date>.json` already exists, it stops and reports.
+3. Runs `python3 scripts/build.py --threads`, researches with web search (opening and reading the actual articles), and writes `data/editions/<date>.json` following this guide.
+4. Runs `python3 scripts/build.py` and fixes any validation error in the data. It never edits application code, styles, workflows, `data/site.json`, README.md or this file, and never edits past editions except to add a `corrections` entry.
+5. Commits and pushes to `main` with the message `Edition <N>: <date>`. The push triggers the Actions workflow, which validates and deploys to GitHub Pages.
+6. Reports a short summary: the lead story, the items included, anything left out because it could not be verified, and any problem.
 
-## Story threads
-Every story, including `more` items, should have `threadId` (a stable topic slug, named for the situation rather than the day's headline), `threadTitle` (short reader-facing topic), and `threadSummary` (one factual sentence explaining the ongoing situation). Reuse existing thread IDs when a new development belongs to the same situation. Several different story IDs may belong to one thread, including several reports in one edition. For example a sanctions decision and a Black Sea security update can both belong to `russia-ukraine-security`.
+If sources or access are insufficient, publish fewer items rather than weaker ones; if a usable edition cannot be produced, leave the latest edition in place and report the problem. Do not send email or social posts.
 
-The site builds `/threads/` and a dated timeline for each thread directly from published editions. Never invent past entries, claim historical coverage that does not exist, or backfill unsourced context. Article titles open the specific report; Follow this story opens its full thread. Legacy editions without thread fields use each story ID as its thread ID. Related reports retain their original dates and source trails.
+## Evening update
+A second scheduled task runs each evening (about 5:57 PM Central) and updates that day's edition in place. It does not create a second edition.
 
-## Frontiers and the lead
-Frontiers combines AI with selective science, medicine, space, and energy developments. AI remains central to the publication's coverage. Do not force a daily number of AI or science stories: publish only material changes with adequate evidence. Science and medicine should distinguish a preprint, peer-reviewed result, trial stage, regulatory approval, and real-world deployment; avoid turning an early result into a promise of a cure or commercial breakthrough. Include independent evaluation and relevant limitations.
+1. Read today's edition, recent editions and this guide. If today's edition does not exist (the morning run failed), produce a full edition instead, following the morning steps, and say in `note` that it was published in the evening.
+2. Research what has happened since the morning `cutoff` for every story in the edition, every dated item in `watch`, and any major new development.
+3. For each story that materially moved, append to its `updates` list: `{"at": "<ISO time with zone>", "label": "Evening update · 5:55 PM CT", "text": "One to three sentences on what changed since this morning.", "sources": [ ...normal source fields... ]}`. Do not rewrite the morning's `title`, `body`, `whatChanged` or `report` unless they contain an error, in which case add a `corrections` entry. You may add a short paragraph to the end of a `report` section when the update needs more space, and update `keyFacts` when a figure has changed (state the time, e.g. "as of Sunday evening").
+4. Add at most two new stories (World or More that changed), only for major new developments, in the normal schema. Change `leadStoryId` only if a new development clearly outranks the morning lead.
+5. Refresh a region's `summary` if the picture changed, and add a region brief for a major regional development that does not warrant a main story.
+6. Set `updatedAt` (ISO time with zone) and `updatedLabel` (e.g. `5:55 PM CT`). Leave `cutoff` as the morning value. Rewrite `opening` only if the day's picture changed.
+7. Run `python3 scripts/build.py`, then commit and push to `main` with the message `Edition <N> evening update: <date>`.
+8. Report which stories were updated, any new stories, and anything left out because it could not be verified. If nothing material happened, still set `updatedAt` and say so.
 
-Use `section: frontiers` for new items and a `field` of `AI`, `Science`, `Medicine`, `Space`, or `Energy`. Legacy `section: ai` editions remain supported. A field describes the subject; `category` describes the specific development. An optional `hook` is one concise, supportable sentence explaining why the development matters, shown under "Why it matters". Keep it proportionate: say plainly when a development is a modest step rather than a breakthrough. It is editorial assessment, not an additional factual claim. Otherwise the site uses `whyMatters`. Frontiers cards show the image, field, headline, and hook; Read more links directly to the full article with reporting, uncertainty, sources, and a dated story timeline. The underlying story and article page retain the full schema.
-
-Set top-level `leadStoryId` to the most consequential development of the day, regardless of section. A World or Frontiers story may lead when justified. For legacy editions without an explicit lead, the first world item is used, or the first available story. The lead appears first, as a larger card, in its own section (World or Frontiers); a `more` or `still` story cannot be the lead. Do not add a markets strip or daily market quotes to routine editions.
+## Corrections and the record
+Published corrections are explicit. Add `corrections` objects with `storyId`, `date`, `original`, `replacement` and `reason` to the affected edition; the site displays them. Do not silently rewrite published claims. Past editions are kept as published in the archive. The build checks today's and yesterday's editions against every rule here; older editions are published as they were, even if a rule has since changed.

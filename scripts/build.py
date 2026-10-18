@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build The Signal's static publication. Python standard library only."""
-import html, json, math, re, shutil, hashlib
+import html, json, math, re, shutil, hashlib, sys
 from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import urlparse
@@ -393,12 +393,12 @@ def thread_sections(threads, prefix):
         return f'<article class="thread-index-card"><div class="eyebrow">{e(story.get("field",story["category"]))}</div><h2><a href="{prefix}threads/{slug}/">{e(story.get("threadTitle",story["title"]))} <span>↗</span></a></h2><p>{e(story.get("threadSummary",story["whatChanged"]))}</p><div class="thread-meta">{n} report{"s" if n!=1 else ""} · Updated {e(pretty(edition["date"]))}</div></article>'
     order = lambda item: (-len(item[1]), item[1][-1][0]['date'] < latest, item[1][-1][0]['date'])
     active = sorted([x for x in threads.items() if recent(x[1])], key=order)
-    earlier = sorted([x for x in threads.items() if not recent(x[1])], key=lambda item: item[1][-1][0]['date'], reverse=True)
+    earlier = sorted([x for x in threads.items() if not recent(x[1]) and len(x[1]) >= 3], key=lambda item: item[1][-1][0]['date'], reverse=True)
     shown, folded = active[:12], active[12:]
     html = ''.join(row(*x) for x in shown)
     more = ''
     if folded: more += f'<details class="thread-more"><summary>{len(folded)} more active {"story" if len(folded)==1 else "stories"}</summary><div class="thread-index">{"".join(row(*x) for x in folded)}</div></details>'
-    if earlier: more += f'<details class="thread-more"><summary>Earlier stories · {len(earlier)} not updated this week</summary><div class="thread-index">{"".join(row(*x) for x in earlier)}</div></details>'
+    if earlier: more += f'<details class="thread-more"><summary>Earlier stories · {len(earlier)} followed over several reports</summary><div class="thread-index">{"".join(row(*x) for x in earlier)}</div></details>'
     return f'<div class="thread-index">{html}</div>{more}'
 
 def assessment_box(s):
@@ -419,13 +419,24 @@ def assessment_block(story):
 def thread_page(history):
     edition,current=history[-1]
     timeline=''
-    for published,story in reversed(history):
+    newest=date.fromisoformat(edition['date'])
+    full=[(x,s) for x,s in history if (newest-date.fromisoformat(x['date'])).days<14]
+    older=[(x,s) for x,s in history if (newest-date.fromisoformat(x['date'])).days>=14]
+    for published,story in reversed(full):
         timeline+=f'''<article class="thread-update"><div class="thread-date"><a href="../../editions/{published['date']}/#{story['id']}">{e(pretty(published['date']))}</a><span>{e(story['status'])}</span></div><h2><a href="../../stories/{story['id']}/">{e(story['title'])} ↗</a></h2><div class="change"><p><strong>What changed</strong><br>{e(story['whatChanged'])}</p></div>{updates_inline(story)}{assessment_block(story)}<details class="thread-sources"><summary>Sources & evidence ({len(story['sources'])})</summary>{evidence(story)}</details></article>'''
+    months={}
+    for published,story in reversed(older): months.setdefault(published['date'][:7],[]).append((published,story))
+    for month,items in months.items():
+        label=date.fromisoformat(month+'-01').strftime('%B %Y')
+        rows=''.join(f'<div class="archive-row"><div><a href="../../editions/{x["date"]}/#{s["id"]}">{e(pretty(x["date"]))}</a><h3><a href="../../stories/{s["id"]}/">{e(s["title"])}</a></h3><p>{e(s["whatChanged"])}</p></div></div>' for x,s in items)
+        timeline+=f'<details class="thread-month"><summary>{label} · {len(items)} report{"s" if len(items)!=1 else ""}</summary>{rows}</details>'
     return f'''<main class="wrap" id="main"><article class="article-page thread-page"><a class="article-back" href="../../archive/#stories">← All stories</a><span class="eyebrow">The story, in context</span><h1>{e(current.get('threadTitle',current['title']))}</h1><p class="article-summary">{e(current.get('threadSummary',current['whatChanged']))}</p><div class="thread-meta">{len(history)} report{'s' if len(history)!=1 else ''} · First tracked {e(pretty(history[0][0]['date']))} · Updated {e(pretty(edition['date']))}</div><h2 class="timeline-heading" id="timeline">The story so far</h2><div class="thread-timeline">{timeline}</div><p class="source-note">Dated editions preserve what was reported at the time. New developments are added here as the story continues.</p></article></main>'''
 
 def article(s, edition, history):
     thread_history=THREADS.get(thread_key(s),history)
-    timeline=''.join(f'<div class="archive-row"><div><a href="../../editions/{x["date"]}/#{item["id"]}">{pretty(x["date"])}</a><h3>{e(item["title"])}</h3><p>{e(item["whatChanged"])}</p></div></div>' for x,item in reversed(thread_history))
+    recent_reports=list(reversed(thread_history))[:10]
+    timeline=''.join(f'<div class="archive-row"><div><a href="../../editions/{x["date"]}/#{item["id"]}">{pretty(x["date"])}</a><h3>{e(item["title"])}</h3><p>{e(item["whatChanged"])}</p></div></div>' for x,item in recent_reports)
+    if len(thread_history)>10: timeline+=f'<p class="source-note"><a href="{thread_link(s,"../../")}">See all {len(thread_history)} reports in this story →</a></p>'
     return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(event_label(s['eventDate']))} · {e(read_label(s))}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div>{story_image(s,"../../")}{updates_full(s)}<p class="article-summary">{e(s['body'])}</p>{key_facts(s)}{full_report(s)}{assessment_box(s)}{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
 
 ABOUT_TEMPLATE = '''<main class="wrap" id="main"><article class="article-page"><div class="eyebrow">The editorial promise</div><h1>Attention is finite.<br><em>Spend it well.</em></h1><p class="article-summary">The Signal is an independent daily briefing. It follows consequential changes in the world and at the frontiers of AI and science, in one finite daily edition.</p>{signup}<h2>Change, with context</h2><p>We ask what is new, how strong the evidence is, and what the development could change. A quieter day can mean a shorter edition. An enduring crisis can deserve attention even when there is no fresh headline.</p><h2>Evidence before certainty</h2><p>Every item links to its sources. We prioritize primary documents and established reporting, seek independent corroboration, and distinguish an announcement from a demonstrated result. Sources repeating the same original account are not independent confirmation. Company research is labeled as such.</p><h2>Facts and judgments</h2><p>The report and “What changed” describe available evidence. “Why it matters” and “Watch next” are editorial assessments. We show uncertainties instead of manufacturing precise importance scores or unsupported probabilities.</p><h2>A publication with a memory</h2><p>Daily editions are retained in the archive. Continuing stories use stable identifiers so their developments can be followed across editions. The first edition starts that record; it does not invent a past.</p><h2>How each edition is produced</h2><p>Each morning, the edition is researched and assembled from the linked reporting, and each evening it is updated where stories have moved, with context, evidence limitations, and a clear point at which to stop. Follow those sources for their full reporting.</p><h2>Corrections belong in the open</h2><p>If a claim is wrong, we correct it and record what changed. We do not silently erase mistakes from the historical record. <a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Report an error on GitHub ↗</a></p><h2>Images as editorial interpretation</h2><p>Our original illustrations use simple visual metaphors for each story. They are labeled as illustrations, not photographs of the reported events, and are not evidence for the reporting. Maps locate the reporting; charts show sourced figures; illustrations provide a visual interpretation. Each edition uses the form that best explains the story.</p><h2>Your reading stays yours</h2><p>{privacy}</p><h2>Read at your own pace</h2><p>{signup_note}Every main story has a full report with key facts, background, sources and a dated timeline, and shorter items under More that changed open with a tap; Follow opens the whole thread across editions. Regions gathers each part of the world in one place.</p></article></main>'''
@@ -443,10 +454,30 @@ def about_page():
     return ABOUT_TEMPLATE.replace('{privacy}', privacy).replace('{signup_note}', signup_note).replace('{signup}', signup_form('about'))
 
 if __name__ == '__main__':
+    if '--threads' in sys.argv:
+        found = {}
+        for path in sorted((ROOT/'data/editions').glob('*.json')):
+            x = json.loads(path.read_text())
+            for s in x['stories']:
+                key = s.get('threadId', s['id'])
+                entry = found.setdefault(key, {'title': s.get('threadTitle', s['title']), 'reports': 0, 'first': x['date']})
+                entry['reports'] += 1; entry['last'] = x['date']
+                if s.get('threadTitle'): entry['title'] = s['threadTitle']
+        print('threadId | title | reports | first seen | last seen')
+        for key, v in sorted(found.items(), key=lambda kv: kv[1]['last'], reverse=True):
+            print(f"{key} | {v['title']} | {v['reports']} | {v['first']} | {v['last']}")
+        sys.exit(0)
     SITE.update(load_site())
     EDITIONS = [json.loads(p.read_text()) for p in sorted((ROOT/'data/editions').glob('*.json'))]
     assert EDITIONS, 'No editions to publish'
-    for edition in EDITIONS: validate(edition)
+    newest_date = date.fromisoformat(EDITIONS[-1]['date'])
+    for edition in EDITIONS:
+        if (newest_date - date.fromisoformat(edition['date'])).days <= 1:
+            validate(edition)  # today's and yesterday's editions must pass every current rule
+        else:
+            try: validate(edition)
+            except (AssertionError, KeyError, ValueError) as problem:
+                print(f'Note: older edition {edition["date"]} does not meet a current rule ({problem}); published as it was.')
     assert len({x['date'] for x in EDITIONS}) == len(EDITIONS)
     if OUT.exists(): shutil.rmtree(OUT)
     OUT.mkdir()
@@ -475,7 +506,9 @@ if __name__ == '__main__':
     for slug,history in index.items():
         edition,s = history[-1]
         write(f'stories/{slug}/index.html',shell(article(s,edition,history),edition,s['title']+' — The Signal','../../',f'stories/{slug}/',description=s['body']))
-    rows = ''.join(f'<div class="archive-row"><a href="../editions/{x["date"]}/">{pretty(x["date"])}</a><span>Edition {x["number"]:03} · {len(x["stories"])} stories ↗</span></div>' for x in reversed(EDITIONS))
+    by_month = {}
+    for x in reversed(EDITIONS): by_month.setdefault(x['date'][:7], []).append(x)
+    rows = ''.join(f'<details class="archive-month"{" open" if i == 0 else ""}><summary>{date.fromisoformat(month + "-01").strftime("%B %Y")} · {len(items)} edition{"s" if len(items) != 1 else ""}</summary>' + ''.join(f'<div class="archive-row"><a href="../editions/{x["date"]}/">{pretty(x["date"])}</a><span>Edition {x["number"]:03} · {len(x["stories"])} stories ↗</span></div>' for x in items) + '</details>' for i, (month, items) in enumerate(by_month.items()))
     archive_html = (f'<main class="wrap" id="main"><div class="eyebrow" style="margin-top:45px">The record, kept</div><h1 class="archive-title">A world in chapters.</h1>'
                     f'<p>Follow a story from the start, or open any day’s edition as it was published.</p><nav class="archive-jump" aria-label="Archive sections"><a href="#stories">By story</a><a href="#editions">By date</a></nav>'
                     f'<section id="stories" class="archive-block"><div class="section-title"><div><span class="eyebrow">The longer view</span><h2>Stories, <em>followed.</em></h2></div></div><p class="archive-lede">The most followed stories come first. Each opens a dated timeline of everything we have reported on it.</p>{thread_sections(THREADS, "../")}</section>'
@@ -504,7 +537,7 @@ if __name__ == '__main__':
             if picks: body += f'<h3>{label}</h3><ul>' + ''.join(f'<li><a href="{BASE}/stories/{s["id"]}/">{e(s["title"])}</a>. {e(s["whatChanged"])}</li>' for s in picks) + '</ul>'
         body += f'<p><a href="{link}">Read the full edition →</a></p>'
         return f'<item><title>{xml_escape("The Signal — "+pretty(x["date"]))}</title><link>{link}</link><guid isPermaLink="true">{link}</guid><pubDate>{stamp}</pubDate><description><![CDATA[{body}]]></description></item>'
-    items=''.join(feed_item(x) for x in reversed(EDITIONS))
+    items=''.join(feed_item(x) for x in list(reversed(EDITIONS))[:30])
     write('feed.xml',f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>The Signal</title><link>{BASE}/</link><description>A clearer view of a changing world.</description><language>en</language>{items}</channel></rss>')
     paths=['','archive/','about/']+[f'threads/{slug}/' for slug in THREADS]+[f'stories/{s}/' for s in index]+[f'editions/{x["date"]}/' for x in EDITIONS]+[f'regions/{slug}/' for slug in REGION_SLUGS]
     write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{BASE}/{x}</loc></url>' for x in paths)+'</urlset>')

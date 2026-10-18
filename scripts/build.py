@@ -207,7 +207,17 @@ def updated_tag(s, prefix):
     ups = s.get('updates', [])
     if not ups: return ''
     when = update_time(ups[-1])
-    return f'<div class="updated-row"><a class="corrected-tag updated-tag" href="{prefix}stories/{e(s["id"])}/#updates">Updated{" " + e(when) if when else ""}</a></div>'
+    return f'<div class="updated-row">{updated_link(s, prefix)}</div>'
+
+def updated_link(s, prefix):
+    ups = s.get('updates', [])
+    if not ups: return ''
+    when = update_time(ups[-1])
+    return f'<a class="corrected-tag updated-tag" href="{prefix}stories/{e(s["id"])}/#updates">Updated{" " + e(when) if when else ""}</a>'
+
+def row_tags(s, prefix):
+    tags = updated_link(s, prefix) + corrected_tag(s, prefix)
+    return f'<div class="updated-row">{tags}</div>' if tags else ''
 
 def updates_full(s):
     ups = s.get('updates', [])
@@ -265,7 +275,7 @@ def card(s, n, prefix, lead=False):
 
 def more_item(s, n, prefix):
     report = f'<a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a>' if s.get('report') else ''
-    return f'''<article class="more-item" id="{e(s['id'])}"><span class="more-number">{n:02}</span><div class="more-copy"><span class="eyebrow">{e(s['region'])} / {e(s['category'])}{corrected_tag(s, prefix)}</span><h3>{e(s['title'])}</h3><p class="more-dek">{e(s['whatChanged'])}</p><details class="more-details"><summary>More</summary>{''.join(f'<p class="more-update"><strong>{e(update_label(u))}</strong> {e(u["text"])}</p>' for u in s.get('updates', []))}<p>{e(s['body'])}</p>{source_links(s)}</details>{updated_tag(s, prefix)}{report}</div></article>'''
+    return f'''<article class="more-item" id="{e(s['id'])}"><span class="more-number">{n:02}</span><div class="more-copy"><span class="eyebrow">{e(s['region'])} / {e(s['category'])}</span><h3>{e(s['title'])}</h3><p class="more-dek">{e(s['whatChanged'])}</p><details class="more-details"><summary>More</summary>{''.join(f'<p class="more-update"><strong>{e(update_label(u))}</strong> {e(u["text"])}</p>' for u in s.get('updates', []))}<p>{e(s['body'])}</p>{source_links(s)}</details>{row_tags(s, prefix)}{report}</div></article>'''
 
 def reality_card(rc):
     return f'''<article class="story-card frontier-card reality-card"><div class="kicker"><span class="eyebrow">Reality check / A claim, tested</span></div><h3>{e(rc['title'])}</h3><div class="frontier-hook"><span class="eyebrow">What the evidence does and doesn’t show</span><p>{e(rc['text'])}</p></div><div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{e(rc['url'])}" target="_blank" rel="noopener noreferrer">Read the research <span>↗</span></a></div></article>'''

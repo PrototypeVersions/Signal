@@ -503,6 +503,152 @@
    ]
   },
   {
+   "id": "china-solar-export-proposal",
+   "title": "China moves to control more clean-energy know-how",
+   "category": "Energy & technology",
+   "region": "Asia · China",
+   "status": "Meaningful update",
+   "eventDate": "2026-10-16",
+   "body": "China has proposed adding 12 solar-manufacturing technologies to its export-control catalogue, within a wider package covering AI and biotechnology. Some transfers would be prohibited; others would require restrictions or licensing. A temporary registration requirement already applies while consultation proceeds. The ministry says the controls concern specified technology, with products manufactured using it outside the general scope. The final rules are still unsettled, and the public consultation closes on November 15.",
+   "whatChanged": "Beijing has moved from discussion to a published proposal and interim registration for covered technology transfers.",
+   "whyMatters": "Control over manufacturing knowledge could complicate efforts to build advanced solar production elsewhere.",
+   "uncertainty": "The final scope and practical effect depend on the adopted rules and their implementation.",
+   "watchNext": "Watch the November 15 consultation deadline and companies' responses.",
+   "sources": [
+    {
+     "publisher": "China Ministry of Commerce",
+     "title": "MOFCOM spokesperson answers questions on revising the Catalogue of Technologies Prohibited or Restricted from Export",
+     "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html",
+     "publishedAt": "2026-10-16 16:00 (as displayed on Chinese ministry site)",
+     "kind": "Primary policy explanation, Chinese"
+    },
+    {
+     "publisher": "Reuters",
+     "title": "China proposes export controls on solar-manufacturing technologies",
+     "url": "https://www.reuters.com/business/autos-transportation/china-proposes-export-controls-solar-manufacturing-technologies-2026-10-18/",
+     "publishedAt": "2026-10-18T06:22:00Z",
+     "kind": "Independent reporting"
+    }
+   ],
+   "section": "world",
+   "locations": [
+    {
+     "label": "Beijing",
+     "lon": 116,
+     "lat": 40
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-18/china-solar-export-proposal.svg",
+    "alt": "A solar panel with a copper padlock clamped onto its frame, for China proposing export controls on solar-manufacturing technology.",
+    "credit": "Editorial illustration"
+   },
+   "threadId": "clean-energy-supply-chains",
+   "threadTitle": "Clean-energy supply chains",
+   "threadSummary": "How controls on manufacturing knowledge shape access to solar technology.",
+   "keyFacts": [
+    "40 technologies listed: 23 in AI, 5 in biotechnology and 12 in solar manufacturing",
+    "14 are proposed as prohibited and 26 as restricted",
+    "Products made with the listed technologies are not covered",
+    "Exporters must register listed technologies before any transfer while the rules are finalized"
+   ],
+   "report": [
+    {
+     "heading": "The proposal",
+     "paragraphs": [
+      "On October 16, China's commerce and science ministries published a proposed revision of the country's catalogue of technologies prohibited or restricted from export. It covers 40 technologies: 23 in artificial intelligence, five in biotechnology and 12 in solar manufacturing, spanning polysilicon, wafers and cells. Fourteen would be prohibited and 26 restricted.",
+      "Among the solar items, production technology for perovskite and perovskite-tandem cell modules would be prohibited, while polysilicon engineering for plants with a single-line capacity of at least 30,000 tonnes a year would be restricted."
+     ]
+    },
+    {
+     "heading": "What it covers, and what it doesn't",
+     "paragraphs": [
+      "The controls apply to transfers of the technology itself: selling or licensing it abroad, or handing ownership or control of it to a foreign entity. Products made with the technology are outside the scope, as is most equipment, except key machines that embody controlled know-how. Technologies below the control thresholds can still be exported freely.",
+      "Until the revised catalogue takes effect, exporters must register listed technologies with the commerce ministry before any transfer, including deals already under way. The ministry says the revision is routine, is not aimed at any country, and responds to the growing use of solar technology in aerospace, defense and security-critical infrastructure. Reuters reports that public consultation runs until November 15."
+     ]
+    },
+    {
+     "heading": "Why it matters",
+     "paragraphs": [
+      "China dominates global solar manufacturing, and its engineers and equipment have been central to efforts to build factories elsewhere. Restricting the export of the newest manufacturing know-how could slow those efforts even if finished panels keep flowing. The practical effect will depend on the final thresholds and on how strictly registration and licensing are applied."
+     ]
+    }
+   ],
+   "regions": [
+    "asia"
+   ]
+  },
+  {
+   "id": "eu-summit-ukraine-gap",
+   "section": "more",
+   "title": "EU leaders leave a €70bn hole in Ukraine’s funding for next year",
+   "whatChanged": "The Brussels summit ended with no budget deal and no plan to cover Ukraine’s 2027 needs.",
+   "body": "The European Council summit on October 15–16 ended with no deal on the EU’s long-term budget. Ukraine has asked for an extra €70bn for next year, because last year’s €90bn loan was expected to cover both 2026 and 2027. The Commission was asked to propose options, including joint debt and frozen Russian assets, all of which remain contested. Council President António Costa called a special summit for November 26.",
+   "eventDate": "October 15–16, 2026",
+   "category": "Politics",
+   "region": "Europe · Brussels",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "threadId": "russia-ukraine-security",
+   "sources": [
+    {
+     "title": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit",
+     "publisher": "Euronews",
+     "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
+     "publishedAt": "2026-10-16",
+     "kind": "Independent reporting"
+    }
+   ]
+  },
+  {
+   "id": "drc-kabila-rebel-front",
+   "section": "more",
+   "title": "Joseph Kabila now leads Congo’s main rebel coalition",
+   "whatChanged": "A former president has taken the head of the rebellion, which now calls for resistance “by all means”.",
+   "body": "Congo’s former president is at the head of a new political-military coalition, the Front for the Refoundation of the Nation (FRN), announced in rebel-held Goma. It replaces the alliance that included the M23 and calls for resistance to President Félix Tshisekedi “by all means”, including force. The government has not responded officially. Peace advocates fear the move will undermine the Doha and Washington talks; the FRN says it will honour its Doha commitments.",
+   "eventDate": "October 2026",
+   "category": "Conflict",
+   "region": "Africa · DR Congo",
+   "regions": [
+    "africa"
+   ],
+   "status": "Major development",
+   "sources": [
+    {
+     "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
+     "publisher": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion",
+     "publishedAt": "2026-10-18",
+     "kind": "Independent reporting"
+    }
+   ]
+  },
+  {
+   "id": "west-bank-diplomats-attacked",
+   "section": "more",
+   "title": "Settlers attack European diplomats in the West Bank",
+   "whatChanged": "Settler violence during the olive harvest reached a delegation of French, Belgian and Polish diplomats.",
+   "body": "Masked Israeli settlers attacked a delegation of French, Belgian and Polish diplomats and church representatives near the Christian village of Taybeh, east of Ramallah, on October 17. A French mayor in the group says he was kicked and beaten, and a Belgian diplomatic car was damaged. The EU condemned the attack on October 18 and asked for “full accountability”. Israel’s foreign minister condemned the violence and said police are investigating.",
+   "eventDate": "October 17, 2026",
+   "category": "Conflict",
+   "region": "Middle East · West Bank",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+     "publisher": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank",
+     "publishedAt": "2026-10-18",
+     "kind": "Independent reporting citing official statements"
+    }
+   ]
+  },
+  {
    "id": "romania-drone-interception",
    "title": "Romania shoots down drones over its waters",
    "category": "Security",
@@ -530,7 +676,7 @@
      "kind": "Independent reporting using official accounts"
     }
    ],
-   "section": "world",
+   "section": "more",
    "locations": [
     {
      "label": "Romanian Black Sea coast",
@@ -616,79 +762,24 @@
    ]
   },
   {
-   "id": "china-solar-export-proposal",
-   "title": "China moves to control more clean-energy know-how",
-   "category": "Energy & technology",
-   "region": "Asia · China",
+   "id": "imf-poorer-nations-warning",
+   "section": "more",
+   "title": "The IMF warns that war-driven prices are hitting the poorest countries hardest",
+   "whatChanged": "The IMF’s annual meetings closed with a warning on debt, inflation and energy shocks for low-income countries.",
+   "body": "The IMF’s annual meetings in Bangkok ended on October 17. Managing Director Kristalina Georgieva said inflation “is like a tax on the poor” and that the fund will help countries restructure debt where needed. Low-income countries now spend 8 to 14 percent of their revenue on debt payments, and oil-importing countries have been hit hardest by the rise in energy prices since the war on Iran began in February.",
+   "eventDate": "October 17, 2026",
+   "category": "Economy",
+   "region": "Global · IMF",
+   "regions": [],
    "status": "Meaningful update",
-   "eventDate": "2026-10-16",
-   "body": "China has proposed adding 12 solar-manufacturing technologies to its export-control catalogue, within a wider package covering AI and biotechnology. Some transfers would be prohibited; others would require restrictions or licensing. A temporary registration requirement already applies while consultation proceeds. The ministry says the controls concern specified technology, with products manufactured using it outside the general scope. The final rules are still unsettled, and the public consultation closes on November 15.",
-   "whatChanged": "Beijing has moved from discussion to a published proposal and interim registration for covered technology transfers.",
-   "whyMatters": "Control over manufacturing knowledge could complicate efforts to build advanced solar production elsewhere.",
-   "uncertainty": "The final scope and practical effect depend on the adopted rules and their implementation.",
-   "watchNext": "Watch the November 15 consultation deadline and companies' responses.",
    "sources": [
     {
-     "publisher": "China Ministry of Commerce",
-     "title": "MOFCOM spokesperson answers questions on revising the Catalogue of Technologies Prohibited or Restricted from Export",
-     "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d7661dbf62794345a221404f82a25959.html",
-     "publishedAt": "2026-10-16 16:00 (as displayed on Chinese ministry site)",
-     "kind": "Primary policy explanation, Chinese"
-    },
-    {
-     "publisher": "Reuters",
-     "title": "China proposes export controls on solar-manufacturing technologies",
-     "url": "https://www.reuters.com/business/autos-transportation/china-proposes-export-controls-solar-manufacturing-technologies-2026-10-18/",
-     "publishedAt": "2026-10-18T06:22:00Z",
-     "kind": "Independent reporting"
+     "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
+     "publisher": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns",
+     "publishedAt": "2026-10-17",
+     "kind": "Independent reporting from the IMF meetings"
     }
-   ],
-   "section": "world",
-   "locations": [
-    {
-     "label": "Beijing",
-     "lon": 116,
-     "lat": 40
-    }
-   ],
-   "image": {
-    "asset": "assets/editions/2026-10-18/china-solar-export-proposal.svg",
-    "alt": "A solar panel with a copper padlock clamped onto its frame, for China proposing export controls on solar-manufacturing technology.",
-    "credit": "Editorial illustration"
-   },
-   "threadId": "clean-energy-supply-chains",
-   "threadTitle": "Clean-energy supply chains",
-   "threadSummary": "How controls on manufacturing knowledge shape access to solar technology.",
-   "keyFacts": [
-    "40 technologies listed: 23 in AI, 5 in biotechnology and 12 in solar manufacturing",
-    "14 are proposed as prohibited and 26 as restricted",
-    "Products made with the listed technologies are not covered",
-    "Exporters must register listed technologies before any transfer while the rules are finalized"
-   ],
-   "report": [
-    {
-     "heading": "The proposal",
-     "paragraphs": [
-      "On October 16, China's commerce and science ministries published a proposed revision of the country's catalogue of technologies prohibited or restricted from export. It covers 40 technologies: 23 in artificial intelligence, five in biotechnology and 12 in solar manufacturing, spanning polysilicon, wafers and cells. Fourteen would be prohibited and 26 restricted.",
-      "Among the solar items, production technology for perovskite and perovskite-tandem cell modules would be prohibited, while polysilicon engineering for plants with a single-line capacity of at least 30,000 tonnes a year would be restricted."
-     ]
-    },
-    {
-     "heading": "What it covers, and what it doesn't",
-     "paragraphs": [
-      "The controls apply to transfers of the technology itself: selling or licensing it abroad, or handing ownership or control of it to a foreign entity. Products made with the technology are outside the scope, as is most equipment, except key machines that embody controlled know-how. Technologies below the control thresholds can still be exported freely.",
-      "Until the revised catalogue takes effect, exporters must register listed technologies with the commerce ministry before any transfer, including deals already under way. The ministry says the revision is routine, is not aimed at any country, and responds to the growing use of solar technology in aerospace, defense and security-critical infrastructure. Reuters reports that public consultation runs until November 15."
-     ]
-    },
-    {
-     "heading": "Why it matters",
-     "paragraphs": [
-      "China dominates global solar manufacturing, and its engineers and equipment have been central to efforts to build factories elsewhere. Restricting the export of the newest manufacturing know-how could slow those efforts even if finished panels keep flowing. The practical effect will depend on the final thresholds and on how strictly registration and licensing are applied."
-     ]
-    }
-   ],
-   "regions": [
-    "asia"
    ]
   },
   {
@@ -726,7 +817,7 @@
      "kind": "Independent reporting on published polls"
     }
    ],
-   "section": "world",
+   "section": "more",
    "locations": [
     {
      "label": "Brasília",
@@ -811,118 +902,26 @@
    ]
   },
   {
-   "id": "sudan-hunger-continues",
-   "title": "Sudan's hunger crisis cannot wait for a new headline",
-   "category": "Humanitarian",
-   "region": "Africa · Sudan",
-   "status": "Still matters",
-   "eventDate": "Continuing crisis; source checked 2026-10-18",
-   "body": "The World Food Programme says almost 19.5 million people in Sudan face crisis levels of hunger, with some in catastrophic conditions and several areas at risk of famine. Conflict and restricted access continue to obstruct assistance. WFP says funding shortages force it to prioritize the hungriest communities; its operations reach more than four million people a month. Today's reporting in The National describes displaced families still struggling with lost homes, insecurity and inadequate support. This remains urgent without being a new daily event.",
-   "whatChanged": "This is a continuing-priority entry; no new daily change in the hunger estimate is claimed.",
-   "whyMatters": "Attention can fade while preventable hunger and displacement continue at enormous scale.",
-   "uncertainty": "The WFP overview has no displayed update date; estimates and access conditions can change.",
-   "watchNext": "Watch for new food-security assessments, funded aid commitments and sustained access to affected communities.",
+   "id": "pope-leo-surgery",
+   "section": "more",
+   "title": "Pope Leo XIV leaves hospital after lung cancer surgery",
+   "whatChanged": "The Vatican confirmed a lung cancer diagnosis and said the pope had recovered well enough to go home.",
+   "body": "Surgeons removed the lower lobe of the 71-year-old pope’s right lung on October 13, and the Vatican confirmed a pulmonary adenocarcinoma, a form of lung cancer. It said there were no complications, and he was cleared to leave Rome’s Gemelli hospital on October 17. The Vatican said he would lead the Angelus prayer from his window on October 18.",
+   "eventDate": "October 17, 2026",
+   "category": "Religion",
+   "region": "Europe · Vatican",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
    "sources": [
     {
-     "publisher": "World Food Programme",
-     "title": "Sudan — emergency overview",
-     "url": "https://www.wfp.org/emergencies/sudan",
-     "publishedAt": "Undated live overview; retrieved 2026-10-18",
-     "kind": "Primary humanitarian operations account"
-    },
-    {
-     "publisher": "The National",
-     "title": "Sudan's humanitarian crisis deepens as millions face displacement and aid funding shortages",
-     "url": "https://www.thenationalnews.com/news/mena/2026/10/18/sudans-humanitarian-crisis-deepens-as-millions-face-displacement-and-aid-funding-shortages/",
-     "publishedAt": "2026-10-18; updated 14:10 (zone not displayed)",
-     "kind": "Reporting"
-    },
-    {
-     "publisher": "UN News",
-     "title": "Security Council: Sudan's war spreads as drones and hunger take a deadly toll",
-     "url": "https://news.un.org/en/story/2026/10/1168612",
-     "publishedAt": "2026-10-16",
-     "kind": "Primary UN reporting"
+     "title": "Pope Leo XIV cleared for discharge from hospital, Vatican says",
+     "publisher": "Euronews",
+     "url": "https://www.euronews.com/2026/10/17/pope-leo-xiv-cleared-for-discharge-from-hospital-vatican-says",
+     "publishedAt": "2026-10-17",
+     "kind": "Independent reporting citing the Vatican"
     }
-   ],
-   "section": "still",
-   "locations": [
-    {
-     "label": "Khartoum",
-     "lon": 32.53,
-     "lat": 15.59
-    },
-    {
-     "label": "El Obeid",
-     "lon": 30.22,
-     "lat": 13.18
-    }
-   ],
-   "threadId": "sudan-hunger",
-   "threadTitle": "Sudan’s hunger crisis",
-   "threadSummary": "Food insecurity, aid access, and funding during a continuing humanitarian emergency.",
-   "keyFacts": [
-    "Almost 19.5 million people face crisis-level hunger, according to WFP",
-    "Famine has been declared in one area and is threatened in 14 others",
-    "825,000 children under five are expected to suffer severe acute malnutrition in 2026",
-    "Estimates of the displaced range from about 9 million (WFP) to 14 million (The National)"
-   ],
-   "report": [
-    {
-     "heading": "The scale",
-     "paragraphs": [
-      "The World Food Programme says almost 19.5 million people in Sudan face crisis levels of hunger, some of them in catastrophic conditions. Famine has been declared in one area and is threatened in 14 others, and WFP expects 825,000 children under five to suffer severe acute malnutrition this year. WFP says about 9 million people have been forced from their homes; The National, reporting on Sunday, puts the number displaced by the war at about 14 million. The figures come from different counts and are not directly comparable."
-     ]
-    },
-    {
-     "heading": "Reaching people",
-     "paragraphs": [
-      "WFP says it reaches more than 4 million people a month, including about 2 million in hard-to-reach Darfur and 825,000 in Kordofan, but that violence and severe access restrictions continue to obstruct aid and funding shortfalls force it to prioritize the hungriest communities. Disruption in the Red Sea is delaying imports and raising the cost of food, fuel and fertilizer.",
-      "At a Security Council meeting on Sudan on October 16, the UN noted that drone strikes are killing civilians from El Obeid to Blue Nile; a strike near the Ethiopian border on October 10 killed 41 displaced people."
-     ]
-    },
-    {
-     "heading": "Why it stays in the edition",
-     "paragraphs": [
-      "The war is in its fourth year without a lasting ceasefire. A humanitarian expert quoted by The National says funding for displaced people is more than 47% short and that UN agencies have cut staff who served refugees. This entry claims no new daily change in the hunger figures; it is here because a crisis of this size can fall out of view without ever easing."
-     ]
-    }
-   ],
-   "visual": {
-    "type": "map",
-    "title": "Sudan",
-    "bounds": [
-     20.5,
-     7.5,
-     39.5,
-     23.5
-    ],
-    "countries": [
-     "729"
-    ],
-    "labels": [
-     {
-      "label": "Darfur",
-      "lon": 24.3,
-      "lat": 13.2
-     },
-     {
-      "label": "Kordofan",
-      "lon": 29.5,
-      "lat": 11.2
-     },
-     {
-      "label": "Red Sea",
-      "lon": 38.3,
-      "lat": 20.6,
-      "kind": "water"
-     }
-    ],
-    "alt": "A map of Sudan with the Darfur and Kordofan regions labeled and Khartoum and El Obeid marked as reporting locations.",
-    "caption": "Sudan · Darfur and Kordofan, where famine risk is rising, are labeled"
-   },
-   "regions": [
-    "africa"
    ]
   },
   {
@@ -1110,6 +1109,121 @@
     }
    ],
    "regions": []
+  },
+  {
+   "id": "sudan-hunger-continues",
+   "title": "Sudan's hunger crisis cannot wait for a new headline",
+   "category": "Humanitarian",
+   "region": "Africa · Sudan",
+   "status": "Still matters",
+   "eventDate": "Continuing crisis; source checked 2026-10-18",
+   "body": "The World Food Programme says almost 19.5 million people in Sudan face crisis levels of hunger, with some in catastrophic conditions and several areas at risk of famine. Conflict and restricted access continue to obstruct assistance. WFP says funding shortages force it to prioritize the hungriest communities; its operations reach more than four million people a month. Today's reporting in The National describes displaced families still struggling with lost homes, insecurity and inadequate support. This remains urgent without being a new daily event.",
+   "whatChanged": "This is a continuing-priority entry; no new daily change in the hunger estimate is claimed.",
+   "whyMatters": "Attention can fade while preventable hunger and displacement continue at enormous scale.",
+   "uncertainty": "The WFP overview has no displayed update date; estimates and access conditions can change.",
+   "watchNext": "Watch for new food-security assessments, funded aid commitments and sustained access to affected communities.",
+   "sources": [
+    {
+     "publisher": "World Food Programme",
+     "title": "Sudan — emergency overview",
+     "url": "https://www.wfp.org/emergencies/sudan",
+     "publishedAt": "Undated live overview; retrieved 2026-10-18",
+     "kind": "Primary humanitarian operations account"
+    },
+    {
+     "publisher": "The National",
+     "title": "Sudan's humanitarian crisis deepens as millions face displacement and aid funding shortages",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/18/sudans-humanitarian-crisis-deepens-as-millions-face-displacement-and-aid-funding-shortages/",
+     "publishedAt": "2026-10-18; updated 14:10 (zone not displayed)",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "UN News",
+     "title": "Security Council: Sudan's war spreads as drones and hunger take a deadly toll",
+     "url": "https://news.un.org/en/story/2026/10/1168612",
+     "publishedAt": "2026-10-16",
+     "kind": "Primary UN reporting"
+    }
+   ],
+   "section": "still",
+   "locations": [
+    {
+     "label": "Khartoum",
+     "lon": 32.53,
+     "lat": 15.59
+    },
+    {
+     "label": "El Obeid",
+     "lon": 30.22,
+     "lat": 13.18
+    }
+   ],
+   "threadId": "sudan-hunger",
+   "threadTitle": "Sudan’s hunger crisis",
+   "threadSummary": "Food insecurity, aid access, and funding during a continuing humanitarian emergency.",
+   "keyFacts": [
+    "Almost 19.5 million people face crisis-level hunger, according to WFP",
+    "Famine has been declared in one area and is threatened in 14 others",
+    "825,000 children under five are expected to suffer severe acute malnutrition in 2026",
+    "Estimates of the displaced range from about 9 million (WFP) to 14 million (The National)"
+   ],
+   "report": [
+    {
+     "heading": "The scale",
+     "paragraphs": [
+      "The World Food Programme says almost 19.5 million people in Sudan face crisis levels of hunger, some of them in catastrophic conditions. Famine has been declared in one area and is threatened in 14 others, and WFP expects 825,000 children under five to suffer severe acute malnutrition this year. WFP says about 9 million people have been forced from their homes; The National, reporting on Sunday, puts the number displaced by the war at about 14 million. The figures come from different counts and are not directly comparable."
+     ]
+    },
+    {
+     "heading": "Reaching people",
+     "paragraphs": [
+      "WFP says it reaches more than 4 million people a month, including about 2 million in hard-to-reach Darfur and 825,000 in Kordofan, but that violence and severe access restrictions continue to obstruct aid and funding shortfalls force it to prioritize the hungriest communities. Disruption in the Red Sea is delaying imports and raising the cost of food, fuel and fertilizer.",
+      "At a Security Council meeting on Sudan on October 16, the UN noted that drone strikes are killing civilians from El Obeid to Blue Nile; a strike near the Ethiopian border on October 10 killed 41 displaced people."
+     ]
+    },
+    {
+     "heading": "Why it stays in the edition",
+     "paragraphs": [
+      "The war is in its fourth year without a lasting ceasefire. A humanitarian expert quoted by The National says funding for displaced people is more than 47% short and that UN agencies have cut staff who served refugees. This entry claims no new daily change in the hunger figures; it is here because a crisis of this size can fall out of view without ever easing."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Sudan",
+    "bounds": [
+     20.5,
+     7.5,
+     39.5,
+     23.5
+    ],
+    "countries": [
+     "729"
+    ],
+    "labels": [
+     {
+      "label": "Darfur",
+      "lon": 24.3,
+      "lat": 13.2
+     },
+     {
+      "label": "Kordofan",
+      "lon": 29.5,
+      "lat": 11.2
+     },
+     {
+      "label": "Red Sea",
+      "lon": 38.3,
+      "lat": 20.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of Sudan with the Darfur and Kordofan regions labeled and Khartoum and El Obeid marked as reporting locations.",
+    "caption": "Sudan · Darfur and Kordofan, where famine risk is rising, are labeled"
+   },
+   "regions": [
+    "africa"
+   ]
   }
  ],
  "watch": [
@@ -1198,19 +1312,6 @@
    "summary": "France’s unrest and the energy war with Russia lead. EU leaders also left Brussels without a budget deal or a plan for Ukraine’s funding gap.",
    "briefs": [
     {
-     "title": "EU leaders leave a €70bn hole in Ukraine’s funding for next year",
-     "eventDate": "October 15–16, 2026",
-     "text": "The European Council summit in Brussels ended with no deal on the EU’s long-term budget. Ukraine has asked for an extra €70bn for next year, because last year’s €90bn loan was expected to cover both 2026 and 2027. The Commission was asked to propose options, including joint debt and frozen Russian assets, all of which remain contested. Council President António Costa called a special summit for November 26.",
-     "sources": [
-      {
-       "title": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit",
-       "publisher": "Euronews",
-       "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
-       "publishedAt": "2026-10-16"
-      }
-     ]
-    },
-    {
      "title": "Albania’s student-led protests enter a fifth day",
      "eventDate": "October 17, 2026",
      "text": "Protests that began with students have spread across Albania, with demands that Prime Minister Edi Rama resign over alleged corruption. Police in Tirana used tear gas, water cannon and rubber bullets. Police say 167 people have been arrested and 132 officers injured over five days, and seven officers have been suspended over allegations of excessive force. Rama has ruled out resigning.",
@@ -1242,19 +1343,6 @@
    "summary": "Ebola in Kenya and hunger in Sudan lead. Congo’s war gained a new political front, and Ethiopia moved to run Tigray directly.",
    "briefs": [
     {
-     "title": "Joseph Kabila now leads Congo’s main rebel coalition",
-     "eventDate": "October 2026",
-     "text": "Congo’s former president is at the head of a new political-military coalition, the Front for the Refoundation of the Nation (FRN), announced in rebel-held Goma. It replaces the alliance that included the M23 and calls for resistance to President Félix Tshisekedi “by all means”, including force. The government has not responded officially. Peace advocates fear the move will undermine the Doha and Washington talks; the FRN says it will honour its Doha commitments.",
-     "sources": [
-      {
-       "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
-       "publisher": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion",
-       "publishedAt": "2026-10-18"
-      }
-     ]
-    },
-    {
      "title": "Ethiopia puts Tigray under a federal interim government",
      "eventDate": "October 16, 2026",
      "text": "Prime Minister Abiy Ahmed announced that a five-member interim administration will run Tigray for six months, following federal directives, with elections promised afterward. It follows the defeat of the TPLF uprising that began in September; TPLF fighters surrendered in Mekelle in early October. Ethiopia accuses Eritrea of backing the TPLF, which Eritrea denies.",
@@ -1272,19 +1360,6 @@
   "middle-east": {
    "summary": "The Saudi–Houthi war is widening. In the West Bank, settler violence reached a delegation of European diplomats.",
    "briefs": [
-    {
-     "title": "Settlers attack European diplomats near Taybeh",
-     "eventDate": "October 17, 2026",
-     "text": "Masked Israeli settlers attacked a delegation of French, Belgian and Polish diplomats and church representatives near the Christian village of Taybeh, east of Ramallah, during the olive harvest. A French mayor in the group says he was kicked and beaten, and a Belgian diplomatic car was damaged. The EU condemned the attack on October 18 and asked for “full accountability”. Israel’s foreign minister condemned the violence and said police are investigating.",
-     "sources": [
-      {
-       "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
-       "publisher": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank",
-       "publishedAt": "2026-10-18"
-      }
-     ]
-    },
     {
      "title": "Israel halts commercial goods into Gaza",
      "eventDate": "Since October 14, 2026",

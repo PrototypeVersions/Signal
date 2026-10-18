@@ -20,6 +20,7 @@
     const filter=button.dataset.filter;
     $('.world-grid-section').hidden=filter==='frontiers'||!$('.world-grid-section .story-card');
     $('#frontiers').hidden=filter==='world'||!$('#frontiers .story-card');
+    if($('.more-section'))$('.more-section').hidden=filter==='frontiers'||!$('.more-section .more-item');
     const lead=$('.lead-story');
     if(lead)lead.hidden=filter!=='all'&&lead.dataset.section!==filter;
     if($('.atlas'))$('.atlas').hidden=filter==='frontiers';

@@ -30,12 +30,16 @@ def validate(edition):
         assert re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', s['id']), 'Unsafe story slug'
         assert s['id'] not in ids, 'Duplicate story id'
         ids.add(s['id'])
-        assert s['section'] in ('world', 'ai', 'frontiers', 'still')
+        assert s['section'] in ('world', 'more', 'ai', 'frontiers', 'still')
         if s.get('field'): assert s['field'] in ('AI', 'Science', 'Medicine', 'Space', 'Energy')
         if s['section'] == 'frontiers': assert s.get('field'), 'Frontiers stories need a field tag'
         if 'hook' in s: assert isinstance(s['hook'], str) and s['hook'].strip()
-        for field in ('title', 'body', 'whatChanged', 'whyMatters', 'uncertainty', 'watchNext', 'eventDate', 'category', 'region', 'status'):
-            assert isinstance(s[field], str) and s[field].strip(), f'Missing {field}'
+        required = ('title', 'body', 'whatChanged', 'eventDate', 'category', 'region', 'status')
+        if s['section'] != 'more': required += ('whyMatters', 'uncertainty', 'watchNext')
+        for field in required:
+            assert isinstance(s.get(field), str) and s[field].strip(), f'Missing {field}'
+        for field in ('whyMatters', 'uncertainty', 'watchNext'):
+            if field in s: assert isinstance(s[field], str) and s[field].strip(), f'Empty {field}'
         assert s['sources'], 'Every story needs sources'
         for source in s['sources']:
             assert urlparse(source['url']).scheme == 'https' and urlparse(source['url']).netloc
@@ -90,7 +94,12 @@ def validate(edition):
         assert datetime.fromisoformat(edition['updatedAt'].replace('Z', '+00:00')).tzinfo is not None, 'updatedAt needs a timezone'
         assert edition.get('updatedLabel'), 'updatedAt needs a readable updatedLabel'
     assert edition['watch'], 'Missing watch list'
-    if edition.get('leadStoryId'): assert edition['leadStoryId'] in ids, 'Lead must reference an edition story'
+    if edition.get('leadStoryId'):
+        assert edition['leadStoryId'] in ids, 'Lead must reference an edition story'
+        assert lead_story(edition)['section'] in ('world', 'ai', 'frontiers'), 'The lead must be a World or Frontiers story'
+    rc = edition.get('realityCheck')
+    if rc:
+        assert rc.get('title') and rc.get('text') and urlparse(rc.get('url', '')).scheme == 'https', 'realityCheck needs title, text and an https url'
     if edition.get('cover'):
         cover = edition['cover']
         assert cover['storyId'] in ids, 'Cover must reference an edition story'
@@ -113,7 +122,7 @@ def source_links(s):
     return '<div class="sources-inline">' + ''.join(f'<a href="{e(x["url"])}" target="_blank" rel="noopener noreferrer">{e(x["publisher"])} ↗</a>' for x in s['sources']) + '</div>'
 
 def evidence(s):
-    return ''.join(f'<div class="evidence"><a href="{e(x["url"])}" target="_blank" rel="noopener noreferrer">{e(x["title"])} ↗</a><small>{e(x["publisher"])} · {e(x["publishedAt"])} · {e(x["kind"])}</small></div>' for x in s['sources'])
+    return ''.join(f'<div class="evidence"><a href="{e(x["url"])}" target="_blank" rel="noopener noreferrer">{e(x["title"])} ↗</a><small>{e(x["publisher"])} · {e(x["publishedAt"])}{" · "+e(x["kind"]) if x.get("kind") else ""}</small></div>' for x in s['sources'])
 
 
 def corrections(edition, story_id=None):
@@ -176,24 +185,33 @@ def lead_story(edition):
         return next(s for s in edition['stories'] if s['id'] == edition['leadStoryId'])
     return next((s for s in edition['stories'] if s['section'] == 'world'), edition['stories'][0])
 
-def frontier_card(s, n, prefix):
-    return f'''<article class="story-card frontier-card" id="{e(s['id'])}" data-section="frontiers">
-    {story_image(s,prefix,True)}<div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}</span><span class="number">{n:02}</span></div>
+def frontier_card(s, n, prefix, lead=False):
+    return f'''<article class="story-card frontier-card{' lead' if lead else ''}" id="{e(s['id'])}" data-section="frontiers">
+    <div class="kicker"><span class="eyebrow">{e(s.get('field','AI'))} / {e(s['category'])}</span><span class="number">{n:02}</span></div>
     <h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3>
     <div class="frontier-hook"><span class="eyebrow">This changes the picture</span><p>{e(s.get('hook',s['whyMatters']))}</p></div>{updates_inline(s)}
     <div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></div></article>'''
 
 def card(s, n, prefix, lead=False):
     badge = ' major' if s['status'] == 'Major development' else ''
-    return f'''<article class="story-card{' lead' if lead else ''}" id="{e(s['id'])}" data-section="{e(s['section'])}">
-    {story_image(s, prefix, True)}
-    <div class="kicker"><span class="eyebrow">{e(s['region'])} / {e(s['category'])}</span><span class="number">{n:02}</span></div>
-    <h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3>
-    <div class="change"><p><strong>What changed</strong><br>{e(s['whatChanged'])}</p></div>{updates_inline(s)}
-    <div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(s['whyMatters'])}</p></div>
-    <details class="card-details"><summary>Uncertainty &amp; sources</summary><div class="context"><p><strong>Still uncertain</strong><br>{e(s['uncertainty'])}</p><p><strong>What to watch</strong><br>{e(s['watchNext'])}</p>{source_links(s)}</div></details>
-    <div class="card-foot"><span class="badge{badge}">{e(s['status'])}</span><span class="card-links"><a class="card-thread" href="{thread_link(s,prefix)}" aria-label="Follow this story: {e(s['title'])}">Follow</a><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></span></div>
-    </article>'''
+    kicker = f'<div class="kicker"><span class="eyebrow">{("Top story · " if lead else "")+e(s["region"])} / {e(s["category"])}</span><span class="number">{n:02}</span></div>'
+    title = f'<h3><a href="{prefix}stories/{s["id"]}/">{e(s["title"])}</a></h3>'
+    change = f'<div class="change"><p><strong>What changed</strong><br>{e(s["whatChanged"])}</p></div>{updates_inline(s)}'
+    context = f'<div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(s["whyMatters"])}</p></div>'
+    details = f'<details class="card-details"><summary>Uncertainty &amp; sources</summary><div class="context"><p><strong>Still uncertain</strong><br>{e(s["uncertainty"])}</p><p><strong>What to watch</strong><br>{e(s["watchNext"])}</p>{source_links(s)}</div></details>'
+    foot = f'<div class="card-foot"><span class="badge{badge}">{e(s["status"])}</span><span class="card-links"><a class="card-thread" href="{thread_link(s,prefix)}" aria-label="Follow this story: {e(s["title"])}">Follow</a><a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a></span></div>'
+    if lead:
+        return (f'<article class="story-card lead" id="{e(s["id"])}" data-section="{e(s["section"])}"><div class="lead-top">{story_image(s, prefix, True)}'
+                f'<div class="lead-copy">{kicker}{title}<p class="summary">{e(s["body"])}</p></div></div>'
+                f'<div class="lead-bottom"><div>{change}</div><div>{context}{details}{foot}</div></div></article>')
+    return f'<article class="story-card" id="{e(s["id"])}" data-section="{e(s["section"])}">{story_image(s, prefix, True)}<div class="card-body">{kicker}{title}{change}{context}{details}{foot}</div></article>'
+
+def more_item(s, n, prefix):
+    report = f'<a class="card-more" href="{prefix}stories/{s["id"]}/" aria-label="Full report: {e(s["title"])}">Full report <span>→</span></a>' if s.get('report') else ''
+    return f'''<article class="more-item" id="{e(s['id'])}"><span class="more-number">{n:02}</span><div class="more-copy"><span class="eyebrow">{e(s['region'])} / {e(s['category'])}</span><h3>{e(s['title'])}</h3><p class="more-dek">{e(s['whatChanged'])}</p>{updates_inline(s)}<details class="more-details"><summary>More</summary><p>{e(s['body'])}</p>{source_links(s)}</details>{report}</div></article>'''
+
+def reality_card(rc):
+    return f'''<article class="story-card frontier-card reality-card"><div class="kicker"><span class="eyebrow">Reality check / A claim, tested</span></div><h3>{e(rc['title'])}</h3><div class="frontier-hook"><span class="eyebrow">What the evidence does and doesn’t show</span><p>{e(rc['text'])}</p></div><div class="card-foot"><span class="badge">Editorial assessment</span><a class="card-more" href="{e(rc['url'])}" target="_blank" rel="noopener noreferrer">Read the research <span>↗</span></a></div></article>'''
 
 def shell(content, edition, title='The Signal — The world, considered. Once a day.', prefix='./', canonical='', payload=True, description='A finite daily briefing on the world, AI, and consequential scientific advances. What changed, why it matters, and the evidence behind it.'):
     stamp = date.fromisoformat(edition['date']).strftime('%A, %d %B %Y')
@@ -304,40 +322,33 @@ def region_page(r, edition, prefix):
             f'{briefs}</article></main>')
 
 def home(edition, prefix='./', archived=False):
-    world = [s for s in edition['stories'] if s['section'] == 'world']
-    ai = [s for s in edition['stories'] if s['section'] in ('ai','frontiers')]
-    still = [s for s in edition['stories'] if s['section'] == 'still']
-    count = len(world) + len(ai)
-    words = sum(len((' '.join(s[k] for k in ('body','whatChanged','whyMatters','uncertainty'))).split()) for s in edition['stories']) + sum(len(w['text'].split()) for w in edition['watch'])
+    stories = edition['stories']
+    num = {s['id']: i for i, s in enumerate(stories, 1)}
+    lead = lead_story(edition)
+    lead_first = lambda items: sorted(items, key=lambda s: s['id'] != lead['id'])
+    world = lead_first([s for s in stories if s['section'] == 'world'])
+    more = [s for s in stories if s['section'] == 'more']
+    ai = lead_first([s for s in stories if s['section'] in ('ai', 'frontiers')])
+    still = [s for s in stories if s['section'] == 'still']
+    count = len(world) + len(more) + len(ai)
+    words = sum(len(' '.join(s.get(k, '') for k in ('body', 'whatChanged', 'whyMatters', 'uncertainty')).split()) for s in stories) + sum(len(w['text'].split()) for w in edition['watch'])
     minutes = max(3, math.ceil(words / 200))
-    lead=lead_story(edition)
-    cover=edition.get('cover') or ({'storyId':lead['id'],**lead['image']} if lead.get('image') else None)
-    if cover and cover['storyId']==lead['id']:
-        art=f'<img class="hero-image" src="{prefix}{e(cover["asset"])}" alt="{e(cover["alt"])}" width="1536" height="1024" fetchpriority="high">'
-        credit=e(cover['credit'])
-    else:
-        art=f'<div class="cover-typographic" aria-hidden="true"><div class="cover-orbit"></div><strong>{edition["number"]:03}</strong></div>'
-        credit='The Signal / The daily edition'
-    brief_choices=([s for s in world if s['id']!=lead['id']][:2]+[s for s in ai if s['id']!=lead['id']][:1])[:3]
-    brief=''.join(f'<a class="brief-item" href="{prefix}stories/{item["id"]}/"><span>{edition["stories"].index(item)+1:02}</span><h3>{e(item["title"])}</h3><span class="brief-arrow">↗</span></a>' for item in brief_choices)
     archive_note = f'<div class="latest-link">You’re reading an archived edition. <a href="{prefix}"><u>Read the latest →</u></a></div>' if archived else ''
     rc = edition.get('realityCheck')
-    reality = f'''<div class="reality-check"><div class="eyebrow">The reality check ↗</div><p><strong>{e(rc['title'])}.</strong> {e(rc['text'])} <a href="{e(rc['url'])}" target="_blank" rel="noopener noreferrer"><u>Read the research ↗</u></a></p></div>''' if rc else ''
-    still_html = ''.join(f'''<article class="still-card" id="{s['id']}">{story_image(s,prefix,True)}<span class="eyebrow">{e(s['region'])}</span><h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3><p>{e(s['body'])}</p><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></article>''' for s in still if s['id'] != lead['id'])
-    watch = ''.join(f'<div class="watch-item"><span>{i:02}</span><div><h3>{e(w["title"])}</h3><p>{e(w["text"])}</p></div></div>' for i,w in enumerate(edition['watch'],1))
-    lead_number=edition['stories'].index(lead)+1
-    world_cards=''.join(card(s,edition['stories'].index(s)+1,prefix) for s in world if s['id']!=lead['id'])
-    ai_cards=''.join(frontier_card(s,edition['stories'].index(s)+1,prefix) for s in ai if s['id']!=lead['id'])
+    still_html = ''.join(f'''<article class="still-card" id="{s['id']}">{story_image(s,prefix,True)}<span class="eyebrow">{e(s['region'])}</span><h3><a href="{prefix}stories/{s['id']}/">{e(s['title'])}</a></h3><p>{e(s['body'])}</p><a class="card-more" href="{prefix}stories/{s['id']}/" aria-label="Full report: {e(s['title'])}">Full report <span>→</span></a></article>''' for s in still)
+    watch = ''.join(f'<div class="watch-item"><span>{i:02}</span><div><h3>{e(w["title"])}</h3><p>{e(w["text"])}</p></div></div>' for i, w in enumerate(edition['watch'], 1))
+    world_cards = ''.join(card(s, num[s['id']], prefix, s['id'] == lead['id']) for s in world)
+    more_items = ''.join(more_item(s, num[s['id']], prefix) for s in more)
+    ai_cards = ''.join(frontier_card(s, num[s['id']], prefix, s['id'] == lead['id']) for s in ai) + (reality_card(rc) if rc else '')
     return archive_note + f'''<main id="main" class="wrap">{corrections(edition)}
     <section class="issue-intro" id="edition"><div><div class="eyebrow">The daily edition / {edition['number']:03}</div><h2>{e(pretty(edition['date']))}</h2></div><div class="edition-meta"><span>{count} developments</span><span>≈ {minutes} min read</span><span>Checked {e(edition['cutoffLabel'])}</span>{f'<span class="updated-stamp">Updated {e(edition["updatedLabel"])}</span>' if edition.get('updatedAt') else ''}</div></section><div class="stale-note" id="stale-note" hidden></div>
     <section class="opening-note" aria-label="Today in brief"><span class="eyebrow">The day, in view</span><p>{e(edition['opening'])}</p></section>
-    <div class="toolbar"><div class="filters" aria-label="Filter the edition"><button data-filter="all" aria-pressed="true">All signals <span>{count}</span></button><button data-filter="world" aria-pressed="false">World <span>{len(world)}</span></button><button data-filter="frontiers" aria-pressed="false">Frontiers <span>{len(ai)}</span></button></div><div class="reading-toggle" aria-label="Reading depth"><button data-mode="briefing" aria-pressed="true">Full briefing</button><button data-mode="quick" aria-pressed="false">Quick scan</button></div></div>
-    <section class="lead-story" id="{lead['id']}" data-section="{'frontiers' if lead['section'] in ('ai','frontiers') else lead['section']}" aria-labelledby="lead-title"><div class="cover-stage {"map-cover" if lead.get("visual",{}).get("type")=="map" else ""}">{art}<div class="cover-copy"><div class="eyebrow">The lead / {e(lead['category'])}</div><h1 id="lead-title"><a href="{prefix}stories/{lead['id']}/">{e(lead['title'])}</a></h1><p class="hero-deck">{e(lead['whatChanged'])}</p><a class="hero-read" href="{prefix}stories/{lead['id']}/">Read the full report · {e(read_label(lead))} <span>↗</span></a></div><div class="cover-credit">{credit}</div></div><div class="lead-details"><div class="lead-report"><p class="lead-region eyebrow">{e(lead['region'])} / {lead_number:02}</p>{updates_inline(lead)}<p class="summary">{e(lead['body'])}</p><div class="lead-actions"><a class="button" href="{prefix}stories/{lead['id']}/" aria-label="Full report: {e(lead['title'])}">Full report <span>→</span></a><a class="textlink" href="{thread_link(lead,prefix)}">Follow this story</a>{source_links(lead)}</div></div><div class="lead-context context"><p><strong>Why it matters · our assessment</strong><br>{e(lead['whyMatters'])}</p><p><strong>Still uncertain</strong><br>{e(lead['uncertainty'])}</p></div></div></section>
-    <details class="edition-note"><summary>About this edition</summary><p>{e(edition['note'])}</p></details>
-    <section class="world-grid-section" {"hidden" if not world_cards else ""}><div class="section-title"><div><span class="eyebrow">The world / In focus</span><h2>Across the <em>world.</em></h2></div><span class="section-number">01 — {len(world):02}</span></div><div class="story-grid world-grid" aria-label="World developments">{world_cards}</div></section>
-    <section class="ai-section" id="frontiers" {"hidden" if not ai_cards else ""}><span id="ai-frontier" aria-hidden="true"></span><div class="section-head"><div><div class="eyebrow">AI · Science · Medicine · Space · Energy</div><h2><em>Frontiers.</em></h2></div><p>What’s changing the future.<br>And the evidence behind it.</p></div><div class="story-grid">{ai_cards}</div>{reality}</section>
+    <section class="world-grid-section" {"hidden" if not world_cards else ""}><div class="section-title"><div><span class="eyebrow">The world / In focus</span><h2>Across the <em>world.</em></h2></div><div class="toolbar"><div class="reading-toggle" aria-label="Reading depth"><button data-mode="briefing" aria-pressed="true">Full briefing</button><button data-mode="quick" aria-pressed="false">Quick scan</button></div></div></div><div class="story-grid world-grid" aria-label="World developments">{world_cards}</div></section>
+    <section class="more-section" id="more" {"hidden" if not more_items else ""}><div class="section-title"><div><span class="eyebrow">The world / Also today</span><h2>More that <em>changed.</em></h2></div><span class="section-number">{len(more):02} more</span></div><div class="more-list">{more_items}</div></section>
+    <section class="ai-section" id="frontiers" {"hidden" if not ai_cards else ""}><span id="ai-frontier" aria-hidden="true"></span><div class="section-head"><div><div class="eyebrow">AI · Science · Medicine · Space · Energy</div><h2><em>Frontiers.</em></h2></div><p>What’s changing the future.<br>And the evidence behind it.</p></div><div class="story-grid">{ai_cards}</div></section>
     {atlas(edition,prefix)}
     <div class="below"><section><div class="eyebrow">Beyond the news cycle</div><h2><em>Still</em> matters.</h2>{still_html or '<p>No continuing-priority entry in this edition.</p>'}</section><section><div class="eyebrow">The next signals</div><h2>What we’re watching.</h2>{watch}</section></div>
+    <details class="edition-note"><summary>About this edition</summary><p>{e(edition['note'])}</p></details>
     <section class="endnote"><div class="endnote-mark" aria-hidden="true">✳</div><div><h2>You’re caught up.<br><em>Go live your day.</em></h2><p>One considered edition. A natural place to stop.</p></div><div class="endnote-actions"><button class="textlink" id="share-edition">Share this edition ↗</button><a class="textlink" href="{prefix}threads/">Follow the story threads →</a><a class="textlink" href="{prefix}archive/">Explore the archive →</a></div></section></main>'''
 
 def threads_index(threads):
@@ -347,17 +358,23 @@ def threads_index(threads):
         rows+=f'<article class="thread-index-card"><div class="eyebrow">{e(story.get("field",story["category"]))}</div><h2><a href="{slug}/">{e(story.get("threadTitle",story["title"]))} <span>↗</span></a></h2><p>{e(story.get("threadSummary",story["whatChanged"]))}</p><div class="thread-meta">{len(history)} report{"s" if len(history)!=1 else ""} · Updated {e(pretty(edition["date"]))}</div></article>'
     return f'<main class="wrap" id="main"><header class="threads-intro"><span class="eyebrow">The longer view</span><h1>Stories, <em>followed.</em></h1><p>Developments belong to a bigger story. Follow the evidence and the changes, edition by edition.</p></header><div class="thread-index">{rows}</div></main>'
 
+def assessment_block(story):
+    parts = ''
+    if story.get('whyMatters'): parts += f'<p><strong>Why it matters · our assessment</strong><br>{e(story["whyMatters"])}</p>'
+    if story.get('uncertainty'): parts += f'<p><strong>Still uncertain</strong><br>{e(story["uncertainty"])}</p>'
+    return f'<div class="context">{parts}</div>' if parts else ''
+
 def thread_page(history):
     edition,current=history[-1]
     timeline=''
     for published,story in reversed(history):
-        timeline+=f'''<article class="thread-update"><div class="thread-date"><a href="../../editions/{published['date']}/#{story['id']}">{e(pretty(published['date']))}</a><span>{e(story['status'])}</span></div><h2><a href="../../stories/{story['id']}/">{e(story['title'])} ↗</a></h2><div class="change"><p><strong>What changed</strong><br>{e(story['whatChanged'])}</p></div>{updates_inline(story)}<div class="context"><p><strong>Why it matters · our assessment</strong><br>{e(story['whyMatters'])}</p><p><strong>Still uncertain</strong><br>{e(story['uncertainty'])}</p></div><details class="thread-sources"><summary>Sources & evidence ({len(story['sources'])})</summary>{evidence(story)}</details></article>'''
+        timeline+=f'''<article class="thread-update"><div class="thread-date"><a href="../../editions/{published['date']}/#{story['id']}">{e(pretty(published['date']))}</a><span>{e(story['status'])}</span></div><h2><a href="../../stories/{story['id']}/">{e(story['title'])} ↗</a></h2><div class="change"><p><strong>What changed</strong><br>{e(story['whatChanged'])}</p></div>{updates_inline(story)}{assessment_block(story)}<details class="thread-sources"><summary>Sources & evidence ({len(story['sources'])})</summary>{evidence(story)}</details></article>'''
     return f'''<main class="wrap" id="main"><article class="article-page thread-page"><a class="article-back" href="../">← All story threads</a><span class="eyebrow">The story, in context</span><h1>{e(current.get('threadTitle',current['title']))}</h1><p class="article-summary">{e(current.get('threadSummary',current['whatChanged']))}</p><div class="thread-meta">{len(history)} report{'s' if len(history)!=1 else ''} · First tracked {e(pretty(history[0][0]['date']))} · Updated {e(pretty(edition['date']))}</div><h2 class="timeline-heading" id="timeline">The story so far</h2><div class="thread-timeline">{timeline}</div><p class="source-note">Dated editions preserve what was reported at the time. New developments are added here as the story continues.</p></article></main>'''
 
 def article(s, edition, history):
     thread_history=THREADS.get(thread_key(s),history)
     timeline=''.join(f'<div class="archive-row"><div><a href="../../editions/{x["date"]}/#{item["id"]}">{pretty(x["date"])}</a><h3>{e(item["title"])}</h3><p>{e(item["whatChanged"])}</p></div></div>' for x,item in reversed(thread_history))
-    return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(s['eventDate'])} · {e(read_label(s))}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div><nav class="article-sections" aria-label="Story sections">{'<a href="#full-report">Full report</a>' if s.get('report') else ''}<a href="#assessment">Our assessment</a><a href="#sources-evidence">Sources & evidence</a><a href="#story-history">Story timeline ↓</a></nav>{story_image(s,"../../")}{updates_full(s)}<p class="article-summary">{e(s['body'])}</p>{key_facts(s)}{full_report(s)}<h2 id="assessment">What changed</h2><p>{e(s['whatChanged'])}</p><h2>Why it matters</h2><p class="source-note">Editorial assessment</p><p>{e(s['whyMatters'])}</p><h2>What remains uncertain</h2><p>{e(s['uncertainty'])}</p><h2>Watch next</h2><p>{e(s['watchNext'])}</p>{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
+    return f'''<main class="wrap" id="main"><article class="article-page"><a class="article-back" href="../../">← Back to the latest edition</a><div class="eyebrow">{e(s['region'])} / {e(s['category'])}</div><h1>{e(s['title'])}</h1><p class="source-note">Published in The Signal on {pretty(edition['date'])} · Event: {e(s['eventDate'])} · {e(read_label(s))}</p><div class="article-thread"><span>Part of <a href="{thread_link(s,'../../')}">{e(s.get('threadTitle',s['title']))}</a></span><a href="{thread_link(s,'../../')}">Follow the thread →</a></div><nav class="article-sections" aria-label="Story sections">{'<a href="#full-report">Full report</a>' if s.get('report') else ''}<a href="#assessment">{'Our assessment' if s.get('whyMatters') else 'What changed'}</a><a href="#sources-evidence">Sources & evidence</a><a href="#story-history">Story timeline ↓</a></nav>{story_image(s,"../../")}{updates_full(s)}<p class="article-summary">{e(s['body'])}</p>{key_facts(s)}{full_report(s)}<h2 id="assessment">What changed</h2><p>{e(s['whatChanged'])}</p>{f'<h2>Why it matters</h2><p class="source-note">Editorial assessment</p><p>{e(s["whyMatters"])}</p>' if s.get('whyMatters') else ''}{f'<h2>What remains uncertain</h2><p>{e(s["uncertainty"])}</p>' if s.get('uncertainty') else ''}{f'<h2>Watch next</h2><p>{e(s["watchNext"])}</p>' if s.get('watchNext') else ''}{corrections(edition,s["id"])}<h2 id="sources-evidence">Sources & evidence</h2>{evidence(s)}<h2 id="story-history">The story so far</h2>{timeline}<p class="source-note">Each dated edition preserves what we reported at the time. Corrections are recorded explicitly.</p></article></main>'''
 
 ABOUT = '''<main class="wrap" id="main"><article class="article-page"><div class="eyebrow">The editorial promise</div><h1>Attention is finite.<br><em>Spend it well.</em></h1><p class="article-summary">The Signal is an independent daily briefing. It follows consequential changes in the world and at the frontiers of AI and science, in one finite daily edition.</p><h2>Change, with context</h2><p>We ask what is new, how strong the evidence is, and what the development could change. A quieter day can mean a shorter edition. An enduring crisis can deserve attention even when there is no fresh headline.</p><h2>Evidence before certainty</h2><p>Every item links to its sources. We prioritize primary documents and established reporting, seek independent corroboration, and distinguish an announcement from a demonstrated result. Sources repeating the same original account are not independent confirmation. Company research is labeled as such.</p><h2>Facts and judgments</h2><p>The report and “What changed” describe available evidence. “Why it matters” and “Watch next” are editorial assessments. We show uncertainties instead of manufacturing precise importance scores or unsupported probabilities.</p><h2>A publication with a memory</h2><p>Daily editions are retained in the archive. Continuing stories use stable identifiers so their developments can be followed across editions. The first edition starts that record; it does not invent a past.</p><h2>How each edition is produced</h2><p>Each morning, the edition is researched and assembled from the linked reporting, and each evening it is updated where stories have moved, with context, evidence limitations, and a clear point at which to stop. Follow those sources for their full reporting.</p><h2>Corrections belong in the open</h2><p>If a claim is wrong, we correct it and record what changed. We do not silently erase mistakes from the historical record. <a href="https://github.com/PrototypeVersions/Signal/issues/new?labels=correction&amp;title=Correction%3A%20" target="_blank" rel="noopener noreferrer">Report an error on GitHub ↗</a></p><h2>Images as editorial interpretation</h2><p>Our original illustrations use simple visual metaphors for each story. They are labeled as illustrations, not photographs of the reported events, and are not evidence for the reporting. Maps locate the reporting; charts show sourced figures; illustrations provide a visual interpretation. Each edition uses the form that best explains the story.</p><h2>Your reading stays yours</h2><p>This prototype has no advertising or analytics scripts. Catch-up is based on the edition you select. Google Fonts supplies the typography; source links take you to their respective publishers. Your browser and hosting provider may retain ordinary access logs.</p><h2>Read at your own pace</h2><p>Use Quick scan for the changes alone and Full briefing for summaries and assessments. Every story has a full report with key facts, background, sources and a dated timeline; Follow this story opens the whole thread across editions.</p></article></main>'''
 

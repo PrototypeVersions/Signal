@@ -114,3 +114,47 @@ body{font-size:16px}.navlinks{gap:27px}.nav-actions{font-size:12px}.issue-intro{
 }
 .region-list a,.region-chip,.region-switch a,.region-pin,.region-story h3 a{text-decoration:none}
 .region-story h3 a:hover{text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:4px}
+/* Front page without a separate lead */
+.world-grid-section{margin-top:34px}
+.world-grid-section .section-title{flex-wrap:wrap;align-items:flex-end;gap:18px 30px}
+.world-grid-section .toolbar{padding:0 0 6px;flex-wrap:wrap;justify-content:flex-end}
+.story-card .card-body{display:flex;flex-direction:column;flex:1;min-width:0}
+.world-grid .story-card.lead{grid-column:1/-1;display:block}
+.lead-top{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:0 40px;align-items:start}
+.lead-top .story-art{margin:0}
+.lead-copy .kicker .eyebrow{color:var(--accent)}
+.world-grid .story-card.lead h3{font-size:44px;line-height:1.06}
+.world-grid .story-card.lead .summary{font-size:15px;line-height:1.75;color:var(--ink);margin-bottom:0}
+.lead-bottom{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:0 40px;margin-top:24px;padding-top:6px;border-top:1px solid var(--line)}
+.lead-bottom .context{display:block}
+.ai-section .story-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.ai-section .story-card.lead h3{font-size:34px}
+/* More that changed */
+.more-section{margin-top:60px}
+.more-list{border-top:1px solid var(--line)}
+.more-item{display:grid;grid-template-columns:44px minmax(0,1fr);gap:0 18px;padding:20px 0 18px;border-bottom:1px solid var(--line)}
+.more-number{font:600 11px/2.3 var(--mono);color:var(--accent)}
+.more-item h3{font:24px/1.22 var(--serif);margin:8px 0 6px;text-wrap:pretty}
+.more-dek{font-size:14px;color:var(--muted);margin:0 0 8px;max-width:820px}
+.more-details>summary{font:600 10px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);cursor:pointer;width:fit-content;list-style:none;padding:4px 0}
+.more-details>summary::-webkit-details-marker{display:none}
+.more-details>summary::after{content:" +"}
+.more-details[open]>summary::after{content:" −"}
+.more-details p{font-size:14px;line-height:1.75;max-width:820px;margin:8px 0 10px}
+.more-item .card-more{display:inline-flex;margin-top:6px}
+@media(min-width:1000px){.more-list{display:grid;grid-template-columns:1fr 1fr;column-gap:44px}.more-list .more-item:first-child,.more-list .more-item:nth-child(2){border-top:0}}
+/* Reality check as a Frontiers card */
+.reality-card{border-top:1px solid var(--accent);padding-top:20px}
+.reality-card .kicker .eyebrow{color:var(--accent)}
+body.quick .more-details,body.quick .more-item .card-more{display:none}
+@media(max-width:760px){
+  .lead-top,.lead-bottom{display:block}
+  .lead-copy{margin-top:16px}
+  .ai-section .story-grid{grid-template-columns:1fr}
+  .world-grid .story-card.lead h3{font-size:34px}
+  .world-grid-section .toolbar{justify-content:flex-start;width:100%}
+  .more-item{grid-template-columns:30px minmax(0,1fr);gap:0 10px}
+  .more-item h3{font-size:22px}
+  .more-dek,.more-details p{font-size:15px}
+}
+.lead-bottom .change{border-top:0}

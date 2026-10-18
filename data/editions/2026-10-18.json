@@ -125,8 +125,8 @@
      },
      {
       "label": "Mediterranean",
-      "lon": 6.5,
-      "lat": 42.2,
+      "lon": 5.5,
+      "lat": 41.7,
       "kind": "water"
      }
     ],
@@ -186,11 +186,6 @@
    "section": "world",
    "locations": [
     {
-     "label": "Moscow",
-     "lon": 38,
-     "lat": 56
-    },
-    {
      "label": "St. Petersburg",
      "lon": 30.31,
      "lat": 59.94
@@ -199,6 +194,11 @@
      "label": "Kyiv",
      "lon": 30.52,
      "lat": 50.45
+    },
+    {
+     "label": "Moscow",
+     "lon": 37.62,
+     "lat": 55.76
     }
    ],
    "threadId": "russia-ukraine-security",
@@ -231,7 +231,7 @@
       "kind": "water"
      }
     ],
-    "alt": "A regional map highlighting Ukraine and western Russia, marking St. Petersburg, Moscow and Kyiv as approximate reporting locations. Washington is outside the map.",
+    "alt": "A regional map highlighting Ukraine and western Russia, marking St. Petersburg, where oil facilities burned after Ukraine's drone attack, along with Kyiv and Moscow as approximate reporting locations. Washington, where the sanctions waiver was signed, is outside the map.",
     "caption": "Ukraine and Russia · approximate reporting locations"
    },
    "keyFacts": [
@@ -637,7 +637,7 @@
    ],
    "image": {
     "asset": "assets/editions/2026-10-18/china-solar-export-proposal.svg",
-    "alt": "Rows of blue solar panels recede toward a copper boundary, with a low copper sun beyond it: a metaphor for controls on manufacturing know-how.",
+    "alt": "A solar panel with a copper padlock clamped onto its frame, for China proposing export controls on solar-manufacturing technology.",
     "credit": "Editorial illustration"
    },
    "threadId": "clean-energy-supply-chains",
@@ -711,8 +711,8 @@
    "locations": [
     {
      "label": "Brasília",
-     "lon": -48,
-     "lat": -16
+     "lon": -47.88,
+     "lat": -15.79
     }
    ],
    "threadId": "platforms-and-elections",
@@ -924,7 +924,7 @@
    "region": "AI frontier",
    "image": {
     "asset": "assets/editions/2026-10-18/gemini-argon-release.svg",
-    "alt": "A faceted blue crystal with copper lines running out to many small terminal screens, for a new AI model opened to developers.",
+    "alt": "A laptop showing lines of code, wired by a copper cable to a lit server rack, for Google opening its new Gemini 4 Argon model to developers through its paid API.",
     "credit": "Editorial illustration"
    },
    "field": "AI",
@@ -991,7 +991,7 @@
    "region": "AI frontier",
    "image": {
     "asset": "assets/editions/2026-10-18/anthropic-metr-access.svg",
-    "alt": "A copper line runs through three blue doorways toward a lit doorway in the distance: a metaphor for outside evaluators getting deeper access.",
+    "alt": "A magnifying glass held up to an open doorway, enlarging the lit server racks inside, for METR's evaluators getting a closer look inside Anthropic.",
     "credit": "Editorial illustration"
    },
    "field": "AI",
@@ -1049,7 +1049,7 @@
    "region": "AI frontier",
    "image": {
     "asset": "assets/editions/2026-10-18/claude-curve-seeds.svg",
-    "alt": "An elliptic curve with copper points traced back by dotted lines to a copper clock face, for curve seeds recovered from 1990s timestamps.",
+    "alt": "A 1990s computer monitor displaying an elliptic curve, linked by a dotted line to a desk clock, for curve seeds traced to an old random-number generator started from 1997–98 timestamps.",
     "credit": "Editorial illustration"
    },
    "field": "AI",

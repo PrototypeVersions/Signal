@@ -924,7 +924,7 @@
    "region": "AI frontier",
    "image": {
     "asset": "assets/editions/2026-10-18/gemini-argon-release.svg",
-    "alt": "A segmented blue sphere with one section lifted away to reveal a glowing copper core: a metaphor for opening access to a new AI model.",
+    "alt": "A faceted blue crystal with copper lines running out to many small terminal screens, for a new AI model opened to developers.",
     "credit": "Editorial illustration"
    },
    "field": "AI",
@@ -1049,7 +1049,7 @@
    "region": "AI frontier",
    "image": {
     "asset": "assets/editions/2026-10-18/claude-curve-seeds.svg",
-    "alt": "Two interlaced blue loops with a copper thread and small beads running through them: a metaphor for tracing hidden values back to their source.",
+    "alt": "An elliptic curve with copper points traced back by dotted lines to a copper clock face, for curve seeds recovered from 1990s timestamps.",
     "credit": "Editorial illustration"
    },
    "field": "AI",

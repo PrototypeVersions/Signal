@@ -124,7 +124,30 @@
     ],
     "alt": "A map of Ukraine and western Russia marking St Petersburg and Moscow, where Ukrainian drones struck, and Kyiv, which Russia attacked the same night. Markers are approximate reporting locations.",
     "caption": "Ukraine and western Russia · approximate reporting locations"
-   }
+   },
+   "updates": [
+    {
+     "at": "2026-10-19T18:15:00-05:00",
+     "label": "Evening update · 6:15 PM CT",
+     "text": "Russia answered overnight into Monday with 16 ballistic missiles and more than 200 drones aimed mainly at Kyiv and its region, killing a 21-year-old woman in the capital. Zelensky said 28 substations and other energy sites were hit, leaving at least 550,000 households without power, and that partners again gave no early warning; Secretary of State Marco Rubio repeated that US intelligence sharing has not stopped.",
+     "sources": [
+      {
+       "publisher": "Associated Press via WSLS",
+       "title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again",
+       "url": "https://www.wsls.com/news/world/2026/10/19/russian-missiles-and-drones-hit-kyiv-overnight-killing-1-and-injuring-8/",
+       "publishedAt": "2026-10-19 07:28 UTC; updated 09:40 UTC",
+       "kind": "reporting"
+      },
+      {
+       "publisher": "The Kyiv Independent",
+       "title": "Russia strikes 28 critical energy facilities across Ukraine in latest wave of attacks, Zelensky says",
+       "url": "https://kyivindependent.com/russia-strikes-28-critical-energy-facilities-across-ukraine-in-latest-wave-of-attacks-zelensky-says/",
+       "publishedAt": "2026-10-19 17:40 UTC",
+       "kind": "reporting"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "france-unrest",
@@ -240,7 +263,37 @@
     ],
     "alt": "A map of France marking Paris, Lyon and Nantes, where looting continued on Sunday, and Limoges, whose town hall burned on October 17. Markers are approximate reporting locations.",
     "caption": "France · selected cities named in weekend reporting"
-   }
+   },
+   "updates": [
+    {
+     "at": "2026-10-19T18:15:00-05:00",
+     "label": "Evening update · 6:15 PM CT",
+     "text": "Prime Minister Lecornu told prefects on Monday to impose limited, local curfews and said a state of emergency could follow if needed, while ruling out a curfew for all of Paris. Overnight curfews were set around Place de la République and Les Halles in Paris from 11 p.m., with gatherings banned citywide from 8 p.m., and in Lyon, Nice, Coulaines, and Lille and nearby towns, some applying only to minors. Justice Minister Gérald Darmanin put weekend detentions above 2,330.",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "France announces curfews in aftermath of violent protests",
+       "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests",
+       "publishedAt": "2026-10-19; updated 20:20",
+       "kind": "reporting"
+      },
+      {
+       "publisher": "Euronews",
+       "title": "France announces Monday and Tuesday night curfews in northern cities",
+       "url": "https://www.euronews.com/2026/10/19/french-pm-lecornu-calls-for-regional-authorities-to-impose-partial-curfews",
+       "publishedAt": "2026-10-19 16:07 CEST; updated 18:33 CEST",
+       "kind": "reporting"
+      },
+      {
+       "publisher": "Dawn (AFP)",
+       "title": "France announces curfews as government grapples with unrest",
+       "url": "https://www.dawn.com/news/2038277/france-announces-curfews-as-government-grapples-with-unrest",
+       "publishedAt": "2026-10-19 14:38 PKT; updated 2026-10-20 00:13 PKT",
+       "kind": "reporting"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "alberta-referendum",
@@ -486,7 +539,8 @@
     "Two tankers of about 2 million barrels each reported on fire after mine strikes, according to Iran's Revolutionary Guards",
     "Kpler: about 20.8 million barrels crossed Hormuz on October 8 and 2.9 million on October 11",
     "Six vessels were attacked in or near the strait on October 11, the most in one day since the war began",
-    "Brent for December delivery was $107.16, down 2.46%, late on Monday morning Moscow time"
+    "Brent for December delivery was $107.16, down 2.46%, late on Monday morning Moscow time",
+    "Brent for December settled at $109.55, down 0.3%, on Monday (as of Monday evening)"
    ],
    "report": [
     {
@@ -556,7 +610,37 @@
     "alt": "A bar chart comparing about 20.8 million barrels of oil passing through the Strait of Hormuz on October 8 with 2.9 million on October 11, according to Kpler data.",
     "caption": "Kpler data reported by Al Jazeera · two single days, not a full series",
     "sourceUrl": "https://aljazeera.com/amp/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
-   }
+   },
+   "updates": [
+    {
+     "at": "2026-10-19T18:15:00-05:00",
+     "label": "Evening update · 6:15 PM CT",
+     "text": "Iran's Revolutionary Guards said on Monday that a third tanker hit a mine south of the strait, causing an explosion and fire in its engine room, after sailing an unauthorised route with its navigation systems switched off; the ship was not named and the claim is unconfirmed. Brent for December recovered from its morning dip to settle 0.3% lower at $109.55. Bloomberg cited US Energy Secretary Chris Wright as saying Gulf flows had recovered to about 80% of pre-war levels, far above tanker-tracking estimates for mid-October.",
+     "sources": [
+      {
+       "publisher": "Al Arabiya (AFP)",
+       "title": "Oil tanker on fire after hitting mine in Hormuz: Iran's IRGC",
+       "url": "https://english.alarabiya.net/News/middle-east/2026/10/19/oil-tanker-on-fire-after-hitting-mine-in-hormuz-iran-s-irgc-",
+       "publishedAt": "2026-10-19 10:31 GST; updated 10:52 GST",
+       "kind": "reporting"
+      },
+      {
+       "publisher": "Rigzone (Bloomberg)",
+       "title": "Oil Prices Hover Near Five-Month High",
+       "url": "https://www.rigzone.com/news/oil_prices_hover_near_fivemonth_high-19-oct-2026-184878-article",
+       "publishedAt": "2026-10-19 15:43 EST",
+       "kind": "reporting"
+      },
+      {
+       "publisher": "Tech Times",
+       "title": "Mines in Hormuz Mandatory Traffic Lanes Drove 86% Oil Throughput Collapse",
+       "url": "https://www.techtimes.com/articles/329185/20261019/mines-hormuz-mandatory-traffic-lanes-drove-86-oil-throughput-collapse.htm",
+       "publishedAt": "2026-10-19 02:35 EDT",
+       "kind": "analysis"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "haines-car-ramming",
@@ -588,6 +672,22 @@
      "url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming",
      "publishedAt": "2026-10-19",
      "kind": "Reporting"
+    }
+   ],
+   "updates": [
+    {
+     "at": "2026-10-19T18:15:00-05:00",
+     "label": "Evening update · 6:15 PM CT",
+     "text": "Prime Minister Albanese said Haines had surgery on Monday night and remains in critical condition. Home Affairs Minister Tony Burke said witnesses saw the driver turn around and pin her against a vehicle, then reverse and strike her a second time. Police said the 43-year-old man was being interviewed, that they had no recent intelligence on him and were treating it as an isolated incident; no charges had been announced by Tuesday morning local time.",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Live: Burke says Helen Haines was 'rammed' twice in attack as MP remains critical",
+       "url": "https://www.abc.net.au/news/2026-10-20/live-blog-victoria-indi-mp-helen-haines-attacked-wangaratta/107285252",
+       "publishedAt": "2026-10-20 (AEDT), live blog",
+       "kind": "reporting"
+      }
+     ]
     }
    ]
   },
@@ -706,6 +806,22 @@
      "url": "https://english.aawsat.com/arab-world/5331047-wfp-says-ending-aid-half-million-gaza-due-funding-shortfall",
      "publishedAt": "2026-10-19 08:19 local time",
      "kind": "Reporting"
+    }
+   ],
+   "updates": [
+    {
+     "at": "2026-10-19T18:15:00-05:00",
+     "label": "Evening update · 6:15 PM CT",
+     "text": "Israel's COGAT said on Monday it would gradually let commercial goods back in, prioritising essentials before winter, after merchants reported that Hamas had dropped a demand for 10,000 shekels (about $3,225) per truck; COGAT said those accounts were not independently verified and that payments must now go only through documented bank transfers. Hamas described the fee as a voluntary contribution. Local health officials said Israeli strikes killed at least five Palestinians on Monday.",
+     "sources": [
+      {
+       "publisher": "Reuters via Arab News",
+       "title": "Israel to resume commercial shipments to Gaza after Hamas fee dispute",
+       "url": "https://www.arabnews.com/middle-east/israel-to-resume-commercial-shipments-to-gaza-after-hamas-fee-dispute-3007188",
+       "publishedAt": "2026-10-19 15:56 UTC",
+       "kind": "reporting"
+      }
+     ]
     }
    ]
   },
@@ -1170,7 +1286,7 @@
    ]
   },
   "europe": {
-   "summary": "Ukraine's record drone attack on Russia and France's political fallout lead. Drones also strayed into NATO airspace over Romania and Lithuania, and Albania's protests continued.",
+   "summary": "France ordered local curfews after the weekend riots, and Russia struck Ukraine's power grid after Kyiv's record drone attack. Drones also strayed into NATO airspace over Romania and Lithuania, and Albania's protests continued.",
    "briefs": [
     {
      "title": "Romania downs two drones off Sulina before a NATO meeting",
@@ -1236,7 +1352,7 @@
    ]
   },
   "middle-east": {
-   "summary": "Iran claims mine strikes on tankers in Hormuz, Gaza faces a halt to commercial goods and aid cuts, and Israel's election campaign tightens eight days before the vote.",
+   "summary": "Iran claims a third tanker hit a mine in Hormuz, Israel says it will let commercial goods back into Gaza as WFP cuts aid, and Israel's election campaign tightens eight days before the vote.",
    "briefs": [
     {
      "title": "A new poll shows Israel's two blocs level before the vote",
@@ -1362,5 +1478,7 @@
     }
    ]
   }
- }
+ },
+ "updatedAt": "2026-10-19T18:15:00-05:00",
+ "updatedLabel": "6:15 PM CT"
 }

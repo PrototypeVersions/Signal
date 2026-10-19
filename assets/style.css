@@ -253,3 +253,5 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .updated-row{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
 .updated-row .corrected-tag+.corrected-tag{margin-left:0}
 .still-card .updated-row,.region-story .updated-row{margin:10px 0 12px}
+/* Region buttons: only on phones, where the map is too small to label */
+@media(min-width:761px){.region-chips{display:none}.atlas-map svg{margin-bottom:6px}}

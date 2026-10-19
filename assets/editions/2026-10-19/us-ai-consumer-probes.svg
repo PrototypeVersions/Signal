@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="A thick stack of legal papers held by a copper binder clip, beside a chat speech bubble, for US regulators and states demanding records from chatbot makers.">
+<title>A thick stack of legal papers held by a copper binder clip, beside a chat speech bubble, for US regulators and states demanding records from chatbot makers.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/>
+<path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/>
+<rect x="294" y="600" width="420" height="20" rx="3" fill="#b3c6d6" stroke="#5a7791" stroke-width="2"/>
+<rect x="300" y="578" width="420" height="20" rx="3" fill="#c9d9e6" stroke="#5a7791" stroke-width="2"/>
+<rect x="306" y="556" width="420" height="20" rx="3" fill="#b3c6d6" stroke="#5a7791" stroke-width="2"/>
+<rect x="294" y="534" width="420" height="20" rx="3" fill="#c9d9e6" stroke="#5a7791" stroke-width="2"/>
+<rect x="300" y="512" width="420" height="20" rx="3" fill="#b3c6d6" stroke="#5a7791" stroke-width="2"/>
+<rect x="306" y="490" width="420" height="20" rx="3" fill="#c9d9e6" stroke="#5a7791" stroke-width="2"/>
+<rect x="294" y="468" width="420" height="20" rx="3" fill="#b3c6d6" stroke="#5a7791" stroke-width="2"/>
+<rect x="300" y="446" width="420" height="20" rx="3" fill="#c9d9e6" stroke="#5a7791" stroke-width="2"/>
+<rect x="306" y="424" width="420" height="20" rx="3" fill="#b3c6d6" stroke="#5a7791" stroke-width="2"/>
+<rect x="300" y="418" width="420" height="26" rx="3" fill="#dfe9f2" stroke="#5a7791" stroke-width="2"/>
+<path d="M470 410 H550 L560 494 H460 Z" fill="#b87445" stroke="#e2b18e" stroke-width="3" stroke-linejoin="round"/>
+<path d="M478 410 C470 344, 450 334, 440 314" stroke="#d9dee4" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M542 410 C550 344, 570 334, 580 314" stroke="#d9dee4" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M440 314 H580" stroke="#d9dee4" stroke-width="7" stroke-linecap="round"/>
+<circle cx="900" cy="300" r="120" fill="#9fd0f5" opacity=".18" filter="url(#glow)"/>
+<path d="M790 220 Q790 180 830 180 H990 Q1030 180 1030 220 V330 Q1030 370 990 370 H880 L830 420 L840 370 H830 Q790 370 790 330 Z" fill="#1d3a52" stroke="#9fd0f5" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="860" cy="275" r="13" fill="#9fd0f5"/><circle cx="910" cy="275" r="13" fill="#9fd0f5"/><circle cx="960" cy="275" r="13" fill="#9fd0f5"/>
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

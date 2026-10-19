@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="A round pie split into slices, with one thin copper slice lifted out and set apart, for Anthropic pledging 5% of its shares to a public benefit fund.">
+<title>A round pie split into slices, with one thin copper slice lifted out and set apart, for Anthropic pledging 5% of its shares to a public benefit fund.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<ellipse cx="600" cy="650" rx="220" ry="14" fill="#000" opacity=".3"/>
+<path d="M600 410 L664.9 210.3 A210 210 0 0 1 810.0 410.0 Z" fill="#2f4b63" stroke="#6f8aa1" stroke-width="3" stroke-linejoin="round"/>
+<path d="M600 410 L810.0 410.0 A210 210 0 0 1 671.8 607.3 Z" fill="#264257" stroke="#6f8aa1" stroke-width="3" stroke-linejoin="round"/>
+<path d="M600 410 L671.8 607.3 A210 210 0 0 1 428.0 530.5 Z" fill="#33536d" stroke="#6f8aa1" stroke-width="3" stroke-linejoin="round"/>
+<path d="M600 410 L428.0 530.5 A210 210 0 0 1 418.1 305.0 Z" fill="#2a465e" stroke="#6f8aa1" stroke-width="3" stroke-linejoin="round"/>
+<path d="M600 410 L418.1 305.0 A210 210 0 0 1 600.0 200.0 Z" fill="#30506a" stroke="#6f8aa1" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="644" cy="171" r="70" fill="#e2b18e" opacity=".22" filter="url(#glow)"/>
+<path d="M614.1 321.1 L614.1 111.1 A210 210 0 0 1 679.0 121.4 Z" fill="#c4834f" stroke="#f0c9a6" stroke-width="3" stroke-linejoin="round"/>
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

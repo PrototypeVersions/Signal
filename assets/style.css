@@ -255,3 +255,7 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .still-card .updated-row,.region-story .updated-row{margin:10px 0 12px}
 /* Region buttons: only on phones, where the map is too small to label */
 @media(min-width:761px){.region-chips{display:none}.atlas-map svg{margin-bottom:6px}}
+/* No tall empty gaps in the card grids: cards keep their own height and the Follow / Full report row sits right under the text */
+.world-grid{align-items:start}
+.world-grid .story-card:not(.lead) .card-foot,.ai-section .story-card .card-foot{margin-top:18px}
+.ai-section .story-grid{align-items:start}

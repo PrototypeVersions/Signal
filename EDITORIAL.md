@@ -1,6 +1,6 @@
 # The Signal editorial instructions
 
-This guide describes the site exactly as it is built today. The scheduled morning and evening runs follow it to the letter, so keep it current whenever the site changes.
+This guide describes the site exactly as it is built today. The scheduled morning run follows it to the letter, so keep it current whenever the site changes.
 
 ## Promise
 The publication is named **The Signal**. Use the full name in reader-facing copy. The repository remains `PrototypeVersions/Signal`.
@@ -76,7 +76,7 @@ Before creating a new thread, run `python3 scripts/build.py --threads` to list e
 The site builds a dated timeline page for each thread at `threads/<threadId>/` and lists the stories in the archive under “By story”. Never invent past entries, claim historical coverage that does not exist, or backfill unsourced context.
 
 ## Visuals
-Use the Night Observatory palette: midnight navy (#09131d), pale ice blue, slate and restrained copper. Choose a visual because it explains the particular story. Maps locate reporting, charts show sourced comparisons, and illustrations help when a simple visual metaphor is understandable. In practice most World stories should use a built-in map or chart. Frontiers stories usually get an illustration. `more` items show no image on the home page.
+Use the Night Observatory palette: midnight navy (#09131d), pale ice blue, slate and restrained copper. Choose a visual because it explains the particular story. Maps locate reporting, charts show sourced comparisons, and illustrations help when a simple visual metaphor is understandable. **Every World and Frontiers story must have a `visual` (map or chart) or an `image` (illustration)**; the build refuses an edition without one, because a card without a picture would leave a gap in the card grid. In practice most World stories use a built-in map (any story with a place can have one) or chart, and Frontiers stories usually get an illustration. `more` and `still` items show no image on the home page and do not need one.
 
 **Maps and charts** are rendered by the build from structured `visual` data; they need no uploaded image. The renderer uses bundled public-domain Natural Earth geography in `scripts/data/world-110m.json`. Do not invent country outlines, boundaries, paths or coordinates. Locations are approximate reporting locations. Never imply an entire country is affected when evidence concerns a particular area; country highlighting means context, not an incident footprint. Do not add attack paths, territorial-control claims or trade flows without sourced data.
 
@@ -96,7 +96,7 @@ For a simple comparison chart use `visual` with `type: "bars"`, `title`, `measur
 
 **Illustrations** must visibly match their story. Before drawing one, write down in a single sentence the concrete thing from the story it shows: an object, place, mechanism or action a reader would recognize from the headline (solar panels for solar export controls; an elliptic curve and a clock for curve seeds recovered from timestamps; doorways for outside evaluators getting inside access). If you cannot name such a thing, use a map or chart, or omit the visual; never fall back on a generic abstract shape. Check the finished image against its headline: a reader who sees only the picture and the headline should see the connection.
 
-Draw a fresh, simple, story-specific composition as an original self-contained SVG: one strong object or a few shapes, quiet negative space, no lettering or fake data, no scripts, external references or third-party imagery. Avoid generic robots and metaphors that need a paragraph to explain. Never depict fictional documentary scenes, officials, identifiable victims or scientific plots. Image generation, paid APIs, credentials and stock purchases are not part of the daily run. Save the file as `assets/editions/YYYY-MM-DD/<story-id>.svg` in the same commit as the edition and reference it as `image: {"asset": "...", "alt": "...", "credit": "Editorial illustration"}`. The alt text states what is shown and how it connects to the story. Keep files under 250 KB. Do not put generated map or chart paths into the JSON: the build creates them. Real news photography requires a verified source and reuse rights. If no useful visual can be produced, omit it and say so in the run report.
+Draw a fresh, simple, story-specific composition as an original self-contained SVG: one strong object or a few shapes, quiet negative space, no lettering or fake data, no scripts, external references or third-party imagery. Avoid generic robots and metaphors that need a paragraph to explain. Never depict fictional documentary scenes, officials, identifiable victims or scientific plots. Image generation, paid APIs, credentials and stock purchases are not part of the daily run. Save the file as `assets/editions/YYYY-MM-DD/<story-id>.svg` in the same commit as the edition and reference it as `image: {"asset": "...", "alt": "...", "credit": "Editorial illustration"}`. The alt text states what is shown and how it connects to the story. Keep files under 250 KB. Do not put generated map or chart paths into the JSON: the build creates them. Real news photography requires a verified source and reuse rights. If no useful illustration can be produced for a World or Frontiers story, give it a map or chart instead; if even that is impossible, move the story to More that changed and say so in the run report.
 
 ## Publication (morning run)
 Editions are produced each morning (about 5:57 AM Central) by a scheduled Claude (Opus 5.5) task and published directly; there is no draft or manual review step. The task:
@@ -111,7 +111,7 @@ Editions are produced each morning (about 5:57 AM Central) by a scheduled Claude
 If sources or access are insufficient, publish fewer items rather than weaker ones; if a usable edition cannot be produced, leave the latest edition in place and report the problem. Do not send email or social posts.
 
 ## Evening update
-A second scheduled task runs each evening (about 5:57 PM Central) and updates that day's edition in place. It does not create a second edition.
+The evening task is currently switched off: the site publishes once each morning, and changes during the day go into the next morning's edition. Follow this section only if an evening task is switched back on. It updates that day's edition in place and does not create a second edition.
 
 1. Read today's edition, recent editions and this guide. If today's edition does not exist (the morning run failed), produce a full edition instead, following the morning steps, and say in `note` that it was published in the evening.
 2. Research what has happened since the morning `cutoff` for every story in the edition, every dated item in `watch`, and any major new development.

@@ -70,18 +70,31 @@ def map_svg(story, visual):
     body+=f'<text x="54" y="62" fill="#d4a07d" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">{ESC(visual["title"].upper())}</text><path d="M54 738H1146" stroke="#2b4052"/><circle cx="62" cy="768" r="5" fill="#d4a07d"/><text x="80" y="775" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="18">Approximate reporting locations · country outlines simplified</text>'
     return svg_shell(visual['title'],visual['alt'],body)
 
+def nice_step(top):
+    raw = top / 3
+    mag = 10 ** math.floor(math.log10(raw)) if raw > 0 else 1
+    for m in (1, 2, 2.5, 5, 10):
+        if m * mag >= raw: return m * mag
+    return 10 * mag
+
 def bar_svg(visual):
-    values=visual['values']; ceiling=math.ceil(max(v['value'] for v in values)/5)*5
-    if ceiling==0: ceiling=1
+    values=visual['values']; top=max(v['value'] for v in values) or 1; step=nice_step(top); ticks=max(3,math.ceil(top*1.12/step)); ceiling=step*ticks
+    unit=visual['unit']; sep=' ' if unit[:1].isalnum() else ''; long_unit=len(unit)>3
+    fmt=lambda v: f'{round(v,6):g}'
     body=f'<text x="70" y="90" fill="#c5d9f1" font-family="Georgia,serif" font-size="48">{ESC(visual["title"])}</text>'
-    for i in range(4):
-        value=ceiling*i/3; y=630-value/ceiling*395
-        body+=f'<path d="M100 {y:.1f}H1110" stroke="#2b4052"/><text x="82" y="{y+7:.1f}" text-anchor="end" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="20">{value:g}{ESC(visual["unit"])}</text>'
+    if long_unit: body+=f'<text x="100" y="200" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="20">{ESC(unit)}</text>'
+    for i in range(ticks+1):
+        value=step*i; y=630-value/ceiling*395
+        tick=fmt(value)+('' if long_unit else sep+unit)
+        body+=f'<path d="M100 {y:.1f}H1110" stroke="#2b4052"/><text x="88" y="{y+7:.1f}" text-anchor="end" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="20">{ESC(tick)}</text>'
     width=min(240,700/len(values)); stride=940/len(values)
     for i,item in enumerate(values):
         x=130+i*stride+(stride-width)/2;height=item['value']/ceiling*395;y=630-height
         color='#d4a07d' if i==len(values)-1 else '#668aa7'
-        body+=f'<rect x="{x:.1f}" y="{y:.1f}" width="{width:.1f}" height="{height:.1f}" fill="{color}"/><text x="{x+width/2:.1f}" y="{y-23:.1f}" text-anchor="middle" fill="#d8e7f5" font-family="Georgia,serif" font-size="60">{item["value"]:g}{ESC(visual["unit"])}</text><text x="{x+width/2:.1f}" y="678" text-anchor="middle" fill="#b9cfe2" font-family="Arial,sans-serif" font-size="40">{ESC(item["label"])}</text>'
+        text=fmt(item['value'])+sep+unit
+        vsize=min(60, int((stride-20)/(0.5*max(1,len(text)))))
+        lsize=min(40, int((stride-24)/(0.55*max(1,len(item['label'])))))
+        body+=f'<rect x="{x:.1f}" y="{y:.1f}" width="{width:.1f}" height="{height:.1f}" fill="{color}"/><text x="{x+width/2:.1f}" y="{y-23:.1f}" text-anchor="middle" fill="#d8e7f5" font-family="Georgia,serif" font-size="{vsize}">{ESC(text)}</text><text x="{x+width/2:.1f}" y="678" text-anchor="middle" fill="#b9cfe2" font-family="Arial,sans-serif" font-size="{lsize}">{ESC(item["label"])}</text>'
     body+=f'<text x="70" y="753" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="28">{ESC(visual["measure"])}</text>'
     return svg_shell(visual['title'],visual['alt'],body)
 

@@ -1,0 +1,1214 @@
+{
+ "date": "2026-10-20",
+ "number": 3,
+ "cutoff": "2026-10-20T11:30:00Z",
+ "cutoffLabel": "6:30 AM CT",
+ "opening": "Alberta voted by about three to one to stay in Canada. Trump suggested Ukraine needs a new negotiator as talks move to Oslo. A Houthi strike killed 53 recruits in Yemen as Egypt moved toward defending Saudi Arabia, and gangs in Haiti attacked foreign troops.",
+ "leadStoryId": "alberta-referendum",
+ "stories": [
+  {
+   "id": "alberta-referendum",
+   "threadId": "alberta-independence",
+   "threadTitle": "Alberta's independence vote",
+   "threadSummary": "A province-wide referendum on whether oil-rich Alberta should begin the legal process toward leaving Canada.",
+   "section": "world",
+   "title": "Alberta votes decisively to stay in Canada",
+   "category": "Democracy & federalism",
+   "region": "North America · Canada",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-19 / 2026-10-20",
+   "body": "About three in four Albertans who voted on Monday chose to remain in Canada rather than start the legal process toward a binding independence referendum. CTV News projected 76.4% for remaining and 23.6% for a second vote, with more than 2.2 million valid ballots cast. Only one riding, Central Peace-Notley, leaned toward a second referendum. Prime Minister Mark Carney said Albertans had chosen Canada, while separatist leaders said their campaign would continue. Results on nine other questions are due Wednesday.",
+   "whatChanged": "The vote on whether to begin leaving Canada has been held, and separation lost by roughly three to one.",
+   "whyMatters": "A clear margin removes the immediate prospect of a binding secession vote in Canada's main oil province during a trade war with the United States, though it does not settle the grievances behind the campaign.",
+   "uncertainty": "Figures are unofficial and projected; official results are due October 29, and turnout as a share of eligible voters had not been published.",
+   "watchNext": "Premier Danielle Smith's address on Tuesday evening, results on the nine other questions on Wednesday, and whether separatists form a dedicated party.",
+   "keyFacts": [
+    "CTV News projection: 76.4% remain, 23.6% for a second referendum",
+    "More than 2.2 million valid votes cast, per Elections Alberta",
+    "Nearly 1.3 million advance and mail ballots, about 43% of eligible voters",
+    "Central Peace-Notley was the only riding leaning toward a second referendum",
+    "Official results due October 29; Questions 1–9 counted on Wednesday"
+   ],
+   "report": [
+    {
+     "heading": "The result",
+     "paragraphs": [
+      "Question 10 asked whether Alberta should remain a province of Canada or whether the provincial government should begin the constitutional process required to hold a binding referendum on leaving. CTV News projected that 76.4% chose to remain, and CBC News made a similar call. By early Tuesday the remain side had passed one million votes, against just over 300,000 for a second referendum, and Elections Alberta reported more than 2.2 million valid votes in total. With about two thirds of polls reporting, the Poliwave tracker showed a lead of more than 800,000 votes. Central Peace-Notley, in the province's northwest, was the only riding where a second referendum led.",
+      "Voters filled in ten separate paper ballots. Advance and mail voting drew nearly 1.3 million ballots, and some polling stations opened late, with long lines reported."
+     ]
+    },
+    {
+     "heading": "Reaction",
+     "paragraphs": [
+      "Carney, who had called the referendum a dangerous bluff and campaigned in Calgary and Edmonton, said Albertans chose unity. Premier Danielle Smith, who called the vote under pressure from separatists in her United Conservative Party and personally voted to remain, said she was very pleased and planned to address the province on Tuesday evening. Ontario Premier Doug Ford urged the rest of the country to build new pipelines.",
+      "Separatist figures were not conceding the argument. Jeffrey Rath of the Alberta Prosperity Project vowed to keep pushing for independence, and its leader, Mitch Sylvestre, had said before the count that anything above 40% would keep the fight alive. Keith Wilson of Let Alberta Decide said the debate would continue."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "The result ends this route to separation, but a future government or a new citizen petition could raise the question again. Results on the other nine questions, on immigration and provincial powers, are due Wednesday; early counts showed yes ahead on the immigration questions and several constitutional questions nearly tied. Analysts quoted by THE WEEK warn the outcome could split the governing party."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "CP24 / CTV News",
+     "title": "Alberta referendum: Separation strongly rejected. Live updates",
+     "url": "https://www.cp24.com/news/canada/2026/10/20/albertans-reject-separation-in-historic-vote-ctv-news-projects-live-updates/",
+     "publishedAt": "2026-10-19 07:00 EDT, updated 2026-10-20 02:11 EDT",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "THE WEEK",
+     "title": "Decisive rejection: 76% of Alberta voters choose unity over independence",
+     "url": "https://www.theweek.in/news/world/2026/10/20/decisive-rejection-76percent-of-alberta-voters-choose-unity-over-independence.html",
+     "publishedAt": "2026-10-20 13:37 IST",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Poliwave",
+     "title": "Remain 75.8%: Alberta Separation Vote Results, Question 10",
+     "url": "https://www.poliwave.com/ca/ab/live/referendum-2026/question-10-separation",
+     "publishedAt": "Live results page, 3:22 a.m. MDT update",
+     "kind": "Results tracker"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Alberta's Question 10",
+    "measure": "Share of votes, CTV News projection",
+    "unit": "% of votes",
+    "values": [
+     {
+      "label": "Remain in Canada",
+      "value": 76.4
+     },
+     {
+      "label": "Begin process toward a binding vote",
+      "value": 23.6
+     }
+    ],
+    "alt": "A bar chart showing 76.4% of votes to remain in Canada and 23.6% to begin the process toward a binding independence referendum, as projected by CTV News.",
+    "caption": "CTV News projection, early October 20 · unofficial; official results due October 29",
+    "sourceUrl": "https://www.cp24.com/news/canada/2026/10/20/albertans-reject-separation-in-historic-vote-ctv-news-projects-live-updates/"
+   }
+  },
+  {
+   "id": "ukraine-us-oslo-talks",
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia's war on Ukraine, the diplomacy around it and its spillover into European security.",
+   "section": "world",
+   "title": "Trump says Ukraine needs a new negotiator as Zelensky heads to Oslo talks",
+   "category": "War & diplomacy",
+   "region": "Europe · Ukraine & Norway",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-19 / 2026-10-20",
+   "body": "President Trump said on Monday it may be time for someone other than Volodymyr Zelensky to negotiate for Ukraine, and that Russia has been fine on Ukraine. He also said he was open to meeting Vladimir Putin and Xi Jinping at next month's APEC summit, mainly about nuclear weapons. Zelensky travels to Norway on Tuesday for talks that US envoy Steve Witkoff will attend, with Jared Kushner joining remotely. Overnight, Russian drones killed at least six people around Kyiv and left over 30,000 Odesa households without power.",
+   "whatChanged": "The open rift with Washington now extends to who speaks for Ukraine, and a new round of talks is set for Oslo this week.",
+   "whyMatters": "If Washington sidelines Kyiv's elected leader while praising Moscow, Ukraine's leverage in any settlement, and its access to US weapons and intelligence, could narrow further.",
+   "uncertainty": "No date or agenda for the Oslo meeting has been published, and casualty figures from overnight strikes were still being verified.",
+   "watchNext": "What the Oslo meetings produce, whether delayed US arms and Patriot transfers are approved, and whether a Trump–Putin–Xi meeting is scheduled.",
+   "keyFacts": [
+    "Trump on October 19: it may be time for somebody else to negotiate for Ukraine",
+    "Zelensky arrives in Norway on October 20; Witkoff attends, Kushner joins remotely",
+    "At least three killed near Kyiv and three on the Kyiv–Odesa highway overnight, per preliminary reports",
+    "More than 30,000 Odesa-region households lost power, according to DTEK",
+    "Russia said it downed 136 Ukrainian drones; a fuel tank fire was reported in Tambov"
+   ],
+   "report": [
+    {
+     "heading": "What Trump said",
+     "paragraphs": [
+      "Speaking outside the White House on Monday, Trump said Zelensky should have settled the war long ago and suggested someone else should negotiate for Ukraine. He said he would be open to a three-way meeting with Putin and Xi at the APEC summit in China next month, focused on nuclear weapons, and said he would go not so much for Ukraine, adding that Russia had been fine on it. The remarks follow his waiver of congressionally mandated sanctions on Russian energy and his public charge on Sunday that Zelensky does not want peace."
+     ]
+    },
+    {
+     "heading": "Kyiv's response",
+     "paragraphs": [
+      "Zelensky told US senators that some administration decisions were hard to explain between friends. He says US weapons paid for by European partners through the PURL programme are being held up, with one package awaiting Defence Secretary Pete Hegseth's signature, and that several European states are ready to send Patriot interceptors but need US approval. He also says Ukraine missed partners' early warnings of Russian attacks three times in the past week. He called a conversation with Secretary of State Marco Rubio constructive, covering interceptors, early warning and Starlink."
+     ]
+    },
+    {
+     "heading": "Oslo and the battlefield",
+     "paragraphs": [
+      "Zelensky is due in Norway on Tuesday to meet Prime Minister Jonas Gahr Støre and Finland's President Alexander Stubb. Reuters, cited by Al Jazeera, reports that the talks are expected to include the UK, France, Germany, Poland, the EU and NATO. Witkoff will travel to Oslo; Kushner, who is ill, will join remotely.",
+      "Overnight, Russian drones struck across Ukraine, from Kharkiv to Lviv. Regional officials reported at least three dead at a burning facility outside Kyiv and three killed on the Kyiv–Odesa highway, and DTEK said more than 30,000 Odesa households lost power. Russia said it intercepted 136 Ukrainian drones, and Telegram channels reported a diesel tank fire at an oil site in Tambov region."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "RFE/RL",
+     "title": "Zelenskyy To Meet US Envoy Witkoff In Oslo Amid Trump Tensions And Russian Attacks",
+     "url": "https://www.rferl.org/a/ukraine-russia-attack-zelenskyy-oslo-meeting/33880037.html",
+     "publishedAt": "2026-10-20 11:25 CET",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+     "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    }
+   ],
+   "locations": [
+    {
+     "label": "Oslo",
+     "lon": 10.75,
+     "lat": 59.91
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    },
+    {
+     "label": "Odesa",
+     "lon": 30.73,
+     "lat": 46.48
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Oslo talks and overnight strikes",
+    "bounds": [
+     2,
+     43,
+     42,
+     64
+    ],
+    "countries": [
+     "578",
+     "804"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.6,
+      "kind": "water"
+     },
+     {
+      "label": "Baltic Sea",
+      "lon": 19.5,
+      "lat": 57,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of northern and eastern Europe with Norway and Ukraine highlighted, marking Oslo, where talks are planned, and Kyiv and Odesa, where overnight Russian drone strikes were reported.",
+    "caption": "Norway and Ukraine highlighted for context · approximate locations"
+   }
+  },
+  {
+   "id": "yemen-saudi-escalation",
+   "threadId": "gulf-conflict",
+   "threadTitle": "Iran war and the Gulf",
+   "threadSummary": "The war with Iran and its spread to Gulf shipping, energy and neighbouring states.",
+   "section": "world",
+   "title": "A Houthi missile strike kills 53 recruits as Egypt moves to defend Saudi Arabia",
+   "category": "Conflict",
+   "region": "Middle East · Yemen & Saudi Arabia",
+   "regions": [
+    "middle-east",
+    "africa"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-18 / 2026-10-20",
+   "body": "Three Houthi ballistic missiles hit a camp training new Yemeni government security recruits in Shabwa province on Monday, killing 53 people and wounding 200, according to local authorities. The Houthis called it a Saudi-backed base. A day earlier, Egypt's National Defence Council approved military support for Saudi Arabia, but parliament delayed the required vote to October 26. US embassies issued security alerts covering 12 countries, and Brent crude traded near $110 on Tuesday.",
+   "whatChanged": "A single Houthi strike killed dozens of Yemeni recruits, and Egypt took a formal step toward joining Saudi Arabia's defence.",
+   "whyMatters": "Egyptian troops would widen a war that already threatens Saudi airports, Red Sea shipping and the Suez Canal, while the region is still absorbing the conflict with Iran.",
+   "uncertainty": "Casualty figures come from Shabwa's local authority and rose sharply during the day; what an Egyptian deployment would involve has not been disclosed.",
+   "watchNext": "The government's promised response, Egypt's parliamentary vote on October 26, and whether the US joins strikes on the Houthis.",
+   "keyFacts": [
+    "53 killed and 200 wounded at a Shabwa training camp on October 19, per local authorities",
+    "Egypt's National Defence Council approved support for Saudi Arabia on October 18",
+    "Egypt's parliament postponed its vote to October 26; a two-thirds majority is needed",
+    "US security alerts cover 12 countries, from Israel to Iran",
+    "Brent crude near $110 a barrel on October 20"
+   ],
+   "report": [
+    {
+     "heading": "The strike",
+     "paragraphs": [
+      "A spokesperson for Yemen's government forces said three ballistic missiles struck the camp during a training exercise for new security recruits. Officials first counted 18 dead; later on Monday the local authority in Shabwa put the toll at 53 killed and 200 injured. Houthi spokesperson Yahya Saree claimed the attack and said any site hosting Saudi-backed forces was a legitimate target. Rashad al-Alimi, head of the Presidential Leadership Council, promised a firm response, and government forces said they struck Houthi positions south of Taiz.",
+      "Fighting reignited after the Houthis seized territory on the Red Sea coast in September, prompting a Saudi-backed counteroffensive. The group has since struck Saudi Arabia, including Riyadh's international airport, where Saudi authorities say an October 10 attack killed 13, and the state oil company Aramco."
+     ]
+    },
+    {
+     "heading": "Egypt's step",
+     "paragraphs": [
+      "President Abdel Fattah el-Sisi said on Sunday that Egypt would take any measure needed to protect Gulf allies and that the mission would be defensive. Sending troops abroad for combat requires a two-thirds vote in parliament, which was postponed to October 26; the opposition Egyptian Social Democratic Party told its members to abstain, citing a lack of detail on aims, cost and risk. The Houthi-run parliament warned Cairo against intervening. Egypt has strong economic ties to Riyadh, which is due to deposit $5.3 billion in its central bank this month."
+     ]
+    },
+    {
+     "heading": "Wider ripples",
+     "paragraphs": [
+      "On Monday US embassies issued near-identical alerts for citizens in 12 countries, including Saudi Arabia, Qatar, Israel and Iran, warning that hostilities could spread quickly and that Iran and its allies might target US interests. Qatar Airways suspended Riyadh and Dammam flights until October 24. Brent crude was about $110 on Tuesday morning, near a five-month high, as traders weighed attacks on shipping, including fire on an LNG tanker off Yemen on Saturday."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
+     "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa",
+     "publishedAt": "2026-10-19, updated same day",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+     "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The National",
+     "title": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
+     "publishedAt": "2026-10-18, updated 2026-10-20 04:23 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "US issues rare Middle East red alert warning to its citizens in the region",
+     "url": "https://www.euronews.com/2026/10/19/us-issues-rare-middle-east-red-alert-warning-to-its-citizens-in-the-region",
+     "publishedAt": "2026-10-19 13:55 CEST",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "Oil prices top $110 as traders weigh Middle East supply risks",
+     "url": "https://www.euronews.com/2026/10/20/oil-prices-top-110-as-traders-weigh-middle-east-risks",
+     "publishedAt": "2026-10-20 10:02 CEST",
+     "kind": "Reporting"
+    }
+   ],
+   "locations": [
+    {
+     "label": "Shabwa training camp (approximate)",
+     "mapLabel": "Shabwa",
+     "lon": 46.8,
+     "lat": 14.6
+    },
+    {
+     "label": "Riyadh",
+     "lon": 46.72,
+     "lat": 24.71
+    },
+    {
+     "label": "Cairo",
+     "lon": 31.24,
+     "lat": 30.04
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Yemen, Saudi Arabia and Egypt",
+    "bounds": [
+     24,
+     10,
+     60,
+     33
+    ],
+    "countries": [
+     "887",
+     "682",
+     "818"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 38.5,
+      "lat": 20,
+      "kind": "water"
+     },
+     {
+      "label": "Arabian Sea",
+      "lon": 56,
+      "lat": 14,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of the Red Sea region with Yemen, Saudi Arabia and Egypt highlighted, marking the approximate location of the Shabwa camp in southern Yemen, Riyadh and Cairo.",
+    "caption": "Countries highlighted for context · Shabwa marker is approximate"
+   }
+  },
+  {
+   "id": "haiti-gang-suppression-force-attack",
+   "threadId": "haiti-gang-crisis",
+   "threadTitle": "Haiti's gang crisis",
+   "threadSummary": "Armed gangs' grip on Haiti and the internationally backed effort to push them back before elections.",
+   "section": "world",
+   "title": "Four Salvadoran soldiers go missing after the biggest gang attack on Haiti's new force",
+   "category": "Security",
+   "region": "Latin America · Haiti",
+   "regions": [
+    "latin-america"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-18 / 2026-10-19",
+   "body": "Gangs in Croix-des-Bouquets, on the edge of Port-au-Prince, attacked an armoured vehicle carrying four Salvadoran aviation technicians with explosives on Sunday and set it on fire, El Salvador's armed forces said. The four escaped the vehicle but their whereabouts are unknown, and helicopters sent to find them came under fire. It is the largest attack on the UN-authorised Gang Suppression Force, which has more than 2,000 troops in Haiti as the country prepares for its first general election in over a decade.",
+   "whatChanged": "Gangs have mounted their most serious attack yet on foreign troops, and four soldiers are unaccounted for.",
+   "whyMatters": "Captured soldiers would give gangs bargaining power over a force meant to secure the ground for elections, in a capital where gangs control an estimated 70% of territory.",
+   "uncertainty": "No group has claimed the attack, and it is not known whether the four men are alive or held; the US ambassador to the UN said he believes they survived.",
+   "watchNext": "News of the missing technicians, any change in the force's operations, and whether the election timetable holds.",
+   "keyFacts": [
+    "Four Salvadoran aviation technicians missing after the attack on October 18",
+    "The Gang Suppression Force has more than 2,000 of an authorised 5,550 personnel deployed",
+    "UN: more than 5,700 people killed or injured from January to mid-September",
+    "Nearly 1.5 million Haitians displaced by gang violence",
+    "More than 35 parties and 3,500 candidates registered for elections"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "According to El Salvador's armed forces, the technicians were returning to camp on Sunday when gunmen hit their armoured vehicle with explosives and set it alight. The men fled, but contact was lost. Salvadoran helicopters sent to the area were fired on, and the military said the intensity of fighting hampered efforts to reach them by land and air. The Gang Suppression Force told residents to stay indoors. At the UN Security Council on Monday, US Ambassador Mike Waltz said the gangs fired hundreds of bullets and explosives."
+     ]
+    },
+    {
+     "heading": "The force and the gangs",
+     "paragraphs": [
+      "The Security Council authorised the force in September 2025 to replace a Kenya-led mission that struggled for money and equipment. It has troops from Chad, Jamaica, Guatemala and El Salvador among others. Its special representative, Jack Christofides, said attacks on the force are increasing and that gangs have carried out reprisal killings and pushed into Kenscoff and the Artibonite region. The Croix-des-Bouquets area is home to the Chèn Méchan, Kraze Barye and 400 Mawozo gangs, whose leaders are under UN and US sanctions. Romain Le Cour of the Global Initiative Against Transnational Organized Crime said holding the soldiers would give the gangs leverage."
+     ]
+    },
+    {
+     "heading": "Why the timing matters",
+     "paragraphs": [
+      "UN envoy Carlos Ruiz Massieu says more than 35 parties and 3,500 candidates have registered for Haiti's first general election in more than a decade; former president Michel Martelly, who is under Canadian and US sanctions, is among them. Gang violence has displaced nearly 1.5 million people, and more than 230 people were kidnapped between January and mid-September."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Manila Times (AP)",
+     "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations",
+     "url": "https://www.manilatimes.net/2026/10/20/world/americas-emea/gangs-in-haiti-target-foreign-troops-in-the-biggest-attack-since-a-new-force-began-operations/2449305",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    }
+   ],
+   "locations": [
+    {
+     "label": "Croix-des-Bouquets, Port-au-Prince",
+     "mapLabel": "Croix-des-Bouquets",
+     "lon": -72.23,
+     "lat": 18.58
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Port-au-Prince, Haiti",
+    "bounds": [
+     -75.5,
+     17,
+     -68,
+     20.8
+    ],
+    "countries": [
+     "332"
+    ],
+    "labels": [
+     {
+      "label": "Caribbean Sea",
+      "lon": -73.5,
+      "lat": 17.4,
+      "kind": "water"
+     },
+     {
+      "label": "Dominican Republic",
+      "lon": -69.6,
+      "lat": 19.6
+     }
+    ],
+    "alt": "A map of Hispaniola with Haiti highlighted, marking Croix-des-Bouquets, on the northeastern edge of Port-au-Prince, where the attack took place.",
+    "caption": "Haiti highlighted for context · approximate reporting locations"
+   }
+  },
+  {
+   "id": "shakahola-verdict",
+   "threadId": "shakahola-cult-deaths",
+   "threadTitle": "The Shakahola deaths",
+   "threadSummary": "The deaths of hundreds of followers of a Kenyan preacher who urged extreme fasting, and the trials that followed.",
+   "section": "world",
+   "title": "Kenyan court convicts cult leader Paul Mackenzie over 191 Shakahola deaths",
+   "category": "Justice",
+   "region": "Africa · Kenya",
+   "regions": [
+    "africa"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-19",
+   "body": "Kenya's High Court in Mombasa found preacher Paul Mackenzie and 28 co-accused guilty on Monday over the deaths of 190 children and one adult among followers he urged to fast to death in Shakahola Forest between 2021 and 2023. The judge rejected the defence's argument that the victims fasted of their own will. More than 120 witnesses testified. Sentencing is set for November 6. Mackenzie still faces separate manslaughter and terrorism charges, and the national human rights commission has put the wider death toll at 429.",
+   "whatChanged": "After a trial that began in 2024, the court has delivered the first verdict over the Shakahola deaths.",
+   "whyMatters": "The conviction is the first legal accounting for one of the deadliest cult tragedies in recent history and adds pressure on Kenya to regulate religious groups.",
+   "uncertainty": "Sentences are not yet known, many victims remain unidentified, and further charges are still pending.",
+   "watchNext": "Sentencing on November 6, the remaining manslaughter and terrorism cases, and any move to regulate churches.",
+   "keyFacts": [
+    "Mackenzie and 28 others convicted on October 19 at the High Court in Mombasa",
+    "The case covered 191 deaths: 190 children and one adult",
+    "More than 120 witnesses testified",
+    "Sentencing set for November 6, 2026",
+    "Kenya's human rights commission put the Shakahola death toll at 429 in 2024"
+   ],
+   "report": [
+    {
+     "heading": "The verdict",
+     "paragraphs": [
+      "Mackenzie and his co-accused had pleaded not guilty in 2024 to 191 counts of murder. Prosecutors said he ran a structured hierarchy of death on an 800-acre ranch in Kilifi County, with children made to starve first, followed by teenagers, women and men. The defence argued the case rested on circumstantial evidence, hearsay and inconclusive forensics, and that followers fasted voluntarily. Justice Diana Kavedza-Mochache rejected that argument, TRT World reports."
+     ]
+    },
+    {
+     "heading": "How the case came to light",
+     "paragraphs": [
+      "A human rights group alerted authorities in April 2023. Police rescued some followers and found shallow mass graves in the forest. Kenya's National Commission on Human Rights put the toll at 429 in 2024, and more bodies have been found since. In January 2026 he was charged over 52 bodies found in a nearby village. He founded the Good News International Church in 2003 and had been arrested in 2017 and 2019 over radicalisation and the starvation of two children."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "The court will sentence the 29 on November 6. Mackenzie also faces separate manslaughter and terrorism charges, to which he has pleaded not guilty, including a case over 52 more bodies. The case has fuelled calls for oversight of religious organisations to prevent exploitation presented as faith, a debate the verdict is likely to sharpen."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Citizen Digital",
+     "title": "Court finds Mackenzie, 28 others guilty over 191 Shakahola deaths",
+     "url": "https://citizen.digital/article/court-finds-mackenzie-28-others-guilty-over-191-shakahola-deaths-n392346",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TRT World",
+     "title": "Kenyan court convicts cult leader Paul Mackenzie over Shakahola massacre",
+     "url": "https://www.trtworld.com/article/e858f2ef9b56",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    }
+   ],
+   "locations": [
+    {
+     "label": "Mombasa (High Court)",
+     "mapLabel": "Mombasa",
+     "lon": 39.67,
+     "lat": -4.04
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Kenya's coast",
+    "bounds": [
+     33,
+     -6,
+     43,
+     6
+    ],
+    "countries": [
+     "404"
+    ],
+    "labels": [
+     {
+      "label": "Indian Ocean",
+      "lon": 41.8,
+      "lat": -2.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of Kenya, highlighted, with Mombasa marked on the coast, where the High Court delivered the verdict. Shakahola Forest lies in Kilifi County, north of Mombasa.",
+    "caption": "Kenya highlighted · Mombasa marks the court, not the forest"
+   }
+  },
+  {
+   "id": "putin-cabinet-reshuffle",
+   "threadId": "russia-politics",
+   "threadTitle": "Russia's politics",
+   "threadSummary": "Power, personnel and policy inside the Russian state during the war.",
+   "section": "more",
+   "title": "Putin approves a cabinet reshuffle as Russia's budget strains",
+   "whatChanged": "Putin endorsed personnel changes to the government proposed by Prime Minister Mikhail Mishustin, the Kremlin said on Monday.",
+   "body": "The changes follow September's State Duma election and come as Russia contends with a growing budget deficit, higher taxes and high interest rates, Reuters reports. Nominees go to parliament for approval. bne IntelliNews reports that the reshuffle replaces nearly half the deputy prime ministers and promotes the finance team; individual new roles had not been confirmed in open reporting.",
+   "eventDate": "2026-10-19",
+   "category": "Politics",
+   "region": "Europe · Russia",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Internazionale (Reuters)",
+     "title": "Putin approves Russian government reshuffle after parliamentary election, state media report",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/19/putin-set-to-reshuffle-russia-s-government",
+     "publishedAt": "2026-10-19 09:10 CEST",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "bne IntelliNews",
+     "title": "Putin approves Russian cabinet reshuffle, promoting finance team",
+     "url": "https://www.intellinews.com/putin-approves-russian-cabinet-reshuffle-promoting-finance-team-477138/",
+     "publishedAt": "2026-10-20 07:57 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "west-bank-settler-arrests",
+   "threadId": "west-bank-violence",
+   "threadTitle": "Violence in the West Bank",
+   "threadSummary": "Settler and military violence in the occupied West Bank and its political fallout.",
+   "section": "more",
+   "title": "Israel arrests suspects over settler attacks on diplomats and a US photographer",
+   "whatChanged": "Police detained suspects after masked settlers attacked a Washington Post photographer on Friday and French, Belgian and Polish diplomats on Saturday.",
+   "body": "Reports put the number detained at eight or ten. The US and the three European governments condemned the attacks; Foreign Minister Gideon Saar blamed Israeli rioters, while Prime Minister Benjamin Netanyahu said the diplomats had not coordinated their visit. The rights group Yesh Din counts more than 170 settler attacks since September 27, a week before Israel's October 27 election.",
+   "eventDate": "2026-10-16 / 2026-10-19",
+   "category": "Conflict",
+   "region": "Middle East · West Bank",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Arab News (Reuters)",
+     "title": "Israel police arrest suspects over settler attacks on US journalist, European diplomats",
+     "url": "https://www.arabnews.com/middle-east/israel-police-arrest-suspects-over-settler-attacks-on-us-journalist-european-diplomats-3007096",
+     "publishedAt": "2026-10-19 05:22 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "mali-hrw-civilian-killings",
+   "threadId": "sahel-conflict",
+   "threadTitle": "War in the Sahel",
+   "threadSummary": "Fighting between Sahel juntas, their Russian partners and armed groups, and its toll on civilians.",
+   "section": "more",
+   "title": "Human Rights Watch accuses Mali's army, Russian forces and insurgents of killing civilians",
+   "whatChanged": "A new report documents indiscriminate drone strikes by Mali's military and executions of captured soldiers by armed groups.",
+   "body": "HRW says army drone strikes hit a health facility in Kidal on July 29 and a market in Bandiagara on August 19, killing six, and documents killings involving the army and Russia's Africa Corps in the Ségou and Mopti regions. It also found that JNIM and the Azawad Liberation Front executed at least 19 captured soldiers near Gao in July. ACLED data cited in the coverage counts 89 civilians killed in 49 air strikes from April to August, double the toll a year earlier.",
+   "eventDate": "2026-10-19",
+   "category": "Human rights",
+   "region": "Africa · Mali",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Mali's military and armed groups committing abuses against civilians: HRW",
+     "url": "https://www.aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "canada-september-inflation",
+   "threadId": "canada-economy",
+   "threadTitle": "Canada's economy",
+   "threadSummary": "Prices, growth and interest rates in Canada amid the US trade war.",
+   "section": "more",
+   "title": "Canada's inflation edges up to 3.1% on fuel prices",
+   "whatChanged": "Consumer prices rose 3.1% in the year to September, up from 3.0% in August, Statistics Canada said on Monday.",
+   "body": "Gasoline was up 27.8% on a year earlier and fuel oil 57.8%, pushing inflation above 5% in all three Maritime provinces, while grocery inflation slowed to 1.7%. The Bank of Canada's preferred core measures eased slightly. The bank decides on rates on October 28 and has said it is prepared to raise them if needed.",
+   "eventDate": "2026-10-19",
+   "category": "Economy",
+   "region": "North America · Canada",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Statistics Canada",
+     "title": "The Daily — Consumer Price Index, September 2026",
+     "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+     "publishedAt": "2026-10-19",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "BNN Bloomberg (The Canadian Press)",
+     "title": "Inflation data shows high energy prices still contained, for now: economists",
+     "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/19/higher-gas-prices-drove-inflation-up-to-31-in-september-statcan/",
+     "publishedAt": "2026-10-19 05:50 EDT, updated 12:30",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "scotus-911-plea-deal",
+   "threadId": "us-supreme-court",
+   "threadTitle": "The US Supreme Court",
+   "threadSummary": "Major cases and rulings before the US Supreme Court.",
+   "section": "more",
+   "title": "The Supreme Court declines to revive the 9/11 plea deals",
+   "whatChanged": "The justices turned down an appeal to restore plea agreements for Khalid Sheikh Mohammed and two other 9/11 defendants.",
+   "body": "The deals would have traded guilty pleas for life sentences without the death penalty, but then-Defence Secretary Lloyd Austin threw them out in 2024; a trial is now set for 2028. The same day the court agreed to hear a challenge to admissions at four selective middle schools in Montgomery County, Maryland, where parents argue a race-neutral policy was designed to disadvantage Asian American pupils.",
+   "eventDate": "2026-10-19",
+   "category": "Law",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "ABC News (AP)",
+     "title": "Supreme Court rejects effort to revive Khalid Sheikh Mohammed plea deal",
+     "url": "https://abcnews.com/US/wireStory/supreme-court-rejects-effort-revive-khalid-sheikh-mohammed-137379605",
+     "publishedAt": "2026-10-19 10:07",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Click2Houston (AP)",
+     "title": "Supreme Court to hear case on race in middle school admissions",
+     "url": "https://www.click2houston.com/news/national/2026/10/19/supreme-court-to-hear-case-on-race-in-middle-school-admissions/",
+     "publishedAt": "2026-10-19 15:32",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "china-tunnel-boring-export-controls",
+   "threadId": "china-export-controls",
+   "threadTitle": "China's export controls",
+   "threadSummary": "Beijing's licensing of strategic goods and its effect on trading partners.",
+   "section": "more",
+   "title": "China adds tunnel boring machines to its export controls",
+   "whatChanged": "From November 18, exporters will need a licence to ship tunnel boring machines under China's dual-use rules.",
+   "body": "The Commerce Ministry update also tightens controls on drone-related items and dredgers. India, which relies heavily on imported machines for metro and highway tunnels, faces new uncertainty for its infrastructure projects, Business Today reports.",
+   "eventDate": "2026-10-19",
+   "category": "Trade",
+   "region": "Asia · China & India",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Business Today",
+     "title": "China announces export controls on tunnel boring machines. Challenge for India's infra push?",
+     "url": "https://www.businesstoday.in/india/story/china-announces-export-controls-on-tunnel-boring-machines-challenge-for-indias-infra-push-562564-2026-10-19",
+     "publishedAt": "2026-10-19 19:22 IST",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "postgres-19-ai-review-delay",
+   "threadId": "ai-in-software",
+   "threadTitle": "AI in software development",
+   "threadSummary": "How AI tools are changing the way software is written, reviewed and shipped.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "AI code review finds so many bugs that PostgreSQL 19 is delayed",
+   "category": "Software engineering",
+   "region": "Global · open source",
+   "regions": [],
+   "status": "This week",
+   "eventDate": "2026-10-10 / 2026-10-16",
+   "body": "PostgreSQL, one of the most widely used open-source databases, has pushed version 19 back to November 19 after an unusually long list of late fixes. Release candidate 1 shipped on October 15, and a second has been added for November 12. Core developer Peter Eisentraut attributed part of the pressure to LLM-assisted code review, which surfaced about 40 defect reports faster than people could resolve them. Several features, including SQL property-graph queries, were pulled and may arrive in version 20.",
+   "whatChanged": "A major open-source project has delayed a release because AI review found more problems than its maintainers could fix in time.",
+   "whyMatters": "It is a concrete case of AI raising software quality by catching bugs before release, while shifting the bottleneck to the human time needed to review and fix them.",
+   "hook": "AI made the bugs visible earlier; it did not make fixing them any faster.",
+   "uncertainty": "How many defects came from AI review rather than human testers has not been quantified, and the account of the 40-report queue comes from press coverage of a developer's remarks.",
+   "watchNext": "Whether RC2 on November 12 and release on November 19 hold, and whether the project adopts a formal policy on AI contributions.",
+   "keyFacts": [
+    "PostgreSQL 19 general availability moved to November 19, 2026",
+    "RC1 released October 15; an extra RC2 scheduled for November 12",
+    "About 40 defect reports in the queue, per Peter Eisentraut",
+    "SQL/PGQ property-graph queries removed from version 19"
+   ],
+   "report": [
+    {
+     "heading": "What changed",
+     "paragraphs": [
+      "On October 10 the release team told the pgsql-hackers list that the volume of fixes added to back branches was large enough to justify a second release candidate, and moved general availability to November 19, calling this an atypical cycle. The project normally ships a major version each autumn. Through the beta, a series of features was reverted, among them SQL/PGQ property-graph queries, which joined the SQL standard in 2023; others, such as REPACK CONCURRENTLY, remain."
+     ]
+    },
+    {
+     "heading": "The role of AI",
+     "paragraphs": [
+      "Eisentraut said LLM-assisted reviews found more problems than the team could resolve before release, and that a typical fix may be a few lines but still needs review, testing and closing. He stressed, according to DiarioBitcoin, that AI did not cause the defects and that most new features were not written with AI; it exposed issues that in earlier cycles might have surfaced only after release and been patched over years. A Snowflake engineering post from September describes contributors using AI tools to find bugs and build reproducible test cases, and notes the project has no formal AI contribution policy yet.",
+      "Tom Lane, a long-time core developer, argued that shipping SQL/PGQ now would likely produce bugs that could not be fixed before version 20."
+     ]
+    },
+    {
+     "heading": "Assessment",
+     "paragraphs": [
+      "This is a modest, real-world signal rather than a measured study: AI review appears to be catching defects earlier, and the cost shows up as maintainer time and a later release."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "PostgreSQL pgsql-hackers mailing list",
+     "title": "Updated PostgreSQL RC / GA dates",
+     "url": "https://www.postgresql.org/message-id/f161fbb7-e193-42eb-bec7-4cfc1af74a50@postgresql.org",
+     "publishedAt": "2026-10-10",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "DiarioBitcoin",
+     "title": "PostgreSQL 19 llegará en noviembre tras detectar más fallos durante la revisión con IA",
+     "url": "https://www.diariobitcoin.com/tecnologia/postgresql-19-llegara-en-noviembre-tras-detectar-mas-fallos-durante-la-revision-con-ia/",
+     "publishedAt": "2026-10-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Snowflake Engineering Blog",
+     "title": "What Is Happening with PostgreSQL 19?",
+     "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-release-delay-feature-reverts/",
+     "publishedAt": "2026-09-16",
+     "kind": "Analysis"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-20/postgres-19-ai-review.svg",
+    "alt": "A stack of database disks with a copper magnifying glass over a crack in the top disk, for AI-assisted review finding bugs that delayed PostgreSQL 19.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "anthropic-junior-hiring-study",
+   "threadId": "ai-and-work",
+   "threadTitle": "AI and work",
+   "threadSummary": "Evidence on how AI is changing jobs, hiring and the way work is done.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Anthropic says junior hires fell to 9% of its technical recruits",
+   "category": "Labour",
+   "region": "Global",
+   "regions": [],
+   "status": "This week",
+   "eventDate": "2026-10-16 / 2026-10-17",
+   "body": "Anthropic has published a study of its own workforce showing that junior staff fell from 21% to 14% of its technical departments between early 2025 and 2026, and from 27% to 9% of technical hires, even as total technical hiring grew. Commits per engineer rose fivefold in six months, agent working hours passed human hours in March, and median meeting time rose 20%. The authors caution that rapid company growth makes AI's own effect hard to isolate.",
+   "whatChanged": "An AI developer has published internal data suggesting its own tools are reshaping who it hires.",
+   "whyMatters": "Entry-level roles are how people learn a profession; if AI-heavy firms stop hiring juniors, the question of how the next generation of engineers is trained becomes urgent.",
+   "hook": "A company's self-reported data, not an economy-wide finding, but a pointed early signal for entry-level jobs.",
+   "uncertainty": "The data are self-published and not independently audited, adoption was not random, and the authors say the results may not generalise.",
+   "watchNext": "Whether other employers or independent researchers publish comparable data on junior hiring.",
+   "keyFacts": [
+    "Junior share of technical staff: 21% to 14%, early 2025 to 2026",
+    "Junior share of technical hires: 27% to 9%",
+    "Commits per engineer five times their level six months earlier",
+    "Median employee meeting time up 20% year on year"
+   ],
+   "report": [
+    {
+     "heading": "What the report found",
+     "paragraphs": [
+      "The study, published on October 16, draws on headcount records, AI usage logs, output metrics, surveys, calendar and Slack data, and interview scorecards. Junior technical postings fell sharply after December 2025. Technical hiring still grew in absolute terms, but sales, finance and recruiting grew faster, and technical departments' share of staff fell from 61% to 56%. In an April survey, about a third of machine-learning managers and a fifth of software managers said they were hiring less because of AI.",
+      "Agent hours overtook human hours in March 2026. Comparing 192 engineers who adopted coding agents with 74 who did not, the authors found higher output after adoption and no difference in revert rates between agent-written and human-written code. Scorecards increasingly mention autonomy and judgment and less often domain expertise."
+     ]
+    },
+    {
+     "heading": "The caveats",
+     "paragraphs": [
+      "The authors list several limits: employees who adopted agents early were already on a steep output trajectory, rapid business growth confounds the effect of AI, more code is not necessarily better code, part of the decline in junior hiring reflects normal expansion, and Anthropic's situation cannot be replicated across the economy. The analysis of junior employment by AI usage is descriptive, not causal. The report is published by a company that sells the tools it studies."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Anthropic",
+     "title": "How employment is changing at Anthropic",
+     "url": "https://anthropic.com/research/employment-at-anthropic",
+     "publishedAt": "2026-10-16, updated 2026-10-17",
+     "kind": "Company research"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-20/anthropic-junior-hiring.svg",
+    "alt": "A career ladder whose two lowest rungs are missing, for Anthropic's report that junior staff make up a shrinking share of its technical hiring.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "alzheimers-microglia-sleep",
+   "threadId": "alzheimers-research",
+   "threadTitle": "Alzheimer's research",
+   "threadSummary": "Studies and trials probing the causes and treatment of Alzheimer's disease.",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "In mice, removing brain immune cells restores sleep lost to Alzheimer's-like disease",
+   "category": "Neuroscience",
+   "region": "North America · United States",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-10-19",
+   "body": "University of Kentucky researchers report that mice with Alzheimer's-like amyloid plaques gained more than two hours of sleep a day after a drug removed about 87% of their microglia, the brain's resident immune cells. The plaques remained. Sleep disruption appeared early, at six months, and did not worsen as plaque burden doubled. The peer-reviewed study appears in Alzheimer's & Dementia. It was done only in mice, and wiping out microglia is not a practical treatment.",
+   "whatChanged": "A mouse study points to the brain's immune response, rather than the plaques themselves, as a driver of early sleep loss in Alzheimer's.",
+   "whyMatters": "Poor sleep is an early feature of Alzheimer's and may worsen it, so a target that improves sleep without clearing plaques would open a different line of research.",
+   "hook": "An early animal finding that reframes a symptom; it is not a treatment.",
+   "uncertainty": "The results come from genetically modified mice; they have not been tested in people, and microglia also protect the brain.",
+   "watchNext": "Whether gentler ways of adjusting microglia reproduce the effect, and whether the EEG markers hold up in human studies.",
+   "keyFacts": [
+    "Mice gained more than two hours of sleep a day after microglia depletion",
+    "The drug PLX3397 removed about 87% of microglia over 14 days",
+    "Amyloid plaques were not reduced",
+    "Published in Alzheimer's & Dementia; mouse study only"
+   ],
+   "report": [
+    {
+     "heading": "The study",
+     "paragraphs": [
+      "Shannon Macauley's lab at the University of Kentucky's Sanders-Brown Center on Aging compared a mouse line that develops amyloid plaques with normal mice at six and 18 months, measuring sleep with implanted EEG and muscle sensors and mapping plaques and microglia in 3D. To test the immune cells' role, mice were fed pexidartinib (PLX3397) for 14 days, depleting about 87% of microglia. Afterwards, the plaque-bearing mice slept more than two hours longer each day, with longer deep non-REM sleep and more transitions into REM sleep, while the plaques stayed in place. A signal-analysis method separated rhythmic brain waves from background activity."
+     ]
+    },
+    {
+     "heading": "What it suggests",
+     "paragraphs": [
+      "Normal ageing mainly reduced REM sleep, whereas the Alzheimer's-like pathology selectively disrupted non-REM sleep, and it did so early: the disruption did not deepen as plaques more than doubled. The authors propose that EEG patterns could become a cheap, repeatable marker of disease, an idea that needs testing in people. The team is now exploring whether tuning microglial activity, rather than removing the cells, could achieve similar benefits; work on drugs such as metformin in this role is experimental.",
+      "The work was funded by the US National Institutes of Health and two charities. The account here is based on the university's release as published by ScienceDaily."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "ScienceDaily (University of Kentucky release)",
+     "title": "\"Mind-blowing\" Alzheimer's breakthrough: Two hours of sleep restored without clearing brain plaques",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+     "publishedAt": "2026-10-19",
+     "kind": "Institutional release"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-20/alzheimers-microglia-sleep.svg",
+    "alt": "A mouse curled up asleep beneath a crescent moon, for a mouse study in which removing brain immune cells restored lost sleep without clearing amyloid plaques.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "gaza-ceasefire-children-aid",
+   "threadId": "gaza-humanitarian",
+   "threadTitle": "Gaza's humanitarian situation",
+   "threadSummary": "Aid, food and living conditions in Gaza under the ceasefire.",
+   "section": "still",
+   "title": "A year into Gaza's ceasefire, children are still being killed and food aid shrinks",
+   "category": "Humanitarian",
+   "region": "Middle East · Gaza",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-10-16 / 2026-10-19",
+   "body": "UNICEF says more than 340 children have been reported killed in Gaza since the ceasefire of October 2025, including seven in the past two weeks, and about 800,000 remain displaced as winter approaches. On Monday the World Food Programme set out the cuts forced by a funding gap: it now supports 1.1 million people instead of 1.6 million, rations have been halved, and daily hot meals fell from 250,000 to 150,000. It needs $450 million to keep operating through March.",
+   "whatChanged": "UNICEF has put a number on child deaths since the truce, and WFP has detailed how deeply it is cutting rations.",
+   "whyMatters": "Two thirds of Gaza's population still faces crisis-level hunger, and halving rations before winter puts the fragile gains of the ceasefire at risk.",
+   "uncertainty": "Child casualty figures are reported counts compiled by UNICEF; how long the commercial-goods halt will last is unclear.",
+   "watchNext": "New donor funding for WFP, whether commercial goods resume, and flooding risk at the Sheikh Radwan stormwater basin.",
+   "keyFacts": [
+    "More than 340 children reported killed since the October 2025 ceasefire, per UNICEF",
+    "About 800,000 children remain displaced",
+    "WFP now supports 1.1 million people, down from 1.6 million",
+    "1.4 million people, 67% of Gaza, face crisis-level food insecurity or worse",
+    "WFP needs $450 million for Gaza and the West Bank through March 2027"
+   ],
+   "report": [
+    {
+     "heading": "Children",
+     "paragraphs": [
+      "UNICEF spokesperson Ricardo Pires told reporters in Geneva that more than 340 children have been reported killed and hundreds injured since the ceasefire; in the two weeks before he spoke, five boys and two girls were killed, at least 33 seriously injured, and two more died of earlier wounds. About 60,000 children have lost one or both parents. Pires warned that the Sheikh Radwan stormwater basin is half full and could flood homes, and that families are filling flour sacks with sand to keep rain out of tents. He urged that both aid and commercial goods keep flowing, after reports that private traders stopped working with Israeli authorities on commercial food trucks."
+     ]
+    },
+    {
+     "heading": "Food aid",
+     "paragraphs": [
+      "WFP said on Monday that about 500,000 people have lost its support. Families receive one food parcel instead of two plus a smaller bag of flour, cash aid has been reduced for 75,000 families, and areas near the Israeli-controlled yellow line now get meals every other day. WFP estimates that 1.4 million people face crisis-level food insecurity or worse, 200,000 of them in emergency conditions, that only one in five children has an adequately varied diet, and that unemployment exceeds 80%. In the West Bank it has halved its caseload to 200,000. It described gains since the ceasefire as modest and fragile."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The European Sting (UN News)",
+     "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+     "url": "https://europeansting.com/2026/10/20/gaza-340-children-killed-despite-ceasefire-agreement-unicef/",
+     "publishedAt": "2026-10-20 10:10 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Türkiye Today (Anadolu)",
+     "title": "UN food agency cuts Gaza aid by one-third, leaving 500,000 without support",
+     "url": "https://www.turkiyetoday.com/region/un-food-agency-cuts-gaza-aid-by-one-third-leaving-500000-without-support-3230641",
+     "publishedAt": "2026-10-20 07:00 GMT+3",
+     "kind": "Reporting"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  {
+   "title": "Oslo · this week",
+   "text": "Zelensky meets Norwegian and Finnish leaders on Tuesday, with US envoy Steve Witkoff due for talks; watch for any agreement on arms deliveries or a negotiating format."
+  },
+  {
+   "title": "Alberta · October 21",
+   "text": "Results on the nine other referendum questions, on immigration and provincial powers, are due Wednesday morning after Premier Smith's address on Tuesday evening."
+  },
+  {
+   "title": "Egypt · October 26",
+   "text": "Parliament votes on authorising military support for Saudi Arabia; a two-thirds majority is required to send troops on a combat mission."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "Alberta voted by about three to one to stay in Canada, Canadian inflation edged up on fuel, and the US Supreme Court declined to revive the 9/11 plea deals.",
+   "briefs": [
+    {
+     "title": "Florida issues an arrest warrant for Raúl Castro",
+     "text": "Florida's attorney general announced a state warrant charging the 95-year-old former Cuban leader with conspiracy to commit first-degree murder over the 1996 shootdown of two Brothers to the Rescue planes, which killed four men. Castro already faces a federal indictment over the same incident. Democrats called the timing, on the first day of early voting in Miami-Dade, a political stunt.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "WUSF",
+       "title": "Florida announces arrest warrant for Raúl Castro over deadly 1996 plane shootdowns",
+       "url": "https://www.wusf.org/courts-law/2026-10-20/florida-arrest-warrant-raul-castro-1996-plane-shootdowns",
+       "publishedAt": "2026-10-20 05:00 EDT",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Ukrainians and Sudanese keep deportation protection for now",
+     "text": "Temporary Protected Status for more than 100,000 Ukrainians and about 1,800 Sudanese was due to expire on October 19, but the Department of Homeland Security said on Sunday they retain protection until final decisions are made. The administration has ended TPS for more than a million people from over a dozen countries, including Haiti, Venezuela and Afghanistan.",
+     "eventDate": "October 18, 2026",
+     "sources": [
+      {
+       "publisher": "CBS News",
+       "title": "Immigrants from Ukraine and Sudan to retain deportation protections for now",
+       "url": "https://www.cbsnews.com/news/ukraine-sudan-immigrants-deportation-protections-tps/",
+       "publishedAt": "2026-10-18 13:44 EDT",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Gangs in Haiti mounted their biggest attack yet on the international force, Colombia passed a record budget, and Mexico halted Brazilian poultry imports.",
+   "briefs": [
+    {
+     "title": "Colombia's Congress passes a record 2027 budget",
+     "text": "The Senate approved a 634.9 trillion-peso budget, about $201 billion, on Monday, and the lower house followed early Tuesday by 112 votes to one. It trims peace-accord spending, raises defence spending and projects a deficit of 9.4% of GDP, which the government plans to narrow with a separate fiscal law.",
+     "eventDate": "October 19–20, 2026",
+     "sources": [
+      {
+       "publisher": "93.3 The Drive (Reuters)",
+       "title": "Colombian Congress approves $201.1 billion budget for 2027",
+       "url": "https://www.933thedrive.com/2026/10/20/colombian-congress-approves-201-1-billion-budget-for-2027/",
+       "publishedAt": "2026-10-20",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Mexico suspends Brazilian poultry imports over Newcastle disease",
+     "text": "Mexico's animal health agency, Senasica, halted imports of Brazilian poultry meat, hatching eggs, chicks and some live birds, including products carried by travellers, after an outbreak was confirmed on a turkey farm in Santa Catarina. No date has been set for imports to resume.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "Infobae (EFE)",
+       "title": "México suspende importaciones avícolas de Brasil ante brote de la enfermedad de Newcastle",
+       "url": "https://www.infobae.com/america/agencias/2026/10/20/mexico-suspende-importaciones-avicolas-de-brasil-ante-brote-de-la-enfermedad-de-newcastle/",
+       "publishedAt": "2026-10-19 22:16 EST",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Suspects freed after the killing of a Guatemalan anti-graft prosecutor",
+     "text": "Former prosecutor Juan Francisco Solórzano Foppa was shot dead while refereeing a football match in Guatemala City on Saturday, and a second man was also killed. Two brothers detained minutes later were released within about a day at prosecutors' request for lack of evidence. President Bernardo Arévalo, the US embassy and the EU condemned the killing; who ordered it is unknown.",
+     "eventDate": "October 17–19, 2026",
+     "sources": [
+      {
+       "publisher": "Latin Times",
+       "title": "Guatemalan Anti-Corruption Prosecutor Shot Dead Mid-Match, Suspects Freed in Under 24 Hours",
+       "url": "https://www.latintimes.com/guatemalan-anti-corruption-prosecutor-shot-dead-mid-match-suspects-freed-under-24-hours-600335",
+       "publishedAt": "2026-10-19 16:02 EDT",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Democracy Now!",
+       "title": "Juan Francisco Solórzano Foppa: Prominent Anti-Corruption Lawyer in Guatemala Assassinated",
+       "url": "https://www.democracynow.org/2026/10/19/guatemala",
+       "publishedAt": "2026-10-19",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "Trump questioned Zelensky's role as negotiator before talks in Oslo, Russian drones struck across Ukraine, and Putin approved a cabinet reshuffle.",
+   "briefs": [
+    {
+     "title": "Merz courts investors at an 'Invest in Germany' summit",
+     "text": "Chancellor Friedrich Merz hosted more than 200 executives, including Nvidia chief Jensen Huang, in Berlin on Monday, with closed-door talks continuing on Tuesday; the government is seeking an industrial AI partnership with Nvidia. Several drugmakers have meanwhile paused or cut German investment over new rebate rules. The government has raised its 2026 growth forecast to 1.3%.",
+     "eventDate": "October 19–20, 2026",
+     "sources": [
+      {
+       "publisher": "Yahoo Finance (dpa)",
+       "title": "Merz to host global business leaders, Nvidia CEO at investment summit",
+       "url": "https://finance.yahoo.com/economy/policy/articles/merz-host-global-business-leaders-144824504.html",
+       "publishedAt": "2026-10-19 10:48 EDT",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "A Kenyan court convicted cult leader Paul Mackenzie, Egypt moved toward backing Saudi Arabia militarily, and Human Rights Watch documented civilian killings in Mali.",
+   "briefs": [
+    {
+     "title": "Zimbabwe's ruling party backs Mnangagwa to 2030",
+     "text": "At its conference in Chinhoyi, ZANU-PF confirmed President Emmerson Mnangagwa, 84, as its candidate for an election now due in 2030 and moved its own congress from 2027 to 2029. Constitutional amendments signed in July lengthened terms to seven years and gave parliament, not voters, the power to elect the president.",
+     "eventDate": "October 17–19, 2026",
+     "sources": [
+      {
+       "publisher": "The Herald",
+       "title": "Zanu PF shifts Congress to 2029, backs President Mnangagwa to 2030",
+       "url": "https://www.heraldonline.co.zw/zanu-pf-shifts-congress-to-2029-backs-president-mnangagwa-to-2030/",
+       "publishedAt": "2026-10-18",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Heritage Times",
+       "title": "Zimbabwe: Mnangagwa Emerges Presidential Candidate In Election Due For 2030",
+       "url": "https://www.theheritagetimes.com/zimbabwe-mnangagwa-emerges-presidential-candidate-in-election-due-for-2030/",
+       "publishedAt": "2026-10-19 19:20",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "A Houthi missile strike killed 53 recruits in Yemen, the US warned citizens across 12 countries, and UN agencies reported child deaths and aid cuts in Gaza.",
+   "briefs": [
+    {
+     "title": "Iran's parliament confirms a missile-industry veteran as defence minister",
+     "text": "Lawmakers approved Mehrdad Akhlaghi by 237 of 277 votes cast. He replaces Aziz Nasirzadeh, killed in the February 28 strike that also killed Ayatollah Ali Khamenei. Akhlaghi has run Iran's state weapons maker since 2013 and has been under UN sanctions since 2007 over missile and nuclear work.",
+     "eventDate": "October 18, 2026",
+     "sources": [
+      {
+       "publisher": "Arab News (AFP)",
+       "title": "Iran parliament approves new defense minister: state media",
+       "url": "https://www.arabnews.com/middle-east/iran-parliament-approves-new-defense-minister-state-media-3006982",
+       "publishedAt": "2026-10-18 08:41 UTC",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Amwaj.media",
+       "title": "Iran's 'Missile Man' wins parliament's confidence as defense minister",
+       "url": "https://amwaj.media/en/media-monitor/irans-missile-man-wins-parliaments-confidence-as-defense-minister",
+       "publishedAt": "2026-10-18",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "China extended export licensing to tunnel boring machines, the US pressed a trade route bypassing Russia in Central Asia, and support for Japan's prime minister slipped.",
+   "briefs": [
+    {
+     "title": "Rubio and Central Asian ministers back a route that bypasses Russia",
+     "text": "At a ministerial meeting in Samarkand on Monday, the US and the five Central Asian states endorsed investment in the Trans-Caspian 'Middle Corridor' and cooperation on critical minerals, without new funding figures. Uzbekistan signed the Artemis Accords on space exploration as the 77th country.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "Euronews",
+       "title": "Rubio puts Trans-Caspian trade and critical minerals at centre of Central Asia talks",
+       "url": "https://www.euronews.com/2026/10/19/rubio-puts-trans-caspian-trade-and-critical-minerals-at-centre-of-central-asia-talks",
+       "publishedAt": "2026-10-19 21:53 CEST",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Support for Japan's Takaichi slips after a minister quits",
+     "text": "Agriculture Minister Kazuo Yana resigned over alleged breaches of election-funding rules, after Prime Minister Sanae Takaichi first defended him. Polls showed her support falling, by 11.2 points to 47.1% in one survey and by smaller margins in Yomiuri and Asahi polls, though it remains higher than recent predecessors' near her first anniversary.",
+     "eventDate": "October 17–18, 2026",
+     "sources": [
+      {
+       "publisher": "The Spokesman-Review (Bloomberg)",
+       "title": "Japan PM Takaichi's public support slips after cabinet scandal",
+       "url": "https://www.spokesman.com/stories/2026/oct/18/japan-pm-takaichis-public-support-slips-after-cabi/",
+       "publishedAt": "2026-10-18 19:19 PT",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Australia disclosed what its Ghost Shark drone submarines will carry, and Vanuatu signalled a smaller Chinese police role under its new pact with Australia.",
+   "briefs": [
+    {
+     "title": "Australia reveals Ghost Shark drone subs will carry mines and strike drones",
+     "text": "Defence disclosed previously classified payloads for the Anduril-built uncrewed submarines: up to 12 sea mines, swarms of explosive-carrying aerial drones, and supply caches for special forces. Dozens are being delivered under a A$1.7 billion contract, and the capabilities are being offered to the US and UK under AUKUS.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Australia's fleet of Ghost Sharks will carry armed aerial drones and sea mines",
+       "url": "https://www.abc.net.au/news/2026-10-19/ghost-shark-fleet-aerial-drones-sea-mines-defence/107283746",
+       "publishedAt": "2026-10-19 17:17 AEDT",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Vanuatu expects China's police presence to shrink",
+     "text": "A joint statement posted by Australia's foreign ministry names Australia as Vanuatu's primary policing partner and says the Chinese police arrangement is time-limited and expected to decline. The binding Nakamal Agreement is expected to bring about A$500 million over a decade, though Prime Minister Jotham Napat said he has not approved more Australian police.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Vanuatu says it expects fall in China's police presence after signing Nakamal Agreement with Australia",
+       "url": "https://www.abc.net.au/news/2026-10-19/vanuatu-expects-reduction-in-china-police-presence/107283618",
+       "publishedAt": "2026-10-19 17:10 AEDT",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Fiji's PM rejects claims a constitution bill could delay the election",
+     "text": "Prime Minister Sitiveni Rabuka said the election will be held by February 6, 2027, rejecting Labour's claim that the constitution amendment bill could extend the government's term. SODELPA, a party in his own coalition, has asked for clauses allowing a delay of up to 12 months during a state of emergency to be removed.",
+     "eventDate": "October 18–19, 2026",
+     "sources": [
+      {
+       "publisher": "The Fiji Times",
+       "title": "PM rejects poll delay claims",
+       "url": "https://www.fijitimes.com.fj/pm-rejects-poll-delay-claims/",
+       "publishedAt": "2026-10-18 13:00 Fiji time",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "PINA (Fiji Sun)",
+       "title": "SODELPA wants Fiji election delay clause removed",
+       "url": "https://pina.com.fj/2026/10/19/sodelpa-wants-fiji-election-delay-clause-removed/",
+       "publishedAt": "2026-10-19",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

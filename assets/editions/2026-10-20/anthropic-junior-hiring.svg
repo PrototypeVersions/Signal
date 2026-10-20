@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="A copper career ladder whose two lowest rungs are missing, for Anthropic's report that junior staff make up a shrinking share of its technical hiring.">
+<title>A copper career ladder whose two lowest rungs are missing, for Anthropic's report that junior staff make up a shrinking share of its technical hiring.</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient><radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter></defs><rect width="1200" height="800" fill="url(#bg)"/><path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/><path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/>
+<circle cx="600" cy="300" r="200" fill="#c98b5a" opacity=".10" filter="url(#glow)"/>
+<path d="M500 640 L520 120" stroke="#b3c6d6" stroke-width="18" stroke-linecap="round"/>
+<path d="M700 640 L680 120" stroke="#b3c6d6" stroke-width="18" stroke-linecap="round"/>
+<g stroke="#c98b5a" stroke-width="14" stroke-linecap="round">
+<path d="M517 190 H683"/><path d="M514 270 H686"/><path d="M511 350 H689"/><path d="M508 430 H692"/>
+</g>
+<g stroke="#5a7791" stroke-width="6" stroke-dasharray="10 14" stroke-linecap="round" opacity=".7">
+<path d="M505 510 H695"/><path d="M502 590 H698"/>
+</g>
+<path d="M330 640 h70 M800 640 h70" stroke="#2a4155" stroke-width="6"/>
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

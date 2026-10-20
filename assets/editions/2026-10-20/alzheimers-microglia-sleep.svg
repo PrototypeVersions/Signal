@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="A mouse curled up asleep beneath a crescent moon, for a mouse study in which removing brain immune cells restored lost sleep without clearing amyloid plaques.">
+<title>A mouse curled up asleep beneath a crescent moon, for a mouse study in which removing brain immune cells restored lost sleep without clearing amyloid plaques.</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient><radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter></defs><rect width="1200" height="800" fill="url(#bg)"/><path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/><path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/>
+<circle cx="820" cy="200" r="120" fill="#dce7f0" opacity=".12" filter="url(#glow)"/>
+<path d="M860 120 a90 90 0 1 0 0 170 a70 70 0 1 1 0 -170 z" fill="#dce7f0"/>
+<g fill="#c9d9e6" opacity=".6"><circle cx="300" cy="150" r="3"/><circle cx="420" cy="230" r="2"/><circle cx="1010" cy="330" r="3"/><circle cx="200" cy="310" r="2"/><circle cx="640" cy="120" r="2"/></g>
+<ellipse cx="560" cy="580" rx="200" ry="70" fill="#14283a"/>
+<path d="M400 600 C400 480 520 430 610 450 C700 470 730 540 720 590 C710 625 430 630 400 600 Z" fill="#9fb4c6" stroke="#5a7791" stroke-width="3"/>
+<path d="M440 590 C430 540 470 520 500 535 C530 550 520 590 500 600" fill="#b3c6d6" stroke="#5a7791" stroke-width="3"/>
+<circle cx="470" cy="508" r="30" fill="#c9d9e6" stroke="#5a7791" stroke-width="3"/>
+<circle cx="470" cy="508" r="15" fill="#c98b5a" opacity=".6"/>
+<path d="M447 560 q14 8 28 0" fill="none" stroke="#09131d" stroke-width="4" stroke-linecap="round"/>
+<circle cx="420" cy="575" r="5" fill="#c98b5a"/>
+<path d="M720 590 C800 600 820 540 780 520 C750 505 720 530 750 545" fill="none" stroke="#c98b5a" stroke-width="7" stroke-linecap="round"/>
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

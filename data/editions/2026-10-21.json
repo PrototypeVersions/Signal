@@ -1,0 +1,1632 @@
+{
+ "date": "2026-10-21",
+ "number": 4,
+ "cutoff": "2026-10-21T11:00:00Z",
+ "cutoffLabel": "6:00 AM CT",
+ "opening": "US envoy Steve Witkoff met Vladimir Putin a day after Ukraine talks in Oslo, and Russia freed a detained American. A drone strike in disputed Abyei killed at least 153, Yemen's Shabwa toll rose to 73, France imposed curfews, and Nigeria confirmed its first Ebola case.",
+ "leadStoryId": "witkoff-putin-st-petersburg",
+ "stories": [
+  {
+   "id": "witkoff-putin-st-petersburg",
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia's war on Ukraine, the diplomacy around it and its spillover into European security.",
+   "section": "world",
+   "title": "Witkoff meets Putin a day after the Oslo talks, and Russia frees a detained American",
+   "category": "War & diplomacy",
+   "region": "Europe · Russia, Ukraine & Norway",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-20 / 2026-10-21",
+   "body": "US envoy Steve Witkoff met Vladimir Putin at the Constantine Palace near St. Petersburg on Wednesday, a day after talks in Oslo with Volodymyr Zelensky and the leaders of Norway and Finland. According to a RIA Novosti readout, Putin said Stephen Hubbard, a 74-year-old Michigan teacher held since 2022, had been freed and taken to Pulkovo Airport. Zelensky said the Oslo talks covered several ceasefire formats and NATO-style security guarantees, with territory still unsettled. Overnight, Russian drones and missiles killed at least nine people across Ukraine.",
+   "whatChanged": "The US envoy took proposals from the Oslo talks directly to Putin, and Russia released a detained American as the meeting began.",
+   "whyMatters": "It is the most direct US–Russian contact on ending the war in weeks, and it comes while Washington's relations with Kyiv are strained over arms deliveries and Trump's criticism of Zelensky.",
+   "uncertainty": "Accounts of the meeting so far come from Russian state media; no US readout or result had been published by our cutoff, and independent US confirmation of Hubbard's release was still pending.",
+   "watchNext": "Russia's answer on the security-guarantee document, which Zelensky said he expected within a day, and any Trump–Putin contact ahead of the APEC summit in China in November.",
+   "keyFacts": [
+    "Witkoff met Putin at the Constantine Palace, St. Petersburg, on October 21",
+    "Stephen Hubbard, 74, detained in eastern Ukraine in April 2022, was released, per a RIA Novosti readout",
+    "Oslo talks on October 20 brought together Zelensky, Witkoff, Jonas Gahr Støre and Alexander Stubb",
+    "Overnight attack: 186 drones launched, 150 downed; at least 9 killed and 45 wounded",
+    "Putin said he wanted to discuss a possible meeting with Trump in China (TASS)"
+   ],
+   "report": [
+    {
+     "heading": "What happened in St. Petersburg",
+     "paragraphs": [
+      "Witkoff landed in St. Petersburg on Wednesday morning, and Kremlin aide Yuri Ushakov said the meeting with Putin would take place at the Constantine Palace during the first half of the day. Kirill Dmitriev, Putin's investment envoy, met him at the airport and joined the talks, Russian state media reported. TASS quoted Putin as saying he had thoughts to share and wanted to discuss a possible meeting with Donald Trump in China, along with the wars in Ukraine and the Gulf. Russian outlets, relayed by UNN, said Witkoff described the Oslo talks as promising and had brought documents setting out US positions.",
+      "According to a RIA Novosti readout reported by ABC News, Putin said Stephen Hubbard had been released and taken to Pulkovo Airport, and Witkoff thanked him. Hubbard, a retired teacher from Michigan who had lived in eastern Ukraine for years, was detained by Russian forces in April 2022 and sentenced to nearly seven years as an alleged mercenary. The State Department considers him wrongfully detained. Trump said on Tuesday he had asked Putin to free him."
+     ]
+    },
+    {
+     "heading": "The Oslo talks",
+     "paragraphs": [
+      "On Tuesday Zelensky met Witkoff, Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre in Oslo. Zelensky said several ceasefire formats were discussed, as were security guarantees modelled on NATO's Article 5, including a lighter version. He said territorial questions must be settled at the level of leaders and repeated his call for a three-way meeting with Trump and Putin. No agreement was announced."
+     ]
+    },
+    {
+     "heading": "Strain with Washington and the overnight strikes",
+     "paragraphs": [
+      "The talks follow Trump's remark on Monday that Zelensky might need someone else to negotiate. Zelensky has accused the Pentagon of holding back interceptors paid for by allies; Secretary of State Marco Rubio said nothing had changed and denied any political directive to hurt Ukraine.",
+      "Overnight into Wednesday, Russia launched 186 drones and cruise missiles, and Ukraine's air force said it downed 150 drones. A drone set fire to a 24-storey building in Kyiv, killing two people, and the Kyiv Independent counted at least nine dead and 45 wounded nationwide."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "ABC30 (ABC News / AP)",
+     "title": "Detained American Stephen Hubbard released by Russia as Witkoff meets Putin",
+     "url": "https://abc30.com/story/detained-american-stephen-hubbard-released-russia-witkoff-meets-putin/19963895/",
+     "publishedAt": "2026-10-21 09:50 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TASS",
+     "title": "Putin intends to discuss with Witkoff potential meeting with Trump in China",
+     "url": "https://tass.com/politics/2205267",
+     "publishedAt": "2026-10-21",
+     "kind": "State media"
+    },
+    {
+     "publisher": "UNN",
+     "title": "Witkoff met with Putin in St. Petersburg - initial statements include proposals to end the war",
+     "url": "https://unn.ua/en/news/witkoff-met-with-putin-in-st-petersburg-initial-statements-include-proposals-to-end-the-war",
+     "publishedAt": "2026-10-21 09:40 Kyiv time",
+     "kind": "Reporting (relaying Russian state media)"
+    },
+    {
+     "publisher": "Ukrinform",
+     "title": "Zelensky on meeting with Witkoff: There are proposals on ceasefire, NATO-like security guarantees",
+     "url": "https://www.ukrinform.net/rubric-polytics/4176475-zelensky-on-meeting-with-witkoff-there-are-proposals-on-ceasefire-natolike-security-guarantees.html",
+     "publishedAt": "2026-10-20 21:27 Kyiv time",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "Zelenskyy calls for trilateral talks with Putin and Trump after meeting with US delegation in Oslo",
+     "url": "https://www.euronews.com/2026/10/20/trump-envoy-witkoff-to-meet-zelenskyy-in-oslo-before-planned-putin-talks-in-moscow",
+     "publishedAt": "2026-10-20 10:21 CEST, updated 19:58",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+     "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Independent",
+     "title": "Russian attacks kill at least 9, wound 45 across Ukraine, as yet another deadly drone attack strikes Kyiv",
+     "url": "https://kyivindependent.com/russian-attacks-kill-at-least-9-wound-45-across-ukraine-as-yet-another-deadly-drone-attack-strikes-kyiv/",
+     "publishedAt": "2026-10-21 11:58 Kyiv time",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Oslo, St. Petersburg and Kyiv",
+    "bounds": [
+     4,
+     44,
+     42,
+     64
+    ],
+    "countries": [
+     "804",
+     "643",
+     "578",
+     "246"
+    ],
+    "labels": [
+     {
+      "label": "Baltic Sea",
+      "lon": 19.5,
+      "lat": 57.5,
+      "kind": "water"
+     },
+     {
+      "label": "Black Sea",
+      "lon": 34.5,
+      "lat": 44.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of northern and eastern Europe with Ukraine, Russia, Norway and Finland highlighted for context, marking Oslo, where Tuesday's talks took place, St. Petersburg, where Witkoff met Putin, and Kyiv, hit by drones overnight.",
+    "caption": "Countries highlighted for context · markers show meeting places and Kyiv"
+   },
+   "locations": [
+    {
+     "label": "Oslo talks, October 20",
+     "mapLabel": "Oslo",
+     "lon": 10.75,
+     "lat": 59.91
+    },
+    {
+     "label": "Constantine Palace, St. Petersburg",
+     "mapLabel": "St. Petersburg",
+     "lon": 29.9,
+     "lat": 59.86
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    }
+   ]
+  },
+  {
+   "id": "sudan-abyei-drone-strike",
+   "threadId": "sudan-war",
+   "threadTitle": "Sudan's war",
+   "threadSummary": "The war between Sudan's army and the Rapid Support Forces since April 2023, and its toll on civilians and neighbouring states.",
+   "section": "world",
+   "title": "A drone strike on a fuel market in disputed Abyei kills at least 153",
+   "category": "Conflict",
+   "region": "Africa · Sudan & South Sudan (Abyei)",
+   "regions": [
+    "africa"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-19 / 2026-10-21",
+   "body": "A drone strike on Monday on the Amiet market in Abyei, the oil-rich area claimed by both Sudan and South Sudan, hit fuel depots and trucks and killed at least 153 people, Abyei's caretaker information minister, Yohana Ngor, said on Wednesday, more than doubling the earlier toll. He blamed Sudan's army; sources told Reuters the depot had previously been used by the Rapid Support Forces. South Sudan summoned Sudan's ambassador. A string of drone strikes across Sudan has killed more than 250 people in a week.",
+   "whatChanged": "The toll from Monday's strike rose from 73 to at least 153, making it one of the deadliest single attacks of the war.",
+   "whyMatters": "The strike pulls a jointly administered border zone deeper into Sudan's war and strains relations with South Sudan, at a time when drones have become the leading cause of civilian casualties.",
+   "uncertainty": "Sudan's army had not responded publicly; the toll comes from Abyei officials who expect it to rise, and responsibility has not been independently established.",
+   "watchNext": "Whether the UN Security Council takes up US calls for a humanitarian truce and a wider arms embargo, which China and Russia oppose.",
+   "keyFacts": [
+    "At least 153 killed at Amiet market, Abyei, after the October 19 strike, per Abyei officials",
+    "The toll rose from 73 and was expected to climb further",
+    "South Sudan summoned Sudan's ambassador on October 19",
+    "More than 250 killed in a week of drone strikes across Sudan (The National)",
+    "UN data: more than 1,100 people killed by drones in the first half of 2026"
+   ],
+   "report": [
+    {
+     "heading": "The strike",
+     "paragraphs": [
+      "The attack hit fuel depots and tankers at the Amiet market, north of Abyei town, many of them bound for Darfur. Ngor said on Wednesday that at least 153 people had been killed, up from 73, and that the number would likely rise. A fire was still burning, some bodies had been burned beyond recognition, and video from Tuesday showed charred vehicles and buildings."
+     ]
+    },
+    {
+     "heading": "Who is blamed",
+     "paragraphs": [
+      "Ngor blamed the Sudanese Armed Forces of Gen. Abdel Fattah al-Burhan. Three diplomatic sources, an aid worker and a conflict analyst told Reuters that the depot had been used by the Rapid Support Forces, and officials in the army-backed government say the RSF operates in Abyei, which Ngor denies. Sudan's government had not commented by the time Sudan Tribune reported the diplomatic protest.",
+      "South Sudan's foreign ministry expressed grave concern, summoned Sudan's ambassador and urged Khartoum to avoid endangering civilians. UN spokesman Stéphane Dujarric condemned the drone attacks in Abyei and elsewhere in Sudan on Tuesday."
+     ]
+    },
+    {
+     "heading": "A week of drone attacks",
+     "paragraphs": [
+      "Abyei was one of several deadly strikes. Al Jazeera reported about 80 people killed at a transport hub in al-Dabba on Sunday, 17 in Nyala and 41 displaced people in Blue Nile state on Friday, with the army and the RSF each accused by different groups. The UN has said drones caused more than 1,100 deaths in the first half of the year, and a UN fact-finding mission said last month the army had used foreign-supplied drones in attacks that harmed civilians."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Abyei has been jointly claimed since South Sudan's independence in 2011 and borders Kordofan, a centre of the fighting. The United States has urged the Security Council to press for a humanitarian truce and a broader arms embargo, which China and Russia oppose."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The National",
+     "title": "Sudanese army accused of drone strike in Abyei region as death toll rises to 153",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/21/sudanese-army-accused-of-drone-strike-in-abyei-region-as-death-toll-rises-to-153/",
+     "publishedAt": "2026-10-21, updated 10:21",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Sudan Tribune",
+     "title": "South Sudan Summons Sudanese Envoy Over Drone Strike on Abyei Market",
+     "url": "https://sudantribune.com/article/320174",
+     "publishedAt": "2026-10-19 22:23 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Drone attacks across Sudan escalate, 160 people reported killed",
+     "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan",
+     "publishedAt": "2026-10-19, updated 2026-10-20",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Abyei, between Sudan and South Sudan",
+    "bounds": [
+     22,
+     3,
+     39,
+     19
+    ],
+    "countries": [
+     "729",
+     "728"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 38,
+      "lat": 18.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of Sudan and South Sudan, both highlighted for context, with a marker at the approximate location of the Amiet market in the disputed Abyei area on their shared border, and markers for Khartoum and Juba.",
+    "caption": "Sudan and South Sudan highlighted for context · Abyei marker is approximate"
+   },
+   "locations": [
+    {
+     "label": "Amiet market, Abyei (approximate)",
+     "mapLabel": "Abyei",
+     "lon": 28.4,
+     "lat": 9.8
+    },
+    {
+     "label": "Khartoum",
+     "lon": 32.53,
+     "lat": 15.5
+    },
+    {
+     "label": "Juba",
+     "lon": 31.58,
+     "lat": 4.86
+    }
+   ]
+  },
+  {
+   "id": "yemen-saudi-escalation",
+   "threadId": "gulf-conflict",
+   "threadTitle": "Iran war and the Gulf",
+   "threadSummary": "The war with Iran and its spread to Gulf shipping, energy and neighbouring states.",
+   "section": "world",
+   "title": "The toll from a Houthi strike on Yemeni recruits rises to 73 as Iran rebuffs US terms",
+   "category": "Conflict",
+   "region": "Middle East · Yemen, Saudi Arabia & Iran",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-19 / 2026-10-21",
+   "body": "The death toll from Monday's Houthi missile strike on a government training camp in Yemen's Shabwa province rose to 73, all new recruits, with more than 200 wounded, officials told the Associated Press. The Saudi-led coalition said it intercepted a missile and drones aimed at Riyadh and other cities. In Tehran, parliament speaker Mohammad Bagher Ghalibaf told Pakistan's army chief that Iran had no new message and restated its conditions for talks, as US Defence Secretary Pete Hegseth visited Israel amid reports that renewed strikes are being weighed.",
+   "whatChanged": "The Shabwa toll rose from 53 to 73, and Iran turned away US proposals carried to Tehran by Pakistan.",
+   "whyMatters": "The deadliest attack of Yemen's current escalation comes as diplomacy over the wider Iran war stalls and US and Israeli leaders openly discuss returning to major combat.",
+   "uncertainty": "Iranian claims of mined tankers near Hormuz are unverified, and reports of a Qatari–Pakistani compromise over frozen Iranian funds are contradicted by other reporting.",
+   "watchNext": "Egypt's parliament votes on October 26 on military support for Saudi Arabia, which needs a two-thirds majority for a combat deployment.",
+   "keyFacts": [
+    "73 killed and more than 200 wounded at the al-Alam camp in Shabwa (AP)",
+    "14 people still missing, according to local authorities",
+    "Pakistan's army chief, Asim Munir, was in Tehran on October 20",
+    "Egypt's parliament postponed its vote on aiding Saudi Arabia to October 26"
+   ],
+   "report": [
+    {
+     "heading": "The strike",
+     "paragraphs": [
+      "The Houthis fired ballistic missiles at the al-Alam training camp in Shabwa's Jardan district on Monday while recruits were lining up for training. A senior Yemeni official told AP that all those killed were new recruits aged 18 to 20, and 14 people were still missing. Shabwa's governor said more than 200 were wounded, some critically. The Houthis claimed the attack without giving details. AP described it as the deadliest attack in months; Middle East Eye said it was the deadliest in weeks.",
+      "The Saudi-led coalition said on Tuesday it had intercepted a ballistic missile and a drone aimed at Riyadh, and Gulf News reported further interceptions over the Eastern Province and Medina on Wednesday."
+     ]
+    },
+    {
+     "heading": "Iran and Washington",
+     "paragraphs": [
+      "Pakistan's army chief, Asim Munir, visited Tehran on Tuesday. Ghalibaf told him Iran had no new message and that the United States must meet its conditions, which include a regional ceasefire, the release of frozen assets and the lifting of oil sanctions. President Masoud Pezeshkian said US pressure and sanctions must end before talks begin.",
+      "Hegseth made an unannounced visit to Israel on Monday and met Prime Minister Benjamin Netanyahu. Reporting cited by Gulf News and CBS says they discussed resuming major combat; the White House did not comment, and Iran asked the UN Security Council to meet over US threats. CBS reported a proposal from Qatar and Pakistan involving interest on frozen Iranian funds, but Gulf News called reports of a breakthrough false."
+     ]
+    },
+    {
+     "heading": "Saudi Arabia's allies",
+     "paragraphs": [
+      "Egypt's parliament postponed its vote on military support for Saudi Arabia to October 26 after the National Defence Council approved it. A combat deployment needs a two-thirds majority, and the Egyptian Social Democratic Party has told its MPs to abstain, citing a lack of information on aims, duration and cost."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Philadelphia Inquirer (AP)",
+     "title": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months",
+     "url": "https://www.inquirer.com/news/nation-world/houthi-attack-yemen-training-camp-20261020.html",
+     "publishedAt": "2026-10-20 7:08 a.m. ET",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Middle East Eye",
+     "title": "Death toll from Houthi strike on Yemen government camp rises to 73",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-houthi-strike-yemen-government-camp-rises-73",
+     "publishedAt": "2026-10-20 22:44 BST",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "US-Israel-Iran war: What UAE residents need to know today, Oct. 21, 2026",
+     "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-oct-21-2026-1.500717954",
+     "publishedAt": "2026-10-21, updated 09:46",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "APA (citing ICANA)",
+     "title": "Ghalibaf rejects change in demands during talks with Pakistan army chief",
+     "url": "https://en.apa.az/asia/ghalibaf-rejects-change-in-demands-during-talks-with-pakistan-army-chief-531229",
+     "publishedAt": "2026-10-20 22:03 UTC+4",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "US-Israel-Iran war: Lull nears 'breaking point' — US, Israel weighing new strikes? What to know Oct. 20, 2026",
+     "url": "https://gulfnews.com/uae/us-israel-iran-war-lull-nears-breaking-point-us-israel-weighing-new-strikes-what-to-know-oct-20-2026-1.500716736",
+     "publishedAt": "2026-10-20, updated 09:48",
+     "kind": "Reporting and analysis"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "Live Updates: Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+     "publishedAt": "2026-10-20, updated 8:58 PM EDT",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+     "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia",
+     "publishedAt": "2026-10-19 21:46",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Yemen, Saudi Arabia, Egypt and Iran",
+    "bounds": [
+     24,
+     10,
+     62,
+     38
+    ],
+    "countries": [
+     "887",
+     "682",
+     "818",
+     "364"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 38.5,
+      "lat": 20,
+      "kind": "water"
+     },
+     {
+      "label": "Arabian Sea",
+      "lon": 58,
+      "lat": 14,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of the Red Sea and Gulf region with Yemen, Saudi Arabia, Egypt and Iran highlighted for context, marking the approximate location of the Shabwa camp in southern Yemen, Riyadh, Cairo and Tehran.",
+    "caption": "Countries highlighted for context · Shabwa marker is approximate"
+   },
+   "locations": [
+    {
+     "label": "Al-Alam camp, Shabwa (approximate)",
+     "mapLabel": "Shabwa",
+     "lon": 46.8,
+     "lat": 14.6
+    },
+    {
+     "label": "Riyadh",
+     "lon": 46.72,
+     "lat": 24.71
+    },
+    {
+     "label": "Cairo",
+     "lon": 31.24,
+     "lat": 30.04
+    },
+    {
+     "label": "Tehran",
+     "lon": 51.39,
+     "lat": 35.69
+    }
+   ]
+  },
+  {
+   "id": "france-unrest",
+   "threadId": "france-unrest",
+   "threadTitle": "France's cost-of-living unrest",
+   "threadSummary": "Student and union protests over living costs and schools, and how the government responds.",
+   "section": "world",
+   "title": "France imposes curfews after its worst rioting in years, and Lecornu turns to the unions",
+   "category": "Civil unrest",
+   "region": "Europe · France",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-18 / 2026-10-21",
+   "body": "Authorities have imposed night curfews in parts of Paris and curfews for minors in Lille, Nice, Lyon and other towns after Saturday's cost-of-living protests, which drew more than half a million people, turned into looting and arson. At least 2,400 people were arrested, almost 1,000 police and gendarmes were injured and at least 3,000 businesses were damaged; Limoges' 19th-century city hall burned. Monday night passed without major incidents. Prime Minister Sébastien Lecornu meets unions on Wednesday and party leaders on Thursday.",
+   "whatChanged": "The government moved from crisis meetings to curfews, and after a calmer Monday night it is opening talks with unions and parties.",
+   "whyMatters": "France is testing whether targeted curfews and negotiation can contain anger over living costs and schools without inflaming it before further protests.",
+   "uncertainty": "Arrest totals differ between official and press counts, and it is unclear whether the main unions will back calls for new demonstrations on Saturday.",
+   "watchNext": "Lecornu's meetings with unions on Wednesday and parties on Thursday, and protests called for Saturday, October 24.",
+   "keyFacts": [
+    "More than 500,000 people protested on October 18",
+    "At least 2,400 arrests (AP); Justice Minister Gérald Darmanin cited more than 2,330 held over the weekend",
+    "Almost 1,000 police and gendarmes injured on Saturday; no deaths, the prime minister said",
+    "Paris curfew from 11 p.m. to 6 a.m. around Place de la République and Les Halles"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "Saturday's demonstrations over living costs and conditions in schools brought more than half a million people onto the streets and turned into looting and arson in several cities. At least 3,000 businesses were damaged or looted, and the 19th-century city hall in Limoges burned and its roof collapsed. Almost 1,000 police and gendarmes were injured, and one protester lost a hand to a police grenade. Lecornu said no one was killed. AP counted at least 2,400 arrests, while Justice Minister Gérald Darmanin said more than 2,330 people were taken into custody over the weekend, 70% of them adults."
+     ]
+    },
+    {
+     "heading": "The response",
+     "paragraphs": [
+      "Interior Minister Laurent Nuñez acknowledged that police lost control in some cities and offered to resign on Sunday; President Emmanuel Macron refused. Paris imposed an 11 p.m. to 6 a.m. curfew around Place de la République and Les Halles and banned gatherings across the city from 8 p.m. Curfews for minors were declared in Lille and neighbouring towns, Nice, Lyon and Coulaines. After a quiet Monday night, Lecornu said more curfews would follow wherever necessary."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Lecornu is meeting union leaders on Wednesday and political parties on Thursday. Protest groups have called for new demonstrations on Saturday, but the main unions have not endorsed them."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera (AFP)",
+     "title": "France PM promises more curfews as authorities seek to regain control",
+     "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night",
+     "publishedAt": "2026-10-20 12:07 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Scripps News (AP)",
+     "title": "Curfews imposed as France confronts widespread violence and looting",
+     "url": "https://www.scrippsnews.com/world/europe/curfews-imposed-as-france-confronts-widespread-violence-and-looting",
+     "publishedAt": "2026-10-20 8:03 a.m. EDT",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "France announces curfews in aftermath of violent protests",
+     "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Curfews across France",
+    "bounds": [
+     -6,
+     41,
+     10,
+     52
+    ],
+    "countries": [
+     "250"
+    ],
+    "labels": [
+     {
+      "label": "Bay of Biscay",
+      "lon": -4.2,
+      "lat": 45.2,
+      "kind": "water"
+     },
+     {
+      "label": "Mediterranean",
+      "lon": 5.4,
+      "lat": 41.9,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of France, highlighted for context, marking Paris, Lille, Lyon and Nice, where curfews were imposed, and Limoges, where the city hall burned.",
+    "caption": "France highlighted for context · markers show cities named in reporting"
+   },
+   "locations": [
+    {
+     "label": "Paris",
+     "lon": 2.35,
+     "lat": 48.86
+    },
+    {
+     "label": "Lille",
+     "lon": 3.06,
+     "lat": 50.63
+    },
+    {
+     "label": "Lyon",
+     "lon": 4.84,
+     "lat": 45.76
+    },
+    {
+     "label": "Nice",
+     "lon": 7.26,
+     "lat": 43.7
+    },
+    {
+     "label": "Limoges",
+     "lon": 1.26,
+     "lat": 45.83
+    }
+   ]
+  },
+  {
+   "id": "kenya-ebola",
+   "threadId": "ebola-east-africa",
+   "threadTitle": "Ebola in East Africa",
+   "threadSummary": "A Bundibugyo-strain outbreak in Congo, with no approved vaccine, and its spread to Kenya and beyond.",
+   "section": "world",
+   "title": "Nigeria confirms its first Ebola case as Kenya's cluster reaches nine",
+   "category": "Health",
+   "region": "Africa · Nigeria & Kenya",
+   "regions": [
+    "africa"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-20",
+   "body": "Nigeria confirmed its first Ebola case of the outbreak on Tuesday: a woman in Abuja who had travelled from Uganda, fell ill on October 7 and was treated at a private hospital for several days before she was diagnosed. Health Minister Muhammad Pate said 44 contacts are being traced. Kenya confirmed a ninth case, a close relative of its first patient who was already in quarantine. The Bundibugyo-strain outbreak, which began in Congo in May and has no licensed vaccine, has caused more than 9,000 cases there.",
+   "whatChanged": "The outbreak has reached West Africa for the first time, with a confirmed case in Nigeria's capital.",
+   "whyMatters": "A case in Africa's most populous country, found only after days of hospital care, widens the area health systems must watch for a strain with no approved vaccine or specific treatment.",
+   "uncertainty": "How the patient was infected is unclear, since Uganda had been declared free of Ebola in July, and test results for her contacts are not yet known.",
+   "watchNext": "Results among Nigeria's 44 contacts over the 21-day monitoring period, and the release of Kenyan contacts who complete monitoring from October 25.",
+   "keyFacts": [
+    "Nigeria's first case: a woman in Abuja who travelled from Uganda; symptoms began October 7",
+    "44 contacts being traced in Nigeria, per Health Minister Muhammad Pate",
+    "Kenya's ninth case confirmed October 20; all nine in one cluster",
+    "Congo has recorded more than 9,000 cases since May",
+    "Bundibugyo strain: no licensed vaccine or specific treatment"
+   ],
+   "report": [
+    {
+     "heading": "Nigeria's case",
+     "paragraphs": [
+      "Nigerian health authorities said the patient travelled to Nigeria from Uganda, developed symptoms on October 7 and was admitted to a private hospital in Abuja on October 11, where she was treated for several days before Ebola was confirmed. She is now in isolation. Pate said 44 contacts are being traced, and health facilities across the country have been put on alert."
+     ]
+    },
+    {
+     "heading": "Kenya's cluster",
+     "paragraphs": [
+      "Kenya confirmed its ninth case on Tuesday, a 24-year-old man who was already in quarantine and is a close relative of the country's first patient, who died in Nairobi on October 5 after travelling from Congo through Uganda. Health Director-General Patrick Amoth said all nine cases belong to one cluster. Officials said 134 of 135 contacts have been traced, and those who complete 21 days of monitoring can go home from October 25."
+     ]
+    },
+    {
+     "heading": "The wider outbreak",
+     "paragraphs": [
+      "Until Tuesday, no case in this outbreak had been confirmed in West Africa. The outbreak, caused by the Bundibugyo strain, has produced more than 9,000 cases in Congo since May. There is no licensed vaccine or specific treatment for this strain. The Epoch Times notes that Uganda was declared free of Ebola in July, which leaves open how the Nigerian patient was exposed; no health authority had explained this by our cutoff."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
+     "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Epoch Times",
+     "title": "Nigeria Confirms 1st Ebola Case in 2026",
+     "url": "https://www.theepochtimes.com/world/nigeria-confirms-1st-ebola-case-in-2026-post-6106664",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Ebola cases from Congo to Nigeria",
+    "bounds": [
+     -5,
+     -12,
+     46,
+     18
+    ],
+    "countries": [
+     "566",
+     "180",
+     "800",
+     "404"
+    ],
+    "labels": [
+     {
+      "label": "Gulf of Guinea",
+      "lon": 3,
+      "lat": 1.5,
+      "kind": "water"
+     },
+     {
+      "label": "Indian Ocean",
+      "lon": 43,
+      "lat": -8,
+      "kind": "water"
+     }
+    ],
+    "alt": "A map of central Africa with Nigeria, Congo, Uganda and Kenya highlighted for context, marking Abuja, where Nigeria's first case was confirmed, and Nairobi, centre of Kenya's cluster.",
+    "caption": "Countries highlighted for context, not case footprints · markers show Abuja and Nairobi"
+   },
+   "locations": [
+    {
+     "label": "Abuja",
+     "lon": 7.49,
+     "lat": 9.06
+    },
+    {
+     "label": "Nairobi",
+     "lon": 36.82,
+     "lat": -1.29
+    }
+   ]
+  },
+  {
+   "id": "alberta-referendum",
+   "threadId": "alberta-independence",
+   "threadTitle": "Alberta's independence vote",
+   "threadSummary": "A province-wide referendum on whether oil-rich Alberta should begin the legal process toward leaving Canada.",
+   "section": "more",
+   "title": "Alberta's premier rules out another separation vote as immigration questions lean yes",
+   "whatChanged": "Premier Danielle Smith said Alberta will remain a province of Canada and there will be no new separation referendum while she is premier.",
+   "body": "In a televised address on Tuesday evening, Smith promised further political and legal battles over provincial autonomy. Unofficial counts showed yes ahead on eight of the nine other referendum questions, including all five on immigration, with no narrowly ahead on opting out of federal programs; Elections Alberta is due to announce those results on Wednesday. About three in four voters chose to remain in Canada.",
+   "eventDate": "2026-10-20",
+   "category": "Democracy & federalism",
+   "region": "North America · Canada",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Global News",
+     "title": "Danielle Smith calls for unity after separatism rejected in Alberta referendum",
+     "url": "https://globalnews.ca/news/12110203/alberta-referendum-danielle-smith-results-speech/",
+     "publishedAt": "2026-10-20 8:58 p.m.",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CTV News Edmonton",
+     "title": "Alberta referendum: Results for questions 1-9 close",
+     "url": "https://www.ctvnews.ca/edmonton/article/albertans-split-in-early-returns-on-remaining-9-referendum-questions/",
+     "publishedAt": "Updated 2026-10-20 9:42 p.m. EDT",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "BNN Bloomberg / CTV News",
+     "title": "Alberta referendum: Immigration vote close, separation rejected. Live updates",
+     "url": "https://www.bnnbloomberg.ca/tariffs/2026/10/20/albertans-divided-on-immigration-questions-after-rejecting-separation-live-updates/",
+     "publishedAt": "Updated 2026-10-20 6:13 p.m. EDT",
+     "kind": "Live reporting"
+    }
+   ]
+  },
+  {
+   "id": "brazil-runoff-debate",
+   "threadId": "brazil-election-2026",
+   "threadTitle": "Brazil's 2026 election",
+   "threadSummary": "Brazil's presidential race between Lula and Flávio Bolsonaro, decided in an October 25 runoff.",
+   "section": "more",
+   "title": "Lula and Flávio Bolsonaro each move to have the other disqualified",
+   "whatChanged": "Four days before the runoff, Bolsonaro's campaign asked the electoral court to cancel Lula's candidacy, and Lula's campaign said it would file against Bolsonaro on Wednesday.",
+   "body": "Flávio Bolsonaro's campaign accuses the government of using official data to send personalised WhatsApp messages promoting welfare programmes; Lula's side alleges algorithmic manipulation on Meta's platforms. The court had given Meta 24 hours to show it treats both campaigns equally, and Meta says it has complied. Polls show a statistical tie ahead of the October 25 vote.",
+   "eventDate": "2026-10-19 / 2026-10-21",
+   "category": "Elections",
+   "region": "Latin America · Brazil",
+   "regions": [
+    "latin-america"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Kuwait Times (AFP)",
+     "title": "Lula, Bolsonaro seek to disqualify each other ahead of runoff",
+     "url": "https://kuwaittimes.com/article/52032/world/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-runoff/",
+     "publishedAt": "2026-10-21 06:47 +03:00",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Rio Times",
+     "title": "Bolsonaro Camp Asks Court to Bar Lula",
+     "url": "https://www.riotimesonline.com/flavio-bolsonaro-campaign-tse-lula-whatsapp-government-data-2026/",
+     "publishedAt": "2026-10-21 04:16 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "haines-car-ramming",
+   "threadId": "australia-mp-attack",
+   "threadTitle": "Attack on an Australian MP",
+   "threadSummary": "The deliberate car attack on independent MP Helen Haines and the investigation into it.",
+   "section": "more",
+   "title": "Helen Haines loses both legs as her alleged attacker is remanded",
+   "whatChanged": "The MP's second leg was amputated on Wednesday, and the accused, Brendan Nugent, 43, appeared in court without applying for bail.",
+   "body": "Nugent is charged with dangerous driving causing serious injury, intentionally causing serious injury and causing harm to a Commonwealth official; police allege a deliberate attack but say the motive is still under investigation and further charges are possible. He was remanded in custody until a committal mention on February 4. Haines, 65, remains in critical condition in Melbourne.",
+   "eventDate": "2026-10-20 / 2026-10-21",
+   "category": "Political violence",
+   "region": "Oceania · Australia",
+   "regions": [
+    "oceania"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "MP Helen Haines has lost both legs but 'heart and mind' strong, husband says — as it happened",
+     "url": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates-brendan-nugent-court-hearing/107290276",
+     "publishedAt": "2026-10-21, updated 9:50 pm AEDT",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "1News (AAP)",
+     "title": "Silent, staring: Alleged Australian MP attacker appears in court",
+     "url": "https://www.1news.co.nz/2026/10/21/alleged-australian-mp-attacker-appears-in-court/",
+     "publishedAt": "2026-10-21",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "indonesia-msci-rout",
+   "threadId": "indonesia-markets",
+   "threadTitle": "Indonesia's market turmoil",
+   "threadSummary": "Pressure on Indonesia's stock market and currency, and how the government and central bank respond.",
+   "section": "more",
+   "title": "Bank Indonesia raises its deposit rate after an MSCI warning sinks markets",
+   "whatChanged": "Bank Indonesia held its main rate at 5.75% on Wednesday but raised its overnight deposit rate by a quarter point to 5.00% to support the rupiah.",
+   "body": "Index provider MSCI warned last week that it could reclassify Indonesia's market, which Goldman Sachs estimates could trigger $5.6 billion in passive outflows. The Jakarta index fell 14.8% over two record sessions before rebounding 3% on Tuesday, and the rupiah is near an all-time low. The exchange has promised to remove companies with concentrated ownership from its benchmark.",
+   "eventDate": "2026-10-16 / 2026-10-21",
+   "category": "Economy",
+   "region": "Asia · Indonesia",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Investing.com (Reuters)",
+     "title": "Indonesia's central bank keeps main rate unchanged, hikes deposit facility rate",
+     "url": "https://www.investing.com/news/economy-news/indonesias-central-bank-keeps-main-rate-unchanged-hikes-deposit-facility-rate-4961822",
+     "publishedAt": "2026-10-21",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Business Today (Malaysia)",
+     "title": "Bank Indonesia Raises Deposit Rate To 5% To Support Rupiah",
+     "url": "https://www.businesstoday.com.my/2026/10/21/bank-indonesia-raises-deposit-rate-to-5-to-support-rupiah/",
+     "publishedAt": "2026-10-21 16:15 +08:00",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Asia Times",
+     "title": "Ghosts of '97 haunt Prabowo as MSCI eyes Indonesia's exit",
+     "url": "https://asiatimes.com/2026/10/ghosts-of-97-haunt-prabowo-as-msci-eyes-indonesias-exit/",
+     "publishedAt": "2026-10-20, updated 2026-10-21",
+     "kind": "Analysis"
+    }
+   ]
+  },
+  {
+   "id": "haiti-gang-suppression-force-attack",
+   "threadId": "haiti-gang-crisis",
+   "threadTitle": "Haiti's gang crisis",
+   "threadSummary": "Armed gangs' grip on Haiti and the internationally backed effort to push them back before elections.",
+   "section": "more",
+   "title": "Four Salvadoran soldiers remain missing in Haiti as searches continue under fire",
+   "whatChanged": "The US told the UN Security Council it believes all four survived Sunday's ambush, but they had still not been found by Tuesday.",
+   "body": "The aviation technicians' vehicle was hit by gunfire and explosives near Croix-des-Bouquets, northeast of Port-au-Prince. Gang Suppression Force spokesman Igor Rugwiza said searches continue amid heavy fighting, with helicopters coming under fire. The force has about 2,000 of a planned 5,500 troops.",
+   "eventDate": "2026-10-18 / 2026-10-20",
+   "category": "Security",
+   "region": "Latin America · Haiti",
+   "regions": [
+    "latin-america"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "The Spokesman-Review (The Washington Post)",
+     "title": "Four international troops missing in Haiti after gang ambush",
+     "url": "https://www.spokesman.com/stories/2026/oct/20/four-international-troops-missing-in-haiti-after-g/",
+     "publishedAt": "2026-10-20, updated 3:46 p.m. PT",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Arab News (Reuters)",
+     "title": "Four Salvadoran air force members missing after gang ambush in Haiti",
+     "url": "https://www.arabnews.com/world/four-salvadoran-air-force-members-missing-after-gang-ambush-in-haiti-3007206",
+     "publishedAt": "2026-10-19 19:22 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "trump-netanyahu-endorsement",
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel votes on October 27 on whether Benjamin Netanyahu's coalition keeps power.",
+   "section": "more",
+   "title": "Benny Gantz quits Israel's election race a week before the vote",
+   "whatChanged": "Gantz withdrew his Blue and White party, which polls had consistently placed below the threshold for entering parliament.",
+   "body": "He endorsed no one. A Channel 12 poll on Monday put Gadi Eisenkot's Yashar party on 24 seats and Netanyahu's Likud on 21, and a seven-poll average compiled by The New Arab shows neither bloc near the 61 seats needed for a majority. Israel votes on October 27.",
+   "eventDate": "2026-10-19 / 2026-10-20",
+   "category": "Politics",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Benny Gantz drops out of Israel's election race",
+     "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The New Arab",
+     "title": "Israel election: Polls forecast stalemate, far-right gains in next week's vote",
+     "url": "https://www.newarab.com/news/israel-election-polls-forecast-stalemate-far-right-gains",
+     "publishedAt": "2026-10-20 14:25 +01:00, updated 17:07",
+     "kind": "Reporting and analysis"
+    }
+   ]
+  },
+  {
+   "id": "typhoon-champi",
+   "threadId": "pacific-typhoons",
+   "threadTitle": "Typhoons in the western Pacific",
+   "threadSummary": "Major tropical storms in the western Pacific and their effects on islands and coasts in their path.",
+   "section": "more",
+   "title": "Super Typhoon Champi heads for Taiwan after battering Guam",
+   "whatChanged": "Taiwan expects to issue a sea warning as soon as Wednesday night, with the storm's closest approach due on Friday and Saturday.",
+   "body": "Champi passed about 12 miles south of Guam on Sunday, tearing off roofs and cutting power and water; no injuries were reported and more than 1,000 people used shelters. Taiwan's weather agency expects the storm to turn north on Thursday, and how sharply it turns will decide how close it comes. AccuWeather forecasts up to 18 inches of rain in eastern Taiwan.",
+   "eventDate": "2026-10-18 / 2026-10-21",
+   "category": "Weather",
+   "region": "Asia · Taiwan; Oceania · Guam",
+   "regions": [
+    "asia",
+    "oceania"
+   ],
+   "status": "This week",
+   "sources": [
+    {
+     "publisher": "Taipei Times",
+     "title": "Sea warning expected for typhoon",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/21/2003866354",
+     "publishedAt": "2026-10-21",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "AccuWeather",
+     "title": "Super Typhoon Champi damages Guam, bound for Taiwan",
+     "url": "https://www.accuweather.com/en/hurricane/super-typhoon-champi-damages-guam-bound-for-taiwan/1948344",
+     "publishedAt": "2026-10-19, updated 2026-10-20 2:51 p.m. EDT",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "deepseek-federal-ban",
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "How Washington and Beijing restrict each other's AI technology, chips and companies.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "The US orders civilian agencies to strip DeepSeek from their systems",
+   "category": "AI policy",
+   "region": "North America & Asia · United States & China",
+   "regions": [
+    "north-america",
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-19 / 2026-10-20",
+   "body": "The Department of Homeland Security has ordered civilian federal agencies to remove products from the Chinese AI developer DeepSeek and its affiliates, including third-party services built on its models, and barred new purchases. The notice, published in the Federal Register on October 20, relies on a 2018 supply-chain security law and follows a recommendation from the Federal Acquisition Security Council. China's commerce ministry said it firmly opposes the order, called it a breach of the consensus between Xi Jinping and Donald Trump and vowed all necessary measures.",
+   "whatChanged": "A single order now covers DeepSeek across all civilian agencies, extending earlier bans by individual departments and states.",
+   "whyMatters": "It moves US restrictions on Chinese AI from chips and individual agencies to a government-wide exclusion of a model maker's products, and Beijing has signalled it may respond.",
+   "hook": "This is a procurement and security decision, not a judgement on how well DeepSeek's models perform.",
+   "uncertainty": "The public notice sets no deadline or exemptions, reporting says the order was signed in July, and the specific security concerns have not been set out publicly.",
+   "watchNext": "Any Chinese countermeasures, and whether similar exclusions spread to contractors or other Chinese model makers.",
+   "keyFacts": [
+    "DHS notice published in the Federal Register on October 20, 2026",
+    "Legal basis: the Federal Acquisition Supply Chain Security Act of 2018",
+    "Covers DeepSeek, its affiliates and third-party products built on its models",
+    "Applies to civilian agencies; the public notice gives no deadline",
+    "The State Department sanctioned five Chinese entities over stolen Google AI secrets the same day"
+   ],
+   "report": [
+    {
+     "heading": "What the order does",
+     "paragraphs": [
+      "The notice bars civilian executive-branch agencies from buying information technology products or services from Hangzhou DeepSeek Artificial Intelligence and its affiliates, and requires them to remove such products already in use, including products from other vendors that build on DeepSeek. It cites the Federal Acquisition Supply Chain Security Act, under which the Homeland Security secretary can act on a recommendation from the Federal Acquisition Security Council. The public notice does not state a deadline, exemptions or the specific risks found, and says the full order is available through regulations.gov."
+     ]
+    },
+    {
+     "heading": "Why now",
+     "paragraphs": [
+      "The Next Web, citing other reporting, says the order was signed in July and is based on concerns that data could be passed to Chinese authorities under Chinese law and that the models could carry hidden vulnerabilities. Individual agencies, including the Pentagon's IT agency and the Commerce Department, and several states had already blocked DeepSeek. On the same day, according to Seoul Economic Daily, the State Department sanctioned five Chinese entities linked to the theft of Google AI trade secrets."
+     ]
+    },
+    {
+     "heading": "Beijing's response",
+     "paragraphs": [
+      "China's commerce ministry said on Tuesday that it was strongly dissatisfied, that the order disregarded the consensus reached by the two leaders, and that Washington should revoke it and use the bilateral AI dialogue instead. It said China would take all necessary measures. DeepSeek had not commented in the reporting we reviewed."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Register (US Department of Homeland Security)",
+     "title": "Notice of Order Regarding Exclusion and Removal of DeepSeek Products from Federal Civilian Executive Branch Information Technology Systems and Procurements",
+     "url": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+     "publishedAt": "Filed 2026-10-19; published 2026-10-20",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "The Next Web",
+     "title": "US orders civilian federal agencies to remove DeepSeek from their systems",
+     "url": "https://thenextweb.com/news/us-bars-deepseek-federal-agencies",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Korea Times (Reuters)",
+     "title": "China says US' DeepSeek ban disregards Xi-Trump consensus",
+     "url": "https://www.koreatimes.co.kr/world/20261021/china-says-us-deepseek-ban-disregards-xi-trump-consensus",
+     "publishedAt": "2026-10-20 15:38 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Seoul Economic Daily",
+     "title": "U.S. Sanctions Five Chinese Firms Over Stolen Google AI Secrets",
+     "url": "https://en.sedaily.com/international/2026/10/20/us-sanctions-five-chinese-firms-over-stolen-google-ai",
+     "publishedAt": "2026-10-20 17:58 KST",
+     "kind": "Reporting"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-21/deepseek-federal-ban.svg",
+    "alt": "A server rack with one copper drive module pulled half out and its cable unplugged, illustrating the order to remove DeepSeek products from federal civilian systems.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "ai-agents-hacking-campaign",
+   "threadId": "ai-security",
+   "threadTitle": "AI and cybersecurity",
+   "threadSummary": "How AI tools are being used to attack and defend computer systems.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "One hacker's AI agents broke into more than 100 companies' websites, researchers say",
+   "category": "AI security",
+   "region": "Global · cybersecurity",
+   "regions": [],
+   "status": "This week",
+   "eventDate": "2026-10-19",
+   "body": "A Chinese-speaking hacker used Cairn, an open-source AI agent platform not built for hacking, to probe more than 1,200 e-commerce sites in the US, Canada, Australia and Japan, compromising more than 100 companies, according to Reuters and the security firm NorForge. Brief instructions were enough; the agents did most of the work, typically spending about 23 hours on each successful intrusion. NorForge researcher Snorre Fagerland estimated the cost at about $5,000 in AI usage. Reuters identified Deere, SharkNinja and Cummins among those affected.",
+   "whatChanged": "A documented campaign shows cheap, largely automated AI agents carrying out intrusions at scale against real companies.",
+   "whyMatters": "It suggests the cost and skill needed to attack many websites at once are falling, so defenders should expect more frequent automated probing.",
+   "hook": "The cost estimates are rough, but the campaign was large enough to reach well-known companies.",
+   "uncertainty": "Reuters could not establish whether data was taken; the cost figures are one researcher's estimates, and which AI models were used is inferred from labels in the attacker's setup.",
+   "watchNext": "Disclosures from affected companies, and responses from the developers of the tools and models involved.",
+   "keyFacts": [
+    "More than 1,200 sites targeted and more than 100 companies compromised, per Reuters",
+    "About 23 hours of automated probing per successful intrusion",
+    "About $5,000 in AI usage, roughly $50 per successful hack, per a NorForge estimate",
+    "Deere, SharkNinja and Cummins named by Reuters as affected"
+   ],
+   "report": [
+    {
+     "heading": "What researchers found",
+     "paragraphs": [
+      "Snorre Fagerland, a threat researcher at the Norwegian firm NorForge, found about two dozen malicious deployments of Cairn, an open-source platform for setting AI agents to work on problems. The most active belonged to a Chinese-speaking operator who gave the agents short instructions and left them to probe online shops. Reuters, which reviewed the findings, reports more than 1,200 sites were targeted and more than 100 companies compromised. Successful intrusions typically followed around 23 hours of automated attempts."
+     ]
+    },
+    {
+     "heading": "Who was affected",
+     "paragraphs": [
+      "Reuters identified Deere, SharkNinja and Cummins among the victims; NorForge's report did not name companies. Deere said it saw no sign that sensitive data was accessed. SharkNinja said a standalone support site was affected and the problem contained, and Cummins said it was investigating a possible attack on a vendor's site."
+     ]
+    },
+    {
+     "heading": "Cost and caveats",
+     "paragraphs": [
+      "Fagerland estimated the operator spent about $5,000 on AI usage, or roughly $50 per successful break-in; The Next Web notes that NorForge's own report gives a far lower average cost per attempted task and describes considerable uncertainty. A label in the attacker's setup suggests a coding agent running a DeepSeek model, but that is an inference. Reuters could not determine whether any data was stolen, and only the Chinese-language cluster was assessed as malicious with high confidence."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "BNN Bloomberg (Reuters)",
+     "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites: Reuters exclusive",
+     "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/19/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-reuters-exclusive/",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Next Web",
+     "title": "AI agents broke into 100+ sites for one hacker at $50 each, researcher says",
+     "url": "https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge",
+     "publishedAt": "2026-10-19",
+     "kind": "Reporting"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-21/ai-agents-hacking-campaign.svg",
+    "alt": "A ring of many identical keys hanging above a row of storefront doors, one of which stands open, illustrating AI agents that tried more than a thousand online shops and got into over a hundred.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "hepatitis-b-bepirovirsen-approval",
+   "threadId": "hepatitis-b-treatment",
+   "threadTitle": "Hepatitis B treatment",
+   "threadSummary": "Efforts to move chronic hepatitis B care from lifelong viral suppression toward a functional cure.",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "The FDA approves bepirovirsen, a first-of-its-kind treatment for chronic hepatitis B",
+   "category": "Regulatory approval",
+   "region": "North America · United States",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-10-20",
+   "body": "The US Food and Drug Administration approved GSK's bepirovirsen, sold as Hibsago, on October 20 for some adults with chronic hepatitis B whose virus is already suppressed by antivirals and who have low levels of a viral surface protein. In two phase 3 trials, about one in five treated patients reached a functional cure, with the virus staying undetectable 24 weeks after all treatment stopped, against none on placebo. The drug carries a boxed warning for serious liver reactions and low platelet counts.",
+   "whatChanged": "A time-limited course of treatment aimed at letting patients stop therapy has been approved, rather than another drug taken indefinitely.",
+   "whyMatters": "Most people with chronic hepatitis B take antivirals for life; a weekly course of up to 24 weeks that lets some stop treatment is a meaningful change, though only for a minority of eligible patients.",
+   "hook": "A real step, but a partial one: about one in five reach a functional cure and four in five do not.",
+   "uncertainty": "Eligibility is narrow, a functional cure does not eliminate the virus, and how long responses last beyond the trials is not yet established.",
+   "watchNext": "Uptake alongside the companion diagnostic test, and decisions by regulators outside the United States.",
+   "keyFacts": [
+    "Approved October 20, 2026, under the brand name Hibsago",
+    "Functional cure at week 72: 20% in B-Well 1 and 19% in B-Well 2, against 0% on placebo",
+    "300 mg injected under the skin weekly for up to 24 weeks",
+    "Boxed warning for serious liver reactions and low platelets",
+    "A Roche blood test was authorised as a companion diagnostic"
+   ],
+   "report": [
+    {
+     "heading": "What was approved",
+     "paragraphs": [
+      "Bepirovirsen is an antisense medicine, designed to block the genetic instructions the hepatitis B virus uses to make its proteins. The FDA approved it for adults without cirrhosis who have taken antivirals for at least six months, have suppressed viral DNA and have a surface-antigen level of 3,000 IU/mL or less, measured with a Roche assay authorised alongside it. Patients receive 300 mg under the skin each week for up to 24 weeks, continue antivirals for at least 24 weeks afterwards, and may then stop if they meet set criteria."
+     ]
+    },
+    {
+     "heading": "The evidence",
+     "paragraphs": [
+      "Approval rests on the B-Well 1 and B-Well 2 phase 3 trials, published in the New England Journal of Medicine in May. At week 72, 20% and 19% of treated patients had a functional cure, meaning the virus remained undetectable six months after all therapy ended, while none on placebo did. Across the trials, 24% of treated patients qualified to stop antivirals. Severe adverse events occurred in 16% of treated patients against 3% on placebo, and serious events in 7% against 4%."
+     ]
+    },
+    {
+     "heading": "Limits",
+     "paragraphs": [
+      "Most eligible patients do not achieve a functional cure, and many people with hepatitis B will not meet the eligibility criteria. The label includes a boxed warning for serious liver reactions and low platelets with bleeding risk, plus warnings on kidney function and inflammation of blood vessels. Durability over many years has not been shown."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "US Food and Drug Administration",
+     "title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+     "publishedAt": "2026-10-20",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "HCPLive",
+     "title": "FDA Approves Bepirovirsen for Chronic Hepatitis B",
+     "url": "https://www.hcplive.com/view/fda-approves-bepirovirsen-for-chronic-hepatitis-b",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-21/hepatitis-b-bepirovirsen-approval.svg",
+    "alt": "A syringe pointed toward a stylised liver, illustrating the approval of a weekly injected course of bepirovirsen for chronic hepatitis B.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "mmx-phobos-launch",
+   "threadId": "mars-exploration",
+   "threadTitle": "Exploring Mars and its moons",
+   "threadSummary": "Missions to study Mars and its two small moons, and to bring material from them back to Earth.",
+   "section": "frontiers",
+   "field": "Space",
+   "title": "Japan launches MMX to bring back the first samples from Mars's moon Phobos",
+   "category": "Planetary science",
+   "region": "Asia · Japan",
+   "regions": [],
+   "status": "This week",
+   "eventDate": "2026-10-20",
+   "body": "Japan's space agency, JAXA, launched its Martian Moons eXploration spacecraft on an H3 rocket from Tanegashima at 4:41 a.m. Japan time on October 20, and the probe separated as planned about 71 minutes later. Built with NASA, France's CNES, Germany's DLR and ESA, it is due to reach Mars orbit in 2027, release a small rover on Phobos, collect at least 10 grams of surface material and return it to Earth in 2031. The samples could show whether Phobos is a captured asteroid or debris from an impact on Mars.",
+   "whatChanged": "The first mission designed to return samples from a Martian moon is now on its way after a successful launch.",
+   "whyMatters": "No spacecraft has brought back material from a moon of Mars, and the samples could settle a long-running question about how Mars's moons formed.",
+   "hook": "A clean launch, not yet a result: the samples are not due back until 2031.",
+   "uncertainty": "Partner agencies give different dates for landing and sampling, and the mission faces years of travel and delicate operations near a small, irregular moon.",
+   "watchNext": "Arrival in Mars orbit in August 2027 and entry into orbit around Phobos the following month.",
+   "keyFacts": [
+    "Launched October 20, 2026, at 4:41 a.m. JST on H3 flight No. 10 from Tanegashima",
+    "Spacecraft separated about 71 minutes after liftoff",
+    "Partners: JAXA, NASA, CNES, DLR and ESA",
+    "At least 10 grams of Phobos material due back in Australia in 2031"
+   ],
+   "report": [
+    {
+     "heading": "The launch",
+     "paragraphs": [
+      "The H3 rocket lifted off from the Tanegashima Space Center and released MMX into its planned trajectory about 71 minutes later; JAXA said the rocket performed as planned. Jiji Press noted it was the third successful H3 launch in a row."
+     ]
+    },
+    {
+     "heading": "The mission",
+     "paragraphs": [
+      "MMX is meant to be the first spacecraft to enter a quasi-satellite orbit around Phobos and the first to bring samples back from it. It carries the Idefix rover, built by CNES and DLR, and NASA instruments including a gamma-ray and neutron spectrometer and a pneumatic sampler. JAXA plans arrival at Mars in August 2027 and at Phobos in September 2027, with a return capsule landing in Australia in 2031 carrying at least 10 grams of material. The spacecraft will also make flybys of Deimos, Mars's smaller moon."
+     ]
+    },
+    {
+     "heading": "The scientific question",
+     "paragraphs": [
+      "Scientists have long debated whether Phobos and Deimos are asteroids captured by Mars's gravity or pieces thrown up by a giant impact. Material that can be analysed in laboratories on Earth should help decide between those explanations, and could carry traces of Mars itself."
+     ]
+    },
+    {
+     "heading": "Uncertainties",
+     "paragraphs": [
+      "Timelines for landing differ: ESA describes landing and sampling in 2030, while SpacePolicyOnline reports no earlier than December 2028. Mission cost was not given in the sources we reviewed."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "JAXA",
+     "title": "Launch result of the Martian Moons eXploration (MMX) spacecraft aboard H3 Launch Vehicle flight No.10",
+     "url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html",
+     "publishedAt": "2026-10-20",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "ESA",
+     "title": "Mars moon lander set to launch on 19 October",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+     "publishedAt": "2026-10-13",
+     "kind": "Primary (mission background)"
+    },
+    {
+     "publisher": "SpacePolicyOnline",
+     "title": "JAXA's MMX Enroute to Mars To Return Samples of Phobos",
+     "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Nippon.com (Jiji Press)",
+     "title": "Japan Successfully Launches Martian Moon Probe on Landmark Mission",
+     "url": "https://www.nippon.com/en/news/yjj2026102000118/",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-21/mmx-phobos-launch.svg",
+    "alt": "A small spacecraft with a copper sample capsule approaching a lumpy grey moon, with the red disc of Mars behind, illustrating Japan's MMX mission to bring back samples from Phobos.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "gaza-ceasefire-children-aid",
+   "threadId": "gaza-humanitarian",
+   "threadTitle": "Gaza's humanitarian situation",
+   "threadSummary": "Aid, food and living conditions in Gaza under the ceasefire.",
+   "section": "still",
+   "title": "Commercial goods return to Gaza after a week-long halt, but deadly strikes and aid cuts continue",
+   "category": "Humanitarian",
+   "region": "Middle East · Gaza",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-10-19 / 2026-10-20",
+   "body": "Israel's COGAT agency said on Monday that commercial goods would gradually re-enter Gaza, a week after it barred them in a dispute over fees Hamas was reportedly charging merchants, and that payments must now go through documented bank transfers. During the halt, prices of eggs and flour roughly doubled. Israeli strikes and gunfire killed at least four Palestinians on Tuesday, and Gaza's health authorities count 1,522 people killed since the October 2025 ceasefire. The World Food Programme is cutting the number of people it supports to 1.1 million.",
+   "whatChanged": "Commercial deliveries, stopped on October 14, are resuming, with new rules on how merchants pay.",
+   "whyMatters": "Commercial goods supplement shrinking aid in a territory where food prices jumped within days, and the ceasefire has not stopped regular deaths as winter approaches.",
+   "uncertainty": "Israel did not verify merchants' reports that Hamas dropped its fee demand, and the pace of the resumption is unclear; casualty figures come from Gaza's health authorities.",
+   "watchNext": "How many commercial trucks enter in the coming days, whether prices fall, and new donor funding for WFP.",
+   "keyFacts": [
+    "COGAT announced the gradual resumption of commercial goods on October 19",
+    "Commercial goods had been barred since October 14",
+    "Merchants reported a Hamas demand of 10,000 shekels (about $3,225) per truck",
+    "1,522 killed and 5,421 wounded since the October 2025 ceasefire, per Gaza health authorities"
+   ],
+   "report": [
+    {
+     "heading": "What changed",
+     "paragraphs": [
+      "COGAT, the Israeli military body that manages crossings, said commercial goods would resume gradually, with priority for essential supplies ahead of winter. Israel had stopped commercial deliveries on October 14 over the fee dispute. It acted after merchants reported that Hamas had dropped a demand for about 10,000 shekels per truck, which COGAT said it had not verified. Payments must now be made only by documented bank transfer, and merchants found paying Hamas will be excluded. Hamas has described the fee as a voluntary contribution."
+     ]
+    },
+    {
+     "heading": "Prices and aid",
+     "paragraphs": [
+      "While the goods were blocked, the price of a tray of eggs rose from 35 shekels to between 60 and 70, and flour climbed to about 80 shekels, Reuters reported. The World Food Programme is reducing the number of people it supports each month from 1.6 million to 1.1 million because of a funding gap."
+     ]
+    },
+    {
+     "heading": "Continuing violence",
+     "paragraphs": [
+      "On Tuesday, an Israeli strike on a Gaza City apartment killed a man and his wife, and a 17-year-old was shot near Khan Younis, Al Jazeera reported. Gaza's health authorities say 1,522 people have been killed and 5,421 wounded since the ceasefire took effect in October 2025, and 27 were killed last week, fewer than in each of the two weeks before. They put the total killed since October 2023 at 74,480."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Arab News (Reuters)",
+     "title": "Israel to resume commercial shipments to Gaza after Hamas fee dispute",
+     "url": "https://www.arabnews.com/middle-east/israel-to-resume-commercial-shipments-to-gaza-after-hamas-fee-dispute-3007188",
+     "publishedAt": "2026-10-19 15:56 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Israeli attacks kill at least four Palestinians in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes",
+     "publishedAt": "2026-10-20",
+     "kind": "Reporting"
+    }
+   ]
+  }
+ ],
+ "realityCheck": {
+  "title": "Can a selfie predict cancer survival?",
+  "text": "Headlines this week said a face photo can predict how long cancer patients survive. The Lancet Digital Health study from Mass General Brigham found that scores from a model trained on face images were associated with survival across about 38,000 patients, but the data were retrospective, performance varied by cancer type, and the researchers do not know which facial features drive the predictions. The public portal is a research study, not a diagnostic tool, and a prospective trial is only being planned.",
+  "url": "https://www.bostonglobe.com/2026/10/20/metro/ai-biological-age-face-selfie-free-tool/"
+ },
+ "watch": [
+  {
+   "title": "Moscow and Kyiv · this week",
+   "text": "Zelensky expects Russia's answer on the US security-guarantee document within a day of Witkoff's visit; watch for any Trump–Putin call or meeting plan."
+  },
+  {
+   "title": "Brazil · October 25",
+   "text": "The presidential runoff between Lula and Flávio Bolsonaro, after a Datafolha poll on Thursday and the final TV debate on October 23."
+  },
+  {
+   "title": "Egypt · October 26",
+   "text": "Parliament votes on military support for Saudi Arabia against the Houthis; a combat deployment needs a two-thirds majority."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "Alberta's premier ruled out another separation vote, the Supreme Court agreed to hear a school admissions case, and Prime Minister Mark Carney prepared for a visit to Turkey.",
+   "briefs": [
+    {
+     "title": "Supreme Court takes up a Maryland school admissions case",
+     "text": "The court agreed to hear a parents' group's challenge to admissions at selective magnet middle-school programmes in Montgomery County, Maryland, which it says disadvantage Asian American students. Lower courts had dismissed the case. The justices also agreed to review the federal ban on home distilling and declined NLRB member Gwynne Wilcox's appeal over her firing.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "ABC News (AP)",
+       "title": "Supreme Court to hear case on race in middle school admissions",
+       "url": "https://abcnews.com/US/wireStory/supreme-court-hear-case-race-middle-school-admissions-137393181",
+       "publishedAt": "2026-10-19 4:32 PM",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Virginia Lawyers Weekly (Reuters)",
+       "title": "U.S. Supreme Court will not review Trump's firing of labor board member",
+       "url": "https://valawyersweekly.com/2026/10/20/supreme-court-declines-trump-firing-nlrb-member/",
+       "publishedAt": "2026-10-20 13:51 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Carney to seek defence and energy ties in Turkey",
+     "text": "Carney travels to Turkey on October 22 and 23, the first dedicated bilateral visit by a Canadian prime minister, Reuters reports. A joint declaration on defence and energy and a working group on a Canadian CANDU reactor bid are expected.",
+     "eventDate": "October 20, 2026",
+     "sources": [
+      {
+       "publisher": "ThePrint (Reuters)",
+       "title": "Canada, Turkey to agree during Carney visit to deepen defence and energy ties, source says",
+       "url": "https://theprint.in/world/canada-turkey-to-agree-during-carney-visit-to-deepen-defence-and-energy-ties-source-says/3077335/",
+       "publishedAt": "2026-10-20 23:30 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Trump's promised $5,000 checks hinge on the midterms",
+     "text": "Trump is promising $5,000 payments only if Republicans keep both chambers on November 3, and has acknowledged the cost would exceed $1 trillion. Fortune found that even some supporters doubt the checks will arrive.",
+     "eventDate": "October 20, 2026",
+     "sources": [
+      {
+       "publisher": "Fortune",
+       "title": "Even some of Trump's devoted fans doubt his promised $5,000 checks will ever arrive",
+       "url": "https://fortune.com/2026/10/20/trump-5000-checks-midterms-supporters-doubt/",
+       "publishedAt": "2026-10-20 12:06 PM ET",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Brazil's runoff rivals turned to the electoral court, Haiti's international force kept searching for four missing soldiers, and Mexico and the US said a tariff deal is close.",
+   "briefs": [
+    {
+     "title": "Mexico and the US say a tariff deal is close",
+     "text": "President Claudia Sheinbaum agreed on Tuesday that a deal is near but said issues remain; Mexico wants lower US tariffs on vehicles, steel and aluminium. Economy Minister Marcelo Ebrard said he hopes for a US answer before year-end, with steel and aluminium tariffs at 50% and vehicles at 25%.",
+     "eventDate": "October 19–20, 2026",
+     "sources": [
+      {
+       "publisher": "Mexico News Daily",
+       "title": "Mexico-US trade deal 'very close,' confirms Sheinbaum: Tuesday's mañanera recapped",
+       "url": "https://mexiconewsdaily.com/politics/mexico-us-trade-deal-close-sheinbaum-mananera-tuesday/",
+       "publishedAt": "2026-10-20 17:41 UTC",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Mexico News Daily",
+       "title": "Ebrard hopes for US response on steel, aluminum and auto tariffs before year-end",
+       "url": "https://mexiconewsdaily.com/news/ebrard-us-steel-aluminum-auto-tariffs/",
+       "publishedAt": "2026-10-20 20:16 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Illegal gold mine collapse kills 14 in Colombia",
+     "text": "A collapse at an illegal gold mine in Santa Bárbara de Iscuandé, in Nariño department, killed 14 people and injured seven, and the search has ended, Reuters reports. Thirteen people died in a similar collapse in the same department in August.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "The Star (Reuters)",
+       "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
+       "url": "https://www.thestar.com.my/news/world/2026/10/20/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse",
+       "publishedAt": "2026-10-20 7:34 a.m. MYT",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "Witkoff carried the Oslo proposals to Putin, Russian strikes killed at least nine people in Ukraine, and France imposed curfews after rioting.",
+   "briefs": [
+    {
+     "title": "Russia's Duma votes on four new deputy prime ministers",
+     "text": "Prime Minister Mikhail Mishustin has nominated Finance Minister Anton Siluanov, First Deputy Finance Minister Irina Okladnikova, Primorye governor Oleg Kozhemyako and Transport Minister Andrei Nikitin as deputy prime ministers, with votes set for Wednesday. Analysts quoted by Meduza see Siluanov strengthened and Mishustin weakened.",
+     "eventDate": "October 19–21, 2026",
+     "sources": [
+      {
+       "publisher": "The Moscow Times",
+       "title": "Putin Approves Major Government Cabinet Reshuffle",
+       "url": "https://www.themoscowtimes.com/2026/10/19/putin-approves-major-government-cabinet-reshuffle-a94017",
+       "publishedAt": "2026-10-19 11:44 MSK, modified 2026-10-21",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Meduza",
+       "title": "Russia plans four new deputy prime ministers as Finance Minister Anton Siluanov gains influence and Prime Minister Mikhail Mishustin loses a close aide",
+       "url": "https://meduza.io/en/feature/2026/10/20/russia-plans-four-new-deputy-prime-ministers-as-finance-minister-anton-siluanov-gains-influence-and-prime-minister-mikhail-mishustin-loses-a-close-aide",
+       "publishedAt": "2026-10-20",
+       "kind": "Analysis"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "A drone strike in Abyei killed at least 153 people, Nigeria confirmed its first Ebola case, and fuel shortages reached Niger's capital.",
+   "briefs": [
+    {
+     "title": "Fuel shortages reach Niger's capital",
+     "text": "Drivers in Niamey are queuing for fuel as shortages spread, even though Niger produces crude oil; its Zinder refinery handles only a fraction of output. An October 12 decree bans fuel exports, and the military government has ruled out a price rise.",
+     "eventDate": "October 18–19, 2026",
+     "sources": [
+      {
+       "publisher": "Africanews",
+       "title": "Niger: Fuel shortages leave drivers stranded in Niamey",
+       "url": "https://www.africanews.com/2026/10/19/niger-fuel-shortages-leave-drivers-stranded-in-niamey/",
+       "publishedAt": "2026-10-19",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Benin Web TV",
+       "title": "Niger fuel shortage hits Niamey, exports banned",
+       "url": "https://beninwebtv.bj/en/niger-fuel-shortage-hits-niamey-exports-banned/",
+       "publishedAt": "2026-10-19",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Exiled Rwandan dissident found beheaded in Uganda",
+     "text": "Ugandan police said on Monday that Robert Kabera, a former Rwandan soldier and critic of President Paul Kagame, was found beheaded on the outskirts of Kampala. No suspect has been named, and Rwanda had not commented.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "Daily Monitor",
+       "title": "Rwandan dissident beheaded in Uganda",
+       "url": "https://www.monitor.co.ug/uganda/news/national/rwandan-dissident-beheaded-in-uganda-5637178",
+       "publishedAt": "2026-10-19",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "CTV News (AP)",
+       "title": "A Rwandan dissident has been found beheaded in neighbouring Uganda",
+       "url": "https://www.ctvnews.ca/world/article/a-rwandan-dissident-has-been-found-beheaded-in-neighbouring-uganda/",
+       "publishedAt": "2026-10-19 6:22 a.m. EDT",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "The toll from the Houthi strike in Shabwa rose to 73 as Iran rebuffed US terms, Benny Gantz left Israel's election race, and commercial goods began returning to Gaza.",
+   "briefs": [
+    {
+     "title": "Lebanese and Israeli military delegations meet at US Central Command",
+     "text": "Delegations from both armies were due at CENTCOM headquarters in Tampa from Tuesday, with Washington and Israel seeking direct army-to-army coordination. Israel released footage it says shows Hezbollah moving weapons the Lebanese army should have seized; the Lebanese army called the claims baseless.",
+     "eventDate": "October 19–21, 2026",
+     "sources": [
+      {
+       "publisher": "L'Orient Today",
+       "title": "Tampa meeting: One key condition — direct military coordination between Beirut and Tel Aviv",
+       "url": "https://today.lorientlejour.com/article/1551296/tampa-meeting-one-key-condition-direct-military-coordination-between-beirut-and-tel-aviv.html",
+       "publishedAt": "2026-10-19 12:12 UTC+3",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The Jerusalem Post",
+       "title": "IDF releases footage of Hezbollah moving weapons, accuses Lebanese army of lying about enforcement",
+       "url": "https://www.jpost.com/middle-east/article-912330",
+       "publishedAt": "2026-10-20 19:54",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Settler attacks on olive harvesters pass last year's total",
+     "text": "The UN humanitarian office has counted more than 200 settler attacks on Palestinian farmers since September 1, already above the 185 recorded in the whole 2025 harvest. Israeli police and the Shin Bet arrested 10 Israelis on Monday over attacks on a US photojournalist and European diplomats.",
+     "eventDate": "October 16–20, 2026",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+       "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats",
+       "publishedAt": "2026-10-20",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Saudi Arabia postpones its flagship investment conference",
+     "text": "The Future Investment Initiative, planned for October 26 to 29 in Riyadh, has been pushed to 2027 after Houthi attacks on the Saudi capital.",
+     "eventDate": "October 19, 2026",
+     "sources": [
+      {
+       "publisher": "Al-Monitor",
+       "title": "Saudi Arabia postpones its 'Davos in the desert' conference after attacks",
+       "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-postpones-its-davos-desert-conference-after-attacks",
+       "publishedAt": "2026-10-19",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Bank Indonesia moved to defend the rupiah, a super typhoon headed for Taiwan, and four workers died at a TSMC construction site.",
+   "briefs": [
+    {
+     "title": "Four workers killed at TSMC's 2nm fab construction site",
+     "text": "Bolts on a steel connecting plate snapped during hoisting at TSMC's Fab 22 site in Kaohsiung, and four contract workers fell to their deaths. TSMC suspended work at the site and halted similar steel-structure work at all its construction sites in Taiwan.",
+     "eventDate": "October 20–21, 2026",
+     "sources": [
+      {
+       "publisher": "Taipei Times",
+       "title": "Four dead after collapse at TSMC Kaohsiung site",
+       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/21/2003866366",
+       "publishedAt": "2026-10-21",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Construction Briefing (Reuters)",
+       "title": "TSMC suspends work at semiconductor fab in Taiwan after 4 killed",
+       "url": "https://www.constructionbriefing.com/news/tsmc-suspends-work-at-semiconductor-fab-in-taiwan-after-4-killed/8134395.article",
+       "publishedAt": "2026-10-21 10:15 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "South Korea's KOSPI falls again on AI credit fears",
+     "text": "The index dropped 3.7% on Tuesday to 5,552.74, erasing a two-day rebound and leaving it down about 21% since October 6. Brokers cite worries about the sustainability of AI investment, foreign selling and forced liquidations.",
+     "eventDate": "October 20, 2026",
+     "sources": [
+      {
+       "publisher": "Seoul Economic Daily",
+       "title": "KOSPI Plunges 3.7% as Brokerages See Floor Near 5,100",
+       "url": "https://en.sedaily.com/finance/2026/10/21/kospi-plunges-37-percent-as-brokerages-see-floor-near-5100",
+       "publishedAt": "2026-10-21 10:00 KST",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Rubio says a US–India trade deal is very close",
+     "text": "After talks with Foreign Minister S. Jaishankar in Mumbai, Secretary of State Marco Rubio said only a few items remain and he expects a deal shortly. The visit followed a stop in Uzbekistan, where officials announced agreements worth $12 billion.",
+     "eventDate": "October 19–20, 2026",
+     "sources": [
+      {
+       "publisher": "ABC News (AP)",
+       "title": "Rubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade deal",
+       "url": "https://abcnews.com/International/wireStory/rubio-jaishankar-hold-talks-mumbai-us-india-aim-137406921",
+       "publishedAt": "2026-10-20 12:18 UTC",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The Times of Central Asia",
+       "title": "Uzbekistan Announces $12 Billion in Agreements During Marco Rubio's Visit",
+       "url": "https://timesca.com/uzbekistan-announces-12-billion-in-agreements-during-marco-rubios-visit/",
+       "publishedAt": "2026-10-20 10:18 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Helen Haines lost both legs as her alleged attacker was remanded, Australia expanded defence support for Papua New Guinea, and New Zealand's National Party gained ground before the November 7 election.",
+   "briefs": [
+    {
+     "title": "National gains in New Zealand's latest poll",
+     "text": "A 1News–Verian poll released on Tuesday put National on 32% and Labour on 27%, Labour's lowest since 2023, with the Greens on 16% and ACT on 11%. Seat projections leave the right-leaning bloc one short of a majority, with The Opportunity Party holding the balance.",
+     "eventDate": "October 20, 2026",
+     "sources": [
+      {
+       "publisher": "1News",
+       "title": "Poll: National jumps, leaving Labour's position perilous",
+       "url": "https://www.1news.co.nz/2026/10/20/poll-national-jumps-leaving-labours-position-perilous/",
+       "publishedAt": "2026-10-20 6:00 pm NZDT",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Australia commits A$110 million to PNG defence facilities",
+     "text": "At the Australia–Papua New Guinea ministerial forum, Australia pledged A$110 million for PNG Defence Force infrastructure and about 130 rotating personnel, plus a 10-year primary healthcare programme. Recruitment of PNG citizens into the Australian Defence Force opens on November 16.",
+     "eventDate": "October 20–21, 2026",
+     "sources": [
+      {
+       "publisher": "Islands Business (PACNEWS)",
+       "title": "PACNEWS THREE, 21 October 2026",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-three-21-october-2026/",
+       "publishedAt": "2026-10-21",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Israel's Pacific Islands Forum status draws criticism in New Zealand",
+     "text": "Israel has become a development partner of the Pacific Islands Forum, a status leaders agreed at last month's summit in Palau. New Zealand Labour said Prime Minister Christopher Luxon has serious questions to answer; Luxon called it a lower-tier partnership.",
+     "eventDate": "October 21, 2026",
+     "sources": [
+      {
+       "publisher": "Asia Pacific Report (RNZ Pacific)",
+       "title": "'Serious questions to answer': Labour slams Luxon over Israel's Pacific Islands Forum move",
+       "url": "https://asiapacificreport.nz/2026/10/21/serious-questions-to-answer-labour-slams-luxon-over-israels-pacific-islands-forum-move/",
+       "publishedAt": "2026-10-21",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

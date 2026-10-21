@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="A server rack with one copper drive module pulled half out and its cable unplugged, for the US order removing DeepSeek products from federal civilian systems.">
+<title>A server rack with one copper drive module pulled half out and its cable unplugged, for the US order removing DeepSeek products from federal civilian systems.</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter></defs><rect width="1200" height="800" fill="url(#bg)"/>
+<path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/><path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/>
+<circle cx="600" cy="340" r="230" fill="#c98b5a" opacity=".08" filter="url(#glow)"/>
+<rect x="440" y="110" width="320" height="530" rx="14" fill="#13283a" stroke="#5a7791" stroke-width="4"/>
+<g fill="#1d3850" stroke="#5a7791" stroke-width="3"><rect x="470" y="140" width="260" height="60" rx="6"/><rect x="470" y="215" width="260" height="60" rx="6"/><rect x="470" y="440" width="260" height="60" rx="6"/><rect x="470" y="515" width="260" height="60" rx="6"/></g>
+<g fill="#9fd0e8"><circle cx="500" cy="170" r="6"/><circle cx="500" cy="245" r="6"/><circle cx="500" cy="470" r="6"/><circle cx="500" cy="545" r="6"/></g>
+<g stroke="#3c5a73" stroke-width="4"><path d="M560 170 H700"/><path d="M560 245 H700"/><path d="M560 470 H700"/><path d="M560 545 H700"/></g>
+<rect x="470" y="300" width="260" height="110" rx="6" fill="#09131d" stroke="#2a4155" stroke-width="3"/>
+<rect x="600" y="310" width="290" height="90" rx="8" fill="#c98b5a" stroke="#e3b48a" stroke-width="3"/>
+<g stroke="#8a5a36" stroke-width="4"><path d="M640 335 H850"/><path d="M640 355 H850"/><path d="M640 375 H850"/></g>
+<circle cx="870" cy="355" r="7" fill="#5a3a22"/>
+<path d="M890 355 C 960 355, 980 440, 1010 520" fill="none" stroke="#b3c6d6" stroke-width="8" stroke-linecap="round"/>
+<rect x="996" y="520" width="30" height="44" rx="5" fill="#b3c6d6"/><path d="M1004 564 v18 M1018 564 v18" stroke="#b3c6d6" stroke-width="5"/>
+</svg>

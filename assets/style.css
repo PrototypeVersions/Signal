@@ -50,7 +50,7 @@ body{font-size:16px}.navlinks{gap:27px}.nav-actions{font-size:12px}.issue-intro{
 .quick .card-details{display:none}
 @media(max-width:760px){.card-details .context{display:block}.full-report p{font-size:18px}.key-facts{padding:18px 20px}.card-links{gap:14px}}
 
-/* Evening updates sit inside the morning's story, clearly marked. */
+/* Updates sit inside the morning's story, clearly marked. */
 .story-updates{margin:0 0 18px;padding:12px 16px;border-left:1px solid var(--accent);background:var(--panel)}.story-updates p{margin:0;font-size:15px;line-height:1.65;color:var(--ink)}.story-updates p+p{margin-top:8px}.story-updates strong{display:block;font:10px/1.7 var(--mono);letter-spacing:1px;text-transform:uppercase;color:var(--accent);font-weight:400;margin-bottom:4px}
 .lead-report .story-updates{margin-bottom:20px}
 .updated-stamp{color:var(--accent)}

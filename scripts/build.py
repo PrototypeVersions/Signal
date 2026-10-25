@@ -193,7 +193,8 @@ def story_image(s, prefix, link=False):
 def thread_key(s): return s.get('threadId',s['id'])
 
 def update_label(u):
-    return u.get('label') or 'Evening update'
+    when = update_time(u)
+    return f'Update · {when}' if when else 'Update'
 
 def updates_inline(s):
     ups = s.get('updates', [])
@@ -201,7 +202,7 @@ def updates_inline(s):
     return '<div class="story-updates">' + ''.join(f'<p><strong>{e(update_label(u))}</strong> {e(u["text"])}</p>' for u in ups) + '</div>'
 
 def update_time(u):
-    label = update_label(u)
+    label = u.get('label') or ''
     return label.split('·', 1)[1].strip() if '·' in label else ''
 
 def updated_tag(s, prefix):
@@ -227,7 +228,7 @@ def updates_full(s):
     for u in ups:
         src = ''.join(f'<div class="evidence"><a href="{e(x["url"])}" target="_blank" rel="noopener noreferrer">{e(x["title"])} ↗</a><small>{e(x["publisher"])} · {e(x["publishedAt"])} · {e(x.get("kind","reporting"))}</small></div>' for x in u.get('sources', []))
         items += f'<div class="update-item"><span class="eyebrow">{e(update_label(u))}</span><p>{e(u["text"])}</p>{src}</div>'
-    return f'<section class="article-updates" id="updates" aria-label="Updates"><h2>Since this morning</h2>{items}</section>'
+    return f'<section class="article-updates" id="updates" aria-label="Updates"><h2>Updates</h2>{items}</section>'
 
 def report_words(s):
     words = len(s['body'].split())

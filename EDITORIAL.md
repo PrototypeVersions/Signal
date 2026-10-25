@@ -1,6 +1,6 @@
 # The Signal editorial instructions
 
-This guide describes the site exactly as it is built today. The scheduled morning and evening runs follow it to the letter, so keep it current whenever the site changes.
+This guide describes the site exactly as it is built today. The scheduled morning run follows it to the letter, so keep it current whenever the site changes.
 
 ## Promise
 The publication is named **The Signal**. Use the full name in reader-facing copy. The repository remains `PrototypeVersions/Signal`.
@@ -111,7 +111,7 @@ Editions are produced each morning (about 5:57 AM Central) by a scheduled Claude
 If sources or access are insufficient, publish fewer items rather than weaker ones; if a usable edition cannot be produced, leave the latest edition in place and report the problem. Do not send email or social posts.
 
 ## Evening update
-A second scheduled task runs each evening (about 5:57 PM Central) and updates that day's edition in place. It does not create a second edition.
+The evening task is currently switched off: the site publishes once each morning, and changes during the day go into the next morning's edition. Follow this section only if an evening task is switched back on. It updates that day's edition in place and does not create a second edition.
 
 1. Read today's edition, recent editions and this guide. If today's edition does not exist (the morning run failed), produce a full edition instead, following the morning steps, and say in `note` that it was published in the evening.
 2. Research what has happened since the morning `cutoff` for every story in the edition, every dated item in `watch`, and any major new development.

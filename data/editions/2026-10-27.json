@@ -1,0 +1,1258 @@
+{
+  "date": "2026-10-27",
+  "number": 10,
+  "cutoff": "2026-10-27T11:15:00Z",
+  "cutoffLabel": "6:15 AM CT",
+  "opening": "Congo’s Ebola outbreak passed 10,000 confirmed cases. Israelis voted with unusually high early turnout, Flavio Bolsonaro dropped his bid to annul Brazil’s election as markets plunged, Russia struck Kyiv overnight, and Egypt’s parliament cleared military support for Saudi Arabia against the Houthis.",
+  "leadStoryId": "ebola-congo-passes-10000",
+  "stories": [
+    {
+      "id": "ebola-congo-passes-10000",
+      "threadId": "ebola-east-africa",
+      "threadTitle": "Ebola outbreak in Africa",
+      "threadSummary": "A Bundibugyo-strain Ebola outbreak declared in Congo in May that has spread to neighbouring and distant countries.",
+      "section": "world",
+      "title": "Congo’s Ebola outbreak passes 10,000 confirmed cases as most new infections go untracked",
+      "category": "Public health",
+      "region": "Africa · DR Congo, Kenya & Nigeria",
+      "regions": ["africa"],
+      "status": "Major development",
+      "eventDate": "2026-10-27",
+      "body": "Congo’s health ministry reported 10,060 confirmed Ebola cases on Tuesday, and nearly half of those patients have died, making this the country’s deadliest outbreak. The Bundibugyo strain has no approved vaccine or treatment. The virus has reached 66 health zones in eight provinces, up from three zones in May, and about 80% of recent cases were not among people being monitored as contacts. Kenya has a cluster of nine cases and Nigeria one imported case.",
+      "whatChanged": "The outbreak crossed 10,000 confirmed cases in Congo, and new data show most fresh infections are coming from chains of transmission that health teams are not tracking.",
+      "whyMatters": "AP reports the outbreak is running at least three times the pace of the 2014–16 West African epidemic, the largest on record, while health workers strike and maternal deaths rise as people avoid hospitals.",
+      "uncertainty": "Confirmed counts depend on testing in insecure areas, and at least half of deaths occurred outside treatment centres, so the true toll is likely higher; the source of Nigeria’s case is still unclear.",
+      "watchNext": "Wednesday’s virtual summit of African health ministers, the share of new cases among known contacts, and early progress of the vaccine trial that began in Bunia.",
+      "keyFacts": [
+        "10,060 confirmed cases in Congo as of October 27, with nearly half of patients dead",
+        "Spread to 66 health zones in 8 provinces, up from 3 zones when declared in May",
+        "About 80% of recent cases were not among monitored contacts; Africa CDC wants at least 95%",
+        "Kenya had 9 confirmed cases and Nigeria 1 imported case in WHO’s October 23 update",
+        "A Phase 2/3 vaccine trial enrolled its first participants in Bunia on October 23, according to WHO"
+      ],
+      "report": [
+        {
+          "heading": "The new figures",
+          "paragraphs": [
+            "Data released by Congo’s health ministry on Tuesday put confirmed Ebola cases at 10,060, with nearly half of those patients dead and at least 2,600 recovered. The outbreak, caused by the Bundibugyo species of the virus, was declared in May and has since spread from three health zones to 66 in eight provinces. Ituri province remains the epicentre; WHO’s October 23 report counted 7,040 of the country’s cases there.",
+            "AP described it as the fastest-growing Ebola outbreak on record, with at least three times as many cases and deaths as the 2014–16 West African epidemic at the same point after declaration. That epidemic eventually caused more than 28,000 cases and over 11,000 deaths."
+          ]
+        },
+        {
+          "heading": "Why control is slipping",
+          "paragraphs": [
+            "About 80% of recent cases in Congo came from people who were not on contact lists, meaning health teams are not seeing many chains of transmission. Africa CDC says at least 95% of cases should come from known contacts before an outbreak can be considered largely under control. At least half of recorded deaths were among people never admitted to a treatment centre.",
+            "The wider health system is under strain. AP reports that maternal mortality doubled in some provinces as pregnant women avoided hospitals, routine childhood vaccination has been disrupted, health workers have struck over unpaid wages, and a nurse was killed in Bafwasende in Tshopo province."
+          ]
+        },
+        {
+          "heading": "Beyond Congo",
+          "paragraphs": [
+            "WHO’s latest update lists nine confirmed cases in Kenya, linked to a traveller who arrived from Congo via Uganda on October 3, and one imported case in Abuja, Nigeria. Uganda and France reported cases earlier but have none active. There is no approved vaccine or drug for this strain; WHO said a Phase 2/3 vaccine trial enrolled its first participants in Bunia on October 23. Africa CDC chief Jean Kaseya warned that the virus is crossing borders, and health ministers from across the continent meet virtually on Wednesday."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "CP24 (AP)",
+          "title": "Congo's Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries",
+          "url": "https://cp24.com/news/world/2026/10/27/congos-ebola-outbreak-tops-10000-cases-as-authorities-race-to-slow-the-spread-in-african-countries",
+          "publishedAt": "2026-10-27 06:23 EDT",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "World Health Organization",
+          "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Kenya and Nigeria",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+          "publishedAt": "2026-10-23",
+          "kind": "Primary"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Ebola’s reach in Africa",
+        "bounds": [2, -14, 44, 15],
+        "countries": ["180", "404", "566"],
+        "labels": [{"label": "Atlantic Ocean", "lon": 6, "lat": -8, "kind": "water"}],
+        "alt": "Map of central and western Africa highlighting Congo, Kenya and Nigeria, the countries with active Ebola cases, with markers at Bunia in Ituri province and Abuja.",
+        "caption": "Countries with active cases · markers show Ituri’s epicentre and Nigeria’s imported case"
+      },
+      "locations": [
+        {"label": "Bunia, Ituri", "mapLabel": "Bunia", "lon": 30.25, "lat": 1.56},
+        {"label": "Abuja", "lon": 7.49, "lat": 9.06}
+      ]
+    },
+    {
+      "id": "israel-election-day",
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel’s October 2026 general election, widely seen as a referendum on Benjamin Netanyahu.",
+      "section": "world",
+      "title": "Israelis vote in a tense election as early turnout runs at its highest in decades",
+      "category": "Election",
+      "region": "Middle East · Israel",
+      "regions": ["middle-east"],
+      "status": "Major development",
+      "eventDate": "2026-10-27",
+      "body": "Israelis are voting in a general election seen as a referendum on Benjamin Netanyahu, with final polls showing neither bloc near the 61 seats needed to govern. Turnout reached 16.7% by 10 a.m., about 1.2 million votes, which the Times of Israel called the highest at that hour since 1981. Several parties complained of missing or defaced ballot slips, but the Central Elections Committee said it saw no sign of systematic tampering. Exit polls are due when voting ends at 10 p.m.",
+      "whatChanged": "Voting is under way, with unusually strong early turnout, scattered complaints about ballots and a late row over a reported push for military action against Iran before the vote.",
+      "whyMatters": "The result will decide whether Netanyahu keeps power after the Gaza war and the Iran conflict, and a close or disputed count could prolong political paralysis.",
+      "uncertainty": "Early turnout does not show which bloc benefits, and exit polls are projections that can shift once votes are counted by hand.",
+      "watchNext": "Exit polls at 10 p.m. Israel time (3 p.m. CT), the official count, and whether any party contests the result.",
+      "keyFacts": [
+        "Turnout was 16.7% at 10 a.m., about 1.2 million votes, per the Central Elections Committee",
+        "Soldier turnout was 30% at 10 a.m., up from 25.7% at the same hour in 2022",
+        "More than 7.3 million people are eligible; 61 of 120 seats is a majority",
+        "Police arrested three people over an alleged scheme to buy votes for Ra’am",
+        "Polls close at 10 p.m. Israel time, when exit polls are published"
+      ],
+      "report": [
+        {
+          "heading": "A busy morning at the polls",
+          "paragraphs": [
+            "Polls opened at 7 a.m. at roughly 12,000 stations. By 10 a.m. about 1.2 million people had voted, 16.7% of the electorate, according to the Central Elections Committee; the Times of Israel said no election since 1981 had seen a higher figure at that hour. The army reported 30% turnout among soldiers by the same time. Reporters also described heavy turnout in the Bedouin city of Rahat, where voters cited anger at National Security Minister Itamar Ben Gvir.",
+            "Netanyahu voted in Jerusalem shortly before 1 p.m. and urged Israelis to go to the polls. His main challenger, former army chief Gadi Eisenkot, voted at Kibbutz Nir Oz alongside a former hostage."
+          ]
+        },
+        {
+          "heading": "Complaints and incidents",
+          "paragraphs": [
+            "Several parties, including Eisenkot’s Yashar, Yisrael Beytenu and Yoaz Hendel’s Reservists, filed complaints about missing or defaced ballot slips; Yashar called it deliberate sabotage. The committee said it had found no evidence of systematic tampering and was handling individual reports. Police said three people were arrested overnight over an alleged plan to pay people to vote for the Arab party Ra’am, whose leader called it an attempt to influence the result. A bereaved father was abused as a “traitor” outside a polling station in Netanya."
+          ]
+        },
+        {
+          "heading": "A late controversy over Iran",
+          "paragraphs": [
+            "On the eve of the vote, Israeli television channels reported that army chief Eyal Zamir was the only security chief to oppose military action against Iran that Netanyahu and Defence Minister Israel Katz sought before the election. CNN separately reported that Netanyahu had pressed for a strike and that the United States refused. Netanyahu’s office called the reports fake news.",
+            "Exit polls will be published when voting ends at 10 p.m. Israel time. Final pre-election surveys showed neither Netanyahu’s bloc nor his opponents with a clear path to a 61-seat majority."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "The Times of Israel",
+          "title": "Live updates, October 27, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-october-27-2026/",
+          "publishedAt": "2026-10-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Northern Virginia Daily (AP)",
+          "title": "The Latest: Israelis vote in a tense election seen as a referendum on Netanyahu",
+          "url": "https://www.nvdaily.com/associated_press_national/the-latest-israelis-vote-in-a-tense-election-seen-as-a-referendum-on-netanyahu/article_3c4f6046-50cc-5056-ae71-4b3d6fd64c63.html",
+          "publishedAt": "2026-10-27 10:35 UTC",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Report: Zamir the only security chief to oppose pre-election military action against Iran",
+          "url": "https://www.timesofisrael.com/report-zamir-the-only-security-chief-to-oppose-pre-election-military-action-against-iran/",
+          "publishedAt": "2026-10-27 00:41 IST",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Netanyahu pushed for Iran strike before election but Trump refused, CNN says",
+          "url": "https://www.timesofisrael.com/netanyahu-pushed-for-iran-strike-before-election-but-trump-refused-cnn-says/",
+          "publishedAt": "2026-10-26 14:29 IST",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Jerusalem Post",
+          "title": "Israel Election 2026 live updates: Netanyahu, Eisenkot battle for power",
+          "url": "https://www.jpost.com/israel-election-2026/2026-10-27/live-updates-912992",
+          "publishedAt": "2026-10-27",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Israel votes",
+        "bounds": [32, 29.2, 37, 33.6],
+        "countries": ["376"],
+        "labels": [{"label": "Mediterranean", "lon": 33.3, "lat": 31.9, "kind": "water"}],
+        "alt": "Map highlighting Israel with a marker at Jerusalem, where Prime Minister Netanyahu voted in Tuesday’s general election.",
+        "caption": "Israel · national context for the general election"
+      },
+      "locations": [
+        {"label": "Jerusalem", "lon": 35.21, "lat": 31.77}
+      ]
+    },
+    {
+      "id": "brazil-bolsonaro-drops-annulment",
+      "threadId": "brazil-election-2026",
+      "threadTitle": "Brazil's 2026 presidential election",
+      "threadSummary": "Brazil’s presidential campaign and runoff between Luiz Inácio Lula da Silva and Flavio Bolsonaro.",
+      "section": "world",
+      "title": "Flavio Bolsonaro drops his bid to annul Brazil’s vote as stocks suffer their worst day in six years",
+      "category": "Politics & markets",
+      "region": "Latin America · Brazil",
+      "regions": ["latin-america"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-26",
+      "body": "A day after refusing to concede, Flavio Bolsonaro abandoned plans to ask Brazil’s electoral court to annul Sunday’s runoff, CNN Brasil reported, after close allies and several large parties recognised Lula’s victory. He now says he will pursue cases accusing Lula’s campaign of abusing political and economic power. Markets reacted sharply to Lula’s win: the Ibovespa closed down 13.9% on Monday after a trading halt at the open, and the dollar rose about 8% against the real.",
+      "whatChanged": "The threatened annulment challenge was dropped in favour of slower abuse-of-power complaints, and Monday’s closing figures confirmed the heaviest stock sell-off since 2020.",
+      "whyMatters": "Recognition of the result lowers the risk of a 2022-style standoff, but the market collapse raises Brazil’s borrowing costs and puts pressure on Lula to name a credible economic team quickly.",
+      "uncertainty": "Electoral cases against both campaigns remain pending and move slowly; it is unclear whether markets will steady before Lula names his finance minister.",
+      "watchNext": "Tuesday’s trading, any central bank intervention, the rescheduling of cancelled Treasury auctions and Lula’s choice of finance minister.",
+      "keyFacts": [
+        "Lula won 51.79% of valid votes to Flavio Bolsonaro’s 48.21%",
+        "The Ibovespa fell 13.88% on October 26 to 176,608 points",
+        "Trading was halted for 30 minutes at the open, the first circuit breaker since March 2020",
+        "The dollar closed up 8.2% at about 5.40 reais",
+        "About 20 requests to revoke Lula’s ticket for alleged abuses had been filed, CNN Brasil reported"
+      ],
+      "report": [
+        {
+          "heading": "From annulment to abuse-of-power cases",
+          "paragraphs": [
+            "On election night Flavio Bolsonaro said he would not recognise the result and would ask the Superior Electoral Court to annul the vote, citing a Supreme Court justice’s decision to extend voting hours at some polling stations. By Monday evening, according to CNN Brasil, campaign insiders said no annulment request would be filed. São Paulo governor Tarcísio de Freitas, campaign coordinator Rogério Marinho and Senator Tereza Cristina had urged him to accept the outcome, and the MDB, Republicanos, União Brasil and PSD parties had already done so.",
+            "In a video, Bolsonaro said he would instead seek the revocation of Lula’s ticket over alleged abuse of political and economic power, a route that challenges campaign conduct rather than the count. CNN Brasil counts at least 22 such cases pending at the electoral court, 15 against Lula and seven against Bolsonaro."
+          ]
+        },
+        {
+          "heading": "A market rout",
+          "paragraphs": [
+            "Investors who had positioned for a Bolsonaro win sold heavily. InfoMoney reported that the Ibovespa closed 13.88% lower at 176,608 points, its worst day in about six years, after touching a 17% intraday loss and triggering a 30-minute halt. The dollar closed 8.2% higher at around 5.40 reais, and long-term interest-rate futures jumped by more than two percentage points. The Treasury bought back about 7.1 billion reais of fixed-rate bonds and cancelled this week’s auctions. Exporters such as Suzano and Embraer rose as the currency fell."
+          ]
+        },
+        {
+          "heading": "Pressure on the economic team",
+          "paragraphs": [
+            "Finance Minister Dario Durigan said the government would aim for the centre of its fiscal target. Workers’ Party president Edinho Silva said Lula would choose a finance minister by the end of the year and keep the primary surplus goal; no appointment has been announced."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "CNN Brasil",
+          "title": "Flávio desiste de questionar vitória de Lula nas urnas",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-desiste-de-questionar-vitoria-de-lula-nas-urnas/",
+          "publishedAt": "2026-10-26 18:08 BRT",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CNN Brasil",
+          "title": "Disputa entre Lula e Flávio continua no TSE mesmo após o fim das eleições",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/disputa-entre-lula-e-flavio-continua-no-tse-mesmo-apos-o-fim-das-eleicoes/",
+          "publishedAt": "2026-10-27 03:30 BRT",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "InfoMoney",
+          "title": "Ibovespa desaba 13% após eleição, em dia de circuit breaker; dólar dispara 8%",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/",
+          "publishedAt": "2026-10-26 17:40 BRT",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "A Crítica de Campo Grande",
+          "title": "Lula escolherá ministro da Fazenda até o fim do ano e manterá meta fiscal, diz Edinho",
+          "url": "https://acritica.net/politica/lula-escolhera-ministro-da-fazenda-ate-o-fim-do-ano-e-mantera-meta-fiscal-diz-edinho/",
+          "publishedAt": "2026-10-26 17:10 UTC",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Brazil after the runoff",
+        "bounds": [-75, -35, -32, 7],
+        "countries": ["076"],
+        "labels": [{"label": "Atlantic Ocean", "lon": -38, "lat": -30, "kind": "water"}],
+        "alt": "Map highlighting Brazil with markers at Brasília, seat of the electoral court, and São Paulo, home of the B3 stock exchange.",
+        "caption": "Brazil · Brasília and São Paulo"
+      },
+      "locations": [
+        {"label": "Brasília", "lon": -47.88, "lat": -15.79},
+        {"label": "São Paulo (B3 exchange)", "mapLabel": "São Paulo", "lon": -46.63, "lat": -23.55}
+      ]
+    },
+    {
+      "id": "russia-strikes-kyiv-oct-27",
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, peace efforts and the security of Europe.",
+      "section": "world",
+      "title": "Russia hits Kyiv and a dozen regions in a large overnight missile and drone attack",
+      "category": "War",
+      "region": "Europe · Ukraine",
+      "regions": ["europe"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-26 / 2026-10-27",
+      "body": "Russia launched 280 drones and an unspecified number of ballistic missiles at Ukraine overnight, with Kyiv the main target, Ukraine’s air force said. Air defences downed or jammed 257 targets, but hits were recorded at 25 locations. President Volodymyr Zelenskyy said energy, logistics and urban infrastructure were struck across much of the country, and Kyiv’s Southern Bridge was damaged. Early reports said one woman was killed in Kyiv and about 15 people injured. Zelenskyy blamed delays in U.S. approval of air-defence interceptors.",
+      "whatChanged": "A major new strike on the capital came days after the Kremlin confirmed U.S.-Russia-Ukraine talks for the first half of November.",
+      "whyMatters": "Attacks on power and transport as winter approaches raise civilian hardship, and Zelenskyy’s complaint about interceptor deliveries points to strain in U.S. support ahead of talks.",
+      "uncertainty": "Casualty figures are preliminary, and Ukrainian accounts differ on how many ballistic missiles were fired.",
+      "watchNext": "Repairs to power and the metro in Kyiv, any U.S. decision on Patriot and NASAMS interceptors, and preparations for the Abu Dhabi talks.",
+      "keyFacts": [
+        "Ukraine’s air force counted 280 attack drones, including 69 jet-powered Shaheds, plus ballistic missiles",
+        "257 targets were shot down or jammed: 2 ballistic missiles and 255 drones",
+        "Hits were recorded at 25 locations and debris fell at 16",
+        "A 46-year-old woman was killed in Kyiv in early reports",
+        "Trilateral talks are planned for the first half of November in Abu Dhabi"
+      ],
+      "report": [
+        {
+          "heading": "The attack",
+          "paragraphs": [
+            "The barrage began at 6 p.m. on Monday and continued through the night. Ukraine’s air force said Russia used 280 strike drones, 69 of them jet-powered Shaheds, along with decoys and Iskander-M and S-400 missiles launched from the Bryansk region. By 9 a.m. it reported that 257 targets had been destroyed or suppressed, including two ballistic missiles, while strikes landed at 25 locations and falling debris hit 16 more. Some drones were still in the air when the tally was issued.",
+            "Kyiv was the main target. Ukrinform reported that a 46-year-old woman was killed and around 15 people were injured in the capital; the figures are preliminary. The Southern Bridge over the Dnipro was hit, partly suspending metro service."
+          ]
+        },
+        {
+          "heading": "Zelenskyy’s account",
+          "paragraphs": [
+            "Zelenskyy said Russia targeted energy, logistics and city infrastructure almost everywhere, across about a dozen regions, and gave a higher count of ballistic missiles than the air force’s published figures. He said Ukraine had waited nearly a month for U.S. approval of Patriot and NASAMS interceptor deliveries, and that the gap was costing lives."
+          ]
+        },
+        {
+          "heading": "Talks still on the calendar",
+          "paragraphs": [
+            "The strike comes after the Kremlin said on October 23 that trilateral U.S.-Ukraine-Russia talks would take place in Abu Dhabi in the first half of November. Neither side has signalled any pause in long-range attacks while preparations continue."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Ukrinform",
+          "title": "Air defenses neutralize two ballistic missiles, 255 drones in overnight Russian attack on Ukraine",
+          "url": "https://www.ukrinform.net/rubric-ato/4178499-air-defenses-neutralize-two-ballistic-missiles-255-drones-in-overnight-russian-attack-on-ukraine.html",
+          "publishedAt": "2026-10-27 09:51 EET",
+          "kind": "Reporting (Ukrainian Air Force data)"
+        },
+        {
+          "publisher": "Ukrinform",
+          "title": "Zelensky on overnight attack: Russia targeted energy, logistics, and urban infrastructure almost everywhere",
+          "url": "https://www.ukrinform.net/rubric-ato/4178535-zelensky-on-overnight-attack-russia-targeted-energy-logistics-and-urban-infrastructure-almost-everywhere.html",
+          "publishedAt": "2026-10-27 11:11 EET",
+          "kind": "Primary statement (relayed)"
+        },
+        {
+          "publisher": "UNN",
+          "title": "Kyiv became the main target of Russia's overnight strike; some ballistic missiles neutralized - details from Air Force",
+          "url": "https://unn.ua/en/news/kyiv-became-the-main-target-of-russias-overnight-strike-some-of-the-ballistic-missiles-were-shot-down-details-from-the-ukrainian-air-force",
+          "publishedAt": "2026-10-27 07:27 EET",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Kremlin says trilateral Ukraine peace talks scheduled for 1st half of November in Abu Dhabi",
+          "url": "https://aa.com.tr/en/eurasia/kremlin-says-trilateral-ukraine-peace-talks-scheduled-for-1st-half-of-november-in-abu-dhabi/4098424",
+          "publishedAt": "2026-10-23",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Kyiv under attack",
+        "bounds": [21, 43.5, 41, 53.5],
+        "countries": ["804"],
+        "labels": [{"label": "Black Sea", "lon": 34, "lat": 43.9, "kind": "water"}],
+        "alt": "Map highlighting Ukraine with a marker at Kyiv, the main target of Russia’s overnight attack; strikes were also reported across about a dozen other regions.",
+        "caption": "Ukraine · Kyiv was the main target; other strike locations not shown"
+      },
+      "locations": [
+        {"label": "Kyiv", "lon": 30.52, "lat": 50.45}
+      ]
+    },
+    {
+      "id": "egypt-authorises-saudi-support",
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war involving Iran, its allies and the Gulf states, and efforts to stop it spreading.",
+      "section": "world",
+      "title": "Egypt’s parliament clears military support for Saudi Arabia as Houthi attacks intensify",
+      "category": "Conflict",
+      "region": "Middle East · Saudi Arabia, Yemen & Egypt",
+      "regions": ["middle-east", "africa"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-26",
+      "body": "Egypt’s House of Representatives authorised President Abdel Fattah el-Sisi on Monday to take necessary measures to help defend Saudi Arabia if Riyadh asks. Sisi has said any role would be limited to protecting Saudi territory, not attacking Yemen. The vote came as Yemen’s Houthis claimed attacks on Saudi oil pumping stations and Riyadh’s airport, and the Saudi-led coalition said it intercepted a missile aimed at the capital and destroyed two launchers in Sanaa. UN chief António Guterres urged maximum restraint.",
+      "whatChanged": "Egypt moved a step closer to direct military involvement on Saudi Arabia’s side as the Houthi campaign against the kingdom widened.",
+      "whyMatters": "An Egyptian deployment would be Cairo’s largest military commitment abroad since 1991, and attacks on Saudi Arabia’s East-West pipeline threaten the main export route while the Strait of Hormuz is effectively closed.",
+      "uncertainty": "Saudi Arabia has not confirmed the Houthi claims about the pumping stations, and Riyadh has not said whether it will request Egyptian help.",
+      "watchNext": "Any Saudi request to Cairo, further attacks on oil infrastructure, and whether regional mediation with Iran produces a de-escalation track.",
+      "keyFacts": [
+        "Egypt’s parliament voted on October 26 to let Sisi support Saudi self-defence if Riyadh requests it",
+        "Egypt’s constitution requires two-thirds approval to send troops abroad on combat missions",
+        "An October 10 strike on Riyadh’s King Khalid airport killed 13, the deadliest attack in the kingdom in over a decade",
+        "Two airport terminals reopened on October 25",
+        "Saudi Arabia’s East-West pipeline runs about 1,200 km to the Red Sea"
+      ],
+      "report": [
+        {
+          "heading": "Cairo’s mandate",
+          "paragraphs": [
+            "After closed-door discussions and an earlier postponement, Egypt’s House of Representatives on Monday gave Sisi a mandate to take “necessary” steps to support Saudi Arabia in self-defence, should Riyadh request it. Sisi said last week that any Egyptian action would protect Saudi territory and borders and would not involve attacks on Yemen. Foreign Minister Badr Abdelatty said Cairo still prefers a diplomatic settlement.",
+            "Egypt joined the Saudi-led coalition in 2015 mainly with naval forces securing shipping lanes and has not made a large ground deployment abroad since the 1991 Gulf War. Saudi Arabia is one of its most important economic backers."
+          ]
+        },
+        {
+          "heading": "The Houthi campaign",
+          "paragraphs": [
+            "The Houthis, who have held Sanaa since 2014, said on Monday they had attacked pumping stations on Saudi Arabia’s East-West crude pipeline and Riyadh’s airport; Saudi Arabia did not immediately confirm either claim. The coalition said it intercepted a ballistic missile fired toward Riyadh and destroyed two launchers in Sanaa. An October 10 strike on King Khalid International Airport killed 13 people, and two of its terminals reopened only on Sunday.",
+            "The pipeline matters more than usual because the war has effectively closed the Strait of Hormuz. It was briefly shut in September after a drone attack that Riyadh and Baghdad said came from Iraq."
+          ]
+        },
+        {
+          "heading": "Diplomacy alongside escalation",
+          "paragraphs": [
+            "Guterres met Sisi in Cairo on Monday and warned that the fighting could spiral. The same day, Saudi Arabia’s defence minister joined Pakistani and Turkish officials in Tehran for talks with Iranian leaders aimed at de-escalation."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+          "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia",
+          "publishedAt": "2026-10-26 15:41 UTC",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The National",
+          "title": "Fighting intensifies as Houthis and Saudi-led coalition in Yemen report attacks",
+          "url": "https://thenationalnews.com/news/gulf/2026/10/26/fighting-intensifies-as-houthis-and-saudi-led-coalition-in-yemen-report-attacks",
+          "publishedAt": "2026-10-26 11:31 UTC",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Egypt, Saudi Arabia and Yemen",
+        "bounds": [24, 11, 58, 32],
+        "countries": ["818", "682", "887"],
+        "labels": [{"label": "Red Sea", "lon": 38.5, "lat": 20.5, "kind": "water"}],
+        "alt": "Map highlighting Egypt, Saudi Arabia and Yemen with markers at Cairo, Riyadh and Sanaa.",
+        "caption": "Egypt, Saudi Arabia and Yemen · capitals marked"
+      },
+      "locations": [
+        {"label": "Riyadh", "lon": 46.72, "lat": 24.71},
+        {"label": "Sanaa", "lon": 44.21, "lat": 15.35},
+        {"label": "Cairo", "lon": 31.24, "lat": 30.04}
+      ]
+    },
+    {
+      "id": "california-ballots-appeals-court",
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 3, 2026 US midterm elections and disputes over how they are run.",
+      "section": "more",
+      "title": "Appeals court refuses Justice Department bid to set aside 20,000 California ballots",
+      "category": "Elections & courts",
+      "region": "North America · United States",
+      "regions": ["north-america"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-26",
+      "whatChanged": "A 9th Circuit panel dismissed the administration’s emergency appeal, leaving the disputed mail ballots to be counted for now.",
+      "body": "A 2–1 panel said it lacked jurisdiction because the Justice Department had not given the trial court a proper chance to rule, calling the emergency partly self-made. One judge appointed by President Trump wrote that setting the ballots aside would cause electoral chaos; another dissented. Los Angeles County says many flagged records were cancelled registrations that never received ballots, and the case returns to a district judge on Tuesday.",
+      "sources": [
+        {
+          "publisher": "News4Jax (AP)",
+          "title": "Appeals court declines to block California from counting 20,000 disputed ballots",
+          "url": "https://www.news4jax.com/news/politics/2026/10/26/appeals-court-declines-to-rule-on-federal-bid-to-set-aside-california-ballots-of-alleged-noncitizens/",
+          "publishedAt": "2026-10-26 19:14 EDT",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Appeals court dismisses DOJ's request to force California to set aside ballots",
+          "url": "https://www.cbsnews.com/news/appeals-court-dismisses-doj-trump-california-ballots/",
+          "publishedAt": "2026-10-26 19:37 EDT",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "iran-tehran-talks-outcome",
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war involving Iran, its allies and the Gulf states, and efforts to stop it spreading.",
+      "section": "more",
+      "title": "Tehran talks with Saudi, Pakistani and Turkish envoys end with a pledge to keep talking",
+      "category": "Diplomacy",
+      "region": "Middle East · Iran",
+      "regions": ["middle-east"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-26 / 2026-10-27",
+      "whatChanged": "The first senior meeting between Iran and the Saudi-Turkish-Pakistani defence pact produced an agreement to continue talks but no ceasefire timetable.",
+      "body": "Saudi Defence Minister Prince Khalid bin Salman, Pakistan’s army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin met Iranian officials, including President Masoud Pezeshkian, on Monday. They agreed to keep discussing regional security, with no date or venue set. The Kremlin said Vladimir Putin would meet Pezeshkian and Qatar’s emir separately in Moscow on Tuesday.",
+      "sources": [
+        {
+          "publisher": "The National",
+          "title": "Saudi Defence Minister leads Makkah pact delegation to Tehran in major diplomatic push",
+          "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/",
+          "publishedAt": "2026-10-27 07:37 UTC",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Newcastle Herald (AAP)",
+          "title": "Foreign delegations push for peace in Tehran meeting",
+          "url": "https://www.newcastleherald.com.au/story/9380422/foreign-delegations-push-for-peace-in-tehran-meeting/",
+          "publishedAt": "2026-10-26 19:51 UTC",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Business Recorder (Reuters)",
+          "title": "Putin to meet Iran's Pezeshkian, Emir of Qatar on Tuesday in Moscow, Kremlin says",
+          "url": "https://www.brecorder.com/news/40446002/putin-to-meet-irans-pezeshkian-emir-of-qatar-on-tuesday-in-moscow-kremlin-says",
+          "publishedAt": "2026-10-26 15:08 UTC",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "serbia-student-list-majority",
+      "threadId": "serbia-politics",
+      "threadTitle": "Serbia's protest movement and politics",
+      "threadSummary": "Serbia’s student-led protest movement and the political transition after Aleksandar Vučić.",
+      "section": "more",
+      "title": "Preliminary count gives Serbia’s Student List 140 of 250 seats",
+      "category": "Election",
+      "region": "Europe · Serbia",
+      "regions": ["europe"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-26",
+      "whatChanged": "The electoral commission’s preliminary results show the student movement can govern alone, without coalition partners.",
+      "body": "With almost all polling stations counted, the Student List has 52.7% of the vote and 140 seats, against 104 for Aleksandar Vučić’s alliance; 126 seats are needed for a majority. Turnout of about 68.8% was the highest in more than three decades. Parliament must convene within 30 days of final results, and no prime minister has yet been named.",
+      "sources": [
+        {
+          "publisher": "Balkan Insight",
+          "title": "Student List Wins Outright Majority in Serbian Parliamentary Polls",
+          "url": "https://balkaninsight.com/2026/10/26/student-list-wins-outright-majority-in-serbian-parliamentary-polls/bi/",
+          "publishedAt": "2026-10-26",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "N1",
+          "title": "Election Commission confirms landslide victory for Student List in preliminary count",
+          "url": "https://n1info.rs/english/news/election-commission-confirms-landslide-victory-for-student-list-in-preliminary-count",
+          "publishedAt": "2026-10-26",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+          "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed",
+          "publishedAt": "2026-10-26",
+          "kind": "Analysis"
+        }
+      ]
+    },
+    {
+      "id": "venezuela-rubio-warns-machado",
+      "threadId": "venezuela-transition",
+      "threadTitle": "Venezuela after Maduro",
+      "threadSummary": "Venezuela’s political transition and the dispute over when and how elections will be held.",
+      "section": "more",
+      "title": "Machado offers talks with Venezuela’s interim leader as Rubio warns against street protests",
+      "category": "Politics",
+      "region": "Latin America · Venezuela",
+      "regions": ["latin-america", "north-america"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-26",
+      "whatChanged": "A day after her return, María Corina Machado said she would meet interim president Delcy Rodríguez, while Washington signalled it would not be rushed on elections.",
+      "body": "Machado’s spokesperson said she was ready to meet Rodríguez or anyone else with a clear agenda. Secretary of State Marco Rubio said democracy would not come through street protests, and Axios reported that U.S. officials want a new Supreme Court, electoral council and debt deal before any vote. Machado wants elections in 2027; no date has been set.",
+      "sources": [
+        {
+          "publisher": "Axios",
+          "title": "Rubio warns Venezuela's Machado: Street protests won't get you democracy",
+          "url": "https://www.axios.com/2026/10/27/rubio-venezuela-maria-machado-elections",
+          "publishedAt": "2026-10-27 00:20 UTC",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Euronews (AP)",
+          "title": "María Corina Machado seeks talks with Delcy Rodríguez after return from exile",
+          "url": "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile",
+          "publishedAt": "2026-10-26 18:25 UTC",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "jordan-strikes-southern-syria",
+      "threadId": "jordan-syria-border-security",
+      "threadTitle": "Jordan, Syria and border security",
+      "threadSummary": "Militant violence in Jordan and its cross-border consequences for relations with Syria.",
+      "section": "more",
+      "title": "Jordan bombs southern Syria after a deadly attack on a church funeral",
+      "category": "Security",
+      "region": "Middle East · Jordan & Syria",
+      "regions": ["middle-east"],
+      "status": "Major development",
+      "eventDate": "2026-10-23 / 2026-10-27",
+      "whatChanged": "Jordan struck targets in Syria’s Deraa and Suweida provinces in retaliation, and Damascus said civilians were killed and closed the main border crossing.",
+      "body": "Gunmen killed nine people and wounded more than 30 at a funeral at St George’s church in Hmoud, in Jordan’s Karak governorate, on October 23. Jordanian jets then hit sites in southern Syria; Syrian authorities said at least seven civilians, including three children, were killed. Jordan says it coordinated with Damascus, which denies it, called the strikes an unacceptable violation and closed the Nassib crossing.",
+      "sources": [
+        {
+          "publisher": "The Week",
+          "title": "Church attack fallout: Jordan's airstrikes in Syria trigger diplomatic standoff",
+          "url": "https://www.theweek.in/news/middle-east/2026/10/27/church-attack-jordan-launches-airstrikes-in-syria.html",
+          "publishedAt": "2026-10-27 10:31 IST",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Live updates, October 27, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-october-27-2026/",
+          "publishedAt": "2026-10-27",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "korea-dmz-howitzers",
+      "threadId": "korean-border-security",
+      "threadTitle": "Security on the Korean border",
+      "threadSummary": "Military tension along the inter-Korean border and the Demilitarized Zone.",
+      "section": "more",
+      "title": "North Korean howitzers seen pointed south as the two Koreas trade accusations at the UN",
+      "category": "Security",
+      "region": "Asia · Korean Peninsula",
+      "regions": ["asia"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-25 / 2026-10-26",
+      "whatChanged": "Pyongyang accused Seoul of fabricating a September mine blast and warned of self-defence measures, while artillery was visibly deployed at the border.",
+      "body": "A Reuters witness and Yonhap saw three North Korean self-propelled 122mm howitzers aimed south, with soldiers building fences inside the Demilitarized Zone, an unusual display. North Korea’s UN envoy rejected Seoul’s letter to the Security Council over a September 21 mine explosion. The UN Command says a North Korean mine crossed the line in violation of the armistice; Seoul has proposed talks.",
+      "sources": [
+        {
+          "publisher": "TimesLIVE (Reuters)",
+          "title": "North-South Korea tensions high as letters lodged with UN, howitzers spotted",
+          "url": "https://www.timeslive.co.za/news/world/2026-10-26-north-south-korea-tensions-high-as-letters-lodged-with-un-howitzers-spotted/",
+          "publishedAt": "2026-10-26 11:38 SAST",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "indonesia-gas-cut-singapore",
+      "threadId": "indonesia-wildfires-2026",
+      "threadTitle": "Indonesia's 2026 wildfires",
+      "threadSummary": "Indonesia’s 2026 forest and peat fires, the regional haze and the diplomatic dispute they have caused.",
+      "section": "more",
+      "title": "Indonesia cuts pipeline gas to Singapore amid a row over haze",
+      "category": "Energy & diplomacy",
+      "region": "Asia · Indonesia & Singapore",
+      "regions": ["asia"],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-24 / 2026-10-26",
+      "whatChanged": "Jakarta reduced gas exports to Singapore after Singapore threatened legal action against companies blamed for the haze.",
+      "body": "Indonesia cut 31 million standard cubic feet a day of pipeline gas from Natuna and Sumatra, citing domestic power needs, after ministers criticised countries that “insult” Indonesia over the fires. Singapore’s energy regulator said the cut is under 2% of daily demand and importers will seek contractual remedies. Fires burned more than 1.9 million hectares from January to September.",
+      "sources": [
+        {
+          "publisher": "Malay Mail (AFP)",
+          "title": "Indonesia cuts natural gas exports to Singapore amid regional haze dispute",
+          "url": "https://www.malaymail.com/news/singapore/2026/10/25/indonesia-cuts-natural-gas-exports-to-singapore-amid-regional-haze-dispute/240495",
+          "publishedAt": "2026-10-25 10:05 MYT",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "openai-eth-disproof-claim",
+      "threadId": "ai-and-research",
+      "threadTitle": "AI & scientific research",
+      "threadSummary": "How AI systems are being used to produce and check scientific and mathematical results.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "OpenAI says its model disproved a central hypothesis of computer science; experts begin checking",
+      "category": "Mathematics & computing",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-10-26",
+      "hook": "If it survives scrutiny, an AI system will have overturned a foundational assumption of computer science; for now it is a company claim with a serious review under way.",
+      "body": "OpenAI said on Monday that an internal model produced a disproof of the Exponential Time Hypothesis, a widely used assumption about how hard certain logic problems are to solve, and checked it in the Lean proof assistant. It also claimed proofs settling the Kakeya and related conjectures, and an existence proof for Yang-Mills theory, part of a Millennium Prize problem. Two of the hypothesis’s originators and MIT’s Ryan Williams will lead an independent examination, stressing that their involvement is not certification.",
+      "whatChanged": "OpenAI published claimed AI-generated proofs of three long-standing problems, with an outside review of the computing result now under way.",
+      "whyMatters": "The Exponential Time Hypothesis underpins hardness results across computer science; a valid disproof would change that field and show AI systems producing major original mathematics.",
+      "uncertainty": "None of the results is peer reviewed. Analysts note that the bounds checked in Lean differ from those stated in the paper, so the formal proof may not match the intended claim; the physics material has not been released.",
+      "watchNext": "Early findings from the Impagliazzo–Paturi–Williams review, independent attempts to check the Kakeya proof, and the physicists’ write-up of the Yang-Mills work.",
+      "keyFacts": [
+        "OpenAI says its model found the disproof on October 16 and formalised it in Lean the next day",
+        "The claimed algorithm counts solutions to k-CNF formulas in subexponential time and polynomial space",
+        "Russell Impagliazzo, Ramamohan Paturi and Ryan Williams will lead an unpaid, independent examination",
+        "OpenAI gave $5 million to the Simons Foundation for workshops on AI-produced results",
+        "The Yang-Mills work will be written up by a group led by Nobel laureate David Gross"
+      ],
+      "report": [
+        {
+          "heading": "Three claims",
+          "paragraphs": [
+            "OpenAI announced on Monday that its internal models had produced three results that, if correct, would rank among the most significant in their fields in years. The first is a refutation of the Exponential Time Hypothesis, proposed in 1999, which holds that problems such as 3-SAT cannot be solved substantially faster than exhaustive search. The company says the model found a deterministic algorithm that counts satisfying assignments of k-CNF formulas in subexponential time while using polynomial memory.",
+            "The second is a proof of Christopher Sogge’s local smoothing conjecture in every dimension, which OpenAI says also settles the Kakeya and Stein restriction conjectures. The third is a proof that certain interacting four-dimensional quantum field theories exist, including pure Yang-Mills theory."
+          ]
+        },
+        {
+          "heading": "How it is being checked",
+          "paragraphs": [
+            "The computing and mathematics write-ups and Lean proofs are posted on GitHub as raw research material, not journal submissions. Russell Impagliazzo and Ramamohan Paturi, who formulated the hypothesis, and MIT’s Ryan Williams will organise an independent review. They signed no non-disclosure agreements, are not being paid, and said their involvement should not be read as certification. They asked OpenAI to release all raw data and fund a community conference, which it agreed to do.",
+            "XenoSpectrum, reviewing the materials, noted that the running-time bounds verified in Lean differ from those stated in the paper. A Lean check confirms that a formal statement is proved, not that the statement captures the hypothesis as researchers understand it."
+          ]
+        },
+        {
+          "heading": "Limits and context",
+          "paragraphs": [
+            "Even if correct, the result would not resolve P versus NP or by itself break widely used encryption. The physics work has not been released; a group led by David Gross will write it up. OpenAI says it is not seeking academic credit and has given $5 million to the Simons Foundation for meetings on AI-produced results."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "The Next Web",
+          "title": "OpenAI says its AI model has disproved the Exponential Time Hypothesis",
+          "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+          "publishedAt": "2026-10-26",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "XenoSpectrum",
+          "title": "OpenAI Claims Its AI Refuted the Exponential Time Hypothesis; Experts Now Scrutinizing the Proof",
+          "url": "https://xenospectrum.com/en/openai-exponential-time-hypothesis-false-claim/",
+          "publishedAt": "2026-10-27",
+          "kind": "Analysis"
+        },
+        {
+          "publisher": "OpenAI",
+          "title": "Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "publishedAt": "2026-10-26",
+          "kind": "Company announcement"
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-10-27/openai-eth-disproof-claim.svg",
+        "alt": "A branching tree of yes-or-no choices beside a copper hourglass, representing the exhaustive search that the Exponential Time Hypothesis says cannot be greatly shortened.",
+        "credit": "Editorial illustration"
+      }
+    },
+    {
+      "id": "anthropic-ipo-filing",
+      "threadId": "ai-capital-spending",
+      "threadTitle": "The AI infrastructure buildout",
+      "threadSummary": "The spending, financing and market bets behind the race to build advanced AI.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Anthropic files for what could be the largest stock market listing ever",
+      "category": "AI industry",
+      "region": "North America · United States",
+      "regions": ["north-america"],
+      "status": "Major development",
+      "eventDate": "2026-10-26",
+      "hook": "The filing gives the public its first audited look inside a frontier AI lab: revenue growing about fourteenfold, enormous compute bills, and founders keeping control.",
+      "body": "Anthropic, the developer of the Claude models, made its IPO filing public on Monday and plans to list on Nasdaq under the ticker ANT, reportedly next month. Reports say it could raise up to $100 billion, above SpaceX’s record $86 billion offering in June. The filing shows first-half 2026 revenue of $16.29 billion, up from $1.16 billion a year earlier, and a net loss of $80.7 billion, mostly a noncash charge on convertible securities. Seven co-founders will hold 50.1% of votes.",
+      "whatChanged": "A leading frontier AI developer disclosed its finances and governance publicly for the first time as it prepares to sell shares.",
+      "whyMatters": "The listing would test public investors’ appetite for the costs of frontier AI and put a company that warns its own technology could pose catastrophic risks under public-market disclosure rules.",
+      "uncertainty": "The share price, amount raised and valuation are not set; valuations of $1.5 trillion to $2 trillion are reports, not figures in the filing. Anthropic remains in litigation with the Pentagon.",
+      "watchNext": "The price range and roadshow, how investors treat the governance structure, and rulings in the appeals over the Pentagon’s supply-chain-risk designation.",
+      "keyFacts": [
+        "First-half 2026 revenue was $16.29 billion, against $1.16 billion in the first half of 2025",
+        "First-half net loss was $80.7 billion, of which about $72.4 billion was a largely noncash charge",
+        "Operating loss narrowed to $693 million from $2.1 billion a year earlier",
+        "Compute and infrastructure spending was nearly $9 billion in the half",
+        "Seven co-founders will control 50.1% of shareholder votes; a trust can appoint a majority of the board"
+      ],
+      "report": [
+        {
+          "heading": "The filing",
+          "paragraphs": [
+            "Anthropic’s 335-page registration statement became public on Monday. The company intends to list on the Nasdaq Global Select Market as ANT; AP reports a debut is expected next month. The filing does not set a price, share count or valuation. Private investors valued the company at $965 billion earlier this year, and press reports have discussed $1.5 trillion to $2 trillion.",
+            "Revenue in the six months to June reached $16.29 billion, more than three times the $4.59 billion recorded in all of 2025. The $80.7 billion net loss is dominated by about $72.4 billion in largely noncash adjustments tied to the rising value of convertible debt and similar agreements; the operating loss narrowed to $693 million. Spending on compute and infrastructure rose to nearly $9 billion from $2.3 billion. More than 1,900 customers each generated at least $1 million over the prior year."
+          ]
+        },
+        {
+          "heading": "Control and risk",
+          "paragraphs": [
+            "Seven co-founders, including chief executive Dario Amodei and president Daniela Amodei, will hold 50.1% of voting power through a special share class, and an independent Long-Term Benefit Trust can appoint a majority of directors. The risk section runs to nearly 100 pages and warns of misuse to build chemical weapons, use by authoritarian governments, and the possibility that its models could pose catastrophic or existential risks.",
+            "The company is appealing a Washington ruling in its dispute with the Pentagon, which labelled it a supply-chain risk after it refused unrestricted military use of its models; it won a separate case in California, which the government is appealing."
+          ]
+        },
+        {
+          "heading": "A note on this report",
+          "paragraphs": [
+            "The Signal is produced with Claude, an AI system made by Anthropic. This report relies on independent coverage of the filing and does not draw on any information from the company beyond its public documents."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (AP)",
+          "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of AI's existential risk to humanity",
+          "url": "https://pbs.org/newshour/nation/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-ais-existential-risk-to-humanity",
+          "publishedAt": "2026-10-26 12:40 EDT",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "TheWrap",
+          "title": "Anthropic Reveals $80.7 Billion Loss, $16.3 Billion in Revenue in IPO Filing",
+          "url": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-filing-80-billion-loss-revenue/",
+          "publishedAt": "2026-10-26",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Anthropic’s first-half revenue",
+        "measure": "Revenue, six months to June 30",
+        "unit": "$ billions",
+        "values": [
+          {"label": "H1 2025", "value": 1.16},
+          {"label": "H1 2026", "value": 16.29}
+        ],
+        "alt": "Bar chart comparing Anthropic’s revenue in the first half of 2025, $1.16 billion, with the first half of 2026, $16.29 billion.",
+        "caption": "Company-reported revenue in its IPO filing, as reported by TheWrap",
+        "sourceUrl": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-filing-80-billion-loss-revenue/"
+      }
+    },
+    {
+      "id": "melanoma-mrna-vaccine-phase3",
+      "threadId": "cancer-vaccines",
+      "threadTitle": "Personalised cancer vaccines",
+      "threadSummary": "Trials of vaccines tailored to each patient’s tumour, and what they show about preventing cancer recurrence.",
+      "section": "frontiers",
+      "field": "Medicine",
+      "title": "A personalised mRNA vaccine cuts melanoma recurrence in a Phase 3 trial",
+      "category": "Cancer trial",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-10-24",
+      "hook": "A large randomised trial now shows a tumour-tailored mRNA vaccine can keep cancer from returning, though it has not yet shown that patients live longer.",
+      "body": "Full results from the Phase 3 INTerpath-001 trial, presented at the ESMO congress in Madrid, show that adding Moderna and Merck’s personalised mRNA vaccine, intismeran autogene, to the immunotherapy Keytruda after surgery reduced the risk of melanoma returning by 42%. Two years on, 82.2% of vaccinated patients were recurrence-free, against 70.0% on Keytruda alone. Distant spread was also reduced. An overall survival benefit has not yet been shown, and the vaccine is not approved.",
+      "whatChanged": "Detailed Phase 3 data, presented on October 24, confirmed earlier topline claims and showed when and for whom the benefit appears.",
+      "whyMatters": "Melanoma that returns after surgery is often fatal; a vaccine built from each patient’s tumour that lowers recurrence would be a new kind of cancer treatment.",
+      "uncertainty": "Survival data are immature, the benefit appeared only after six months, the trial was sponsor-funded, and making an individual vaccine for each patient raises cost and access questions.",
+      "watchNext": "Publication in the New England Journal of Medicine, regulatory filings, and longer follow-up on survival.",
+      "keyFacts": [
+        "1,137 patients with resected stage IIB–IV melanoma were randomised 2:1",
+        "Recurrence risk fell 42% (hazard ratio 0.58) at a median follow-up of 24.6 months",
+        "Two-year recurrence-free survival was 82.2% versus 70.0%",
+        "Overall survival hazard ratio was 0.77 and not statistically significant",
+        "Serious (grade 3–5) treatment-related side effects were 14.2% versus 13.4%"
+      ],
+      "report": [
+        {
+          "heading": "The trial",
+          "paragraphs": [
+            "INTerpath-001 enrolled 1,137 people whose stage IIB to IV melanoma had been surgically removed and randomised them two to one to receive intismeran plus pembrolizumab (Keytruda) or placebo plus pembrolizumab. Each vaccine is manufactured from the genetic profile of the patient’s own tumour. Georgina Long of Melanoma Institute Australia presented the results at the ESMO Congress Presidential Symposium on October 24; they have been accepted by the New England Journal of Medicine.",
+            "After a median 24.6 months, the vaccine combination cut the risk of recurrence by 42% and the risk of distant metastasis by 38%. Two-year distant-metastasis-free survival was 88.5% against 80.2%. The benefit held in most subgroups."
+          ]
+        },
+        {
+          "heading": "Caveats",
+          "paragraphs": [
+            "Overall survival, the most important measure, is not yet mature and did not reach statistical significance. A landmark analysis showed no difference in the first six months, while the vaccine was being made and given; the advantage emerged after that. About 17% of screened patients could not enter because their tumour samples were inadequate, and the median wait for a first vaccine dose was 64 days.",
+            "Independent oncologists consulted by Spain’s Science Media Centre called the result clinically relevant but said longer follow-up is needed, and one noted that the reduction in metastasis was smaller than in the earlier Phase 2 study. The trial was funded by the developers."
+          ]
+        },
+        {
+          "heading": "Safety and next steps",
+          "paragraphs": [
+            "Rates of serious treatment-related side effects were similar in both groups, though fever, injection-site pain and flu-like symptoms were far more common with the vaccine. The companies say they are discussing the data with regulators."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "CancerNetwork",
+          "title": "INTerpath-001 Data Detail Survival, Subgroup, and Safety Findings in Melanoma",
+          "url": "https://www.cancernetwork.com/view/interpath-001-data-detail-survival-subgroup-and-safety-findings-in-melanoma",
+          "publishedAt": "2026-10-24",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Science Media Centre Spain",
+          "title": "The results of the personalised melanoma vaccine will be presented at the european congress of medical oncology",
+          "url": "https://sciencemediacentre.es/en/node/8160",
+          "publishedAt": "2026-10-23",
+          "kind": "Expert reaction"
+        },
+        {
+          "publisher": "Merck",
+          "title": "Merck and Moderna Will Present Results From Landmark Phase 3 INTerpath-001 Trial for Intismeran Autogene Plus Keytruda at ESMO 2026 Presidential Symposium",
+          "url": "https://www.merck.com/news/merck-and-moderna-will-present-results-from-landmark-phase-3-interpath-001-trial-for-intismeran-autogene-plus-keytruda-pembrolizumab-at-esmo-2026-presidential-symposium/",
+          "publishedAt": "2026-10-22",
+          "kind": "Company announcement"
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Melanoma-free at two years",
+        "measure": "Two-year recurrence-free survival",
+        "unit": "% of patients",
+        "values": [
+          {"label": "Vaccine + Keytruda", "value": 82.2},
+          {"label": "Keytruda alone", "value": 70.0}
+        ],
+        "alt": "Bar chart showing two-year recurrence-free survival of 82.2% with the personalised vaccine plus Keytruda versus 70.0% with Keytruda alone.",
+        "caption": "INTerpath-001 Phase 3, median follow-up 24.6 months",
+        "sourceUrl": "https://www.cancernetwork.com/view/interpath-001-data-detail-survival-subgroup-and-safety-findings-in-melanoma"
+      }
+    },
+    {
+      "id": "gaza-un-inquiry-findings",
+      "threadId": "gaza-humanitarian",
+      "threadTitle": "Gaza's humanitarian situation",
+      "threadSummary": "Conditions in Gaza after the October 2025 ceasefire, and the dispute over Israel’s conduct there.",
+      "section": "still",
+      "title": "UN inquiry says Israel’s genocidal acts in Gaza continued after the ceasefire",
+      "category": "Human rights",
+      "region": "Middle East · Gaza & West Bank",
+      "regions": ["middle-east"],
+      "status": "Still matters",
+      "eventDate": "2026-10-26",
+      "body": "A UN Commission of Inquiry reported on Monday that Israel has continued to commit genocide in Gaza despite the US-brokered ceasefire of October 2025, and crimes against humanity in the West Bank. It says Israeli-controlled areas now cover at least 60% of Gaza, behind a “Yellow Line” it describes as an advancing de facto border, and that at least 196 Palestinians, including 43 children, were killed near that line between the truce and early April. Israel called the report propaganda.",
+      "whatChanged": "An independent UN-mandated panel concluded that the ceasefire has not ended grave violations in Gaza, a day before Israel’s election.",
+      "whyMatters": "A year into the truce, Gazans remain displaced and exposed to violence, and the findings add pressure on governments weighing arms sales and accountability measures.",
+      "uncertainty": "The commission is mandated by the UN Human Rights Council and does not speak for the UN as a whole; Israel rejects its findings and its legitimacy, and genocide is a legal determination only a court can make.",
+      "watchNext": "Responses from Israel’s next government and allied states, discussion at the Human Rights Council, and casualty reporting along the Yellow Line.",
+      "keyFacts": [
+        "The report covers October 7, 2023 to September 2026",
+        "Israeli-controlled areas cover at least 60% of Gaza, the commission says",
+        "At least 196 Palestinians, including 43 children, were killed near the Yellow Line between the ceasefire and early April",
+        "It counts 254 people killed by air strikes in the West Bank since October 7, 2023, against six in 2008–2023",
+        "Israel’s Foreign Ministry called the report a propaganda document"
+      ],
+      "report": [
+        {
+          "heading": "What the commission found",
+          "paragraphs": [
+            "The Commission of Inquiry, chaired by Srinivasan Muralidhar, said Israel had continued to commit genocide and genocidal acts in Gaza after the ceasefire signed in October 2025. It described the Yellow Line, the boundary of Israeli-held territory, as a steadily encroaching de facto border, with Israeli-controlled areas now covering at least 60% of the strip. Gaza’s Health Ministry puts the cumulative death toll at more than 74,500.",
+            "On the West Bank, the panel found crimes against humanity including extermination, torture and persecution, and said settler violence formed part of a widespread and systematic attack. It noted that 254 people have been killed by air strikes there since October 7, 2023, compared with six in the preceding 15 years. It also criticised the Palestinian Authority for targeting dissenters."
+          ]
+        },
+        {
+          "heading": "Israel’s response",
+          "paragraphs": [
+            "Israel’s Foreign Ministry called the report a propaganda document detached from reality, and its mission in Geneva described the commission as a misinformation campaign that should be dissolved. Israel has long rejected the panel’s mandate and has not cooperated with it."
+          ]
+        },
+        {
+          "heading": "Why it remains a priority",
+          "paragraphs": [
+            "The ceasefire halted large-scale fighting but not killings, displacement or the expansion of Israeli control. The report lands as the related crackdown in Hebron, where about 2,000 Palestinians have been displaced since October 23, draws its own warning from the UN human rights chief. Whoever forms Israel’s next government will inherit both."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "UN panel accuses Israel of 'extermination' in West Bank, genocide in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un",
+          "publishedAt": "2026-10-26 15:44 UTC",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "Israel committing genocide in Gaza despite ceasefire, UN commission of inquiry finds",
+          "url": "https://www.abc.net.au/news/2026-10-27/un-commission-finds-israel-continued-gaza-genocide-after-truce/107313402",
+          "publishedAt": "2026-10-27 06:34 UTC",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Arab News",
+          "title": "Israel's crackdown in Hebron raises 'serious concerns of ethnic cleansing,' UN rights chief warns",
+          "url": "https://www.arabnews.com/middle-east/israels-crackdown-in-hebron-raises-serious-concerns-of-ethnic-cleansing-un-rights-chief-warns-3008414",
+          "publishedAt": "2026-10-26 19:26 UTC",
+          "kind": "Reporting"
+        }
+      ]
+    }
+  ],
+  "watch": [
+    {
+      "title": "Israel’s exit polls",
+      "text": "Polls close at 10 p.m. Israel time on Tuesday, October 27 (3 p.m. CT); exit polls will show whether either bloc nears 61 seats."
+    },
+    {
+      "title": "The Fed’s decision",
+      "text": "The Federal Reserve’s two-day meeting ends Wednesday, October 28, a week before the midterms, with inflation running hotter than expected."
+    },
+    {
+      "title": "Africa’s Ebola summit",
+      "text": "African health ministers meet virtually on Wednesday, October 28, to coordinate the response as cases spread beyond Congo."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Courts pushed back on federal efforts to intervene in the midterms a week before Election Day, Anthropic filed for a record listing, and the Fed began a closely watched meeting.",
+      "briefs": [
+        {
+          "title": "Alaska judge questions Justice Department suit over Senate count",
+          "eventDate": "2026-10-26",
+          "text": "U.S. District Judge Sharon Gleason noted that the Justice Department sued only after Alaskans had begun voting and after the state Supreme Court had put a similarly named candidate on the ballot. The suit seeks to block certification if Senator Dan Sullivan narrowly loses because of votes for that candidate; President Trump said he directed it. The judge will rule on motions to intervene by Wednesday.",
+          "sources": [
+            {
+              "publisher": "ABC News",
+              "title": "Judge appears skeptical of DOJ's legal maneuvering in Alaska lawsuit",
+              "url": "https://abcnews.com/Politics/judge-appears-skeptical-dojs-legal-maneuvering-alaska-lawsuit/story?id=137590192",
+              "publishedAt": "2026-10-26 22:19 EDT",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Federal Reserve opens its last meeting before the midterms",
+          "eventDate": "2026-10-27 / 2026-10-28",
+          "text": "The Fed, chaired by Kevin Warsh, begins a two-day meeting after inflation ran hotter than expected for two months. It raised rates in September against the president’s wishes; the decision comes on Wednesday.",
+          "sources": [
+            {
+              "publisher": "ClickOrlando (AP)",
+              "title": "5 things to watch from the Federal Reserve's next meeting",
+              "url": "https://www.clickorlando.com/news/politics/2026/10/27/5-things-to-watch-from-the-federal-reserves-next-meeting/",
+              "publishedAt": "2026-10-26 23:57 EDT",
+              "kind": "Analysis"
+            }
+          ]
+        },
+        {
+          "title": "Carney says Washington is moving toward Canada on trade",
+          "eventDate": "2026-10-26",
+          "text": "Prime Minister Mark Carney said talks with the United States had intensified slightly and that Washington was coming closer to Canada’s position, though he could not say whether President Trump would sign a deal. Trump lifted some 50% tariffs on Canadian goods on October 23 while adding others. Carney hosts EU leaders in Montreal later this week.",
+          "sources": [
+            {
+              "publisher": "ABC News (AP)",
+              "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
+              "url": "https://abcnews.com/Business/wireStory/carney-trump-moving-closer-canadas-trade-demands-midterms-137585685",
+              "publishedAt": "2026-10-26 18:11 EDT",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Brazil absorbed a market shock as Flavio Bolsonaro stepped back from contesting the vote, Venezuela’s opposition leader sought talks with the interim government, and Mexican truckers began an open-ended strike.",
+      "briefs": [
+        {
+          "title": "Mexican truckers start an indefinite national strike",
+          "eventDate": "2026-10-26",
+          "text": "Freight associations led by CANACAR began a stoppage across about 17 states, demanding action on highway cargo robberies, tow and impound fees, and a planned cut to a toll tax deduction. Protests were mostly slow convoys and roadside gatherings, and major northern border crossings stayed open. President Claudia Sheinbaum said only a small part of the sector was involved; no deal was reported on Monday.",
+          "sources": [
+            {
+              "publisher": "Infobae México",
+              "title": "Bloqueos de transportistas hoy lunes 26 de octubre: lista de carreteras afectadas por paro nacional",
+              "url": "https://www.infobae.com/mexico/2026/10/26/bloqueos-de-transportistas-hoy-lunes-26-de-octubre-lista-de-carreteras-afectadas-por-paro-nacional/",
+              "publishedAt": "2026-10-26 10:04 UTC",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "The Rio Times",
+              "title": "Mexico Truckers Strike Hits Roads on 26 Oct",
+              "url": "https://www.riotimesonline.com/mexico-truckers-strike-roads-26-october-2026/",
+              "publishedAt": "2026-10-26 20:25 UTC",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Bukele says bodies found in Haiti are not missing Salvadoran personnel",
+          "eventDate": "2026-10-24",
+          "text": "Four Salvadorans attached to the UN-authorised Gang Suppression Force have been missing since a gang ambush on October 18. After remains of four people were handed over in Port-au-Prince, President Nayib Bukele said they were not his country’s personnel. El Salvador has sent more than 100 special forces to search for them.",
+          "sources": [
+            {
+              "publisher": "ABC News (AP)",
+              "title": "El Salvador's Bukele says bodies found in Haiti are not those of missing Salvadorans",
+              "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-bodies-found-haiti-missing-salvadorans-137546705",
+              "publishedAt": "2026-10-24 22:50 EDT",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Argentine judge dismisses $LIBRA case against President Milei",
+          "eventDate": "2026-10-24",
+          "text": "A federal judge dismissed the criminal investigation into Javier Milei, his sister Karina and nine others over the collapsed $LIBRA memecoin, at the prosecutor’s request. Investors lost about $250 million. Some investors removed from the case as plaintiffs are seeking reinstatement on appeal.",
+          "sources": [
+            {
+              "publisher": "CoinDesk",
+              "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+              "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+              "publishedAt": "2026-10-24 14:38 UTC",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Russia launched a large overnight attack on Kyiv, Serbia’s student movement secured a parliamentary majority, and France’s presidential race began in earnest amid continuing protests.",
+      "briefs": [
+        {
+          "title": "Marine Le Pen launches her 2027 presidential campaign",
+          "eventDate": "2026-10-25",
+          "text": "At a rally in Orléans, Le Pen promised to restore the rule of law, tighten borders, cap energy bills and cut France’s EU contributions. An Ipsos poll published on October 24 put her first-round support at 32–34%. AFP noted she is running despite an appeals court upholding her graft conviction.",
+          "sources": [
+            {
+              "publisher": "The Korea Times (AFP)",
+              "title": "France's Le Pen launches presidential bid vowing to restore 'rule of law'",
+              "url": "https://www.koreatimes.co.kr/world/20261026/frances-le-pen-launches-presidential-bid-vowing-to-restore-rule-of-law",
+              "publishedAt": "2026-10-26 01:12 UTC",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Bulgaria’s first round drew a record-low turnout",
+          "eventDate": "2026-10-25 / 2026-10-26",
+          "text": "Final first-round figures gave acting President Iliana Iotova 34.8% and reformist Andrey Gyurov 31.9%, a far closer race than polls predicted. Turnout was about 22.5%, the lowest on record. Prime Minister Rumen Radev framed the November 1 runoff as a choice between peace and war.",
+          "sources": [
+            {
+              "publisher": "Balkan Insight",
+              "title": "Bulgaria's Presidential Election Heads to Runoff After Record Low Turnout",
+              "url": "https://balkaninsight.com/2026/10/26/bulgarias-presidential-election-heads-to-runoff-after-record-low-turnout/bi/",
+              "publishedAt": "2026-10-26 10:14 UTC",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Youth-led protests spread across southern Europe",
+          "eventDate": "2026-10-24",
+          "text": "A largely leaderless protest wave over pensions, housing and schools, dubbed the October 17 Movement, has spread from France to Italy, Spain, Portugal, Albania and Belgium. Italy sent 500 extra soldiers to Milan after looting near the cathedral, with 45 arrests, most of them minors.",
+          "sources": [
+            {
+              "publisher": "Fortune (AP)",
+              "title": "It's not just France — Protesters are marching across Europe as part of the newly formed 'Oct. 17 Movement'",
+              "url": "https://fortune.com/2026/10/24/europe-protests-oct-17-movement-france-spain-italy-albania-portugal/",
+              "publishedAt": "2026-10-24 11:16 EDT",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "Congo’s Ebola outbreak passed 10,000 confirmed cases with cases in Kenya and Nigeria, Egypt’s parliament cleared military support for Saudi Arabia, and a village massacre shook Nigeria’s Taraba State.",
+      "briefs": [
+        {
+          "title": "Dozens killed in an attack on a village in Nigeria’s Taraba State",
+          "eventDate": "2026-10-23 / 2026-10-26",
+          "text": "Suspected bandits attacked Binnari in Karim Lamido local government area on October 23. Tolls vary: community leaders counted 50 dead, and Leadership newspaper reported 58, including 15 who drowned when an overloaded canoe capsized as people fled. Thousands were displaced, and the state government has begun delivering relief.",
+          "sources": [
+            {
+              "publisher": "Channels TV",
+              "title": "Taraba Community Puts Death Toll From Binnari Attack at 50, Govt Delivers Relief Materials",
+              "url": "https://www.channelstv.com/2026/10/25/taraba-community-puts-death-toll-from-binnari-attack-at-50/",
+              "publishedAt": "2026-10-25",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "allAfrica (Leadership)",
+              "title": "Nigeria: Taraba Attack Death Toll Hits 58 As Residents Lament Neglect",
+              "url": "https://allafrica.com/stories/202610260029.html",
+              "publishedAt": "2026-10-26",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Israelis voted in a closely fought election, regional envoys left Tehran without a ceasefire plan, Houthi attacks on Saudi Arabia widened, and Jordan bombed southern Syria after a church massacre.",
+      "briefs": [
+        {
+          "title": "UN rights chief warns of ethnic cleansing concerns in Hebron",
+          "eventDate": "2026-10-26",
+          "text": "Volker Türk called Israel’s operation in Hebron, launched after two soldiers were killed on October 23, collective punishment, and said threats to empty entire neighbourhoods raise serious concerns of ethnic cleansing. Defence Minister Israel Katz confirmed that about 2,000 people had been displaced. Türk called for residents to be allowed home.",
+          "sources": [
+            {
+              "publisher": "Arab News",
+              "title": "Israel's crackdown in Hebron raises 'serious concerns of ethnic cleansing,' UN rights chief warns",
+              "url": "https://www.arabnews.com/middle-east/israels-crackdown-in-hebron-raises-serious-concerns-of-ethnic-cleansing-un-rights-chief-warns-3008414",
+              "publishedAt": "2026-10-26 19:26 UTC",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "China’s Communist Party leadership met behind closed doors, tension rose on the Korean border, and Indonesia cut gas to Singapore in a dispute over haze.",
+      "briefs": [
+        {
+          "title": "Xi opens a plenum focused on party discipline",
+          "eventDate": "2026-10-26",
+          "text": "Xi Jinping delivered a work report as the Central Committee began a four-day closed meeting on strict party self-governance, the last major gathering before the 2027 party congress. Analysts expect the communiqué on Thursday to show the anti-corruption drive continuing; a wave of military purges could leave attendance unusually low.",
+          "sources": [
+            {
+              "publisher": "The Express Tribune (Reuters)",
+              "title": "China's Xi opens Communist Party plenum, aims for firm governance measures",
+              "url": "https://tribune.com.pk/story/2637041/chinas-xi-opens-communist-party-plenum-aims-for-firm-governance-measures",
+              "publishedAt": "2026-10-26",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "KPBS (AP)",
+              "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+              "url": "https://www.kpbs.org/news/international/2026/10/26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+              "publishedAt": "2026-10-26 06:20 PDT",
+              "kind": "Analysis"
+            }
+          ]
+        },
+        {
+          "title": "Kim Jong Un crosses into China over a newly opened bridge",
+          "eventDate": "2026-10-24",
+          "text": "North Korea’s leader made a one-day visit to Dandong, crossing the New Yalu River Bridge, which opened about a week earlier after standing unused since 2014. He was received by senior Chinese leader Wang Huning and visited a Korean War memorial and a car factory.",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "North Korea's Kim Jong Un visits China via newly opened bridge",
+              "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
+              "publishedAt": "2026-10-24",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "U.S. Marine indicted for murder in Okinawa",
+          "eventDate": "2026-10-25",
+          "text": "Japanese prosecutors indicted a 20-year-old Marine on murder and robbery charges over the killing of a woman in a Naha hotel on October 3. Japan’s prime minister called it a heinous crime, and the foreign minister is reviewing off-base conduct rules for U.S. troops. The case has revived protests in Okinawa.",
+          "sources": [
+            {
+              "publisher": "CBS News",
+              "title": "U.S. Marine indicted on murder charge over woman's killing in Japan",
+              "url": "https://www.cbsnews.com/news/us-marine-indicted-murder-charge-woman-killing-japan/",
+              "publishedAt": "2026-10-26 07:13 EDT",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "A relatively quiet day: AUKUS named the first U.S. submarine to be based in Western Australia, and Australia’s parliament paid tribute to an MP gravely injured in an attack.",
+      "briefs": [
+        {
+          "title": "USS Colorado will be the first U.S. submarine based near Perth",
+          "eventDate": "2026-10-26",
+          "text": "The Pentagon said the Virginia-class submarine USS Colorado will be the first boat of Submarine Rotational Force-West at HMAS Stirling from late 2027. The force is planned to include four U.S. submarines and one British boat under the AUKUS pact.",
+          "sources": [
+            {
+              "publisher": "Defense News",
+              "title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
+              "url": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
+              "publishedAt": "2026-10-26",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Australia’s parliament honours MP Helen Haines",
+          "eventDate": "2026-10-26",
+          "text": "Parliament set aside almost its entire sitting for tributes to the independent MP for Indi, who lost both legs after allegedly being struck repeatedly by a vehicle outside her office on October 19. She is in serious but stable condition. Prime Minister Anthony Albanese and Opposition Leader Angus Taylor both spoke, and security was increased.",
+          "sources": [
+            {
+              "publisher": "1News (AAP)",
+              "title": "Helen Haines' waking words were of concern for others",
+              "url": "https://www.1news.co.nz/2026/10/26/helen-haines-waking-words-were-of-concern-for-others/",
+              "publishedAt": "2026-10-26",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

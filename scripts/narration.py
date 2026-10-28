@@ -7,9 +7,10 @@ Still matters and What we're watching.
 import hashlib, json, re
 from datetime import date
 
-# The narrator: a blend of two British male voices, mostly the deeper one. Changing the
-# voice, speed or RECIPE re-records every edition still on the site.
-VOICE = {'bm_lewis': 0.65, 'bm_george': 0.35}
+# The narrator: George, a British male voice. A single voice name or a blend such as
+# {'bm_lewis': 0.65, 'bm_george': 0.35} both work. Changing the voice, speed or RECIPE
+# re-records every edition still on the site.
+VOICE = 'bm_george'
 SPEED = 0.94
 LANG = 'en-gb'
 RECIPE = 3  # bump when the script or the synthesis changes in a way that should re-record

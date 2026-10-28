@@ -1,0 +1,1310 @@
+{
+ "date": "2026-10-28",
+ "number": 11,
+ "cutoff": "2026-10-28T11:20:00Z",
+ "cutoffLabel": "6:20 AM CT",
+ "opening": "Israel’s partial count left Netanyahu’s bloc six seats short of a majority. The Houthis fired on Saudi Arabia’s largest refinery and Riyadh, a local truce began in occupied Oleshky, Flávio Bolsonaro was reported to have left Brazil for the US, and Cyclone Arnab struck eastern India.",
+ "leadStoryId": "israel-election-hung-count",
+ "stories": [
+  {
+   "id": "israel-election-hung-count",
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel's first general election since the October 7 attacks, a contest between Benjamin Netanyahu's bloc and challengers led by former army chief Gadi Eisenkot.",
+   "section": "world",
+   "title": "Israel’s count leaves Netanyahu’s bloc short of a majority, with no clear path for either side",
+   "category": "Elections",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-27 / 2026-10-28",
+   "body": "With just over half of votes counted on Wednesday morning, Benjamin Netanyahu’s bloc had 55 of 120 seats, six short of a majority, against 49 for parties led by Gadi Eisenkot and 16 for Arab parties. Likud was the largest party with 27 seats. Exit polls on Tuesday night had given Eisenkot’s bloc a slight lead. Turnout reached 74.3% by 8 p.m., the highest at that hour since 1988. More than 600,000 special ballots, including soldiers’ votes, will be counted later.",
+   "whatChanged": "Exit polls pointed to a narrow opposition edge, but the partial count put Netanyahu’s bloc ahead while leaving both camps short of 61 seats.",
+   "whyMatters": "The result decides whether Netanyahu keeps power after the October 7 attacks and the wars that followed, and whether a government can be formed without the Arab parties that hold the balance.",
+   "uncertainty": "Seat totals shifted several times overnight; small parties near the 3.25% threshold and the uncounted special ballots could still move the blocs by a few seats.",
+   "watchNext": "The completion of the regular count, the special-ballot tally expected by Friday, October 30, and President Isaac Herzog’s consultations on who gets the first chance to form a government.",
+   "keyFacts": [
+    "Partial count (51.5% of votes): Netanyahu bloc 55, Eisenkot bloc 49, Arab parties 16",
+    "Likud 27 seats, Yashar! 21, Joint List 12, Bennett’s Beyachad 11",
+    "Turnout 74.3% at 8 p.m., the highest at that hour since 1988",
+    "About 600,000–650,000 double-envelope ballots are counted separately, possibly into Friday",
+    "Official results are due on November 4"
+   ],
+   "report": [
+    {
+     "heading": "What the count shows",
+     "paragraphs": [
+      "Ynetnews’s tally of official partial results, with 51.5% of votes counted on Wednesday morning, gave Likud 27 seats, Eisenkot’s Yashar! 21, the Joint List 12, Naftali Bennett’s Beyachad 11, the Democrats and United Torah Judaism 9 each, Yisrael Beytenu 8, Shas 7, Otzma Yehudit and Religious Zionism 6 each, and Ra’am 4. Grouped by camp, that is 55 for Netanyahu’s coalition partners, 49 for the parties around Eisenkot and 16 for the Arab parties.",
+      "The picture moved through the night. The Times of Israel’s live coverage showed Netanyahu’s bloc briefly projected above 61 seats when a quarter of votes were in, before falling back as more ballots arrived. Exit polls on Channel 12 and Channel 13 at the 10 p.m. close had given Eisenkot’s side 52 or 53 seats to Netanyahu’s 50."
+     ]
+    },
+    {
+     "heading": "What the leaders said",
+     "paragraphs": [
+      "Eisenkot said voters had chosen change and called on Netanyahu to step down. Netanyahu did not claim outright victory; he said the right had a decisive majority among Zionist voters, rejected any government relying on Arab parties, and said he planned a right-wing national government. The shekel weakened as early results came in."
+     ]
+    },
+    {
+     "heading": "What happens next",
+     "paragraphs": [
+      "More than 600,000 double-envelope ballots, cast by soldiers, diplomats, hospital patients and others, need separate verification, which could run into Friday. Such votes have historically leaned towards Zionist parties. Several parties sit close to the 3.25% threshold, so final seat counts may still change. Official results are due on November 4, after which President Isaac Herzog consults the factions and chooses a lawmaker to try to form a government. Al Jazeera notes the vote was widely seen as a referendum on Netanyahu’s handling of October 7 and the wars that followed."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Ynetnews",
+     "title": "Israel election results: Netanyahu bloc at 55 seats with over half the votes counted",
+     "url": "https://www.ynetnews.com/article/hjnatbkaml",
+     "publishedAt": "2026-10-28 06:09 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Ynetnews",
+     "title": "Revised exit polls show Netanyahu bloc pulling ahead, Likud largest as Arab parties surge",
+     "url": "https://www.ynetnews.com/article/skd97fc2gl",
+     "publishedAt": "2026-10-27 20:08 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Times of Israel",
+     "title": "Liveblog: October 28, 2026",
+     "url": "https://www.timesofisrael.com/liveblog-october-28-2026/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Partial results show no clear winner in Israel election",
+     "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner",
+     "publishedAt": "2026-10-27",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Knesset seats in the partial count",
+    "measure": "Projected seats with 51.5% of votes counted",
+    "unit": "seats",
+    "values": [
+     {
+      "label": "Netanyahu bloc",
+      "value": 55
+     },
+     {
+      "label": "Eisenkot bloc",
+      "value": 49
+     },
+     {
+      "label": "Arab parties",
+      "value": 16
+     }
+    ],
+    "alt": "Bar chart of projected Knesset seats with about half the vote counted: Netanyahu’s bloc 55, Eisenkot’s bloc 49, Arab parties 16. A majority requires 61 of 120.",
+    "caption": "Partial results as of Wednesday morning, October 28 · 61 seats needed for a majority · totals may change",
+    "sourceUrl": "https://www.ynetnews.com/article/hjnatbkaml"
+   }
+  },
+  {
+   "id": "houthis-strike-ras-tanura-riyadh",
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war involving Iran, its allies and the Gulf states, and efforts to stop it spreading.",
+   "section": "world",
+   "title": "Houthis fire on Saudi Arabia’s biggest refinery and Riyadh as Yemen sees its fiercest fighting in weeks",
+   "category": "Conflict",
+   "region": "Middle East · Saudi Arabia & Yemen",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-26 / 2026-10-27",
+   "body": "Yemen’s Houthis said on Tuesday they struck Saudi Arabia’s Ras Tanura refinery and the defence ministry in Riyadh with missiles. Saudi authorities did not confirm the targets but said they shot down two ballistic missiles over the capital, where debris hit a building and a car, and three more aimed at the Eastern Province. A fire near Ras Tanura was contained. In southwestern Yemen, an AFP tally put the dead at 97 since Monday as Saudi-backed forces tried to retake ground near the Bab al-Mandab strait.",
+   "whatChanged": "The Houthis widened their attacks to Saudi Arabia’s main oil export hub and its capital, a day after Egypt authorised military support for Riyadh.",
+   "whyMatters": "Nearly all Saudi oil exports leave through Ras Tanura and Yanbu, so attacks there threaten global supply as the Yemen war merges with the wider Iran conflict.",
+   "uncertainty": "The extent of damage at Ras Tanura is unclear; the Houthis claim a direct hit on the defence ministry, which Saudi Arabia has not confirmed, and casualty figures come from combatants on both sides.",
+   "watchNext": "Whether Saudi Arabia confirms damage or any disruption to exports, Egypt’s next steps after its parliament’s vote, and the ground battle near Bab al-Mandab.",
+   "keyFacts": [
+    "Ras Tanura can process 550,000 barrels a day and was partly shut after a drone attack in March",
+    "Saudi Arabia said it downed two ballistic missiles over Riyadh and three aimed at the Eastern Province",
+    "AFP counted 97 dead since Monday: at least 63 Houthi fighters and 34 pro-government fighters",
+    "The Houthis said Saudi jets carried out 81 air strikes in 24 hours"
+   ],
+   "report": [
+    {
+     "heading": "The strikes on Saudi Arabia",
+     "paragraphs": [
+      "Houthi military spokesman Yahya Saree said on Tuesday that the group fired ballistic missiles at the Ras Tanura refinery on the Gulf coast and at the defence ministry in Riyadh, and also targeted military transport aircraft in the south of the kingdom and Abha airport. Saudi authorities did not address specific targets. They said two ballistic missiles were intercepted over the capital, with fragments damaging a building, a construction site and a car, and the Saudi-led coalition said three missiles fired at the Eastern Province were destroyed. Residents of Riyadh received text alerts to take shelter.",
+      "The maritime security firm Vanguard reported a fire in the Ras Tanura area early on Tuesday that was later contained; Bloomberg, cited by Reuters, said the blaze was near the terminal. The refinery is Saudi Arabia’s largest and was hit by drones in March."
+     ]
+    },
+    {
+     "heading": "The ground war in Yemen",
+     "paragraphs": [
+      "Fighting in the southwest began with Saudi air strikes late on Monday and is the heaviest since the Houthis’ offensive in September. Government forces backed by Riyadh are trying to regain ground lost last month. AFP’s count from military sources on both sides put the dead at 97, mostly near the Bab al-Mandab strait. The Houthis said they repelled an advance there and accused Saudi jets of 81 strikes in a day."
+     ]
+    },
+    {
+     "heading": "A widening war",
+     "paragraphs": [
+      "The attacks came a day after Egypt’s parliament approved defensive military support for Saudi Arabia, which a senior Houthi official described as a declaration of war. On the same day, Saudi Arabia’s defence minister, Pakistan’s army chief and Turkey’s intelligence chief visited Tehran in an effort to calm the region. The Houthis have declared a maritime blockade of Saudi Arabia, and the Yemen conflict reignited in July."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Business Recorder (AFP)",
+     "title": "Houthis claim attacks on Saudi oil refinery, defence ministry",
+     "url": "https://www.brecorder.com/news/40446237/houthis-claim-attacks-on-saudi-oil-refinery-defence-ministry",
+     "publishedAt": "2026-10-28 04:46",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Standard (Reuters)",
+     "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
+     "url": "https://www.thestandard.com.hk/world/article/346693/Yemens-Houthis-say-they-hit-Saudi-Ras-Tanura-oil-refinery-with-missile",
+     "publishedAt": "2026-10-27",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Saudi Arabia and Yemen",
+    "bounds": [
+     36,
+     10,
+     58,
+     31
+    ],
+    "countries": [
+     "682",
+     "887"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 38.5,
+      "lat": 20,
+      "kind": "water"
+     },
+     {
+      "label": "Persian Gulf",
+      "lon": 52,
+      "lat": 27.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Arabian Peninsula highlighting Saudi Arabia and Yemen, with markers at Ras Tanura on the Gulf coast, Riyadh, and the Bab al-Mandab strait at Yemen’s southwestern tip.",
+    "caption": "Saudi Arabia and Yemen · markers show reported targets and the area of heaviest ground fighting"
+   },
+   "locations": [
+    {
+     "label": "Ras Tanura refinery",
+     "mapLabel": "Ras Tanura",
+     "lon": 50.16,
+     "lat": 26.64
+    },
+    {
+     "label": "Riyadh",
+     "lon": 46.72,
+     "lat": 24.71
+    },
+    {
+     "label": "Bab al-Mandab strait",
+     "mapLabel": "Bab al-Mandab",
+     "lon": 43.4,
+     "lat": 12.6
+    }
+   ]
+  },
+  {
+   "id": "oleshky-ceasefire-nordic-putin-call",
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, attacks on European infrastructure and the diplomacy around a ceasefire.",
+   "section": "world",
+   "title": "A local truce takes hold in occupied Oleshky as Norway and Finland call Putin before possible talks",
+   "category": "Diplomacy",
+   "region": "Europe · Ukraine & Russia",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-27",
+   "body": "A ceasefire around Oleshky, a Russian-occupied town in Ukraine’s Kherson region, took effect early on Tuesday so that aid can reach residents and civilians can leave. The White House credits Melania Trump with brokering it, and both sides’ negotiators confirmed it. The same day, Norway’s prime minister and Finland’s president held a rare call with Vladimir Putin about future negotiations. US, Ukrainian and Russian talks are expected in Abu Dhabi in November, but Russian missiles hit Kyiv minutes after the truce began.",
+   "whatChanged": "The first negotiated local truce in months began, and two European leaders spoke directly to Putin ahead of expected three-way talks.",
+   "whyMatters": "Oleshky had about 24,000 people before the war and now lacks power, heat and water; a working truce could become a template for other humanitarian missions.",
+   "uncertainty": "There are no figures yet on aid delivered or people evacuated, it is unclear where evacuees will be taken, and dates for the Abu Dhabi talks have not been set.",
+   "watchNext": "Mine clearance and the first aid convoy into Oleshky, how long fighting stays frozen there, and confirmation of a date for the Abu Dhabi talks.",
+   "keyFacts": [
+    "The Oleshky truce began at 3 a.m. Kyiv time on October 27",
+    "Oleshky had about 24,000 residents before Russia captured it in February 2022",
+    "Ukraine’s Dmytro Lubinets and Russia’s Yana Lantratova led the negotiating teams",
+    "Jonas Gahr Støre and Alexander Stubb spoke to Putin on October 27",
+    "Russian ballistic missiles struck Kyiv overnight, killing at least one person and injuring 15"
+   ],
+   "report": [
+    {
+     "heading": "The Oleshky truce",
+     "paragraphs": [
+      "The ceasefire began at 3 a.m. Kyiv time on Tuesday, covering Oleshky and designated areas of Kherson region linked to the humanitarian mission. Ukraine’s chief negotiator, human rights commissioner Dmytro Lubinets, said Ukraine was honouring its commitments; Russia’s defence ministry said its troops had stopped fighting there. AP reported that negotiators from Ukraine, Russia and the United States agreed the deal on Friday, and the White House said Melania Trump helped secure it.",
+      "The plan is to clear mines on the route first, then deliver food, medicine and hygiene products, and allow residents who want to leave to do so. The Kremlin did not say whether evacuees would go to Russian- or Ukrainian-held territory. The town, on the east bank of the Dnipro, has been without electricity, heating and running water, with mined roads and drones overhead."
+     ]
+    },
+    {
+     "heading": "The Nordic call",
+     "paragraphs": [
+      "Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb said they called Putin to pass on messages about future negotiations, stressing that they did not speak for Europe as a whole. Volodymyr Zelensky thanked them; Denmark’s Mette Frederiksen said she was sceptical and that the call had not been coordinated. The Kremlin’s account mentioned maritime law and freedom of navigation."
+     ]
+    },
+    {
+     "heading": "The war goes on",
+     "paragraphs": [
+      "Minutes after the Oleshky truce began, Russia launched a second wave of ballistic missiles at Kyiv, damaging the Southern Bridge, a university campus and medical facilities. Ukraine’s emergency service reported at least one death and 15 injuries. Trilateral talks with the United States are expected in Abu Dhabi in November, possibly preceded by a round in Europe, according to an EU official cited by the Kyiv Independent."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Kyiv Independent",
+     "title": "Local ceasefire in besieged Oleshky begins, Ukrainian, Russian officials say",
+     "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/",
+     "publishedAt": "2026-10-27 (updated)",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Atlanta Journal-Constitution (AP)",
+     "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in",
+     "url": "https://www.ajc.com/news/2026/10/melania-trump-brokers-a-ceasefire-deal-in-russian-occupied-ukrainian-city-to-get-relief-aid-in/",
+     "publishedAt": "2026-10-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Kyiv Independent",
+     "title": "Norway, Finland call Putin ahead of potential Abu Dhabi peace talks",
+     "url": "https://kyivindependent.com/norway-finland-call-putin-ahead-of-potential-abu-dhabi-peace-talks-2/",
+     "publishedAt": "2026-10-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Kyiv Independent",
+     "title": "Deadly Russian ballistic missile attack hits Kyiv university, bridge, medical centers",
+     "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
+     "publishedAt": "2026-10-26 (updated 2026-10-27)",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Oleshky in Kherson region",
+    "bounds": [
+     21,
+     43.5,
+     41,
+     53.5
+    ],
+    "countries": [
+     "804"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 33,
+      "lat": 44.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Ukraine with markers at Oleshky, on the occupied east bank of the Dnipro near Kherson, and at Kyiv.",
+    "caption": "Ukraine · markers show the truce area around Oleshky and Kyiv, struck the same night"
+   },
+   "locations": [
+    {
+     "label": "Oleshky, Kherson region",
+     "mapLabel": "Oleshky",
+     "lon": 32.52,
+     "lat": 46.62
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    }
+   ]
+  },
+  {
+   "id": "flavio-bolsonaro-leaves-brazil",
+   "threadId": "brazil-election-2026",
+   "threadTitle": "Brazil's 2026 presidential election",
+   "threadSummary": "Brazil’s October 2026 election, in which Luiz Inácio Lula da Silva sought a fourth term against Flávio Bolsonaro.",
+   "section": "world",
+   "title": "Flávio Bolsonaro is reported to have left Brazil for the US despite a travel ban, and Washington offers visas",
+   "category": "Politics",
+   "region": "Latin America · Brazil",
+   "regions": [
+    "latin-america",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-27",
+   "body": "US media reported on Tuesday that Flávio Bolsonaro, who lost Sunday’s presidential runoff to Luiz Inácio Lula da Silva, was travelling to the United States despite a court order barring him from leaving Brazil. The State Department said it would issue visas to him and his family. Brazilian police said there was no formal record of his departure and that his passports had been cancelled. He is under investigation for alleged corruption and money laundering, and will lose parliamentary immunity.",
+   "whatChanged": "A day after dropping his bid to annul the vote, Bolsonaro’s whereabouts became unclear amid reports he had left for the US, and the US said it would grant him visas.",
+   "whyMatters": "The defeated candidate’s apparent flight from a court order, with US backing, sets up a clash between Brasília and Washington just as Lula prepares a fourth term.",
+   "uncertainty": "Brazilian authorities had not confirmed that he left or how; Argentina denied reports that he entered its territory, and he has said he never meant to leave.",
+   "watchNext": "Confirmation of his location, any Brazilian request for his return, and the police inquiry into alleged foreign funding of his campaign.",
+   "keyFacts": [
+    "Lula won the October 25 runoff with 51.8% of the vote",
+    "A Supreme Court order had barred Bolsonaro from leaving and required him to surrender his passports",
+    "Police say his Brazilian and diplomatic passports have been cancelled",
+    "He has held Italian nationality since 2023, according to AFP",
+    "Justice Flávio Dino ordered a police inquiry into alleged foreign funding of his campaign"
+   ],
+   "report": [
+    {
+     "heading": "What is known",
+     "paragraphs": [
+      "Several US outlets reported on Tuesday that Flávio Bolsonaro was on his way to the United States; CNN, citing an unnamed official, said he was heading to Florida. The State Department said it would issue visas to him and his family, without confirming his travel. In Brazil, a police source told AFP there was no formal record of him leaving and that both his ordinary and diplomatic passports had been cancelled. AFP saw a motorcade leave his Brasília residence but could not tell whether he was in it. Argentina’s security ministry denied reports that he had crossed into Argentina.",
+      "On Monday, Bolsonaro had said in a video that a Supreme Court justice ordered him to hand over his passports, called the exit ban a scare tactic and said he had no intention of leaving. He had not complied by Tuesday afternoon."
+     ]
+    },
+    {
+     "heading": "The legal pressure",
+     "paragraphs": [
+      "Bolsonaro is under investigation for alleged corruption and money laundering, and his defeat means he loses parliamentary immunity. On Tuesday, Justice Flávio Dino also ordered police to investigate alleged foreign funding of his campaign and other foreign interference, including manipulation on social media. He holds Italian nationality, which AFP noted, and his brother Eduardo, a former lawmaker living in the US, had said he should leave if he lost."
+     ]
+    },
+    {
+     "heading": "Reactions",
+     "paragraphs": [
+      "Lula, who turned 81 on Tuesday, called leaving the country shameful and said anyone who sneaks out must have something to hide. Bolsonaro’s campaign manager, Rogério Marinho, said he had no news of his whereabouts. Donald Trump has called the election rigged, without offering evidence."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Yahoo News (AFP)",
+     "title": "US to grant Flavio Bolsonaro visa as he flees Brazil after election loss",
+     "url": "https://www.yahoo.com/news/us/articles/brazils-flavio-bolsonaro-flees-us-220155232.html",
+     "publishedAt": "2026-10-27 23:03 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "US set to grant Flávio Bolsonaro visa after fleeing Brazil following election loss",
+     "url": "https://www.abc.net.au/news/2026-10-28/flavio-bolsonaro-passport-brazil-presidential-election/107316922",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Brazil",
+    "bounds": [
+     -75,
+     -35,
+     -32,
+     7
+    ],
+    "countries": [
+     "076"
+    ],
+    "labels": [
+     {
+      "label": "Atlantic Ocean",
+      "lon": -36,
+      "lat": -25,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Brazil with a marker at Brasília, where Flávio Bolsonaro’s residence is; his current location is unconfirmed.",
+    "caption": "Brazil · marker shows Brasília · Bolsonaro’s current location is unconfirmed"
+   },
+   "locations": [
+    {
+     "label": "Brasília",
+     "lon": -47.88,
+     "lat": -15.79
+    }
+   ]
+  },
+  {
+   "id": "cyclone-arnab-landfall",
+   "threadId": "cyclone-arnab-2026",
+   "threadTitle": "Cyclone Arnab",
+   "threadSummary": "A very severe cyclonic storm from the Bay of Bengal that struck India’s east coast in late October 2026.",
+   "section": "world",
+   "title": "Cyclone Arnab hits India’s east coast after more than 180,000 people are evacuated",
+   "category": "Disaster",
+   "region": "Asia · India",
+   "regions": [
+    "asia"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-27 / 2026-10-28",
+   "body": "Cyclone Arnab crossed the coast of Andhra Pradesh early on Wednesday as a very severe cyclonic storm, with sustained winds of 125–135 km/h and gusts to 150 km/h, before weakening inland. Authorities moved more than 180,000 people out of its path in Andhra Pradesh and Odisha. Visakhapatnam recorded 315 mm of rain by mid-morning, trees and power lines came down, and flights and trains were cancelled. No deaths had been reported by Wednesday afternoon local time.",
+   "whatChanged": "The storm made landfall and weakened to a severe cyclonic storm, with heavy rain now spreading inland and towards the Himalayas.",
+   "whyMatters": "More than 12 million people live along the projected path, and the rain threatens floods and landslides from India to Nepal and Sri Lanka.",
+   "uncertainty": "Damage assessments have barely begun, and early reports of no casualties may change as areas cut off by flooding are reached.",
+   "watchNext": "Rainfall over Wednesday and Thursday, flood levels in coastal districts, and Nepal’s Himalayan weather from Thursday to Saturday.",
+   "keyFacts": [
+    "Landfall on the Andhra Pradesh coast early on October 28, completed over more than six hours",
+    "Sustained winds of 125–135 km/h with gusts to 150 km/h at landfall",
+    "More than 180,000 people evacuated in Andhra Pradesh and Odisha",
+    "Visakhapatnam 315 mm and Vizianagaram 301 mm of rain by 8:30 a.m.",
+    "Nepal suspended trekking permits for three days"
+   ],
+   "report": [
+    {
+     "heading": "Landfall",
+     "paragraphs": [
+      "The India Meteorological Department said Arnab had moved completely over land along the Andhra Pradesh and Yanam coasts on Wednesday morning, after a landfall process lasting more than six hours. Its 9:50 a.m. bulletin placed the centre about 20 km east of Narsapur and 60 km south-southwest of Kakinada. It struck as a very severe cyclonic storm, the third-highest category on India’s scale, and was downgraded to severe at 8:30 a.m.",
+      "Rain totals to 8:30 a.m. included 315 mm in Visakhapatnam, 301 mm in Vizianagaram and 275 mm in Anakapalli; Odisha’s Koraput district recorded 188 mm. The weather office had warned of a storm surge of up to 1.5 metres above tide level."
+     ]
+    },
+    {
+     "heading": "Preparations and early impact",
+     "paragraphs": [
+      "On Monday night only about 50,000 people in Andhra Pradesh had reached shelters, out of roughly 400,000 officials said needed to move, but by landfall more than 180,000 had been evacuated across Andhra Pradesh and Odisha. Trees fell across highways, power supplies were cut, some schools closed and airlines cancelled flights to Visakhapatnam and Vijayawada. At least 12 trains were cancelled. No casualties had been reported by Wednesday afternoon."
+     ]
+    },
+    {
+     "heading": "Beyond India",
+     "paragraphs": [
+      "Nepal told tourists to avoid high-altitude areas from Thursday to Saturday because of the risk of heavy rain, snowstorms and avalanches, and suspended trekking permits for three days during peak season. The country is still recovering from an August flash flood that killed around 1,500 people. Sri Lanka closed schools and warned of flash floods and landslides."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Business Standard (UNB)",
+     "title": "Cyclone Arnab completes landfall, triggers heavy rain in Andhra Pradesh, Odisha",
+     "url": "https://www.tbsnews.net/worldbiz/asia/cyclone-arnab-completes-landfall-triggers-heavy-rain-andhra-pradesh-odisha-1585546",
+     "publishedAt": "2026-10-28 09:40 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Yahoo News (Al Jazeera)",
+     "title": "Cyclone Arnab makes landfall in India's Andhra Pradesh",
+     "url": "https://www.yahoo.com/news/world/articles/cyclone-arnab-makes-landfall-india-080726617.html",
+     "publishedAt": "2026-10-28 08:07 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "India evacuates tens of thousands as 'very severe' Cyclone Arnab nears",
+     "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears",
+     "publishedAt": "2026-10-27",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Cyclone Arnab’s landfall",
+    "bounds": [
+     72,
+     8,
+     92,
+     28
+    ],
+    "countries": [
+     "356"
+    ],
+    "labels": [
+     {
+      "label": "Bay of Bengal",
+      "lon": 87,
+      "lat": 15,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of India highlighting the country, with markers at Kakinada near the landfall area and at Visakhapatnam on the Andhra Pradesh coast.",
+    "caption": "India · markers show the landfall area near Kakinada and Visakhapatnam, which recorded the most rain"
+   },
+   "locations": [
+    {
+     "label": "Kakinada, near landfall",
+     "mapLabel": "Kakinada",
+     "lon": 82.24,
+     "lat": 16.99
+    },
+    {
+     "label": "Visakhapatnam",
+     "lon": 83.22,
+     "lat": 17.69
+    }
+   ]
+  },
+  {
+   "id": "us-warns-gulf-iran-campaign",
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war involving Iran, its allies and the Gulf states, and efforts to stop it spreading.",
+   "section": "more",
+   "title": "US reportedly tells Gulf allies to prepare for a short, intense campaign against Iran after the midterms",
+   "category": "Security",
+   "region": "Middle East · Gulf & Iran",
+   "regions": [
+    "middle-east",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-27 / 2026-10-28",
+   "whatChanged": "The Wall Street Journal reported that Washington has warned several Gulf states to brace for renewed US strikes on Iran after the November 3 elections.",
+   "body": "According to the Journal, as relayed by Israel Hayom and Kurdistan24, President Trump has not decided but is leaning towards a large attack on Iranian infrastructure and nuclear sites, while a Patriot battery is moving from Texas to Israel and more warships are due next month. The White House said Trump keeps all options on the table and declined to discuss military plans. The IAEA says it has seen no repair work at damaged nuclear sites but lacks access to verify them.",
+   "sources": [
+    {
+     "publisher": "Israel Hayom",
+     "title": "US warns Gulf Arab states of short, intense Iran campaign",
+     "url": "https://www.israelhayom.com/2026/10/28/url-slug-us-warns-gulf-arab-states-iran",
+     "publishedAt": "2026-10-28 03:00 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kurdistan24",
+     "title": "WSJ: US Warns Gulf Countries to Prepare For Iran War After Elections",
+     "url": "https://www.kurdistan24.net/en/story/949029/wsj-us-warns-gulf-countries-to-prepare-for-iran-war-after-elections",
+     "publishedAt": "2026-10-28 05:51 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "putin-pezeshkian-moscow",
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war involving Iran, its allies and the Gulf states, and efforts to stop it spreading.",
+   "section": "more",
+   "title": "Putin hosts Iran’s president in Moscow and pledges to keep up joint projects",
+   "category": "Diplomacy",
+   "region": "Europe & Middle East · Russia & Iran",
+   "regions": [
+    "europe",
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-27",
+   "whatChanged": "Vladimir Putin and Masoud Pezeshkian met at a gas exporters’ summit, with no new agreements announced.",
+   "body": "Putin said Russia was meeting all its commitments to Iran, including building at the Bushehr nuclear plant, and that trade rose 10.4% in the first eight months of 2026. Pezeshkian called the US-led naval and air blockade of Iran economic terrorism and said the region could settle its conflicts without Washington. Neither side announced specific deals.",
+   "sources": [
+    {
+     "publisher": "Kyiv Post",
+     "title": "Putin and Pezeshkian Deepen Russia-Iran Ties Amid Growing Tensions With Washington",
+     "url": "https://www.kyivpost.com/post/88367",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Izvestia",
+     "title": "Putin: Russia fulfills obligations on joint projects with Iran",
+     "url": "https://en.iz.ru/en/2191739/2026-10-28/putin-russia-fulfills-obligations-joint-projects-iran",
+     "publishedAt": "2026-10-27 21:30 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "midterms-doj-challenges-early-vote",
+   "threadId": "us-midterms-2026",
+   "threadTitle": "The 2026 US midterms",
+   "threadSummary": "The November 3, 2026 US congressional elections and the legal fights over how they are run.",
+   "section": "more",
+   "title": "Trump says he will accept midterm results “if they’re honest” as 33 million early votes are cast",
+   "category": "Elections",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-10-27",
+   "whatChanged": "A week before the vote, Trump attached a condition to accepting the results while the Justice Department pressed new demands on Washington state.",
+   "body": "Asked on Tuesday whether he would respect the outcome if Republicans lost Congress, Trump said he would if the elections were honest. The Justice Department gave Washington state until Wednesday noon to remove about 400 people it says are noncitizens from its rolls; the secretary of state said some names came from decades-old records. Nearly 33 million ballots had been cast early by Tuesday, according to the University of Florida Election Lab, more than a quarter of the 2022 total.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "'If they're honest': Trump casts latest suspicion on US midterm elections",
+     "url": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections",
+     "publishedAt": "2026-10-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TIME",
+     "title": "What Early Voting Data Is Showing About the Midterm Elections",
+     "url": "https://time.com/article/2026/10/27/midterm-elections-early-voting-data-democrats-republicans-hispanic-voters/",
+     "publishedAt": "2026-10-27 22:15 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "comey-third-charge",
+   "threadId": "justice-department-trump-critics",
+   "threadTitle": "The Justice Department and Trump’s critics",
+   "threadSummary": "Federal prosecutions and firings aimed at people who have clashed with Donald Trump, and the court fights over them.",
+   "section": "more",
+   "title": "Former FBI director James Comey is charged for a third time, now under the Espionage Act",
+   "category": "Justice",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-26",
+   "whatChanged": "A federal judge in Washington unsealed a charge accusing Comey of passing national defence information to a reporter in 2016.",
+   "body": "Prosecutors filed the two counts as a criminal information to beat a 10-year statute of limitations and must still obtain a grand jury indictment; they agreed to wait 30 days before seeking one. Comey denies wrongdoing and called the case an abuse of the Justice Department. A 2025 case against him was dismissed, and a 2026 indictment in North Carolina is pending.",
+   "sources": [
+    {
+     "publisher": "CBS News",
+     "title": "DOJ takes steps to charge James Comey again",
+     "url": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
+     "publishedAt": "2026-10-27 04:38 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Missouri Lawyers Media (The Washington Post)",
+     "title": "DOJ charges James Comey, ex-FBI director, for a third time",
+     "url": "https://molawyersmedia.com/2026/10/27/doj-charges-james-comey-leaking-classified-information-dc/",
+     "publishedAt": "2026-10-27 15:43 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "meta-95bn-share-sale",
+   "threadId": "ai-capital-spending",
+   "threadTitle": "The AI infrastructure buildout",
+   "threadSummary": "The rush by technology companies to raise and spend hundreds of billions of dollars on data centres and chips for AI.",
+   "section": "more",
+   "title": "Meta plans to sell up to $95 billion of shares to pay for its AI buildout",
+   "category": "Technology & markets",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-26",
+   "whatChanged": "Meta launched $35 billion of share offerings and set out a further $60 billion sale programme, among the largest equity raises on record.",
+   "body": "The first $35 billion combines common stock and mandatory convertible preferred shares; the rest would follow once a new class of nonvoting shares begins trading, expected in early 2027. Nvidia, AMD and Broadcom have signalled interest in buying up to $5 billion. Meta expects 2026 capital spending of $135 billion to $145 billion and has warned it will need to raise hundreds of billions over several years.",
+   "sources": [
+    {
+     "publisher": "The Irish Times (Financial Times)",
+     "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+     "url": "https://www.irishtimes.com/business/2026/10/26/meta-plans-95bn-stock-offering-to-bankroll-ai-expansion/",
+     "publishedAt": "2026-10-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TechSpot",
+     "title": "Meta plans $95 billion stock offering to fuel AI spending despite growing bubble fears",
+     "url": "https://www.techspot.com/news/114336-meta-plans-95-billion-stock-offering-fuel-ai.html",
+     "publishedAt": "2026-10-26",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "axiom-cfsg-formalized",
+   "threadId": "ai-and-research",
+   "threadTitle": "AI & scientific research",
+   "threadSummary": "How AI systems are being used to produce and check scientific and mathematical results.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "AI agents produce a machine-checked proof of mathematics’ largest theorem in 24 days, a startup says",
+   "category": "Mathematics",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-10-26 / 2026-10-27",
+   "hook": "If it holds up, one of the longest proofs ever written is now checkable by computer; outside groups have not yet rebuilt it.",
+   "body": "Axiom, a US startup, says teams of AI agents directed by mathematicians produced a complete formal proof in the Lean language of the Classification of Finite Simple Groups, a result spread over about 15,000 pages and decades of work. The code runs to about 43 million lines and took 24 days. Axiom reports 34 notable departures from the published literature, including errors it says it found. Its chief executive says no one outside the company has yet rebuilt and checked the proof.",
+   "whatChanged": "Axiom released what it calls the first complete computer-checked proof of the classification and is publishing build files for others to verify.",
+   "whyMatters": "Formal verification of a result this large was long considered impractical; if confirmed, it shows AI agents can turn huge bodies of human mathematics into machine-checkable form.",
+   "uncertainty": "The claims come from the company; its post does not report an audit of assumptions, and humans must still confirm that the formal statement matches the intended theorem.",
+   "watchNext": "Independent rebuilds of the Lean code, review of the new argument Axiom used for one step, and responses from group theorists to its errata list.",
+   "keyFacts": [
+    "About 43.1 million lines of Lean code, produced between October 1 and October 24",
+    "The original proof spans roughly 15,000 pages by over 100 mathematicians",
+    "Axiom lists 34 notable deviations from the published record",
+    "CEO Carina Hong said no outside party had independently rebuilt the proof as of October 27"
+   ],
+   "report": [
+    {
+     "heading": "The claim",
+     "paragraphs": [
+      "The Classification of Finite Simple Groups describes every possible basic building block of finite symmetry, sometimes called a periodic table of symmetry. Its proof was assembled over decades in hundreds of papers. Axiom said on October 26 that its system had turned the first-generation version of that proof into Lean, a language in which a computer checks every logical step.",
+      "The company says dozens of AI agents, split into lead, search and proof-writing roles and using a mix of models, worked through 108 milestones and about 380 smaller tasks, guided by human mathematicians and engineers. It built on the Mathlib library and about 1.2 million lines from an earlier project, Qiuzhen-CFSG."
+     ]
+    },
+    {
+     "heading": "What was found along the way",
+     "paragraphs": [
+      "Axiom says the work exposed counterexamples to parts of the published literature, including a lemma in the volumes on so-called quasithin groups, and it has posted an errata list. For one major step it used a new argument rather than reproducing the original, and it consulted group theorists including Richard Lyons and Ronald Solomon."
+     ]
+    },
+    {
+     "heading": "The limits",
+     "paragraphs": [
+      "This is a company announcement, not a peer-reviewed result. The post does not list the assumptions or unfinished steps that an outside audit would check, and it notes that humans reviewed the formal statements, which must match the theorem as mathematicians understand it. Asked by RuntimeWire whether anyone outside Axiom had rebuilt the proof, chief executive Carina Hong said not yet, and that the company is publishing its build files to encourage independent reproduction."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Axiom",
+     "title": "Formalizing the Enormous Theorem",
+     "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+     "publishedAt": "2026-10-26",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "RuntimeWire",
+     "title": "Axiom's CEO says no one outside the company has rebuilt its 43-million-line proof yet",
+     "url": "https://runtimewire.com/article/axiom-s-ceo-says-no-one-outside-the-company-has-rebuilt-its-43-million-line-proo",
+     "publishedAt": "2026-10-27 21:31 UTC",
+     "kind": "Reporting"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-28/axiom-cfsg-formalized.svg",
+    "alt": "A towering stack of paper pages beside a neat grid of small tiles, one marked with a copper check, standing for a 15,000-page proof being converted into machine-checked blocks.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "microsoft-buyouts-60000",
+   "threadId": "ai-and-work",
+   "threadTitle": "AI and work",
+   "threadSummary": "How AI is changing jobs, hiring and the structure of companies.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Microsoft offers buyouts to about 60,000 workers, a quarter of its staff, as AI spending climbs",
+   "category": "Work & employment",
+   "region": "Global",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-26",
+   "hook": "One of the largest employers in tech is reshaping its workforce while it pours money into AI; how many people accept will show the scale.",
+   "body": "Microsoft said on Monday it is offering voluntary exit packages to about 60,000 employees at vice president level and below in the US, Canada, India and Britain, roughly a quarter of its workforce. Data centre, sales and marketing staff are excluded. The company expects to spend about $175 billion on AI infrastructure this year. It is Microsoft’s second buyout offer of 2026, after a smaller one in May, and follows 4,800 job cuts in July.",
+   "whatChanged": "Microsoft extended a voluntary buyout to about 60,000 staff, far larger than its earlier offer to roughly 8,750 US workers.",
+   "whyMatters": "It is one of the clearest signs yet of big technology companies cutting payroll while expanding AI investment, without resorting to mass layoffs.",
+   "uncertainty": "Payout amounts and the deadline were not disclosed, and the number who accept, and whether layoffs follow, is unknown.",
+   "watchNext": "Take-up figures, any follow-on job cuts, and Microsoft’s next quarterly filing on headcount and AI spending.",
+   "keyFacts": [
+    "About 60,000 employees eligible, roughly 27% of the workforce by AFP’s estimate",
+    "Offered in the US, Canada, India and Britain; data centre, sales and marketing staff excluded",
+    "Headcount was 223,000 at the end of June 2026",
+    "Microsoft expects about $175 billion of AI infrastructure spending in 2026"
+   ],
+   "report": [
+    {
+     "heading": "The offer",
+     "paragraphs": [
+      "Microsoft announced what it calls voluntary exit offers in a blog post on Monday, and eligible staff were told by email that day. In a memo, chief people officer Amy Coleman said the offer gives employees a new choice to make a transition now with support. TechCrunch reported that terms resemble Microsoft’s standard severance and that, according to Bloomberg, teams including Xbox, Windows, Copilot and Finance are taking part."
+     ]
+    },
+    {
+     "heading": "Why now",
+     "paragraphs": [
+      "Chief financial officer Amy Hood said in July that the company expects to spend about $175 billion on AI infrastructure in 2026. CBS News described the buyouts as a way to contain labour costs while that spending rises. Microsoft has already cut its workforce this year: it offered buyouts to about 8,750 retirement-age US workers in the spring, more than 30% of whom accepted, and eliminated 4,800 jobs in July. Headcount fell from 228,000 at the end of 2025 to 223,000 at the end of June."
+     ]
+    },
+    {
+     "heading": "What is not known",
+     "paragraphs": [
+      "Microsoft has not published the value of the packages or how long staff have to decide, so it is not yet clear how many will leave. TechCrunch noted that the approach lets Microsoft shrink its headcount without mass layoffs. The company describes the offer as open for a limited time and includes financial support and career-planning help."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "CBS News",
+     "title": "Microsoft offers buyouts to 60,000 workers as it pours money into AI",
+     "url": "https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/",
+     "publishedAt": "2026-10-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TechCrunch",
+     "title": "Microsoft offers buyouts to around 60,000 employees",
+     "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+     "publishedAt": "2026-10-26 15:58 UTC",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Microsoft’s buyout offer in context",
+    "measure": "Employees",
+    "unit": "people",
+    "values": [
+     {
+      "label": "Total headcount, end of June 2026",
+      "value": 223000
+     },
+     {
+      "label": "Offered buyouts, October 2026",
+      "value": 60000
+     }
+    ],
+    "alt": "Bar chart comparing Microsoft’s headcount of 223,000 at the end of June 2026 with the roughly 60,000 employees offered buyouts in October.",
+    "caption": "Headcount from regulatory filings; the buyout figure is approximate",
+    "sourceUrl": "https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/"
+   }
+  },
+  {
+   "id": "saffron-lung-cancer-phase3",
+   "threadId": "lung-cancer-treatment",
+   "threadTitle": "Targeted lung cancer treatment",
+   "threadSummary": "Trials of targeted drugs for lung cancers driven by specific genetic changes.",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "A two-drug pill combination extends survival for a group of lung cancer patients in a Phase 3 trial",
+   "category": "Oncology",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-10-25",
+   "hook": "A meaningful but modest gain of about five months for a defined group of patients whose cancer has outgrown a standard drug.",
+   "body": "In the SAFFRON trial of 338 people with EGFR-mutated lung cancer that had progressed on osimertinib and showed high levels of the MET protein or gene, adding savolitinib to osimertinib beat chemotherapy. Median survival was 17.8 months against 12.9, and the disease was held back for 7.6 months against 5.4. Results were presented at the ESMO congress and published in the New England Journal of Medicine. A US approval application has been filed.",
+   "whatChanged": "Full Phase 3 results, including an overall survival benefit, were published for savolitinib plus osimertinib after osimertinib stops working.",
+   "whyMatters": "Patients whose tumours resist osimertinib through MET usually move to chemotherapy; a targeted pill option with longer survival could change practice if regulators approve it.",
+   "uncertainty": "The trial was open-label and compared the drugs only with chemotherapy; deaths from side effects were higher in the combination arm, and the benefit applies only to patients with confirmed MET changes on tissue testing.",
+   "watchNext": "The FDA’s review of the application, filings in Europe and Japan, and how widely doctors adopt repeat biopsies to test for MET.",
+   "keyFacts": [
+    "338 patients at 230 centres in 29 countries",
+    "Median overall survival 17.8 vs 12.9 months (hazard ratio 0.68)",
+    "Median progression-free survival 7.6 vs 5.4 months (hazard ratio 0.55)",
+    "Serious (grade 3+) adverse events 64% vs 63%; deaths from adverse events 7% vs none",
+    "Developed by HUTCHMED and AstraZeneca; a US application has been submitted"
+   ],
+   "report": [
+    {
+     "heading": "The trial",
+     "paragraphs": [
+      "SAFFRON enrolled 338 patients whose EGFR-mutated non-small cell lung cancer had progressed on osimertinib, sold as Tagrisso, and whose tumours showed MET overexpression or amplification on central tissue testing. They received either savolitinib, a MET inhibitor, plus osimertinib, or platinum-based chemotherapy. The results were presented in the presidential symposium at the ESMO congress in Madrid and published in the New England Journal of Medicine."
+     ]
+    },
+    {
+     "heading": "The results",
+     "paragraphs": [
+      "According to the developers and CancerNetwork’s report of the presentation, median overall survival was 17.8 months with the combination and 12.9 months with chemotherapy, and 70% versus 53% of patients were alive at one year. Median progression-free survival, assessed by blinded central review, was 7.6 versus 5.4 months. About half of patients on the combination responded, against 27% on chemotherapy. Rates of serious side effects were similar, but 12 patients on the combination died of adverse events, one judged treatment-related, compared with none on chemotherapy; patients on the combination were treated for about twice as long."
+     ]
+    },
+    {
+     "heading": "Limits and next steps",
+     "paragraphs": [
+      "The study was open-label and did not test the combination against other targeted or immune therapies. The analysis of MET-amplified patients was exploratory. HUTCHMED, which co-developed savolitinib with AstraZeneca, says an application has been filed with the US Food and Drug Administration and submissions in Europe and Japan are progressing; China has already approved the combination for a related group based on an earlier trial."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "CancerNetwork",
+     "title": "Osimertinib/Savolitinib Improves Survival in MET-Altered, EGFR-Mutant NSCLC",
+     "url": "https://www.cancernetwork.com/view/osimertinib-savolitinib-improves-survival-in-met-altered-egfr-mutant-nsclc",
+     "publishedAt": "2026-10-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "HUTCHMED (GlobeNewswire)",
+     "title": "HUTCHMED Highlights SAFFRON Global Phase III Data Presented at ESMO Congress 2026 and Simultaneously Published in The New England Journal of Medicine",
+     "url": "https://www.globenewswire.com/news-release/2026/10/26/3387782/0/en/hutchmed-highlights-saffron-global-phase-iii-data-presented-at-esmo-congress-2026-and-simultaneously-published-in-the-new-england-journal-of-medicine.html",
+     "publishedAt": "2026-10-25",
+     "kind": "Company announcement"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Median overall survival in SAFFRON",
+    "measure": "Median overall survival",
+    "unit": "months",
+    "values": [
+     {
+      "label": "Savolitinib + osimertinib",
+      "value": 17.8
+     },
+     {
+      "label": "Chemotherapy",
+      "value": 12.9
+     }
+    ],
+    "alt": "Bar chart of median overall survival in the SAFFRON trial: 17.8 months with savolitinib plus osimertinib versus 12.9 months with chemotherapy.",
+    "caption": "Phase 3, 338 patients · hazard ratio 0.68 · open-label trial",
+    "sourceUrl": "https://www.cancernetwork.com/view/osimertinib-savolitinib-improves-survival-in-met-altered-egfr-mutant-nsclc"
+   }
+  },
+  {
+   "id": "sudan-el-fasher-one-year",
+   "threadId": "sudan-war-humanitarian-crisis",
+   "threadTitle": "Sudan's war and humanitarian crisis",
+   "threadSummary": "The war between Sudan’s army and the Rapid Support Forces since April 2023, and the famine and displacement it has caused.",
+   "section": "still",
+   "title": "A year after El Fasher fell, Sudan’s war still kills civilians in markets and cuts power to millions",
+   "category": "Conflict & humanitarian",
+   "region": "Africa · Sudan",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-10-26 / 2026-10-27",
+   "body": "On the first anniversary of El Fasher’s fall to the Rapid Support Forces, Britain sanctioned 15 commanders from both the RSF and the army over suspected atrocities including sexual violence, and pledged £15 million in aid. That evening a drone strike on a market in Nyala, the RSF’s de facto capital, killed at least 21 people. RSF drones hit six power stations on Monday and a transformer station on Tuesday, cutting electricity to millions across central and eastern Sudan.",
+   "whatChanged": "New sanctions and aid marked the El Fasher anniversary while drone strikes killed civilians in Darfur and knocked out power in army-held regions.",
+   "whyMatters": "More than 13 million people have been displaced, and Britain says attacks on markets, aid convoys and infrastructure are pushing parts of the country towards famine.",
+   "uncertainty": "No side has claimed the Nyala strike, though the army regularly bombs the city; overall death tolls in the war are estimates.",
+   "watchNext": "Whether power is restored in Khartoum and Gezira, aid access around Tawila and El Obeid, and further sanctions or famine declarations.",
+   "keyFacts": [
+    "Britain sanctioned 15 RSF and army commanders on October 26, its sixth round of Sudan sanctions",
+    "£5 million for survivors of sexual violence and £10 million for humanitarian work",
+    "At least 21 killed and more than 40 injured at Nyala market on October 26",
+    "RSF drones hit six power stations on October 26, cutting electricity in four states"
+   ],
+   "report": [
+    {
+     "heading": "Accountability and aid",
+     "paragraphs": [
+      "Foreign Secretary Ed Miliband announced travel bans and asset freezes on 15 senior commanders from both warring forces on October 26, one year after El Fasher fell following an 18-month siege. Those named include RSF Colonel Hussein Abu Jalak and Al-Nour Ahmed Adam, known as Al-Qubba, whom Britain links to the siege and attack on the city. The government also pledged £5 million for survivors of sexual violence and £10 million for water, sanitation and health services around Tawila and El Obeid. It cited UK-funded research documenting starvation and sexual violence used as weapons by both sides."
+     ]
+    },
+    {
+     "heading": "The fighting goes on",
+     "paragraphs": [
+      "At about 8 p.m. the same day, a drone hit a market in northern Nyala in South Darfur. A medic at the city’s hospital told AFP that 21 people were killed and more than 40 injured. Nobody claimed the attack. Coordinated RSF drone strikes that day hit six power stations, cutting electricity in Gezira, White Nile, Sennar and Gadarif states, and on Tuesday a strike on the al-Markhiyat transformer station disrupted power in Khartoum and Gezira. The US, the EU and 30 other countries warned on Monday of an alarming deterioration in access to food. The war, which began in April 2023, has displaced more than 13 million people."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "GOV.UK",
+     "title": "UK sanctions senior commanders implicated in campaign of rape in Sudan and unveils new support for survivors",
+     "url": "https://www.gov.uk/government/news/uk-sanctions-senior-commanders-implicated-in-campaign-of-rape-in-sudan-and-unveils-new-support-for-survivors",
+     "publishedAt": "2026-10-26",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "Radio Dabanga",
+     "title": "UK sanctions Sudan commanders and pledges £15 million in aid",
+     "url": "https://www.dabangasudan.org/en/all-news/article/uk-sanctions-sudan-commanders-and-pledges-15-million-in-aid",
+     "publishedAt": "2026-10-26 17:58 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera (AFP)",
+     "title": "Drone strike in Sudan's Nyala kills at least 21, injures 40",
+     "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala",
+     "publishedAt": "2026-10-27",
+     "kind": "Reporting"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  {
+   "title": "The Fed’s decision",
+   "text": "The Federal Reserve announces its rate decision on Wednesday, October 28; it is expected to hold rates, with investors betting on a hike in December."
+  },
+  {
+   "title": "Israel’s final count",
+   "text": "Special ballots, including soldiers’ votes, should be counted by Friday, October 30, before President Herzog begins consultations on forming a government."
+  },
+  {
+   "title": "Africa’s Ebola meeting",
+   "text": "African health ministers meet virtually on Wednesday, October 28, as Congo’s outbreak passes 10,000 confirmed cases and spreads to Kenya and Nigeria."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "Trump questioned the midterms a week before the vote, the Justice Department charged James Comey again, and Canada’s prime minister said trade talks with Washington are moving his way.",
+   "briefs": [
+    {
+     "title": "Carney says the US is moving towards Canada’s position on trade",
+     "eventDate": "2026-10-26",
+     "text": "Prime Minister Mark Carney said in Ottawa on Monday that the Trump administration is coming closer to Canada’s position in trade talks, while admitting he cannot be sure the president would honour a signed deal. He said Canada would not accept the offer made in August, when talks broke down. CTV’s sources said the White House’s interest in a deal has grown ahead of the midterms.",
+     "sources": [
+      {
+       "publisher": "CP24 / CTV News",
+       "title": "PM Carney says 'U.S. is coming closer to our position' as trade talks gain momentum",
+       "url": "https://www.cp24.com/news/canada/2026/10/26/pm-carney-says-us-is-coming-closer-to-our-position-in-trade-war-as-talks-gain-momentum/",
+       "publishedAt": "2026-10-26 21:16 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Supreme Court declines to revive immigration judges’ power to pause cases",
+     "eventDate": "2026-10-27",
+     "text": "The Supreme Court turned down an emergency appeal from Baltimore, Columbus, New Haven and an immigrant legal group that wanted to defend a Biden-era rule letting immigration judges temporarily shelve some deportation cases. The rule was blocked after Texas sued and settled with the Trump administration. The cities argued the settlement let the government skip public rulemaking.",
+     "sources": [
+      {
+       "publisher": "Spectrum News (AP)",
+       "title": "Supreme Court won't intervene to allow judges to pause some deportation proceedings",
+       "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/10/27/supreme-court-won-t-intervene-deportation-proceedings",
+       "publishedAt": "2026-10-27 17:18 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Brazil’s defeated candidate was reported to have left for the US, Mexico’s electoral chief resigned amid a contracts inquiry, and record rain flooded Guayaquil.",
+   "briefs": [
+    {
+     "title": "Mexico’s electoral chief resigns amid a contracts inquiry",
+     "eventDate": "2026-10-25 / 2026-10-27",
+     "text": "Guadalupe Taddei stepped down as president of Mexico’s National Electoral Institute after the federal audit office opened an investigation into contracts with institute suppliers; no wrongdoing has been proven. President Claudia Sheinbaum called the resignation the right decision. Councillor Blanca Cruz García was named interim president on Tuesday, ahead of nationwide elections in June 2027.",
+     "sources": [
+      {
+       "publisher": "El Financiero",
+       "title": "Nombran a Blanca Cruz como consejera presidenta provisional del INE tras renuncia de Guadalupe Taddei",
+       "url": "https://www.elfinanciero.com.mx/nacional/2026/10/27/nombran-a-blanca-cruz-como-consejera-presidenta-provisional-del-ine-tras-renuncia-de-guadalupe-taddei/",
+       "publishedAt": "2026-10-27",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The Rio Times",
+       "title": "The Big Read: Mexico, Tuesday 27 October",
+       "url": "https://www.riotimesonline.com/the-big-read-mexico-27-october-2026",
+       "publishedAt": "2026-10-27",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "IMF staff sign off on Argentina’s latest programme review",
+     "eventDate": "2026-10-27",
+     "text": "IMF staff reached agreement with Argentina on the third review of its $20 billion programme, which would release about $900 million once the board approves. The Fund praised President Javier Milei’s reforms and said reserves beat the June target by about $4 billion, but it cut its 2026 growth forecast to 2.1% and raised its inflation projection to 32.5%.",
+     "sources": [
+      {
+       "publisher": "Buenos Aires Times",
+       "title": "IMF backs Milei's reforms in third review of Argentina deal",
+       "url": "https://batimes.com.ar/news/economy/imf-approves-third-review-of-argentinas-programme.phtml",
+       "publishedAt": "2026-10-27 21:32 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Record rain floods Guayaquil and storms hit Chile",
+     "eventDate": "2026-10-26 / 2026-10-27",
+     "text": "Guayaquil had 63 mm of rain in an hour on Monday, making it the Ecuadorian city’s wettest October since records began in 1898, with at least 89 neighbourhoods flooded. In Chile, a creek overflowed in Santiago’s Las Condes district, closing schools, and a preliminary EF-2 tornado damaged at least 70 homes in Requínoa.",
+     "sources": [
+      {
+       "publisher": "Latin Times",
+       "title": "Ecuador's Worst October Since 1898: El Niño Sinks Guayaquil's Iconic Morgan Pirate Ship",
+       "url": "https://www.latintimes.com/guayaquil-morgan-pirate-ship-sinks-record-storm-600619",
+       "publishedAt": "2026-10-28 05:06 UTC",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The Rio Times",
+       "title": "Las Condes Flooding Shuts Schools in Chile",
+       "url": "https://www.riotimesonline.com/chile-las-condes-san-carlos-de-apoquindo-flooding-school-closures-2026",
+       "publishedAt": "2026-10-27 07:29 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "A local truce began in occupied Oleshky as Nordic leaders called Putin, Britain charged two men in an Iran-linked security case, and Norway reported a surge in cyberattacks.",
+   "briefs": [
+    {
+     "title": "Two men charged in Britain over the RAF Fairford investigation",
+     "eventDate": "2026-10-27",
+     "text": "Counter-terrorism police charged two 24-year-old London men under the National Security Act; one is accused of assisting a foreign intelligence service that police believe to be Iran’s. The case began in September when armed officers stopped vehicles heading towards the US-used air base. Police found petrol but no explosive devices.",
+     "sources": [
+      {
+       "publisher": "Counter Terrorism Policing (UK)",
+       "title": "Two men charged under the National Security Act in RAF Fairford investigation",
+       "url": "https://www.counterterrorism.police.uk/news/new-arrest-made-in-the-raf-fairford-investigation/",
+       "publishedAt": "2026-10-27 09:35 UTC",
+       "kind": "Primary"
+      }
+     ]
+    },
+    {
+     "title": "Norway says successful cyberattacks have tripled",
+     "eventDate": "2026-10-27",
+     "text": "Norway’s National Security Authority said successful cyberattacks on Norwegian organisations tripled over the past six months, with the defence and space industries especially exposed. It did not name those responsible. Its director warned that AI lets attackers find weaknesses faster than defenders.",
+     "sources": [
+      {
+       "publisher": "Euronews",
+       "title": "Norway says 'successful' cyberattacks against the country have tripled in last six months",
+       "url": "https://www.euronews.com/2026/10/27/norway-says-successful-cyberattacks-against-the-country-have-tripled-in-last-six-months",
+       "publishedAt": "2026-10-27 17:41 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "The Netherlands pulls out of Eurovision 2027",
+     "eventDate": "2026-10-27",
+     "text": "Dutch public broadcaster NPO reversed an earlier decision and withdrew from next year’s contest, saying Israel’s participation divides Dutch society. Ireland and the Czech broadcaster have also said they will not take part. Bulgaria hosts the 2027 contest in Burgas.",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "The Netherlands pulls out of Eurovision 2027 due to Israel 'sensitivities'",
+       "url": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities",
+       "publishedAt": "2026-10-27",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Sudan marked a year since El Fasher fell amid new drone strikes, an Egyptian court shut one of the last independent news sites, and Algeria approved its first troop deployment abroad in decades.",
+   "briefs": [
+    {
+     "title": "Egyptian court orders Mada Masr closed and its editor detained",
+     "eventDate": "2026-10-27",
+     "text": "A Cairo misdemeanour court ordered the independent news site Mada Masr shut and fined editor-in-chief Lina Attalah 3 million Egyptian pounds, the maximum, for running an unlicensed website; she was taken into custody. The outlet says it has sought a licence since 2018 without a decision. The ruling can be appealed.",
+     "sources": [
+      {
+       "publisher": "Egyptian Streets",
+       "title": "Egypt Court Fines Mada Masr Editor-in-Chief Lina Attalah EGP3 Million, Orders Website's Closure",
+       "url": "https://egyptianstreets.com/2026/10/27/egypt-court-fines-mada-masr-editor-in-chief-lina-attalah-egp3-million-orders-websites-closure/",
+       "publishedAt": "2026-10-27 12:36 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Algeria approves sending troops to Niger",
+     "eventDate": "2026-10-25 / 2026-10-26",
+     "text": "Both chambers of Algeria’s parliament approved, in a closed session on Sunday, deploying troops to Niger to protect energy sites, mainly oil projects run by the state firm Sonatrach. It would be Algeria’s first military deployment abroad since 1973. The size and timing of the force have not been announced.",
+     "sources": [
+      {
+       "publisher": "Euronews",
+       "title": "Algeria approves troop deployment to Niger: what is their mission?",
+       "url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
+       "publishedAt": "2026-10-26 13:09 UTC",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Arab News (AFP)",
+       "title": "Algeria senate approves sending troops to Niger",
+       "url": "https://www.arabnews.pk/middle-east/algeria-senate-approves-sending-troops-to-niger-3005260",
+       "publishedAt": "2026-10-25 19:54 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Israel’s vote count left both camps short of a majority, the Houthis fired on Saudi Arabia’s main refinery and capital, and the US reportedly told Gulf allies to prepare for new strikes on Iran.",
+   "briefs": [
+    {
+     "title": "Gaza families face a fourth winter in tents",
+     "eventDate": "2026-10-27",
+     "text": "UN agencies said about 950,000 people in Gaza live in displacement sites at medium to high risk of flooding, with too few supplies to protect them. Aid transport stopped on Tuesday when Israel closed the Kerem Shalom crossing for election day, and UNOPS reported three incidents affecting its convoys and premises in a week.",
+     "sources": [
+      {
+       "publisher": "UN News",
+       "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+       "url": "https://news.un.org/en/story/2026/10/1168685",
+       "publishedAt": "2026-10-27",
+       "kind": "Primary"
+      }
+     ]
+    },
+    {
+     "title": "Rights group documents hundreds of deaths in Houthi siege of Taiz",
+     "eventDate": "2026-10-25",
+     "text": "The Yemeni Network for Rights and Freedoms said Houthi attacks on Taiz killed 212 civilians, including 38 children, between September 1 and October 22, and that 26 checkpoints block aid and commercial supplies. It said fuel shortages threaten hospital generators and dialysis units. The figures are the group’s own and have not been independently verified.",
+     "sources": [
+      {
+       "publisher": "Arab News (Asharq Al-Awsat)",
+       "title": "Brutal Houthi siege and shelling drive Taiz to humanitarian disaster",
+       "url": "https://www.arabnews.pk/middle-east/brutal-houthi-siege-and-shelling-drive-taiz-to-humanitarian-disaster-3005257",
+       "publishedAt": "2026-10-25 19:37 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Cyclone Arnab struck India’s east coast after mass evacuations, South Korea’s economy grew faster than expected on chip exports, and a Reuters investigation detailed how Myanmar’s junta disguised Iranian jet fuel.",
+   "briefs": [
+    {
+     "title": "AI chip exports lift South Korea’s growth far above forecast",
+     "eventDate": "2026-10-27",
+     "text": "The Bank of Korea’s advance estimate showed the economy grew 1% in the third quarter from the previous quarter and 3.4% from a year earlier, against a forecast of 0.3% quarterly growth made in August. Semiconductors led a 2.3% rise in exports, while private consumption fell 0.2%.",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "South Korea's GDP growth beats forecasts amid AI boom",
+       "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
+       "publishedAt": "2026-10-27",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Reuters: Myanmar’s junta disguised sanctioned Iranian jet fuel as diesel",
+     "eventDate": "2026-10-26",
+     "text": "Documents from a briefly exposed junta server, obtained by Justice for Myanmar, show officials agreed to label Iranian jet fuel as diesel on import papers, Reuters reported. One December 2025 cargo of about 113,000 barrels was worth $15.8 million. The US has sanctioned jet fuel sales to Myanmar since 2023 because the military uses it for air strikes on civilians.",
+     "sources": [
+      {
+       "publisher": "The Star (Reuters)",
+       "title": "How purchases of sanctioned Iranian jet fuel were disguised by Myanmar",
+       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/26/how-purchases-of-sanctioned-iranian-jet-fuel-were-disguised-by-myanmar",
+       "publishedAt": "2026-10-26 05:30 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Australian inflation rose to 4.3%, raising the odds of a rate rise next week, and New Zealanders began advance voting for the November 7 election.",
+   "briefs": [
+    {
+     "title": "Australian inflation climbs to 4.3%",
+     "eventDate": "2026-10-28",
+     "text": "Consumer prices rose 0.8% in September and 4.3% over the year, up from 4.0% in August, the Bureau of Statistics said, driven by housing and transport costs, with fuel up 9.4% in the month. Underlying trimmed-mean inflation rose to 3.6%. Markets had put the chance of a Reserve Bank rate rise next week at above 60% before the release.",
+     "sources": [
+      {
+       "publisher": "Australian Bureau of Statistics",
+       "title": "CPI rose 4.3% in the year to September 2026",
+       "url": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026",
+       "publishedAt": "2026-10-28 00:30 UTC",
+       "kind": "Primary"
+      },
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Inflation rate rises to 4.3 per cent in September, raising rate hike expectations",
+       "url": "https://www.abc.net.au/news/2026-10-28/inflation-september-cpi-ahead-of-november-interest-rate-call/107317382",
+       "publishedAt": "2026-10-28 00:38 UTC",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "New Zealand opens advance voting to long queues",
+     "eventDate": "2026-10-26 / 2026-10-27",
+     "text": "Advance voting for New Zealand’s November 7 general election began on Labour Day at 207 voting places, with opposition parties criticising long waits. Enrolment stood at 92.05% of eligible voters on October 21, below the 2023 final rate, and only 68.6% among 18- to 24-year-olds. Official results are due on November 27.",
+     "sources": [
+      {
+       "publisher": "The Spinoff",
+       "title": "Advance voting opens to queues and long wait times",
+       "url": "https://thespinoff.co.nz/politics/27-10-2026/advance-voting-opens-to-queues-and-long-wait-times",
+       "publishedAt": "2026-10-27",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Xinhua",
+       "title": "Advance voting opens in New Zealand ahead of Nov. 7 election",
+       "url": "https://english.news.cn/asiapacific/20261026/7486a0967b8b4b80bfe6115d693a55b3/c.html",
+       "publishedAt": "2026-10-26",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

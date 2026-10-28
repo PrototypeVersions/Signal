@@ -23,6 +23,8 @@ The home page runs in this order:
 6. **Still matters** (`section: "still"`) and **What we’re watching** (`watch`).
 7. An optional `note` (only on unusual days), then the closing “You’re caught up” section.
 
+**Listen.** Beside the edition date, “Listen to this edition” plays the whole front page read aloud by a British narrator (about 10 to 15 minutes), with a chapter for every story; story pages have “Listen from this story”. The publish workflow records it automatically from the edition data after every push (`scripts/narration.py` turns the edition into the spoken script; `scripts/narrate.py` records it). The morning run does nothing for it, but write for the ear as well as the eye: headlines, `body`, `whyMatters` (`hook` for Frontiers), `opening` and `watch` are read out in page order, so avoid symbols and unexplained abbreviations that make no sense spoken, and do not put anything in those fields that only works visually. The recording appears a few minutes after the edition itself; if it fails, the edition still publishes and the button stays hidden.
+
 There is no separate lead block or cover. The `leadStoryId` story is shown first, as a larger card, inside its own section. Order the `stories` array as the page shows them: world, then more, then frontiers, then still.
 
 ## Schema

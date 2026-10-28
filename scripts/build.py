@@ -520,6 +520,8 @@ if __name__ == '__main__':
             except (AssertionError, KeyError, ValueError) as problem:
                 print(f'Note: older edition {edition["date"]} does not meet a current rule ({problem}); published as it was.')
     assert len({x['date'] for x in EDITIONS}) == len(EDITIONS)
+    pron = json.loads((ROOT/'data/pronunciations.json').read_text())['words']
+    assert all(isinstance(k, str) and isinstance(v, str) and k.strip() and v.strip() for k, v in pron.items()), 'data/pronunciations.json: every entry needs a word and how to say it'
     if OUT.exists(): shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copytree(ROOT/'assets',OUT/'assets')

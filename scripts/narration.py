@@ -6,6 +6,7 @@ Still matters and What we're watching.
 """
 import hashlib, json, re
 from datetime import date
+from pathlib import Path
 
 # The narrator: George, a British male voice. A single voice name or a blend such as
 # {'bm_lewis': 0.65, 'bm_george': 0.35} both work. Changing the voice, speed or RECIPE
@@ -13,7 +14,7 @@ from datetime import date
 VOICE = 'bm_george'
 SPEED = 0.94
 LANG = 'en-gb'
-RECIPE = 3  # bump when the script or the synthesis changes in a way that should re-record
+RECIPE = 4  # bump when the script or the synthesis changes in a way that should re-record
 
 ONES = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve',
         'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen']
@@ -119,8 +120,31 @@ def script(edition):
         chapters[-1]['paragraphs'].append("That's the edition. You're caught up. Go live your day.")
     return chapters
 
+# How the narrator says names the speech engine gets wrong: data/pronunciations.json.
+PRONOUNCE = json.loads((Path(__file__).resolve().parents[1] / 'data/pronunciations.json').read_text())['words']
+_PRON_RE = re.compile(r"(?<![\w'-])(" + '|'.join(re.escape(w) for w in sorted(PRONOUNCE, key=len, reverse=True)) + r")('s|s'|')?(?![\w])") if PRONOUNCE else None
+
+def phonemes(text, phonemize):
+    """Phonemes for a paragraph, using the pronunciation list where it applies.
+
+    `phonemize(text)` is the speech engine's own phonemizer; returns None when no listed word occurs,
+    so the caller can pass the plain text instead."""
+    if not _PRON_RE or not _PRON_RE.search(text):
+        return None
+    out, pos = [], 0
+    for m in _PRON_RE.finditer(text):
+        before = text[pos:m.start()].strip('-')
+        if before.strip(): out.append(phonemize(before))
+        say = PRONOUNCE[m.group(1)]
+        ipa = say[1:-1] if say.startswith('/') and say.endswith('/') else phonemize(say)
+        if m.group(2) == "'s": ipa += 'z' if ipa[-1:] not in 'sʃʒzfθptk' else ('ɪz' if ipa[-1:] in 'sʃʒz' else 's')
+        out.append(ipa); pos = m.end()
+    if text[pos:].strip('- '): out.append(phonemize(text[pos:].strip('-')))
+    joined = ' '.join(x.strip() for x in out if x and x.strip())
+    return re.sub(r'\s+([,.;:!?…])', r'\1', joined)
+
 def fingerprint(chapters):
-    return hashlib.sha256(json.dumps([VOICE, SPEED, LANG, RECIPE, chapters], ensure_ascii=False).encode()).hexdigest()[:16]
+    return hashlib.sha256(json.dumps([VOICE, SPEED, LANG, RECIPE, PRONOUNCE, chapters], ensure_ascii=False).encode()).hexdigest()[:16]
 
 if __name__ == '__main__':
     import sys

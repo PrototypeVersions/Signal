@@ -14,7 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
-from narration import LANG, SPEED, VOICE, fingerprint, script  # noqa: E402
+from narration import LANG, SPEED, VOICE, fingerprint, phonemes, script  # noqa: E402
 
 PAUSE_AFTER_TITLE = 0.45
 PAUSE_PARAGRAPH = 0.6
@@ -26,7 +26,9 @@ def record(kokoro, style, chapters, wav_path):
     for ci, chapter in enumerate(chapters):
         marks.append(length)
         for pi, text in enumerate(chapter['paragraphs']):
-            audio, rate = kokoro.create(text, voice=style, speed=SPEED, lang=LANG)
+            ph = phonemes(text, lambda s: kokoro.tokenizer.phonemize(s, LANG))
+            if ph: audio, rate = kokoro.create(ph, voice=style, speed=SPEED, lang=LANG, is_phonemes=True)
+            else: audio, rate = kokoro.create(text, voice=style, speed=SPEED, lang=LANG)
             pieces.append(audio); length += len(audio)
             last = pi == len(chapter['paragraphs']) - 1
             gap = PAUSE_CHAPTER if last else (PAUSE_AFTER_TITLE if len(text.split()) < 30 else PAUSE_PARAGRAPH)

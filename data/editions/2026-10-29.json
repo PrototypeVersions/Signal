@@ -1,0 +1,1243 @@
+{
+ "date": "2026-10-29",
+ "number": 12,
+ "cutoff": "2026-10-29T11:45:00Z",
+ "cutoffLabel": "6:45 AM CT",
+ "opening": "A high-speed train crash south of Madrid killed at least 68 people. Israel’s count left both blocs short as Likud alleged fraud, Qatar offered Iran a plan to end the war, Canada raised rates as the Fed held, and Washington sanctioned Rwanda’s defence ministry.",
+ "leadStoryId": "spain-toledo-train-crash",
+ "stories": [
+  {
+   "id": "spain-toledo-train-crash",
+   "threadId": "spain-rail-safety",
+   "threadTitle": "Spain's high-speed rail safety",
+   "threadSummary": "Deadly collisions in 2026 on Spain's high-speed lines to Andalusia, both involving trains run by Renfe and Iryo, and the questions they raise about signalling and control.",
+   "section": "world",
+   "title": "A high-speed train crash south of Madrid kills at least 68, Spain’s worst rail disaster in more than a decade",
+   "category": "Disaster & transport",
+   "region": "Europe · Spain",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-28 / 2026-10-29",
+   "body": "A Renfe high-speed train ran into the back of a stopped Iryo train near Urda, in Toledo province, on Wednesday morning, killing at least 68 people, according to the Castilla-La Mancha regional government. Both trains were heading from Madrid to Seville with more than 540 passengers between them. Transport Minister Óscar Puente said a control system had failed and halted traffic, and that the control centre then told the Renfe train to move on without speed limits, an order he called inexplicable. Spain began three days of mourning on Thursday.",
+   "whatChanged": "Spain suffered its deadliest rail crash since 2013, and the government pointed to an order from central traffic control rather than the drivers.",
+   "whyMatters": "It is the second deadly crash this year involving the same two operators on Spain’s high-speed network, which had no fatal accidents on its dedicated lines before 2026, and it lands a month before a national election.",
+   "uncertainty": "The death toll may rise as rescuers search the wreckage; the train’s speed and why the order to proceed was given have not been established, and accounts of the stretch affected differ.",
+   "watchNext": "Identification of the victims, the findings of Spain’s independent rail accident investigators, any suspension or new rules for the control centre, and whether services between Madrid and Andalusia resume.",
+   "keyFacts": [
+    "At least 68 dead and 58 people treated in hospital, per the Castilla-La Mancha government",
+    "397 passengers on the Renfe train and about 147 on the Iryo train, both Madrid to Seville",
+    "The collision happened at 8:53 a.m. near Urda, about 150 km south of Madrid",
+    "The minister says the train may have been travelling at about 200 km/h",
+    "A January collision involving the same two operators killed 46 people"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "According to Transport Minister Óscar Puente, an automatic safety and control system on a stretch of the Madrid–Seville high-speed line stopped working at about 8:30 a.m. on Wednesday because of a computer fault, and every train on that stretch halted. The central command centre then instructed a Renfe service to resume without speed restrictions, even though a stop signal was still showing. Puente said the train travelled about 25 km before it struck the rear of a stationary Iryo train at 8:53 a.m. near Urda, between Mora, Orgaz and Los Yébenes. Two Iryo carriages were knocked from the track and down an embankment.",
+      "Passengers described sudden braking and being thrown forward. The Castilla-La Mancha regional government confirmed at least 68 deaths and 58 people receiving hospital treatment, and rescuers were still searching the most damaged cars on Wednesday evening."
+     ]
+    },
+    {
+     "heading": "The response",
+     "paragraphs": [
+      "Prime Minister Pedro Sánchez went to the site, declared three days of national mourning and said it was unacceptable for Spain to suffer two high-speed accidents in one year. King Felipe VI also visited. Puente said he was not assigning blame and that the drivers were not at fault, but that the control centre had time to find the error and did not. The Civil Guard opened offices in Madrid, Toledo, Córdoba and Seville to take DNA samples from relatives, and Iryo suspended its services south from Madrid’s Atocha station."
+     ]
+    },
+    {
+     "heading": "Why it resonates",
+     "paragraphs": [
+      "Spain’s dedicated high-speed lines had recorded no fatal crashes from their opening in 1992 until January, when a collision near Adamuz in Córdoba province, also involving Renfe and Iryo trains, killed 46 people; that investigation is still open. Wednesday’s crash is the deadliest high-speed crash in Spain since a 2013 derailment in Galicia that killed 80. The regional president said the causes of the two 2026 crashes appear unrelated, a judgement that rests with the independent investigation commission. Sánchez faces a general election on November 29."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "CBS News (Associated Press)",
+     "title": "High-speed train crash in Spain leaves at least 68 dead, dozens injured, officials say",
+     "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
+     "publishedAt": "2026-10-29 00:26 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News",
+     "title": "'Inexplicable' order probed as cause of train crash that killed at least 68: Official",
+     "url": "https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "PBS NewsHour (Associated Press)",
+     "title": "Dozens dead in Spain after high-speed train slams into another stopped on tracks",
+     "url": "https://www.pbs.org/newshour/world/dozens-dead-in-spain-after-high-speed-train-slams-into-another-stopped-on-tracks",
+     "publishedAt": "2026-10-28 15:41 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Citizen Digital (AFP)",
+     "title": "Spain begins three-day mourning after latest train tragedy kills 68",
+     "url": "https://citizen.digital/article/spain-begins-three-day-mourning-after-latest-train-tragedy-kills-68-n392940",
+     "publishedAt": "2026-10-29 04:52 UTC",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The crash site south of Madrid",
+    "bounds": [
+     -10,
+     35.5,
+     4.5,
+     44.5
+    ],
+    "countries": [
+     "724"
+    ],
+    "labels": [
+     {
+      "label": "Mediterranean Sea",
+      "lon": 2.5,
+      "lat": 37.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Spain with markers at Madrid and at Urda in Toledo province, about 150 kilometres to the south, where the two trains collided on the Madrid to Seville line.",
+    "caption": "Spain · markers show Madrid and the approximate crash location near Urda"
+   },
+   "locations": [
+    {
+     "label": "Crash site near Urda, Toledo province",
+     "mapLabel": "Urda",
+     "lon": -3.72,
+     "lat": 39.41
+    },
+    {
+     "label": "Madrid",
+     "lon": -3.7,
+     "lat": 40.42
+    }
+   ]
+  },
+  {
+   "id": "israel-count-likud-fraud-claim",
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel's first general election since the October 7 attacks, a contest between Benjamin Netanyahu's bloc and challengers led by former army chief Gadi Eisenkot.",
+   "section": "world",
+   "title": "Netanyahu’s bloc slips to 53 seats and Likud claims the vote was stolen as Arab parties post a record",
+   "category": "Elections",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-28",
+   "body": "With about 86% of votes counted on Wednesday, Benjamin Netanyahu’s bloc had 53 of 120 seats, Gadi Eisenkot’s camp 48 and the Arab-led parties a record 19, leaving both main blocs well short of a 61-seat majority. Netanyahu’s Likud then said Arab parties had stolen the election through bribery, threats and double voting, and passed what it called hundreds of testimonies to the police and the Shin Bet. The Central Elections Committee said it was reviewing the complaint under its routine checks; one of its officials had dismissed fraud claims earlier that day.",
+   "whatChanged": "The later count cut Netanyahu’s bloc from 55 to 53 seats and lifted the Arab parties to 19, and Likud responded by alleging fraud.",
+   "whyMatters": "A governing party disputing the count without public evidence raises the stakes of the coalition talks, while the Arab parties’ strength makes them pivotal to any government that excludes Netanyahu.",
+   "uncertainty": "Between 430,000 and 480,000 special ballots were still uncounted and could shift a few seats; Likud has not published its evidence, and no outside body has found fraud.",
+   "watchNext": "The completion of the special-ballot count expected on Thursday, official results due on November 4, and President Isaac Herzog’s consultations with party leaders after that.",
+   "keyFacts": [
+    "About 86% of all votes counted: Netanyahu bloc 53, Eisenkot bloc 48, Arab parties 19",
+    "Joint List 12 seats and Ra’am 7, nearly double their combined 10 in the outgoing Knesset",
+    "430,000 to 480,000 double-envelope ballots remained to be counted",
+    "Official results are due on November 4",
+    "The EU put turnout at nearly 78%"
+   ],
+   "report": [
+    {
+     "heading": "The count",
+     "paragraphs": [
+      "By Wednesday afternoon in Israel, about 93% of ordinary ballots had been counted, or roughly 86% of all votes. That count gave Netanyahu’s bloc 53 seats, one fewer than earlier in the day, and Eisenkot’s alliance 48. The Joint List had 12 seats and Ra’am 7, a combined record for Arab-led parties. The Times of Israel reported that 430,000 to 480,000 double-envelope ballots, cast by soldiers, diplomats and others away from home, were still to be counted; they could move a few seats but are unlikely to change the overall balance."
+     ]
+    },
+    {
+     "heading": "The fraud claim",
+     "paragraphs": [
+      "Likud said the Arab parties had won through bribery, threats against polling-station staff, forgeries and double voting, and asked the police and the Shin Bet security service to investigate. Hebrew media had reported before polling day that the party planned such a claim if Netanyahu lost. The Central Elections Committee said it had begun its usual integrity monitoring and would examine every complaint; earlier, one of its officials had rejected talk of fraud in a television interview. Jewish News stressed that the review does not mean fraud has been established."
+     ]
+    },
+    {
+     "heading": "Coalition arithmetic",
+     "paragraphs": [
+      "Eisenkot and Netanyahu have both ruled out governments that rely on Arab-led parties. Joint List leader Yousef Jabareen said his alliance would not join a coalition but could back an effort to unseat Netanyahu from outside, while Ra’am said it wants to join the next government. Democrats leader Yair Golan urged the opposition to drop its refusal to work with them. President Isaac Herzog, who will consult party leaders once official results are published, urged all sides to avoid yet another election. Netanyahu remains caretaker prime minister in the meantime."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Times of Israel",
+     "title": "Likud claims election ‘stolen’ by Arab parties following their record performance",
+     "url": "https://www.timesofisrael.com/likud-claims-election-stolen-by-arab-parties-following-their-record-performance/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Jewish News",
+     "title": "Live blog: Netanyahu bloc falls to 53 seats, Eisenkot at 48 as Arab parties rise to 19",
+     "url": "https://www.jewishnews.co.uk/live-blog-israel-election-latest-news-and-updates/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+     "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Knesset seats with about 86% counted",
+    "measure": "Projected seats by camp",
+    "unit": "seats",
+    "values": [
+     {
+      "label": "Netanyahu bloc",
+      "value": 53
+     },
+     {
+      "label": "Eisenkot bloc",
+      "value": 48
+     },
+     {
+      "label": "Arab-led parties",
+      "value": 19
+     }
+    ],
+    "alt": "Bar chart of projected Knesset seats on Wednesday afternoon: Netanyahu’s bloc 53, Eisenkot’s bloc 48, Arab-led parties 19. A majority requires 61 of 120.",
+    "caption": "Partial results, Wednesday, October 28 · 61 seats needed for a majority · special ballots still to be counted",
+    "sourceUrl": "https://www.timesofisrael.com/likud-claims-election-stolen-by-arab-parties-following-their-record-performance/"
+   }
+  },
+  {
+   "id": "qatar-draft-deal-iran",
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes.",
+   "section": "world",
+   "title": "Qatar hands Iran a seven-day plan to end the war as the Houthis turn their missiles on Aden",
+   "category": "Conflict & diplomacy",
+   "region": "Middle East · Iran, Qatar, Yemen",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-25 / 2026-10-28",
+   "body": "Qatari mediators gave Iran a draft deal on Sunday that sets out a seven-day sequence of daily confidence-building steps by Tehran and Washington, backed by several guarantor countries, an official briefed on the talks told Reuters. Iran is expected to answer by the end of the week, but a senior Iranian official said Qatar had offered only ideas, not a formal proposal, and that Tehran would not bend on the nuclear issue. On Wednesday the Houthis fired missiles at Aden airport, seat of Yemen’s recognised government, and the US Navy told ships to avoid the Gulf unless necessary.",
+   "whatChanged": "A concrete mediated timetable to end the war surfaced, even as Iranian officials played it down and fighting spread to southern Yemen’s main city.",
+   "whyMatters": "The eight-month war has disrupted oil and shipping worldwide; a sequenced deal is the first detailed off-ramp reported since an interim agreement collapsed in June, while President Trump keeps threatening new strikes.",
+   "uncertainty": "The draft’s terms on nuclear issues and sanctions are not public, accounts of Iran’s response conflict, and it is unclear how it relates to a separate Pakistani proposal that Trump reportedly approved.",
+   "watchNext": "Iran’s reply, expected by the end of this week, whether the steps begin early next week, and US decisions after the November 3 midterms.",
+   "keyFacts": [
+    "The Qatari draft was presented in Tehran on Sunday, October 25",
+    "It lays out a seven-day timeline of daily steps, with several guarantor countries",
+    "Iran reportedly offered its own two-week regional pause in exchange for talks and a gradual reopening of Hormuz",
+    "Houthis called for Aden airport to be evacuated before missiles fell there on October 28"
+   ],
+   "report": [
+    {
+     "heading": "The proposal",
+     "paragraphs": [
+      "According to an official briefed on the negotiations, who spoke to Reuters, the Qatari draft addresses concerns raised by both Tehran and Washington and would have each side take a step every day for seven days, with several countries acting as guarantors. It could start early next week. Iran International, citing a Pakistani official quoted by Reuters, reported a separate plan presented by Pakistan’s army chief, Field Marshal Asim Munir, with President Trump’s approval, with Pakistan, Turkey, Saudi Arabia and Qatar as guarantors."
+     ]
+    },
+    {
+     "heading": "Iran’s answer so far",
+     "paragraphs": [
+      "The signals from Tehran are mixed. A senior Iranian official told reporters that Qatar had presented unacceptable ideas rather than a proposal, and ruled out flexibility on the nuclear file. Another Iranian official told The National that Iran welcomes any effort towards negotiations, and said Tehran had asked a visiting delegation from Saudi Arabia, Pakistan and Turkey to persuade Washington to accept its offer of a two-week pause across the region, in return for renewed talks and a gradual reopening of the Strait of Hormuz. Iran told the visitors it had no leverage over the Houthis."
+     ]
+    },
+    {
+     "heading": "The fighting goes on",
+     "paragraphs": [
+      "On Wednesday the Houthis called for Aden airport to be evacuated, AFP reported a missile landing at the airport and a police source described a second attack later that afternoon; Houthi media said a Saudi strike on a petrol station in Yemen killed 11 people. US Naval Forces Central Command advised ships that do not need to transit the area to stay clear, citing traffic and blockade enforcement. Kuwait summoned Iran’s ambassador over alleged interference. The war began in February, when the United States and Israel attacked Iran."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The National",
+     "title": "Iran ‘welcomes negotiations’ after reported Qatari-mediated draft deal",
+     "url": "https://www.thenationalnews.com/news/mena/2026/10/28/iran-welcomes-negotiations-after-reported-qatari-mediated-draft-deal/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf Today (Reuters)",
+     "title": "Qatari mediators present Iran with new deal to end the war",
+     "url": "https://www.gulftoday.ae/news/2026/10/28/qatari-mediators-present-iran-with-new-deal-to-end-the-war",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Iran International",
+     "title": "Qatar presents Iran with new draft deal, expects response this week - Reuters",
+     "url": "https://www.iranintl.com/en/202610288735",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Khaleej Times",
+     "title": "Houthis attack Aden airport, Saudi strikes hit petrol station",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-28-2026",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Mediators, Tehran and Aden",
+    "bounds": [
+     34,
+     10,
+     62,
+     40
+    ],
+    "countries": [
+     "364",
+     "634",
+     "887"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 49.6,
+      "lat": 28.4,
+      "kind": "water"
+     },
+     {
+      "label": "Red Sea",
+      "lon": 38.5,
+      "lat": 20,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Gulf region highlighting Iran, Qatar and Yemen, with markers at Tehran, at Doha, where mediation is based, and at Aden airport in southern Yemen.",
+    "caption": "Iran, Qatar and Yemen · markers show Tehran, Doha and Aden, which the Houthis targeted"
+   },
+   "locations": [
+    {
+     "label": "Tehran",
+     "lon": 51.39,
+     "lat": 35.69
+    },
+    {
+     "label": "Doha",
+     "lon": 51.53,
+     "lat": 25.29
+    },
+    {
+     "label": "Aden airport",
+     "mapLabel": "Aden",
+     "lon": 45.03,
+     "lat": 12.83
+    }
+   ]
+  },
+  {
+   "id": "fed-holds-canada-hikes",
+   "threadId": "iran-war-energy-shock",
+   "threadTitle": "The Iran war and global energy shock",
+   "threadSummary": "How the war with Iran and disruption around the Strait of Hormuz have pushed up oil prices, inflation and interest rates around the world.",
+   "section": "world",
+   "title": "Canada raises rates for the first time since 2023 as the Fed holds, both wrestling with an oil-driven inflation surge",
+   "category": "Economy",
+   "region": "North America · United States, Canada",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-28",
+   "body": "The Bank of Canada raised its policy rate by a quarter point to 2.5% on Wednesday, its first increase since July 2023, and said more could follow. Brent crude has averaged about $125 a barrel this month, and the bank now expects inflation to stay above 3% through much of 2027. Hours later the US Federal Reserve held its range at 3.75% to 4%, a week before the midterms, though governors Lisa Cook and Beth Hammack voted for a hike. The Fed said inflation remains elevated, and markets expect it to raise rates in December.",
+   "whatChanged": "Canada joined the Fed in tightening to fight energy-led inflation, while the Fed paused after its September increase with two officials pushing for more.",
+   "whyMatters": "Higher borrowing costs in the two neighbours show how the war’s oil shock is reaching mortgages and business loans far from the Gulf, at a time when Canada’s growth is also being squeezed by new US tariffs.",
+   "uncertainty": "Both banks say the path depends on energy prices and coming data; Fed chair Kevin Warsh says the economy is not overheating, a view he acknowledges most colleagues do not share.",
+   "watchNext": "US third-quarter growth figures on Thursday, the Fed’s December 8–9 meeting and the Bank of Canada’s next decision on December 9.",
+   "keyFacts": [
+    "Bank of Canada: 2.25% to 2.5%, the first rise since July 2023",
+    "Fed: held at 3.75%–4%, a 10–2 vote, with Cook and Hammack preferring a quarter-point rise",
+    "Canada now forecasts 2.9% inflation in 2026 and 3.1% in 2027, near 2% only by mid-2028",
+    "Brent averaged about $125 a barrel in October, around $35 above July levels",
+    "Markets priced roughly an 80% chance of a Fed hike in December"
+   ],
+   "report": [
+    {
+     "heading": "Canada moves",
+     "paragraphs": [
+      "The Bank of Canada’s quarter-point rise reverses part of the easing it carried out until October 2025. Governor Tiff Macklem said further increases could not be ruled out and that decisions would be taken one meeting at a time; the governing council had considered holding, because price pressure is still concentrated in energy. Canadian inflation was 3.1% in September with energy prices up 19% from a year earlier, while inflation excluding gasoline was 2.2%. The bank raised its 2027 inflation forecast by more than a percentage point, to 3.1%, and nudged growth up to 1% for 2026."
+     ]
+    },
+    {
+     "heading": "The Fed waits",
+     "paragraphs": [
+      "The Federal Open Market Committee kept its target range unchanged after raising it in September for the first time in this cycle. Its statement said economic activity is expanding at a strong pace and that more information would help it decide what is needed to return inflation to 2%. Lisa Cook, whom President Trump has tried to remove, cast her first dissent, joining the Cleveland Fed’s Beth Hammack in favour of a hike. US consumer prices were 3.7% higher in September than a year earlier, according to figures cited by OPB.",
+      "At his news conference, Warsh said he believes inflation can come down without a rise in unemployment, citing productivity gains, and denied that politics shaped the decision. Markets still put the odds of a December rise at about 80%."
+     ]
+    },
+    {
+     "heading": "The common thread",
+     "paragraphs": [
+      "Both banks named energy prices linked to the war with Iran as a central risk. The Bank of Canada also cited trade with the United States, noting that the mandatory review of the North American trade agreement passed on July 1 without an extension."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Federal Reserve",
+     "title": "Federal Reserve issues FOMC statement",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+     "publishedAt": "2026-10-28 18:00 UTC",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "Yahoo Finance",
+     "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+     "url": "https://finance.yahoo.com/economy/policy/articles/fed-holds-rates-steady-awaits-180301828.html",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "OPB (NPR)",
+     "title": "Fed holds interest rates steady even as inflation remains stubborn",
+     "url": "https://www.opb.org/article/2026/10/28/fed-holds-interest-rates-steady-despite-stubborn-inflation/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Hub",
+     "title": "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
+     "url": "https://thehub.ca/2026/10/29/bank-of-canada-raises-rate-to-2-5-as-oil-shock-lifts-inflation-outlook/",
+     "publishedAt": "2026-10-29",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Canada’s inflation outlook, revised up",
+    "measure": "Bank of Canada average inflation forecast",
+    "unit": "%",
+    "values": [
+     {
+      "label": "2026, July forecast",
+      "value": 2.5
+     },
+     {
+      "label": "2026, October forecast",
+      "value": 2.9
+     },
+     {
+      "label": "2027, July forecast",
+      "value": 2.0
+     },
+     {
+      "label": "2027, October forecast",
+      "value": 3.1
+     }
+    ],
+    "alt": "Bar chart comparing the Bank of Canada’s July and October inflation forecasts: for 2026, 2.5% then 2.9%; for 2027, 2.0% then 3.1%.",
+    "caption": "July figures derived from the size of the October revisions reported by The Hub · target is 2%",
+    "sourceUrl": "https://thehub.ca/2026/10/29/bank-of-canada-raises-rate-to-2-5-as-oil-shock-lifts-inflation-outlook/"
+   }
+  },
+  {
+   "id": "us-sanctions-rwanda-defence-ministry",
+   "threadId": "drc-conflict",
+   "threadTitle": "Congo’s eastern war",
+   "threadSummary": "The fighting in eastern Democratic Republic of Congo between government forces and the Rwanda-backed M23 rebels, and efforts to broker peace.",
+   "section": "world",
+   "title": "Washington sanctions Rwanda’s defence ministry for backing rebels in eastern Congo",
+   "category": "Sanctions & conflict",
+   "region": "Africa · Rwanda, DR Congo",
+   "regions": [
+    "africa"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-28",
+   "body": "The United States on Wednesday sanctioned Rwanda’s Ministry of Defence and Zigama Credit and Savings Society, a bank serving Rwanda’s security services, over support for the M23 rebels in eastern Congo. The Treasury said the ministry sent thousands of troops to fight alongside the rebels in North and South Kivu, and that Zigama paid for weapons from China and elsewhere and helped move gold from rebel-held land into Rwanda. The State Department said Rwanda was breaching the peace accords President Trump brokered last December. Rwanda denies backing the rebels.",
+   "whatChanged": "The US moved from sanctioning individuals and the army to targeting Rwanda’s defence ministry itself and a bank tied to it.",
+   "whyMatters": "It is the strongest US pressure yet on Kigali, a close Western security partner, and a sign that Washington’s flagship Congo peace deal has not stopped the fighting.",
+   "uncertainty": "Rwanda had not formally responded when the measures were announced, and the effect depends on how far banks and buyers of Congolese minerals comply.",
+   "watchNext": "Rwanda’s reply, any response from Kinshasa or the rebels on the ground, and whether European governments follow with their own measures.",
+   "keyFacts": [
+    "Targets: Rwanda’s Ministry of Defence and Zigama Credit and Savings Society",
+    "Designated under US Executive Order 13413, as amended",
+    "Washington says thousands of Rwandan troops operate with M23 in North and South Kivu",
+    "The Washington Accords between Congo and Rwanda were signed on December 4, 2025"
+   ],
+   "report": [
+    {
+     "heading": "The sanctions",
+     "paragraphs": [
+      "The Treasury said the defence ministry directed the Rwanda Defence Force, already under US sanctions, to deploy troops across North and South Kivu who fought beside the rebels and supplied them. It said Zigama made payments to firms in China and other countries for weapons, ammunition and equipment, and that one of its branches enabled gold from rebel territory to be moved into Rwanda. Treasury Secretary Scott Bessent said Rwanda must stop supporting M23 and withdraw its troops."
+     ]
+    },
+    {
+     "heading": "Washington’s case",
+     "paragraphs": [
+      "The State Department said Rwandan troops had also brought surface-to-air missiles and jamming equipment into Congo that endanger civilian aircraft, and that civilians in rebel-run gold and coltan mines, including at Rubaya in North Kivu, face forced labour, dangerous conditions and illegal taxation. It urged companies to examine their supply chains. The department tied the move to the Washington Accords for Peace and Prosperity, which the two countries’ leaders signed at the White House in December 2025, saying Rwanda had not kept its commitments."
+     ]
+    },
+    {
+     "heading": "The reaction",
+     "paragraphs": [
+      "Rwanda denies backing the rebels, which now call themselves the Refoundation of the Nation, formerly AFC-M23; government spokespeople did not immediately comment to Reuters. OkayAfrica reported that Congo welcomed the sanctions. Reuters noted that US mediation has so far brought little change on the ground, where the United Nations says the rebels are fighting Congolese troops and a Hutu militia with roots in the 1994 genocide."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "US Department of State",
+     "title": "The United States Announces Sanctions in Response to Rwanda’s Destabilizing Activities in Eastern Democratic Republic of the Congo",
+     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/the-united-states-announces-sanctions-in-response-to-rwandas-destabilizing-activities-in-eastern-democratic-republic-of-the-congo",
+     "publishedAt": "2026-10-28",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "ThePrint (Reuters)",
+     "title": "US imposes sanctions on Rwanda's defense ministry over Congo conflict",
+     "url": "https://theprint.in/world/us-imposes-sanctions-on-rwandas-defense-ministry-over-congo-conflict/3084464/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "OkayAfrica",
+     "title": "Today in Africa — October 28, 2026",
+     "url": "https://www.okayafrica.com/today-in-africa-october-28-2026-egypt-convicts-mada-masr-editor-lina-attalah-as-tanzania-announces-first-gas-discovery-in-a-decade/1441209",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Rwanda and eastern Congo",
+    "bounds": [
+     24,
+     -6,
+     34,
+     2.5
+    ],
+    "countries": [
+     "646",
+     "180"
+    ],
+    "labels": [
+     {
+      "label": "Lake Tanganyika",
+      "lon": 29.6,
+      "lat": -5.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Rwanda and eastern Democratic Republic of Congo, both highlighted, with markers at Kigali and at the Rubaya mining area in North Kivu named by the State Department.",
+    "caption": "Rwanda and DR Congo · markers show Kigali and Rubaya · highlighting does not show areas of control"
+   },
+   "locations": [
+    {
+     "label": "Kigali",
+     "lon": 30.06,
+     "lat": -1.95
+    },
+    {
+     "label": "Rubaya mining area, North Kivu",
+     "mapLabel": "Rubaya",
+     "lon": 28.93,
+     "lat": -1.56
+    }
+   ]
+  },
+  {
+   "id": "flavio-bolsonaro-lands-miami",
+   "threadId": "brazil-election-2026",
+   "threadTitle": "Brazil's 2026 presidential election",
+   "threadSummary": "Brazil's October 2026 presidential contest, in which Luiz Inácio Lula da Silva defeated Flávio Bolsonaro in a runoff, and its aftermath.",
+   "section": "more",
+   "title": "Flávio Bolsonaro lands in Miami after slipping into Argentina on foot",
+   "category": "Politics & justice",
+   "region": "Latin America · Brazil",
+   "regions": [
+    "latin-america",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-27 / 2026-10-28",
+   "whatChanged": "The defeated candidate’s route out of Brazil became clear when he and his family arrived in Florida on Wednesday morning.",
+   "body": "Argentine immigration said the family crossed by land late on Tuesday and within the hour boarded a private plane to Guayaquil, Ecuador, which then flew them to Opa-Locka Executive Airport near Miami. Justice Alexandre de Moraes had ordered him to hand over his passports on election night, treating him as a flight risk in a money-laundering inquiry, and the US State Department says it is issuing the family visas. An analyst quoted by Al Jazeera expects a struggle for leadership of Brazil’s right, with São Paulo governor Tarcísio de Freitas central to it.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
+     "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
+     "url": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat",
+     "publishedAt": "2026-10-28",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "ABC News",
+     "title": "'I did not flee Brazil,' Bolsonaro says after landing in US following election defeat",
+     "url": "https://abcnews.com/International/brazilian-authorities-investigating-flvio-bolsonaro-fled-us-election/story?id=137618388",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-talks-november-window",
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia's war in Ukraine, efforts to negotiate an end to it, and the wider security consequences for Europe.",
+   "section": "more",
+   "title": "Zelenskyy hopes for three-way talks with the US and Russia between November 6 and 10",
+   "category": "Diplomacy",
+   "region": "Europe · Ukraine",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-27 / 2026-10-28",
+   "whatChanged": "Ukraine named a target window for the Abu Dhabi talks, and the Oleshky truce was extended to other parts of Kherson region at Russia’s suggestion.",
+   "body": "Volodymyr Zelenskyy said he expects Washington to confirm a date around November 4, after the US midterms, and that the venue could change because of the Middle East war; the Kremlin has not confirmed a timetable and still demands the rest of Donbas. Kyiv wants progress on energy and Black Sea truces and prisoner swaps but does not expect a breakthrough in the first round. An adviser to Melania Trump said Russia proposed widening the Oleshky ceasefire and starting it early, and that both sides had kept to it so far.",
+   "sources": [
+    {
+     "publisher": "The Kyiv Independent",
+     "title": "Ukraine war latest: Oleshky ceasefire holds as Zelensky secures new aid pledges",
+     "url": "https://kyivindependent.com/ukraine-war-latest-oleshky-ceasefire-holds-as-zelensky-secures-new-aid-pledges/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Kyiv Independent",
+     "title": "As Ukraine, Russia head back to peace talks, here's what Zelensky expects",
+     "url": "https://kyivindependent.com/zelensky-reveals-what-to-expect-as-ukraine-russia-head-back-to-peace-talks/",
+     "publishedAt": "2026-10-28",
+     "kind": "Analysis"
+    }
+   ]
+  },
+  {
+   "id": "uk-healey-first-budget",
+   "threadId": "uk-public-finances",
+   "threadTitle": "Britain's public finances",
+   "threadSummary": "How the British government is managing taxes, spending and borrowing as energy costs and interest rates rise.",
+   "section": "more",
+   "title": "Britain’s first Healey budget pays households £100 for energy and doubles a bank tax surcharge",
+   "category": "Economy",
+   "region": "Europe · United Kingdom",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-28",
+   "whatChanged": "Chancellor John Healey set out targeted help with energy bills, paid for partly by a temporary bank levy and higher taxes on savings and property income.",
+   "body": "About 20 million households in lower council-tax bands will get a one-off £100 energy payment this winter, gas standing charges are to be scrapped, and the 5p cut in fuel duty is extended to July 2027. The bank surcharge doubles to 6% for 15 months from January, and tax rates on savings and property income rise by two points from April 2027. Britain pledged a further £10 billion for Ukraine, and the fiscal watchdog expects debt interest to rise by £14 billion this year, largely because of the Middle East war.",
+   "sources": [
+    {
+     "publisher": "ITV News",
+     "title": "Rise in bank tax and £100 energy payments: What’s in Healey’s debut Budget?",
+     "url": "https://www.itv.com/news/2026-10-28/chancellor-john-healey-reveals-what-is-in-his-first-budget",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Tax Policy Associates",
+     "title": "Budget 2026 - what it means",
+     "url": "https://taxpolicy.org.uk/2026/10/28/budget-2026-what-it-means",
+     "publishedAt": "2026-10-28",
+     "kind": "Analysis"
+    }
+   ]
+  },
+  {
+   "id": "cyclone-arnab-aftermath",
+   "threadId": "cyclone-arnab-2026",
+   "threadTitle": "Cyclone Arnab",
+   "threadSummary": "A severe cyclone that formed over the Bay of Bengal in late October 2026 and struck India's east coast.",
+   "section": "more",
+   "title": "Cyclone Arnab kills at least three in Andhra Pradesh and weakens inland",
+   "category": "Weather & disaster",
+   "region": "Asia · India",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-28",
+   "whatChanged": "After making landfall early on Wednesday, the storm caused at least three deaths and lost strength as it moved inland.",
+   "body": "India’s disaster response force said three people died, all in Andhra Pradesh, the worst-hit state; Odisha escaped serious damage, according to preliminary reports. The state’s chief minister said at least 180 houses were destroyed and 220 trees brought down, power was cut in several areas, and three airports suspended operations. More than 180,000 people had been evacuated from the two states, and 39 response teams were deployed as heavy rain spread to neighbouring states.",
+   "sources": [
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "At least three killed, thousands evacuated as cyclone hits India's eastern coast",
+     "url": "https://www.abc.net.au/news/2026-10-29/cyclone-arnab-hits-india-east-coast/107321328",
+     "publishedAt": "2026-10-29",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Business Standard",
+     "title": "Cyclone Arnab kills three, damages 31 houses in India",
+     "url": "https://www.tbsnews.net/world/south-asia/cyclone-arnab-kills-three-damages-31-houses-india-1585861",
+     "publishedAt": "2026-10-28 12:54 UTC",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "china-plenum-expulsions",
+   "threadId": "china-party-politics",
+   "threadTitle": "China's Communist Party politics",
+   "threadSummary": "Xi Jinping's management of the Communist Party, its leadership and its disciplinary purges ahead of the 2027 party congress.",
+   "section": "more",
+   "title": "China’s party plenum confirms the expulsion of 33 officials, including a former top general",
+   "category": "Politics",
+   "region": "Asia · China",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-29",
+   "whatChanged": "The Central Committee’s four-day meeting ended with formal confirmation of a sweeping round of expulsions, state media reported on Thursday.",
+   "body": "According to Xinhua, as reported by The Standard in Hong Kong, those confirmed as expelled include former Politburo member Ma Xingrui, former senior military leader Zhang Youxia and military official Liu Zhenli, former diplomat Liu Jianchao, former industry minister Jin Zhuanglong and former securities regulator Yi Huiman. Li Yunze, once head of the financial regulator, was removed from his party post. The plenum opened on Monday with a focus on discipline ahead of next year’s party congress.",
+   "sources": [
+    {
+     "publisher": "The Standard (Hong Kong)",
+     "title": "China's Communist Party confirms expulsion of 33 officials",
+     "url": "https://www.thestandard.com.hk/china/article/346925/Chinas-Communist-Party-confirms-expulsion-of-33-officials",
+     "publishedAt": "2026-10-29",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Investing.com",
+     "title": "China expels 33 officials including top military leaders",
+     "url": "https://www.investing.com/news/economy-news/china-expels-33-officials-including-top-military-leaders-93CH-4982483",
+     "publishedAt": "2026-10-29",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "moyale-clashes-displacement",
+   "threadId": "ethiopia-regional-clashes",
+   "threadTitle": "Ethiopia's regional clashes",
+   "threadSummary": "Fighting between regional forces inside Ethiopia and the displacement it causes, including across the border into Kenya.",
+   "section": "more",
+   "title": "About 36,000 people flee fighting around Ethiopia’s Moyale into Kenya",
+   "category": "Conflict & humanitarian",
+   "region": "Africa · Ethiopia, Kenya",
+   "regions": [
+    "africa"
+   ],
+   "status": "This week",
+   "eventDate": "2026-10-18 / 2026-10-27",
+   "whatChanged": "The UN refugee agency put the number crossing into Kenya at about 36,000 after a week of clashes between two Ethiopian regional forces.",
+   "body": "The fighting between security forces from Ethiopia’s Oromia and Somali regions began with a dispute over a flag and spread across seven districts of southern Oromia, with residents reporting deaths and burned homes. Kenya’s national human rights commission says about 40,000 people have sought refuge in Kenyan Moyale, more than 15,000 of them in eight temporary shelters. UNHCR says most arrivals are women and children needing food, water, shelter and health care, and rain is raising the risk of disease.",
+   "sources": [
+    {
+     "publisher": "allAfrica",
+     "title": "Ethiopia: UN Reports 36,000 Ethiopian Arrivals Fleeing Moyale Conflict, Kenya Rights Commission Urges Aid",
+     "url": "https://allafrica.com/stories/202610280039.html",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "netherlands-ai-civil-service-cuts",
+   "threadId": "ai-and-work",
+   "threadTitle": "AI and work",
+   "threadSummary": "How AI is changing jobs, hiring and the structure of companies.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "The Netherlands plans to cut 25,000 civil service jobs, betting on AI to keep the state running",
+   "category": "Government & employment",
+   "region": "Europe · Netherlands",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-26",
+   "hook": "One of the first governments to tie a large public-sector cut to AI productivity, before showing how the AI will be used.",
+   "body": "The Dutch government said on Monday that it plans to eliminate about 25,000 central government posts by 2035, roughly 16% of a civil service that reached a record 160,000 people last year. Savings are put at €900 million a year by 2027, rising to €3.5 billion from 2035. Ministries, inspectorates and implementing agencies will be hit hardest, with some facing cuts of 45% to 60%, while police and defence are exempt. The cabinet says it will present plans to raise productivity with AI early next year.",
+   "whatChanged": "A national government set a concrete multi-year headcount cut and linked it explicitly to expected AI-driven productivity gains.",
+   "whyMatters": "Governments are among the largest employers of office workers; if the plan proceeds, it becomes an early test of whether AI can replace public-sector work at scale without degrading services.",
+   "uncertainty": "The AI deployment plans have not been published, much of the saving also comes from fewer external hires and fewer rules, and no union reaction had been reported.",
+   "watchNext": "The cabinet’s AI productivity plan due early in 2027, parliamentary debate on the cuts, and how unions and agencies respond.",
+   "keyFacts": [
+    "About 25,000 posts to go by 2035, out of a record 160,000 central government staff at the end of 2025",
+    "Savings of €900 million a year by 2027 and €3.5 billion a year from 2035",
+    "Some agencies could lose 45% to 60% of staff; police and defence exempt",
+    "Announced on October 26 by State Secretary for Effective Government Eric van den Burg"
+   ],
+   "report": [
+    {
+     "heading": "The plan",
+     "paragraphs": [
+      "In a letter to parliament, State Secretary for Effective Government Eric van den Burg said the state could not keep doing what it had been doing. The number of central government officials rose 41% between 2018 and the end of 2025, to about 160,000. The cabinet now intends to shrink that by about 25,000 posts over several years, mainly in ministries, inspectorates and agencies that carry out policy, while leaving the police and armed forces untouched.",
+      "Beyond AI, the plan relies on hiring fewer outside contractors, scrapping 500 unnecessary rules a year and favouring Dutch and European suppliers, according to Bloomberg’s report."
+     ]
+    },
+    {
+     "heading": "Where AI comes in",
+     "paragraphs": [
+      "The government cited non-binding motions in parliament calling for a 20% productivity gain through AI, and said it would set out early next year how it intends to deploy the technology across the civil service. In other words, the headcount target and the savings figures have been fixed before the tools that are meant to make them achievable have been described in public.",
+      "Neither Bloomberg’s report nor TVP World’s included a response from public-sector unions, and the government has not said which services would be automated first. Ministries and agencies facing the deepest cuts, of up to 60% of staff, have not yet been named."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Star (Bloomberg)",
+     "title": "Dutch government plans to cut 25,000 jobs in AI-led overhaul",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/dutch-government-plans-to-cut-25000-jobs-in-ai-led-overhaul",
+     "publishedAt": "2026-10-27 02:00 UTC",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TVP World",
+     "title": "Dutch cabinet eyes €3.5 billion in annual savings through AI-led job cuts",
+     "url": "https://tvpworld.com/96151420/netherlands-to-cut-25000-civil-service-jobs-in-ai-backed-drive",
+     "publishedAt": "2026-10-27 14:02",
+     "kind": "Reporting"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-29/netherlands-ai-civil-service-cuts.svg",
+    "alt": "A row of government office desks with chairs, several of them fading to outlines, beside a small glowing chip, standing for civil service posts to be cut as the Dutch government bets on AI.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "wmo-greenhouse-gas-record",
+   "threadId": "climate-greenhouse-gases",
+   "threadTitle": "Greenhouse gases and the warming climate",
+   "threadSummary": "Measurements of the gases that drive global warming and what they mean for the climate.",
+   "section": "frontiers",
+   "field": "Science",
+   "title": "Carbon dioxide in the air hit another record in 2025, the UN weather agency reports",
+   "category": "Climate",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-10-27 / 2026-10-28",
+   "hook": "Growth slowed slightly from the year before, but the yearly rise is still triple the pace of the 1960s.",
+   "body": "The World Meteorological Organization’s annual Greenhouse Gas Bulletin says the average concentration of carbon dioxide reached 426.8 parts per million in 2025, 153% of the pre-industrial level, after rising 2.8 parts per million in a year. Methane and nitrous oxide also set records. The increase was slightly smaller than the surge of 2023 to 2024, which the agency attributes to land ecosystems recovering after a strong El Niño. It expects another rise in 2026 as fossil fuel use continues and a new El Niño develops.",
+   "whatChanged": "The bulletin added 2025 to an unbroken run of record concentrations, with a yearly carbon dioxide rise well above the decade average.",
+   "whyMatters": "Carbon dioxide persists for centuries, so each record locks in further warming; the figures arrive less than two weeks before the COP31 climate talks in Antalya.",
+   "uncertainty": "Year-to-year growth swings with El Niño and the strength of land and ocean carbon sinks, so a single year’s slowdown says little about the trend.",
+   "watchNext": "The COP31 talks from November 9 to 20, updated national emissions plans, and whether a developing El Niño weakens carbon sinks again in 2026.",
+   "keyFacts": [
+    "Carbon dioxide averaged 426.8 ppm in 2025, 153% of the 1750 level",
+    "Methane 1,948 parts per billion (267% of pre-industrial); nitrous oxide 339.1 ppb",
+    "CO2 rose 2.8 ppm from 2024 to 2025, against 0.8 ppm a year in the 1960s",
+    "Warming effect of long-lived gases up 56% from 1990 to 2025, about 81% of it from CO2"
+   ],
+   "report": [
+    {
+     "heading": "The measurements",
+     "paragraphs": [
+      "The bulletin draws on a global network of monitoring stations. It reports that carbon dioxide averaged 426.8 parts per million last year, methane 1,948 parts per billion and nitrous oxide 339.1 parts per billion, all records. About half of the carbon dioxide emitted each year stays in the atmosphere; the rest is absorbed by land and oceans. Citing NOAA data, the agency says the warming effect of long-lived greenhouse gases rose 56% between 1990 and 2025, with carbon dioxide accounting for about four-fifths of the increase."
+     ]
+    },
+    {
+     "heading": "Why growth eased, a little",
+     "paragraphs": [
+      "The 2.8 part-per-million rise in 2025 was above the decade average but slightly below the jump of the previous year. The WMO says the strong 2023 to 2024 El Niño had brought drought and wildfires that reduced how much carbon plants absorbed, and that land sinks recovered and fire emissions fell last year. Deputy Secretary-General Ko Barrett said the long lifetime of carbon dioxide means it will affect the climate for decades and centuries.",
+      "Scientist Oksana Tarasova warned that the ocean’s capacity to take up carbon dioxide may weaken as the climate changes. The bulletin also flags sulphur hexafluoride, used in electrical equipment, which reached a record, and hydrogen leakage, as gases to watch during the energy transition."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "World Meteorological Organization",
+     "title": "Greenhouse gas levels once again reach record high",
+     "url": "https://wmo.int/node/39151",
+     "publishedAt": "2026-10-27",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "PACNEWS (Islands Business)",
+     "title": "PACNEWS THREE 28 OCTOBER 2026",
+     "url": "https://islandsbusiness.com/pacnews/pacnews-three-28-october-2026/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "How fast carbon dioxide is accumulating",
+    "measure": "Average yearly rise in atmospheric CO2",
+    "unit": "ppm per year",
+    "values": [
+     {
+      "label": "1960s average",
+      "value": 0.8
+     },
+     {
+      "label": "2011–2020 average",
+      "value": 2.4
+     },
+     {
+      "label": "2024 to 2025",
+      "value": 2.8
+     }
+    ],
+    "alt": "Bar chart of the yearly rise in carbon dioxide: about 0.8 parts per million a year in the 1960s, 2.4 a year on average in 2011 to 2020, and 2.8 from 2024 to 2025.",
+    "caption": "WMO Greenhouse Gas Bulletin · global averages",
+    "sourceUrl": "https://wmo.int/node/39151"
+   }
+  },
+  {
+   "id": "nasa-swift-mission-ends",
+   "threadId": "nasa-space-observatories",
+   "threadTitle": "NASA's space observatories",
+   "threadSummary": "The fate of NASA's astronomy satellites and the scientific capabilities they provide.",
+   "section": "frontiers",
+   "field": "Space",
+   "title": "NASA ends Swift’s 22-year hunt for cosmic explosions as the telescope falls toward Earth",
+   "category": "Astronomy",
+   "region": "Global",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-20 / 2026-10-26",
+   "hook": "Astronomers lose their fastest tool for catching gamma-ray bursts, and NASA has named no dedicated successor.",
+   "body": "NASA has ended science operations on the Neil Gehrels Swift Observatory, which made its last observations on October 20 after sinking below about 275 kilometres, too low to hold its telescopes steady. A commercial rescue that was meant to push it higher was called off in August when the servicing spacecraft developed control problems. Launched in 2004 for a two-year mission, Swift observed more than 2,000 gamma-ray bursts. Its uncontrolled re-entry is expected within weeks; most of it should burn up.",
+   "whatChanged": "NASA formally closed the mission, confirming that astronomers will lose Swift’s ability to swing onto a new burst within minutes.",
+   "whyMatters": "Swift underpinned rapid follow-up of gamma-ray bursts, gravitational-wave events and other fleeting phenomena; its loss leaves a gap other missions cover only partly.",
+   "uncertainty": "No re-entry date or location has been predicted publicly, and how well Fermi, Einstein Probe and SVOM can fill the gap remains to be seen.",
+   "watchNext": "Re-entry forecasts from tracking agencies in the coming weeks, and whether NASA proposes a successor or new uses of its existing fleet.",
+   "keyFacts": [
+    "Launched November 20, 2004; final science observation on October 20, 2026",
+    "More than 2,000 gamma-ray bursts and 1,400 supernova studies, and about 7,000 papers",
+    "Orbit below about 275 km, decaying faster because of the solar maximum",
+    "A $30 million commercial reboost mission was called off in August"
+   ],
+   "report": [
+    {
+     "heading": "Why it is coming down",
+     "paragraphs": [
+      "Swift has no engine. Its orbit decayed faster than planned because the Sun passed the peak of its 11-year cycle, which heats and thickens the upper atmosphere and increases drag. NASA paid Katalyst Space Technologies about $30 million to attach a robotic spacecraft and raise the orbit; the LINK vehicle launched in July but ran into attitude-control problems, and the attempt was abandoned without a boost. Swift entered safe mode and made its final observation on October 20, and NASA announced the end of the mission on October 23."
+     ]
+    },
+    {
+     "heading": "What it achieved",
+     "paragraphs": [
+      "Designed for two years, Swift ran for nearly 22. Its burst-alert telescope spotted gamma-ray bursts and its other instruments could point at them within minutes, observing up to 75 targets a day. In 2005 it caught the first X-ray afterglow of a short burst, supporting the idea that such bursts come from merging neutron stars. Its data have fed about 7,000 papers, and its archive of roughly 12 terabytes remains open."
+     ]
+    },
+    {
+     "heading": "The gap it leaves",
+     "paragraphs": [
+      "NASA has not named a dedicated successor. Fermi detects several bursts a week but locates them less precisely, China’s Einstein Probe locates about one a week, and the French-Chinese SVOM mission covers part of the same ground. NASA says the risk to people from debris is very small."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Nature World News",
+     "title": "NASA Ends Swift's Mission at 171 Miles Up as the Gamma Ray Burst Hunter Heads for Re-Entry",
+     "url": "https://www.natureworldnews.com/articles/73650/20261026/nasa-ends-swifts-mission-171-miles-gamma-ray-burst-hunter-heads-re-entry.htm",
+     "publishedAt": "2026-10-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Nature World News",
+     "title": "As Swift Nears Reentry, NASA Has No Dedicated Replacement for Catching Gamma-Ray Bursts Within Minutes",
+     "url": "https://www.natureworldnews.com/articles/73674/20261029/swift-nears-reentry-nasa-has-no-dedicated-replacement-catching-gamma-ray-bursts-within-minutes.htm",
+     "publishedAt": "2026-10-29",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "AIAA (SpaceNews)",
+     "title": "NASA Concludes Swift Observatory Mission After More Than Two Decades",
+     "url": "https://aiaa.org/?p=37478",
+     "publishedAt": "2026-10-26",
+     "kind": "Reporting"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-29/nasa-swift-mission-ends.svg",
+    "alt": "A small telescope satellite with solar panels dropping toward the curved edge of the Earth, trailing a faint copper glow, standing for NASA’s Swift observatory falling from orbit after its mission ended.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "sudan-nyala-market-toll-dispute",
+   "threadId": "sudan-war-humanitarian-crisis",
+   "threadTitle": "Sudan's war and humanitarian crisis",
+   "threadSummary": "The war between Sudan’s army and the Rapid Support Forces since April 2023, and the famine and displacement it has caused.",
+   "section": "still",
+   "title": "Accounts of the Nyala market strike range from 21 to more than 100 dead as Sudan’s drone war deepens",
+   "category": "Conflict & humanitarian",
+   "region": "Africa · Sudan",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-10-26 / 2026-10-28",
+   "body": "Two days after a drone strike hit a crowded market in Nyala, the Rapid Support Forces’ stronghold in Darfur, tallies diverge sharply. The rights group Emergency Lawyers says more than 100 people were killed and blames an army drone; Doctors Without Borders received 36 bodies and 150 wounded at its hospital; the Sudan Doctors Network counted at least 21 dead. An army-aligned spokesman said more than 150 militia recruits were killed. Witnesses told AP that fighters had gathered at the market, where women were selling them food.",
+   "whatChanged": "Fuller casualty reports emerged, showing a far higher possible toll than first counted and conflicting claims about who was hit.",
+   "whyMatters": "Drone strikes on markets and power plants have become a leading cause of civilian deaths and outages in Sudan; the UN counted more than 306 drone deaths in the first three weeks of October.",
+   "uncertainty": "AP could not verify any of the figures, and the army has not formally claimed the strike; the line between fighters and civilians at the market is disputed.",
+   "watchNext": "Any independent investigation of the Nyala strike, further attacks on power and water infrastructure, and humanitarian access in Darfur and Kordofan.",
+   "keyFacts": [
+    "Emergency Lawyers: more than 100 killed and 113 wounded at the Nyala market",
+    "MSF: 36 bodies and 150 wounded reached its Nyala hospital, 21 of the dead in civilian clothes",
+    "Sudan Doctors Network: at least 21 killed and more than 40 wounded",
+    "UN: more than 306 people killed by drone strikes in Sudan in the first three weeks of October"
+   ],
+   "report": [
+    {
+     "heading": "What is known",
+     "paragraphs": [
+      "The strike hit a busy market in Nyala, capital of South Darfur, at about 8 p.m. on Monday, October 26, according to a vendor who spoke to the Associated Press. Al Jazeera’s first report, citing the Sudan Doctors Network, gave at least 21 dead and 40 injured. Since then, Emergency Lawyers has put the toll above 100, with many women and children among the dead, and Doctors Without Borders has said 36 bodies and 150 wounded arrived at its hospital, 21 of the dead wearing civilian clothes."
+     ]
+    },
+    {
+     "heading": "Competing narratives",
+     "paragraphs": [
+      "Mohamed Didan, spokesman for the army-aligned Special Operations Forces, described a precise strike that killed more than 150 recruits at a camp west of the city. Two witnesses told AP that hundreds of RSF fighters had gathered at the market and that women selling tea and food to them were among those killed; one estimated about 14 civilian deaths. The Sudan Doctors Network described the attack as shelling. AP said it could not independently verify any of the accounts."
+     ]
+    },
+    {
+     "heading": "The wider pattern",
+     "paragraphs": [
+      "Both sides now rely heavily on drones. The UN human rights office recorded more than 306 deaths from drone strikes in the first three weeks of October, and a drone attack on an electricity substation this week disrupted power, and with it drinking-water pumping, in parts of Khartoum, Omdurman and Gezira."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "KSAT (Associated Press)",
+     "title": "Strike on Darfur market killed civilians selling food to fighters, witnesses say",
+     "url": "https://www.ksat.com/news/world/2026/10/28/strike-on-darfur-market-killed-civilians-selling-food-to-fighters-witnesses-say/",
+     "publishedAt": "2026-10-28",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Drone strike in Sudan’s Nyala kills at least 21, injures 40",
+     "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala",
+     "publishedAt": "2026-10-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Rio Times",
+     "title": "Africa Intelligence Brief for Wednesday, October 28, 2026",
+     "url": "https://www.riotimesonline.com/africa-intelligence-brief-wednesday-october-28-2026/",
+     "publishedAt": "2026-10-28",
+     "kind": "Analysis"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  {
+   "title": "Iran’s answer",
+   "text": "Iran is expected to respond to Qatar’s seven-day draft by the end of this week; an official briefed on the talks says the steps could begin early next week."
+  },
+  {
+   "title": "The US midterms",
+   "text": "Americans vote on Tuesday, November 3; Kyiv expects Washington to confirm a date for three-way talks with Russia around November 4."
+  },
+  {
+   "title": "Israel’s official result",
+   "text": "Official results are due on Wednesday, November 4, after which President Herzog begins consultations on who will try to form a government."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "The Bank of Canada raised rates for the first time in more than three years while the Federal Reserve held steady with two dissents, and Flávio Bolsonaro arrived in Florida with US visas for his family.",
+   "briefs": []
+  },
+  "latin-america": {
+   "summary": "Brazil’s defeated presidential candidate left the country through Argentina and Ecuador and landed in Miami, defying a court order to surrender his passports.",
+   "briefs": []
+  },
+  "europe": {
+   "summary": "A high-speed train crash south of Madrid killed at least 68 people, Britain’s new chancellor delivered his first budget, and Ukraine set a target window for talks with Russia and the US.",
+   "briefs": [
+    {
+     "title": "Netherlands and Britain pledge new support for Ukraine",
+     "eventDate": "2026-10-28",
+     "text": "Zelenskyy said the Netherlands is preparing a €500 million military aid package this autumn, and a Dutch minister announced €1.2 billion in non-military aid spread over three years for Ukraine’s economic recovery. Britain’s budget committed more than £10 billion of support for Ukraine in 2027. Separately, a KIIS poll found 80% of Ukrainians back continued strikes on Russian refineries even if the US cuts support.",
+     "sources": [
+      {
+       "publisher": "The Kyiv Independent",
+       "title": "Ukraine war latest: Oleshky ceasefire holds as Zelensky secures new aid pledges",
+       "url": "https://kyivindependent.com/ukraine-war-latest-oleshky-ceasefire-holds-as-zelensky-secures-new-aid-pledges/",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Ukraine says Russia is building a jet-drone launch site near Millerovo",
+     "eventDate": "2026-10-28",
+     "text": "Ukraine’s military intelligence agency said Russia is constructing a launch site for jet-powered attack drones near Millerovo airfield in Rostov region, about 20 kilometres from the Luhansk border. It said the site could support up to 100 launches a day once finished; there were no significant signs of construction there in late August. The claim has not been independently confirmed.",
+     "sources": [
+      {
+       "publisher": "The Kyiv Independent",
+       "title": "Ukraine war latest: Oleshky ceasefire holds as Zelensky secures new aid pledges",
+       "url": "https://kyivindependent.com/ukraine-war-latest-oleshky-ceasefire-holds-as-zelensky-secures-new-aid-pledges/",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Washington sanctioned Rwanda’s defence ministry over its support for rebels in Congo, tens of thousands fled clashes in southern Ethiopia into Kenya, and casualty accounts from a market strike in Darfur diverged sharply.",
+   "briefs": [
+    {
+     "title": "Tanzania announces its first gas discovery in a decade",
+     "eventDate": "2026-10-28",
+     "text": "Tanzania said a well at Mnazi Bay in the south holds an estimated 223 billion cubic feet of gas, its first find in ten years, with production expected to begin early next month. The field is owned by the state Tanzania Petroleum Development Corporation and the French firm Maurel & Prom. Natural gas generated nearly 80% of the country’s electricity in 2024.",
+     "sources": [
+      {
+       "publisher": "OkayAfrica",
+       "title": "Today in Africa — October 28, 2026",
+       "url": "https://www.okayafrica.com/today-in-africa-october-28-2026-egypt-convicts-mada-masr-editor-lina-attalah-as-tanzania-announces-first-gas-discovery-in-a-decade/1441209",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "South Sudan mourns independence figure Joseph Lagu",
+     "eventDate": "2026-10-28",
+     "text": "Joseph Lagu, a founder of the Anyanya rebel movement who led the 1972 negotiations that ended Sudan’s first civil war and won the south regional autonomy, has died at 94. South Sudan declared national mourning until his burial. President Salva Kiir once served under his command.",
+     "sources": [
+      {
+       "publisher": "OkayAfrica",
+       "title": "Today in Africa — October 28, 2026",
+       "url": "https://www.okayafrica.com/today-in-africa-october-28-2026-egypt-convicts-mada-masr-editor-lina-attalah-as-tanzania-announces-first-gas-discovery-in-a-decade/1441209",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Israel’s count left both blocs short as Likud alleged fraud, Qatar handed Iran a seven-day plan to end the war, and the Houthis fired missiles at Aden airport.",
+   "briefs": [
+    {
+     "title": "Israel’s defence minister attacks Eisenkot over call to security chiefs",
+     "eventDate": "2026-10-28",
+     "text": "Defence Minister Israel Katz called remarks by opposition leader Gadi Eisenkot undemocratic after Eisenkot, on election night, urged security chiefs to stand firm against any political pressure from Netanyahu. The exchange came as Netanyahu stays on as caretaker prime minister while coalition talks loom.",
+     "sources": [
+      {
+       "publisher": "Jewish News",
+       "title": "Live blog: Netanyahu bloc falls to 53 seats, Eisenkot at 48 as Arab parties rise to 19",
+       "url": "https://www.jewishnews.co.uk/live-blog-israel-election-latest-news-and-updates/",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Khaleej Times",
+       "title": "Houthis attack Aden airport, Saudi strikes hit petrol station",
+       "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-28-2026",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Syrian forces kill a French national in a clash with foreign fighters in Idlib",
+     "eventDate": "2026-10-28",
+     "text": "Syrian security forces killed a French national in a gunfight with members of the Firqat al-Ghuraba, a group of foreign jihadists, in Idlib province on Wednesday. Officials said they acted after seeing a person leave the group’s camp with weapons in breach of an earlier agreement, and at least one civilian was wounded. Foreign fighters remain a test for Syria’s government as it seeks Western trust.",
+     "sources": [
+      {
+       "publisher": "Foreign Exchanges",
+       "title": "World roundup: October 28 2026",
+       "url": "https://www.foreignexchanges.news/p/world-roundup-october-28-2026",
+       "publishedAt": "2026-10-28",
+       "kind": "Analysis"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "China’s Communist Party ended its plenum by confirming dozens of expulsions, Cyclone Arnab killed at least three in Andhra Pradesh, and China sent only an attaché to Southeast Asian defence talks.",
+   "briefs": [
+    {
+     "title": "China sends a junior envoy to ASEAN defence talks in Cebu",
+     "eventDate": "2026-10-27 / 2026-10-28",
+     "text": "The ASEAN defence ministers’ meetings opened in Cebu in the Philippines, with talks with partners including the United States, Japan and Australia set for October 29. China sent its embassy defence attaché instead of Defence Minister Dong Jun. Philippine Defence Secretary Gilberto Teodoro urged members not to let internal differences divide them over disputes such as the South China Sea.",
+     "sources": [
+      {
+       "publisher": "Daily Tribune",
+       "title": "China yet to confirm attendance at ASEAN defense talks",
+       "url": "https://tribune.net.ph/2026/10/27/china-yet-to-confirm-attendance-at-asean-defense-talks",
+       "publishedAt": "2026-10-27",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The Rio Times",
+       "title": "Asia Intelligence Brief for Wednesday, October 28, 2026",
+       "url": "https://www.riotimesonline.com/asia-intelligence-brief-wednesday-october-28-2026/",
+       "publishedAt": "2026-10-28",
+       "kind": "Analysis"
+      }
+     ]
+    },
+    {
+     "title": "Nepal suspends high-mountain trekking permits as the cyclone’s rain moves north",
+     "eventDate": "2026-10-28 / 2026-10-29",
+     "text": "Nepal suspended trekking permits for high mountain areas for three days because of the risk of heavy rain and blizzards from the remnants of Cyclone Arnab. The storm moved inland over India after making landfall in Andhra Pradesh.",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "At least three killed, thousands evacuated as cyclone hits India's eastern coast",
+       "url": "https://www.abc.net.au/news/2026-10-29/cyclone-arnab-hits-india-east-coast/107321328",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Papua New Guinea set new climate targets, the World Bank urged Fiji to turn its recovery into faster growth, and Australia’s human rights body said racism is undercounted.",
+   "briefs": [
+    {
+     "title": "Papua New Guinea pledges to become net-negative on emissions by 2035",
+     "eventDate": "2026-10-28",
+     "text": "Papua New Guinea launched its third national climate plan for 2025 to 2035, aiming to cut energy-sector emissions by 29% from 2022 levels, raise renewables to 80% of on-grid power, and reach net zero by 2030 and net-negative emissions by 2035. The targets depend on international finance and technology. It also includes the country’s first framework on loss and damage.",
+     "sources": [
+      {
+       "publisher": "PACNEWS (Islands Business)",
+       "title": "PACNEWS THREE 28 OCTOBER 2026",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-three-28-october-2026/",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "World Bank says Fiji needs faster growth to reach its 2050 goals",
+     "eventDate": "2026-10-28",
+     "text": "The World Bank’s first Fiji Economic Update projects growth of 2.1% in 2026, rising to 3% by 2028. Public debt fell from about 95% of GDP in 2021 to 76.9% in 2025 but is projected to rise again, and reaching high-income status by 2050 would need growth of 4% to 6%, roughly double the historical rate.",
+     "sources": [
+      {
+       "publisher": "PACNEWS (Islands Business)",
+       "title": "PACNEWS THREE 28 OCTOBER 2026",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-three-28-october-2026/",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

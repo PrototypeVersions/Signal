@@ -1,0 +1,1357 @@
+{
+  "date": "2026-10-30",
+  "number": 13,
+  "cutoff": "2026-10-30T11:20:00Z",
+  "cutoffLabel": "6:20 AM CT",
+  "opening": "A Russian drone killed 14 people on a Dnipro rail platform. Iran claimed new mine strikes near Hormuz as the Pentagon put the war’s cost at $47.1 billion, a judge refused to hold back California ballots, and Spain blamed its train disaster on a control-room order.",
+  "leadStoryId": "dnipro-station-strike",
+  "stories": [
+    {
+      "id": "dnipro-station-strike",
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia's war in Ukraine, efforts to negotiate an end to it, and the wider security consequences for Europe.",
+      "section": "world",
+      "title": "A Russian drone kills 14 people on a crowded Dnipro rail platform as a local truce holds in Kherson",
+      "category": "War",
+      "region": "Europe · Ukraine",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-10-29",
+      "body": "A jet-powered Russian drone struck a platform at Dnipro’s main station on Thursday as a commuter train was about to leave, killing 14 people and injuring at least 13, four of them critically, including an 11-year-old boy. Strikes the same day killed two teenage girls in Chernihiv, three people in Kremenchuk and one in Kyiv, and left 350,000 Dnipro households without power. The attacks came while a six-day, US-assisted truce held in Kherson region so that aid could reach occupied Oleshky.",
+      "whatChanged": "The deadliest single Russian strike on a Ukrainian rail station in years came days before expected three-way talks, alongside deadly attacks on four other cities.",
+      "whyMatters": "Ukraine’s railways carry civilians and supplies across the country, and a mass-casualty strike on a busy platform tests whether the narrow Kherson truce and the planned talks can lead to any wider restraint.",
+      "uncertainty": "Casualty figures may still change; Moscow denies targeting civilians and had not commented on the station strike in the reports we reviewed.",
+      "watchNext": "Whether the Kherson truce is extended past its six days, Kyiv’s push for new sanctions, and confirmation of a date for talks with the United States and Russia in early November.",
+      "keyFacts": [
+        "14 killed and at least 13 injured on a Dnipro station platform on October 29",
+        "Ukrzaliznytsia says a jet-powered drone hit as a commuter train prepared to depart",
+        "Six more deaths elsewhere: two in Chernihiv, three in Kremenchuk, one in Kyiv",
+        "350,000 households in Dnipro lost power after the day’s attacks",
+        "A six-day local truce covers only Kherson region, to let aid into Oleshky"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "The state railway, Ukrzaliznytsia, said a Russian jet-powered drone hit a platform at Dnipro’s main station on Thursday, October 29, while train 866 to Zaporizhzhia and a suburban commuter train were standing there. People were on the platform despite an alert warning of heightened danger, the railway said. The regional governor, Oleksandr Hanzha, first reported 13 dead; the toll later rose to 14, with at least 13 people in hospital, four of them in critical condition, among them an 11-year-old boy.",
+            "Another strike set a student dormitory in Dnipro on fire, and Hanzha said the day’s attacks cut electricity to 350,000 households in the city."
+          ]
+        },
+        {
+          "heading": "Attacks elsewhere",
+          "paragraphs": [
+            "In Chernihiv, a drone attack on a busy central street killed two teenage girls and wounded 23 people, four of them children. Strikes on homes in Kremenchuk killed three and wounded 32, and a missile strike on Kyiv late in the evening killed one person. Drones also hit city buses in Zaporizhzhia in three separate attacks, wounding six. Kyiv Post compared the Dnipro strike with the April 2022 missile attack on Kramatorsk station, which killed 61 people."
+          ]
+        },
+        {
+          "heading": "Reaction and diplomacy",
+          "paragraphs": [
+            "President Volodymyr Zelenskyy called the strikes deliberate and urged new sanctions from the European Union, the United States and the G7, saying Moscow had shown no sign of easing off; Prime Minister Sergiy Koretskyi said Russia was aiming at civilians. Russia denies targeting civilians.",
+            "The violence came as a six-day truce, arranged with American help, applied only in Kherson region so that aid could enter the Russian-held town of Oleshky. Kyiv expects three-way talks with Washington and Moscow next month, and presidential adviser Kyrylo Budanov called on Ukraine’s partners to keep up pressure on Russia."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Kyiv Post",
+          "title": "Russian Drone Strike on Dnipro Railway Platform Kills 14, Injures at Least 13",
+          "url": "https://www.kyivpost.com/post/88526",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Reuters (via Internazionale)",
+          "title": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/30/russian-drone-attack-on-train-station-kills-13-in-ukraine-s-dnipro",
+          "publishedAt": "2026-10-30",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Deadly strikes across Ukraine on October 29",
+        "bounds": [
+          22,
+          43,
+          41,
+          53
+        ],
+        "countries": [
+          "804"
+        ],
+        "labels": [
+          {
+            "label": "Black Sea",
+            "lon": 33,
+            "lat": 43.6,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Ukraine with markers at Dnipro, where a drone struck a station platform, and at Chernihiv, Kremenchuk and Kyiv, where other strikes killed people the same day.",
+        "caption": "Ukraine · approximate locations of the deadly strikes reported on Thursday"
+      },
+      "locations": [
+        {
+          "label": "Dnipro main station",
+          "mapLabel": "Dnipro",
+          "lon": 35.05,
+          "lat": 48.46
+        },
+        {
+          "label": "Chernihiv",
+          "lon": 31.29,
+          "lat": 51.49
+        },
+        {
+          "label": "Kremenchuk",
+          "lon": 33.42,
+          "lat": 49.07
+        },
+        {
+          "label": "Kyiv",
+          "lon": 30.52,
+          "lat": 50.45
+        }
+      ]
+    },
+    {
+      "id": "hormuz-mine-claims-war-cost",
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes.",
+      "section": "world",
+      "title": "Iran says four tankers hit mines near Hormuz as the Pentagon puts the war’s cost at $47.1 billion",
+      "category": "Conflict & diplomacy",
+      "region": "Middle East · Iran",
+      "regions": [
+        "middle-east",
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-28 / 2026-10-29",
+      "body": "Iran’s Revolutionary Guards said on Thursday that three tankers using a route they had not authorised struck mines south of the Strait of Hormuz, and the regular army later said a fourth caught fire east of it. British maritime monitors confirmed only that one tanker was hit by an unknown projectile, without injuries. In Washington, the Pentagon told lawmakers the war had cost $47.1 billion by mid-October. Iran’s foreign minister said talks with mediators on a seven-day plan to end the war were continuing.",
+      "whatChanged": "Iran claimed a new wave of mine strikes on shipping, the Pentagon gave Congress a higher cost estimate, and a letter from Vice President JD Vance to Tehran came to light.",
+      "whyMatters": "Each claimed attack raises the risk for ships and insurers in the world’s most important oil chokepoint, while the mixed signals from Washington leave Gulf states and markets unsure whether war resumes after the November 3 elections.",
+      "uncertainty": "None of Iran’s mine claims has been independently confirmed and no ships were named; the Pentagon’s total excludes some fuel and base repair costs, so the real figure is likely higher.",
+      "watchNext": "Tehran’s reply to the Vance letter, any meeting between US and Iranian officials in Qatar or Turkey, and whether strikes resume after the midterms.",
+      "keyFacts": [
+        "IRGC says three tankers hit mines on an unauthorised route; the army adds a fourth",
+        "UKMTO confirmed one tanker hit by an unknown projectile, with no injuries reported",
+        "Pentagon cost estimate: $47.1 billion through October 16, about $29 billion of it munitions",
+        "18 US service members killed and more than 860 injured, the Pentagon says",
+        "Vance’s letter reached Iran’s Mohsen Rezaei through Qatari mediators on October 25"
+      ],
+      "report": [
+        {
+          "heading": "The mine claims",
+          "paragraphs": [
+            "The navy of the Islamic Revolutionary Guard Corps said three tankers that had switched off their navigation systems and ignored its warnings exploded after hitting mines on an unauthorised route south of the strait. Later on Thursday Iran’s regular army said a fourth tanker struck mines east of the strait, caught fire and was left immobile. The UK Maritime Trade Operations centre reported one tanker hit by an unknown projectile during an outbound transit, with no injuries or pollution reported, and a separate fire on a dhow whose crew was evacuated. UKMTO has said most attacked ships no longer report to it, and US Central Command had called similar claims false a day earlier."
+          ]
+        },
+        {
+          "heading": "The cost of the war",
+          "paragraphs": [
+            "The New York Times reported that the Pentagon told lawmakers the war cost $47.1 billion through October 16, about $3.5 billion more than its previous update. Munitions account for $29 billion, and replacing damaged aircraft and equipment for $6.1 billion. Congressional officials said the figure leaves out a $1.5 billion fuel request and the rebuilding of damaged bases such as the naval base in Bahrain. The administration is seeking up to $70 billion in emergency military funding."
+          ]
+        },
+        {
+          "heading": "Diplomacy",
+          "paragraphs": [
+            "Foreign Minister Abbas Araghchi said Iran was in close contact with mediators on putting a seven-day plan into effect, possibly in less than a week; Iran wants its assets unfrozen, oil sanctions lifted and the US naval blockade ended. Vance’s letter to Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, was delivered by Qatari mediators on October 25. Trump said he had approved it but described its purpose as getting medical supplies to Iran rather than restarting peace talks, and he has threatened new strikes after the midterm elections."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Antiwar.com",
+          "title": "Iran Says Four Tankers Hit Mines in the Strait of Hormuz",
+          "url": "https://news.antiwar.com/2026/10/29/iran-says-four-tankers-hit-mines-in-the-strait-of-hormuz/",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The National",
+          "title": "Trump downplays Vance letter sent to Iran",
+          "url": "https://thenationalnews.com/news/gulf/2026/10/29/trump-downplays-vance-letter-sent-to-iran",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The New York Times (via The Philadelphia Inquirer)",
+          "title": "Iran war cost rises to $47.1 billion, Pentagon told lawmakers",
+          "url": "https://www.inquirer.com/news/nation-world/iran-war-cost-rises-pentagon-20261028.html",
+          "publishedAt": "2026-10-28",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "AFP (via The Star)",
+          "title": "Iran says discussing plan with mediators to end war, reopen Hormuz",
+          "url": "https://www.thestar.com.my/news/world/2026/10/29/iran-says-discussing-plan-with-mediators-to-end-war-reopen-hormuz",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "IndraStra Global",
+          "title": "Hormuz Mine Claims and Vance's Iran Letter Raise Stakes for Shipping and Diplomacy",
+          "url": "https://www.indrastra.com/2026/10/hormuz-mine-claims-and-vances-iran.html",
+          "publishedAt": "2026-10-30",
+          "kind": "Analysis"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "The Strait of Hormuz",
+        "bounds": [
+          50,
+          22,
+          60.5,
+          30
+        ],
+        "countries": [
+          "364",
+          "512",
+          "784"
+        ],
+        "labels": [
+          {
+            "label": "Persian Gulf",
+            "lon": 52.3,
+            "lat": 27.0,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Oman",
+            "lon": 58.6,
+            "lat": 24.4,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the Strait of Hormuz between Iran to the north and Oman’s Musandam peninsula and the United Arab Emirates to the south, with a marker near Khasab where monitors reported a tanker hit. Iran’s claimed mine strikes have no published locations.",
+        "caption": "Iran, Oman and the UAE · marker shows the approximate area of the incident reported by UKMTO near Khasab"
+      },
+      "locations": [
+        {
+          "label": "Tanker incident reported north of Khasab, Oman",
+          "mapLabel": "Khasab",
+          "lon": 56.25,
+          "lat": 26.3
+        }
+      ]
+    },
+    {
+      "id": "california-ballots-judge-carter",
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 3, 2026 US congressional elections and the legal fights over how they are run.",
+      "section": "world",
+      "title": "A federal judge refuses to set aside 20,000 California ballots as the administration widens its election fights",
+      "category": "Elections & law",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-28 / 2026-10-29",
+      "body": "Judge David Carter rejected the Justice Department’s request that California hold back the ballots of up to 20,000 people it calls likely noncitizens, writing that doing so would wreak havoc on the election and discount citizens’ votes. The department filed a new appeal the same evening. Days before the November 3 vote, the administration is also pressing Washington state over several hundred ballots and suing to delay certification of Alaska’s Senate race, where Trump has called for Democrat Mary Peltola to be prosecuted.",
+      "whatChanged": "The trial judge ruled against the administration on the merits after an appeals court had already declined to intervene, and the department appealed again.",
+      "whyMatters": "The cases test how far federal authorities can reach into the counting of votes, which states run, and set up possible disputes over certification after polling day.",
+      "uncertainty": "The appeal is pending; the department has not shown publicly how many of the 20,000 people, if any, are ineligible, and the Alaska claims rest on a disputed newspaper report.",
+      "watchNext": "The Ninth Circuit’s handling of the new appeal, any ruling in the Alaska certification suit, and how counts proceed after polls close on Tuesday.",
+      "keyFacts": [
+        "Judge David O. Carter denied the request on Wednesday, October 28",
+        "More than 3.7 million Californians had already voted; over 500,000 ballots processed",
+        "Federal prosecutors have arrested 28 noncitizens over illegal voting or registration in the state",
+        "The Justice Department filed a second appeal the same evening",
+        "About 61,000 Alaska ballots had been cast by October 27"
+      ],
+      "report": [
+        {
+          "heading": "The ruling",
+          "paragraphs": [
+            "The Justice Department sued California’s election officials in mid-October, saying they missed a 48-hour deadline to review a list of 20,000 registered voters it believes are probably not citizens, and asked the court to stop the state counting those ballots until immigration status was checked. Judge David O. Carter refused. He found that separating the ballots would force counties to invent new sorting procedures and risk disenfranchising voters, and that the harm to public trust from setting votes aside could not be undone. He also rejected the claim that California was obstructing federal law enforcement, noting that prosecutors had already arrested 28 noncitizens. Los Angeles County officials testified that ballots, once separated, would be almost impossible to match back to voters.",
+            "First Assistant US Attorney Bill Essayli called the continuing count an emergency that dilutes citizens’ votes. A panel of the Ninth Circuit had already declined to intervene earlier in the week."
+          ]
+        },
+        {
+          "heading": "Other fronts",
+          "paragraphs": [
+            "The department has asked Washington state to set aside ballots from several hundred suspected noncitizens and has told some California counties to do the same, warning officials they could face prosecution. In Alaska it has sued to delay certification of the Senate race if the Republican incumbent, Dan Sullivan, loses. That case centres on a second candidate named Dan J. Sullivan. After The New York Times reported texts suggesting Peltola’s campaign discussed recruiting him, Trump said she should be prosecuted. Peltola’s campaign and the Democratic Senatorial Campaign Committee deny any involvement, and legal experts quoted by AP said the report would not change the lawsuit."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "AP (via PBS NewsHour)",
+          "title": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting",
+          "url": "https://pbs.org/newshour/politics/judge-denies-federal-request-to-segregate-california-ballots-says-it-would-wreak-havoc-on-voting",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "AP (via News4Jax)",
+          "title": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy",
+          "url": "https://www.news4jax.com/news/politics/2026/10/28/report-peltolas-campaign-involved-in-effort-to-recruit-second-dan-sullivan-for-alaska-senate-race/",
+          "publishedAt": "2026-10-28",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Where the administration is contesting ballots",
+        "bounds": [
+          -170,
+          18,
+          -60,
+          72
+        ],
+        "countries": [
+          "840"
+        ],
+        "labels": [
+          {
+            "label": "Pacific Ocean",
+            "lon": -140,
+            "lat": 35,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the United States with markers in California, where a judge refused to set aside 20,000 ballots, in Washington state, where the Justice Department requested several hundred ballots be held, and in Alaska, where it is suing over Senate certification.",
+        "caption": "United States · markers show the three states named in the Justice Department’s election actions"
+      },
+      "locations": [
+        {
+          "label": "Federal court, Santa Ana, California",
+          "mapLabel": "California",
+          "lon": -117.87,
+          "lat": 33.75
+        },
+        {
+          "label": "Olympia, Washington",
+          "mapLabel": "Washington",
+          "lon": -122.9,
+          "lat": 47.04
+        },
+        {
+          "label": "Anchorage, Alaska",
+          "mapLabel": "Alaska",
+          "lon": -149.9,
+          "lat": 61.2
+        }
+      ]
+    },
+    {
+      "id": "spain-toledo-train-crash",
+      "threadId": "spain-rail-safety",
+      "threadTitle": "Spain's high-speed rail safety",
+      "threadSummary": "Deadly collisions in 2026 on Spain's high-speed lines to Andalusia, both involving trains run by Renfe and Iryo, and the questions they raise about signalling and control.",
+      "section": "world",
+      "title": "Spain traces its train disaster to an order from rail controllers to move past a red signal",
+      "category": "Disaster & safety",
+      "region": "Europe · Spain",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-28 / 2026-10-29",
+      "body": "Transport Minister Óscar Puente said a computer failure shut down the train-protection system on about 40 miles of the Madrid to Seville line, and the state rail manager then took manual control and let a Renfe train continue past a red signal into a stationary Iryo train. He called the order inexplicable and said the drivers were not to blame. The regional president put the toll at 69. Unions blamed understaffing and old equipment, drivers struck nationwide on Thursday, and the opposition demanded an independent review a month before the election.",
+      "whatChanged": "The government gave its first account of the cause, pointing to a decision in the control centre, and the confirmed toll rose to 69.",
+      "whyMatters": "A failure of human control over an automated safety system, ten months after the Adamuz crash on the same line, puts Spain’s rail management and its government under scrutiny weeks before a snap election.",
+      "uncertainty": "The account is the minister’s preliminary one; the independent accident commission and an expected judicial inquiry have yet to report, and reports differ on the exact time of the crash.",
+      "watchNext": "Findings from the train recorders and the accident commission, whether Iryo restores southern services, and the political effect before the November 29 election.",
+      "keyFacts": [
+        "At least 69 dead, per Castilla-La Mancha’s regional government",
+        "A computer failure disabled the LZB safety system on about 40 miles of track",
+        "The Renfe train was allowed past a red signal into a stationary Iryo train",
+        "Three days of national mourning, Thursday to Saturday",
+        "Spain votes in a snap general election on November 29"
+      ],
+      "report": [
+        {
+          "heading": "The minister’s account",
+          "paragraphs": [
+            "According to Óscar Puente, a computer failure knocked out the LZB train-control system along roughly 40 miles of the line and automatically stopped six trains, including the two that later collided near Urda in Toledo province on Wednesday morning. Adif, the state infrastructure manager, took manual control, and the control centre authorised the Renfe service from Madrid to continue despite a red signal caused by the Iryo train stopped ahead. Puente described the order as inexplicable, cited apparent human error and said the train engineers bore no blame. The Renfe train carried 397 passengers and the Iryo service 146."
+          ]
+        },
+        {
+          "heading": "Toll and investigations",
+          "paragraphs": [
+            "The Castilla-La Mancha regional government put the dead at 69, with at least 15 people seriously hurt and more than 50 others in hospital. Renfe has opened an internal inquiry, a judicial investigation is expected, and the independent rail accident commission will determine the cause. The same line saw the Adamuz crash in January, which killed 46 and was preliminarily blamed on a rail fracture."
+          ]
+        },
+        {
+          "heading": "Reaction",
+          "paragraphs": [
+            "Four rail unions rejected blaming a single worker, citing staff shortages, long hours and outdated equipment, and train drivers went ahead with a planned national strike on Thursday. People’s Party leader Alberto Núñez Feijóo called for a full, independent review of the network, and far-right demonstrators in Madrid demanded Puente’s resignation. Al Jazeera reported that Spain spent about 16% of its high-speed rail budget on maintenance between 2018 and 2022, far less than Italy, Germany or France. Prime Minister Pedro Sánchez faces voters on November 29, with his Socialists trailing in polls."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "ABC News",
+          "title": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official",
+          "url": "https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CNN (via Yahoo News)",
+          "title": "Spanish train crash yet another blow to Sánchez's government ahead of elections in November",
+          "url": "https://www.yahoo.com/news/politics/articles/spanish-train-crash-yet-another-175504060.html",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "'I held this woman in my arms. She died': Spain mourns train crash victims",
+          "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "The crash site south of Madrid",
+        "bounds": [
+          -10,
+          35.5,
+          4.5,
+          44.5
+        ],
+        "countries": [
+          "724"
+        ],
+        "labels": [
+          {
+            "label": "Mediterranean Sea",
+            "lon": 2.5,
+            "lat": 37.5,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Spain with markers at Madrid and at Urda in Toledo province, about 150 kilometres to the south, where the two trains collided on the Madrid to Seville line.",
+        "caption": "Spain · markers show Madrid and the approximate crash location near Urda"
+      },
+      "locations": [
+        {
+          "label": "Crash site near Urda, Toledo province",
+          "mapLabel": "Urda",
+          "lon": -3.72,
+          "lat": 39.41
+        },
+        {
+          "label": "Madrid",
+          "lon": -3.7,
+          "lat": 40.42
+        }
+      ]
+    },
+    {
+      "id": "ecb-holds-lagarde-early-exit",
+      "threadId": "iran-war-energy-shock",
+      "threadTitle": "The Iran war and global energy shock",
+      "threadSummary": "How the war with Iran and disruption around the Strait of Hormuz have pushed up oil prices, inflation and interest rates around the world.",
+      "section": "world",
+      "title": "The ECB holds rates as gas tops €100 and Christine Lagarde says she will leave early",
+      "category": "Economy",
+      "region": "Europe · Eurozone",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-28 / 2026-10-29",
+      "body": "The European Central Bank left its deposit rate at 2.5% on Thursday after two increases this year, warning that rising energy prices threaten both inflation and growth. Eurozone inflation reached 3.8% in September, almost double the 2% target. A day earlier, Europe’s benchmark gas price passed €100 a megawatt-hour for the first time since 2022, more than triple its level before the Iran war. Lagarde also announced she will step down on February 7, 2027, about nine months before her term ends.",
+      "whatChanged": "The bank paused its hiking cycle as the energy shock deepened, and its president set an early departure date, opening a succession race.",
+      "whyMatters": "Europe faces winter with gas storage below target and prices rising, and the central bank has to weigh inflation against a weakening economy just as its leadership changes.",
+      "uncertainty": "The ECB gave no reason for Lagarde’s early exit; reports link it to France’s 2027 presidential election. Gas prices depend on the course of the Iran war and winter weather.",
+      "watchNext": "Whether EU gas storage reaches its November 1 target, the choice of Lagarde’s successor, and the ECB’s next meeting in December.",
+      "keyFacts": [
+        "Deposit rate held at 2.5%, after hikes earlier this year including September",
+        "Eurozone inflation 3.8% in September, up from 3.2% in August",
+        "Dutch TTF gas futures reached €100.9 per MWh on October 28, from about €30 in February",
+        "EU gas storage was 75% full on October 21, against a 90% target for November 1",
+        "Lagarde will leave on February 7, 2027"
+      ],
+      "report": [
+        {
+          "heading": "The decision",
+          "paragraphs": [
+            "The ECB kept its deposit rate at 2.5%, its main refinancing rate at 2.65% and its marginal lending rate at 2.90%. It said underlying inflation had been broadly stable so far and wages had not yet reacted, but that energy prices kept rising, adding upside risk to inflation and downside risk to growth. Inflation in the euro area climbed to 3.8% in September from 3.2% in August. French ten-year borrowing costs touched 5% last week, and the bank repeated that its bond-market backstop, never used, remains available."
+          ]
+        },
+        {
+          "heading": "The gas squeeze",
+          "paragraphs": [
+            "Front-month Dutch TTF futures, Europe’s benchmark, rose more than 4% on Wednesday to €100.9 per megawatt-hour, the first time above €100 since December 2022. They traded near €30 in February, just before the war with Iran began. Traders cite disruption in the Middle East, the rush to refill storage, fears of renewed US strikes on Iran after the November 3 midterms, and the EU’s full ban on Russian gas due in January. Storage stood at 75% on October 21, well short of the 90% the EU aims for by November 1."
+          ]
+        },
+        {
+          "heading": "Succession",
+          "paragraphs": [
+            "Lagarde said she will leave on February 7, 2027, about nine months early, without giving a reason. Spain’s Pablo Hernández de Cos and the Netherlands’ Klaas Knot are widely seen as leading candidates, and two more of the six Executive Board seats, including the chief economist’s, fall vacant in the first half of 2027."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Euronews",
+          "title": "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target",
+          "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Seoul Economic Daily",
+          "title": "European Gas Prices Hit 4-Year High, Triple Since Iran War",
+          "url": "https://en.sedaily.com/international/2026/10/29/european-gas-prices-hit-4-year-high-triple-since-iran-war",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Irish Times",
+          "title": "ECB holds rates steady as Lagarde's departure overshadows decision",
+          "url": "https://www.irishtimes.com/business/2026/10/29/ecb-holds-rates-steady-as-lagardes-departure-overshadows-decision/",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Europe’s benchmark gas price",
+        "measure": "Front-month Dutch TTF futures",
+        "unit": "€ per MWh",
+        "values": [
+          {
+            "label": "February 2026 (approx.)",
+            "value": 30
+          },
+          {
+            "label": "October 28, 2026 (intraday)",
+            "value": 100.9
+          }
+        ],
+        "alt": "Bar chart: Europe’s benchmark gas price was about €30 per megawatt-hour in February 2026, before the Iran war, and reached €100.9 on October 28.",
+        "caption": "Dutch TTF front-month futures · February figure is approximate, as reported",
+        "sourceUrl": "https://en.sedaily.com/international/2026/10/29/european-gas-prices-hit-4-year-high-triple-since-iran-war"
+      }
+    },
+    {
+      "id": "israel-shin-bet-foreign-funding-probe",
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel's first general election since the October 7 attacks, a contest between Benjamin Netanyahu's bloc and challengers led by former army chief Gadi Eisenkot.",
+      "section": "more",
+      "title": "Israel’s election chief asks the Shin Bet to examine claims of foreign money behind Arab turnout",
+      "category": "Elections",
+      "region": "Middle East · Israel",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-29",
+      "whatChanged": "The Central Elections Committee formally asked the security service to investigate suspected foreign funding, with findings due within a week.",
+      "body": "Justice Noam Sohlberg, who chairs the committee, wrote to Shin Bet chief David Zini that serious suspicions of unlawful influence had reached him, while stressing he could not vouch for them. Israel Hayom reported the suspicions concern money from abroad to boost Arab turnout, which the Shin Bet had been examining for weeks, and that Likud has pointed to Qatar and Turkey. The tally still gives Netanyahu’s bloc 53 seats, Gadi Eisenkot’s 48 and Arab-led parties 19, with no bloc near 61.",
+      "sources": [
+        {
+          "publisher": "ANI",
+          "title": "Israel's Elections Committee asks Shin Bet to investigate allegations of foreign interference in Tuesday's poll",
+          "url": "https://www.aninews.in/news/world/middle-east/israels-elections-committee-asks-shin-bet-to-investigate-allegations-of-foreign-interference-in-tuesdays-poll20261029131046/",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Israel Hayom",
+          "title": "Shin Bet probes alleged Qatari funding to boost Arab sector turnout",
+          "url": "https://www.israelhayom.com/2026/10/29/shin-bet-probes-qatar-funding-arab-sector-turnout/",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "machado-us-proposed-2027-elections",
+      "threadId": "venezuela-transition",
+      "threadTitle": "Venezuela after Maduro",
+      "threadSummary": "Venezuela’s political transition and the dispute over when and how elections will be held.",
+      "section": "more",
+      "title": "Machado says Washington has proposed Venezuelan presidential elections in 2027",
+      "category": "Politics",
+      "region": "Latin America · Venezuela",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-29",
+      "whatChanged": "In her first full remarks since returning home, the opposition leader said the US had set out a path to a presidential vote next year.",
+      "body": "María Corina Machado told reporters in Caracas that Secretary of State Marco Rubio had laid out steps toward a democratic transition including presidential elections in 2027, and that acting President Delcy Rodríguez had backed elections earlier that day. Washington supports talks between Rodríguez’s government and opposition groups on remaking the electoral council and top court, from which Machado’s party is excluded. The State Department did not immediately comment.",
+      "sources": [
+        {
+          "publisher": "Reuters (via Internazionale)",
+          "title": "US proposes Venezuela elections for 2027, opposition leader Machado says",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/29/us-has-proposed-venezuela-elections-for-2027-opposition-leader-says",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "haiti-election-delay-salvadoran-troops",
+      "threadId": "haiti-gang-crisis",
+      "threadTitle": "Haiti's gang crisis",
+      "threadSummary": "Armed gangs' grip on Haiti and the internationally backed effort to push them back before elections.",
+      "section": "more",
+      "title": "Haiti pushes its first election since 2016 to July 2027 as El Salvador sends more than 2,000 troops",
+      "category": "Security & politics",
+      "region": "Latin America · Haiti",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-28 / 2026-10-29",
+      "whatChanged": "The electoral council moved the first round from December 13 to July 18, 2027, while Salvadoran soldiers arrived to find four missing technicians.",
+      "body": "The Provisional Electoral Council cited gang violence and set a runoff, along with local elections, for October 4, 2027. Fewer than 900,000 of the roughly 6.5 million Haitians with valid ID cards had registered to vote. El Salvador’s troops are searching for four aviation technicians working with the UN-backed Gang Suppression Force who vanished after an ambush in Croix-des-Bouquets on October 18; experts question how the troops will coordinate with that force.",
+      "sources": [
+        {
+          "publisher": "AP (via ABC News)",
+          "title": "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs",
+          "url": "https://abcnews.com/International/wireStory/haiti-announces-new-election-dates-2000-salvadoran-troops-137674662",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
+          "url": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "afghanistan-opium-survey-2026",
+      "threadId": "afghanistan-opium",
+      "threadTitle": "Afghanistan's opium economy",
+      "threadSummary": "Opium poppy cultivation in Afghanistan since the Taliban banned it in 2022, and what it means for farmers and the drug trade.",
+      "section": "more",
+      "title": "Afghan opium poppy fields more than quadruple despite the Taliban ban, the UN finds",
+      "category": "Drugs & economy",
+      "region": "Asia · Afghanistan",
+      "regions": [
+        "asia"
+      ],
+      "status": "This week",
+      "eventDate": "2026-10-29",
+      "whatChanged": "The UN drugs office’s 2026 survey found more than 43,000 hectares of poppy, up from about 10,000 in 2025.",
+      "body": "Estimated opium output rose about fivefold, from roughly 300 tonnes to just under 1,500, though cultivation remains far below the 232,000 hectares grown before the April 2022 ban. Poppy is now found in 16 of 34 provinces, mostly in the northeast. The Taliban say they destroyed 22,000 hectares of crops this year and dispute the findings.",
+      "sources": [
+        {
+          "publisher": "UN News",
+          "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+          "url": "https://news.un.org/en/story/2026/10/1168697",
+          "publishedAt": "2026-10-29",
+          "kind": "Primary"
+        }
+      ]
+    },
+    {
+      "id": "hegseth-fires-joint-staff-planner",
+      "threadId": "pentagon-leadership",
+      "threadTitle": "Shake-ups at the Pentagon",
+      "threadSummary": "Defense Secretary Pete Hegseth's dismissals of senior US military officers and the reasons given for them.",
+      "section": "more",
+      "title": "Hegseth removes the Pentagon’s top military planner over alleged leaks",
+      "category": "Defence",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "This week",
+      "eventDate": "2026-10-29",
+      "whatChanged": "Lieutenant General Brett Sylvia, head of strategy and plans on the Joint Staff, was fired, and the case was referred to the Justice Department.",
+      "body": "A senior official said an inquiry found Sylvia allegedly leaked classified information on the Iran war, Ukraine and other matters to reporters; the Pentagon spokesman cited an Air Force investigation without naming him. Sylvia had held the post for 11 months and is the second officer in that job removed under Hegseth. The firing comes as Trump weighs renewed strikes on Iran.",
+      "sources": [
+        {
+          "publisher": "ABC News",
+          "title": "Top general fired from Pentagon Joint Staff position for allegedly leaking classified info, source says",
+          "url": "https://abcnews.com/Politics/top-general-pushed-pentagons-joint-staff/story?id=137660845",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "AP (via PBS NewsHour)",
+          "title": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
+          "url": "https://www.pbs.org/newshour/politics/hegseth-fires-the-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "serbia-rts-chief-resigns",
+      "threadId": "serbia-politics",
+      "threadTitle": "Serbia's protest movement and politics",
+      "threadSummary": "Serbia’s student-led protest movement and the political transition after Aleksandar Vučić.",
+      "section": "more",
+      "title": "Serbia’s state broadcaster chief resigns after the Student List’s election win",
+      "category": "Politics & media",
+      "region": "Europe · Serbia",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-28 / 2026-10-29",
+      "whatChanged": "The head of RTS stepped down, and its acting news chief then replaced the top news editors.",
+      "body": "The director-general resigned late on Wednesday after talks with unions, saying she had come to be seen as an obstacle to change, a day after the Student List demanded the broadcaster be depoliticised. The head of Vojvodina’s public broadcaster also quit. The electoral commission’s latest, not yet final, count gives the Student List 140 of 250 seats and President Aleksandar Vučić’s party 104.",
+      "sources": [
+        {
+          "publisher": "Reuters (via ThePrint)",
+          "title": "Head of Serbia's public RTS TV resigns after Student List election victory",
+          "url": "https://theprint.in/world/head-of-serbias-public-rts-tv-resigns-after-student-list-election-victory/3084942/",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Serbian Monitor",
+          "title": "RTS Director-General resigns – All news programme editors dismissed",
+          "url": "https://www.serbianmonitor.com/en/rts-director-general-resigns-all-news-programme-editors-dismissed/",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "un-cuba-embargo-vote-2026",
+      "threadId": "us-cuba-relations",
+      "threadTitle": "The United States and Cuba",
+      "threadSummary": "Washington's decades-old embargo on Cuba, its tightening in 2026, and international opposition to it.",
+      "section": "more",
+      "title": "The UN again condemns the US embargo on Cuba, but with its weakest support in 20 years",
+      "category": "Diplomacy",
+      "region": "Latin America · Cuba",
+      "regions": [
+        "latin-america",
+        "north-america"
+      ],
+      "status": "This week",
+      "eventDate": "2026-10-28",
+      "whatChanged": "The General Assembly passed its annual resolution 130 to 17 with 25 abstentions, down from 165 to 7 a year earlier.",
+      "body": "It was the 34th consecutive vote calling for an end to the embargo. US Ambassador Mike Waltz denied there was a blockade and cited $876 million of US exports to Cuba from January to August, while Cuba’s foreign minister, Bruno Rodríguez, said the embargo, not Cuba, was the threat. Resolutions of the General Assembly are not binding.",
+      "sources": [
+        {
+          "publisher": "UN News",
+          "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+          "url": "https://news.un.org/en/story/2026/10/1168694",
+          "publishedAt": "2026-10-28",
+          "kind": "Primary"
+        }
+      ]
+    },
+    {
+      "id": "alphabet-microsoft-ai-spending-results",
+      "threadId": "ai-capital-spending",
+      "threadTitle": "The AI infrastructure buildout",
+      "threadSummary": "The rush by technology companies to raise and spend hundreds of billions of dollars on data centres and chips for AI.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Alphabet’s cloud sales double but its shares fall 12.6% as AI spending outruns cash",
+      "category": "AI industry",
+      "region": "Global",
+      "regions": [],
+      "status": "This week",
+      "eventDate": "2026-10-28 / 2026-10-29",
+      "hook": "Demand for AI computing is real and growing fast; investors are now asking how long the spending can outrun the cash it brings in.",
+      "body": "Alphabet said Google Cloud revenue more than doubled from a year earlier to $30.7 billion in the third quarter, but its quarterly capital spending reached $51.4 billion and free cash flow was negative $9.1 billion. Search growth slowed to 12%, below forecasts, and the shares closed 12.6% lower on Thursday. Microsoft reported Azure growth of 48% at constant currency, ahead of its own guidance, while its quarterly capital spending of $45.2 billion came in below the more than $50 billion it had signalled.",
+      "whatChanged": "Two of the largest AI spenders reported results that showed surging cloud demand alongside slower search growth and spending patterns that unsettled investors.",
+      "whyMatters": "These companies fund much of the global build-out of AI data centres, so their spending and returns shape chipmakers, power demand and the smaller cloud providers that depend on them.",
+      "uncertainty": "Reports differ on the companies’ forward spending plans; Microsoft’s lower figure partly reflects how leases are counted, not necessarily less building.",
+      "watchNext": "Alphabet’s promised detail on its spending plans with its fourth-quarter results, and whether investors keep rewarding Microsoft’s faster cloud growth.",
+      "keyFacts": [
+        "Alphabet Q3 revenue $127.6 billion, up 25%; Google Cloud $30.7 billion",
+        "Alphabet Q3 capital spending $51.4 billion, against $24 billion a year earlier",
+        "Alphabet free cash flow negative $9.1 billion; Class A shares down 12.6% on October 29",
+        "Microsoft Azure up 48% at constant currency; quarterly revenue $92.3 billion",
+        "Microsoft quarterly capital spending $45.2 billion, below its outlook of more than $50 billion"
+      ],
+      "report": [
+        {
+          "heading": "Alphabet",
+          "paragraphs": [
+            "Alphabet’s third-quarter revenue rose 25% to $127.6 billion, roughly in line with analysts’ expectations. Google Cloud brought in $30.7 billion, more than double a year earlier, with a margin of 36.2%. But search revenue grew only 12%, to $63.4 billion, slower than the 17% of the previous quarter and short of the 15% analysts expected. Capital spending reached $51.4 billion in the quarter, more than twice the $24 billion of a year before, leaving free cash flow negative at $9.1 billion. Chief executive Sundar Pichai said the Gemini app had reached one billion users. The Class A shares closed at $283.82 on Thursday, down 12.6%."
+          ]
+        },
+        {
+          "heading": "Microsoft",
+          "paragraphs": [
+            "Microsoft’s revenue for the quarter to September rose 19% to $92.3 billion, and Azure grew 48% at constant currency, beating its own forecast of 44% to 45%. Its capital spending, which counts finance leases but not operating leases, was $45.2 billion, about 30% higher than a year earlier but below the more than $50 billion it had pointed to. Microsoft has shifted some data-centre capacity to operating leases, which do not appear in that figure, and chief financial officer Amy Hood has said customer demand exceeds supply."
+          ]
+        },
+        {
+          "heading": "What it shows",
+          "paragraphs": [
+            "The results confirm strong paid demand for cloud and AI services. They also show the cost: Alphabet is now spending more than it generates in cash, and investors punished the slowdown in its core search business. Accounts of both companies’ forward spending guidance differ between reports, so we have not stated new targets."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Fortune",
+          "title": "Alphabet's Google Cloud revenue doubles to $31 billion as cash flow stays deep red",
+          "url": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/",
+          "publishedAt": "2026-10-28",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Stock Titan",
+          "title": "Google Earnings: Alphabet Misses Forecasts and Stock Falls 12.6%, While Cloud Revenue Jumps 103%",
+          "url": "https://www.stocktitan.net/articles/alphabet-q3-2026-earnings-google-cloud-doubles-search-slows",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Stock Titan",
+          "title": "Microsoft Earnings: Azure Grew 48%, Beating Microsoft's Own Forecast Again",
+          "url": "https://www.stocktitan.net/articles/microsoft-q1-fiscal-2027-earnings-azure-growth-ai-spending",
+          "publishedAt": "2026-10-28",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Alphabet’s quarterly capital spending",
+        "measure": "Capital expenditures, third quarter",
+        "unit": "$ billion",
+        "values": [
+          {
+            "label": "Q3 2025",
+            "value": 24
+          },
+          {
+            "label": "Q3 2026",
+            "value": 51.4
+          }
+        ],
+        "alt": "Bar chart: Alphabet’s capital spending was $24 billion in the third quarter of 2025 and $51.4 billion in the third quarter of 2026.",
+        "caption": "Alphabet capital expenditures, July to September of each year, as reported",
+        "sourceUrl": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/"
+      }
+    },
+    {
+      "id": "gemini-4-carbon-cyber-defenders",
+      "threadId": "ai-cybersecurity-acceleration",
+      "threadTitle": "AI and the cybersecurity race",
+      "threadSummary": "How increasingly capable AI systems are changing vulnerability discovery, exploitation and software defence.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Google gives its strongest model, Gemini 4 Carbon, to cyber defenders before anyone else",
+      "category": "AI models & security",
+      "region": "Global",
+      "regions": [],
+      "status": "This week",
+      "eventDate": "2026-10-28",
+      "hook": "A frontier lab is choosing who gets a model first because of what it can do to software, a modest but telling shift in how such systems are released.",
+      "body": "Google said on Wednesday that Gemini 4 Carbon, released two weeks after Gemini 4 Argon, is its most capable model, and that it will go first to a group of cybersecurity defenders before widening to trusted partners and, later, developers and the public. Google reports scores of 88.2% at finding software vulnerabilities and 54.8% at exploiting them on two security benchmarks, and the independent firm Artificial Analysis ranks it first on its general intelligence index. Most safety figures are Google’s own.",
+      "whatChanged": "Google released a new top model with access deliberately limited to defenders, citing its strength at finding and exploiting software flaws.",
+      "whyMatters": "Models that can both find and exploit vulnerabilities could help patch software faster or arm attackers, so who gets access first matters for everyone who relies on that software.",
+      "uncertainty": "Apart from the Artificial Analysis ranking, benchmark and safety results are Google’s own and have not been independently replicated; no date has been set for general release.",
+      "watchNext": "How quickly access widens beyond defenders, independent testing of its cyber abilities, and whether other labs adopt similar staged releases.",
+      "keyFacts": [
+        "Announced October 28 by Koray Kavukcuoglu of Google DeepMind",
+        "Score of 59 and first place on the Artificial Analysis Intelligence Index v5.0",
+        "Google-reported 88.2% on SEC-bench Pro, 54.8% on ExploitGym, 71.0% on CWE-bench",
+        "Introductory price $2 per million input tokens and $10 per million output tokens"
+      ],
+      "report": [
+        {
+          "heading": "The release",
+          "paragraphs": [
+            "Koray Kavukcuoglu, Google’s chief AI architect, announced Gemini 4 Carbon as the company’s strongest model, with particular gains in cybersecurity and long tasks. From this week it is available to a subset of cyber defenders; access will then widen to trusted partners through what Google calls the Fairwind Program, and developers, businesses and consumers will follow once Google has gathered feedback and refined its guardrails. Google says it is also taking part in the US government’s voluntary pre-release testing."
+          ]
+        },
+        {
+          "heading": "The claims",
+          "paragraphs": [
+            "Google reports state-of-the-art results on two security benchmarks: 88.2% on SEC-bench Pro, which measures finding vulnerabilities, and 54.8% on ExploitGym, which measures exploiting them, plus 71.0% at patching on CWE-bench. The independent benchmarking firm Artificial Analysis places it first on its Intelligence Index with a score of 59. Google also says high-severity misalignment alerts in live coding environments fell by almost 80% compared with Argon, and that an indirect prompt-injection test produced no successful attacks."
+          ]
+        },
+        {
+          "heading": "Limits",
+          "paragraphs": [
+            "Most of these figures come from Google’s own testing and have not been reproduced by outside researchers. The same capability that lets defenders find flaws could help attackers if the model is misused, which is the reason Google gives for staging access. Pricing starts at $2 per million input tokens and $10 per million output tokens and will double after an introductory period."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Google",
+          "title": "Gemini 4 Carbon: our next frontier model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "publishedAt": "2026-10-28",
+          "kind": "Company announcement"
+        },
+        {
+          "publisher": "The Tribune (ANI)",
+          "title": "Google unveils Gemini 4 Carbon with top AI benchmark score, expands focus on cybersecurity",
+          "url": "https://www.tribuneindia.com/news/business/google-unveils-gemini-4-carbon-with-top-ai-benchmark-score-expands-focus-on-cybersecurity/",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-10-30/gemini-4-carbon-cyber-defenders.svg",
+        "alt": "A shield standing in front of a stack of code lines, with a small magnifying glass catching one highlighted flaw, standing for Google giving its new model first to the defenders who look for software vulnerabilities.",
+        "credit": "Editorial illustration"
+      }
+    },
+    {
+      "id": "retatrutide-beats-ozempic-diabetes",
+      "threadId": "obesity-diabetes-drugs",
+      "threadTitle": "Obesity and diabetes drugs",
+      "threadSummary": "The race to develop hormone-based medicines that treat type 2 diabetes and obesity, and the evidence on how well they work.",
+      "section": "frontiers",
+      "field": "Medicine",
+      "title": "Lilly’s retatrutide doubles Ozempic’s weight loss in a head-to-head diabetes trial",
+      "category": "Diabetes & obesity",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-10-28",
+      "hook": "A large phase 3 comparison points to a stronger option for diabetes and weight, though these are company headline results, not yet peer-reviewed.",
+      "body": "Eli Lilly said its experimental drug retatrutide lowered blood sugar more and cut body weight by about 20% over 80 weeks in adults with type 2 diabetes, against 9.4% for the highest approved dose of Novo Nordisk’s Ozempic. The phase 3 trial enrolled 1,298 people and was open-label, so participants knew which drug they took. More people stopped retatrutide because of side effects, mostly digestive. The results have not been peer-reviewed, and the drug is not approved anywhere.",
+      "whatChanged": "The first large head-to-head phase 3 result put retatrutide well ahead of the most widely used drug in its class on both blood sugar and weight.",
+      "whyMatters": "A drug that controls both blood sugar and weight better than today’s leading treatment could change diabetes care, if the benefits hold up in full data and side effects stay manageable.",
+      "uncertainty": "The figures assume everyone stayed on treatment, the trial was open-label, and full data, peer review and any regulatory filing are still to come.",
+      "watchNext": "Full results at a medical meeting and in a journal, the separate trial against Lilly’s own tirzepatide, and any filing with regulators.",
+      "keyFacts": [
+        "TRANSCEND-T2D-2: 1,298 adults with type 2 diabetes, 80 weeks, phase 3",
+        "Weight change: −19.5% on 9 mg, −20.9% on 12 mg, −9.4% on Ozempic 2 mg",
+        "Blood sugar (A1C) fell 2.2 points on both retatrutide doses versus 1.8 on Ozempic",
+        "Stopped for side effects: 4.8% and 7.9% on retatrutide versus 2.7% on Ozempic"
+      ],
+      "report": [
+        {
+          "heading": "The trial",
+          "paragraphs": [
+            "TRANSCEND-T2D-2 randomly assigned 1,298 adults whose diabetes was not controlled on metformin, with or without an SGLT2 inhibitor, to retatrutide at 9 or 12 milligrams or to Ozempic at 2 milligrams, in a two-to-two-to-one ratio. Average starting A1C, a measure of long-term blood sugar, was 8.3%, and average weight 102.4 kilograms."
+          ]
+        },
+        {
+          "heading": "The results",
+          "paragraphs": [
+            "After 80 weeks, A1C fell by 2.2 points on both retatrutide doses and 1.8 on Ozempic. Weight fell 19.5% and 20.9% on the two retatrutide doses, against 9.4% on Ozempic. Lilly says the differences were statistically significant. Diarrhoea, nausea and vomiting were the most common side effects in all groups; 7.9% of people on the higher retatrutide dose stopped because of side effects, against 2.7% on Ozempic."
+          ]
+        },
+        {
+          "heading": "Caveats",
+          "paragraphs": [
+            "These are headline results from the company. They use an estimand that assumes everyone stayed on treatment for the full 80 weeks, a point STAT highlighted, and the open-label design can influence reported outcomes. Lilly says full data will be presented at a medical meeting and published in a peer-reviewed journal, and it has not announced a regulatory submission."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "Retatrutide remains investigational and is not approved by the US Food and Drug Administration or any other regulator. About 650 participants are continuing on it for a further 24 weeks in an extension of this trial, and a separate phase 3 study is comparing it directly with tirzepatide, another Lilly drug."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Eli Lilly",
+          "title": "Lilly's retatrutide delivered greater A1C reduction and more than double the weight loss of Ozempic's highest approved dose in head-to-head trial",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-retatrutide-delivered-greater-a1c-reduction-and-more",
+          "publishedAt": "2026-10-28",
+          "kind": "Company announcement"
+        },
+        {
+          "publisher": "STAT",
+          "title": "Lilly says 'triple-G' drug beat Novo's Ozempic in diabetes study",
+          "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/",
+          "publishedAt": "2026-10-28",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Weight lost after 80 weeks",
+        "measure": "Average change in body weight",
+        "unit": "% of body weight lost",
+        "values": [
+          {
+            "label": "Retatrutide 9 mg",
+            "value": 19.5
+          },
+          {
+            "label": "Retatrutide 12 mg",
+            "value": 20.9
+          },
+          {
+            "label": "Ozempic 2 mg",
+            "value": 9.4
+          }
+        ],
+        "alt": "Bar chart: adults with type 2 diabetes lost on average 19.5% of body weight on retatrutide 9 mg, 20.9% on retatrutide 12 mg and 9.4% on Ozempic 2 mg over 80 weeks.",
+        "caption": "TRANSCEND-T2D-2 · company-reported, efficacy estimand, not yet peer-reviewed",
+        "sourceUrl": "https://investor.lilly.com/news-releases/news-release-details/lillys-retatrutide-delivered-greater-a1c-reduction-and-more"
+      }
+    },
+    {
+      "id": "taiz-siege-humanitarian",
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes.",
+      "section": "still",
+      "title": "Yemen’s Taiz is cut off, with 800,000 people trapped and food, water and fuel running short",
+      "category": "Humanitarian",
+      "region": "Middle East · Yemen",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-10-29",
+      "body": "The UN says fighting around Taiz has displaced more than 281,000 people since early August and that about 800,000 remain trapped in the city, Yemen’s third largest, after Houthi forces fully encircled it this month. Human Rights Watch reported on Thursday that cooking gas prices have risen about fourfold, water output has halved and a health facility shut for three days for lack of diesel, and said the siege may amount to starvation as a weapon of war. The Houthis blame government forces for blocking the roads.",
+      "whatChanged": "A Human Rights Watch investigation and new UN figures documented worsening shortages as fighting around the city intensified.",
+      "whyMatters": "While attention is on Houthi missiles fired at Saudi Arabia, a besieged city of hundreds of thousands is running out of essentials, and aid can now reach it only by narrow mountain roads.",
+      "uncertainty": "Casualty claims from both sides cannot be verified, and the Houthis dispute responsibility for the blockade.",
+      "watchNext": "Whether any road into Taiz reopens for aid, UN appeals for access, and whether Saudi strikes and Houthi attacks escalate further.",
+      "keyFacts": [
+        "More than 281,000 people displaced by fighting since early August, the UN says",
+        "About 800,000 people trapped in Taiz city",
+        "WFP could not reach more than 600,000 aid-dependent people as of October 14",
+        "Cooking gas up about 400% and trucked water costs tripled, HRW reports"
+      ],
+      "report": [
+        {
+          "heading": "The siege tightens",
+          "paragraphs": [
+            "Houthi forces have ringed Taiz since 2015 while government-backed forces hold the centre. Human Rights Watch says the situation sharply worsened in October, when the Houthis completed the encirclement and blocked and attacked the last major supply road. The UN humanitarian office said on October 23 that the city had been cut off for 20 days, and by October 29 warned that time was running out, with aid forced onto narrow mountain tracks after a key road south was damaged."
+          ]
+        },
+        {
+          "heading": "Life inside",
+          "paragraphs": [
+            "The World Food Programme said on October 14 it could not reach more than 600,000 people who rely on its aid and that wheat flour stocks were nearly gone. UNICEF says the price of trucked water has tripled; the UN says water production has halved. Doctors told Human Rights Watch of shortages of anaesthesia and oxygen, and one facility stopped work for three days without diesel. Water-tank drivers reported being stopped at Houthi checkpoints. A Houthi spokesperson told the group on October 21 that government forces were the ones blocking roads."
+          ]
+        },
+        {
+          "heading": "The wider fighting",
+          "paragraphs": [
+            "Government spokesmen claim heavy Houthi losses around the city, which cannot be verified, while Houthi media report more than 100 air strikes on Sanaa and eight other provinces in a day. Saudi Arabia has intensified its strikes since the Houthis seized territory on the Red Sea coast last month. Human Rights Watch says international law allows sieges with a military aim but not the deliberate starving of civilians, and has urged the Houthis to open roads into the city immediately."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Human Rights Watch",
+          "title": "Yemen: Houthis Depriving Taizz Civilians of Food, Medicine",
+          "url": "https://www.hrw.org/news/2026/10/29/yemen-houthis-depriving-taizz-civilians-of-food-medicine",
+          "publishedAt": "2026-10-29",
+          "kind": "Primary"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+          "url": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ]
+    }
+  ],
+  "watch": [
+    {
+      "title": "Election day in the US",
+      "text": "Americans vote on Tuesday, November 3; watch the Ninth Circuit on California’s ballots, the Alaska certification suit, and whether Washington resumes strikes on Iran afterwards."
+    },
+    {
+      "title": "Israel’s results and the Shin Bet probe",
+      "text": "The security service is due to report on foreign-funding claims within a week, and official results are due on Wednesday, November 4."
+    },
+    {
+      "title": "Three-way talks on Ukraine",
+      "text": "Kyiv hopes to meet US and Russian negotiators between November 6 and 10, as the six-day Kherson truce nears its end."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "The US economy grew faster than expected in the third quarter, a judge narrowed a Medicaid rule, and Canada drew closer to the European Union at a summit in Montreal.",
+      "briefs": [
+        {
+          "title": "Canada and the EU float an ‘associate’ relationship at a Montreal summit",
+          "eventDate": "2026-10-29",
+          "text": "At a two-day summit in Montreal, Prime Minister Mark Carney and European Commission President Ursula von der Leyen both described Canada’s future link to the EU as a form of associate membership, while von der Leyen said full membership was ruled out by geography. The leaders launched a partnership including AI supercomputing and a digital trade agreement, and Ottawa announced up to 1.6 billion Canadian dollars of equity in the AI company Cohere. Carney also said Canada is not ready to sign a trade deal with the United States, whose 50% tariffs on some Canadian goods remain.",
+          "sources": [
+            {
+              "publisher": "BNN Bloomberg",
+              "title": "PM Carney, von der Leyen float 'associate member' status at Canada-EU summit",
+              "url": "https://www.bnnbloomberg.ca/business/politics/2026/10/30/pm-carney-von-der-leyen-float-associate-member-status-at-canada-eu-summit/",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "The Hub",
+              "title": "Carney says Canada not ready to sign U.S. trade deal as midterms near",
+              "url": "https://thehub.ca/2026/10/29/carney-says-canada-not-ready-to-sign-u-s-trade-deal-as-midterms-near/",
+              "publishedAt": "2026-10-29",
+              "kind": "Analysis"
+            }
+          ]
+        },
+        {
+          "title": "US economy grew at a 3.4% annual rate in the third quarter",
+          "eventDate": "2026-10-29",
+          "text": "The Commerce Department’s first estimate put annualised growth at 3.4%, up from 2.2% in the second quarter and slightly above forecasts, driven by consumer spending, business investment and inventories. A jump in imports subtracted more than three points. Price growth slowed sharply, with the PCE index rising at a 2.1% rate after 5.0% the quarter before.",
+          "sources": [
+            {
+              "publisher": "Stock Titan",
+              "title": "GDP Report: US GDP Grew 3.4% in the Third Quarter as Price Increases Slowed",
+              "url": "https://www.stocktitan.net/articles/q3-2026-gdp-growth-advance-estimate",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Judge blocks a rule making chronically ill Medicaid enrollees prove they cannot work",
+          "eventDate": "2026-10-29",
+          "text": "US District Judge Richard Stearns in Boston blocked federal guidance requiring chronically ill people to show their condition significantly impairs their ability to work before they can be exempted from new Medicaid work requirements. The case was brought by 25 states and the District of Columbia. He upheld two other restrictions, and the work requirements themselves still begin on January 1.",
+          "sources": [
+            {
+              "publisher": "AP (via OPB)",
+              "title": "Judge blocks Trump administration's Medicaid rule forcing sick recipients to prove frailty",
+              "url": "https://www.opb.org/article/2026/10/29/judge-blocks-trump-administration-s-medicaid-rule-forcing-sick-recipients-to-prove-frailty/",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Venezuela’s opposition leader said the US wants elections in 2027, Haiti delayed its vote, and Mexico deepened security cooperation with Washington.",
+      "briefs": [
+        {
+          "title": "Mexico’s Senate lets US Navy SEALs train its naval special forces",
+          "eventDate": "2026-10-28",
+          "text": "Senators voted 80 to 5 to allow 28 members of a US Navy SEAL team into Mexico from October 29 until April 15, 2027, with a pause over the holidays. They will train 87 Mexican naval special operations and intelligence personnel at sites in the State of Mexico and Baja California Sur.",
+          "sources": [
+            {
+              "publisher": "Infobae",
+              "title": "Senado autoriza ingreso de 28 elementos militares de élite de EEUU para entrenar con la Armada de México",
+              "url": "https://www.infobae.com/mexico/2026/10/28/senado-autoriza-ingreso-de-28-elementos-militares-de-elite-de-eeuu-para-entrenar-con-la-armada-de-mexico/",
+              "publishedAt": "2026-10-28",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Mexican forces kill a cartel figure wanted by the United States",
+          "eventDate": "2026-10-26 / 2026-10-28",
+          "text": "Mexico’s navy and federal forces said two men died when they repelled an armed attack in Sinaloa on October 26. Security Minister Omar García Harfuch said on October 28 that one was Jesús González Peñuelas, described as second in command of the Guasave cartel, for whom the US had offered up to $5 million; forensic confirmation was pending.",
+          "sources": [
+            {
+              "publisher": "Mexico News Daily",
+              "title": "Navy kills cartel operator Jesús 'Chuy' González, wanted by the US for $5M",
+              "url": "https://mexiconewsdaily.com/news/army-kills-jesus-chuy-gonzalez/",
+              "publishedAt": "2026-10-28",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "A Russian drone strike killed 14 at a Dnipro station, Spain traced its rail disaster to a control-room order, and the ECB held rates as gas prices topped €100.",
+      "briefs": [
+        {
+          "title": "Germany’s economy grows 0.2% on the back of state spending",
+          "eventDate": "2026-10-30",
+          "text": "Preliminary figures show German output rose 0.2% in the third quarter, slightly above the 0.1% expected, after 0.3% in the second. Government spending on infrastructure and defence did most of the work, while exports slowed and private activity stayed weak; one economist said growth would probably have stalled without the state.",
+          "sources": [
+            {
+              "publisher": "Reuters (via Global Banking & Finance Review)",
+              "title": "German economy grew more than expected in Q3, underpinned by state spending",
+              "url": "https://www.globalbankingandfinance.com/german-economy-grew-expected-q3-underpinned-state-spending/",
+              "publishedAt": "2026-10-30",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "Tanzania marked a year since its deadly 2025 election with victims’ families still seeking accountability, and announced its first major gas find in a decade.",
+      "briefs": [
+        {
+          "title": "A year after Tanzania’s election killings, families still wait for justice",
+          "eventDate": "2026-10-29",
+          "text": "Thursday marked one year since the October 29, 2025 vote that President Samia Suluhu Hassan won with about 98% after most of the opposition was excluded, followed by protests that security forces crushed. A government-appointed commission counted 518 deaths, while rights groups and the opposition say thousands died. A verdict in the treason trial of opposition leader Tundu Lissu is due on November 6.",
+          "sources": [
+            {
+              "publisher": "Africanews",
+              "title": "A year after Tanzania's bloody election, victims still await justice",
+              "url": "https://www.africanews.com/amp/2026/10/29/a-year-after-tanzanias-bloody-election-victims-still-await-justice/",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Tanzania announces its first major gas discovery in a decade",
+          "eventDate": "2026-10-28",
+          "text": "Energy Minister Juma Homera announced an estimated 223 billion cubic feet of natural gas at a well in the Mnazi Bay area, jointly owned by the state petroleum company and France’s Maurel & Prom. Production is expected to begin in early November. Gas already generates close to 80% of Tanzania’s electricity.",
+          "sources": [
+            {
+              "publisher": "Africanews",
+              "title": "Tanzania announces first major gas discovery in a decade",
+              "url": "https://www.africanews.com/2026/10/28/tanzania-announces-first-major-gas-discovery-in-a-decade/",
+              "publishedAt": "2026-10-28",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Iran claimed new mine strikes near Hormuz, Taiz remained under siege, Israel’s election chief ordered a probe of foreign funding claims, and Lebanon pressed diplomacy as Hezbollah refused to disarm.",
+      "briefs": [
+        {
+          "title": "Lebanon presses diplomacy as Hezbollah rules out disarming",
+          "eventDate": "2026-10-28 / 2026-10-29",
+          "text": "Hezbollah leader Naim Qassem said on October 28 that giving up the group’s weapons is not open for discussion. A day later President Joseph Aoun said Lebanon remains committed to diplomacy and that its demands, including a ceasefire, Israeli withdrawal and prisoner releases, are still unmet. Israeli troops remain in southern Lebanon.",
+          "sources": [
+            {
+              "publisher": "Arab News",
+              "title": "Lebanon bets on diplomacy to avert another war, amid reports of Hezbollah preparing for battle",
+              "url": "https://www.arabnews.com/middle-east/lebanon-bets-on-diplomacy-to-avert-another-war-amid-reports-of-hezbollah-preparing-for-battle-3008917",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Iraq’s prime minister makes the first such visit to post-Assad Syria",
+          "eventDate": "2026-10-28",
+          "text": "Prime Minister Ali al-Zaidi met President Ahmed al-Sharaa in Damascus, the first visit by an Iraqi prime minister since Bashar al-Assad fell. They discussed exporting Iraqi oil through Syria’s Baniyas line, trade, farming and security, but announced no new agreements.",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+              "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit",
+              "publishedAt": "2026-10-28",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Settlers attack journalists in the West Bank, and police detain the victims",
+          "eventDate": "2026-10-28",
+          "text": "Settlers near Umm al-Khair in Masafer Yatta beat an Israeli activist and pepper-sprayed the American journalist Jasper Nathaniel, according to an activist present and the Committee to Protect Journalists. Israeli police then held both men; they said two suspects were being questioned over an assault, and CPJ condemned the detentions.",
+          "sources": [
+            {
+              "publisher": "JournalismPakistan",
+              "title": "CPJ condemns detention of journalists after West Bank settler attack",
+              "url": "https://www.journalismpakistan.com/cpj-condemns-detention-of-journalists-after-west-bank-settler-attack",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "The New Arab",
+              "title": "Armed Israeli settlers threaten West Bank families, attack journalists",
+              "url": "https://www.newarab.com/news/israeli-settlers-threaten-west-bank-families-attack-journalists",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "The Bank of Japan held rates but said inflation is broadly at target, Amnesty tied Cambodian security firms to abuse in scam compounds, and Afghan opium planting surged.",
+      "briefs": [
+        {
+          "title": "Bank of Japan holds at 1.25% and says its inflation goal is broadly met",
+          "eventDate": "2026-10-30",
+          "text": "The central bank kept its policy rate at 1.25%, the highest since 1995, in an 8 to 1 vote, with one member wanting a rise to 1.5%. For the first time it judged underlying inflation broadly in line with its 2% target and raised next year’s inflation forecast to 2.6%. Analysts called it a hawkish hold.",
+          "sources": [
+            {
+              "publisher": "Seoul Economic Daily",
+              "title": "Bank of Japan Holds Rate at 1.25% as Underlying Inflation Meets 2% Goal",
+              "url": "https://en.sedaily.com/international/2026/10/30/bank-of-japan-holds-rate-at-125-percent-as-underlying",
+              "publishedAt": "2026-10-30",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Amnesty links Cambodian security firms and officers to slavery in scam compounds",
+          "eventDate": "2026-10-29",
+          "text": "Amnesty International named five private security companies that guarded at least 23 scam compounds where, it says, trafficked workers were held captive and beaten, and found serving soldiers or police linked to at least 22 of the 86 compounds it documented. The firms and officers named deny the allegations. The Interior Ministry pointed to 832 raids and 77 disciplined police officers but did not say whether it would investigate the firms.",
+          "sources": [
+            {
+              "publisher": "Amnesty International",
+              "title": "Cambodia: Politically connected security companies enabled slavery and rape in scamming compounds",
+              "url": "https://www.amnesty.org/en/latest/news/2026/10/cambodia-security-companies-enabled-slavery-and-rape-in-scamming-compounds/",
+              "publishedAt": "2026-10-29",
+              "kind": "Primary"
+            },
+            {
+              "publisher": "CamboJA News",
+              "title": "Cambodian Soldiers, Police Tied to Firms Guarding Abusive Scam Compounds, Amnesty Says",
+              "url": "https://cambojanews.com/cambodian-soldiers-police-tied-to-firms-guarding-abusive-scam-compounds-amnesty-says/",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "Australian inflation jumped to 4.3%, raising the odds of another rate rise next week, and Pacific nations won large new climate-resilience funding.",
+      "briefs": [
+        {
+          "title": "Australian inflation rises to 4.3% as energy rebates expire",
+          "eventDate": "2026-10-28",
+          "text": "Annual consumer price inflation reached 4.3% in September, up from 4.0% in August, with fuel up 23.6% over the year and electricity 12.8% as federal rebates ran out. With the cash rate at 4.60%, markets see a high chance of another increase at the Reserve Bank’s meeting on November 3.",
+          "sources": [
+            {
+              "publisher": "Australian Bureau of Statistics",
+              "title": "Consumer Price Index, Australia, September 2026",
+              "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release",
+              "publishedAt": "2026-10-28",
+              "kind": "Primary"
+            },
+            {
+              "publisher": "Monash Lens",
+              "title": "Inflation jumps to 4.3%, adding to pressure for RBA rate rise next week",
+              "url": "https://lens.monash.edu/inflation-jumps-to-4-3-adding-to-pressure-for-rba-rate-rise-next-week/",
+              "publishedAt": "2026-10-29",
+              "kind": "Analysis"
+            }
+          ]
+        },
+        {
+          "title": "Green Climate Fund approves $250 million for resilience in 14 Pacific nations",
+          "eventDate": "2026-10-29",
+          "text": "Meeting in Seoul, the fund’s board approved a $250 million grant anchoring a $1.06 billion regional programme, with about $809 million from the Asian Development Bank, to finance up to 26 infrastructure and adaptation projects over ten years. Fiji separately won $35.2 million to protect its Great Sea Reef.",
+          "sources": [
+            {
+              "publisher": "PACNEWS (Islands Business)",
+              "title": "PACNEWS ONE, 29 OCTOBER 2026",
+              "url": "https://islandsbusiness.com/pacnews/pacnews-one-29-october-2026/",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "PACNEWS (Islands Business)",
+              "title": "PACNEWS TWO 30 OCTOBER 2026",
+              "url": "https://islandsbusiness.com/pacnews/pacnews-two-30-october-2026/",
+              "publishedAt": "2026-10-30",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An open crate with its lid lifted and a shield rising out of it">
+  <rect width="800" height="500" fill="#09131d"/>
+  <path d="M230 300 L570 300 L540 440 L260 440 Z" fill="#12263a" stroke="#d6e6f2" stroke-width="8" stroke-linejoin="round"/>
+  <g stroke="#3b5266" stroke-width="8" stroke-linecap="round">
+    <line x1="268" y1="345" x2="532" y2="345"/>
+    <line x1="278" y1="392" x2="522" y2="392"/>
+  </g>
+  <path d="M230 300 L170 215 L470 190 L570 300" fill="none" stroke="#d6e6f2" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M170 215 L150 250 L215 300" fill="#1d3a55" stroke="#d6e6f2" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M400 60 L495 92 L495 175 C495 238 452 278 400 300 C348 278 305 238 305 175 L305 92 Z" fill="#12263a" stroke="#c8865a" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M400 92 L470 116 L470 175 C470 222 440 252 400 270 Z" fill="#1d3a55"/>
+  <path d="M362 178 L392 208 L444 148" fill="none" stroke="#d6e6f2" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#c8865a" stroke-width="5" stroke-linecap="round" opacity="0.7">
+    <line x1="270" y1="120" x2="240" y2="105"/>
+    <line x1="530" y1="120" x2="560" y2="105"/>
+    <line x1="275" y1="175" x2="240" y2="175"/>
+    <line x1="525" y1="175" x2="560" y2="175"/>
+  </g>
+</svg>

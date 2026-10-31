@@ -1,0 +1,1419 @@
+{
+ "date": "2026-10-31",
+ "number": 14,
+ "cutoff": "2026-10-31T11:30:00Z",
+ "cutoffLabel": "6:30 AM CT",
+ "opening": "Police entered Poland’s constitutional court as its chief was suspended and the president rushed home. Hackers took about 6.3 billion dollars from Binance, more tankers burned near Hormuz, civilians left occupied Oleshky under a truce, and a US judge curbed federal threats against election officials.",
+ "leadStoryId": "poland-constitutional-tribunal-standoff",
+ "stories": [
+  {
+   "id": "poland-constitutional-tribunal-standoff",
+   "threadId": "poland-rule-of-law",
+   "threadTitle": "Poland’s fight over its courts",
+   "threadSummary": "The struggle between Donald Tusk’s government and allies of the former Law and Justice government over judges appointed during its rule from 2015 to 2023.",
+   "section": "world",
+   "title": "Police enter Poland’s top court as its chief is suspended, and the president turns his plane around",
+   "category": "Democracy",
+   "region": "Europe · Poland",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-30",
+   "body": "Police secured Poland’s Constitutional Tribunal in Warsaw on Friday after a judge announced the suspension of its president, Bogdan Święczkowski, an appointee of the former Law and Justice government. The tribunal called the move a coup. President Karol Nawrocki, a Law and Justice ally, turned his plane around on the way to Senegal, saying he had to be in Poland. Prime Minister Donald Tusk said restoring the rule of law demanded decisive steps, while opposition supporters protested outside the court.",
+   "whatChanged": "A years-long dispute over who legitimately sits on Poland’s constitutional court turned into a physical confrontation, with police inside the building and the justice minister seeking to strip its leaders of immunity.",
+   "whyMatters": "The tribunal rules on whether laws are constitutional, so a fight over who controls it shapes Poland’s ability to pass laws, settle disputes with the European Union and hold a credible parliamentary election next year.",
+   "uncertainty": "The legal basis for the suspension is contested: the tribunal says the judge who announced it was never sworn in, and accounts differ on who ordered police into the building. No outcome had been reported by Saturday morning.",
+   "watchNext": "Nawrocki’s next moves after his return, any vote on lifting the immunity of the tribunal’s president and deputy, and the reaction from Brussels and Washington.",
+   "keyFacts": [
+    "Tribunal president Bogdan Święczkowski was declared suspended on October 30",
+    "The tribunal’s own account called it a coup and said he remains in office",
+    "Justice Minister Waldemar Żurek asked for immunity to be lifted from Święczkowski and deputy Bartłomiej Sochański",
+    "President Nawrocki abandoned a trip to Senegal mid-flight to return to Warsaw",
+    "Poland’s next parliamentary election is due in November 2027"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On Friday, October 30, Judge Anna Korwin-Piotrowska announced that the president of the Constitutional Tribunal, Bogdan Święczkowski, was suspended. Police then entered and secured the court building in Warsaw, and riot officers lined its entrance as dozens of supporters of the opposition Law and Justice party gathered outside, some chanting against Prime Minister Donald Tusk and praying with rosaries. Police said objects were thrown at officers.",
+      "Justice Minister and Prosecutor General Waldemar Żurek said he had asked for Święczkowski and his deputy, Bartłomiej Sochański, to lose their immunity. The court’s website was unreachable on Friday evening."
+     ]
+    },
+    {
+     "heading": "Two sides, two accounts",
+     "paragraphs": [
+      "The tribunal said on social media that a coup was under way, that Święczkowski was still its president, and that Korwin-Piotrowska could not lead it because the president had never sworn her in. Former justice minister Zbigniew Ziobro urged resistance, and former prime minister Mateusz Morawiecki called it a forceful takeover.",
+      "Tusk defended the action, writing that years of lawlessness under Law and Justice meant restoring the rule of law required decisive and sometimes painful steps. President Karol Nawrocki, who was flying to Senegal, ordered his plane back, saying the head of state had to be in Poland. The US ambassador, Tom Rose, called events very serious but said Washington would not interfere."
+     ]
+    },
+    {
+     "heading": "Background",
+     "paragraphs": [
+      "Law and Justice governed from 2015 to 2023 and was accused by the European Union of bringing the tribunal under political control; the court later ruled that Polish law could take precedence over EU law. Tusk returned to power promising to restore judicial independence, but two presidents aligned with Law and Justice have blocked his changes. Nawrocki has refused to swear in three of the six judges parliament chose this year, and Święczkowski would not let judges elected by the current majority take their seats."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "AFP (via CP24)",
+     "title": "Polish president cuts Senegal trip short as top court chief suspended",
+     "url": "https://www.cp24.com/news/world/2026/10/30/polish-president-cuts-senegal-trip-short-as-top-court-chief-suspended/",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "Polish president turns back mid-flight amid court ‘coup d’état’ claims",
+     "url": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Fox News (via Yahoo News)",
+     "title": "Polish president turns plane around after ‘coup’ at nation’s top court",
+     "url": "https://www.yahoo.com/news/politics/articles/polish-president-turns-plane-around-223252818.html",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Poland’s Constitutional Tribunal",
+    "bounds": [
+     12,
+     48.5,
+     26,
+     55.5
+    ],
+    "countries": [
+     "616"
+    ],
+    "labels": [
+     {
+      "label": "Baltic Sea",
+      "lon": 16.5,
+      "lat": 55.0,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Poland with a marker at Warsaw, where police secured the Constitutional Tribunal building on Friday.",
+    "caption": "Poland · approximate location of the tribunal in Warsaw"
+   },
+   "locations": [
+    {
+     "label": "Constitutional Tribunal, Warsaw",
+     "mapLabel": "Warsaw",
+     "lon": 21.02,
+     "lat": 52.22
+    }
+   ]
+  },
+  {
+   "id": "oleshky-evacuation-pentagon-rhetoric",
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia's war in Ukraine, efforts to negotiate an end to it, and the wider security consequences for Europe.",
+   "section": "world",
+   "title": "Civilians leave occupied Oleshky under a rare truce as the Pentagon asks Baltic allies to tone down warnings about Russia",
+   "category": "War and diplomacy",
+   "region": "Europe · Ukraine",
+   "regions": [
+    "europe",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-30",
+   "body": "Buses and ambulances reached Russian-held Oleshky on Friday under a local truce, carrying food and medicine and taking out residents who wanted to leave on a route through Russia and Belarus. Ukraine’s ombudsman said everyone who wished to go had been able to, and that the ceasefire had held for 87 hours. The same day, Reuters reported that Pentagon officials had asked Lithuania, Latvia and Estonia to be more measured about the Russian threat, and the European Commission proposed releasing Ukraine’s remaining 45 billion euro loan for 2027.",
+   "whatChanged": "The humanitarian mission the truce was meant to allow took place and wound up, while new reporting showed Washington pressing European allies to soften their language as it courts Moscow before talks.",
+   "whyMatters": "A truce that held and an evacuation that worked are rare in this war, but they came alongside heavy strikes elsewhere and US pressure on allies, which shapes what kind of settlement the planned three-way talks might produce.",
+   "uncertainty": "No final count of evacuees has been published, and Ukrainian officials questioned Russia’s motives. The Pentagon declined to comment on the reported conversations.",
+   "watchNext": "Whether the Kherson truce ends as planned on Sunday evening, Zelenskyy’s visit to Turkey, and a date for three-way talks that the Kremlin says will be held in Abu Dhabi in November.",
+   "keyFacts": [
+    "A convoy of 25 buses and several ambulances entered Oleshky on October 30",
+    "About 2,000 people were thought to remain in the town before the mission",
+    "Ukraine’s ombudsman said the local ceasefire held for 87 hours",
+    "Pentagon officials, including Elbridge Colby, urged the three Baltic states to be measured about Russia",
+    "The Commission proposed the remaining 45 billion euros of a 90 billion euro loan for 2027"
+   ],
+   "report": [
+    {
+     "heading": "The Oleshky mission",
+     "paragraphs": [
+      "Russian and Ukrainian delegations entered the occupied town of Oleshky, across the Dnipro River from Kherson, on Friday with 25 buses and ambulances carrying food and medicine. The two sides issued identical statements promising safe passage to anyone who wanted to leave and aid for those who stayed. About 2,000 people were thought to remain, and Prime Minister Sergiy Koretskyi said 527 were expected to return to Ukrainian-held territory. Because the front line blocks the direct route, evacuees travelled via the Russian resort of Anapa and Belarus.",
+      "The White House credited first lady Melania Trump with brokering the truce, which runs from October 28 to November 1. By Friday evening Russia’s ombudsman, Yana Lantratova, said the mission was ending, and Ukraine’s Dmytro Lubinets said those who wished to leave had done so."
+     ]
+    },
+    {
+     "heading": "Pressure on Europe’s hawks",
+     "paragraphs": [
+      "Reuters reported that Pentagon officials, among them Under Secretary Elbridge Colby, told Lithuania, Latvia and Estonia in recent weeks that some public warnings about Russia undermined security, with Colby objecting to talk of a cornered rat. A European official called the advice baffling. The Pentagon said private talks among allies stay private, and is separately reviewing how many troops it keeps in Europe."
+     ]
+    },
+    {
+     "heading": "Money and talks",
+     "paragraphs": [
+      "The European Commission proposed that governments approve the final 45 billion euros of the 90 billion euro Ukraine Support Loan for 2027, most of it for defence production, and Canada pledged 500 million euros. The Kremlin said no date was fixed for three-way talks with Washington and Kyiv, though adviser Yury Ushakov named Abu Dhabi in November."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "AP (via PBS NewsHour)",
+     "title": "Aid operation and evacuations in Oleshky amid brief truce agreed to by Russia and Ukraine",
+     "url": "https://www.pbs.org/newshour/world/aid-operation-and-evacuations-in-oleshky-amid-brief-truce-agreed-to-by-russia-and-ukraine",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "Residents evacuated from Russian-occupied Oleshky during U.S.-brokered ceasefire",
+     "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-us-brokered-ceasefire/",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Il Sole 24 Ore",
+     "title": "Ukraine: EU plan for a 90 billion loan: Canada to contribute 500 million. Operation in Oleshky concluded",
+     "url": "https://en.ilsole24ore.com/art/ukraine-latest-news-wsj-ukrainian-raids-on-russian-oil-refineries-suspended-AJgMXwyB",
+     "publishedAt": "2026-10-30",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Reuters (via Defense News)",
+     "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+     "url": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "European Commission",
+     "title": "Commission takes a key step forward on 2027 financial support for Ukraine",
+     "url": "https://enlargement.ec.europa.eu/news/commission-takes-key-step-forward-2027-financial-support-ukraine-2026-10-30_en",
+     "publishedAt": "2026-10-30",
+     "kind": "Primary"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Oleshky and the Baltic states",
+    "bounds": [
+     20,
+     44,
+     41,
+     60
+    ],
+    "countries": [
+     "804",
+     "440",
+     "428",
+     "233"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 44.6,
+      "kind": "water"
+     },
+     {
+      "label": "Baltic Sea",
+      "lon": 20.8,
+      "lat": 57.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Ukraine and the three Baltic states, with a marker at Oleshky on the left bank of the Dnipro across from Kherson, where the evacuation took place.",
+    "caption": "Ukraine, Lithuania, Latvia and Estonia highlighted for context · approximate location of Oleshky"
+   },
+   "locations": [
+    {
+     "label": "Oleshky, Kherson region",
+     "mapLabel": "Oleshky",
+     "lon": 32.69,
+     "lat": 46.62
+    }
+   ]
+  },
+  {
+   "id": "hormuz-tanker-fires-qatar-mediators",
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes.",
+   "section": "world",
+   "title": "More tankers burn near Hormuz as Qatar’s mediators return to Tehran and Trump reviews new strike options",
+   "category": "War",
+   "region": "Middle East · Strait of Hormuz",
+   "regions": [
+    "middle-east",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-29 / 2026-10-30",
+   "body": "Iran’s Revolutionary Guard said three more tankers struck mines and caught fire on Friday while using routes it had not approved, a claim the US military rejected, saying the main lanes are clear. Britain’s maritime agency separately confirmed that a small boat fixed two explosive charges to a tanker off Oman late on Thursday, starting a fire. Qatari mediators returned to Tehran with a new draft deal, while the top US commander in the region briefed President Trump on options for renewed attacks.",
+   "whatChanged": "Attacks on shipping continued for a second day with one independently confirmed, and diplomacy and war planning both advanced before Tuesday’s US elections.",
+   "whyMatters": "Each new attack keeps oil prices climbing, with Brent heading for a fourth straight monthly rise, and raises the chance that talks give way to a new round of US strikes.",
+   "uncertainty": "Iran’s mine claims could not be verified and the ships were not named; it is unclear whether the confirmed limpet attack or an Omani rescue of 25 crew are linked to them.",
+   "watchNext": "Iran’s reply to Vice President Vance’s letter, any meeting in Istanbul or Doha, and whether the United States resumes strikes after the November 3 midterms.",
+   "keyFacts": [
+    "Iran’s Revolutionary Guard claimed three tanker mine strikes on October 30, after four claimed the day before",
+    "UKMTO: two explosive devices fixed to a tanker about 25 nautical miles northeast of Khasab, Oman",
+    "Oman evacuated 25 crew from a burning Panama-flagged tanker off Musandam",
+    "Expiring December Brent crude traded near 117.7 dollars a barrel on Friday morning",
+    "Admiral Brad Cooper briefed Trump on military options on October 29"
+   ],
+   "report": [
+    {
+     "heading": "At sea",
+     "paragraphs": [
+      "The Revolutionary Guard’s navy said a supertanker carrying more than two million barrels hit a mine at the entrance to the strait and was abandoned while still burning, and that two other tankers struck mines after switching off their tracking systems. It said the ships had ignored warnings and had American support. AP could not verify the account, and the US military said the internationally recognised routes have been cleared of mines.",
+      "The UK Maritime Trade Operations centre confirmed that late on Thursday a small boat attached two explosive devices above the waterline of an outbound tanker about 25 nautical miles northeast of Khasab. The blasts caused an engine-room fire, but the crew were safe and the ship continued its voyage. Oman’s maritime security centre separately rescued 25 crew from a burning tanker off Musandam."
+     ]
+    },
+    {
+     "heading": "Talks and threats",
+     "paragraphs": [
+      "Iranian state media said Qatar’s foreign minister led a delegation back to Tehran on Friday, and a Reuters source said the visit was coordinated with Washington. A senior Iranian official called Qatar’s ideas unacceptable, and Tehran wants the US blockade and oil sanctions lifted first. Iran acknowledged receiving a letter from Vice President JD Vance to Mohsen Rezaei, secretary of its Supreme National Security Council, but has not answered. The Jerusalem Post, citing a Washington Post column, reported that Vance offered to meet Rezaei, possibly in Istanbul or Doha; Trump said the letter concerned medical aid.",
+      "Admiral Brad Cooper of Central Command briefed Trump on attack options on Thursday, and diplomats say Gulf states were told to prepare for renewed action after the midterms. Brent crude for December delivery traded near 117.7 dollars on Friday morning, on course for a fourth straight monthly gain."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "AP (via CP24)",
+     "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news",
+     "url": "https://www.cp24.com/news/world/2026/10/30/three-tankers-strike-mines-and-catch-fire-in-strait-of-hormuz-iran-claims-and-other-mideast-news/",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Tribune",
+     "title": "Tanker attacked with explosive devices in Strait of Hormuz, crew safe: UKMTO",
+     "url": "https://www.tribuneindia.com/news/world/tanker-attacked-with-explosive-devices-in-strait-of-hormuz-crew-safe-ukmto",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "Iran War Updates: Trump says war \"going to end soon\" as Qatar pushes for a U.S.-Iran deal",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+     "publishedAt": "2026-10-30",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "The Jerusalem Post",
+     "title": "Vance offers to meet with former IRGC commander Rezaei as Pentagon preps new attack - report",
+     "url": "https://www.jpost.com/middle-east/article-913355",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Cornerstone Futures",
+     "title": "Morning Highlights: Explosives Attached to Tanker’s Hull Near Khasab as Brent’s Expiring December Contract Hits $117",
+     "url": "https://www.cornerstonefuturesllc.com/post/morning-highlights-explosives-attached-to-tanker-s-hull-near-khasab-as-brent-s-expiring-december-co",
+     "publishedAt": "2026-10-30",
+     "kind": "Market analysis"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Strait of Hormuz",
+    "bounds": [
+     50,
+     22,
+     60.5,
+     30
+    ],
+    "countries": [
+     "364",
+     "512",
+     "784"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 52.3,
+      "lat": 27.0,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 58.6,
+      "lat": 24.4,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Strait of Hormuz between Iran and Oman’s Musandam peninsula, with a marker northeast of Khasab where a tanker was attacked with explosive charges.",
+    "caption": "Iran, Oman and the United Arab Emirates · approximate location of the confirmed attack"
+   },
+   "locations": [
+    {
+     "label": "Tanker attacked about 25 nautical miles northeast of Khasab",
+     "mapLabel": "Khasab",
+     "lon": 56.6,
+     "lat": 26.5
+    }
+   ]
+  },
+  {
+   "id": "binance-hack-north-korea",
+   "threadId": "north-korea-crypto-theft",
+   "threadTitle": "North Korea’s crypto thefts",
+   "threadSummary": "Large thefts of cryptocurrency that investigators attribute to North Korean state hackers, and the industry’s efforts to trace and freeze the money.",
+   "section": "world",
+   "title": "Hackers take about 6.3 billion dollars from Binance in the largest crypto theft on record, with North Korea suspected",
+   "category": "Cybercrime",
+   "region": "Global",
+   "regions": [
+    "asia"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-29 / 2026-10-30",
+   "body": "Attackers drained about 6.3 billion dollars from wallets at Binance, the world’s largest crypto exchange, late on Thursday, most of it within about 20 minutes across ten blockchains. The analytics firms TRM Labs and Chainalysis said with high confidence that North Korea’s TraderTraitor unit was responsible. Stablecoin issuers led by Tether and Circle froze roughly half the haul. Binance halted withdrawals, said customers’ funds were safe and promised to cover every loss, while bitcoin fell to a six-week low.",
+   "whatChanged": "A single attack on the largest exchange stole about four times as much as the previous record and more than twice the total of all crypto thefts in 2025.",
+   "whyMatters": "An attack of this size on a platform with 335 million registered users tests how resilient the industry is, how much stolen money can be frozen, and how well exchanges can guard against hackers backed by a state.",
+   "uncertainty": "Estimates range from 5.9 to 6.36 billion dollars; Binance has not attributed the attack, North Korea routinely denies such thefts, and how the breach began is still being investigated.",
+   "watchNext": "Whether withdrawals resume by Binance’s Sunday target, the proof of reserves report it promised by Monday, and any US government attribution.",
+   "keyFacts": [
+    "About 6.36 billion dollars left Binance wallets on ten blockchains, by TRM Labs’ count",
+    "Tether froze nearly 1.57 billion dollars and Circle more than 800 million",
+    "About 3 billion dollars was frozen or located in total, Binance said",
+    "TRM and Chainalysis blamed North Korea’s TraderTraitor unit",
+    "Bitcoin hit a six-week low of 76,368 dollars"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "The theft began late on Thursday, October 29, and most of the money was gone within about 20 minutes, according to the blockchain analytics firm TRM Labs, which counted about 6.36 billion dollars leaving Binance wallets on ten blockchains. Chainalysis put the value at about 5.9 billion dollars at the time of the theft. Binance first pointed to a compromised engineer’s laptop that gave access to a service container, then said it had found further points of breach. Co-chief executive Richard Teng said the attacker used a self-destruct mechanism to erase traces and that one transaction had bypassed normal approval controls."
+     ]
+    },
+    {
+     "heading": "Freezes and cover",
+     "paragraphs": [
+      "Stablecoin issuers moved quickly. Tether froze nearly 1.57 billion dollars, Circle more than 800 million and Ripple about 200 million, and Binance said about 3 billion dollars had been frozen or located. It set aside more than 6.3 billion dollars of company funds to cover losses and said withdrawals would resume within about two days, while deposits continued. CryptoQuant reported that more than 18,000 bitcoin taken from a cold wallet had been split among new addresses but not yet moved through exchanges or mixers."
+     ]
+    },
+    {
+     "heading": "Who is blamed",
+     "paragraphs": [
+      "TRM said the attack bore the hallmarks of TraderTraitor, the North Korean unit the FBI blamed for the 1.5 billion dollar theft from Bybit in February 2025, and Chainalysis agreed. Binance said its own investigation had not attributed responsibility, and a source told Cointelegraph the exchange was working with the FBI. North Korea did not respond to Reuters and usually denies involvement."
+     ]
+    },
+    {
+     "heading": "Markets",
+     "paragraphs": [
+      "Bitcoin fell to 76,368 dollars and ether to a two-month low, and shares in Coinbase fell even though it said it was unaffected."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Reuters (via Yahoo Finance)",
+     "title": "Binance seeks to shore up confidence after record $6.3 billion heist",
+     "url": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Forbes",
+     "title": "Binance’s $6.3 Billion Hack Started With One Engineer’s Laptop",
+     "url": "https://www.forbes.com/sites/digital-assets/2026/10/30/binances-63-billion-hack-started-with-one-engineers-laptop/",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "$6.3 billion Binance hack was likely work of North Korea, blockchain intel firms say",
+     "url": "https://www.cbsnews.com/news/binance-hack-north-korea/",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Cointelegraph",
+     "title": "Binance’s Record $6.3B Crypto Hack as It Happened",
+     "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
+     "publishedAt": "2026-10-30",
+     "kind": "Live reporting"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "One theft, measured against a whole year",
+    "measure": "Value of crypto stolen",
+    "unit": "billion US dollars",
+    "values": [
+     {
+      "label": "Binance hack, October 29 to 30, 2026",
+      "value": 6.3
+     },
+     {
+      "label": "Frozen or located so far",
+      "value": 3.0
+     },
+     {
+      "label": "All thefts in 2025, about 150 attacks",
+      "value": 2.9
+     }
+    ],
+    "alt": "Bar chart: about 6.3 billion dollars was stolen from Binance, of which about 3 billion has been frozen or located, compared with 2.9 billion dollars stolen in all crypto attacks in 2025.",
+    "caption": "Estimates as reported by Reuters, citing Binance and TRM Labs",
+    "sourceUrl": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html"
+   }
+  },
+  {
+   "id": "judge-blocks-doj-election-threats",
+   "threadId": "us-midterms-2026",
+   "threadTitle": "The 2026 US midterms",
+   "threadSummary": "The November 3, 2026 US congressional elections and the legal fights over how they are run.",
+   "section": "world",
+   "title": "A judge orders the Justice Department to stop threatening election officials who refuse to set aside ballots",
+   "category": "Elections",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-10-30",
+   "body": "Federal Judge Trina Thompson in San Francisco issued a temporary restraining order on Friday barring the Justice Department from threatening to prosecute state and local election officials who resist its demands. It also stops federal officials from telling states to purge voters, refuse them ballots or set their votes aside based on the administration’s lists of alleged non-citizens. The order, sought by unions and civil rights groups, came days after Washington state said its list included many US citizens.",
+   "whatChanged": "For the first time a court has blocked the administration’s pressure campaign on election officials nationwide, rather than ruling on one state’s ballots.",
+   "whyMatters": "With voting ending on Tuesday, the order removes a threat of prosecution hanging over the people who count ballots, and limits federal attempts to hold back votes before results are certified.",
+   "uncertainty": "The Justice Department had not commented and may appeal; the order is temporary and the underlying case has not been decided.",
+   "watchNext": "Any appeal to the Ninth Circuit, the Justice Department’s required notices to states and its disclosure of pending warrants or subpoenas, and how counting proceeds after polls close on November 3.",
+   "keyFacts": [
+    "Temporary restraining order issued October 30 by Judge Trina Thompson in San Francisco",
+    "Plaintiffs include SEIU, AFSCME, the NAACP and the League of United Latin American Citizens",
+    "The order lasts until 5 p.m. on November 16 unless modified",
+    "Washington said a federal list of about 400 alleged non-citizen voters included many citizens"
+   ],
+   "report": [
+    {
+     "heading": "The order",
+     "paragraphs": [
+      "Judge Trina Thompson found that the Justice Department went too far this month in threatening criminal charges against officials who would not carry out its election demands. Her order bars federal officials from demanding that states remove registered voters, deny them ballots or set aside their votes based only on alleged ineligibility, and from threatening election workers who process ballots under state and federal law.",
+      "The administration must tell state and local governments that received its letters that those demands are blocked, and the department must disclose to the court any pending search warrant applications, grand jury subpoenas or other demands for election materials tied to its lists. The order relies on the Voting Rights Act and the Constitution’s Elections Clause and runs until November 16."
+     ]
+    },
+    {
+     "heading": "Who sued",
+     "paragraphs": [
+      "The case was brought by a coalition including the Service Employees International Union, the American Federation of State, County and Municipal Employees, the NAACP and the League of United Latin American Citizens, against the Justice and Homeland Security departments. The department has said enforcing election law is its job and that its efforts aim to stop non-citizens voting."
+     ]
+    },
+    {
+     "heading": "The lists",
+     "paragraphs": [
+      "The ruling follows weeks of federal demands on states. In Washington, prosecutors gave Secretary of State Steve Hobbs 48 hours to hold back ballots from about 400 people they said were non-citizens. Hobbs refused, saying a preliminary review found many on the list were citizens, and that it was a PDF without voter identification numbers or addresses. In California, a separate judge declined this week to set aside more than 20,000 mail ballots."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Reuters (via Arab News)",
+     "title": "Judge orders Trump administration to cease threats to prosecute election officials",
+     "url": "https://www.arabnews.com/world/judge-orders-trump-administration-to-cease-threats-to-prosecute-election-officials-3009091",
+     "publishedAt": "2026-10-31",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Newsmax Wires (via Yahoo News)",
+     "title": "Judge Blocks DOJ Threats Against Election Workers",
+     "url": "https://www.yahoo.com/news/politics/articles/judge-blocks-doj-threats-against-022920078.html",
+     "publishedAt": "2026-10-31",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "U.S. citizens included on Justice Department list of 400 alleged noncitizens, Washington state says",
+     "url": "https://www.cbsnews.com/news/u-s-citizens-included-on-justice-department-list-of-alleged-noncitizens-washington-says/",
+     "publishedAt": "2026-10-29",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Where the order came from",
+    "bounds": [
+     -128,
+     24,
+     -66,
+     50
+    ],
+    "countries": [
+     "840"
+    ],
+    "labels": [
+     {
+      "label": "Pacific Ocean",
+      "lon": -125,
+      "lat": 30,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the contiguous United States with markers at San Francisco, where the judge issued the order, and Olympia, Washington, where the state rejected a federal list of alleged non-citizen voters.",
+    "caption": "United States · approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Federal court, San Francisco",
+     "mapLabel": "San Francisco",
+     "lon": -122.42,
+     "lat": 37.78
+    },
+    {
+     "label": "Olympia, Washington",
+     "mapLabel": "Washington",
+     "lon": -122.9,
+     "lat": 47.04
+    }
+   ]
+  },
+  {
+   "id": "israel-final-count-haredi-talks",
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel's first general election since the October 7 attacks, a contest between Benjamin Netanyahu's bloc and challengers led by former army chief Gadi Eisenkot.",
+   "section": "more",
+   "title": "Israel’s final count confirms a hung parliament as an ultra-Orthodox party is reported to weigh talks with Netanyahu’s rivals",
+   "category": "Elections",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-30",
+   "whatChanged": "The completed count left Netanyahu’s bloc on 53 seats, and reports that a long-time ally might open talks with the opposition cracked his coalition arithmetic.",
+   "body": "The Central Elections Committee published complete results on Friday: Netanyahu’s bloc 53 seats, Gadi Eisenkot’s alliance 48 and Arab-led parties a record 19, on turnout of 77.9%. Israeli outlets reported that Rabbi Dov Landau told Degel HaTorah lawmakers to explore talks with the opposition over the military draft, which party chairman Yaakov Asher’s office denied; Shas leader Aryeh Deri reportedly rules out any government without Likud. Results go to President Isaac Herzog on November 4.",
+   "sources": [
+    {
+     "publisher": "Fox News",
+     "title": "Netanyahu's bloc falls short as longtime allies reportedly weigh move that could end his rule",
+     "url": "https://www.foxnews.com/world/netanyahus-bloc-falls-short-longtime-allies-reportedly-weigh-move-could-end-his-rule",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Jerusalem Post",
+     "title": "Deri rejects opposition bloc coalition without Likud as UTJ eyes talks",
+     "url": "https://www.jpost.com/israel-election-2026/article-913327",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "novaya-gazeta-shuts-down",
+   "threadId": "russia-politics",
+   "threadTitle": "Russia's politics",
+   "threadSummary": "Power, personnel and policy inside the Russian state during the war.",
+   "section": "more",
+   "title": "Novaya Gazeta, Russia’s best-known independent newspaper, says the authorities have forced it to close",
+   "category": "Press freedom",
+   "region": "Europe · Russia",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-30",
+   "whatChanged": "The paper announced it will cease operating on November 9 after searches, arrests and the loss of its licence.",
+   "body": "In a statement headed “We were killed”, the editors said the authorities and security services had forced the newsroom to stop work. Editor Sergei Sokolov’s home was searched and he was questioned over a criminal case against a colleague, Oleg Roldugin, who was arrested in April. The paper, whose former editor Dmitry Muratov shared the 2021 Nobel Peace Prize, has been labelled a foreign agent; six of its journalists and staff have been murdered over the years, Reporters Without Borders noted.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
+     "url": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Early Edition: October 30, 2026",
+     "url": "https://www.justsecurity.org/162627/early-edition-october-30-2026/",
+     "publishedAt": "2026-10-30",
+     "kind": "News digest"
+    }
+   ]
+  },
+  {
+   "id": "bolsonaro-claim-no-us-backing",
+   "threadId": "brazil-election-2026",
+   "threadTitle": "Brazil's 2026 presidential election",
+   "threadSummary": "Brazil's October 2026 presidential contest, in which Luiz Inácio Lula da Silva defeated Flávio Bolsonaro in a runoff, and its aftermath.",
+   "section": "more",
+   "title": "Washington will not back Flávio Bolsonaro’s claim to be Brazil’s rightful leader, Reuters reports",
+   "category": "Politics",
+   "region": "Latin America · Brazil",
+   "regions": [
+    "latin-america",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-30",
+   "whatChanged": "After letting him into the country, the Trump administration signalled it would not endorse his challenge to Lula’s re-election.",
+   "body": "A US official and another person told Reuters the administration has no plan to support the defeated candidate’s claim, and Trump said he gets on well with President Lula. Bolsonaro, who left Brazil through Argentina despite a court order to surrender his passport, was granted humanitarian parole in the United States. He posted a letter calling himself the elected president, then replaced it with one calling himself Brazil’s rightful leader; key allies at home have not backed him.",
+   "sources": [
+    {
+     "publisher": "Reuters (via Investing.com)",
+     "title": "Trump not planning to back Bolsonaro’s claim to be Brazil’s leader, sources say",
+     "url": "https://www.investing.com/news/world-news/trump-not-planning-to-back-bolsonaros-claim-to-be-brazils-leader-sources-say-4986506",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Early Edition: October 30, 2026",
+     "url": "https://www.justsecurity.org/162627/early-edition-october-30-2026/",
+     "publishedAt": "2026-10-30",
+     "kind": "News digest"
+    }
+   ]
+  },
+  {
+   "id": "italy-protests-inflation-54",
+   "threadId": "europe-cost-of-living-protests",
+   "threadTitle": "Europe's cost-of-living protests",
+   "threadSummary": "Protests across Europe over living costs, public services and government economic policy.",
+   "section": "more",
+   "title": "More than 200,000 protest across Italy as inflation reaches 5.4%, its highest in three years",
+   "category": "Economy",
+   "region": "Europe · Italy",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-30",
+   "whatChanged": "Italy’s preliminary October inflation jumped to 5.4% on the same day a union-called day of action filled the streets of more than 50 cities.",
+   "body": "Demonstrations called by the USB union drew more than 50,000 people each in Rome and Bologna, according to DPA estimates, with scuffles in Turin but far less violence than two weeks earlier. A full general strike largely failed to materialise after the transport minister banned transport walkouts before the All Saints’ holiday. The national statistics office put energy prices up 31.4% on a year earlier, and road blockades by farmers and truckers had earlier halted some mozzarella and pasta production in the south.",
+   "sources": [
+    {
+     "publisher": "DPA (via Yahoo News)",
+     "title": "Over 200,000 take to streets across Italy in anti-government protests",
+     "url": "https://www.yahoo.com/news/world/articles/over-200-000-streets-across-170327608.html",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Fortune",
+     "title": "Italy’s inflation hits 5.4%, outpacing the U.S. and China, as a farmers’ revolt empties shelves of pasta and mozzarella",
+     "url": "https://fortune.com/2026/10/30/italy-inflation-outpace-us-china-farmer-strike-mozzarella-pasta-shortage/",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "north-korea-missile-salvo-wonsan",
+   "threadId": "korean-border-security",
+   "threadTitle": "Security on the Korean border",
+   "threadSummary": "Military tension along the inter-Korean border and the Demilitarized Zone.",
+   "section": "more",
+   "title": "North Korea fires about a dozen short-range missiles days after Seoul offered border talks",
+   "category": "Security",
+   "region": "Asia · Korean Peninsula",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-10-29 / 2026-10-30",
+   "whatChanged": "Pyongyang answered South Korea’s October 23 offer of military talks with a missile salvo and no reply.",
+   "body": "South Korea’s Joint Chiefs of Staff said roughly ten to twelve short-range ballistic missiles were launched from near Wonsan around midday on Thursday and flew about 250 kilometres into the sea. Seoul wants an apology for landmines that injured three of its soldiers in the Demilitarized Zone in September, which a joint investigation with the UN Command blamed on the North; Pyongyang calls the incident fabricated and blames joint US and South Korean air drills for raising tension.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "North Korea fires missiles as row over landmine blast intensifies",
+     "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies",
+     "publishedAt": "2026-10-29",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "North Korea warns South Korea with ballistic missiles as Seoul calls for talks to ease border tensions",
+     "url": "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    }
+   ]
+  },
+  {
+   "id": "amazon-intel-ai-selloff",
+   "threadId": "ai-capital-spending",
+   "threadTitle": "The AI infrastructure buildout",
+   "threadSummary": "The rush by technology companies to raise and spend hundreds of billions of dollars on data centres and chips for AI.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Amazon’s cash outflow and Intel’s record fall send the Nasdaq to its worst day since June",
+   "category": "AI industry",
+   "region": "North America · United States",
+   "regions": [],
+   "status": "This week",
+   "eventDate": "2026-10-29 / 2026-10-30",
+   "hook": "Investors are no longer rewarding AI spending on faith: the week’s results showed strong demand but cash going out faster than it comes in.",
+   "body": "Amazon said its cloud unit grew 39% in the third quarter, its fastest in nearly five years, but free cash flow over the past year was an outflow of 42.4 billion dollars as spending on AI data centres reached about 215 billion, and it signalled more next year. Intel said it would burn cash this year and its shares fell 28.6%. The Nasdaq dropped 2.86% on Friday and chip stocks 7.2%, ending October with the tech sector’s worst month since March 2025.",
+   "whatChanged": "A second day of disappointing results from heavy AI spenders turned investor doubts into a broad sell-off in technology shares.",
+   "whyMatters": "Big technology firms are funding much of the world’s AI build-out, and a market that punishes the spending could slow orders for chips, power and data centres.",
+   "uncertainty": "One bad week does not show that AI demand is falling; Amazon’s cloud growth and record operating margin point the other way, and Intel’s problems are partly about personal computers and manufacturing.",
+   "watchNext": "Nvidia’s results later in November, and whether companies trim 2027 spending plans or keep raising them.",
+   "keyFacts": [
+    "Amazon Web Services sales 46.0 billion dollars in the quarter, up 39%",
+    "Amazon trailing free cash flow: an outflow of 42.4 billion dollars",
+    "Amazon expects about 220 billion dollars of capital spending in 2026",
+    "Intel shares fell 28.6% on October 30; the chip index fell 7.2%",
+    "Nasdaq down 2.86% on Friday, its largest one-day drop since June 5"
+   ],
+   "report": [
+    {
+     "heading": "Amazon",
+     "paragraphs": [
+      "Amazon’s third-quarter sales rose 12% to 201.9 billion dollars and operating income reached 28.1 billion, its highest margin ever. Amazon Web Services brought in 46.0 billion dollars, up 39%. But the company spent 215.2 billion dollars on property and equipment over the past twelve months, mostly for AI, leaving free cash flow at an outflow of 42.4 billion against an inflow a year earlier. It expects about 220 billion dollars of cash capital spending this year, and Reuters reported it signalled another rise next year. Its shares pared steep early losses during Friday’s session."
+     ]
+    },
+    {
+     "heading": "Intel and the wider market",
+     "paragraphs": [
+      "Intel said it would burn cash this year because of a weak personal computer market, manufacturing hurdles and heavy spending on new factories, and its shares fell 28.6%, the steepest one-day drop in its history. AMD slid about 10% and Nvidia 3.7%, and Reddit fell 28% after warning that visitors could decline.",
+      "The Nasdaq Composite closed 2.86% lower on Friday and the S&P 500 fell 1.82%. For October, the semiconductor index lost more than 15% and the technology sector had its biggest monthly fall since March 2025, while healthcare shares hit a record."
+     ]
+    },
+    {
+     "heading": "Context",
+     "paragraphs": [
+      "The sell-off followed Alphabet’s report earlier in the week of negative free cash flow and a 12.6% share drop. Together the results show demand for AI computing still rising, alongside spending that now exceeds what the businesses generate in cash."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Amazon",
+     "title": "Amazon.com Announces Third Quarter Results",
+     "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/",
+     "publishedAt": "2026-10-29",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "Reuters (via Investing.com)",
+     "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+     "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes-4986163",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Reuters (via Honolulu Star-Advertiser)",
+     "title": "Tech stocks tumble as Amazon, Intel fuel AI spending fears",
+     "url": "https://www.staradvertiser.com/2026/10/30/breaking-news/tech-stocks-tumble-as-amazon-intel-fuel-ai-spending-fears/",
+     "publishedAt": "2026-10-30",
+     "kind": "Reporting"
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Friday’s falls",
+    "measure": "One-day decline on October 30, 2026",
+    "unit": "percent",
+    "values": [
+     {
+      "label": "Intel shares",
+      "value": 28.6
+     },
+     {
+      "label": "Semiconductor index",
+      "value": 7.2
+     },
+     {
+      "label": "Nasdaq Composite",
+      "value": 2.86
+     },
+     {
+      "label": "S&P 500",
+      "value": 1.82
+     }
+    ],
+    "alt": "Bar chart of declines on October 30: Intel shares down 28.6 percent, the semiconductor index 7.2 percent, the Nasdaq 2.86 percent and the S&P 500 1.82 percent.",
+    "caption": "Closing declines as reported by Reuters",
+    "sourceUrl": "https://www.investing.com/news/stock-market-news/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes-4986163"
+   }
+  },
+  {
+   "id": "mistral-large-4-open-weights",
+   "threadId": "ai-cybersecurity-acceleration",
+   "threadTitle": "AI and the cybersecurity race",
+   "threadSummary": "How increasingly capable AI systems are changing vulnerability discovery, exploitation and software defence.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Mistral publishes the full weights of its trillion-parameter model and pitches it to cyber defenders",
+   "category": "Open models",
+   "region": "Europe · France",
+   "regions": [],
+   "status": "This week",
+   "eventDate": "2026-10-29",
+   "hook": "Europe’s leading lab is betting that safeguards built into a freely downloadable model are enough, while still keeping its most specialised cyber version for vetted partners.",
+   "body": "The French company Mistral released the weights of Mistral Large 4, a model with about one trillion parameters, so businesses and governments can run it on their own machines. It says the model leads open models on agentic coding and scores 51% on an industry index of finding, reproducing and patching software flaws. Mistral says built-in guardrails refuse 96.6% of malicious cyber requests, and it is keeping a specialised cyber version for vetted partners only.",
+   "whatChanged": "A model the company describes as near the frontier for coding and security work became freely downloadable, with few limits on commercial use.",
+   "whyMatters": "Open weights cannot be withdrawn once published, so the release tests whether safeguards inside a model are enough when its skills could help attackers as well as defenders.",
+   "uncertainty": "The performance and refusal figures are Mistral’s own; no independent evaluation of its cyber abilities or of how easily the guardrails can be removed has been published.",
+   "watchNext": "Independent testing of the model’s security skills, how quickly modified versions appear, and how European and US regulators respond to cyber-capable open models.",
+   "keyFacts": [
+    "About one trillion parameters, with roughly 52 billion active per token, according to its repository name",
+    "51% on the Artificial Analysis Cyber Index, Mistral says",
+    "96.6% average refusal rate on malicious cyber requests, by Mistral’s measure",
+    "Free commercial use, except that hosted model services need a separate licence"
+   ],
+   "report": [
+    {
+     "heading": "What was released",
+     "paragraphs": [
+      "Mistral first offered Large 4 as a preview earlier in October and on October 29 published its weights on Hugging Face. It is a mixture-of-experts model, meaning only part of it runs for each word it processes, and it accepts images as well as text in more than 160 languages. The licence, a modified MIT licence, allows free use, modification and commercial deployment, but companies selling access to the model as a hosted service need a separate commercial licence. It is also offered through Mistral’s own service and partners including Nvidia and Microsoft."
+     ]
+    },
+    {
+     "heading": "The cyber pitch",
+     "paragraphs": [
+      "Mistral is marketing the model as sovereign cyber defence: organisations can detect and respond to threats on their own premises without depending on a foreign provider. The company says it scores 51% on the Artificial Analysis Cyber Index and that it ties China’s GLM-5.3 on a coding agent index while using 47% fewer tokens per task.",
+      "Mistral says guardrails built into the model separate defensive from malicious tasks, refusing 96.6% of malicious cyber requests on average, and that it adjusted them after seeing signs the model could help real attacks. A more specialised cyber version is available only to vetted partners under contract. Its science vice president, Pierre Stock, argued that AI bug-finding should spread quickly to defenders because attackers will use it anyway."
+     ]
+    },
+    {
+     "heading": "The limits",
+     "paragraphs": [
+      "All of the benchmark and safety figures come from Mistral, and TechCrunch’s report included no independent assessment. The company itself has kept its most specialised cyber version behind contracts with vetted partners, an acknowledgement that the general release is not risk-free; Stock called the problem of rogue AI agents solvable but hard."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Mistral AI",
+     "title": "Mistral Large 4 (Le Chonk) is now open weight",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "publishedAt": "2026-10-29",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "TechCrunch",
+     "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+     "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+     "publishedAt": "2026-10-29",
+     "kind": "Reporting"
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-31/mistral-large-4-open-weights.svg",
+    "alt": "An open crate with its lid lifted, and a shield rising out of it, standing for a company handing out its model’s full weights and offering it for cyber defence.",
+    "credit": "Editorial illustration"
+   }
+  },
+  {
+   "id": "canada-cohere-equity-stake",
+   "threadId": "sovereign-ai",
+   "threadTitle": "Countries building their own AI",
+   "threadSummary": "Governments funding and owning domestic AI companies and computing so they depend less on foreign technology firms.",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Canada will buy a stake of up to 1.6 billion dollars in its AI champion Cohere",
+   "category": "AI policy",
+   "region": "North America · Canada",
+   "regions": [
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-10-29",
+   "hook": "A modest sum next to Silicon Valley’s spending, but a clear sign that governments now want to own a piece of their national AI companies rather than just regulate them.",
+   "body": "Prime Minister Mark Carney announced in Montreal that the federal government will take an ownership stake of up to about 1.6 billion Canadian dollars in Cohere, the Toronto company that builds AI systems for businesses and governments. The money will be paid in stages, alongside private investors including Nvidia, Bell and Schwarz Group. In return Cohere must keep its headquarters in Canada, create at least 1,000 technical jobs and invest at least 1.7 billion Canadian dollars in domestic computing by 2030.",
+   "whatChanged": "Ottawa moved from grants and tax credits to direct equity in a leading domestic AI developer, with binding conditions attached.",
+   "whyMatters": "Many governments worry about relying on a few US and Chinese companies for AI that handles sensitive data, and Canada’s deal is a template for keeping a national champion at home.",
+   "uncertainty": "The government did not give Cohere’s valuation, the total size of the funding round or the share it will own.",
+   "watchNext": "The size and valuation of Cohere’s new funding round, the first reports on its jobs and investment commitments, and whether other countries copy the model.",
+   "keyFacts": [
+    "Up to about 1.6 billion Canadian dollars in equity, announced October 29",
+    "Paid in stages with regular progress reports",
+    "Cohere must create at least 1,000 Canadian technical jobs by 2030",
+    "Cohere must invest at least 1.7 billion Canadian dollars in Canadian computing by 2030"
+   ],
+   "report": [
+    {
+     "heading": "The deal",
+     "paragraphs": [
+      "The Prime Minister’s Office described the investment as commercial: the government will own part of Cohere, which was founded in Toronto and sells secure AI systems to companies and public bodies. Private investors including Nvidia, the telecom group Bell and the German retailer Schwarz Group are taking part in the same round, though their amounts were not disclosed. The payments will be staged and tied to progress reports on jobs and investment."
+     ]
+    },
+    {
+     "heading": "What Cohere promises",
+     "paragraphs": [
+      "In exchange, Cohere has committed to remain incorporated and headquartered in Canada, to create at least 1,000 well-paid technical jobs by 2030, and to spend at least 1.7 billion Canadian dollars on additional computing infrastructure in the country by then. It will also fund research partnerships, open opportunities for students and recent graduates, and keep working with the Canadian AI Safety Institute. The government noted Cohere’s recent merger with the German AI company Aleph Alpha."
+     ]
+    },
+    {
+     "heading": "Why it matters",
+     "paragraphs": [
+      "Ottawa framed the deal as giving Canadian businesses and governments more choice and control over sensitive data, and as a way for a domestic company to build more advanced models and compete in the global AI market."
+     ]
+    },
+    {
+     "heading": "What is not yet known",
+     "paragraphs": [
+      "The announcement did not say what Cohere is worth, how large the overall funding round is, or what share of the company the government will end up holding. Because the money arrives in stages, how much is eventually paid will depend on Cohere meeting its commitments on jobs and computing investment, which the government says it will track through regular reports."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Prime Minister of Canada",
+     "title": "Canada announces landmark investment in Cohere to scale secure, sovereign AI",
+     "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai",
+     "publishedAt": "2026-10-29",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "The Neuron",
+     "title": "Everything That Happened in AI Today Friday, October 30",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/",
+     "publishedAt": "2026-10-30",
+     "kind": "News digest"
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Cohere’s home",
+    "bounds": [
+     -142,
+     41,
+     -52,
+     72
+    ],
+    "countries": [
+     "124"
+    ],
+    "labels": [
+     {
+      "label": "Hudson Bay",
+      "lon": -86,
+      "lat": 59,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Canada with markers at Toronto, where Cohere is based, and Montreal, where the investment was announced.",
+    "caption": "Canada · approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Toronto, Cohere’s headquarters",
+     "mapLabel": "Toronto",
+     "lon": -79.38,
+     "lat": 43.65
+    },
+    {
+     "label": "Montreal, where the deal was announced",
+     "mapLabel": "Montreal",
+     "lon": -73.57,
+     "lat": 45.5
+    }
+   ]
+  },
+  {
+   "id": "sudan-el-obeid-un-investigators",
+   "threadId": "sudan-war-humanitarian-crisis",
+   "threadTitle": "Sudan's war and humanitarian crisis",
+   "threadSummary": "The war between Sudan’s army and the Rapid Support Forces since April 2023, and the famine and displacement it has caused.",
+   "section": "still",
+   "title": "UN investigators say civilians in Sudan’s El Obeid are caught between drone strikes and mass detention",
+   "category": "Humanitarian",
+   "region": "Africa · Sudan",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-10-28",
+   "body": "The UN’s independent fact-finding mission for Sudan says people in El Obeid, the besieged capital of North Kordofan, face drone attacks by the Rapid Support Forces and arbitrary arrest by army security units. Thousands have been detained and many tortured, the experts say, and only about 30% of the city’s hospitals still work. The mission says October brought more drone attacks on civilians than any month of the war, and it wants the arms embargo widened from Darfur to all of Sudan.",
+   "whatChanged": "A new UN report documented abuses by both sides in a city that has drawn far less attention than Darfur, and named the month as the worst yet for drone strikes on civilians.",
+   "whyMatters": "El Obeid sits on the corridor linking Sudan’s east and west, and the findings show civilians targeted by both warring parties rather than one.",
+   "uncertainty": "Access is limited and the mission relies largely on interviews; neither the army nor the Rapid Support Forces has responded publicly to the findings.",
+   "watchNext": "Any Security Council move on widening the arms embargo, and whether fighting around El Obeid intensifies.",
+   "keyFacts": [
+    "Report released October 28 by the UN fact-finding mission for Sudan",
+    "El Obeid Central Prison holds about 2,000 people against a capacity of about 450",
+    "About 30% of the city’s hospitals remain operational",
+    "Drone strikes killed at least 306 people across Sudan in the first three weeks of October, the UN rights office says"
+   ],
+   "report": [
+    {
+     "heading": "What the investigators found",
+     "paragraphs": [
+      "In a report on El Obeid released on Wednesday, October 28, the mission said army-aligned security cells had arrested thousands of people and held them in unofficial sites and the city’s central prison, where detainees described torture. The prison, built for about 450, holds about 2,000, and a former detainee spoke of up to 40 people in a cell about two and a half metres by two. Expert Mona Rishmawi called for the practices to stop at once.",
+      "At the same time, Rapid Support Forces drones keep striking homes, schools, displacement sites and water and power systems, attacks the mission said may be war crimes. Security services have also stepped up surveillance of aid, rights and peace workers."
+     ]
+    },
+    {
+     "heading": "A wider escalation",
+     "paragraphs": [
+      "The mission’s chair, Mohamed Chande Othman, said October saw the most drone attacks on civilians since the war began in April 2023. The UN human rights office separately counted at least 306 people killed by drones from both sides in the first three weeks of the month, including 139 when a truck in West Kordofan was struck twice. The investigators are examining a drone attack on a market in Abyei on October 19 that killed at least 80 people, and said they had found a network supplying the Rapid Support Forces through Chad, Puntland, southeastern Libya and the United Arab Emirates."
+     ]
+    },
+    {
+     "heading": "What they want",
+     "paragraphs": [
+      "Commissioner Joy Ngozi Ezeilo urged the Security Council to extend the arms embargo, now limited to Darfur, to the whole country, and said there is still no accountability a year after El Fasher fell."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "UN News",
+     "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+     "url": "https://news.un.org/en/story/2026/10/1168696",
+     "publishedAt": "2026-10-28",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "UN News",
+     "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+     "url": "https://news.un.org/en/story/2026/10/1168661",
+     "publishedAt": "2026-10-23",
+     "kind": "Primary"
+    }
+   ]
+  }
+ ],
+ "watch": [
+  {
+   "title": "Election day in the US",
+   "text": "Americans vote on Tuesday, November 3; watch for any appeal of Friday’s order protecting election officials, and whether Washington resumes strikes on Iran once the vote is over."
+  },
+  {
+   "title": "Binance’s promises",
+   "text": "The exchange says withdrawals will restart by Sunday, November 1, and that it will publish a full report on its reserves by Monday, November 2."
+  },
+  {
+   "title": "Israel’s next government",
+   "text": "Official results go to President Isaac Herzog on Wednesday, November 4, before he consults the parties, and the new Knesset is due to be sworn in on November 10."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "A federal judge blocked the Justice Department from threatening election officials days before the midterms, Canada agreed to buy a stake in the AI company Cohere, and regulators moved against Chinese telecom carriers.",
+   "briefs": [
+    {
+     "title": "FCC moves to cut Chinese carriers off from US phone numbers",
+     "eventDate": "2026-10-29",
+     "text": "The Federal Communications Commission plans to vote on November 19 on barring China Mobile, China Telecom and China Unicom from getting direct access to American phone numbers. Chair Brendan Carr says the step protects national security and fights scam robocalls. The proposal would also exclude internet calling providers that use equipment from blacklisted firms such as Huawei and ZTE, and the agency intends to stop Chinese labs from testing US electronics from December 2028. China has long denied wrongdoing.",
+     "sources": [
+      {
+       "publisher": "Business Standard (Reuters)",
+       "title": "US plans to ban Chinese telecom firms from direct access to phone numbers",
+       "url": "https://www.business-standard.com/world-news/us-plans-to-ban-chinese-telecom-firms-from-direct-access-to-phone-numbers-126103000244_1.html",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Judge blocks racially based immigration stops across Southern California",
+     "eventDate": "2026-10-29",
+     "text": "Federal Judge Maame Frimpong in Los Angeles has issued a preliminary injunction barring federal immigration agents from making stops based on racial stereotypes across seven counties, including Los Angeles, Orange, Riverside and San Bernardino. Agents may not rely only on someone appearing to be a low-income Latino worker and must weigh all the circumstances before forming suspicion. The ruling, which was largely sealed until this week, came in a case brought by residents and advocacy groups represented by the American Civil Liberties Union. The Department of Homeland Security says its agents act within the law.",
+     "sources": [
+      {
+       "publisher": "KESQ (City News Service)",
+       "title": "LA judge blocks suspicionless, discriminatory stops by DHS",
+       "url": "https://kesq.com/news/2026/10/29/la-judge-blocks-suspicionless-discriminatory-stops-by-dhs/",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "G20 group photo dropped in Atlanta over Lavrov",
+     "eventDate": "2026-10-30",
+     "text": "The customary group photo at the Group of Twenty foreign ministers’ meeting in Atlanta, hosted by Secretary of State Marco Rubio, was cancelled after European ministers refused to pose with Russia’s Sergei Lavrov. Germany’s foreign minister, Johann Wadephul, said there would be no picture of European partners standing alongside Lavrov. The two-day meeting comes ahead of a leaders’ summit in Miami in December.",
+     "sources": [
+      {
+       "publisher": "The Kyiv Independent",
+       "title": "G20 family photo allegedly canceled over Russian presence",
+       "url": "https://kyivindependent.com/g20-family-photo-allegedly-canceled-over-russian-presence/",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "A former Salvadoran president walked free after a decade in prison, Cuba’s foreign minister said Havana will outlast US pressure, and Washington signalled it will not back Flávio Bolsonaro’s claim to lead Brazil.",
+   "briefs": [
+    {
+     "title": "Former Salvadoran president Tony Saca freed after ten years",
+     "eventDate": "2026-10-29",
+     "text": "Elías Antonio Saca, who led El Salvador from 2004 to 2009, was released on Thursday after completing a ten-year sentence for corruption. He had admitted diverting and laundering more than 300 million dollars of public money, and a plea deal cut his possible prison term from thirty years. His lawyer said he served the full term without early release. Two other former presidents charged with corruption fled to Nicaragua.",
+     "sources": [
+      {
+       "publisher": "Reuters via Internazionale",
+       "title": "El Salvador frees ex-President Saca after 10-year corruption sentence",
+       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/29/el-salvador-frees-ex-president-saca-after-10-year-corruption-sentence",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Cuba vows to outlast US pressure",
+     "eventDate": "2026-10-29 / 2026-10-30",
+     "text": "Cuba’s foreign minister, Bruno Rodríguez, told The New York Times that Havana will hold out for as long as it takes and that Cuba’s economy will stay socialist, even as it opens up to private and foreign investment. He also mocked Secretary of State Marco Rubio’s call for Cubans to work with the CIA, calling it childish. The interview followed this week’s UN General Assembly vote condemning the US embargo, which drew Cuba’s weakest support in decades.",
+     "sources": [
+      {
+       "publisher": "CiberCuba",
+       "title": "\"They seem a bit childish\": Bruno Rodríguez dismisses Marco Rubio's call to collaborate with the CIA.",
+       "url": "https://en.cibercuba.com/noticias/2026-10-30-u1-e74-s27061-nid344298-parecen-poco-infantiles-bruno-rodriguez-descalifica",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Al Jazeera",
+       "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+       "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push",
+       "publishedAt": "2026-10-28",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "Police entered Poland’s constitutional court as its chief was suspended, civilians left occupied Oleshky under a local truce, Italy’s inflation hit 5.4%, and sea drones sank a Greek-owned ship off Bulgaria.",
+   "briefs": [
+    {
+     "title": "Sea drones sink container ship off Bulgaria",
+     "eventDate": "2026-10-28 / 2026-10-29",
+     "text": "Three sea drones struck the Greek-owned container ship Contship Jet in Bulgaria’s waters in the western Black Sea, and it sank. All eighteen crew were rescued and taken to Varna. The ship was carrying 421 containers from Haifa, Israel, to Constanța, Romania, and it is not clear who carried out the attack. Greek Prime Minister Kyriakos Mitsotakis used a UN Security Council debate to call for a global truce at sea, saying attacks on civilian shipping are completely unacceptable.",
+     "sources": [
+      {
+       "publisher": "Baird Maritime (Reuters)",
+       "title": "Greek container ship goes down off Bulgaria after naval drone strike",
+       "url": "https://www.bairdmaritime.com/security/incidents/acts-of-war/greek-container-ship-goes-down-off-bulgaria-after-naval-drone-strike",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Yahoo News (Reuters)",
+       "title": "Greek PM calls for global maritime truce after Greek ship sunk in drone attack",
+       "url": "https://www.yahoo.com/news/world/articles/greeces-mitsotakis-calls-global-maritime-145823839.html",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Ireland to set up body to study a united Ireland",
+     "eventDate": "2026-10-30",
+     "text": "Irish Prime Minister Micheál Martin says his government will create an official body to research and prepare for possible unification with Northern Ireland, the first time Dublin has done so. It would study different models, including Northern Ireland staying in the United Kingdom. Martin plans to take first steps to cabinet before the end of the year, while criticising Sinn Féin’s push for an early referendum as one-sided.",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Irish government to assess potential for united Ireland",
+       "url": "https://www.aljazeera.com/news/2026/10/30/irish-government-to-assess-potential-for-united-ireland",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "EU adds two-euro fee on every incoming parcel",
+     "eventDate": "2026-10-30",
+     "text": "From November 1, every parcel entering the European Union will carry a two-euro handling fee, on top of the temporary three-euro duty introduced in July on small packages. Platforms, sellers or carriers will pay it, and most of the money goes to the EU budget. The European Commission says small-parcel imports fell sixty percent between July and September, but about five million still arrive each day, most of them from China.",
+     "sources": [
+      {
+       "publisher": "Euronews",
+       "title": "EU to impose €2 fee on all packages entering the bloc as of 1 November",
+       "url": "https://www.euronews.com/2026/10/30/eu-to-impose-2-fee-on-all-packages-entering-the-bloc-as-of-1-november",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "UN investigators described civilians in Sudan’s El Obeid trapped between drones and mass detention, a drone strike hit a displacement camp in Ethiopia, and scrutiny grew over a US deportation deal with Cameroon.",
+   "briefs": [
+    {
+     "title": "Drone attack on Ethiopian displacement camp kills at least sixteen",
+     "eventDate": "2026-10-29",
+     "text": "At least sixteen civilians were killed and twenty-two injured when a camp for displaced people near Hayiq, in Ethiopia’s Amhara region, was hit several times. The camp shelters more than eighteen hundred people, and more than twenty shelters caught fire. Victims reportedly included pregnant women and a child. No one has said who carried out the attack in a region where federal forces have fought Fano militias since 2023.",
+     "sources": [
+      {
+       "publisher": "Anadolu Agency",
+       "title": "At least 16 civilians killed in drone attack on displacement camp in Ethiopia",
+       "url": "https://www.aa.com.tr/en/africa/at-least-16-civilians-killed-in-drone-attack-on-displacement-camp-in-ethiopia/4106073",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "US military aid to Cameroon tied to deportation deal",
+     "eventDate": "2026-10-29",
+     "text": "The Wall Street Journal reports that the Trump administration agreed to give about 35 million dollars in military aid, including armoured vehicles, to Cameroon’s Rapid Intervention Battalion. The aid was negotiated alongside Cameroon’s agreement to accept deportees from the United States who are not Cameroonian. Rights groups have accused the battalion of torture, and Senator Jeanne Shaheen called the arrangement grotesque. Separately, families in Yaoundé marched to the Russian embassy this week demanding the return of relatives lured to fight for Russia in Ukraine.",
+     "sources": [
+      {
+       "publisher": "Raw Story (citing The Wall Street Journal)",
+       "title": "‘Grotesque’ Trump deal arms foreign unit accused of torturing people to death: WSJ",
+       "url": "https://www.rawstory.com/trump-state-department-deal/",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Euronews",
+       "title": "Cameroonian families call for repatriation of relatives sent to fight for Russia in Ukraine",
+       "url": "https://www.euronews.com/2026/10/30/cameroonian-families-call-for-repatriation-of-relatives-sent-to-fight-for-russia-in-ukrain",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "More tankers burned near Hormuz as Qatar’s mediators returned to Tehran, Israel’s final count confirmed a hung parliament, and floods in eastern Syria and continued strikes in Gaza cost lives.",
+   "briefs": [
+    {
+     "title": "Flash floods kill children in eastern Syria and empty displacement camps",
+     "eventDate": "2026-10-30",
+     "text": "Heavy rain set off flash floods across northern and eastern Syria. Reuters, via Al-Monitor, put the death toll at seven, five of them children who drowned in pools of floodwater, and said four people were still missing. In Raqqa province 375 families were moved out of camps, and the state news agency said a bridge west of Tabqa collapsed, cutting the road between Raqqa and Aleppo. Classes were called off in Raqqa, Hasakah and Deir ez-Zor, and forecasters warned the bad weather could last into Saturday.",
+     "sources": [
+      {
+       "publisher": "Al-Monitor (Reuters)",
+       "title": "Five children among seven dead in eastern Syria floods",
+       "url": "https://www.al-monitor.com/originals/2026/10/five-children-among-seven-dead-eastern-syria-floods",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Al Jazeera",
+       "title": "Flash floods kill five in Syria",
+       "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Israeli strike kills Gaza officials who monitor aid trucks",
+     "eventDate": "2026-10-29",
+     "text": "An Israeli drone strike in al-Mawasi, west of Rafah, killed four employees of Gaza’s economy ministry whose job was monitoring aid trucks, and wounded more than 30 people. A separate drone strike on a car in the Maghazi camp killed two people. Gaza’s Health Ministry said six people were killed in 24 hours. It said more than 21,000 patients and wounded people need treatment abroad, and it called for the Rafah crossing to be opened. Gaza’s government media office says 1,574 Palestinians have been killed since the October 2025 ceasefire began.",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+       "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Anadolu Agency",
+       "title": "Israel kills 6 Palestinians in Gaza strikes despite ceasefire",
+       "url": "https://www.aa.com.tr/en/middle-east/israel-kills-6-palestinians-in-gaza-strikes-despite-ceasefire/4104705",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "North Korea fired a missile salvo after Seoul offered border talks, investigators blamed North Korean hackers for a record crypto theft, and Myanmar stayed on the global money-laundering blacklist.",
+   "briefs": [
+    {
+     "title": "Myanmar stays on financial crime blacklist despite Japanese lobbying",
+     "eventDate": "2026-10-30",
+     "text": "The Financial Action Task Force, the global watchdog on money laundering, ended its meeting in Paris on Friday with Myanmar still on its blacklist, alongside Iran and North Korea. The watchdog again pressed Myanmar to shut down the fraud and scam operations based there. Reuters reported that Japan had lobbied for Myanmar to be taken off the list, where it has been since 2022. Vietnam stays on the grey list of countries under closer monitoring, and the task force warned it would consider further steps if Vietnam does not make tangible improvements by the next meeting.",
+     "sources": [
+      {
+       "publisher": "The Star (Reuters)",
+       "title": "Vietnam remains on FATF 'grey list' of increased monitoring for financial crimes; Myanmar remains on black list",
+       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/vietnam-remains-on-fatf-039grey-list039-of-increased-monitoring-for-financial-crimes-myanmar-remains-on-black-list",
+       "publishedAt": "2026-10-31",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Pakistan says it struck Taliban border posts after deadly cross-border fire",
+     "eventDate": "2026-10-30",
+     "text": "Pakistan’s state radio said the army used artillery and small arms against Afghan Taliban posts near South Waziristan and Parachinar. The strikes followed Afghan fire on Tuesday on border posts and homes in the Angoor Adda area, which officials said killed one resident and injured a family of five. Pakistani state media said several Taliban fighters were killed, a claim that has not been independently confirmed. Islamabad called Afghanistan’s statement that Pakistan was the aggressor a fabrication, and border clashes have flared repeatedly since September.",
+     "sources": [
+      {
+       "publisher": "Dawn",
+       "title": "Pakistan Army destroys Afghan Taliban posts in response to firing at Angoor Adda: state media",
+       "url": "https://www.dawn.com/news/2040969",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Japan brings back winter energy subsidies and starts cutting gasoline support",
+     "eventDate": "2026-10-29",
+     "text": "Prime Minister Sanae Takaichi said the government will start winter subsidies on electricity and gas bills in December, a month earlier than last season, and keep them through February to ease living costs. The government expects households to save about 7,000 yen over the three months. At the same time it will slowly reduce its gasoline subsidy from December, raising the reference price of 170 yen a litre by 5 yen each month.",
+     "sources": [
+      {
+       "publisher": "Nippon.com (Jiji Press)",
+       "title": "(Update) Japan to Resume Electricity, Gas Subsidies in Dec.",
+       "url": "https://www.nippon.com/en/articles/-/56613",
+       "publishedAt": "2026-10-29",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "In Fiji, a coalition partner has turned against the constitutional overhaul just before the final vote, and in Australia markets expect the Reserve Bank to raise interest rates again on Tuesday.",
+   "briefs": [
+    {
+     "title": "Fiji coalition partner orders its members of parliament to vote down constitution bill",
+     "eventDate": "2026-10-30 / 2026-10-31",
+     "text": "The National Federation Party, part of Prime Minister Sitiveni Rabuka’s governing coalition, has ordered all its members of parliament to vote against the Constitution Amendment Bill at its third reading. It has banned abstaining or leaving the chamber and is requiring each member to sign a written pledge. Party leader Biman Prasad says the 19-day public consultation was too rushed. He has urged Rabuka to withdraw the bill and has quit the special committee reviewing it, whose report is due in parliament on Monday. The third reading needs a two-thirds majority, and Rabuka has said that if the bill fails, Fiji will go straight to an election.",
+     "sources": [
+      {
+       "publisher": "Fiji Sun",
+       "title": "NFP MPs to reject Constitution Bill over rushed process",
+       "url": "https://fijisun.com.fj/news/politics/nfp-orders-mps-to-reject-constitution-bill-over-rushed-process",
+       "publishedAt": "2026-10-31",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Fiji Sun",
+       "title": "36 votes needed for Constitution Bill",
+       "url": "https://fijisun.com.fj/news/nation/36-votes-needed-for-constitution-bill",
+       "publishedAt": "2026-10-02",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Australia’s big banks expect a fifth rate rise this year on Tuesday",
+     "eventDate": "2026-10-29",
+     "text": "The Commonwealth Bank and ANZ now expect the Reserve Bank of Australia to raise its cash rate to 4.85 percent at its meeting on Tuesday, November 3, which would be the fifth increase of 2026, and Westpac has stuck with the same call. The Commonwealth Bank calls the expected move an insurance hike and expects a pause after it. Westpac says the chance of another rise in February has grown because inflation is still above the central bank’s target.",
+     "sources": [
+      {
+       "publisher": "investingLive",
+       "title": "RBA set for fifth 2026 hike to 4.85% as banks flag risk of another move in February",
+       "url": "https://investinglive.com/central-banks/rba-set-for-fifth-2026-hike-to-4-85-as-banks-flag-risk-of-another-move-in-february/",
+       "publishedAt": "2026-10-29",
+       "kind": "Analysis"
+      }
+     ]
+    },
+    {
+     "title": "Canberra says it is gaining ground on Beijing in the Pacific",
+     "eventDate": "2026-10-30",
+     "text": "Australia’s Pacific minister, Pat Conroy, says the country has done well in its competition with China for influence in the region but calls it a permanent contest. Since 2022 the Albanese government has signed treaties with Tuvalu, Nauru, Fiji, Papua New Guinea and Vanuatu, and it is negotiating treaties with Solomon Islands and Tonga. Prime Minister Anthony Albanese is due to meet the new Solomon Islands leader, Matthew Wale, next week. Conroy also wants fewer Chinese state companies winning contracts for projects that Australia pays for.",
+     "sources": [
+      {
+       "publisher": "Pacific Islands News Association (Bloomberg)",
+       "title": "Australia sees gains in contest with China for Pacific’s ‘great game’",
+       "url": "https://pina.com.fj/2026/10/30/australia-sees-gains-in-contest-with-china-for-pacifics-great-game/",
+       "publishedAt": "2026-10-30",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

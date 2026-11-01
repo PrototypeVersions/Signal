@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A cluster of pale neurons with two copper neurons fading away">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g stroke="#d6e6f2" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M300 230 L230 170 M300 230 L250 300 M300 230 L380 200 L430 240 M300 230 L320 320"/>
+    <path d="M430 240 L500 190 M430 240 L470 320 M430 240 L380 300 L320 320"/>
+    <path d="M380 200 L370 130 M500 190 L560 210 M470 320 L540 350"/>
+  </g>
+  <g fill="#12263a" stroke="#d6e6f2" stroke-width="6">
+    <circle cx="300" cy="230" r="24"/><circle cx="430" cy="240" r="24"/><circle cx="380" cy="200" r="16"/>
+    <circle cx="320" cy="320" r="18"/><circle cx="500" cy="190" r="18"/><circle cx="470" cy="320" r="16"/>
+  </g>
+  <g opacity="0.75" stroke="#c8865a" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M620 140 L655 115 M620 140 L600 105 M620 140 L650 170" stroke-dasharray="10 8"/>
+  </g>
+  <circle cx="620" cy="140" r="20" fill="#09131d" stroke="#c8865a" stroke-width="6" opacity="0.75"/>
+  <g opacity="0.4" stroke="#c8865a" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M650 340 L690 320 M650 340 L675 380 M650 340 L615 365" stroke-dasharray="6 10"/>
+  </g>
+  <circle cx="650" cy="340" r="18" fill="#09131d" stroke="#c8865a" stroke-width="6" opacity="0.4" stroke-dasharray="14 8"/>
+</svg>

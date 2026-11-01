@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A web page joined by a pipe to a stack of model layers, with a closed gate across the pipe">
+  <rect width="800" height="500" fill="#09131d"/>
+  <rect x="90" y="120" width="200" height="260" rx="14" fill="#12263a" stroke="#d6e6f2" stroke-width="8"/>
+  <line x1="90" y1="160" x2="290" y2="160" stroke="#d6e6f2" stroke-width="6"/>
+  <g fill="#3b5266"><circle cx="115" cy="140" r="7"/><circle cx="138" cy="140" r="7"/><circle cx="161" cy="140" r="7"/></g>
+  <g stroke="#3b5266" stroke-width="10" stroke-linecap="round">
+    <line x1="120" y1="205" x2="260" y2="205"/><line x1="120" y1="240" x2="240" y2="240"/>
+    <line x1="120" y1="275" x2="260" y2="275"/><line x1="120" y1="310" x2="210" y2="310"/>
+  </g>
+  <rect x="290" y="232" width="250" height="36" fill="#1d3a55" stroke="#d6e6f2" stroke-width="6"/>
+  <rect x="398" y="190" width="24" height="120" rx="6" fill="#c8865a"/>
+  <rect x="384" y="178" width="52" height="18" rx="6" fill="#c8865a"/>
+  <g fill="#12263a" stroke="#d6e6f2" stroke-width="7" stroke-linejoin="round">
+    <path d="M560 330 L690 330 L720 360 L590 360 Z"/>
+    <path d="M560 285 L690 285 L720 315 L590 315 Z"/>
+    <path d="M560 240 L690 240 L720 270 L590 270 Z"/>
+    <path d="M560 195 L690 195 L720 225 L590 225 Z"/>
+    <path d="M560 150 L690 150 L720 180 L590 180 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A cracked sealed box ringed by four arcs of sensors with an alarm lamp lit above it">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M190 420 A210 210 0 0 1 610 420" stroke="#3b5266" stroke-width="6" stroke-dasharray="4 18"/>
+    <path d="M230 420 A170 170 0 0 1 570 420" stroke="#3b5266" stroke-width="6" stroke-dasharray="4 14"/>
+    <path d="M270 420 A130 130 0 0 1 530 420" stroke="#5f7a92" stroke-width="6" stroke-dasharray="4 10"/>
+    <path d="M305 420 A95 95 0 0 1 495 420" stroke="#d6e6f2" stroke-width="6" stroke-dasharray="4 8"/>
+  </g>
+  <rect x="345" y="330" width="110" height="90" rx="8" fill="#12263a" stroke="#d6e6f2" stroke-width="8"/>
+  <path d="M455 345 L438 365 L452 380 L436 400" fill="none" stroke="#c8865a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="380" y="120" width="40" height="18" rx="4" fill="#3b5266"/>
+  <path d="M372 120 C372 80 428 80 428 120 Z" fill="#c8865a"/>
+  <g stroke="#c8865a" stroke-width="5" stroke-linecap="round">
+    <line x1="400" y1="62" x2="400" y2="40"/><line x1="350" y1="88" x2="332" y2="76"/><line x1="450" y1="88" x2="468" y2="76"/>
+  </g>
+  <line x1="400" y1="138" x2="400" y2="320" stroke="#5f7a92" stroke-width="4" stroke-dasharray="6 10"/>
+</svg>

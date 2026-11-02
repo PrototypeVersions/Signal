@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Three chat bubbles from a developer group on the left and a code window with a copper wrench on the right">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="#12263a" stroke="#d6e6f2" stroke-width="6">
+    <rect x="70" y="110" width="200" height="60" rx="16"/>
+    <rect x="110" y="210" width="200" height="60" rx="16"/>
+    <rect x="70" y="310" width="200" height="60" rx="16"/>
+  </g>
+  <g stroke="#3b5266" stroke-width="9" stroke-linecap="round">
+    <line x1="95" y1="140" x2="235" y2="140"/><line x1="135" y1="240" x2="270" y2="240"/><line x1="95" y1="340" x2="210" y2="340"/>
+  </g>
+  <rect x="420" y="90" width="320" height="320" rx="14" fill="#12263a" stroke="#d6e6f2" stroke-width="7"/>
+  <line x1="420" y1="130" x2="740" y2="130" stroke="#d6e6f2" stroke-width="5"/>
+  <g stroke="#3b5266" stroke-width="10" stroke-linecap="round">
+    <line x1="450" y1="170" x2="600" y2="170"/><line x1="480" y1="205" x2="650" y2="205"/>
+    <line x1="480" y1="240" x2="610" y2="240"/><line x1="450" y1="275" x2="560" y2="275"/>
+    <line x1="480" y1="310" x2="680" y2="310"/><line x1="450" y1="345" x2="590" y2="345"/>
+  </g>
+  <g transform="rotate(-35 640 270)">
+    <rect x="610" y="250" width="110" height="26" rx="10" fill="#c8865a"/>
+    <path d="M600 238 a32 32 0 1 0 0 50 l0 -14 l-14 0 l0 -22 l14 0 z" fill="#c8865a"/>
+  </g>
+  <g stroke="#c8865a" stroke-width="5" stroke-dasharray="10 10" fill="none">
+    <path d="M300 240 C350 240 370 240 415 240"/>
+  </g>
+</svg>

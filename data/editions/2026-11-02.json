@@ -1,0 +1,1244 @@
+{
+  "date": "2026-11-02",
+  "number": 16,
+  "cutoff": "2026-11-02T12:35:00Z",
+  "cutoffLabel": "6:35 AM CT",
+  "opening": "Iran’s negotiators left Doha with a draft deal circulating as Trump named a nuclear site he still wants to strike. Russia cut power across Ukraine as a local truce ended, Americans vote on Tuesday, Bulgaria elected a Moscow-friendly president and the UN’s Western Sahara mission ended.",
+  "leadStoryId": "iran-doha-draft-pickaxe-mountain",
+  "stories": [
+    {
+      "id": "iran-doha-draft-pickaxe-mountain",
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes.",
+      "section": "world",
+      "title": "Iran’s negotiators leave Doha with a draft deal in circulation, as Trump names a nuclear site he still wants to hit",
+      "category": "War and diplomacy",
+      "region": "Middle East · Iran and Qatar",
+      "regions": [
+        "middle-east",
+        "north-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-10-31 / 2026-11-01",
+      "body": "Iranian negotiators left Doha on Sunday after three days of talks with Qatari mediators, and an official briefed on the process said a draft proposal for a deal with Washington was circulating and another meeting was possible. President Donald Trump has promised no new attacks before Tuesday’s election and calls the talks productive, but he said the United States still had one or two sites to deal with, naming Pickaxe Mountain. Axios reported that Benjamin Netanyahu pressed him to resume strikes soon after the vote.",
+      "whatChanged": "The Doha round ended with a written draft on the table, while Trump publicly named a suspected nuclear storage site as a target he has not yet hit.",
+      "whyMatters": "The days after the midterm vote are now the window in which Washington chooses between a negotiated reopening of the Strait of Hormuz and a renewed bombing campaign that Iran has promised to answer across the Gulf.",
+      "uncertainty": "The draft’s contents have not been disclosed, accounts of the Trump–Netanyahu call rest on anonymous sources, and Iran says no deal is possible while the US naval blockade stays in place.",
+      "watchNext": "Whether a follow-up meeting is set in Doha, any reply from Iran’s security council to a letter from Vice President JD Vance, and US military moves after polls close on Tuesday.",
+      "keyFacts": [
+        "Iranian negotiators held three straight days of talks in Doha, leaving on November 1",
+        "Iran says the talks rest on a seven-step plan from September to reopen Hormuz and end the US naval blockade",
+        "Trump named Pickaxe Mountain, which Western intelligence links to nuclear material storage, as a remaining target",
+        "The United States has not struck Iran since September 1, the Times of Israel reported",
+        "Axios said Netanyahu urged strikes soon after November 3; Trump preferred to give talks more time"
+      ],
+      "report": [
+        {
+          "heading": "Three days in Doha",
+          "paragraphs": [
+            "Qatari mediators met Iranian officials in Tehran on Friday and moved the talks to Doha on Saturday, an official briefed on the process told Reuters, adding that the mediation was coordinated in regular contact with Washington. Iran’s deputy foreign minister, Kazem Gharibabadi, was in Doha passing messages for the United States. The Iranian team left on Sunday; the official said this was not a sign of trouble, that a draft proposal was circulating and that a further meeting could follow, but gave no details of its contents.",
+            "Foreign ministry spokesperson Esmaeil Baghaei said the talks were based on a seven-step plan Iran drew up in September, which would reopen the Strait of Hormuz and end the US naval blockade, and that Tehran was now suggesting it could be carried out faster. He said no final agreement could be reached, and the strait could not be reopened, until the blockade ended, and that Iran did not expect the US election to change American policy."
+          ]
+        },
+        {
+          "heading": "Washington’s two tracks",
+          "paragraphs": [
+            "Trump has said there will be no new attacks before Tuesday’s vote. Speaking in Palm Beach on Saturday, he said talks were going fine but that Iran was not very reliable, and that the United States still had one or two sites to deal with, pointing to Pickaxe Mountain, a site Western intelligence believes may hold nuclear material and which has not been struck in the war. Secretary of State Marco Rubio said Trump had not decided on new strikes and would prefer diplomacy.",
+            "The Wall Street Journal reported that Trump and Netanyahu spoke on Saturday as US plans to resume strikes were drawn up. Axios, citing American and Israeli sources, said Netanyahu urged action soon after the election and Trump preferred to let diplomacy run; an Israeli official called the call tough, a US source called it direct. At an Iowa rally on Sunday, Trump said he was holding back to be nice, but warned that at some point the United States would have to hit Iran hard."
+          ]
+        },
+        {
+          "heading": "Iran’s warnings",
+          "paragraphs": [
+            "Iran’s supreme leader, Mojtaba Khamenei, ordered the armed forces on Saturday to be ready to respond to any attack, and Iran has said it would strike US and Israeli targets in neighbouring countries. Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, said Tehran was debating whether to drop its ban on nuclear weapons if fighting resumed, but had made no decision."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al-Monitor (Reuters)",
+          "title": "Iranian negotiators in Doha to continue talks to end the US-Iran war, official says",
+          "url": "https://www.al-monitor.com/originals/2026/11/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Cyprus Mail (Reuters)",
+          "title": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says",
+          "url": "https://cyprus-mail.com/2026/11/02/iranians-have-left-doha-talks-draft-proposal-for-us-deal-being-circulated-official-says",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Trump holds call with Netanyahu amid preparations to renew strikes on Iran – report",
+          "url": "https://www.timesofisrael.com/trump-holds-call-with-netanyahu-amid-preparations-to-renew-strikes-on-iran-report/",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "aNews (Anadolu, citing Axios)",
+          "title": "Trump favors diplomacy with Iran as Netanyahu urges strikes immediately after Tuesday’s US midterms: Report",
+          "url": "https://www.anews.com.tr/world/2026/11/02/trump-favors-diplomacy-with-iran-as-netanyahu-urges-strikes-immediately-after-tuesdays-us-midterms-report",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Trump renews threat of military strikes on Iran, says US may have to ‘give them the hammer’",
+          "url": "https://www.aa.com.tr/en/americas/trump-renews-threat-of-military-strikes-on-iran-says-us-may-have-to-give-them-the-hammer/4108514",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Doha, Tehran and the Gulf",
+        "bounds": [
+          44,
+          22,
+          63,
+          39
+        ],
+        "countries": [
+          "364",
+          "634"
+        ],
+        "labels": [
+          {
+            "label": "Persian Gulf",
+            "lon": 51.5,
+            "lat": 27.6,
+            "kind": "water"
+          },
+          {
+            "label": "Caspian Sea",
+            "lon": 51.0,
+            "lat": 38.3,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Iran and Qatar with markers at Tehran, where Qatari mediators met Iranian officials on Friday, and Doha, where the talks continued until Sunday.",
+        "caption": "Iran and Qatar · approximate locations of the talks"
+      },
+      "locations": [
+        {
+          "label": "Talks with Qatari mediators, Doha",
+          "mapLabel": "Doha",
+          "lon": 51.53,
+          "lat": 25.29
+        },
+        {
+          "label": "Mediators’ visit, Tehran",
+          "mapLabel": "Tehran",
+          "lon": 51.39,
+          "lat": 35.69
+        }
+      ]
+    },
+    {
+      "id": "ukraine-grid-strikes-kstovo",
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia's war in Ukraine, efforts to negotiate an end to it, and the wider security consequences for Europe.",
+      "section": "world",
+      "title": "Russian strikes cut power to hundreds of thousands of Ukrainian homes as the Oleshky truce ends and drones hit Russia’s Kstovo",
+      "category": "War",
+      "region": "Europe · Ukraine and Russia",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-10-31 / 2026-11-02",
+      "body": "Overnight strikes on Saturday hit substations and power lines in four Ukrainian regions, and President Volodymyr Zelensky said hundreds of thousands of families were left without electricity. Another 193 drones followed from Sunday evening, killing one person in Izium, wounding at least 17 across the Kharkiv and Odesa regions and cutting water in Bila Tserkva. Ukrainian drones caused significant damage at an industrial site in Russia’s Kstovo district, home to a large Lukoil refinery. The local truce in occupied Oleshky ended on Sunday with both sides saying it held.",
+      "whatChanged": "Russia stepped up attacks on Ukraine’s power grid as winter approaches, just as the war’s longest local truce ended on Sunday with no reported violations.",
+      "whyMatters": "Blackouts before winter strain heating, water and hospitals, and Zelensky says Russia is exploiting a shortage of interceptors for ballistic missiles; the end of the Oleshky truce removes the only working pause in the fighting.",
+      "uncertainty": "Ukraine’s claim of record Russian losses in October cannot be independently checked, and Russian officials have not said what exactly was hit in Kstovo.",
+      "watchNext": "How quickly power is restored and how long scheduled blackouts last this week, whether the two countries’ human rights commissioners agree further humanitarian pauses, and the ballistic missile strikes Zelensky has warned of.",
+      "keyFacts": [
+        "Russia used about 1,940 strike drones, over 1,580 glide bombs and 44 missiles in the past week, Zelensky said",
+        "Ukraine’s air force counted 193 drones launched from 6 p.m. on November 1, with 154 downed or suppressed",
+        "All of Izium lost power after a strike on Monday morning that killed one person, local officials said",
+        "The Oleshky truce ran from October 27 to November 1; Melania Trump said nearly 800 people were evacuated",
+        "Zelensky claimed Russia lost about 54,400 troops killed or seriously wounded in October"
+      ],
+      "report": [
+        {
+          "heading": "The grid under attack",
+          "paragraphs": [
+            "Zelensky said Russian strikes overnight into Sunday damaged substations, transformers and power lines in the Dnipropetrovsk, Vinnytsia, Zhytomyr and Khmelnytskyi regions, leaving hundreds of thousands of families without power while repair crews worked. Ukraine’s military said Russia launched 433 drones that day and that 371 were shot down. Zelensky put the past week’s total at about 1,940 strike drones, more than 1,580 glide bombs and 44 missiles, 36 of them ballistic.",
+            "From Sunday evening Russia sent 193 more drones, of which 154 were downed or suppressed, the air force said, with hits at 26 locations by Monday morning. A drone struck a five-storey building in Vashyshcheve in Kharkiv region, injuring 12 people including a child, and a strike in Izium on Monday killed one person and cut power to the whole city. In Odesa four people were hurt, a bakery was destroyed and an energy facility was hit. Bila Tserkva near Kyiv lost its water supply, and the grid operator Ukrenergo ordered emergency power cuts in several regions."
+          ]
+        },
+        {
+          "heading": "Strikes inside Russia",
+          "paragraphs": [
+            "The governor of Russia’s Nizhny Novgorod region said a massive drone attack on Sunday caused significant damage at an industrial enterprise in the Kstovo district and that more than 100 drones were destroyed, with no casualties reported. Ukrainian media said the target was the Lukoil refinery there; Radio Free Europe said video appeared to show it burning but could not confirm the reports. Ukraine’s military also said it hit a propellant plant in Rostov region on Friday."
+          ]
+        },
+        {
+          "heading": "The truce ends",
+          "paragraphs": [
+            "The humanitarian ceasefire around occupied Oleshky, which ran from October 27, ended on Sunday. Ukraine’s human rights commissioner, Dmytro Lubinets, said both sides had kept their commitments, allowing aid in and residents out, and that he and his Russian counterpart were exploring further humanitarian steps. Melania Trump, who helped mediate, said nearly 800 people had been evacuated. Hours later, Ukraine said its air raid app had been hacked to send false warnings, and Russia reported a similar attack on its emergency app."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Radio Free Europe/Radio Liberty",
+          "title": "Moscow Reports Drone Attack On Nizhny Novgorod As Russian Strikes Cut Power In Ukraine",
+          "url": "https://www.rferl.org/a/russia-ukraine-war-drone-nizhny-novgorod-power/33888277.html",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Kyiv Post",
+          "title": "Russian Drone Attacks Kill 1, Injure 17, Cut Power and Water Supplies Across Ukraine",
+          "url": "https://www.kyivpost.com/post/88850",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Interfax-Ukraine",
+          "title": "Humanitarian ceasefire in Oleshky ends after aid delivery, civilian evacuation",
+          "url": "https://en.interfax.com.ua/news/general/1229540.html",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ANI",
+          "title": "Oleshky ceasefire concludes; Melania Trump hopes it lays “foundation for lasting peace” between Russia, Ukraine",
+          "url": "https://aninews.in/news/world/us/oleshky-ceasefire-concludes-melania-trump-hopes-it-lays-foundation-for-lasting-peace-between-russia-ukraine20261102060726/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+          "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Strikes in Ukraine and on Kstovo",
+        "bounds": [
+          22,
+          43,
+          47,
+          58
+        ],
+        "countries": [
+          "804",
+          "643"
+        ],
+        "labels": [
+          {
+            "label": "Black Sea",
+            "lon": 34.5,
+            "lat": 43.6,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Ukraine and western Russia with markers at Izium, Odesa and Bila Tserkva in Ukraine, and at Kstovo in Russia’s Nizhny Novgorod region.",
+        "caption": "Ukraine and western Russia · approximate reporting locations"
+      },
+      "locations": [
+        {
+          "label": "Izium, Kharkiv region",
+          "mapLabel": "Izium",
+          "lon": 37.26,
+          "lat": 49.21
+        },
+        {
+          "label": "Odesa",
+          "mapLabel": "Odesa",
+          "lon": 30.73,
+          "lat": 46.48
+        },
+        {
+          "label": "Bila Tserkva, Kyiv region",
+          "mapLabel": "Bila Tserkva",
+          "lon": 30.11,
+          "lat": 49.8
+        },
+        {
+          "label": "Kstovo, Nizhny Novgorod region",
+          "mapLabel": "Kstovo",
+          "lon": 44.2,
+          "lat": 56.15
+        }
+      ]
+    },
+    {
+      "id": "us-midterms-eve-alaska-ruling",
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 3, 2026 US congressional elections and the legal fights over how they are run.",
+      "section": "world",
+      "title": "On the eve of the midterms, more than 50 million Americans have voted early and a judge throws out the Alaska ballot lawsuit",
+      "category": "Elections",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-01 / 2026-11-02",
+      "body": "More than 53 million Americans had voted by Sunday morning, according to a University of Florida count, against about 46 million early votes in the 2022 midterms; CBS News put the total above 54 million on Monday. In Alaska, federal Judge Sharon Gleason dismissed the Justice Department’s lawsuit seeking to hold up certification if Senator Dan Sullivan loses, saying it offered no workable way to examine ballots without breaking voter secrecy. In Michigan, Democratic Representative Haley Stevens endorsed the Republican Senate nominee, Mike Rogers.",
+      "whatChanged": "The administration’s Alaska challenge failed in court two days before the vote, and early voting has already passed its 2022 total.",
+      "whyMatters": "Control of Congress is decided on Tuesday, and courts have now turned down the administration’s attempts in both California and Alaska to set aside or hold back ballots, narrowing the ground for challenges after the count.",
+      "uncertainty": "Early-vote numbers show who voted, not how; party registration does not translate directly into results, and the government is expected to appeal the Alaska ruling.",
+      "watchNext": "Polls close on Tuesday, November 3; watch the Senate toss-ups in Maine, Michigan, Ohio, Texas and Alaska, and any appeal in the Alaska case.",
+      "keyFacts": [
+        "53.14 million early votes by 6:56 a.m. Eastern on November 1, per the University of Florida, against 46 million in 2022",
+        "Judge Sharon Gleason dismissed the Alaska suit in a 20-page ruling on Sunday morning",
+        "A poll released Friday put Mary Peltola two points ahead of Sullivan, with the second Sullivan above 4%",
+        "Texas recorded more than 7 million early votes, over 1.5 million more than in 2022",
+        "CBS News rates the Senate races in Maine, Michigan, Ohio, Texas and Alaska as toss-ups"
+      ],
+      "report": [
+        {
+          "heading": "Turnout before Tuesday",
+          "paragraphs": [
+            "A University of Florida tally counted 53.14 million early ballots by Sunday morning, about 29 million cast in person and 23 million by mail, from roughly 210 million registered voters. More than 11 million registered Democrats had voted, against about 8 million registered Republicans. An Associated Press analysis cited by Al Jazeera found early voting up 83% in South Carolina, 44% in Maine and 34% in Kansas compared with the same point in 2022, and up 32% in Michigan."
+          ]
+        },
+        {
+          "heading": "The Alaska ruling",
+          "paragraphs": [
+            "The Justice Department sued on October 22, asking the court to halt certification while it investigated whether voters who picked the second candidate named Sullivan, a retired teacher listed as Daniel J. Sullivan Jr., had been confused, and to set those ballots aside. Judge Gleason wrote that the government had no workable plan for doing so while keeping ballots secret; the state had called the request half-baked, noting that ballots carry no names. President Trump has said he ordered the suit. Alaska Public Media reported that an appeal is likely and that the FBI is separately investigating, citing a report of an alleged plan to recruit spoiler candidates that Mary Peltola, the Democrat, says she knew nothing about."
+          ]
+        },
+        {
+          "heading": "The final weekend",
+          "paragraphs": [
+            "Stevens, who lost Michigan’s Democratic Senate primary, appeared with Rogers at a Detroit church on Sunday and endorsed him after a dispute with the Democratic nominee, Abdul El-Sayed; Senate Democratic leader Chuck Schumer called it a betrayal. Trump held rallies in Iowa and Kansas, and former President Barack Obama endorsed Charles Booker in Kentucky. A federal appeals court ruled 2 to 1 on Friday against a Justice Department request to set aside disputed mail ballots in California."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "More than 50 million votes cast in US midterm elections: What does it mean?",
+          "url": "https://www.aljazeera.com/news/2026/11/1/more-than-50-million-votes-cast-in-us-midterm-elections-what-does-it-mean",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "2026 elections live updates: Michigan Democratic rift spills into public view and more in midterm final push",
+          "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Alaska Public Media",
+          "title": "Judge tosses DOJ lawsuit that sought to block election results if Republican Sen. Dan Sullivan loses",
+          "url": "https://alaskapublic.org/news/politics/elections/2026-11-01/judge-tosses-doj-lawsuit-that-sought-to-block-election-results-if-republican-sen-dan-sullivan-loses",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Early votes before midterm election day",
+        "measure": "Ballots cast before election day",
+        "unit": "million ballots",
+        "values": [
+          {
+            "label": "2022 midterms (total early vote)",
+            "value": 46
+          },
+          {
+            "label": "2026, as of the morning of November 1",
+            "value": 53.14
+          }
+        ],
+        "alt": "Bar chart comparing about 46 million early votes in the 2022 midterms with 53.14 million cast by the morning of November 1, 2026, two days before election day.",
+        "caption": "University of Florida Election Lab figures, as reported by Al Jazeera; the 2026 figure was still rising",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/11/1/more-than-50-million-votes-cast-in-us-midterm-elections-what-does-it-mean"
+      }
+    },
+    {
+      "id": "ebola-fatality-rate-us-entry-rule",
+      "threadId": "ebola-east-africa",
+      "threadTitle": "Ebola outbreak in Africa",
+      "threadSummary": "A Bundibugyo-strain Ebola outbreak declared in Congo in May that has spread to neighbouring and distant countries.",
+      "section": "world",
+      "title": "Congo’s Ebola death rate rises above half after a recount, as a US travel rule takes effect on Tuesday",
+      "category": "Public health",
+      "region": "Africa · Democratic Republic of the Congo",
+      "regions": [
+        "africa",
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-31 / 2026-11-01",
+      "body": "Congo’s public health institute now counts 5,372 Ebola deaths among 10,414 confirmed infections, Bloomberg reported, after a review of death records in Ituri province added 314 deaths not previously assigned to the outbreak. That lifts the share of confirmed cases who died above 51%. From late Tuesday, every traveller boarding a flight to the United States must declare that they have not been in Congo in the previous 21 days, and anyone who has will be refused boarding, including US citizens.",
+      "whatChanged": "A recount raised the death toll by more than 300 in two days, and a US entry rule that airlines asked to delay is about to start.",
+      "whyMatters": "A rising fatality rate, and the Africa CDC’s estimate that most new cases come from people nobody was monitoring, suggest the outbreak is still ahead of the response, while the US rule touches every inbound international passenger.",
+      "uncertainty": "The jump mostly reflects past deaths being reclassified rather than a sudden surge; there is no approved vaccine or treatment for this strain, and it is unclear how strictly the US rule will be applied to people transiting through Congo.",
+      "watchNext": "The US rule taking effect at 11:59 p.m. Eastern on November 3, new case counts from Ituri and North Kivu, and whether Nigeria can declare its brief outbreak over on December 7.",
+      "keyFacts": [
+        "5,372 deaths and 10,414 confirmed infections, per Congo’s public health institute, reported on November 1",
+        "A records review across 97% of Ituri’s affected health zones found 314 unallocated deaths",
+        "The outbreak has reached 67 health zones in eight of Congo’s 26 provinces",
+        "The Africa CDC estimates about 80% of new cases come from chains outside monitored contacts",
+        "Kenya has confirmed eight cases and two deaths, the AP reported"
+      ],
+      "report": [
+        {
+          "heading": "A higher toll",
+          "paragraphs": [
+            "On Saturday Congo’s health ministry reported 5,026 deaths among 10,351 people infected, making this the second-deadliest Ebola outbreak on record after the West African epidemic of 2014 to 2016, which killed about 11,000 people. A day later the national public health institute’s figures, reported by Bloomberg, showed 5,372 deaths and 10,414 confirmed cases after a review of mortality records in Ituri found 314 deaths that had not been counted. The fatality ratio among confirmed cases rose from 48.6% to 51.6% over two days while confirmed infections grew by only 140.",
+            "The outbreak is caused by the Bundibugyo species, for which there is no approved vaccine or specific treatment. Ituri and North Kivu account for most cases and deaths."
+          ]
+        },
+        {
+          "heading": "Obstacles on the ground",
+          "paragraphs": [
+            "A World Health Organization official told the AP that about a third of recorded deaths happened outside treatment centres, before people were tested. Fighting involving M23 rebels and the ADF militia limits access in the east, health workers have been attacked, and staff at treatment centres in Tchomia and Beni have struck over unpaid wages. Outside Congo, Kenya has confirmed eight cases, and Nigeria’s single case was evacuated to Switzerland."
+          ]
+        },
+        {
+          "heading": "The US travel rule",
+          "paragraphs": [
+            "Under a CDC order issued on October 22 and amended on October 28, passengers on all international flights to the United States must sign a declaration, on paper or digitally, that they have not been in Congo in the past 21 days. Those who have, including US citizens and people who only changed planes there, cannot board until the 22nd day. Airlines must keep the forms for 42 days. The US airline association and IATA asked the CDC to delay or narrow the rule, saying the timetable was too short. The CDC says the risk to Americans is low and no US cases have been confirmed."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Nairametrics (citing Bloomberg)",
+          "title": "Ebola death rate exceeds 50% in DR Congo as US tightens travel restrictions",
+          "url": "https://nairametrics.com/2026/11/02/ebola-death-rate-exceeds-50-in-dr-congo-as-us-tightens-travel-restrictions/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Philadelphia Inquirer (Associated Press)",
+          "title": "Congo’s Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+          "url": "https://www.inquirer.com/news/nation-world/ebola-congo-death-toll-20261031.html",
+          "publishedAt": "2026-10-31",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Yahoo News",
+          "title": "Deadly Ebola Outbreak Leads to Tighter U.S. Entry Rules from CDC",
+          "url": "https://www.yahoo.com/news/us/articles/deadly-ebola-outbreak-leads-tighter-153000392.html",
+          "publishedAt": "undated",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Fox News",
+          "title": "Airlines push CDC to delay Ebola travel requirement for U.S. flights",
+          "url": "https://www.foxnews.com/travel/deadly-disease-sparks-new-cdc-rule-us-bound-flyers-major-airlines-seek-delay",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Congo’s Ebola epicentre",
+        "bounds": [
+          12,
+          -14,
+          36,
+          8
+        ],
+        "countries": [
+          "180",
+          "800"
+        ],
+        "labels": [
+          {
+            "label": "Lake Victoria",
+            "lon": 33.0,
+            "lat": -1.2,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the Democratic Republic of the Congo and Uganda with markers at Bunia in Ituri province and Beni in North Kivu, the centre of the outbreak; cases have also been recorded in other provinces and countries.",
+        "caption": "Congo and Uganda · approximate locations in the worst-hit provinces"
+      },
+      "locations": [
+        {
+          "label": "Bunia, Ituri province",
+          "mapLabel": "Ituri",
+          "lon": 30.25,
+          "lat": 1.56
+        },
+        {
+          "label": "Beni, North Kivu province",
+          "mapLabel": "Beni",
+          "lon": 29.47,
+          "lat": 0.49
+        }
+      ]
+    },
+    {
+      "id": "western-sahara-minurso-ends",
+      "threadId": "western-sahara-dispute",
+      "threadTitle": "The Western Sahara dispute",
+      "threadSummary": "The fifty-year dispute between Morocco, which controls most of Western Sahara, and the Algeria-backed Polisario Front, which seeks independence for the territory.",
+      "section": "world",
+      "title": "The UN’s Western Sahara mission ends after 35 years, after Russia blocks a US plan to make Moroccan autonomy the only basis for talks",
+      "category": "Peacekeeping",
+      "region": "Africa · Western Sahara and Morocco",
+      "regions": [
+        "africa"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-10-30 / 2026-11-01",
+      "body": "The mandate of MINURSO, the UN mission set up in 1991 to watch a ceasefire and organise a vote on Western Sahara’s future, expired at midnight on Saturday after the Security Council failed to renew it. Russia vetoed a US draft, backed by 11 of the 15 members, that would have dropped the referendum from the mission’s name and made Morocco’s autonomy plan the sole basis for talks. A Russian alternative won two votes. On Sunday Secretary-General António Guterres warned of a risk that hostilities could escalate.",
+      "whatChanged": "For the first time since 1991 there is no UN mission in Western Sahara; it began winding down its staff and equipment on Sunday.",
+      "whyMatters": "The mission was the only international monitor in a disputed territory where low-level fighting resumed in 2020, and its exit removes a channel for calming incidents between Morocco and the Algeria-backed Polisario Front.",
+      "uncertainty": "Morocco says it remains committed to the ceasefire, but it is unclear how incidents will now be monitored, and whether the dispute stays on the Security Council’s agenda is unsettled.",
+      "watchNext": "The pace of the UN pullout from its nine team sites, any clashes along the sand wall that divides the territory, and whether either the United States or Russia brings a new text to the council.",
+      "keyFacts": [
+        "The US draft won 11 votes but was vetoed by Russia on October 30",
+        "Russia’s rival text drew 2 votes in favour, 1 against and 11 abstentions",
+        "The mandate lapsed at midnight on October 31, and liquidation began on November 1",
+        "The mission ended with about 200 personnel from more than 35 countries; 20 died in service",
+        "At least 170,000 Sahrawi refugees live in camps near Tindouf, Algeria"
+      ],
+      "report": [
+        {
+          "heading": "The vote",
+          "paragraphs": [
+            "The US text would have extended the mission for a year, removed the word referendum from its name, made Morocco’s plan for autonomy under Moroccan sovereignty the only basis for further talks and called for a census of refugees. Russia’s ambassador, Vassily Nebenzia, said the council could not settle questions of sovereignty in advance; the US ambassador, Mike Waltz, said the veto was used to preserve one letter in the mission’s name and blocked a proposal that would have moved the conflict forward. Russia’s draft, which would have renewed the mission unchanged until October 31, 2027, fell well short of the nine votes needed."
+          ]
+        },
+        {
+          "heading": "Reactions",
+          "paragraphs": [
+            "Morocco’s royal palace welcomed the outcome, called for UN staff and equipment to leave within days and asked for the issue to be taken off the council’s agenda, while saying it remains committed to the ceasefire. Celebrations were reported in Laayoune. The Polisario Front’s UN representative welcomed the veto, and Algeria said the US draft was heavily biased toward Morocco. Oxfam warned that losing the mission’s monitoring role could undermine stability. Guterres said the mission’s departure does not cancel the Sahrawi people’s right to self-determination, urged maximum restraint and said his envoy, Staffan de Mistura, would keep working on a settlement."
+          ]
+        },
+        {
+          "heading": "What the mission did",
+          "paragraphs": [
+            "The mission was created by Security Council resolution 690 to oversee the 1991 ceasefire and prepare a referendum offering independence or integration with Morocco, which was never held because the sides could not agree who could vote. It ran a headquarters in Laayoune, nine team sites on both sides of the sand wall and an office in Tindouf. A small UN team will now oversee disposal of its equipment."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "UN News",
+          "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+          "url": "https://news.un.org/en/story/2026/11/1168717",
+          "publishedAt": "2026-11-01",
+          "kind": "Primary"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Rival US and Russian resolutions on Western Sahara fail at UN",
+          "url": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un",
+          "publishedAt": "2026-10-31",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
+          "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Western Sahara",
+        "bounds": [
+          -19,
+          19,
+          2,
+          37
+        ],
+        "countries": [
+          "732",
+          "504",
+          "012",
+          "478"
+        ],
+        "labels": [
+          {
+            "label": "Atlantic Ocean",
+            "lon": -16.5,
+            "lat": 31.0,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Western Sahara with neighbouring Morocco, Algeria and Mauritania, marking Laayoune, where the UN mission had its headquarters, and the refugee camps near Tindouf in Algeria.",
+        "caption": "Western Sahara and its neighbours · approximate locations; shading shows context, not control"
+      },
+      "locations": [
+        {
+          "label": "Former UN mission headquarters, Laayoune",
+          "mapLabel": "Laayoune",
+          "lon": -13.2,
+          "lat": 27.15
+        },
+        {
+          "label": "Sahrawi refugee camps near Tindouf, Algeria",
+          "mapLabel": "Tindouf",
+          "lon": -8.15,
+          "lat": 27.67
+        }
+      ]
+    },
+    {
+      "id": "bulgaria-yotova-wins-runoff",
+      "threadId": "bulgaria-presidency-2026",
+      "threadTitle": "Bulgaria's 2026 presidential election",
+      "threadSummary": "Bulgaria’s presidential election, fought over the war in Ukraine, energy prices and inflation.",
+      "section": "world",
+      "title": "Bulgaria elects Iliana Yotova, an opponent of more military aid to Ukraine, as its first elected woman president",
+      "category": "Elections",
+      "region": "Europe · Bulgaria",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-01 / 2026-11-02",
+      "body": "Acting President Iliana Yotova won Sunday’s runoff with 57.6% of the vote against 39.5% for Andrey Gyurov, a former interim prime minister backed by pro-Western reformist parties, according to the full count published on Monday. Gyurov conceded. Yotova, 62, has led the country since January, when Rumen Radev resigned to run for parliament; his Progressive Bulgaria party, which holds a parliamentary majority, backed her. She opposes further Bulgarian military aid to Ukraine and favours better relations with Russia while keeping Bulgaria on its European course.",
+      "whatChanged": "A narrow first-round lead became a clear win, putting the presidency and the parliamentary majority in the same political camp.",
+      "whyMatters": "Bulgaria is an EU and NATO member on the Black Sea, where drone attacks on merchant ships have increased; a president who favours talking to Moscow and easing sanctions adds a sceptical voice inside both blocs.",
+      "uncertainty": "The presidency is largely ceremonial, so the effect depends on how Yotova uses her veto and treaty powers, and turnout was low, about 29% according to exit polls.",
+      "watchNext": "Her inauguration on January 22, and how Sofia votes on Ukraine aid and Russia sanctions at coming EU meetings.",
+      "keyFacts": [
+        "Yotova won 57.6% and Gyurov 39.5%; about 3% chose the option of backing no one",
+        "In the first round on October 25, Yotova led with about 34.6% to Gyurov’s 32%",
+        "Progressive Bulgaria won 131 of 240 seats in April’s parliamentary election",
+        "Yotova is due to be inaugurated on January 22",
+        "Her vice president will be Kiril Valchev, head of the Bulgarian News Agency since 2021"
+      ],
+      "report": [
+        {
+          "heading": "The result",
+          "paragraphs": [
+            "With almost all precinct records processed, the election commission put Yotova and her running mate on 57.58%, about 1.1 million ballots, and Gyurov and Georgi Kandev on 39.47%, about 749,500, Reuters reported; the AP gave the final figures as 57.6% and 39.5%. Gyurov said the voters had decided and the result had to be accepted. Yotova said she stood for national consensus through dialogue and a strong state with its own foreign policy in a strong Europe. European Commission President Ursula von der Leyen congratulated her."
+          ]
+        },
+        {
+          "heading": "Who she is",
+          "paragraphs": [
+            "A former television journalist and Socialist member of the national and European parliaments, Yotova was elected as Radev’s vice president in 2016 and again in 2021, and became acting head of state when he resigned in January to lead his new party. During the campaign she called herself a president of peace, argued there was no military solution in Ukraine and proposed a coalition for peace focused on diplomacy. Observers expect her to support lifting sanctions on Russia. She and Radev have been evasive about possible Russian involvement in drone attacks around the Black Sea."
+          ]
+        },
+        {
+          "heading": "What the office can do",
+          "paragraphs": [
+            "Bulgaria’s president has no executive powers but commands the armed forces, can veto legislation, signs international treaties and appoints ambassadors, and serves a five-year term. Observers quoted by the AP warn that with the presidency and parliament in the same hands, an important check on government policy could weaken."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Yahoo News (Associated Press)",
+          "title": "Iliana Yotova wins runoff to become Bulgaria’s first elected female president",
+          "url": "https://www.yahoo.com/news/politics/articles/iliana-yotova-wins-runoff-become-111349456.html",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Daily Maverick (Reuters)",
+          "title": "Bulgaria’s Iotova wins presidential runoff, near-final results show",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-02-bulgarias-iotova-wins-presidential-runoff-near-final-results-show/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Euronews (AP)",
+          "title": "Initial results show Bulgaria’s acting president Yotova wins runoff election",
+          "url": "https://www.euronews.com/2026/11/01/bulgarias-acting-president-yotova-leads-in-exit-polls-of-runoff-election",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Bulgaria’s presidential runoff",
+        "measure": "Share of the vote, November 1, 2026",
+        "unit": "percent",
+        "values": [
+          {
+            "label": "Iliana Yotova",
+            "value": 57.6
+          },
+          {
+            "label": "Andrey Gyurov",
+            "value": 39.5
+          }
+        ],
+        "alt": "Bar chart of the runoff result: Iliana Yotova 57.6 percent, Andrey Gyurov 39.5 percent.",
+        "caption": "Final count by Bulgaria’s Central Election Commission, as reported by the Associated Press; about 3% backed neither candidate",
+        "sourceUrl": "https://www.yahoo.com/news/politics/articles/iliana-yotova-wins-runoff-become-111349456.html"
+      }
+    },
+    {
+      "id": "poland-no-confidence-motion-tusk",
+      "threadId": "poland-rule-of-law",
+      "threadTitle": "Poland’s fight over its courts",
+      "threadSummary": "The struggle between Donald Tusk’s government and allies of the former Law and Justice government over judges appointed during its rule from 2015 to 2023.",
+      "section": "more",
+      "title": "Poland’s opposition moves to bring down Tusk’s government over the court standoff",
+      "category": "Democracy",
+      "region": "Europe · Poland",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-31 / 2026-11-01",
+      "whatChanged": "The fight over the Constitutional Tribunal has turned into a bid to replace the government.",
+      "body": "Former prime minister Mateusz Morawiecki of Law and Justice said on Saturday the party was submitting a motion of no confidence in Donald Tusk’s government and proposed a temporary technical government led by former parliament speaker Marek Jurek until an election. Tusk said in a televised address that he was certain the tribunal would function as it should. The European Commission urged President Karol Nawrocki to accept the new judges, and the US ambassador appealed for calm.",
+      "sources": [
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Polish opposition seeks no-confidence vote to oust Tusk government",
+          "url": "https://www.aa.com.tr/en/europe/polish-opposition-seeks-no-confidence-vote-to-oust-tusk-government/4107417",
+          "publishedAt": "2026-10-31",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Jerusalem Post (Reuters)",
+          "title": "Poland's Tusk vows Constitutional Tribunal independence as Nawrocki alleges forcible court takeover",
+          "url": "https://www.jpost.com/international/article-913427",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Polish president holds crisis talks in court standoff",
+          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "germany-gen-z-protests-arrests",
+      "threadId": "europe-cost-of-living-protests",
+      "threadTitle": "Europe's cost-of-living protests",
+      "threadSummary": "Protests across Europe over living costs, public services and government economic policy.",
+      "section": "more",
+      "title": "More than 200 detained after Germany’s youth marches end in looting and clashes in Frankfurt, Hamburg and Berlin",
+      "category": "Protest",
+      "region": "Europe · Germany",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-31 / 2026-11-01",
+      "whatChanged": "Mostly peaceful daytime marches against cuts and conscription were followed by night-time violence, and ministers blamed far-left groups and people from migrant backgrounds.",
+      "body": "Organisers said about 120,000 people joined the Gen Z regelt marches in 34 cities on Saturday, while police in Frankfurt, Munich and Berlin counted up to 18,000 in those cities. After dark, hooded groups looted shops in Frankfurt and threw firebombs at police, and barricades burned in Hamburg; Hesse police said more than 100 officers were hurt in Frankfurt, and police reported more than 200 arrests nationwide. Interior Minister Alexander Dobrindt blamed violent leftists and troublemakers from migrant communities, drawing criticism from the Greens and the Left. Organisers rejected the violence and called new marches for November 14.",
+      "sources": [
+        {
+          "publisher": "Yahoo News (Reuters)",
+          "title": "Rioters loot stores in Frankfurt as Gen Z-led protests in Germany turn violent",
+          "url": "https://www.yahoo.com/news/articles/gen-z-protests-reach-germany-000319778.html",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Latin Times",
+          "title": "Germany's Gen Z protests drew 120,000 people—then nighttime violence, looting and more than 200 arrests overshadowed the movement's demands",
+          "url": "https://www.latintimes.com/germany-gen-z-protests-violence-arrests-600750",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Seoul Economic Daily",
+          "title": "'Gen Z' Protests Reach Germany as Minister Blames Far Left, Migrants",
+          "url": "https://en.sedaily.com/international/2026/11/02/gen-z-protests-reach-germany-as-minister-blames-far-left",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "israel-opposition-knesset-speaker",
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel's first general election since the October 7 attacks, a contest between Benjamin Netanyahu's bloc and challengers led by former army chief Gadi Eisenkot.",
+      "section": "more",
+      "title": "Israel’s anti-Netanyahu parties plan to use their Knesset majority first, starting with the speaker’s chair",
+      "category": "Politics",
+      "region": "Middle East · Israel",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-31 / 2026-11-01",
+      "whatChanged": "Parties opposed to Netanyahu, which hold a majority of seats but no agreed government, are moving to take control of parliament itself.",
+      "body": "Gadi Eisenkot said on Saturday he would quickly use the parliamentary majority won by parties opposed to Benjamin Netanyahu to push for a state inquiry into the October 7 attack, national service for all Israelis and repeal of the judicial overhaul laws. Israeli media reported plans to replace Speaker Amir Ohana of Likud when the new Knesset is sworn in on November 10. The anti-Netanyahu parties hold 67 of 120 seats, 19 of them from two Arab parties, against 53 for Netanyahu’s bloc; President Isaac Herzog begins consultations on Wednesday.",
+      "sources": [
+        {
+          "publisher": "The Times of Israel",
+          "title": "Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’",
+          "url": "https://www.timesofisrael.com/eisenkot-vows-to-swiftly-utilize-knesset-majority-against-oct-7-government/",
+          "publishedAt": "2026-10-31",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 2, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "rsf-commander-defects-nepotism",
+      "threadId": "sudan-war-humanitarian-crisis",
+      "threadTitle": "Sudan's war and humanitarian crisis",
+      "threadSummary": "The war between Sudan’s army and the Rapid Support Forces since April 2023, and the famine and displacement it has caused.",
+      "section": "more",
+      "title": "A senior commander quits Sudan’s Rapid Support Forces, accusing its leader’s family of running the group",
+      "category": "Conflict",
+      "region": "Africa · Sudan",
+      "regions": [
+        "africa"
+      ],
+      "status": "This week",
+      "eventDate": "2026-10-31",
+      "whatChanged": "Another senior figure has broken publicly with the paramilitary force, adding to a string of defections this year.",
+      "body": "Siddiq Ander said in footage published by Al Jazeera on Friday that he had left the Rapid Support Forces, accusing relatives of its leader, Mohamed Hamdan Dagalo, known as Hemedti, of controlling the group’s money, weapons, troop movements and promotions, and saying critics face expulsion, prison or death. Al Jazeera listed at least four other commanders who have left since April, some joining the army. The war has displaced about 13 million people, and the UN says drone strikes are now the leading cause of civilian deaths.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "RSF senior commander defects, accusing Sudan group’s leadership of nepotism",
+          "url": "https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism",
+          "publishedAt": "2026-10-31",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "myanmar-airstrikes-rakhine-karenni",
+      "threadId": "myanmar-civil-war",
+      "threadTitle": "Myanmar’s civil war",
+      "threadSummary": "The war between Myanmar’s military government and armed opposition groups that intensified after the military seized power in February 2021.",
+      "section": "more",
+      "title": "Myanmar’s military airstrikes kill at least 15 civilians, including an infant, in Rakhine and Karenni states",
+      "category": "Conflict",
+      "region": "Asia · Myanmar",
+      "regions": [
+        "asia"
+      ],
+      "status": "This week",
+      "eventDate": "2026-10-31 / 2026-11-01",
+      "whatChanged": "Air raids on homes and a maternity facility on Sunday came a day after a strike on a school killed three children.",
+      "body": "Military aircraft bombed four townships on Sunday, including Kyauktaw and Mrauk-U, killing at least 15 civilians and injuring at least 32, Anadolu reported, citing local media; the independent outlet The Irrawaddy said 12 of the dead were in Rakhine State. On Saturday a strike on a school in Loikaw township in Karenni State killed three children who had gathered for a nutrition programme during a holiday.",
+      "sources": [
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Myanmar military airstrikes kill at least 15 civilians, including 12 in Rakhine State: Report",
+          "url": "https://www.aa.com.tr/en/asia-pacific/myanmar-military-airstrikes-kill-at-least-15-civilians-including-12-in-rakhine-state-report/4108750",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "new-york-chatbot-minors-law",
+      "threadId": "ai-accountability",
+      "threadTitle": "AI and the law",
+      "threadSummary": "Investigations, lawsuits and rules testing who answers for harm caused by AI systems.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "New York bars chatbots from posing as humans or friends to children, in one of the broadest US limits yet",
+      "category": "Child safety law",
+      "region": "North America · New York",
+      "regions": [],
+      "status": "This week",
+      "eventDate": "2026-10-28",
+      "hook": "It goes further than most state rules by banning companion-style features for minors outright and requiring age checks, but critics already say its wording is vague.",
+      "body": "Governor Kathy Hochul signed a law on Wednesday that bars companies from offering children chatbot features that pretend to be human or to have feelings, claim a personal, romantic or authority relationship, ask unprompted emotional questions or reuse a child’s private details from earlier chats. Bots must not encourage self-harm, eating disorders, drug use or secrecy from parents. Companies must verify ages with more than one method and apply the limits to anyone not confirmed as an adult. The attorney general can seek $25,000 per violation.",
+      "whatChanged": "New York moved from warnings about AI companions to a ban on specific chatbot behaviours toward minors, backed by mandatory age checks and fines.",
+      "whyMatters": "Chatbots that act as friends or partners have been linked in lawsuits to harm to teenagers; a large state requiring age checks and design limits may push companies to change products nationwide rather than build a New York version.",
+      "uncertainty": "The governor’s office said only that the features would be blocked in the coming months, industry group Tech:NYC called the language vague, and how age checks will work in practice is not yet clear.",
+      "watchNext": "The attorney general’s rules and complaint website, any legal challenge from industry, and whether other states copy the age-check requirement.",
+      "keyFacts": [
+        "The bill numbers are S.9051B and A.10379C, signed on October 28, 2026",
+        "Age checks must offer at least one method that does not rely only on a government ID",
+        "Age data must be deleted after use",
+        "The attorney general can seek civil penalties of up to $25,000 per violation",
+        "Common Sense Media called it the strongest children’s AI safety bill in the country"
+      ],
+      "report": [
+        {
+          "heading": "What the law bans",
+          "paragraphs": [
+            "The law covers companies that offer AI chatbot features. For users under 18 they may not provide features that claim to be human or to have human emotions, describe a personal, romantic, professional or authority relationship with the child, or present answers as personal opinion. They also may not ask unprompted emotional questions, draw on private information from earlier conversations, encourage suicide, self-harm, eating disorders or drug and alcohol use, push a child toward secrecy or isolation from parents, or produce sexually explicit material.",
+            "The same limits apply to any user whose age the company has not confirmed as adult, which in effect makes age checking a condition of offering companion-style features in the state. Companies must offer more than one way to verify age, at least one not based solely on a government ID, and delete the age information afterwards."
+          ]
+        },
+        {
+          "heading": "Enforcement and reaction",
+          "paragraphs": [
+            "The attorney general can seek fines of up to $25,000 per violation as well as damages, restitution, injunctions and the destruction of unlawfully collected data or of models trained on it, and must run a public complaints website. Hochul said children would no longer have access to chatbots posing as friends or romantic partners. Common Sense Media praised the law, while Tech:NYC criticised its vague language. OpenAI and Anthropic did not respond to AFP’s requests for comment. California and other states have passed narrower chatbot rules."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "LongIsland.com (New York governor’s office release)",
+          "title": "Governor Hochul Signs Nation-leading Legislation To Protect Kids From AI Chatbots And To Ensure Baby Monitor Safety",
+          "url": "https://www.longisland.com/news/10-28-26/governor-hochul-signs-nation-leading-legislation-to-protect-kids-from-ai-chatbots-and-to-ensure-baby-monitor-safety.html",
+          "publishedAt": "2026-10-28",
+          "kind": "Primary"
+        },
+        {
+          "publisher": "Khaleej Times (AFP)",
+          "title": "New York passes law restricting minors’ use of AI chatbots",
+          "url": "https://www.khaleejtimes.com/business/tech/new-york-passes-law-restricting-minors-use-ai-chatbots",
+          "publishedAt": "2026-10-29",
+          "kind": "Reporting"
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-02/new-york-chatbot-minors-law.svg",
+        "alt": "A phone screen showing a chat bubble, with a closed copper gate across the middle of the screen, standing for companion chatbot features blocked for children.",
+        "credit": "Editorial illustration"
+      }
+    },
+    {
+      "id": "anthropic-claude-drug-programs",
+      "threadId": "ai-and-research",
+      "threadTitle": "AI & scientific research",
+      "threadSummary": "How AI systems are being used to produce and check scientific and mathematical results.",
+      "section": "frontiers",
+      "field": "Medicine",
+      "title": "Anthropic reports early lab results from drug projects designed with Claude, none yet tested in people",
+      "category": "AI drug discovery",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-10-27",
+      "hook": "The partner-reported lab results suggest AI can speed early design work, but this is preclinical evidence from the company and its partners, not proof of better medicines.",
+      "body": "Anthropic published results from six partnerships in which scientists used its Claude models in drug development. With Generate Biomedicines, a CAR T-cell receptor design about 70% shorter than usual produced roughly ten times as many receptors in lab tests. Divergence Labs generated about 35,000 antibody designs in a month for food allergy, and Enveda said Claude caught all 11 problems human reviewers found in manufacturing documents, plus seven they missed. Anthropic said a muscular dystrophy candidate from a company it acquired reached promising results in mice.",
+      "whatChanged": "An AI developer has put numbers on specific laboratory outcomes from AI-designed drug candidates, rather than describing the potential in general terms.",
+      "whyMatters": "Drug discovery is slow and expensive at the design and paperwork stages; if results like these hold up, small teams could test more candidates faster, though most drug candidates fail later in human trials.",
+      "uncertainty": "All results come from Anthropic and its partners, which have a commercial interest in them; the page does not say they have been peer reviewed, at least one partner report is a preprint, and nothing has yet been tested in humans.",
+      "watchNext": "Independent replication or peer-reviewed versions of the partner reports, and Anthropic’s stated aim of human trials for the muscular dystrophy candidate as soon as late 2028.",
+      "keyFacts": [
+        "Six partners: Generate Biomedicines, Divergence Labs, BigHat Biosciences, Enveda, The Column Group and Bristol Myers Squibb",
+        "Generate’s receptor design was about 70% shorter and gave roughly ten times more receptors in lab tests",
+        "Enveda reported human review time on 1,061 pages fell by 89%, from over 25 hours to under three",
+        "BigHat made and tested about 1,010 antibody variants over about ten weeks",
+        "None of the drug candidates has been tested in people"
+      ],
+      "report": [
+        {
+          "heading": "What the partners reported",
+          "paragraphs": [
+            "At Generate Biomedicines, six scientists used Claude Code to redesign part of a CAR T-cell receptor; one version about 70% shorter gave roughly ten times as many receptors on cells, killed tumour cells more efficiently and stayed active longer in laboratory tests. At Divergence Labs, which works on food allergies, Claude produced about 35,000 antibody designs in roughly a month; 20 could dislodge the IgE antibody behind allergic reactions, and three appeared to beat the standard medicine at that step.",
+            "BigHat Biosciences made and tested about 1,010 variants of two antibody leads that Claude proposed over about ten weeks, reporting more than tenfold tighter binding in the best versions. Enveda said Claude found all 11 issues human reviewers caught in 1,061 pages of manufacturing documents and seven they missed, and drafted a regulatory document in four hours instead of about three months, with one minor error found on review."
+          ]
+        },
+        {
+          "heading": "Anthropic’s own programme",
+          "paragraphs": [
+            "Anthropic said it acquired Mithril Medicine, a one-person company developing treatments for two rare muscular dystrophies, where Claude helped coordinate work with 11 outside laboratories and a candidate went from idea to promising mouse results in under 18 months. It said a drug could be ready for human trials as soon as late 2028 if results hold. The Column Group is forming a company to run several drug programmes with a small team, and Bristol Myers Squibb is using Claude to assess trial plans for an early-stage drug."
+          ]
+        },
+        {
+          "heading": "The limits",
+          "paragraphs": [
+            "Anthropic describes the work as early and mostly preclinical and says some projects may not succeed. The results are reported by the company and its partners; Anthropic links to their technical reports but does not say they have been peer reviewed. The Signal is produced with Claude, an Anthropic model; we have reported these claims as the company’s own and applied the same standard we use for any company announcement."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Anthropic",
+          "title": "Early progress on accelerating drug development with Claude",
+          "url": "https://anthropic.com/research/early-progress-drug-development",
+          "publishedAt": "2026-10-27",
+          "kind": "Company announcement"
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-02/anthropic-claude-drug-programs.svg",
+        "alt": "A Y-shaped antibody, its tips in copper, above a laboratory well plate with one well highlighted, standing for antibody designs made with AI and tested in the lab.",
+        "credit": "Editorial illustration"
+      }
+    },
+    {
+      "id": "deepseek-super-agent-prototype",
+      "threadId": "ai-in-software",
+      "threadTitle": "AI in software development",
+      "threadSummary": "How AI tools are changing the way software is written, reviewed and shipped.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "DeepSeek releases an open-source coding agent that offers fixes before developers ask",
+      "category": "Coding agents",
+      "region": "Asia · China",
+      "regions": [],
+      "status": "This week",
+      "eventDate": "2026-10-31",
+      "hook": "A modest step: an open prototype that shifts coding assistants from answering requests to volunteering fixes, with no independent tests yet.",
+      "body": "Chinese AI developer DeepSeek released a prototype called Super-Agent on Saturday, describing it as a coding agent that follows developers’ group conversations, spots software problems and proposes fixes without waiting to be asked. The company’s agent team announced it on WeChat and published it as open-source software, so developers can inspect and test it. Reports framed it as a challenge to Anthropic’s Claude Code. DeepSeek said its goal was to need as little of users’ attention as possible while delivering as much value as possible. No independent evaluations had been published.",
+      "whatChanged": "DeepSeek, best known for low-cost open models, has released its first agent built to act on its own initiative inside a development team.",
+      "whyMatters": "Coding agents are among the most commercially important uses of AI, and an open release from a Chinese lab puts pressure on paid American tools while letting outsiders examine how such an agent works.",
+      "uncertainty": "There are no published benchmarks or independent tests, reports did not name a licence or repository, and an agent that watches team conversations raises questions about privacy and unwanted changes that DeepSeek has not addressed.",
+      "watchNext": "Independent trials of the prototype, details of its licence and safeguards, and whether DeepSeek turns it into a product ahead of its reported stock market listing.",
+      "keyFacts": [
+        "Announced on October 31, 2026 by DeepSeek’s agent team on WeChat",
+        "Released as an open-source prototype",
+        "Designed to monitor developer group chats and propose fixes unprompted",
+        "DeepSeek reportedly raised about 100 billion yuan, roughly $15 billion, ahead of a planned listing"
+      ],
+      "report": [
+        {
+          "heading": "What DeepSeek released",
+          "paragraphs": [
+            "According to the announcement by DeepSeek’s Harness team on WeChat, reported by Investing.com and Convergence Now, Super-Agent is meant to work more independently than today’s coding assistants: instead of waiting for instructions, it monitors group conversations among software developers, identifies coding problems as they come up and suggests solutions. The prototype was published as open-source software so developers can examine how it works and experiment with it. The company formed the Harness team earlier specifically to build agents. Other reports, citing DeepSeek material, described a related coding agent offered through a web interface and a developer API with token-based pricing, and said a technical paper on its training and benchmarks was released but has not yet been peer reviewed."
+          ]
+        },
+        {
+          "heading": "Context and limits",
+          "paragraphs": [
+            "The release was widely presented as aimed at Anthropic’s Claude Code, which has become one of the most used AI coding tools. DeepSeek has reportedly raised about 100 billion yuan in its latest funding round ahead of a planned stock market listing. Convergence Now noted that Super-Agent’s practical capabilities remain to be established, and neither report cited benchmark results, a licence or a download location. Tools that act without being asked also raise practical questions, such as how they handle private team discussions and how developers stop unwanted changes, which the announcement did not address in the reports we reviewed."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Investing.com",
+          "title": "DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code",
+          "url": "https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Convergence Now",
+          "title": "DeepSeek Launches Autonomous AI Coding Agent to Rival Anthropic’s Claude Code",
+          "url": "https://www.convergence-now.com/artificial-intelligence/deepseek-launches-autonomous-ai-coding-agent-to-rival-anthropics-claude-code/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "AI for Developing Countries Forum (Emergent)",
+          "title": "DeepSeek Launches Enhanced Coding Agent to Challenge Anthropic",
+          "url": "https://af.net/realtime/deepseek-launches-enhanced-coding-agent-to-challenge-anthropic/",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-02/deepseek-super-agent-prototype.svg",
+        "alt": "Three chat bubbles from a developer conversation on the left, joined by a dotted copper line to a code window on the right with a copper wrench over it, standing for an agent that reads team chats and proposes code fixes.",
+        "credit": "Editorial illustration"
+      }
+    },
+    {
+      "id": "gaza-strikes-police-ceasefire-year",
+      "threadId": "gaza-humanitarian",
+      "threadTitle": "Gaza's humanitarian situation",
+      "threadSummary": "Conditions in Gaza after the October 2025 ceasefire, and the dispute over Israel’s conduct there.",
+      "section": "still",
+      "title": "Israeli strikes kill at least eight in Gaza, including five police officers, a year into the ceasefire",
+      "category": "Conflict",
+      "region": "Middle East · Gaza",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-01",
+      "body": "An Israeli strike in al-Mawasi near Khan Younis killed five police officers on Sunday, Gaza’s interior ministry said, and a drone strike in Gaza City’s Rimal district killed three people, among them a four-year-old boy, according to hospital sources. Israel’s military said it struck militants in Khan Younis. Gaza health officials say more than 1,500 Palestinians have been killed since the US-brokered ceasefire took effect in October 2025; Israel says four of its soldiers have been killed in that time.",
+      "whatChanged": "Sunday’s strikes were among the deadliest in recent days, as Israel says it has stepped up attacks on Hamas for violating the truce.",
+      "whyMatters": "Nearly all of Gaza’s more than 2 million people are crowded into the third of the territory not held by Israeli troops, and with no agreement on disarmament or withdrawal, reconstruction has barely begun.",
+      "uncertainty": "Israel says Hamas is rearming and attacking; Hamas denies it and accuses Israel of undermining the deal. The identities of those targeted in Khan Younis are disputed.",
+      "watchNext": "Whether talks on Hamas disarmament and Israeli withdrawal resume, and how Israel’s next government, still being negotiated, approaches the ceasefire.",
+      "keyFacts": [
+        "At least eight people were killed in Gaza on November 1, including five police officers, medics said",
+        "More than 1,500 Palestinians killed since the October 2025 ceasefire, per Gaza health officials",
+        "Israel says four of its soldiers have been killed in the same period",
+        "Israeli troops control about two-thirds of the territory",
+        "Gaza’s health ministry counts at least 74,594 Palestinians killed since October 2023"
+      ],
+      "report": [
+        {
+          "heading": "Sunday’s strikes",
+          "paragraphs": [
+            "Gaza’s Hamas-run interior ministry said five police officers were killed in a strike in western Khan Younis while carrying out their duties; Israel’s military told AFP it targeted a terrorist in southern Gaza and told Reuters it struck several militants there. In Gaza City, medics said three people were killed in an airstrike in the Rimal district, including a four-year-old boy, and a further person died of wounds from an earlier attack. Hamas called the strikes a deliberate war crime."
+          ]
+        },
+        {
+          "heading": "A ceasefire under strain",
+          "paragraphs": [
+            "Israel says Hamas has been rearming and launching attacks in breach of the ceasefire and has stepped up strikes on the group in recent weeks; Hamas denies this. The deal envisaged reconstruction, but negotiators have not agreed terms for Hamas to disarm or for Israeli troops to withdraw. Israel controls about two-thirds of Gaza and has ordered residents out of that area, leaving nearly all of the population in the remaining third under effective Hamas control. Palestinian health authorities say more than 74,000 people have been killed since the war began after the Hamas-led attack of October 7, 2023, which killed about 1,200 people in Israel.",
+            "The violence comes as Israel’s own politics are in flux after an inconclusive election, with parties opposed to Benjamin Netanyahu holding a majority of seats but no agreed government, and as Washington weighs whether to resume strikes on Iran."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al-Monitor (Reuters)",
+          "title": "Israeli strikes kill eight people in Gaza, medics say",
+          "url": "https://www.al-monitor.com/originals/2026/11/israeli-strikes-kill-eight-people-gaza-medics-say",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’",
+          "url": "https://www.timesofisrael.com/eisenkot-vows-to-swiftly-utilize-knesset-majority-against-oct-7-government/",
+          "publishedAt": "2026-10-31",
+          "kind": "Reporting"
+        }
+      ]
+    }
+  ],
+  "watch": [
+    {
+      "title": "Election day, then Iran",
+      "text": "Americans vote on Tuesday, November 3. Watch the Senate toss-ups and, in the days after, whether Washington returns to Doha or resumes strikes on Iran."
+    },
+    {
+      "title": "US Ebola entry rule",
+      "text": "From 11:59 p.m. Eastern on Tuesday, November 3, everyone flying to the United States must declare they have not been in Congo in the past 21 days."
+    },
+    {
+      "title": "Israel’s next government",
+      "text": "President Isaac Herzog begins consultations with the parties on Wednesday, November 4, and the new Knesset is sworn in on November 10, when the opposition plans to replace the speaker."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Americans vote in the midterm elections on Tuesday after more than 50 million early ballots, a judge threw out the Justice Department’s Alaska ballot suit, and Washington weighs talks or new strikes on Iran.",
+      "briefs": [
+        {
+          "title": "Senator Chris Murphy recovering after a stroke",
+          "text": "Connecticut’s Democratic senator Chris Murphy had a stroke on Saturday after noticing numbness in his arm at his son’s hockey game, his office said. He was taken to a local hospital and then moved to Johns Hopkins for monitoring. His chief of staff said he was awake, alert and responding well, and that doctors expect a full recovery.",
+          "eventDate": "2026-10-31 / 2026-11-01",
+          "sources": [
+            {
+              "publisher": "NBC Connecticut",
+              "title": "U.S. Senator Chris Murphy hospitalized after suffering a stroke",
+              "url": "https://www.nbcconnecticut.com/news/politics/u-s-senator-chris-murphy-hospitalized-after-suffering-a-stroke/3790978/",
+              "publishedAt": "2026-11-01",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "No new development from the last 48 hours in Latin America cleared our verification bar for this edition; Brazil’s post-election dispute and Venezuela’s transition remain on our list of continuing stories.",
+      "briefs": []
+    },
+    "europe": {
+      "summary": "Russia hit Ukraine’s power grid as a local truce ended, Bulgaria elected a president who opposes more aid to Kyiv, Poland’s opposition moved against Tusk’s government, and youth marches in Germany ended in rioting.",
+      "briefs": [
+        {
+          "title": "Hackers send false nuclear alerts through Ukrainian and Russian emergency apps",
+          "text": "Ukraine’s nationwide air raid app sent fake warnings on Sunday of nuclear and chemical threats around Kyiv and of possible street fighting; the air force said there was no radiation threat and blamed Russian interference. Early on Monday Russia’s Emergencies Ministry said its own app had suffered a massive cyberattack, with users told that nuclear warheads had been launched across all regions. The ministry said the public alert system itself was not affected, and no one had claimed responsibility in the reports we reviewed.",
+          "eventDate": "2026-11-01 / 2026-11-02",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+              "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings",
+              "publishedAt": "2026-11-02",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Meduza",
+              "title": "Emergency alert apps hacked in Russia and Ukraine, sending false warnings of nuclear threats",
+              "url": "https://meduza.io/en/news/2026/11/02/emergency-alert-apps-hacked-in-russia-and-ukraine-sending-false-warnings-of-nuclear-threats",
+              "publishedAt": "2026-11-02",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "The UN’s Western Sahara mission ended after Russia vetoed a US plan, Congo’s Ebola death rate rose above half after a recount, and another commander quit Sudan’s Rapid Support Forces.",
+      "briefs": [
+        {
+          "title": "UN political mission in Somalia closes after three decades of engagement",
+          "text": "The UN Transitional Assistance Mission in Somalia ended operations on Saturday after a two-year handover that Somalia’s government requested in 2024, its duties passing to Somali institutions and other UN bodies. Deputy Prime Minister Saleh Ahmed Jama called it a day of victory. Opposition leaders reject the government’s view that the president and parliament can stay in office until 2027, no replacement for the mission’s mediation role has been agreed, and al-Shabab is still fighting government forces.",
+          "eventDate": "2026-10-31",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "UN closes Somalia mission, ending three decades of political engagement",
+              "url": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement",
+              "publishedAt": "2026-10-31",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Iran’s negotiators left Doha with a draft deal circulating as Trump weighed strikes after the US vote, Israeli strikes killed eight in Gaza, and Israel’s opposition planned to take the Knesset speakership.",
+      "briefs": [
+        {
+          "title": "Saudi-led coalition strikes Houthi missile and drone resources",
+          "text": "The Saudi-led coalition said on Sunday it carried out an operation to neutralise resources the Houthis use for ballistic missiles and drones, without naming targets; Houthi-aligned media said strikes hit around Hodeidah, including the Ras Issa fuel terminal. The coalition later said it intercepted a Houthi ballistic missile and a drone aimed at southern Saudi Arabia, after emergency alerts in Abha and Khamis Mushait were lifted. The International Organization for Migration says more than 300,000 people have fled fighting in western Yemen, almost all in the past two months.",
+          "eventDate": "2026-11-01",
+          "sources": [
+            {
+              "publisher": "The Express Tribune (agencies)",
+              "title": "Saudi strikes target Houthi ‘resources’",
+              "url": "https://tribune.com.pk/story/2638174/saudi-strikes-target-houthi-resources",
+              "publishedAt": "2026-11-02",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "aNews (Anadolu)",
+              "title": "Saudi-led coalition intercepts Houthi missile, drone targeting kingdom",
+              "url": "https://www.anews.com.tr/middle-east/2026/11/01/saudi-led-coalition-intercepts-houthi-missile-drone-targeting-kingdom",
+              "publishedAt": "2026-11-01",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "Myanmar’s military airstrikes killed at least 15 civilians in Rakhine and Karenni states, and China’s DeepSeek released an open-source coding agent.",
+      "briefs": []
+    },
+    "oceania": {
+      "summary": "Fiji’s prime minister has put off the final vote on his constitution bill after coalition partners turned against it.",
+      "briefs": [
+        {
+          "title": "Fiji delays the final vote on its constitution bill",
+          "text": "Parliament agreed on Monday to defer the special committee’s report on the Constitution Amendment Bill, delaying its third reading after the National Federation Party and SODELPA, both coalition partners, objected. Prime Minister Sitiveni Rabuka said more time was needed for public submissions and that a revised bill would be tabled on November 30 and debated into early December, with enough time left for the referendum and a general election, which must be held by February 6, 2027. The bill needs at least 36 votes in the 53-seat parliament.",
+          "eventDate": "2026-11-02",
+          "sources": [
+            {
+              "publisher": "Asia Pacific Report (RNZ Pacific)",
+              "title": "Fiji PM Rabuka delays vote on Constitution Bill after mounting pressure",
+              "url": "https://asiapacificreport.nz/2026/11/02/fiji-pm-rabuka-delays-vote-on-constitution-bill-after-mounting-pressure/",
+              "publishedAt": "2026-11-02",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "FBC News",
+              "title": "Rabuka assures election timeline intact",
+              "url": "https://www.fbcnews.com.fj/news/rabuka-assures-election-timeline-intact/",
+              "publishedAt": "2026-11-02",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

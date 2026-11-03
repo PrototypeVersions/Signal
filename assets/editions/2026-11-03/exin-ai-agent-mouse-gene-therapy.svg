@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A mechanical arm holding a thin needle above the outline of a mouse, beside a copper emergency stop button">
+  <rect width="800" height="500" fill="#09131d"/>
+  <rect x="60" y="420" width="560" height="14" rx="7" fill="#3b5266"/>
+  <path d="M170 410 C170 330 250 300 330 300 C400 300 450 330 470 360 C490 345 520 345 530 365 C535 380 520 395 500 398 L480 410 Z" fill="#12263a" stroke="#d6e6f2" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="497" cy="372" r="6" fill="#d6e6f2"/>
+  <ellipse cx="455" cy="330" rx="20" ry="28" fill="#12263a" stroke="#d6e6f2" stroke-width="5"/>
+  <path d="M170 400 C120 400 100 380 80 350" fill="none" stroke="#d6e6f2" stroke-width="5" stroke-linecap="round"/>
+  <g fill="none" stroke="#d6e6f2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 60 L150 110 L340 110 L420 170"/>
+  </g>
+  <circle cx="150" cy="110" r="14" fill="#12263a" stroke="#d6e6f2" stroke-width="6"/>
+  <circle cx="340" cy="110" r="14" fill="#12263a" stroke="#d6e6f2" stroke-width="6"/>
+  <rect x="400" y="160" width="40" height="70" rx="8" fill="#12263a" stroke="#d6e6f2" stroke-width="6"/>
+  <line x1="420" y1="230" x2="420" y2="300" stroke="#c8865a" stroke-width="4"/>
+  <circle cx="420" cy="306" r="4" fill="#c8865a"/>
+  <rect x="640" y="300" width="110" height="120" rx="12" fill="#12263a" stroke="#d6e6f2" stroke-width="6"/>
+  <circle cx="695" cy="345" r="34" fill="#c8865a"/>
+  <circle cx="695" cy="345" r="22" fill="none" stroke="#09131d" stroke-width="5"/>
+  <line x1="695" y1="390" x2="695" y2="420" stroke="#d6e6f2" stroke-width="6"/>
+</svg>

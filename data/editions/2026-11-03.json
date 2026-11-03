@@ -1,0 +1,1061 @@
+{
+  "date": "2026-11-03",
+  "number": 17,
+  "cutoff": "2026-11-03T12:40:00Z",
+  "cutoffLabel": "6:40 AM CT",
+  "opening": "Americans vote for control of Congress after the Supreme Court declined to sideline California mail ballots. US forces struck Iran’s Qeshm Island as talks went on, a Russian bombing killed 26 at a Ukrainian aid point, Belgium’s prime minister offered to resign and Bolivia declared an El Niño emergency.",
+  "leadStoryId": "us-midterms-election-day-senate-house",
+  "stories": [
+    {
+      "id": "us-midterms-election-day-senate-house",
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 3, 2026 US congressional elections and the legal fights over how they are run.",
+      "section": "world",
+      "title": "Americans vote for control of Congress, after the Supreme Court refuses to sideline 20,000 California mail ballots",
+      "category": "Elections",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-02 / 2026-11-03",
+      "body": "Polls open across the United States on Tuesday for elections to all 435 House seats, 35 Senate seats and 36 governorships, with more than 57 million votes already cast early, according to the University of Florida. Republicans hold the Senate 53 to 47 and a narrow House majority. On Monday the Supreme Court, in a one-line unsigned order, turned down the Trump administration’s request to make California set aside about 20,000 mail ballots from people it says are likely not citizens.",
+      "whatChanged": "Voting has moved from the early-ballot phase to election day itself, and the last federal attempt to hold back ballots before the count failed at the Supreme Court.",
+      "whyMatters": "The result decides whether President Trump keeps a Republican Congress for his final two years or faces Democratic majorities able to block legislation and open investigations, at a time when the Iran war, inflation and the conduct of elections are all in dispute.",
+      "uncertainty": "Several Senate races are within the margin of error, final polls have missed before, and close contests, mail ballots and Alaska’s ranked-choice count may delay results for days.",
+      "watchNext": "Early returns from Kentucky, Indiana and Georgia after 6 and 7 p.m. Eastern, the Senate races in Texas, Maine, Michigan, Ohio, Iowa and Alaska, and any legal challenges to the count.",
+      "keyFacts": [
+        "More than 57 million early votes, per the University of Florida, by election day",
+        "Republicans hold the Senate 53–47; Democrats need a net gain of four seats for a majority",
+        "The House stands at 218 Republicans plus one allied independent, 214 Democrats and two vacancies, per CBS News",
+        "The Supreme Court denied the California ballot request on November 2 with no public dissent",
+        "Polls close from 6 p.m. Eastern in parts of Kentucky and Indiana to 1 a.m. Eastern in parts of Alaska"
+      ],
+      "report": [
+        {
+          "heading": "What is on the ballot",
+          "paragraphs": [
+            "Every House seat, 35 Senate seats and 36 governorships are being contested, along with about 145 statewide ballot measures, including proposals on abortion rights in Missouri, Idaho, Virginia and Nevada, voter identification rules in about a dozen states and a one-time wealth tax on California billionaires. Republicans hold 53 Senate seats, so Democrats need to gain four to take control; a 50–50 Senate would leave Vice President JD Vance with the deciding vote.",
+            "CBS News counts 47 battleground House districts, 20 held by Democrats and 27 by Republicans. Its estimate in late October put Democrats on course for about 229 seats, within a range wide enough at the low end to leave Republicans in charge. Republicans are defending competitive Senate seats in Alaska, Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas; Democrats are defending Georgia, Michigan and New Hampshire."
+          ]
+        },
+        {
+          "heading": "The final polls",
+          "paragraphs": [
+            "A Yahoo News review of the final surveys found Democrats about nine points ahead on the generic ballot in Nate Silver’s average, a larger lead than they held before their 2018 gains, and final New York Times/Siena polls showing Democratic candidates ahead in Maine, Michigan, Ohio, Texas and Kansas, with Alaska, Iowa and South Carolina close. About 59 percent of Americans disapprove of Trump’s performance in the Silver Bulletin average. Polls have been wrong before, and Republican redistricting in several Southern states may limit Democratic gains in the House."
+          ]
+        },
+        {
+          "heading": "The last court fight",
+          "paragraphs": [
+            "The Justice Department had asked the justices to require California to segregate the mail ballots of about 20,000 people it flagged as likely noncitizens until their citizenship was checked. A district judge, David Carter, had refused, calling the identification process full of errors, and a divided Ninth Circuit panel upheld him. The Supreme Court denied the request without asking California to respond. A Justice Department lawyer had conceded a high error rate in the list. Governor Gavin Newsom wrote that democracy had won; the administration had described the request as modest."
+          ]
+        },
+        {
+          "heading": "When results come",
+          "paragraphs": [
+            "The first polls close at 6 p.m. Eastern in parts of Kentucky and Indiana, with Georgia, Virginia and South Carolina following at 7 p.m. California and Washington close at 11 p.m. Eastern and the last Alaska polls at 1 a.m. Eastern on Wednesday. States that count mail ballots slowly, and Alaska’s ranked-choice system, may leave some races uncalled for days."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "The Senate before the vote",
+        "measure": "Senate seats held going into November 3, 2026",
+        "unit": "seats",
+        "values": [
+          {
+            "label": "Republicans",
+            "value": 53
+          },
+          {
+            "label": "Democrats",
+            "value": 47
+          }
+        ],
+        "alt": "Bar chart of the Senate before the midterm election: Republicans 53 seats, Democrats 47. Democrats need 51 seats for a majority.",
+        "caption": "CBS News figures; the Democratic total includes allied independents. 51 seats are needed for a Democratic majority, while 50 keep Republicans in control with the vice president’s vote",
+        "sourceUrl": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+      },
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "title": "2026 elections live updates on final day of midterm voting to determine Senate and House control",
+          "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Supreme Court rejects Trump's effort to force California to separate mail ballots from alleged noncitizens",
+          "url": "https://www.cbsnews.com/news/supreme-court-rejects-trump-california-mail-ballots-alleged-noncitizens/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "OPB (Associated Press)",
+          "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+          "url": "https://www.opb.org/article/2026/11/02/supreme-court-rejects-trump-administration-push-to-set-aside-thousands-of-california-ballots/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Fox News",
+          "title": "Everything to know about House and Senate control, ballot measures and 2026 Election Day poll closing",
+          "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Yahoo News",
+          "title": "The 2026 midterms are tomorrow and the final polls are here. Which party has a better chance of winning?",
+          "url": "https://www.yahoo.com/news/politics/article/the-2026-midterms-are-tomorrow-and-the-final-polls-are-here-which-party-has-a-better-chance-of-winning-150348522.html",
+          "publishedAt": "2026-11-02",
+          "kind": "Analysis"
+        }
+      ]
+    },
+    {
+      "id": "us-strikes-qeshm-island-talks",
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes.",
+      "section": "world",
+      "title": "The United States strikes Iran’s Qeshm Island in what officials call a limited, defensive raid, hours after Vance voiced hope for a deal",
+      "category": "War and diplomacy",
+      "region": "Middle East · Iran",
+      "regions": [
+        "middle-east",
+        "north-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-02 / 2026-11-03",
+      "body": "Explosions were reported on Iran’s Qeshm Island in the Strait of Hormuz late on Monday after US forces struck what an American official described as Iranians using surface-to-air missiles against US assets. Iran’s Revolutionary Guards said earlier that they had downed a US drone east of the strait. It was the first US attack on the island since June. Hours before, Vice President JD Vance said he and President Trump felt good about a settlement, and Qatari mediators returned to Tehran with a draft.",
+      "whatChanged": "Despite Trump’s pledge of no new attacks before the election, US forces carried out their first known strike on Iranian territory in about two months, while talks on a draft deal continued.",
+      "whyMatters": "A limited exchange in the Strait of Hormuz, through which much of the world’s oil passes, could either stay contained while diplomacy runs or become the trigger for the wider strikes Israel is pressing for after the vote.",
+      "uncertainty": "The targets, damage and any casualties have not been disclosed, Iran had not announced a military response in the reports we reviewed, and the contents of the draft deal remain secret.",
+      "watchNext": "Iran’s response, the outcome of the Qatari mediators’ talks with Foreign Minister Abbas Araghchi, and whether Washington widens strikes after polls close on Tuesday.",
+      "keyFacts": [
+        "The strikes hit Qeshm Island late on November 2, the first US attack there since June",
+        "A US official said they targeted Iranians using surface-to-air missiles against US assets",
+        "The previous known US strikes on Iran were in early September, the AP reported",
+        "Oil prices fell more than 7% on Monday as talks appeared to progress",
+        "AP puts the war’s cost to US taxpayers at no less than $47 billion"
+      ],
+      "report": [
+        {
+          "heading": "A limited strike",
+          "paragraphs": [
+            "Iranian state television reported explosions on Qeshm, a large island at the mouth of the Gulf, late on Monday. A US official, speaking anonymously to the Associated Press, called the strikes defensive and said they targeted Iranians firing surface-to-air missiles at American assets. The Wall Street Journal, which first reported them, said they appeared limited rather than a return to full-scale bombing. Iran’s Revolutionary Guards had said earlier that they destroyed a US MQ-9 drone east of the strait. The United States first struck Qeshm in March, hitting a desalination plant that supplied water to about 30 villages."
+          ]
+        },
+        {
+          "heading": "Talks continue",
+          "paragraphs": [
+            "The strike came hours after Vance said he and Trump both felt good about the prospects of a negotiated settlement. Trump, who promised no new attacks before Tuesday’s election, said Iran wanted a settlement but also told Axios he was in no rush to decide whether to resume strikes. Qatari mediators flew to Tehran on Monday night to discuss a version of a draft US-Iran deal with Araghchi, who called the consultations very intensive. Foreign ministry spokesperson Esmaeil Baghaei said the ball was in Washington’s court and that Iran’s September plan, including reopening the strait, could be carried out within two days.",
+            "President Masoud Pezeshkian said the supreme leader, Mojtaba Khamenei, had given the government certain powers over the talks, while parliament speaker Mohammad Bagher Ghalibaf warned on Tuesday that Iran’s answer to any US miscalculation would be unpredictable."
+          ]
+        },
+        {
+          "heading": "The wider picture",
+          "paragraphs": [
+            "Thousands of US troops remain near Iran enforcing a blockade of Iranian oil tankers, and a third aircraft carrier is heading to the region, the AP reported. Gulf allies have warned against renewed strikes, fearing Houthi attacks on Saudi Arabia and Red Sea shipping. According to two regional officials cited by the AP, Israeli Prime Minister Benjamin Netanyahu has pressed Trump for another wave of strikes after the election; the White House did not answer directly. Oil fell more than 7 percent on Monday, which Trump linked to the diplomacy."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Qeshm Island and the Strait of Hormuz",
+        "bounds": [
+          50,
+          22,
+          62,
+          31
+        ],
+        "countries": [
+          "364",
+          "784",
+          "512"
+        ],
+        "labels": [
+          {
+            "label": "Persian Gulf",
+            "lon": 52.0,
+            "lat": 27.0,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Oman",
+            "lon": 59.0,
+            "lat": 24.2,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of southern Iran, the United Arab Emirates and Oman with a marker on Qeshm Island in the Strait of Hormuz, where explosions were reported after US strikes.",
+        "caption": "Iran and its Gulf neighbours · approximate reporting location; specific targets were not disclosed"
+      },
+      "locations": [
+        {
+          "label": "Qeshm Island, Strait of Hormuz",
+          "mapLabel": "Qeshm",
+          "lon": 55.9,
+          "lat": 26.8
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "PBS News (Associated Press)",
+          "title": "U.S. strikes Iranian targets in Strait of Hormuz, U.S. official tells AP",
+          "url": "https://www.pbs.org/newshour/world/u-s-strikes-iranian-targets-in-strait-of-hormuz-u-s-official-tells-ap",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+          "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "komyshuvakha-aid-centre-abu-dhabi-talks",
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia's war in Ukraine, efforts to negotiate an end to it, and the wider security consequences for Europe.",
+      "section": "world",
+      "title": "A Russian bombing of an aid centre in southern Ukraine kills 26, as Washington sets new talks in Abu Dhabi for November 10",
+      "category": "War and diplomacy",
+      "region": "Europe · Ukraine",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-02",
+      "body": "Russian strikes on Monday destroyed a school used to hand out humanitarian aid in the village of Komyshuvakha in the Zaporizhzhia region, and a second strike hit a nearby shelter, President Volodymyr Zelensky said. Officials said 26 people were killed and about 20 were missing. The same day, US envoy Steve Witkoff announced that Washington will mediate working-level talks between Ukraine and Russia in Abu Dhabi on November 10 and 11, after meetings with European allies in Brussels this week.",
+      "whatChanged": "Russia bombed an aid point on the day the Oleshky truce expired, while the United States set dates for the next round of negotiations.",
+      "whyMatters": "Ukraine says the attack shows Russia does not want de-escalation, yet both sides are being drawn into a new US-brokered round; the gap between battlefield and talks will test whether the recent humanitarian pause in Oleshky leads anywhere.",
+      "uncertainty": "Casualty figures came from Ukrainian officials and may rise; Russia, which denies targeting civilians, had not commented on the strike in the reports we reviewed, and neither government had publicly confirmed attendance in Abu Dhabi.",
+      "watchNext": "The final death toll, the Brussels meetings on security guarantees, the Abu Dhabi round on November 10 and 11, and the large Russian strike on energy targets that Zelensky says is being prepared.",
+      "keyFacts": [
+        "26 killed and about 20 missing in Komyshuvakha, Zaporizhzhia region, on November 2",
+        "Zelensky said a first strike hit the aid point and a second targeted a shelter",
+        "Talks in Abu Dhabi are set for November 10–11, Witkoff said",
+        "The agenda covers postwar security, de-escalation and humanitarian steps",
+        "Russia said it downed 212 Ukrainian drones overnight"
+      ],
+      "report": [
+        {
+          "heading": "The attack",
+          "paragraphs": [
+            "Komyshuvakha lies south-east of the city of Zaporizhzhia, close to the front line. Zelensky said residents who still live there came weekly to the school to collect aid, and that after the first strike Russian aircraft dropped more bombs on a shelter where people had gathered. Ukraine’s emergency service said a police officer and two rescuers were among the dead. Regional official Mykhailo Semikin said Russian drones kept attacking the area, slowing the search through the rubble.",
+            "Elsewhere, drones injured 12 people in the Kharkiv region and five in Odesa. Russia’s defence ministry said it shot down 212 Ukrainian drones overnight, and the governor of Samara said air defences were repelling an attack. The strike came as the limited truce around the occupied town of Oleshky, which allowed aid deliveries and evacuations from October 27, expired; Ukraine’s general staff said Russia used the pause to reinforce."
+          ]
+        },
+        {
+          "heading": "New talks",
+          "paragraphs": [
+            "Witkoff wrote on X that the United States would mediate working-level negotiations between the two countries in Abu Dhabi on November 10 and 11, covering postwar security, de-escalation, humanitarian efforts and next steps toward a peace agreement. US negotiators will first meet representatives of France, Germany, Britain, the EU and NATO in Brussels to discuss security guarantees for Ukraine, Europe’s security after the war and reconstruction. Witkoff said the aim was a comprehensive and durable agreement building on earlier rounds in Kyiv, Oslo and St Petersburg."
+          ]
+        },
+        {
+          "heading": "Kyiv’s warning",
+          "paragraphs": [
+            "Zelensky said Ukrainian intelligence indicates Russia is preparing a new large-scale strike on energy and logistics facilities, and warned that Moscow could exploit international attention on the US election. He urged allies to keep up deliveries of air defence, including Patriot missiles, and to tighten pressure on Russia’s oil and gas income."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Komyshuvakha and the Zaporizhzhia front",
+        "bounds": [
+          28,
+          44,
+          40,
+          51.5
+        ],
+        "countries": [
+          "804"
+        ],
+        "labels": [
+          {
+            "label": "Black Sea",
+            "lon": 32.5,
+            "lat": 44.6,
+            "kind": "water"
+          },
+          {
+            "label": "Sea of Azov",
+            "lon": 36.8,
+            "lat": 46.1,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of southern and eastern Ukraine with markers at Komyshuvakha in the Zaporizhzhia region, where an aid centre was bombed, and at Kharkiv and Odesa, where drones injured people.",
+        "caption": "Ukraine · approximate reporting locations; shading shows the country, not areas of control"
+      },
+      "locations": [
+        {
+          "label": "Komyshuvakha, Zaporizhzhia region",
+          "mapLabel": "Komyshuvakha",
+          "lon": 35.52,
+          "lat": 47.72
+        },
+        {
+          "label": "Kharkiv region",
+          "mapLabel": "Kharkiv",
+          "lon": 36.23,
+          "lat": 49.99
+        },
+        {
+          "label": "Odesa",
+          "mapLabel": "Odesa",
+          "lon": 30.73,
+          "lat": 46.48
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "The Korea Times (Associated Press)",
+          "title": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say",
+          "url": "https://www.koreatimes.co.kr/world/20261103/russia-bombs-aid-center-and-shelter-in-southern-ukraine-killing-26-officials-say",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Russian attack on Ukraine aid hub kills 26 as US announces new peace talks",
+          "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Fox News",
+          "title": "Witkoff says US will mediate Ukraine-Russia peace talks in Abu Dhabi",
+          "url": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ETV Bharat",
+          "title": "US To Mediate Russia-Ukraine Talks In Abu Dhabi On November 10-11",
+          "url": "https://www.etvbharat.com/en/international/us-to-mediate-russia-ukraine-talks-in-abu-dhabi-enn26110300601",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "belgium-de-wever-offers-resignation",
+      "threadId": "belgium-budget-crisis",
+      "threadTitle": "Belgium’s budget crisis",
+      "threadSummary": "The struggle within Bart De Wever’s five-party coalition to agree spending cuts and taxes to curb one of the eurozone’s largest deficits.",
+      "section": "world",
+      "title": "Belgium’s prime minister offers to resign after his coalition fails to agree a budget, and the king holds off on a decision",
+      "category": "Government",
+      "region": "Europe · Belgium",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-02",
+      "body": "Prime Minister Bart De Wever offered his government’s resignation to King Philippe on Monday after overnight talks among the five coalition parties broke down over the 2027 budget. The palace said the king was withholding his decision, regretted the lack of a credible budget and would consult party leaders from Tuesday before seeing De Wever again on Friday. The parties split over whether to raise taxes on the wealthiest or cut spending to find about 10 billion euros.",
+      "whatChanged": "A long-running budget dispute has become a government crisis, leaving Belgium without an agreed plan weeks before its year-end deadline.",
+      "whyMatters": "Belgium runs the highest deficit in the eurozone and its debt is heading above 110 percent of output, while rising interest and defence costs add pressure; a fallen government would delay both savings and spending decisions.",
+      "uncertainty": "The king may refuse the resignation, and Belgian governments have often kept negotiating after offering to quit, so a deal or a new majority without elections is still possible.",
+      "watchNext": "The king’s consultations this week, De Wever’s return to the palace on Friday, November 6, and whether a budget reaches parliament before the December 31 deadline.",
+      "keyFacts": [
+        "De Wever offered his resignation on November 2 after about an hour with the king",
+        "The coalition sought about €10 billion in savings or new revenue",
+        "Belgium’s deficit is 5.2% of GDP, the eurozone’s highest, the Brussels Times reported",
+        "The European Commission expects debt to reach about 110% of GDP this year",
+        "The king meets De Wever again on Friday, November 6"
+      ],
+      "report": [
+        {
+          "heading": "How talks collapsed",
+          "paragraphs": [
+            "De Wever, a Flemish nationalist who leads the N-VA and took office in February 2025, governs with the Flemish Socialists of Vooruit, the Christian Democrats of CD&V, the French-speaking liberal MR and the centrist Les Engagés. Vooruit, CD&V and Les Engagés wanted those with the broadest shoulders, meaning the wealthiest, to pay more; N-VA and MR resisted higher taxes. Foreign Minister Maxime Prévot of Les Engagés said listing every sticking point would take an eternity. Finance Minister David Clarinval of MR blamed De Wever, saying the final proposal contained more than three billion euros in new taxes and too little structural spending reform."
+          ]
+        },
+        {
+          "heading": "The king’s response",
+          "paragraphs": [
+            "The palace said De Wever resigned following the failure of budget negotiations within his government. The king said he regretted that no agreement had been reached on a credible budget suited to current challenges, and that the country could not afford a long political crisis. He is holding the resignation in abeyance while he meets party leaders, and De Wever is due back at the palace on Friday.",
+            "If the king accepts, the government falls; a new majority could in principle be formed from the existing parliament without an election. If no budget is passed by the end of December, the state would run on monthly provisional allocations based on this year’s spending, which De Wever has sought to avoid."
+          ]
+        },
+        {
+          "heading": "The fiscal backdrop",
+          "paragraphs": [
+            "Belgium is among the most indebted countries in the EU, alongside France and Italy, after years of accumulating debt worsened by the pandemic and the energy crisis. A year ago the same coalition needed until late November to agree about 9.2 billion euros in savings. The crisis comes amid student protests and repeated union-led national strike days."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Belgium",
+        "bounds": [
+          1.5,
+          48.6,
+          7.5,
+          52.4
+        ],
+        "countries": [
+          "056"
+        ],
+        "labels": [
+          {
+            "label": "North Sea",
+            "lon": 2.6,
+            "lat": 51.9,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Belgium and its neighbours with a marker at Brussels, where the prime minister offered his resignation to the king.",
+        "caption": "Belgium · Brussels marked"
+      },
+      "locations": [
+        {
+          "label": "Royal Palace, Brussels",
+          "mapLabel": "Brussels",
+          "lon": 4.36,
+          "lat": 50.84
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "VRT NWS",
+          "title": "Prime Minister Bart De Wever offers King Filip his resignation",
+          "url": "https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Associated Press)",
+          "title": "Belgian PM quits after budget talks fail as king mulls whether to accept resignation",
+          "url": "https://abcnews.com/International/wireStory/belgian-prime-minister-quits-after-budget-talks-fail-137764313",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Brussels Times",
+          "title": "Belgian King calls for political responsibility as he considers PM De Wever's resignation",
+          "url": "https://www.brusselstimes.com/belgium/2387762/belgian-pm-de-wever-to-offer-resignation-to-king-after-failed-budget-talks-tbtb",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "bolivia-el-nino-national-emergency",
+      "threadId": "el-nino-2026",
+      "threadTitle": "The 2026–27 El Niño",
+      "threadSummary": "The strong El Niño expected to peak at the end of 2026, and the droughts, floods and food shortages linked to it.",
+      "section": "world",
+      "title": "Bolivia declares a national emergency over El Niño, with drought already hitting about 78,000 families",
+      "category": "Climate and disasters",
+      "region": "Latin America · Bolivia",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-10-31 / 2026-11-02",
+      "body": "President Rodrigo Paz signed a decree on Saturday declaring a nationwide state of emergency to free up resources for the effects of El Niño, which he warned would hit very hard with both drought and flooding. Civil defence officials say at least 78,000 families are already affected by drought across most of Bolivia’s nine departments, and a government report said more than 75,000 cattle have been lost. The decree covers risks through 2027, including floods, frosts, hail and forest fires.",
+      "whatChanged": "Bolivia moved from local drought declarations to a nationwide emergency before this El Niño has reached its peak.",
+      "whyMatters": "Scientists expect this El Niño to be among the strongest on record and to last into 2027; Bolivia’s farming highlands and flood-prone lowlands show how the same event can bring drought and floods to one poor country at once.",
+      "uncertainty": "Reports differ on whether six or seven departments are affected, and the decree’s funding has not been disclosed.",
+      "watchNext": "Which departments receive emergency funds and rescue teams, rainfall in the Santa Cruz lowlands as the wet season starts, and whether neighbours such as Peru declare similar measures.",
+      "keyFacts": [
+        "The decree was signed on Saturday, October 31",
+        "At least 78,200 families are affected by drought, the Vice Ministry of Civil Defence says",
+        "More than 75,000 cattle have died, a government report said",
+        "The WMO said in September that El Niño is almost certain to last through February 2027"
+      ],
+      "report": [
+        {
+          "heading": "The decree",
+          "paragraphs": [
+            "Paz said the declaration would let authorities send help where it is needed more quickly, and called for cooperation from all institutions. The decree is meant to coordinate national, regional and local government responses and to protect the most vulnerable communities, and it orders more deployments of rescue teams to areas hit by flooding and drought. It covers a range of hazards over the 2026–27 season, from drought and frost to hailstorms, fires and rivers bursting their banks."
+          ]
+        },
+        {
+          "heading": "Where it is hurting",
+          "paragraphs": [
+            "Euronews, citing the Vice Ministry of Civil Defence, listed seven affected departments: La Paz, Oruro, Potosí, Cochabamba, Chuquisaca, Tarija and Santa Cruz; Al Jazeera reported six of nine. Another 63 communities have declared drought, while others are preparing for possible floods. Bolivia is prone to both: floods in the Santa Cruz region in December 2025 killed dozens of people."
+          ]
+        },
+        {
+          "heading": "A strong El Niño",
+          "paragraphs": [
+            "El Niño, a periodic warming of the equatorial Pacific that shifts rainfall and temperatures around the world, is expected to peak at the end of 2026, with effects possibly lasting into 2027. The World Meteorological Organization said in September that its continuation through February 2027 was almost certain. Some scientists warn it could be the strongest on record and cause hundreds of thousands of deaths worldwide, with the poorest countries hit hardest; that estimate is a projection, not a count."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Bolivia",
+        "bounds": [
+          -72,
+          -25,
+          -56,
+          -8
+        ],
+        "countries": [
+          "068"
+        ],
+        "alt": "Map of Bolivia and its neighbours with markers at La Paz and Santa Cruz; drought affects most of the country’s nine departments.",
+        "caption": "Bolivia · shading shows the country; drought is reported across most departments, not every area"
+      },
+      "locations": [
+        {
+          "label": "La Paz",
+          "mapLabel": "La Paz",
+          "lon": -68.15,
+          "lat": -16.5
+        },
+        {
+          "label": "Santa Cruz de la Sierra",
+          "mapLabel": "Santa Cruz",
+          "lon": -63.18,
+          "lat": -17.78
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Bolivia declares state of emergency over El Nino weather pattern",
+          "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Bolivia declares national emergency over El Niño as drought hits over 78,000 families",
+          "url": "https://www.euronews.com/2026/11/02/bolivia-declares-national-emergency-over-el-nino-as-drought-hits-over-78000-families",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "hebron-operation-ends-withdrawal",
+      "threadId": "west-bank-violence",
+      "threadTitle": "Violence in the West Bank",
+      "threadSummary": "Violence, military operations and settler attacks in the occupied West Bank.",
+      "section": "more",
+      "title": "Israeli forces pull out of Hebron after a siege of more than ten days that displaced thousands",
+      "category": "Conflict",
+      "region": "Middle East · West Bank",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-02",
+      "whatChanged": "The operation that sealed off the West Bank’s largest city after a deadly shooting has ended, and schools reopened.",
+      "body": "Hebron’s municipality said it was told of the Israeli withdrawal at 6 a.m. on Monday, ending an operation launched after an October 23 shooting near the city killed two Israeli soldiers; Israeli forces later killed the two suspects. Local authorities say more than 3,300 Palestinians were displaced or otherwise affected, 15 homes and other buildings were demolished and about 80,000 pupils in the city missed classes. Governor Khaled Dudin said Palestinian security forces had taken back control.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
+          "url": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Middle East Monitor",
+          "title": "Israeli army withdraws from Hebron after 10-day operation",
+          "url": "https://www.middleeastmonitor.com/20261102-israeli-army-withdraws-from-hebron-after-10-day-operation/",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "rba-fifth-rate-rise-4-85",
+      "threadId": "australia-interest-rates",
+      "threadTitle": "Australia’s interest rates",
+      "threadSummary": "The Reserve Bank of Australia’s run of rate rises in 2026 as inflation climbs above its target.",
+      "section": "more",
+      "title": "Australia’s central bank raises rates for the fifth time this year, to an 18-year high of 4.85 percent",
+      "category": "Economy",
+      "region": "Oceania · Australia",
+      "regions": [
+        "oceania"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-03",
+      "whatChanged": "The Reserve Bank lifted its cash rate by a quarter point on a split six-to-three vote and pushed back its inflation forecasts.",
+      "body": "The Reserve Bank of Australia raised its cash rate to 4.85 percent on Tuesday, the highest since 2008, with three of nine board members voting to hold. It cited broad underlying inflation, fuel costs linked to the Middle East war and fast-rising prices for technology goods driven by AI investment, and now expects inflation to stay above 3 percent for the coming year. Headline inflation reached 4.3 percent in the year to September, and the ABC estimates this year’s five rises add about $456 a month to a typical $600,000 mortgage.",
+      "sources": [
+        {
+          "publisher": "Reserve Bank of Australia",
+          "title": "Statement by the Monetary Policy Board: Monetary Policy Decision",
+          "url": "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+          "publishedAt": "2026-11-03",
+          "kind": "Primary"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "RBA has raised the cash rate again. Here's how it affects Australian households",
+          "url": "https://www.abc.net.au/news/2026-11-03/what-november-cash-rate-hike-means-for-australians-money/107324538",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "rubio-blanco-venezuela-phased-plan",
+      "threadId": "venezuela-transition",
+      "threadTitle": "Venezuela after Maduro",
+      "threadSummary": "Venezuela’s political transition and the dispute over when and how elections will be held.",
+      "section": "more",
+      "title": "Washington tells Venezuela’s foreign minister to stick to a three-phase plan that puts elections last",
+      "category": "Diplomacy",
+      "region": "Latin America · Venezuela",
+      "regions": [
+        "latin-america",
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-02",
+      "whatChanged": "In its first meeting with Venezuela’s foreign minister since opposition leader María Corina Machado returned home, the State Department restated that elections come after stabilisation and recovery.",
+      "body": "Secretary of State Marco Rubio met Venezuelan Foreign Minister Oliver Blanco at the State Department on Monday, and a readout reaffirmed Trump’s three-phase plan of stabilisation, economic recovery and reconciliation, then a democratic transition. No dates were given. Machado, back in Venezuela since last week, says Rubio’s sequence points to a presidential election in 2027, while interim President Delcy Rodríguez has promised elections without naming a date.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "US urges Venezuela to follow phased plan for democratic transition",
+          "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "taiwan-apec-shenzhen-invitation",
+      "threadId": "taiwan-china-relations",
+      "threadTitle": "Taiwan and China",
+      "threadSummary": "Beijing’s pressure on Taiwan and the dispute over the island’s place in international bodies.",
+      "section": "more",
+      "title": "Taiwan protests that China emailed rather than delivered its invitation to the APEC summit in Shenzhen",
+      "category": "Diplomacy",
+      "region": "Asia · Taiwan and China",
+      "regions": [
+        "asia"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-02 / 2026-11-03",
+      "whatChanged": "Taiwan accused the summit host of departing from APEC practice and has not yet decided whether to attend the November 18–19 meeting.",
+      "body": "Foreign Minister Lin Chia-lung said on Monday that China, which hosts APEC this year, sent Taiwan an email instead of having an official deliver the invitation in person, and accused Beijing of differential treatment at APEC meetings this year. Reports disagree on whether the message used Taiwan’s APEC name, Chinese Taipei. On Tuesday Premier Cho Jung-tai asked for a formal invitation and said Taipei would not rush to decide whether to send a representative.",
+      "sources": [
+        {
+          "publisher": "Focus Taiwan (CNA)",
+          "title": "FM Lin calls on China to follow established practice for APEC summits",
+          "url": "https://focustaiwan.tw/politics/202611020020",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Focus Taiwan (CNA)",
+          "title": "Taiwan seeking formal APEC invitation from China: Premier",
+          "url": "https://focustaiwan.tw/politics/202611030015",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "france-school-blockades-resume",
+      "threadId": "france-unrest-2026",
+      "threadTitle": "France's 2026 unrest",
+      "threadSummary": "Protests, riots and the French government's response during the 2026 political and cost-of-living crisis.",
+      "section": "more",
+      "title": "French pupils resume school blockades after the holidays, on a much smaller scale",
+      "category": "Protest",
+      "region": "Europe · France",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-02",
+      "whatChanged": "The school protest movement returned after the autumn break, rejecting the government’s concessions, though with far fewer blockades than before.",
+      "body": "The education ministry said 41 high schools, about 1 percent of France’s 3,700, were blockaded on Monday, compared with hundreds before the break, with attempts reported in Paris, Marseille and Rennes. Student unions say last week’s offers, including a 28-pupil cap in first-year classes, 4 billion euros for school repairs and the gradual replacement of the Parcoursup admissions platform, are not enough. Education Minister Édouard Geffray said blockades are illegal and the school year is at risk.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "French school protests resume on small scale as students return from break",
+          "url": "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "indonesia-russia-mercenary-recruitment",
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia's war in Ukraine, efforts to negotiate an end to it, and the wider security consequences for Europe.",
+      "section": "more",
+      "title": "Indonesian police name 13 suspects in schemes that sent dozens of Indonesians to fight for Russia",
+      "category": "Human trafficking",
+      "region": "Asia · Indonesia",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-02",
+      "whatChanged": "Police set out the scale of the recruitment for the first time: 58 victims across five cases, including former soldiers and police officers.",
+      "body": "Brigadier General Nurul Azizah of the national police said on Monday that 13 suspects had been named over the recruitment of 58 Indonesians to serve as mercenaries for Russia. Victims answered social media advertisements for jobs abroad and were only told the work was military service after being collected by recruiters; those who refused had to repay their travel costs. She said some recruits were former members of Indonesia’s military and police.",
+      "sources": [
+        {
+          "publisher": "ANTARA News",
+          "title": "Ex-military, police among victims of Russian mercenary scheme: Polri",
+          "url": "https://en.antaranews.com/news/439863/ex-military-police-among-victims-of-russian-mercenary-scheme-polri",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "google-suncatcher-tpu-orbit",
+      "threadId": "ai-capital-spending",
+      "threadTitle": "The AI infrastructure buildout",
+      "threadSummary": "The rush by technology companies to raise and spend hundreds of billions of dollars on data centres and chips for AI.",
+      "section": "frontiers",
+      "field": "Space",
+      "title": "Google runs an AI model on a data-centre chip in orbit for the first time, a first step toward computing in space",
+      "category": "Orbital computing",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-10-30 / 2026-11-01",
+      "hook": "It is a proof that the hardware switches on in space, not a working orbital data centre; the hard tests of heat and radiation come next.",
+      "body": "Google says a prototype satellite for Project Suncatcher, its research effort to power AI computing with sunlight in orbit, has run its Gemma 4 open model on one of the company’s data-centre-class TPU chips. After about three weeks of commissioning following an October 1 launch, the team uplinked a prompt and received a short poem in reply during a pass over Svalbard in Norway. The satellite carries four TPUs but has enough power to run only one at a time, for about 20 minutes.",
+      "whatChanged": "Google moved from paper studies of space-based AI computing to a working chip in orbit answering prompts.",
+      "whyMatters": "Companies are looking beyond Earth for the electricity that AI data centres need; whether ordinary data-centre chips survive radiation and heat in orbit is one of the first questions that idea has to answer.",
+      "uncertainty": "Google has published no performance data or details of the chip and orbit, the radiation and thermal tests are still to come, and the economics of computing in space remain unproven.",
+      "watchNext": "Results of the radiation and thermal tests, and Google’s planned pair of linked satellites in 2027.",
+      "keyFacts": [
+        "The prototype launched on October 1, 2026; Google announced the first response on October 30",
+        "It carries four TPUs and generates up to 1 kilowatt of power",
+        "Only one TPU can run at a time, for about 20 minutes",
+        "Google plans two interconnected satellites in 2027"
+      ],
+      "report": [
+        {
+          "heading": "What Google reported",
+          "paragraphs": [
+            "In a post on October 30, Travis Beals of Google said the team had finished a commissioning checklist, powering up the satellite’s host computer and TPU trays and running early machine-learning tests. The first prompt asked Gemma 4 to write a haiku about being in space, and the reply came down during a ground-station pass over Svalbard. Later tests included limericks and prompts asking the model to report the payload’s own status. Google calls it the first AI response from a data-centre-class TPU in orbit; it has not named the chip generation, the satellite builder or the orbit."
+          ]
+        },
+        {
+          "heading": "The limits",
+          "paragraphs": [
+            "The satellite generates up to a kilowatt, enough to run one of its four chips at a time for about 20 minutes, using stored solar energy, according to The Next Web. Radiation in orbit can flip bits in memory and silently corrupt data; Google’s ground tests suggested this matters more for training models than for running them, but the orbital tests have not yet been done. The Next Web also notes that Google’s plans depend on cheaper launches from fully reusable rockets, and that rival efforts such as Starcloud are raising money for the same idea."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "Google says the next stage is to measure how the chips cope with heat and radiation, and then to launch two linked satellites in 2027 to generate more power and test laser connections between spacecraft. Running a small model on a single chip is a modest milestone compared with the scale of a data centre on the ground."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-03/google-suncatcher-tpu-orbit.svg",
+        "alt": "A small satellite with two wide solar panels above the curved edge of the Earth, with a copper square chip at its centre, standing for an AI chip running in orbit.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Google",
+          "title": "Project Suncatcher: first response from a TPU in orbit",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+          "publishedAt": "2026-10-30",
+          "kind": "Company announcement"
+        },
+        {
+          "publisher": "The Next Web",
+          "title": "Google’s Suncatcher satellite runs Gemma 4 in orbit and writes a haiku",
+          "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+          "publishedAt": "2026-11-01",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "exin-ai-agent-mouse-gene-therapy",
+      "threadId": "ai-and-research",
+      "threadTitle": "AI & scientific research",
+      "threadSummary": "How AI systems are being used to produce and check scientific and mathematical results.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "A startup says an AI agent chose a gene therapy and guided its injection into a living mouse’s brain",
+      "category": "AI in the lab",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-10-28 / 2026-11-01",
+      "hook": "An unreviewed single-animal demonstration with a vet and an emergency stop in the loop; its most telling moment was the agent refusing to continue when its numbers did not add up.",
+      "body": "Gabriel Ocana-Santero, chief executive of Exin Therapeutics and an Oxford doctoral student, says an agent built on Anthropic’s Claude Sonnet 5 picked one of 19 prepared gene therapies to reduce seizures in an epilepsy mouse model, chose the brain target and injection settings from published papers, and then controlled a motorised surgical device for the injection. Humans opened and closed the skull, and a veterinarian approved each irreversible step. He says the mouse recovered well; no efficacy data or paper have been published.",
+      "whatChanged": "An AI agent was reported to have gone from choosing a treatment to physically delivering it in a living animal, rather than only advising researchers.",
+      "whyMatters": "Labs are starting to let AI agents run physical experiments, and this account shows both the appeal and the questions of oversight, including what happens when an agent stops halfway through a procedure.",
+      "uncertainty": "The account comes from the founder’s own social media posts; there is no peer review, published seizure data, control animals or confirmation of ethics approval, and the claim to be a first has not been independently checked.",
+      "watchNext": "The technical report the company says is coming, with logs, the full list of therapies and data from multiple animals.",
+      "keyFacts": [
+        "The agent chose from 19 candidate gene therapies prepared by the team",
+        "It targeted the lateral entorhinal cortex and rejected the substantia nigra, XenoSpectrum reported",
+        "It made 32 camera-based checks during the injection",
+        "A licensed vet approved irreversible steps and held a physical emergency stop",
+        "Results have not been peer reviewed"
+      ],
+      "report": [
+        {
+          "heading": "What the company describes",
+          "paragraphs": [
+            "According to Ocana-Santero’s account, reported by The Decoder and XenoSpectrum, the agent was given a single instruction, to reduce the mouse’s seizures, along with the candidate therapies and access to a stereotaxic device fitted with cameras. It chose a viral vector designed to boost inhibitory GABA signalling, picked a brain region linked in the literature to this kind of seizure, worked out injection coordinates by averaging values from three papers, and set the volume, speed and waiting times. It watched for bleeding through the camera during the injection."
+          ]
+        },
+        {
+          "heading": "The pause mid-procedure",
+          "paragraphs": [
+            "After a connection dropped and a person adjusted the device by hand, the agent calculated that its target lay beyond the machine’s range of movement and refused to continue, even after the reference point was reset. The Decoder says the agent was right that the manual adjustment had thrown off the control system; the researcher fixed the code himself to finish. He reported that two larger Claude models declined to perform the live procedure at all."
+          ]
+        },
+        {
+          "heading": "What is missing",
+          "paragraphs": [
+            "Neither outlet found a paper, technical report or efficacy data. XenoSpectrum lists what would be needed to judge the work: ethics approval, the selection criteria for the therapies, full logs, multiple animals with controls and tissue confirmation of where the injection landed. The procedure was not fully autonomous, and there is no evidence yet that the therapy worked."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-03/exin-ai-agent-mouse-gene-therapy.svg",
+        "alt": "A thin injection needle held by a mechanical arm above the outline of a small mouse, beside a round copper emergency stop button, standing for an AI-guided injection with a human safety stop.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "The Decoder",
+          "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+          "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+          "publishedAt": "2026-10-30",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "XenoSpectrum",
+          "title": "AI Agent Picks and Injects Gene Therapy Into a Mouse Brain, With Human Surgeons and Safety Limits in the Loop",
+          "url": "https://xenospectrum.com/en/claude-sonnet-autonomous-mouse-brain-surgery-analysis/",
+          "publishedAt": "2026-11-01",
+          "kind": "Analysis"
+        }
+      ]
+    },
+    {
+      "id": "sudan-drones-ethiopia-complaint-un-talks",
+      "threadId": "sudan-war-humanitarian-crisis",
+      "threadTitle": "Sudan's war and humanitarian crisis",
+      "threadSummary": "The war between Sudan’s army and the Rapid Support Forces since April 2023, and the famine and displacement it has caused.",
+      "section": "still",
+      "title": "Sudan accuses Ethiopia at the UN over drone strikes, as the UN envoy aims for talks with the RSF’s political bloc before Christmas",
+      "category": "Conflict",
+      "region": "Africa · Sudan",
+      "regions": [
+        "africa"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-01 / 2026-11-02",
+      "body": "Sudan’s foreign ministry said late on Sunday it had complained to the UN Security Council and the African Union that the Rapid Support Forces were launching drones from Ethiopian territory at civilians and power stations. An army report counts 70 attacks since February, with 484 civilians killed or wounded. The UN secretary-general’s spokesman condemned escalating drone strikes by all sides. Separately, UN envoy Pekka Haavisto told The National the UN hopes to meet the RSF’s political allies on a civilian transition before Christmas.",
+      "whatChanged": "Sudan formally took its accusation against Ethiopia to the UN and the African Union, while the UN set out a timetable for its next political contacts.",
+      "whyMatters": "More than 14 million Sudanese have been displaced and nearly 20 million face hunger, and drone warfare is spreading the damage to power grids and border regions while no ceasefire is in sight.",
+      "uncertainty": "The casualty figures and launch sites come from Sudan’s army, which is a party to the war; Ethiopia had not responded in the reports we reviewed, and the RSF has not committed to the proposals on the table.",
+      "watchNext": "Any Security Council discussion of the complaint, Ethiopia’s answer, and whether the UN-led Quintet meets the RSF bloc in Addis Ababa.",
+      "keyFacts": [
+        "Sudan’s army counts 70 attacks with 187 drones from February 15 to October 27",
+        "It says 484 civilians were killed or wounded and 176 soldiers killed",
+        "Named launch sites include Asosa airport and the Bahir Dar airbase in Ethiopia",
+        "The UN envoy aims to meet the RSF’s political bloc before Christmas"
+      ],
+      "report": [
+        {
+          "heading": "The complaint",
+          "paragraphs": [
+            "Sudan’s foreign ministry said the RSF had used Ethiopian territory to attack civilian sites and power stations, causing hundreds of casualties and cutting essential services, and that this placed Ethiopia before international law. An army report cited alongside the complaint lists 28 attacks with 97 drones in October alone, and names Asosa airport in western Ethiopia, the Kurmuk-Gizen border area and the Bahir Dar airbase in the Amhara region as launch points. It cites an October 9 strike on displaced families in Wad el-Mahi, in Blue Nile state near the border, that it says killed 30 civilians. Sudan’s military has accused Ethiopia of aiding the RSF before, while Ethiopia accuses Khartoum of backing rebels linked to Tigray’s former ruling party."
+          ]
+        },
+        {
+          "heading": "The diplomatic track",
+          "paragraphs": [
+            "Speaking at the Manama Dialogue in Bahrain, Haavisto said the Quintet of the UN, EU, African Union, Arab League and the regional bloc IGAD had already met parties close to the army and an anti-war coalition led by former prime minister Abdalla Hamdok, and now hoped to meet the political bloc allied to the RSF, possibly in Addis Ababa. He agreed that the conflict had become a war against civilians. The army chief, Abdel Fattah al-Burhan, has repeatedly rejected ceasefire proposals, and the United States is pressing for an arms embargo on the whole country."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
+          "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The National",
+          "title": "Talks with RSF on transition to civilian rule in Sudan expected within weeks, says UN envoy",
+          "url": "https://thenationalnews.com/news/mena/2026/11/02/talks-with-rsf-on-transition-to-civilian-rule-in-sudan-expected-within-weeks-says-un-envoy",
+          "publishedAt": "2026-11-02",
+          "kind": "Interview"
+        }
+      ]
+    }
+  ],
+  "watch": [
+    {
+      "title": "Election night",
+      "text": "Polls close from 6 p.m. Eastern on Tuesday, November 3, in parts of Kentucky and Indiana to 1 a.m. Eastern in Alaska. Watch the Senate races in Texas, Maine, Michigan, Ohio, Iowa and Alaska."
+    },
+    {
+      "title": "Belgium’s king decides",
+      "text": "King Philippe consults party leaders this week and receives Prime Minister Bart De Wever again on Friday, November 6, when he is expected to say whether he accepts the resignation."
+    },
+    {
+      "title": "Talks in Abu Dhabi",
+      "text": "US-mediated talks between Ukraine and Russia are set for November 10 and 11 in Abu Dhabi, after meetings with European allies in Brussels this week."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Americans vote on Tuesday for control of Congress after the Supreme Court refused to let the administration sideline 20,000 California mail ballots, and US forces struck Iran’s Qeshm Island in a limited raid.",
+      "briefs": [
+        {
+          "title": "Canada’s Carney calls six by-elections for December 7",
+          "text": "Prime Minister Mark Carney has called by-elections in six federal constituencies in Quebec, Ontario and Saskatchewan, with voting on December 7. The announcement came on Sunday, November 1.",
+          "eventDate": "2026-11-01",
+          "sources": [
+            {
+              "publisher": "CTV News",
+              "title": "Prime Minister Mark Carney calls six federal byelections for December",
+              "url": "https://www.ctvnews.ca/canada/article/prime-minister-mark-carney-calls-six-federal-byelections-for-december/",
+              "publishedAt": "2026-11-01",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Bolivia declared a national emergency over El Niño as drought hit about 78,000 families, and Washington told Venezuela to follow its three-phase plan before elections.",
+      "briefs": [
+        {
+          "title": "Ecuador imposes a ten-night curfew in five coastal provinces",
+          "text": "Under Executive Decree 519, a curfew from midnight to 5 a.m. applies from November 1 to November 10 in Guayas, Manabí, Los Ríos, El Oro and Esmeraldas. The US Embassy told Americans to expect more patrols, checkpoints and traffic stops and to avoid non-essential travel during curfew hours.",
+          "eventDate": "2026-11-01 / 2026-11-10",
+          "sources": [
+            {
+              "publisher": "U.S. Embassy and Consulate in Ecuador",
+              "title": "Security Alert: Upcoming Curfew in Five Ecuadorian Provinces",
+              "url": "https://ec.usembassy.gov/security-alert-upcoming-curfew-in-five-ecuadorian-provinces/",
+              "publishedAt": "undated",
+              "kind": "Primary"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "A Russian bombing killed 26 at an aid point in southern Ukraine as the US set new talks for November 10, Belgium’s prime minister offered to resign over the budget, and French pupils resumed school blockades.",
+      "briefs": []
+    },
+    "africa": {
+      "summary": "Sudan complained to the UN that drones are being launched at it from Ethiopia, a rights group accused Zambia of a post-election crackdown, and hunger is deepening in eastern Congo alongside the Ebola outbreak.",
+      "briefs": [
+        {
+          "title": "Human Rights Watch accuses Zambia of a post-election crackdown",
+          "text": "In a report released on November 1, Human Rights Watch documented 14 apparent enforced disappearances, 61 cases of alleged beatings in custody and 71 possibly political arrests around Zambia’s August 13 election, which President Hakainde Hichilema won. Opposition leader Brian Mundubile and his running mate are charged with treason after claiming the opposition had won. The group called for an independent inquiry into the killing of former minister Mutotwe Kafwaya during a police raid; the government has called reports of the raid disinformation.",
+          "eventDate": "2026-11-01",
+          "sources": [
+            {
+              "publisher": "Human Rights Watch",
+              "title": "Zambia: Widespread Repression in Post-Election Crackdown",
+              "url": "https://www.hrw.org/news/2026/11/01/zambia-widespread-repression-in-post-election-crackdown",
+              "publishedAt": "2026-11-01",
+              "kind": "Primary"
+            },
+            {
+              "publisher": "Al Jazeera",
+              "title": "HRW calls on Zambia to halt post-election crackdown",
+              "url": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown",
+              "publishedAt": "2026-11-02",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Nearly 29 million face acute hunger in Congo",
+          "text": "A new analysis by the UN-backed IPC finds about 28.8 million people in the Democratic Republic of the Congo, 23 percent of those assessed, in crisis levels of food insecurity or worse through December, rising to a projected 30.3 million in the first half of 2027. North Kivu, South Kivu and Ituri are worst hit, with four territories at emergency level. Conflict, displacement, high prices and the Ebola outbreak are driving the decline, aid groups say.",
+          "eventDate": "2026-10-30",
+          "sources": [
+            {
+              "publisher": "UN News",
+              "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+              "url": "https://news.un.org/en/story/2026/10/1168708",
+              "publishedAt": "2026-10-30",
+              "kind": "Primary"
+            },
+            {
+              "publisher": "CARE",
+              "title": "New IPC analysis: 28.8 million people in the DRC face hunger as conflict, displacement and Ebola deepen crisis",
+              "url": "https://www.care.org/media-and-press/new-ipc-analysis-28-8-million-people-in-the-drc-face-hunger-as-conflict-displacement-and-ebola-deepen-crisis/",
+              "publishedAt": "2026-10-30",
+              "kind": "Aid group statement"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "US forces struck Iran’s Qeshm Island as Qatari mediators carried a draft deal to Tehran, Israeli forces withdrew from Hebron after more than ten days, and strikes continued in Gaza.",
+      "briefs": [
+        {
+          "title": "Israeli strikes kill at least four in Gaza",
+          "text": "Medics said Israeli airstrikes on Monday killed two people in Khan Younis, one in al-Mussadar and one in a vehicle in Gaza City’s Tel al-Hawa district. Israel’s military said it targeted militants. Gaza health officials say at least 1,580 Palestinians have been killed since the ceasefire began about a year ago; Israel says Hamas is rearming, which Hamas denies.",
+          "eventDate": "2026-11-02",
+          "sources": [
+            {
+              "publisher": "Al-Monitor (Reuters)",
+              "title": "Israeli strikes kill four people in Gaza, medics say",
+              "url": "https://www.al-monitor.com/originals/2026/11/israeli-strikes-kill-four-people-gaza-medics-say",
+              "publishedAt": "2026-11-02",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "Taiwan protested how China invited it to this month’s APEC summit in Shenzhen, and Indonesian police named 13 suspects over the recruitment of 58 Indonesians to fight for Russia.",
+      "briefs": []
+    },
+    "oceania": {
+      "summary": "Australia’s central bank raised rates for the fifth time this year, and New Zealanders are voting early in record numbers before Saturday’s general election.",
+      "briefs": [
+        {
+          "title": "Early voting in New Zealand runs well ahead of 2023",
+          "text": "The Electoral Commission said 913,762 votes were cast between October 26 and November 1, about 28 percent more than in the same period before the 2023 election, ahead of polling day on Saturday, November 7. Polls show no clear winner, and critics say new rules closing enrolment 13 days before the vote could deter some voters.",
+          "eventDate": "2026-10-26 / 2026-11-01",
+          "sources": [
+            {
+              "publisher": "WHBL (Reuters)",
+              "title": "New Zealand early voting surges ahead of November 7 election",
+              "url": "https://whbl.com/2026/11/01/new-zealand-early-voting-surges-ahead-of-november-7-election/",
+              "publishedAt": "2026-11-01",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

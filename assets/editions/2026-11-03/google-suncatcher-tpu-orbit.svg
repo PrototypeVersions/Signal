@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A small satellite with two solar panels above the curve of the Earth, with a copper chip at its centre">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="#d6e6f2" opacity="0.6"><circle cx="90" cy="70" r="2"/><circle cx="210" cy="140" r="1.5"/><circle cx="660" cy="60" r="2"/><circle cx="720" cy="170" r="1.5"/><circle cx="520" cy="40" r="1.5"/><circle cx="140" cy="230" r="1.5"/></g>
+  <path d="M-60 500 Q400 300 860 500 Z" fill="#12263a" stroke="#3b5266" stroke-width="6"/>
+  <path d="M-60 500 Q400 318 860 500" fill="none" stroke="#7fa6c4" stroke-width="3" opacity="0.5"/>
+  <g transform="translate(400 190)">
+    <line x1="-150" y1="0" x2="150" y2="0" stroke="#d6e6f2" stroke-width="6"/>
+    <g fill="#12263a" stroke="#d6e6f2" stroke-width="5">
+      <rect x="-290" y="-45" width="170" height="90" rx="6"/>
+      <rect x="120" y="-45" width="170" height="90" rx="6"/>
+    </g>
+    <g stroke="#3b5266" stroke-width="4">
+      <line x1="-233" y1="-45" x2="-233" y2="45"/><line x1="-177" y1="-45" x2="-177" y2="45"/><line x1="-290" y1="0" x2="-120" y2="0"/>
+      <line x1="177" y1="-45" x2="177" y2="45"/><line x1="233" y1="-45" x2="233" y2="45"/><line x1="120" y1="0" x2="290" y2="0"/>
+    </g>
+    <rect x="-60" y="-60" width="120" height="120" rx="12" fill="#12263a" stroke="#d6e6f2" stroke-width="6"/>
+    <rect x="-30" y="-30" width="60" height="60" rx="4" fill="#c8865a"/>
+    <g stroke="#c8865a" stroke-width="5" stroke-linecap="round">
+      <line x1="-18" y1="-42" x2="-18" y2="-30"/><line x1="0" y1="-42" x2="0" y2="-30"/><line x1="18" y1="-42" x2="18" y2="-30"/>
+      <line x1="-18" y1="30" x2="-18" y2="42"/><line x1="0" y1="30" x2="0" y2="42"/><line x1="18" y1="30" x2="18" y2="42"/>
+      <line x1="-42" y1="-18" x2="-30" y2="-18"/><line x1="-42" y1="0" x2="-30" y2="0"/><line x1="-42" y1="18" x2="-30" y2="18"/>
+      <line x1="30" y1="-18" x2="42" y2="-18"/><line x1="30" y1="0" x2="42" y2="0"/><line x1="30" y1="18" x2="42" y2="18"/>
+    </g>
+  </g>
+  <path d="M400 255 L400 330" stroke="#c8865a" stroke-width="4" stroke-dasharray="8 10"/>
+</svg>

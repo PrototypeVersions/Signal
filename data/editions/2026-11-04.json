@@ -1,0 +1,1229 @@
+{
+  "date": "2026-11-04",
+  "number": 18,
+  "cutoff": "2026-11-04T12:35:00Z",
+  "cutoffLabel": "6:35 AM CT",
+  "opening": "Democrats won control of the House and the Senate in the US midterms, taking at least seven Republican Senate seats. Iran said four tankers struck mines near Hormuz, Russia hit Ukraine’s grid with 365 drones and missiles, Israel’s opposition backed Eisenkot and a cyclone struck India’s east coast.",
+  "leadStoryId": "us-midterms-democrats-win-congress",
+  "stories": [
+    {
+      "id": "us-midterms-democrats-win-congress",
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 3, 2026 US congressional elections and the legal fights over how they are run.",
+      "section": "world",
+      "title": "Democrats win control of the House and the Senate, flipping Republican Senate seats from Texas to Maine",
+      "category": "Elections",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-03 / 2026-11-04",
+      "body": "Democrats won majorities in both chambers of Congress in Tuesday’s midterm elections, according to projections by CBS News, ABC News and the Associated Press. They took Republican-held Senate seats in Texas, Maine, Ohio, Iowa, North Carolina, South Carolina and Kansas, and Senator Susan Collins and Ken Paxton conceded. CBS News projected the House for Democrats late on Tuesday, although about 75 House races were still undecided early on Wednesday. Exit polls put President Trump’s approval at 38 percent.",
+      "whatChanged": "Republicans lost both their House and Senate majorities, ending the control of Congress that President Trump has had since his second term began.",
+      "whyMatters": "Democratic majorities will be able to block the president’s legislation and open investigations in his final two years, and Trump has already said he will work with Democrats but use his veto freely.",
+      "uncertainty": "The final seat totals are not known: the Senate races in Alaska and Mississippi were still close early on Wednesday, Louisiana’s result was not reported in the coverage we read, and dozens of House seats remain uncalled.",
+      "watchNext": "The counts in Alaska and Mississippi, the final size of the House majority, and how the White House and Democratic leaders approach the new Congress.",
+      "keyFacts": [
+        "CBS News projected Democrats would win the House at 10:15 p.m. and the Senate at about 11:35 p.m. Eastern on November 3",
+        "Democrats flipped Senate seats in Texas, Maine, Ohio, Iowa, North Carolina, South Carolina and Kansas, per CBS News",
+        "Democrats needed a net gain of four Senate seats; the AP says they now have at least 51",
+        "About 75 House races were undetermined at 4:19 a.m. Eastern on November 4, per CBS News",
+        "Exit polls put Trump’s approval at 38 percent"
+      ],
+      "report": [
+        {
+          "heading": "The Senate",
+          "paragraphs": [
+            "Democrats went into the vote with 47 seats, including two allied independents, and needed a net gain of four. CBS News projections show them taking seven Republican-held seats: James Talarico beat Ken Paxton in Texas, Troy Jackson unseated Susan Collins in Maine, Sherrod Brown beat Senator Jon Husted in Ohio, Josh Turek beat Ashley Hinson in Iowa, Roy Cooper beat Michael Whatley in North Carolina, Annie Andrews beat Senator Darline Graham in South Carolina and Adam Hamilton beat Senator Roger Marshall in Kansas. ABC News says Talarico’s win is the first statewide victory for a Democrat in Texas since 1994. Hamilton told supporters that Kansans of all parties felt what was happening in Washington was not acceptable.",
+            "Democrats also held their own competitive seats: Abdul El-Sayed beat Mike Rogers in Michigan, Jon Ossoff beat Mike Collins in Georgia and Chris Pappas beat John Sununu in New Hampshire. Republicans held Florida, where Ashley Moody won, and Nebraska, where Pete Ricketts beat the independent Dan Osborn. Dan Sullivan and Mary Peltola were locked in a tight race in Alaska, and Cindy Hyde-Smith faced a close count against Scott Colom in Mississippi."
+          ]
+        },
+        {
+          "heading": "The House",
+          "paragraphs": [
+            "CBS News projected at 10:15 p.m. Eastern that Democrats would win the House, where Republicans had held a narrow majority. Gains included all three of the Iowa districts that Christina Bohannan, Lindsay James and Sarah Trone Garriott won from Republicans, Pennsylvania’s 1st, where Bob Harvie defeated Brian Fitzpatrick, Texas’s 15th, where Bobby Pulido beat Monica De La Cruz, and Ohio’s 7th, where Brian Poindexter beat Max Miller. In New York’s 17th district, Mike Lawler conceded to Cait Conley."
+          ]
+        },
+        {
+          "heading": "How Trump responded",
+          "paragraphs": [
+            "Trump told CBS News that his message was congratulations to the Democrats, said he would accept the results and work with them, and warned that he would veto freely. On Truth Social he wrote that Republicans would have won in a landslide had he been on the ballot, and he blamed candidates his supporters did not like. In a Fox News interview he said the Iran war was part of the reason for the defeat, while telling The Wall Street Journal he would start the war again."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Where Democrats gained Senate seats",
+        "bounds": [
+          -125,
+          24,
+          -66,
+          50
+        ],
+        "countries": [
+          "840"
+        ],
+        "alt": "Map of the contiguous United States with markers at the capitals of Texas, Kansas, Iowa, Ohio, North Carolina, South Carolina and Maine, the seven states where Democrats won Republican-held Senate seats according to CBS News projections.",
+        "caption": "Markers sit at state capitals and stand for whole states, based on CBS News projections early on November 4; races in Alaska and Mississippi were still being counted"
+      },
+      "locations": [
+        {
+          "label": "Texas",
+          "mapLabel": "Texas",
+          "lon": -97.74,
+          "lat": 30.27
+        },
+        {
+          "label": "Kansas",
+          "mapLabel": "Kansas",
+          "lon": -95.68,
+          "lat": 39.05
+        },
+        {
+          "label": "Iowa",
+          "mapLabel": "Iowa",
+          "lon": -93.61,
+          "lat": 41.59
+        },
+        {
+          "label": "Ohio",
+          "mapLabel": "Ohio",
+          "lon": -83.0,
+          "lat": 39.96
+        },
+        {
+          "label": "North Carolina",
+          "mapLabel": "N. Carolina",
+          "lon": -78.64,
+          "lat": 35.78
+        },
+        {
+          "label": "South Carolina",
+          "mapLabel": "S. Carolina",
+          "lon": -81.03,
+          "lat": 34.0
+        },
+        {
+          "label": "Maine",
+          "mapLabel": "Maine",
+          "lon": -69.78,
+          "lat": 44.31
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "title": "Live election results for 2026 midterms as Democrats decisively win control of House and Senate",
+          "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Democratic Party wins US Senate in 2026 midterm elections",
+          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC7 New York (ABC News)",
+          "title": "Midterm elections 2026 live updates: Talarico projected to flip Texas Senate seat",
+          "url": "https://abc7ny.com/live-updates/midterm-elections-2026-live-updates-election-results-key-races-us/20001292/entry/20013878/",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Yahoo News",
+          "title": "Trump admits Iran war partly responsible for GOP's midterm defeat",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-admits-iran-war-partly-084640367.html",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "iran-tankers-mines-midterm-message",
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes.",
+      "section": "world",
+      "title": "Iran says four tankers hit mines near Hormuz and that Americans voted against the war, as Trump talks of a ‘heavy hit’",
+      "category": "Conflict",
+      "region": "Middle East · Iran and the Strait of Hormuz",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-03 / 2026-11-04",
+      "body": "Iran’s Revolutionary Guards said on Wednesday that four oil tankers attempting what they called a prohibited passage south of the Strait of Hormuz had struck naval mines and were still burning, and that two other ships had been stopped; the reports we read carried no independent confirmation. Iran’s chief negotiator, Mohammad Bagher Ghalibaf, said the midterm results showed Americans had said no to war. President Trump said the war was partly to blame for Republican losses, and told Fox News the United States may have to do something large.",
+      "whatChanged": "Iran claimed a new mine attack on shipping and cast the US election as a vote against the war, while Trump gave mixed signals about new strikes.",
+      "whyMatters": "Whether the two sides accept Qatar’s latest proposal or return to heavier fighting will decide if the war, now in its ninth month, winds down; Iran says the strait reopens only when its conditions are met, and fuel costs are rising far beyond the region.",
+      "uncertainty": "The tanker claim comes only from Iran in the accounts we read, Trump has said both that he has no immediate plans to attack and that a heavy hit may be needed, and Iranian officials say a deal remains out of reach.",
+      "watchNext": "Washington’s and Tehran’s replies to the Qatari proposal, expected within 36 hours of Tuesday, and any US decision on further strikes.",
+      "keyFacts": [
+        "US forces struck Qeshm Island on November 2; a US official called the strikes limited and defensive",
+        "The Revolutionary Guards say four tankers hit mines and two other vessels were halted",
+        "Qatar expected both sides’ feedback on a new proposal within 36 hours, an official told Reuters on November 3",
+        "Iran’s conditions include lifting oil sanctions, ending the US naval blockade and releasing frozen funds",
+        "Lufthansa expects its 2026 fuel bill to be about 2 billion euros higher because of the war"
+      ],
+      "report": [
+        {
+          "heading": "At sea",
+          "paragraphs": [
+            "The Guards described the four tankers as non-compliant and said they hit mines while trying to pass south of the strait; they also said they shot down a drone over the waterway. On Tuesday Iranian state media had reported three tankers hitting mines, and an Indian sailor was killed when a vessel was attacked off Oman. The Guards also said they downed a US MQ-9 drone and two smaller drones near the strait after the US raid on Qeshm Island, which a US official said targeted surface-to-air missiles used against American forces."
+          ]
+        },
+        {
+          "heading": "The talks",
+          "paragraphs": [
+            "Qatar is the main mediator. Its foreign ministry spokesman, Majed al-Ansari, said both sides were studying proposals and that Doha was trying to bridge the gap; an official briefed on the talks told Reuters replies were expected within 36 hours, though a senior Iranian official said there was no deadline. Pakistani and Saudi mediators are also passing messages. Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, called the latest US response unconvincing and said Washington must address Iran’s seven conditions; Tehran says nuclear talks can start only after they are met, and that any deal must also end fighting in Lebanon and Gaza."
+          ]
+        },
+        {
+          "heading": "Washington’s signals",
+          "paragraphs": [
+            "Trump told the Financial Times on Tuesday evening that he had no immediate plans to order new attacks, and The Wall Street Journal that he did not regret starting the war. He has called the Qeshm raid a minor attack, but told Fox News that a larger action, possibly a heavy hit, might be needed, and repeated that Iran would never have a nuclear weapon. Ghalibaf warned that ignoring the voters’ message would bring a nightmare."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "The Strait of Hormuz",
+        "bounds": [
+          50,
+          22,
+          60,
+          30
+        ],
+        "countries": [
+          "364",
+          "512",
+          "784"
+        ],
+        "labels": [
+          {
+            "label": "Strait of Hormuz",
+            "lon": 56.6,
+            "lat": 26.3,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Oman",
+            "lon": 58.6,
+            "lat": 24.6,
+            "kind": "water"
+          },
+          {
+            "label": "Persian Gulf",
+            "lon": 52.3,
+            "lat": 27.0,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the Strait of Hormuz with Iran, Oman and the United Arab Emirates highlighted and a marker at Qeshm Island, which US forces struck on November 2. The location of the tankers Iran says hit mines was not given.",
+        "caption": "Iran, Oman and the UAE · Qeshm Island is an approximate location; Iran did not say where the tankers were hit"
+      },
+      "locations": [
+        {
+          "label": "Qeshm Island, Iran",
+          "mapLabel": "Qeshm",
+          "lon": 55.9,
+          "lat": 26.8
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Gulf News",
+          "title": "Middle East conflict: Trump warns of ‘heavy hit’ as Iran says Americans voted ‘no to war’",
+          "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Yahoo News",
+          "title": "Trump admits Iran war partly responsible for GOP's midterm defeat",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-admits-iran-war-partly-084640367.html",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "TimesLIVE (Reuters)",
+          "title": "Iran, US still far apart on deal to end war as Qatar pushes mediation",
+          "url": "https://www.timeslive.co.za/news/world/2026-11-03-iran-us-still-far-apart-on-deal-to-end-war-as-qatar-pushes-mediation/",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Khaleej Times",
+          "title": "Qatar says 'bridging the gap' between US, Iran; both sides are reviewing proposals",
+          "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-3-2026",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Live Updates: Iran says U.S. election results show Americans reject war, as Trump says he'd do it again",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "ukraine-grid-strikes-khmelnytskyi-substation",
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia's war in Ukraine, efforts to negotiate an end to it, and the wider security consequences for Europe.",
+      "section": "world",
+      "title": "Russia fires 365 drones and missiles at Ukraine’s power grid, aiming three at a substation that serves a nuclear plant",
+      "category": "Conflict",
+      "region": "Europe · Ukraine",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-02 / 2026-11-03",
+      "body": "Russia launched 289 drones, 17 ballistic missiles and 59 cruise missiles overnight into Tuesday, mainly at power plants and substations, Energy Minister Denys Shmyhal said. He said three drones were sent at a substation vital to the Khmelnytskyi nuclear plant, called the attack a serious escalation and said Ukraine had informed the International Atomic Energy Agency. The energy company DTEK said three of its thermal plants stopped generating, and emergency blackouts hit Kyiv and other regions. Separately, an aerial bomb on a Kharkiv hospital injured 73 people.",
+      "whatChanged": "Russia’s strikes on the grid reached infrastructure that keeps a nuclear plant running, and the toll from Monday’s bombing of an aid point in Komyshuvakha rose to at least 33 dead.",
+      "whyMatters": "Nuclear plants depend on a steady outside power supply to stay safe, and with the heating season starting, attacks on generation and substations are cutting heat, water and transport just days before US-mediated talks.",
+      "uncertainty": "The reports we read did not say how many drones and missiles were shot down, the IAEA had not published its own assessment, and the full damage to the grid is not yet clear.",
+      "watchNext": "Any IAEA statement on the Khmelnytskyi substation, how quickly power returns in Kyiv, and the talks in Abu Dhabi set for November 10 and 11.",
+      "keyFacts": [
+        "289 drones, 17 ballistic missiles and 59 cruise missiles, per Energy Minister Denys Shmyhal",
+        "Ukrenergo says its facilities were targeted more than 20 times in 24 hours",
+        "Three DTEK thermal power plants stopped generating",
+        "73 people were injured when an aerial bomb hit a Kharkiv hospital on November 3",
+        "The Komyshuvakha death toll rose to at least 33, with nearly 50 missing"
+      ],
+      "report": [
+        {
+          "heading": "What was hit",
+          "paragraphs": [
+            "The grid operator Ukrenergo called it one of Russia’s largest attacks on the energy system and said its facilities were targeted more than 20 times in a day. Strikes and damage were reported in 14 regions, including a large power plant in the Kharkiv region and a thermal plant in Dnipro. DTEK said three of its five thermal plants were knocked out. Emergency power cuts were imposed in Kyiv and several regions, water stopped flowing where pumping stations lost power, and Kyiv suspended its electric public transport and opened warming centres. Mayor Vitali Klitschko called the city’s power situation extremely difficult."
+          ]
+        },
+        {
+          "heading": "The nuclear risk",
+          "paragraphs": [
+            "The nuclear plants themselves were not hit, but the substations and lines that carry their power were. Shmyhal said such attacks threaten nuclear safety across Europe, not only in Ukraine, and urged partners to respond. Ukrainian officials had warned before the strike that Russia planned to target substations that serve nuclear plants as winter approached."
+          ]
+        },
+        {
+          "heading": "Casualties and diplomacy",
+          "paragraphs": [
+            "At least one person was killed and 17 injured in Dnipro on Tuesday. In Kharkiv, more than 200 patients were moved after the bomb struck the hospital. The toll from Monday’s strike on Komyshuvakha in the Zaporizhzhia region rose to at least 33 dead, with nearly 50 people missing. President Volodymyr Zelensky was in Berlin for a security conference, where he discussed air defence and energy support with Chancellor Friedrich Merz ahead of the US-led talks."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Ukraine’s grid under attack",
+        "bounds": [
+          22,
+          44,
+          41,
+          53
+        ],
+        "countries": [
+          "804"
+        ],
+        "labels": [
+          {
+            "label": "Black Sea",
+            "lon": 32.5,
+            "lat": 44.6,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Ukraine with markers at Kyiv, where emergency blackouts were imposed, the Khmelnytskyi nuclear plant, whose substation was targeted, Kharkiv, where a hospital was bombed, Dnipro, and Komyshuvakha, where Monday’s strike killed at least 33.",
+        "caption": "Ukraine · approximate reporting locations; strikes were reported across 14 regions, and shading shows the country, not areas of control"
+      },
+      "locations": [
+        {
+          "label": "Kyiv",
+          "mapLabel": "Kyiv",
+          "lon": 30.52,
+          "lat": 50.45
+        },
+        {
+          "label": "Khmelnytskyi nuclear plant, near Netishyn",
+          "mapLabel": "Khmelnytskyi plant",
+          "lon": 26.64,
+          "lat": 50.33
+        },
+        {
+          "label": "Kharkiv",
+          "mapLabel": "Kharkiv",
+          "lon": 36.23,
+          "lat": 49.99
+        },
+        {
+          "label": "Dnipro",
+          "mapLabel": "Dnipro",
+          "lon": 35.05,
+          "lat": 48.46
+        },
+        {
+          "label": "Komyshuvakha, Zaporizhzhia region",
+          "mapLabel": "Komyshuvakha",
+          "lon": 35.52,
+          "lat": 47.72
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Kyiv Post",
+          "title": "Russia Fired 365 Drones, Missiles at Ukraine, Targeting Substation Key to Khmelnytskyi Nuclear Plant",
+          "url": "https://www.kyivpost.com/post/89050",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "LIGA.net",
+          "title": "Russia directed three drones at critical substation serving Khmelnytskyi nuclear power plant, Shmyhal says",
+          "url": "https://news.liga.net/en/politics/news/russia-directed-three-drones-at-critical-substation-serving-khmelnytskyi-nuclear-power-plant-shmyhal-says",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Yahoo News",
+          "title": "Tuesday, November 3. Russia’s War On Ukraine: News And Information From Ukraine",
+          "url": "https://www.yahoo.com/news/world/articles/tuesday-november-3-russia-war-163214954.html",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "israel-opposition-backs-eisenkot-herzog-talks",
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel's first general election since the October 7 attacks, a contest between Benjamin Netanyahu's bloc and challengers led by former army chief Gadi Eisenkot.",
+      "section": "world",
+      "title": "Israel’s opposition unites behind Eisenkot for prime minister as President Herzog opens talks on the next government",
+      "category": "Politics",
+      "region": "Middle East · Israel",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-03 / 2026-11-04",
+      "body": "Opposition leaders Naftali Bennett, Avigdor Lieberman and Yair Golan agreed on Tuesday to recommend that President Isaac Herzog give Gadi Eisenkot the first chance to form a government. Herzog begins consultations with the new Knesset’s factions at 5 p.m. local time on Wednesday and finishes with Likud on Thursday. Benjamin Netanyahu’s bloc won 53 of 120 seats. The opposition holds 48, and two Arab parties with 19 seats are expected to back Eisenkot, which would give him 67 recommendations. Eisenkot promised a national emergency government.",
+      "whatChanged": "The parties opposed to Netanyahu moved from claiming a majority to formally lining up behind a single candidate before the president’s consultations.",
+      "whyMatters": "It is the clearest sign yet that Netanyahu could lose power, and Eisenkot has promised to replace the Likud speaker of the Knesset and repeal laws he says threaten democracy.",
+      "uncertainty": "The Arab parties had not formally announced their recommendation in the reports we read, and Lieberman refuses to join a government that includes them or relies on their support, which could make a coalition hard to build even with 67 backers.",
+      "watchNext": "Herzog’s decision after the consultations end on Thursday, November 5, and the swearing-in of the new Knesset on November 10.",
+      "keyFacts": [
+        "Netanyahu’s bloc won 53 seats, the opposition 48 and the Arab parties 19",
+        "A majority in the 120-seat Knesset needs 61 seats",
+        "Eisenkot’s Yashar party is the largest opposition party, with 21 seats",
+        "Consultations run on November 4 and 5; the Knesset convenes on November 10"
+      ],
+      "report": [
+        {
+          "heading": "Who backs Eisenkot",
+          "paragraphs": [
+            "Bennett’s Together party announced its support on Sunday, and Lieberman’s Yisrael Beytenu and Golan’s Democrats followed on Monday before the leaders met on Tuesday. Lieberman said he would also back Yair Lapid for speaker. The Joint List and Ra’am are expected to make the same recommendation, according to TRT World’s correspondent, but had not confirmed it."
+          ]
+        },
+        {
+          "heading": "The arithmetic",
+          "paragraphs": [
+            "Likud won 27 seats, United Torah Judaism and Otzma Yehudit seven each, and Shas and Religious Zionism six each. On the other side, Yashar has 21, Together 12, the Democrats eight and Yisrael Beytenu seven, with the Joint List on 11 and Ra’am on eight. Neither bloc reached 61 on its own. By law the president must hear every faction before choosing who gets the mandate; he meets them in ascending order of size, starting with Religious Zionism and Shas."
+          ]
+        },
+        {
+          "heading": "What Eisenkot promises",
+          "paragraphs": [
+            "Eisenkot said the bloc would move quickly after next week’s swearing-in to elect a new speaker, pass legislation and repeal laws he says endanger democracy. He called Netanyahu a caretaker prime minister backed by only 46 members of the Knesset, a figure that differs from the bloc’s 53 seats, and accused Likud of casting doubt on the official results. Replacing Speaker Amir Ohana would give the opposition control of the parliamentary agenda even if Netanyahu stays on as caretaker."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "The new Knesset",
+        "measure": "Seats won in Israel’s 2026 election, by bloc",
+        "unit": "seats",
+        "values": [
+          {
+            "label": "Netanyahu’s bloc",
+            "value": 53
+          },
+          {
+            "label": "Opposition parties",
+            "value": 48
+          },
+          {
+            "label": "Arab parties",
+            "value": 19
+          }
+        ],
+        "alt": "Bar chart of the 120-seat Knesset: Netanyahu’s bloc 53 seats, opposition parties 48, Arab parties 19. A majority needs 61.",
+        "caption": "Seat counts reported by TRT World; 61 seats are needed for a majority, and the opposition plus the Arab parties total 67",
+        "sourceUrl": "https://www.trtworld.com/article/e418250c4627"
+      },
+      "sources": [
+        {
+          "publisher": "TRT World",
+          "title": "Israeli opposition rallies behind Eisenkot as Herzog opens consultations on next government",
+          "url": "https://www.trtworld.com/article/e418250c4627",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Jerusalem Post",
+          "title": "Gadi Eisenkot: Benjamin Netanyahu lacks majority, opposition bloc will form gov't",
+          "url": "https://www.jpost.com/israel-election-2026/article-913738",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "cyclone-murasu-andhra-pradesh",
+      "threadId": "cyclone-murasu-2026",
+      "threadTitle": "Cyclone Murasu",
+      "threadSummary": "The severe cyclonic storm that struck India’s Andhra Pradesh coast on November 3, 2026, a week after Cyclone Arnab hit the same coastline.",
+      "section": "world",
+      "title": "Cyclone Murasu hits India’s Andhra Pradesh coast a week after Cyclone Arnab, killing two and damaging crops on 52,000 hectares",
+      "category": "Disaster",
+      "region": "Asia · India",
+      "regions": [
+        "asia"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-03 / 2026-11-04",
+      "body": "The severe cyclonic storm crossed the coast near Ongole in Prakasam district early on Tuesday with winds of 100 to 110 kilometres an hour, according to the India Meteorological Department. The state disaster agency confirmed two deaths in Bapatla district and said 312 houses and 52,459 hectares of crops were damaged, with 12,230 people moved to relief centres. Murasu arrived about a week after Cyclone Arnab struck farther north on the same coast. Home Minister Amit Shah promised help from the central government.",
+      "whatChanged": "A second severe cyclone in about a week made landfall on the same stretch of India’s east coast.",
+      "whyMatters": "Back-to-back storms are hitting the same farming and fishing districts, flooding standing crops, wrecking boats and leaving hundreds of irrigation tanks on high alert.",
+      "uncertainty": "Damage figures are preliminary, at about 344 crore rupees, and could change as floodwater recedes and more districts report.",
+      "watchNext": "Water levels in irrigation tanks and the Budameru rivulet, and the state’s final damage assessment.",
+      "keyFacts": [
+        "Landfall near Ongole, in Prakasam district, early on November 3",
+        "Winds of 100 to 110 km/h at landfall, per the India Meteorological Department",
+        "Two deaths in Bapatla district; 312 houses damaged",
+        "12,230 people moved to relief centres; 52,459 hectares of crops damaged",
+        "Preliminary damage estimate of about 344 crore rupees"
+      ],
+      "report": [
+        {
+          "heading": "Landfall",
+          "paragraphs": [
+            "The storm began crossing the coast after midnight and had largely moved inland by mid-morning, according to the meteorological department’s bulletins reported by Down To Earth. Before landfall, officials planned to move about 30,000 people in Andhra Pradesh to safety. Heavy rain also fell on Tamil Nadu, Puducherry and Odisha, and storm surges were reported in Bapatla, Prakasam and Krishna districts, with residents describing sea water pushing inland near Ongole."
+          ]
+        },
+        {
+          "heading": "The damage",
+          "paragraphs": [
+            "The Press Trust of India reported thousands of trees down, hundreds of power poles damaged, fishing boats wrecked and standing crops flooded in Prakasam and Bapatla. Guntur, Bapatla and Palnadu are the worst-affected districts, and road, rail and air travel was disrupted. Prakhar Jain of the state disaster management authority confirmed the two deaths. At least 150 pregnant women and elderly people were moved to hospitals and health centres, and 776 of 814 monitored irrigation tanks are on high alert. Chief Minister N Chandrababu Naidu reviewed the response with district officials and briefed Shah."
+          ]
+        },
+        {
+          "heading": "Two storms in a week",
+          "paragraphs": [
+            "Cyclone Arnab, a very severe cyclonic storm, made landfall farther north on October 28 and caused heavy damage in Andhra Pradesh and neighbouring Odisha. Murasu was expected to weaken into a deep depression overnight into Wednesday, and the meteorological department had warned that flooding could spread inland."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Murasu’s landfall in Andhra Pradesh",
+        "bounds": [
+          74,
+          8,
+          90,
+          23
+        ],
+        "countries": [
+          "356"
+        ],
+        "labels": [
+          {
+            "label": "Bay of Bengal",
+            "lon": 86,
+            "lat": 15,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of southern and eastern India with markers at Ongole, where Cyclone Murasu made landfall, and at Bapatla, where two people died.",
+        "caption": "India · approximate reporting locations; the storm’s rain also reached Tamil Nadu, Puducherry and Odisha"
+      },
+      "locations": [
+        {
+          "label": "Ongole, Prakasam district",
+          "mapLabel": "Ongole",
+          "lon": 80.05,
+          "lat": 15.5
+        },
+        {
+          "label": "Bapatla district",
+          "mapLabel": "Bapatla",
+          "lon": 80.47,
+          "lat": 15.9
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "The News Minute",
+          "title": "Cyclone Murasu leaves 2 dead, damages 312 houses in Andhra Pradesh",
+          "url": "https://www.thenewsminute.com/andhra-pradesh/cyclone-murasu-leaves-2-dead-damages-312-houses-in-andhra-pradesh",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Cyclone Murasu makes landfall on India’s eastern coast",
+          "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Down To Earth",
+          "title": "Cyclone Murasu: Second severe cyclonic storm in a week leaves a trail of destruction along Andhra Pradesh coast",
+          "url": "https://www.downtoearth.org.in/climate-change/cyclone-murasu-second-severe-cyclonic-storm-in-a-week-leaves-a-trail-of-destruction-along-andhra-pradesh-coast",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "saudi-houthi-drones-mecca",
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes.",
+      "section": "more",
+      "title": "Saudi Arabia says it shot down a drone over the Mecca region as fighting with Yemen’s Houthis escalates",
+      "category": "Conflict",
+      "region": "Middle East · Saudi Arabia and Yemen",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-02 / 2026-11-03",
+      "whatChanged": "The Saudi-led coalition reported intercepting drones over Mecca, the Eastern Province and the south, while the Houthis claimed strikes on a Saudi airport and air base.",
+      "body": "Coalition spokesman Turki al-Maliki said three drones were destroyed on Tuesday, including one over the Mecca region, a day after a ballistic missile and two drones were intercepted. Houthi spokesman Yahya Sarea claimed a drone strike on Abha airport and a missile strike on King Khalid Air Base at Khamis Mushait; neither claim was independently confirmed, and the Houthis have denied earlier Saudi accusations of targeting Mecca. The Houthis say Saudi air strikes killed 17 people in Yemen over two days.",
+      "sources": [
+        {
+          "publisher": "Xinhua",
+          "title": "Saudi-led coalition says intercepted 3 drones as Houthis claim attacks on Saudi airport, airbase",
+          "url": "https://english.news.cn/20261104/63111060703b4708aecd77e2745d2b41/c.html",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency via A News",
+          "title": "Saudi-led coalition says drone intercepted over Mecca region amid escalation with Houthis",
+          "url": "https://www.anews.com.tr/middle-east/2026/11/03/saudi-led-coalition-says-drone-intercepted-over-mecca-region-amid-escalation-with-houthis",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Khaleej Times",
+          "title": "Qatar says 'bridging the gap' between US, Iran; both sides are reviewing proposals",
+          "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-3-2026",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Foreign Exchanges",
+          "title": "World roundup: November 3 2026",
+          "url": "https://www.foreignexchanges.news/p/world-roundup-november-3-2026",
+          "publishedAt": "2026-11-03",
+          "kind": "Analysis"
+        }
+      ]
+    },
+    {
+      "id": "us-midterm-ballot-measures-abortion-voter-id",
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 3, 2026 US congressional elections and the legal fights over how they are run.",
+      "section": "more",
+      "title": "Virginia votes to protect abortion rights and Missouri rejects a rollback, while Ohio and North Carolina adopt photo ID",
+      "category": "Elections",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-03 / 2026-11-04",
+      "whatChanged": "Early results from about 145 statewide ballot measures split on abortion and favoured stricter voter identification.",
+      "body": "Virginia’s Question 1, which adds a right to make reproductive care decisions to the state constitution, passed with about 62 percent, according to a New York Times projection reported by Just the News. Missouri voters defeated Amendment 3, which would have repealed the abortion-rights amendment they approved in 2024. Ohio and North Carolina wrote photo voter ID into their constitutions, and Florida approved a property tax cut. California’s one-time 5 percent tax on billionaires was trailing in early returns and had not been called.",
+      "sources": [
+        {
+          "publisher": "Just the News",
+          "title": "2026 ballot measure results: Voters decide on abortion, voter ID and tax questions across states",
+          "url": "https://justthenews.com/politics-policy/elections/2026-ballot-measure-results-voters-decide-abortion-voter-id-and-tax",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "spain-transport-minister-puente-resigns",
+      "threadId": "spain-rail-safety",
+      "threadTitle": "Spain's high-speed rail safety",
+      "threadSummary": "Deadly collisions in 2026 on Spain's high-speed lines to Andalusia, both involving trains run by Renfe and Iryo, and the questions they raise about signalling and control.",
+      "section": "more",
+      "title": "Spain’s transport minister resigns over the Madrid to Seville train crash that killed 69",
+      "category": "Politics",
+      "region": "Europe · Spain",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-03 / 2026-11-04",
+      "whatChanged": "Óscar Puente stepped down a week after the collision and withdrew from the coming general election.",
+      "body": "Puente said he could not stay in office after two serious accidents in less than a year: the October 28 collision, in which central controllers let a Renfe train continue after a signal failure into a stationary Iryo train, and a derailment in Andalusia in January that killed 46. He said he had decided to go right after the crash but stayed to coordinate the first response. Prime Minister Pedro Sánchez announced a 30-million-euro aid package, including 72,121 euros in direct aid for bereaved families.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Spanish transport minister resigns after train crash killed 69 people",
+          "url": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "threadId": "europe-hybrid-threats",
+      "threadTitle": "Sabotage and disruption in Europe",
+      "threadSummary": "Cyberattacks, hoax threats and other disruptions across Europe that officials are investigating, with no culprits confirmed.",
+      "id": "europe-supermarket-freezer-cyberattacks",
+      "section": "more",
+      "title": "Hackers overheat supermarket freezers in at least 11 European countries, and the EU says the attacks are not isolated",
+      "category": "Cybersecurity",
+      "region": "Europe",
+      "regions": [
+        "europe"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-02 / 2026-11-04",
+      "whatChanged": "Germany, Romania and Britain joined nine other countries in reporting attacks that raised temperatures in supermarket refrigeration systems.",
+      "body": "Attackers pushed up the temperature of refrigeration systems on November 2, spoiling food in stores in countries including Sweden, Italy, Belgium, Germany and Romania; freezers in one Swedish store reached about 50 degrees Celsius. No group has claimed responsibility, and Romania’s cybersecurity director called the attack semi-amateurish and said he did not suspect a state. EU agencies are coordinating a response, after a similar attack on hundreds of French supermarkets in October.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+          "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "threadId": "europe-hybrid-threats",
+      "threadTitle": "Sabotage and disruption in Europe",
+      "threadSummary": "Cyberattacks, hoax threats and other disruptions across Europe that officials are investigating, with no culprits confirmed.",
+      "id": "europe-flight-bomb-threats",
+      "section": "more",
+      "title": "Hoax bomb threats target at least seven flights across Europe, with jets scrambled and a cruise ship evacuated",
+      "category": "Security",
+      "region": "Europe",
+      "regions": [
+        "europe"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-02 / 2026-11-03",
+      "whatChanged": "A wave of bomb threats against airliners and a cruise ship disrupted travel in several countries, and no explosives were found.",
+      "body": "Ryanair, Wizz Air, SAS and LOT flights were targeted on Tuesday; Italian fighter jets escorted a Ryanair flight from Dublin to Rome, and a LOT flight from London was diverted to Warsaw Modlin. The Crown Iris, a cruise ship carrying about 1,500 people to Haifa, was evacuated off the Greek island of Syros. No one claimed responsibility; Russia and Iran, which European officials accuse of hybrid attacks, deny any such campaign.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+          "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "bangladesh-garment-wage-protests",
+      "threadId": "bangladesh-garment-wages",
+      "threadTitle": "Bangladesh’s garment wages",
+      "threadSummary": "The struggle over pay in Bangladesh’s garment industry, its biggest source of export earnings.",
+      "section": "more",
+      "title": "Bangladesh sets up a wage board as garment workers’ protests close hundreds of factories",
+      "category": "Labour",
+      "region": "Asia · Bangladesh",
+      "regions": [
+        "asia"
+      ],
+      "status": "This week",
+      "eventDate": "2026-10-31 / 2026-11-02",
+      "whatChanged": "Protests for higher pay shut about 500 factories, and the government responded by forming a board to review the minimum wage.",
+      "body": "Thousands of workers have marched in Dhaka’s Mirpur district and the industrial areas of Savar, Ashulia and Gazipur since Saturday, demanding a minimum monthly wage of 30,000 taka, more than double the current 12,500. Police used tear gas and sound grenades. Prime Minister Tarique Rahman held an emergency meeting, and the manufacturers’ association urged workers to let the new wage board work, warning of no work, no pay. Owners cite higher energy costs linked to the Iran war and weaker demand.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Bangladesh garment factories disrupted as protests continue for third day",
+          "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day",
+          "publishedAt": "2026-11-02",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-flashprove-provable-inference",
+      "threadId": "independent-ai-evaluation",
+      "threadTitle": "Independent AI evaluation",
+      "threadSummary": "Access, publication terms, and outside scrutiny of powerful AI systems.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Anthropic shows a way to prove which AI model wrote an answer, without revealing the model itself",
+      "category": "Verification",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-02 / 2026-11-03",
+      "hook": "A useful step toward checking what AI providers actually serve, but it is slow, limited to short exchanges and not deployed anywhere.",
+      "body": "Anthropic has released FlashProve, an open-source prototype that uses a cryptographic proof to show that a response came from a specific, publicly committed set of model weights, without disclosing the weights. Tested on Meta’s 400-billion-parameter Llama 4 Maverick model, a single H100 chip produced proofs at about 110 tokens a second, and an ordinary processor checked each proof in about 17 seconds. The company calls it intermediate research with collaborators including EPFL and MIT, and TechCrunch reports no plans to deploy it.",
+      "whatChanged": "Proving which model produced an answer moved from a research idea to working, openly licensed code on a large open model.",
+      "whyMatters": "Today users and regulators must take a provider’s word about which model answered them; a practical check would make it harder to swap in a different model unnoticed and would let outsiders verify claims about which system did a task.",
+      "uncertainty": "Proving costs 70 to 95 times the computing needed to run the model, it covers only a simplified version of the model and up to 1,024 tokens, and the work has not been independently reviewed.",
+      "watchNext": "Whether outside researchers test the code, and whether the cost of proofs falls far enough for real services.",
+      "keyFacts": [
+        "About 110 tokens a second of proofs on one H100 chip for a 400-billion-parameter model",
+        "Each proof is about 19 MB for a 1,024-token request",
+        "Proving takes 70 to 95 times the GPU time of normal inference",
+        "A proof is checked in about 17 seconds on 24 processor threads",
+        "Released under the Apache 2.0 open-source licence"
+      ],
+      "report": [
+        {
+          "heading": "What it does",
+          "paragraphs": [
+            "A lab first publishes a commitment, a kind of fingerprint of a model’s weights, which takes about 39 minutes to compute once. For each answer the model gives, the system then produces a zero-knowledge proof that the output was computed from those committed weights. The proof reveals nothing about the weights themselves, though the model’s architecture is not hidden. TechCrunch notes that this could stop a provider quietly substituting a cheaper model, and that the design is meant to resist impostors, including the lab that runs the model."
+          ]
+        },
+        {
+          "heading": "What was tested",
+          "paragraphs": [
+            "Roy Rinberg and Alex Allain of Anthropic’s Frontier Red Team, working with collaborators from EPFL, StarkWare, MIT and others, ran the system on Llama 4 Maverick, an open mixture-of-experts model, with its weights compressed to four bits. Proofs came out at about 110 tokens a second on one H100 and were about 19 MB per 1,024-token request. The release includes the prover, a fast verifier, a slower verifier written in the Lean proof language with formal proofs of its main claims, a specification and a technical report."
+          ]
+        },
+        {
+          "heading": "The limits",
+          "paragraphs": [
+            "The proofs cover an integer version of the model with greedy decoding, not the floating-point arithmetic and random sampling used in most services. Context is capped at 1,024 tokens, attacks that exploit timing and other side channels are out of scope, and the fast verifier carries no formal guarantee. Anthropic presents possible uses, such as tamper detection and checking which model was approved, rather than a deployment plan."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-04/anthropic-flashprove-provable-inference.svg",
+        "alt": "A sheet of text lines sealed with a copper wax seal bearing a fingerprint, standing for a cryptographic proof of which AI model wrote a response.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Anthropic",
+          "title": "Progress on provable inference for large language models",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "publishedAt": "2026-11-02",
+          "kind": "Company announcement"
+        },
+        {
+          "publisher": "TechCrunch",
+          "title": "Anthropic is working on a system to prove AI models' identity",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "ai-edits-model-weights-mit",
+      "threadId": "ai-and-research",
+      "threadTitle": "AI & scientific research",
+      "threadSummary": "How AI systems are being used to produce and check scientific and mathematical results.",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "MIT researchers say one AI improved a smaller model by editing its weights directly, with no training",
+      "category": "AI research",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-02 / 2026-11-03",
+      "hook": "An intriguing early result on one small model, shared in a blog post rather than a reviewed paper.",
+      "body": "A team at MIT’s Computer Science and Artificial Intelligence Laboratory reports that OpenAI’s GPT-6 Astra, asked to improve the maths ability of the small open model Qwen3.5-0.8B, changed about 0.016 percent of its weights directly instead of retraining it. The edits reduced the small model’s tendency to get stuck in reasoning loops and raised its score on the MATH-500 benchmark from 7.9 to 48.1 percent, the researchers say. In another test Astra wrote, from scratch, the weights of a small network that plays the game Breakout.",
+      "whatChanged": "Researchers showed a frontier model making small, direct edits to another model’s parameters in place of the usual training process.",
+      "whyMatters": "If the approach holds up, models could be repaired or improved without costly retraining, and it adds to the evidence of AI systems working directly on AI development, which raises questions about oversight.",
+      "uncertainty": "The results cover one small model and a few benchmarks, have not been peer reviewed or independently repeated, and The Register quoted no outside experts.",
+      "watchNext": "The benchmark and testing harness the team says it is building, and attempts to repeat the result on larger models.",
+      "keyFacts": [
+        "GPT-6 Astra edited the weights of Qwen3.5-0.8B",
+        "About 0.016 percent of the small model’s weights were changed",
+        "MATH-500 score rose from 7.9 to 48.1 percent, per the researchers",
+        "Instruction-following on the IFEval benchmark roughly tripled",
+        "No gradient-descent training was used"
+      ],
+      "report": [
+        {
+          "heading": "What the team did",
+          "paragraphs": [
+            "Rikiya Takehi, a PhD student at MIT CSAIL, worked with Jayden Teoh, Alex Zhang and Omar Khattab on what they call weight-space programming. Rather than adjusting a model through training on examples, they asked a large model to inspect and rewrite the numbers inside a smaller one. Astra changed a tiny fraction of the Qwen model’s weights, which cut its reasoning loops, improved maths results by up to six times and roughly tripled its instruction-following score."
+          ]
+        },
+        {
+          "heading": "Writing a network from nothing",
+          "paragraphs": [
+            "In a separate experiment, Astra produced the weights of a policy network for the arcade game Breakout without any training run, a test of whether a model can build a working network directly. Takehi has suggested that direct edits might avoid catastrophic forgetting, where training on a new skill erodes old ones, but that is a hypothesis, not a reported result."
+          ]
+        },
+        {
+          "heading": "How much weight to give it",
+          "paragraphs": [
+            "The findings were shared in a blog post and on social media, and the researchers describe them as early signs. They rest on one small model and a handful of benchmarks, and no peer-reviewed paper or independent replication has been reported. The team says its next step is a benchmark and harness for testing the method more widely, which would let other groups check whether the gains carry over to larger models and other tasks."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-04/ai-edits-model-weights.svg",
+        "alt": "A grid of pale dots joined by thin lines, with a fine copper-tipped tool touching three dots that glow copper, standing for one AI directly editing a few of another model’s weights.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "The Register",
+          "title": "Forget retraining - AI can now tweak another AI's weights",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "AI Weekly",
+          "title": "AI News Today, November 4: Top Stories",
+          "url": "https://aiweekly.co/ai-news-today",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ]
+    },
+    {
+      "id": "sudan-ethiopia-consulate-expulsions-blue-nile",
+      "threadId": "sudan-war-humanitarian-crisis",
+      "threadTitle": "Sudan's war and humanitarian crisis",
+      "threadSummary": "The war between Sudan’s army and the Rapid Support Forces since April 2023, and the famine and displacement it has caused.",
+      "section": "still",
+      "title": "Ethiopia orders out Sudanese consulate staff, as the RSF and its allies say they have taken an army base in Blue Nile",
+      "category": "Conflict",
+      "region": "Africa · Sudan and Ethiopia",
+      "regions": [
+        "africa"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-03 / 2026-11-04",
+      "body": "A senior Ethiopian official confirmed on Wednesday that six members of Sudan’s consulate in the border town of Assosa must leave within 48 hours, Reuters reported, without giving a reason. Sudan accuses Ethiopia of letting the Rapid Support Forces launch drones from its territory, which Ethiopia denies. On Tuesday the RSF and the allied SPLM-North said they had captured Sali, an army base about 100 kilometres south of Blue Nile state’s capital, Ed Damazin; the army had not responded to the claim.",
+      "whatChanged": "The dispute between Sudan and Ethiopia moved from complaints at the UN to expulsions, as fighting advanced near their border in Blue Nile.",
+      "whyMatters": "A rupture between the two neighbours risks widening a war in which, by a Sudanese government count, drone attacks alone have killed 484 civilians since February and knocked out most urban power stations.",
+      "uncertainty": "Neither Sudan’s drone allegations nor the RSF’s account of Sali has been independently verified, and Ethiopia has not explained the expulsions.",
+      "watchNext": "Whether the consulate staff leave by Friday, any response from Ethiopia at the UN or the African Union, and the army’s next moves around Ed Damazin.",
+      "keyFacts": [
+        "Six staff of Sudan’s consulate in Assosa were given 48 hours to leave",
+        "Sudan counts 70 drone attacks using 187 drones launched from Ethiopia between February and October",
+        "Sudan says 28 of those attacks, using 97 drones, came in October",
+        "Sali lies about 100 km south of Ed Damazin, Blue Nile’s capital"
+      ],
+      "report": [
+        {
+          "heading": "The expulsions",
+          "paragraphs": [
+            "The Ethiopian official spoke anonymously, and the prime minister’s office did not answer Reuters’ request for comment. The order came days after Sudan complained to the UN Security Council and the African Union’s Peace and Security Council that the RSF was using Ethiopian territory to fire suicide drones at civilian targets. Ethiopia in turn accuses Sudan, Egypt and Eritrea of backing Tigrayan rebels who began an offensive in September; all three deny it. Amjad Farid, an adviser to Sudan’s Transitional Sovereign Council, said Sudan would defend its territory but was working hard to avoid open war with Ethiopia."
+          ]
+        },
+        {
+          "heading": "The drone campaign",
+          "paragraphs": [
+            "A report by Sudan’s foreign ministry and military intelligence names Asosa airport, the Kurmuk border area and the Bahir Dar air base in Amhara as launch sites. A separate government report says drone attacks killed 176 soldiers and 484 civilians between February 15 and October 27, and Al Jazeera reports that more than 90 percent of power stations in Sudanese cities are out of service. UN Secretary-General António Guterres has condemned the toll of drone strikes on civilians."
+          ]
+        },
+        {
+          "heading": "Fighting in Blue Nile",
+          "paragraphs": [
+            "The RSF-led Sudan Founding Alliance said its forces entered Sali on Tuesday morning from Kurmuk and Sirkum and called it a major victory, claiming soldiers were killed or captured. A day earlier the army’s 4th Infantry Division said it had repelled attacks on Sali and Bakori. Sali sits on a road linking the border region to Dindiro and Ed Damazin, so its loss would give the alliance a base for pushing toward the state capital."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "ThePrint (Reuters)",
+          "title": "Ethiopia expels Sudanese diplomats after fresh allegations of support for RSF",
+          "url": "https://theprint.in/world/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-of-support-for-rsf/3090457/",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Sudans Post",
+          "title": "RSF and allied rebels capture Sali base in Sudan's Blue Nile",
+          "url": "https://www.sudanspost.com/rsf-and-allied-rebels-capture-sali-base-in-sudans-blue-nile/",
+          "publishedAt": "2026-11-03",
+          "kind": "Reporting"
+        }
+      ]
+    }
+  ],
+  "watch": [
+    {
+      "title": "Herzog’s choice",
+      "text": "Israel’s president finishes consultations with the Knesset factions on Thursday, November 5, ending with Likud, and is then expected to say whom he is asking to form a government."
+    },
+    {
+      "title": "Answers to Qatar",
+      "text": "Qatari mediators expected Washington and Tehran to respond to a new proposal within 36 hours of Tuesday, November 3, while President Trump weighs whether to order a larger strike."
+    },
+    {
+      "title": "The last midterm counts",
+      "text": "Senate races in Alaska and Mississippi were still close early on Wednesday, and about 75 House races were uncalled, so the size of the new Democratic majorities is not yet known."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Democrats won control of both chambers of Congress and several governorships in the US midterms, while ballot measures split on abortion and favoured stricter voter ID.",
+      "briefs": [
+        {
+          "title": "Democrats win governor’s races in Texas, Ohio, Iowa and Georgia",
+          "text": "CBS News projected that Gina Hinojosa beat Governor Greg Abbott in Texas, Amy Acton beat Vivek Ramaswamy in Ohio, Rob Sand won in Iowa and Keisha Lance Bottoms won in Georgia, while Republican Byron Donalds won in Florida. ABC News projected that Deb Haaland would become the first Native American governor in US history, in New Mexico, and that Kathy Hochul would keep New York’s governorship.",
+          "eventDate": "2026-11-03 / 2026-11-04",
+          "sources": [
+            {
+              "publisher": "CBS News",
+              "title": "Live election results for 2026 midterms as Democrats decisively win control of House and Senate",
+              "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "ABC7 New York (ABC News)",
+              "title": "Midterm elections 2026 live updates: Talarico projected to flip Texas Senate seat",
+              "url": "https://abc7ny.com/live-updates/midterm-elections-2026-live-updates-election-results-key-races-us/20001292/entry/20013878/",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Pope Leo prepares a twelve-day tour of Uruguay, Argentina and Peru, Caribbean leaders pressed King Charles on slavery, and Argentina declined to explain Flávio Bolsonaro’s exit from Brazil.",
+      "briefs": [
+        {
+          "title": "Pope Leo sets out a twelve-day tour of Uruguay, Argentina and Peru",
+          "text": "The Vatican said the pope will visit Uruguay from November 6 to 8, Argentina from November 8 to 11 and Peru from November 11 to 17, covering ten cities. It is the first papal visit to Uruguay since 1988 and to Argentina, the late Pope Francis’s homeland, in almost four decades. In Peru, where he worked for years as a missionary and bishop, he plans to meet prisoners, the poor and victims of clerical abuse.",
+          "eventDate": "2026-11-03",
+          "sources": [
+            {
+              "publisher": "Vatican News",
+              "title": "Vatican press office presents Pope Leo's Apostolic Journey to Latin America",
+              "url": "https://www.vaticannews.va/en/pope/news/2026-11/vatican-press-office-presents-pope-leo-s-journey-latin-america.html",
+              "publishedAt": "2026-11-03",
+              "kind": "Primary"
+            }
+          ]
+        },
+        {
+          "title": "King Charles voices sorrow over slavery in Antigua but offers no apology",
+          "text": "Opening the Commonwealth summit in St John’s on November 3, the king called the transatlantic slave trade a source of horror and profound personal sorrow but made no formal apology, as Buckingham Palace had signalled. Guyana’s President Irfaan Ali said an apology should be the next step, and protesters outside called for repair. British Prime Minister Andy Burnham has said Britain is open to an apology but rules out financial reparations.",
+          "eventDate": "2026-11-03",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "UK's King Charles expresses 'sorrow' in Antigua over slave trade",
+              "url": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era",
+              "publishedAt": "2026-11-03",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Argentina calls its role in Flávio Bolsonaro’s exit irrelevant",
+          "text": "Flávio Bolsonaro, who lost Brazil’s October 25 presidential runoff, crossed into Argentina despite a Supreme Court travel ban and flew via Ecuador to Miami, according to Argentina’s migration office. On November 3 Argentina’s presidential spokesman called the government’s role irrelevant and would not say whether President Javier Milei knew of the trip in advance. Brazil has asked Argentina to explain how he left, and Argentine prosecutors are reviewing complaints.",
+          "eventDate": "2026-10-27 / 2026-11-03",
+          "sources": [
+            {
+              "publisher": "The Rio Times",
+              "title": "Latin America Mood: Bolsonaro Exit, Airport Strike, Drone Attacks",
+              "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-november-4-2026/",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Buenos Aires Herald",
+              "title": "Despite travel ban, Bolsonaro got to the US via Argentina. Did he break any laws?",
+              "url": "https://buenosairesherald.com/politics/despite-travel-ban-bolsonaro-got-to-the-us-via-argentina-did-he-break-any-laws",
+              "publishedAt": "2026-10-29",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Russia launched one of its largest attacks on Ukraine’s power grid, Spain’s transport minister resigned over a deadly crash, and cyberattacks and hoax bomb threats disrupted shops and flights across the continent.",
+      "briefs": [
+        {
+          "title": "Greenland’s parliament approves the security deal with the US and Denmark",
+          "text": "Greenland’s lawmakers approved the trilateral agreement 16 to 0, with seven abstentions, on November 3. Signed in September, it allows more US bases on the island and an expansion of activity at Pituffik Space Base, while Greenland remains under Danish control. Danish lawmakers are due to debate it later this month; US Senate approval is not needed.",
+          "eventDate": "2026-11-03",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Greenland parliament approves security deal with US, Denmark",
+              "url": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark",
+              "publishedAt": "2026-11-03",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Ukrainian drones set fire to a Russian refinery in Yaroslavl",
+          "text": "A drone attack overnight into November 3 caused a fire and damage at the Slavneft-YANOS refinery in Yaroslavl, which processes about 15 million tonnes of crude a year. Two employees were injured, according to the report.",
+          "eventDate": "2026-11-03",
+          "sources": [
+            {
+              "publisher": "Yahoo News",
+              "title": "Tuesday, November 3. Russia’s War On Ukraine: News And Information From Ukraine",
+              "url": "https://www.yahoo.com/news/world/articles/tuesday-november-3-russia-war-163214954.html",
+              "publishedAt": "2026-11-03",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "Ethiopia expelled Sudanese consulate staff as the drone dispute between the neighbours escalated, and the United States moved to cut South Africa and Rwanda out of its duty-free trade programme.",
+      "briefs": [
+        {
+          "title": "The US will suspend South Africa and Rwanda from duty-free trade",
+          "text": "US Trade Representative Jamieson Greer said on November 2 that both countries fail the eligibility rules of the African Growth and Opportunity Act, with the suspension taking effect on January 1, 2027. South Africa, the programme’s largest beneficiary, exported about $1.7 billion of goods under it in 2025, mainly vehicles, farm products and wine. President Cyril Ramaphosa has said the country must prepare to lose access and look for new markets.",
+          "eventDate": "2026-11-02",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+              "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access",
+              "publishedAt": "2026-11-02",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Iran claimed new mine strikes on tankers near Hormuz as talks through Qatar continued, Israel’s opposition united behind Gadi Eisenkot, and the Houthis and Saudi Arabia traded attacks.",
+      "briefs": [
+        {
+          "title": "Lebanon’s prime minister warns against being dragged into renewed fighting",
+          "text": "Nawaf Salam said on November 4 that Lebanon had already paid a heavy price and must not be pulled into a new round of regional war. Hezbollah joined the conflict in support of Iran, and Lebanon’s health ministry counts almost 9,000 people killed since October 2023.",
+          "eventDate": "2026-11-04",
+          "sources": [
+            {
+              "publisher": "CBS News",
+              "title": "Live Updates: Iran says U.S. election results show Americans reject war, as Trump says he'd do it again",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Etihad extends its suspension of flights to Riyadh and Dammam",
+          "text": "The Abu Dhabi airline extended the suspension of its flights to the two Saudi cities until November 19. Saudi civil defence said the danger had passed in Jazan after an early-warning alert on Wednesday.",
+          "eventDate": "2026-11-04",
+          "sources": [
+            {
+              "publisher": "Gulf News",
+              "title": "Middle East conflict: Trump warns of ‘heavy hit’ as Iran says Americans voted ‘no to war’",
+              "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "Cyclone Murasu struck India’s Andhra Pradesh coast a week after Cyclone Arnab, garment workers’ protests closed factories in Bangladesh, and gunmen killed police guarding polio teams in Pakistan.",
+      "briefs": [
+        {
+          "title": "Gunmen kill two police officers guarding Pakistan’s polio campaign",
+          "text": "Gunmen on a motorcycle fired on a police car in Khyber Pakhtunkhwa on November 3 as officers travelled to protect polio vaccinators, killing two and wounding one, a day after four officers on the same duty were abducted. No group claimed the attack. The campaign aims to reach nearly 24 million children, and Pakistan has recorded eight polio cases this year.",
+          "eventDate": "2026-11-03",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Two police officers protecting polio workers in Pakistan shot dead",
+              "url": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead",
+              "publishedAt": "2026-11-03",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Two helicopters collide near Everest base camp",
+          "text": "Two helicopters collided while landing at Pheriche, at about 4,200 metres in Nepal’s Everest region, on November 3. A 47-year-old Indian man was killed, and a New Zealander and a Nepali pilot were injured; the cause was not reported.",
+          "eventDate": "2026-11-03",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "One dead after two helicopters collide near Mount Everest in Nepal",
+              "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal",
+              "publishedAt": "2026-11-03",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "Australia’s Canva cut more than a fifth of its staff as growth slowed, and Australia’s highest court heard a challenge to the ban on social media for under-16s.",
+      "briefs": [
+        {
+          "title": "Canva cuts 1,271 jobs as its growth slows",
+          "text": "The Sydney-based design company is cutting 22 percent of its workforce and has lowered its 2026 revenue growth forecast from 30 to 20 percent, after growth slowed for the first time in a decade. Chief executive Melanie Perkins called it the company’s hardest year yet. Rising AI costs and competition from AI tools weigh on the business, and departing staff get at least six months’ pay.",
+          "eventDate": "2026-11-04",
+          "sources": [
+            {
+              "publisher": "TechCrunch",
+              "title": "Canva lays off over 1,200 people amid slowing growth",
+              "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "People Matters",
+              "title": "Canva layoffs: 22% employees to exit, company offers six months' salary to affected staff",
+              "url": "https://www.peoplematters.in/news/strategic-hr/canva-layoffs-22percent-employees-to-exit-company-offers-six-months-salary-to-affected-staff-53173",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Australia defends its under-16 social media ban in the High Court",
+          "text": "Reddit and the Digital Freedom Project argue that the ban, in force since December 2025, unjustifiably limits the implied constitutional freedom of political communication. The government told the court on November 4 that the ban is modest and protects children from harms including depression and anxiety. The court adjourned after two days and is expected to rule in the coming months.",
+          "eventDate": "2026-11-03 / 2026-11-04",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Australian government defends social media ban for under 16s in court",
+              "url": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

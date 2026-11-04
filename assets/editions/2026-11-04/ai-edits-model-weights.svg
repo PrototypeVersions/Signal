@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A grid of pale dots joined by thin lines, with a fine copper-tipped tool touching three of them, which glow copper, standing for one AI directly editing a few of another model's weights">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g stroke="#3b5266" stroke-width="2">
+    <line x1="160" y1="120" x2="320" y2="200"/><line x1="160" y1="120" x2="320" y2="300"/>
+    <line x1="160" y1="250" x2="320" y2="200"/><line x1="160" y1="250" x2="320" y2="300"/><line x1="160" y1="250" x2="320" y2="400"/>
+    <line x1="160" y1="380" x2="320" y2="300"/><line x1="160" y1="380" x2="320" y2="400"/><line x1="160" y1="120" x2="320" y2="100"/>
+    <line x1="320" y1="100" x2="480" y2="150"/><line x1="320" y1="200" x2="480" y2="150"/><line x1="320" y1="200" x2="480" y2="250"/>
+    <line x1="320" y1="300" x2="480" y2="250"/><line x1="320" y1="300" x2="480" y2="350"/><line x1="320" y1="400" x2="480" y2="350"/>
+    <line x1="480" y1="150" x2="620" y2="200"/><line x1="480" y1="250" x2="620" y2="200"/><line x1="480" y1="250" x2="620" y2="300"/><line x1="480" y1="350" x2="620" y2="300"/>
+  </g>
+  <g stroke="#c8865a" stroke-width="4"><line x1="320" y1="200" x2="480" y2="250"/><line x1="320" y1="300" x2="480" y2="250"/></g>
+  <g fill="#12263a" stroke="#d6e6f2" stroke-width="4">
+    <circle cx="160" cy="120" r="16"/><circle cx="160" cy="250" r="16"/><circle cx="160" cy="380" r="16"/>
+    <circle cx="320" cy="100" r="16"/><circle cx="320" cy="400" r="16"/>
+    <circle cx="480" cy="150" r="16"/><circle cx="480" cy="350" r="16"/>
+    <circle cx="620" cy="200" r="16"/><circle cx="620" cy="300" r="16"/>
+  </g>
+  <g fill="#c8865a" stroke="#d6e6f2" stroke-width="4">
+    <circle cx="320" cy="200" r="18"/><circle cx="320" cy="300" r="18"/><circle cx="480" cy="250" r="18"/>
+  </g>
+  <g transform="translate(490 238) rotate(-40)">
+    <rect x="22" y="-9" width="230" height="18" rx="9" fill="#d6e6f2"/>
+    <path d="M22 -9 L0 0 L22 9 Z" fill="#c8865a"/>
+  </g>
+</svg>

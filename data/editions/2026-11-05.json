@@ -1,0 +1,1170 @@
+{
+ "date": "2026-11-05",
+ "number": 19,
+ "cutoff": "2026-11-05T15:50:00Z",
+ "cutoffLabel": "9:50 AM CT",
+ "opening": "Israel’s Arab-led parties backed Gadi Eisenkot, giving him majority support as President Herzog weighs who will form a government. Iran called the latest US reply on Hormuz inadequate, two US Senate counts dragged on, South Africa’s ANC and DA ran close, and French unions struck nationwide.",
+ "leadStoryId": "israel-arab-parties-back-eisenkot-majority",
+ "note": "This edition was published later than usual because the morning run did not complete. It reflects reporting up to 9:50 AM Central time.",
+ "stories": [
+  {
+   "id": "israel-arab-parties-back-eisenkot-majority",
+   "section": "world",
+   "title": "Israel’s two Arab-led parties back Gadi Eisenkot, giving him the support of 67 of 120 lawmakers as Herzog decides who forms a government",
+   "category": "Politics",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-04 / 2026-11-05",
+   "body": "On Thursday the Joint List, with 11 seats, said it would recommend opposition leader Gadi Eisenkot to President Isaac Herzog as prime minister, after Ra’am, with eight, said the same. Together with his own bloc’s 48 seats, that gives Eisenkot an expected 67 recommendations against 46 for Benjamin Netanyahu, according to AFP. United Torah Judaism declined to back either man. Herzog was to see Eisenkot’s Yashar party and Netanyahu’s Likud last, and then name the candidate he thinks best placed to build a coalition.",
+   "whatChanged": "Both Arab-led parties have now said they will recommend Eisenkot, lifting his expected support above the 61 seats that make a Knesset majority.",
+   "whyMatters": "Netanyahu’s camp no longer has the most recommendations, which strengthens Eisenkot’s claim to the first attempt at forming a government; but a recommendation is not a coalition, and Eisenkot would have to hold together parties with very different aims.",
+   "uncertainty": "Herzog has not announced his choice, the terms on which the Arab-led parties would support a government are not known, and Netanyahu continues to allege, without evidence, foreign interference in the vote.",
+   "watchNext": "Herzog’s decision, which Reuters says is due by November 11, and the 28 days the chosen candidate then has to form a government.",
+   "keyFacts": [
+    "The Joint List (11 seats) and Ra’am (8 seats) both said they would recommend Eisenkot",
+    "Expected recommendations: Eisenkot 67, Netanyahu 46, per AFP",
+    "Netanyahu’s coalition won 53 seats and Eisenkot’s bloc 48 in the October 27 election",
+    "The nominee has 28 days to form a government, with a possible 14-day extension",
+    "United Torah Judaism declined to recommend a candidate on Thursday morning"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "President Isaac Herzog accepted the certified election results on Wednesday and began consultations with the factions of the new Knesset, the formal step in which each party tells him whom it wants to lead the next government. Three parties aligned with Benjamin Netanyahu recommended him on the first evening, while a fourth, led by a former ally, backed Gadi Eisenkot.",
+      "Ra’am said it would recommend Eisenkot, and on Thursday the Joint List followed, giving him the support of all 19 lawmakers from the Arab-majority lists. AFP reported that this puts Eisenkot, a former military chief who leads the centrist Yashar party, on 67 recommendations, against 46 for Netanyahu. United Torah Judaism, whose larger faction broke with Netanyahu over the failure to pass a military exemption law for ultra-Orthodox men, declined to recommend anyone."
+     ]
+    },
+    {
+     "heading": "Netanyahu’s response",
+     "paragraphs": [
+      "Netanyahu and his allies have repeatedly said, without evidence, that Arab-led parties stole the election, possibly with foreign help. In a video he spoke of serious suspicions that foreign states spent large sums to influence the result. Al Jazeera reports that the elections commission examined the fraud claims and found nothing affecting the outcome, and the attorney general refused a request to question elected officials without supporting evidence. Herzog said suspected interference should be investigated but condemned racist rhetoric aimed at Palestinian citizens of Israel, who make up about a fifth of the population."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Herzog told party leaders that not every campaign promise can be kept if Israel is to avoid another election. Once consultations end he will choose the candidate he considers most likely to form a coalition; Reuters reports he has until November 11. That person then has 28 days, extendable by 14, and if no one succeeds Israel would return to the polls early next year."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Who the parties recommend",
+    "measure": "Lawmakers expected to recommend each candidate to President Herzog",
+    "unit": "lawmakers",
+    "values": [
+     {
+      "label": "Gadi Eisenkot",
+      "value": 67
+     },
+     {
+      "label": "Benjamin Netanyahu",
+      "value": 46
+     }
+    ],
+    "alt": "Bar chart: 67 lawmakers are expected to recommend Gadi Eisenkot and 46 Benjamin Netanyahu, out of a 120-seat Knesset in which 61 is a majority.",
+    "caption": "Expected recommendations as reported by AFP on November 5; 61 of 120 seats is a majority",
+    "sourceUrl": "https://www.arabnews.com/middle-east/israels-main-arab-list-says-will-back-eisenkot-to-form-government-3009924"
+   },
+   "sources": [
+    {
+     "publisher": "Arab News",
+     "title": "Israel’s main Arab list says will back Eisenkot to form government",
+     "url": "https://www.arabnews.com/middle-east/israels-main-arab-list-says-will-back-eisenkot-to-form-government-3009924",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting (AFP)"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+     "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "JNS",
+     "title": "Herzog resumes talks on who will form next Israeli government",
+     "url": "https://www.jns.org/news/israel-news/herzog-resumes-talks-on-who-will-form-next-israeli-govt",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Early Edition: November 5, 2026",
+     "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+     "publishedAt": "2026-11-05",
+     "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+    }
+   ],
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel's October 2026 general election, its campaign and the formation of the next government."
+  },
+  {
+   "id": "iran-us-reply-unconvincing-tanker-fires",
+   "section": "world",
+   "title": "Iran calls Washington’s answer to its Hormuz plan unconvincing, and says two more tankers and a tug caught fire in the strait",
+   "category": "Conflict",
+   "region": "Middle East · Iran and the Strait of Hormuz",
+   "regions": [
+    "middle-east",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-03 / 2026-11-05",
+   "body": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, said the US reply to Iran’s seven conditions for reopening the Strait of Hormuz fell short, while Qatar said both sides remain committed to talks it is relaying between them. On Thursday Iran’s Revolutionary Guards said two tankers and a tugboat caught fire after using unauthorised routes, one after hitting a mine. President Trump called this week’s US strike on Qeshm Island minor and said more action was possible, and the US Treasury sanctioned Indian and Turkish firms accused of helping Iran.",
+   "whatChanged": "Iran rejected the latest US response as inadequate, and the Guards reported new ship fires a day after claiming that four tankers had hit mines.",
+   "whyMatters": "With negotiations stalled and US strike plans reported to be ready, shipping through the strait at the centre of the war is still exposed to mines and attacks, and the room for a negotiated reopening is narrowing.",
+   "uncertainty": "None of the Guards’ accounts of damaged tankers has been independently verified, and it is not known whether they describe the same ships as other incident reports.",
+   "watchNext": "Whether Washington sends a fuller answer through Qatar, and whether the larger strikes US media say Central Command has prepared go ahead.",
+   "keyFacts": [
+    "Iran’s seven conditions include lifting sanctions and ending the US naval blockade",
+    "Iran says the strait could reopen over two days if its conditions are met",
+    "The Guards say two tankers and a tugboat caught fire on November 5",
+    "The UK maritime agency said two projectiles hit a tanker’s engine room about 14 nautical miles north-east of Limah, Oman",
+    "The Guards say they have shot down 56 US MQ-9 drones, a claim not verified"
+   ],
+   "report": [
+    {
+     "heading": "Talks through Qatar",
+     "paragraphs": [
+      "Iran has offered to reopen the Strait of Hormuz within two days if the United States meets seven conditions, among them lifting sanctions and ending its naval blockade of Iranian ports. Rezaei wrote that Washington’s reply had not addressed those conditions fully and explicitly. Qatar’s foreign ministry spokesman, Majed al-Ansari, said the talks were continuing and that Doha was passing proposals between the two sides in real time.",
+      "President Trump confirmed that US forces struck an anti-aircraft site, which Iranian media placed on Qeshm Island near the strait, describing it as a minor attack rather than war; US officials called it defensive after Iranian fire at an American aircraft. US media, citing officials, reported that plans for a short and intense campaign were ready once three aircraft carriers were in the region."
+     ]
+    },
+    {
+     "heading": "Ships and the strait",
+     "paragraphs": [
+      "On Wednesday the Revolutionary Guards claimed that four tankers had been destroyed by mines south of the strait and that two others were detained. On Thursday they said two more tankers and a tug had caught fire: one tanker after striking a mine in a passage south of the strait, a supertanker while leaving the route in the east, and the tug when it went to help. Separately, the UK Maritime Trade Operations centre reported that two projectiles hit a tanker’s engine room off Oman, with no casualties. Al Jazeera could not establish whether the incidents were linked."
+     ]
+    },
+    {
+     "heading": "Pressure on both sides",
+     "paragraphs": [
+      "Supreme Leader Mojtaba Khamenei has ordered the armed forces to respond to any threat without geographical limits, and has said expectations of a change in US policy after the midterms were mistaken. In Washington, the Treasury on Wednesday sanctioned companies and individuals in India and Turkey accused of supporting Iran’s oil trade, part of a campaign it calls Operation Economic Outcast, according to Reuters."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Strait of Hormuz",
+    "bounds": [
+     50,
+     22,
+     60,
+     30
+    ],
+    "countries": [
+     "364",
+     "512",
+     "784"
+    ],
+    "labels": [
+     {
+      "label": "Strait of Hormuz",
+      "lon": 56.6,
+      "lat": 26.3,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 58.6,
+      "lat": 24.6,
+      "kind": "water"
+     },
+     {
+      "label": "Persian Gulf",
+      "lon": 52.3,
+      "lat": 27.0,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Strait of Hormuz with Iran, Oman and the United Arab Emirates highlighted, and markers at Qeshm Island, where the US struck an air-defence site, and near Limah in Oman, close to where a tanker was hit. The Guards did not give locations for the ships they say caught fire.",
+    "caption": "Iran, Oman and the UAE · approximate reporting locations; Iran did not say exactly where the ships caught fire"
+   },
+   "locations": [
+    {
+     "label": "Qeshm Island, Iran",
+     "mapLabel": "Qeshm",
+     "lon": 55.9,
+     "lat": 26.8
+    },
+    {
+     "label": "Limah, Oman",
+     "mapLabel": "Limah",
+     "lon": 56.4,
+     "lat": 25.95
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Times of Israel",
+     "title": "IRGC: 2 tankers, tugboat attempting to use unauthorized Hormuz routes catch fire",
+     "url": "https://www.timesofisrael.com/liveblog_entry/irgc-2-tankers-tugboat-attempting-to-use-unauthorized-hormuz-routes-catch-fire/",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting (Reuters)"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "Middle East War: 8 things UAE residents need to know tonight, November 4",
+     "url": "https://gulfnews.com/uae/middle-east-war-8-things-uae-residents-need-to-know-tonight-november-4-1.500736088",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Early Edition: November 5, 2026",
+     "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+     "publishedAt": "2026-11-05",
+     "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war that the United States and Israel launched against Iran in February 2026, the US naval blockade, and the spread of fighting to the Gulf, Yemen and shipping routes."
+  },
+  {
+   "id": "us-senate-mississippi-alaska-counts",
+   "section": "world",
+   "title": "Two US Senate races stay too close to call, with Mississippi lacking a recount law and Alaska counting until November 18",
+   "category": "Elections",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-04 / 2026-11-05",
+   "body": "Democrat Scott Colom led Senator Cindy Hyde-Smith in Mississippi on Wednesday by margins reported as anywhere from a few dozen to about 1,100 votes, out of nearly a million, and mail ballots can still arrive until November 10. In Alaska, Mary Peltola moved narrowly ahead of Senator Dan Sullivan, but the ranked-choice count cannot begin before November 18. NBC News projects 54 Senate seats and 258 House seats for Democrats. Hakeem Jeffries launched his bid for Speaker, and Speaker Mike Johnson told aides he would not seek to lead Republicans in the minority.",
+   "whatChanged": "The size of the new Democratic Senate majority now hangs on two slow counts, and both parties have begun choosing leaders for the next House.",
+   "whyMatters": "Winning both would give Democrats 56 seats, a wider margin for passing bills and confirming nominees; and with a Justice Department investigation already under way in Alaska, the result there may be fought over in court.",
+   "uncertainty": "Reported margins in Mississippi differ widely between outlets, the number of provisional ballots left there is unknown, and Alaska’s outcome depends on how second choices are redistributed.",
+   "watchNext": "Mississippi’s November 10 mail-ballot deadline and November 13 certification, and the start of Alaska’s ranked-choice count on November 18.",
+   "keyFacts": [
+    "ABC News count in Mississippi with 96 percent in: Colom 464,926, Hyde-Smith 463,788",
+    "Mississippi has no formal recount process; counties certify by November 13",
+    "Peltola led Sullivan by fewer than 700 votes, 48.2 to 47.9 percent, per Reuters",
+    "Alaska accepts ballots until November 18",
+    "NBC News projects Democrats at 54 Senate seats and 258 House seats"
+   ],
+   "report": [
+    {
+     "heading": "Mississippi",
+     "paragraphs": [
+      "The Mississippi count has produced conflicting margins. NBC News reported a 43-vote lead for Scott Colom on Wednesday morning and KTVU 65 votes that afternoon, while ABC News totals with 96 percent of the expected vote showed Colom at 464,926 and Hyde-Smith at 463,788. The independent Ty Pinkins had about 2 percent.",
+      "Mail ballots postmarked by election day count if they arrive by November 10, and Secretary of State Michael Watson said about 3,600 were still outstanding. Counties have ten days to process affidavit ballots; Colom’s campaign estimates about 15,000, but the state has given no figure. Mississippi has no recount procedure: after certification a candidate can examine ballot boxes and go to court if problems are found."
+     ]
+    },
+    {
+     "heading": "Alaska",
+     "paragraphs": [
+      "Peltola led Sullivan by fewer than 700 votes, according to Reuters and USA Today tallies, with ballots from remote communities still arriving. Because no candidate has a majority, the ranked-choice tabulation will decide the race. Republicans argue that an independent also named Dan Sullivan was put on the ballot to confuse voters; the state’s highest court refused to remove him, Peltola’s campaign denies recruiting him, and the Justice Department has widened a criminal investigation into the matter."
+     ]
+    },
+    {
+     "heading": "Leadership changes",
+     "paragraphs": [
+      "Hakeem Jeffries formally asked colleagues to make him Speaker, which would make him the first African American in the post. Speaker Mike Johnson told aides he would not seek to lead House Republicans in the minority, and Judiciary chairman Jim Jordan announced a run, likely against Steve Scalise, according to The New York Times and The Hill."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The two uncalled Senate races",
+    "bounds": [
+     -170,
+     18,
+     -64,
+     72
+    ],
+    "countries": [
+     "840"
+    ],
+    "alt": "Map of the United States including Alaska, with markers at the state capitals of Mississippi and Alaska, the two states whose Senate races were still uncalled on November 5.",
+    "caption": "Markers at state capitals stand for whole states · races in Mississippi and Alaska uncalled as of November 5"
+   },
+   "locations": [
+    {
+     "label": "Mississippi",
+     "mapLabel": "Mississippi",
+     "lon": -90.18,
+     "lat": 32.3
+    },
+    {
+     "label": "Alaska",
+     "mapLabel": "Alaska",
+     "lon": -134.42,
+     "lat": 58.3
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "ABC News",
+     "title": "What to know about recounts in Mississippi with razor-thin margin in Senate race",
+     "url": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "KTVU",
+     "title": "Mississippi Senate Race: Democrat Colom leads Hyde-Smith by 0.0007%",
+     "url": "https://www.ktvu.com/news/mississippi-senate-race-democrat-colom-leads-hyde-smith-0-0007",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Hawaii Tribune-Herald (Reuters)",
+     "title": "What’s next for Alaska’s unusual US Senate race",
+     "url": "https://www.hawaiitribune-herald.com/2026/11/05/nation-world-news/whats-next-for-alaskas-unusual-us-senate-race/",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting (Reuters)"
+    },
+    {
+     "publisher": "NBC Chicago",
+     "title": "Midterm results: Which races still haven’t been called, and which states flipped blue?",
+     "url": "https://www.nbcchicago.com/news/local/election-2026-which-races-still-havent-been-called-and-what-states-flipped-seats-mississippi-alaska-election-results/4012174/",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Early Edition: November 5, 2026",
+     "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+     "publishedAt": "2026-11-05",
+     "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+    }
+   ],
+   "threadId": "us-midterms-2026",
+   "threadTitle": "The 2026 US midterms",
+   "threadSummary": "The November 3, 2026 US congressional elections and the legal fights over how they are run."
+  },
+  {
+   "id": "south-africa-local-elections-anc-da",
+   "section": "world",
+   "title": "South Africa’s ANC and the opposition Democratic Alliance run close in early local election results",
+   "category": "Elections",
+   "region": "Africa · South Africa",
+   "regions": [
+    "africa"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-04 / 2026-11-05",
+   "body": "With 28 percent of votes counted from Wednesday’s municipal elections, the African National Congress had about 32 percent and the Democratic Alliance about 28 percent, Reuters reported on Thursday, after an earlier count showed them less than a point apart. If that holds, the ANC would be down about 14 points on 2021. In KwaZulu-Natal, Jacob Zuma’s MK party and the Inkatha Freedom Party were ahead of the ANC, and no party is expected to win Johannesburg outright. Final results are expected on Sunday.",
+   "whatChanged": "The first results put the DA within reach of the ANC nationally and show the ANC trailing two rivals in KwaZulu-Natal.",
+   "whyMatters": "Municipalities run the water, electricity and sanitation services voters said they cared about most, and a weaker ANC means more councils, including Johannesburg, will be governed by coalitions.",
+   "uncertainty": "Most votes are still to be counted; the ANC says townships, where it is strong, have not yet reported, and no turnout figure has been published.",
+   "watchNext": "Final results on Sunday, November 8, and the two weeks parties then have to form coalition councils.",
+   "keyFacts": [
+    "About 29.2 million people were registered to vote at 23,696 stations, with 508 parties on the ballot",
+    "ANC about 32 percent, DA about 28 percent with 28 percent counted, per Reuters",
+    "That would leave the ANC about 14 points below its 2021 local result",
+    "The DA led the early Western Cape count with about 59 percent",
+    "Parties have two weeks after results are declared to form councils"
+   ],
+   "report": [
+    {
+     "heading": "The early count",
+     "paragraphs": [
+      "Voting closed on Wednesday evening, a public holiday. By mid-morning on Thursday, with 28 percent of votes counted, Reuters put the ANC at about 32 percent and the DA at about 28 percent, and said a projection by the Council for Scientific and Industrial Research suggested the ANC could finish close to its current share. An earlier snapshot of the commission’s dashboard, with about 13 percent of districts in, had the two parties at 31.8 and 31.1 percent.",
+      "The DA led strongly in the Western Cape, which it already governs, and early Gauteng returns also favoured it. In KwaZulu-Natal, analyst Louw Nel said Jacob Zuma’s uMkhonto weSizwe party and the IFP were both ahead of the ANC."
+     ]
+    },
+    {
+     "heading": "How the parties responded",
+     "paragraphs": [
+      "ANC chairman Gwede Mantashe said the figures were not final and that major areas, including townships, had yet to be counted. Helen Zille, the DA’s candidate for mayor of Johannesburg, said it was too early to call the outcome."
+     ]
+    },
+    {
+     "heading": "Why the cities matter",
+     "paragraphs": [
+      "Water shortages, power cuts, sewage failures and living costs dominated the campaign, and the electoral commission was investigating more than 700 complaints of misinformation. No party is expected to win a majority in Johannesburg, where analysts see a partnership between the ANC and the DA, already partners in the national government, as the most stable option, though the ANC could instead turn to the EFF and MK."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "South Africa’s local elections",
+    "bounds": [
+     15,
+     -35.5,
+     34,
+     -21.5
+    ],
+    "countries": [
+     "710"
+    ],
+    "alt": "Map of South Africa with markers at Johannesburg, where no party is expected to win outright, Cape Town in the Western Cape, where the DA leads, and Durban in KwaZulu-Natal, where MK and the IFP were ahead of the ANC.",
+    "caption": "South Africa · markers show places named in early results reporting"
+   },
+   "locations": [
+    {
+     "label": "Johannesburg",
+     "lon": 28.05,
+     "lat": -26.2
+    },
+    {
+     "label": "Cape Town, Western Cape",
+     "mapLabel": "Cape Town",
+     "lon": 18.42,
+     "lat": -33.92
+    },
+    {
+     "label": "Durban, KwaZulu-Natal",
+     "mapLabel": "KwaZulu-Natal",
+     "lon": 31.03,
+     "lat": -29.86
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "CNBC Africa (Reuters)",
+     "title": "South Africa’s ANC faces ‘worst nightmare’ as vote share tumbles",
+     "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting (Reuters)"
+    },
+    {
+     "publisher": "Cape Town ETC",
+     "title": "Update: Western Cape election results point to hung councils as DA leads early count",
+     "url": "https://www.capetownetc.com/news/anc-and-da-lead-early-election-results/",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "allAfrica",
+     "title": "Africa: All of Africa Today – November 4, 2026",
+     "url": "https://allafrica.com/stories/202611040155.html",
+     "publishedAt": "2026-11-04",
+     "kind": "News digest"
+    }
+   ],
+   "threadId": "south-africa-politics",
+   "threadTitle": "South Africa's politics",
+   "threadSummary": "South Africa's elections, coalition governments and the decline of the ANC's dominance."
+  },
+  {
+   "id": "france-national-strike-november-5",
+   "section": "world",
+   "title": "French unions strike nationwide over pay and public services, with the government counting 270,000 marchers by early afternoon",
+   "category": "Labour",
+   "region": "Europe · France",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-05",
+   "body": "France’s five main unions called Thursday’s strike over pay, public services, jobs and the 2027 budget, which plans 54 billion euros in savings and freezes civil service pay and benefits. By early afternoon the Interior Ministry had counted 270,000 people in 180 marches outside Paris, and 70,000 police and gendarmes were deployed. In Lyon, where a court upheld a ban on the unions’ route, police used tear gas after objects and fireworks were thrown near a bridge. Rail services and schools were expected to be disrupted across the country.",
+   "whatChanged": "Weeks of protest against President Emmanuel Macron’s government widened into a coordinated national strike called by all the main unions.",
+   "whyMatters": "The unions are pressing the government to rewrite its budget while it is trying to pass it, and a large turnout raises the pressure to make concessions after October’s unrest.",
+   "uncertainty": "Final turnout figures, a Paris count and arrest totals were not available at our cutoff, and union and police estimates differ widely.",
+   "watchNext": "The final turnout figures, the government’s response to the pay demands, and whether unions call further strike days.",
+   "keyFacts": [
+    "The CFDT, CGT, FO, Unsa and FSU called the strike",
+    "The Interior Ministry counted 270,000 marchers in 180 marches outside Paris at 1 p.m.",
+    "Lyon’s prefecture counted 30,500 marchers; the CGT said about 55,000",
+    "70,000 police and gendarmes were deployed",
+    "Midday strike rate in the state civil service: 9.89 percent"
+   ],
+   "report": [
+    {
+     "heading": "What the unions want",
+     "paragraphs": [
+      "The CFDT, CGT, FO, Unsa and FSU first called the strike in a joint statement on October 5, and rail unions and teachers’ unions joined. Their demands include across-the-board pay rises, a higher minimum wage and pensions, more money for public services and a revision of the 2027 budget plan, which seeks 54 billion euros in savings and freezes social benefits and civil servants’ pay. CGT leader Sophie Binet urged workers to turn out in large numbers."
+     ]
+    },
+    {
+     "heading": "The day so far",
+     "paragraphs": [
+      "By 1 p.m. in Paris the Interior Ministry had counted 270,000 marchers in 180 marches outside the capital; the CGT said more than 250,000 had marched in 73 cities. Government figures put midday strike rates at 9.89 percent in the state civil service, 4.6 percent in local government and 3.93 percent in hospitals, while the education ministry had expected about 17.5 percent of primary teachers to strike.",
+      "In Lyon the prefecture counted 30,500 marchers and the CGT about 55,000. The local administrative court on Wednesday upheld the prefecture’s ban on the unions’ planned route, and early in the afternoon police fired tear gas at the Pont Gallieni after fireworks and objects were thrown. In Paris police banned the unions’ Bastille to Concorde route and allowed a march from République to Nation instead; 25 metro stations were due to close and suburban trains were expected to run at reduced frequency."
+     ]
+    },
+    {
+     "heading": "Context",
+     "paragraphs": [
+      "The strike follows weeks of protests, school blockades and rioting in October that the government has tried to contain. Interior Minister Laurent Nuñez deployed 70,000 police and gendarmes for the day."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Strike day in France",
+    "bounds": [
+     -5.5,
+     41.5,
+     10,
+     51.5
+    ],
+    "countries": [
+     "250"
+    ],
+    "alt": "Map of mainland France with markers at Paris, where the unions’ route was changed, and Lyon, where police used tear gas during a march of tens of thousands.",
+    "caption": "France · markers show cities named in reporting; marches took place in about 180 towns"
+   },
+   "locations": [
+    {
+     "label": "Paris",
+     "lon": 2.35,
+     "lat": 48.86
+    },
+    {
+     "label": "Lyon",
+     "lon": 4.84,
+     "lat": 45.76
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Rio Times",
+     "title": "French Strike Fills Lyon With Up to 55,000",
+     "url": "https://www.riotimesonline.com/french-strike-fills-lyon-with-up-to-55000-nov-5",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting citing the Interior Ministry, Rhône prefecture and CGT"
+    },
+    {
+     "publisher": "Sortiraparis",
+     "title": "General strike on November 5, 2026: transport and schools brace for a large turnout",
+     "url": "https://www.sortiraparis.com/en/news/in-paris/articles/354559-protest-and-strike-on-november-5-2026-transport-schools-and-routes-what-to-expect",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Early Edition: November 5, 2026",
+     "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+     "publishedAt": "2026-11-05",
+     "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+    }
+   ],
+   "threadId": "france-unrest-2026",
+   "threadTitle": "France's 2026 unrest",
+   "threadSummary": "Protests, riots and the French government's response during the 2026 political and cost-of-living crisis."
+  },
+  {
+   "id": "komyshuvakha-aid-centre-abu-dhabi-talks",
+   "section": "more",
+   "title": "The death toll from Russia’s bombing of a Ukrainian aid point rises to 42, days before US-led talks in Abu Dhabi",
+   "category": "Conflict",
+   "region": "Europe · Ukraine",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-02 / 2026-11-05",
+   "whatChanged": "Police raised the toll from Monday’s strike on Komyshuvakha from 26 to 42, with up to 33 people still feared buried.",
+   "body": "Zaporizhzhia police said on Thursday that 42 bodies had been recovered from the school used as an aid distribution point, among them four police officers and two rescuers, and that DNA tests are needed to identify many victims. Police say Russia dropped guided bombs including a three-tonne FAB-3000, then struck a shelter where residents had gathered; Russia says it hit Ukrainian troops. President Zelensky, in Spain to seek air defences, said he spoke with US envoys for 90 minutes before the three-way talks planned for November 10 and 11.",
+   "sources": [
+    {
+     "publisher": "A News (Reuters)",
+     "title": "Death toll from Russian strike on Ukrainian aid centre reaches 42, police say",
+     "url": "https://www.anews.com.tr/world/2026/11/05/death-toll-from-russian-strike-on-ukrainian-aid-centre-reaches-42-police-say",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting (Reuters)"
+    },
+    {
+     "publisher": "ZMINA",
+     "title": "Bodies of at least 42 people recovered from rubble of school destroyed by Russian strike in Komyshuvakha",
+     "url": "https://zmina.info/en/news-en/bodies-of-at-least-42-people-recovered-from-rubble-of-school-destroyed-by-russian-strike-in-komyshuvakha",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Early Edition: November 5, 2026",
+     "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+     "publishedAt": "2026-11-05",
+     "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia's war in Ukraine, efforts to negotiate an end to it, and the wider security consequences for Europe."
+  },
+  {
+   "id": "joshua-wong-sentenced-ten-years",
+   "section": "more",
+   "title": "Hong Kong jails the activist Joshua Wong for another 10 years for colluding with foreign forces",
+   "category": "Rights",
+   "region": "Asia · Hong Kong",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-05",
+   "whatChanged": "Wong, who was due to be freed in January 2027, received a new 10-year sentence under the national security law.",
+   "body": "Judge William Tam of the High Court reduced a 13-year starting point to 10 years because Wong pleaded guilty in September. Prosecutors said he conspired with the exiled activist Nathan Law and others to seek foreign sanctions against the Hong Kong and Chinese governments. The US consulate called for his release, and Human Rights Watch and Amnesty International said the law was being used to punish dissent.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+     "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "hong-kong-national-security",
+   "threadTitle": "Hong Kong's national security cases",
+   "threadSummary": "Prosecutions of Hong Kong democracy activists under the national security law imposed by Beijing in 2020."
+  },
+  {
+   "id": "3m-pfas-firefighting-foam-settlement",
+   "section": "more",
+   "title": "3M agrees to pay up to 7.35 billion dollars to settle injury claims over ‘forever chemicals’ in firefighting foam",
+   "category": "Health and the law",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-03",
+   "whatChanged": "3M offered to settle about 99 percent of current personal injury claims over PFAS in firefighting foams, covering roughly 115,000 to 120,000 plaintiffs.",
+   "body": "The company says the deal, in the federal litigation in South Carolina, is worth 7.35 billion dollars over nine years, or 5.8 billion in today’s money, with most payments late in the period. Some payments depend on enough plaintiffs joining, and 3M can withdraw if participation is too low. It admits no liability and will take a 5.8 billion dollar charge in the fourth quarter.",
+   "sources": [
+    {
+     "publisher": "3M (SEC filing)",
+     "title": "3M press release on AFFF personal injury settlement, Form 8-K exhibit",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000066740/000006674026000318/pressrelease-xnov2026xv2.htm",
+     "publishedAt": "2026-11-03",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Early Edition: November 5, 2026",
+     "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+     "publishedAt": "2026-11-05",
+     "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+    }
+   ],
+   "threadId": "pfas-forever-chemicals",
+   "threadTitle": "PFAS 'forever chemicals'",
+   "threadSummary": "Litigation and regulation over PFAS, long-lasting industrial chemicals linked to health harms."
+  },
+  {
+   "id": "north-korea-missiles-kim-yo-jong",
+   "section": "more",
+   "title": "North Korea fires several missiles, its fourth show of force in a week, as Kim Yo-jong sets terms for talks with Washington",
+   "category": "Security",
+   "region": "Asia · North Korea",
+   "regions": [
+    "asia"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-04",
+   "whatChanged": "Pyongyang paired a new launch from South Hamgyong province with a statement that the US must drop its hostile policy before dialogue.",
+   "body": "South Korea’s Joint Chiefs of Staff said several missiles were fired from the Sondok area towards the East Sea on Wednesday, without saying what type they were. Kim Yo-jong, the leader’s sister, said ending US hostility was the key to solving all problems, but did not rule out talks. Kim Jong-un visited a shipyard on November 2 where a large new warship is being built.",
+   "sources": [
+    {
+     "publisher": "Korea JoongAng Daily",
+     "title": "North Korea fires missiles as Kim Yo-jong warns US over hostile policy",
+     "url": "https://www.koreajoongangdaily.com/korea/pyongyang-pairs-tough-talk-with-missiles-in-message-to-washington/12955343",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "korean-border-security",
+   "threadTitle": "Security on the Korean border",
+   "threadSummary": "Military tension along the inter-Korean border and the Demilitarized Zone."
+  },
+  {
+   "id": "ibero-american-summit-madrid",
+   "section": "more",
+   "title": "Only ten of 22 leaders attend the Ibero-American summit in Madrid, with Brazil and Mexico’s presidents staying away",
+   "category": "Diplomacy",
+   "region": "Europe and Latin America · Spain",
+   "regions": [
+    "latin-america",
+    "europe"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-04 / 2026-11-05",
+   "whatChanged": "The 30th summit opened at Madrid’s Teatro Real without Lula, Claudia Sheinbaum or Venezuela’s acting president, Delcy Rodríguez.",
+   "body": "King Felipe and Prime Minister Pedro Sánchez received delegations from the 22-member community, but only ten countries sent heads of state or government. Africanews linked the absences to political divisions ahead of Spain’s general election on November 29. Argentina’s Javier Milei, who recently called Sánchez a dictator, exchanged only a brief, cold greeting with him.",
+   "sources": [
+    {
+     "publisher": "Africanews",
+     "title": "Spain: Madrid hosts 30th Ibero-American Summit with 22-nation bloc",
+     "url": "https://www.africanews.com/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc/",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "Milei and Sánchez exchange a cold greeting at Ibero-American Summit",
+     "url": "https://www.euronews.com/video/2026/11/05/milei-and-sanchez-exchange-a-cold-greeting-at-ibero-american-summit",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ibero-american-relations",
+   "threadTitle": "Spain and Latin America",
+   "threadSummary": "Relations between Spain, Portugal and the countries of Latin America, including the Ibero-American summits."
+  },
+  {
+   "id": "generic-lenacapavir-tentative-approval",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "The first generic version of the twice-yearly HIV prevention jab clears the US regulator, at 40 dollars a year for poorer countries",
+   "category": "HIV prevention",
+   "region": "Global",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-02",
+   "hook": "A regulatory step that could put a highly effective prevention shot within reach of millions, though supplies only begin to arrive at the end of the year.",
+   "body": "The US Food and Drug Administration has given tentative approval to Dr. Reddy’s Laboratories’ generic injectable lenacapavir, the long-acting HIV drug given twice a year, according to Unitaid and the Clinton Health Access Initiative, which backed its development. Tentative approval is the usual status for a generic while the original remains under patent, and it allows US government purchasing. Under an existing agreement the generic will cost 40 dollars per person a year in the 120 low- and middle-income countries covered by Gilead’s voluntary licence.",
+   "whatChanged": "A generic maker has cleared a stringent regulator for lenacapavir 16 months after the original was approved, the step needed before large-scale low-cost supply.",
+   "whyMatters": "Lenacapavir needs only two injections a year, which avoids the daily pills many people struggle to take; a 40-dollar price could let health programmes reach far more people than the branded product does.",
+   "uncertainty": "This is a tentative approval, not full market authorisation; first supplies are not expected until the end of 2026, and the amount of money donors and governments will commit to buying it is not yet clear.",
+   "watchNext": "The first shipments, expected before the end of 2026, approvals for the other licensed generic makers, and funding pledges for purchases in 2027.",
+   "keyFacts": [
+    "Dr. Reddy’s received FDA tentative approval, announced on November 2, 2026",
+    "Price: 40 dollars per person per year",
+    "Covers the 120 countries in Gilead’s voluntary licence",
+    "The original was approved for HIV prevention in June 2025",
+    "More than 125,000 people in 10 African countries have already started the branded drug"
+   ],
+   "report": [
+    {
+     "heading": "What was approved",
+     "paragraphs": [
+      "Dr. Reddy’s Laboratories developed the generic with financial, technical and regulatory support from Unitaid, the Wits RHI research institute in Johannesburg and the Clinton Health Access Initiative. The company combined the prevention and treatment uses in a single application, which qualified for priority review with a target decision within six months. The FDA granted tentative approval, the designation generics receive while the originator’s patents still apply in the United States; it does not allow US sales but does allow purchases by US government programmes for use abroad."
+     ]
+    },
+    {
+     "heading": "Price and access",
+     "paragraphs": [
+      "Gilead, which makes the original drug, granted voluntary licences to six generic manufacturers in late 2024, including Dr. Reddy’s. In September 2025 Unitaid, Wits RHI, CHAI and Dr. Reddy’s agreed a price of 40 dollars per person per year for the 120 countries covered by those licences. According to CHAI, more than 125,000 people in ten early-adopting African countries have already begun taking Gilead’s version."
+     ]
+    },
+    {
+     "heading": "What it does and does not mean",
+     "paragraphs": [
+      "The announcements come from organisations that funded the work, and the generic has not yet reached patients. Partners say first supplies should reach countries before the end of 2026, with wider availability in 2027. How many people benefit will depend on how quickly other generics are approved and how much governments, the Global Fund and other donors spend on buying the injections."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-05/generic-lenacapavir-tentative-approval.svg",
+    "alt": "A single syringe beside a calendar strip with only two of twelve months marked in copper, standing for an HIV prevention injection given twice a year.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Unitaid",
+     "title": "U.S. FDA approves first generic injectable lenacapavir for HIV prevention",
+     "url": "https://unitaid.org/news-blog/u-s-fda-approves-first-generic-injectable-lenacapavir-for-hiv-prevention/",
+     "publishedAt": "2026-11-02",
+     "kind": "Primary (partner announcement)"
+    },
+    {
+     "publisher": "Clinton Health Access Initiative",
+     "title": "U.S. FDA approves first generic injectable lenacapavir for HIV prevention",
+     "url": "https://www.clintonhealthaccess.org/news/us-fda-approves-first-generic-injectable-lenacapavir-for-hiv-prevention/",
+     "publishedAt": "2026-11-02",
+     "kind": "Primary (partner announcement)"
+    }
+   ],
+   "threadId": "hiv-prevention",
+   "threadTitle": "HIV prevention",
+   "threadSummary": "New medicines and programmes to prevent HIV infection, and the effort to make them affordable worldwide."
+  },
+  {
+   "id": "openai-cathedral-security-testing",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "OpenAI hires the AI hacking start-up that broke into Anthropic’s business systems, and quadruples its bug bounties",
+   "category": "AI security",
+   "region": "Global",
+   "regions": [],
+   "status": "This week",
+   "eventDate": "2026-11-02 / 2026-11-03",
+   "hook": "AI labs are now paying AI-driven attackers to test them, a sign that automated hacking is being taken seriously, though the claims about what was reached are disputed.",
+   "body": "OpenAI said this week that Cathedral, a start-up founded by four former members of the Department of Government Efficiency, will use OpenAI’s own models alongside its staff to attack and test the company’s defences, and that it is more than quadrupling rewards for critical bugs. Cathedral says its AI agents reached Anthropic’s internal business systems in under 12 hours during an authorised bug bounty test last month. Anthropic says the access was limited, took several days, and did not touch model weights, source code or users’ conversations.",
+   "whatChanged": "A leading AI developer has hired outside AI-driven attackers to probe its own systems, weeks after the same firm’s test exposed data at a rival.",
+   "whyMatters": "AI companies hold model weights and data that governments treat as strategically sensitive, and the episode suggests automated agents can find weaknesses in the ordinary business software around them faster than defenders expect.",
+   "uncertainty": "Cathedral and Anthropic disagree about how long the intrusion took and how serious it was, and OpenAI has not said what Cathedral will be allowed to test.",
+   "watchNext": "Whether OpenAI publishes findings from the exercise, and whether other labs adopt similar outside testing.",
+   "keyFacts": [
+    "Cathedral was founded in 2026 by Gavin Kliger, Luke Farritor, Marko Elez and Jack Stein, all formerly of DOGE",
+    "It reportedly raised 160 million dollars at a 1.4 billion dollar valuation",
+    "Cathedral says it reached Anthropic’s internal systems in under 12 hours; Anthropic says it took several days",
+    "Anthropic says weights, source code and Claude conversations were not reached",
+    "OpenAI says it is more than quadrupling rewards for critical findings"
+   ],
+   "report": [
+    {
+     "heading": "What OpenAI announced",
+     "paragraphs": [
+      "In a blog post this week, OpenAI said Cathedral’s team would use OpenAI’s models alongside its own security staff to challenge the company’s defences, and that it was raising payments for critical vulnerabilities in its bug bounty programme by more than four times. Gizmodo notes the move follows a wave of concern over flaws in the PHP programming language disclosed in late October, which OpenAI’s model helped find."
+     ]
+    },
+    {
+     "heading": "The Anthropic test",
+     "paragraphs": [
+      "According to a draft Cathedral report described by The Washington Post, the start-up’s agents entered through weaknesses in third-party administrative software used for sales and operations, and saw meeting transcripts, salary details, job offers and Slack discussions. Anthropic confirmed access to a limited set of sales, HR and IT systems, including business contact details and some basic account records. Its security lead, Logan Graham, said the work took several days and was unusual and out of scope, and the company accused Cathedral of overstating the national security implications."
+     ]
+    },
+    {
+     "heading": "Context",
+     "paragraphs": [
+      "Cathedral’s founders all worked in Elon Musk’s government efficiency unit, and the company says it is building AI tools for US military cyber operations. The episode adds to evidence, tracked in recent editions, that AI agents are speeding up both the discovery and exploitation of software weaknesses."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-05/openai-cathedral-security-testing.svg",
+    "alt": "A vault door standing slightly open with a thin copper key in its lock, standing for outside hackers being invited to test an AI company’s defences.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Gizmodo",
+     "title": "OpenAI hires DOGE alumni who hacked into Anthropic to strengthen security",
+     "url": "https://gizmodo.com/openai-hires-doge-alumni-who-hacked-into-anthropic-to-strengthen-security-2000834432",
+     "publishedAt": "2026-11-03",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "AI Weekly",
+     "title": "Cathedral says AI agents breached Anthropic in under 12 hours",
+     "url": "https://aiweekly.co/alerts/cathedral-says-ai-agents-breached-anthropic-in-under-12-hours",
+     "publishedAt": "2026-10-26",
+     "kind": "Reporting summary of The Washington Post"
+    },
+    {
+     "publisher": "The Neuron",
+     "title": "Everything That Happened in AI Today, Wednesday, November 4",
+     "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026",
+     "publishedAt": "2026-11-04",
+     "kind": "News digest"
+    }
+   ],
+   "threadId": "ai-cybersecurity-acceleration",
+   "threadTitle": "AI and the cybersecurity race",
+   "threadSummary": "How increasingly capable AI systems are changing vulnerability discovery, exploitation and software defence."
+  },
+  {
+   "id": "seti-ai-agents-allen-telescope",
+   "section": "frontiers",
+   "field": "Space",
+   "title": "AI agents now steer a radio telescope hunting for alien signals, and caught a pulsar in real time",
+   "category": "AI in astronomy",
+   "region": "North America · United States",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-10-30 / 2026-11-03",
+   "hook": "A practical example of AI agents running scientific instruments, though it has not found anything new and humans still issue the commands.",
+   "body": "The SETI Institute and Breakthrough Listen are using AI agents to run the Allen Telescope Array in northern California, according to NVIDIA, which supplies the computing. From a single plain-language request, the agents can point antennas, calibrate the instrument, fix data errors and run analysis on the live data stream, which the team says turns weeks of work into hours. The system made what the partners describe as the first real-time AI detection of the pulsar in the Crab Nebula, a well-known object.",
+   "whatChanged": "AI agents have moved from analysing stored telescope data to operating a working observatory and processing its signals as they arrive.",
+   "whyMatters": "Radio searches generate more data than people can review, and agents that run observations and spot signals live could let small teams search far more of the sky.",
+   "uncertainty": "The results come from NVIDIA and its partners and have not been independently assessed; the pulsar was already known, and no extraterrestrial signal has been found.",
+   "watchNext": "Whether the team publishes results from searches run this way, and its tests of open models that can run without a connection.",
+   "keyFacts": [
+    "The system processes up to 2.4 terabits of data a second on NVIDIA GPUs",
+    "Partners: the SETI Institute, Breakthrough Listen and NVIDIA",
+    "First real-time AI detection of the Crab Nebula pulsar, the partners say",
+    "Researchers still type the commands that start the agents"
+   ],
+   "report": [
+    {
+     "heading": "How it works",
+     "paragraphs": [
+      "The Allen Telescope Array is a field of radio dishes in northern California used to search for signals that might come from other civilisations. NVIDIA says its Holoscan software pulls terabits per second of sensor data straight into GPU memory so it can be analysed during an observation instead of being stored first. A web-based orchestrator called Nexus acts as the harness for the agents, which researchers direct in natural language to steer antennas, calibrate and focus the instrument, catch and correct errors and plot results."
+     ]
+    },
+    {
+     "heading": "What it has done",
+     "paragraphs": [
+      "The team reports detecting the pulsar at the centre of the Crab Nebula in real time, which the partners call a first for AI. Andrew Siemion, principal investigator of Breakthrough Listen, described the change as a breakthrough in translation, because researchers can now rewrite signal-processing steps by describing them rather than coding them. The Decoder notes that researchers still enter the commands themselves."
+     ]
+    },
+    {
+     "heading": "Limits",
+     "paragraphs": [
+      "The account comes from a company blog post rather than a peer-reviewed paper, and the Crab pulsar is a bright, well-studied source used to test equipment. SETI searches have been running since 1960 without detecting a signal from another civilisation. The team is evaluating open models, including NVIDIA’s Nemotron, for observatories that may one day run offline, such as proposed instruments on the far side of the Moon."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-05/seti-ai-agents-allen-telescope.svg",
+    "alt": "A row of radio telescope dishes under a night sky, with a copper pulse line rising from the nearest dish, standing for AI agents running a telescope and detecting a pulsar.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "NVIDIA",
+     "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+     "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+     "publishedAt": "2026-10-30",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "The Decoder",
+     "title": "AI agents take over at SETI’s Allen Telescope Array, scanning for extraterrestrial intelligence",
+     "url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+     "publishedAt": "2026-11-03",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Neuron",
+     "title": "Everything That Happened in AI Today, Wednesday, November 4",
+     "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026",
+     "publishedAt": "2026-11-04",
+     "kind": "News digest"
+    }
+   ],
+   "threadId": "ai-and-research",
+   "threadTitle": "AI & scientific research",
+   "threadSummary": "How AI systems are being used to produce and check scientific and mathematical results."
+  },
+  {
+   "id": "ebola-cases-pass-10400",
+   "section": "still",
+   "title": "Congo’s Ebola outbreak has now infected more than 10,400 people and killed over 5,300, with no approved vaccine for the strain",
+   "category": "Health",
+   "region": "Africa · Democratic Republic of the Congo",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-02 / 2026-11-03",
+   "body": "Africa CDC figures from Monday put deaths in the Bundibugyo-strain outbreak at 5,376, almost all in the Democratic Republic of the Congo, with about 10,444 infections across Congo, Uganda and Kenya and a death rate above 50 percent. Congo declared the outbreak, its 17th and largest, in mid-May. There is no approved vaccine or treatment for this strain; trials, including one of the Ervebo vaccine made for the Zaire strain, have begun in Congo. Kenya has recorded nine infections and two deaths, its first cases.",
+   "whatChanged": "The death toll has risen by more than 300 since our last report on November 2, and trials of vaccines have started.",
+   "whyMatters": "This is already one of the deadliest Ebola outbreaks recorded, and with deaths occurring in communities rather than clinics, it shows gaps in detection that make further spread more likely.",
+   "uncertainty": "Counts differ between Africa CDC and the World Health Organization because of reporting delays and recounts, and the vaccines being tested are not proven against Bundibugyo.",
+   "watchNext": "The next WHO situation update and its revised risk assessment, and early data from the vaccine trials.",
+   "keyFacts": [
+    "5,376 deaths and about 10,444 infections, per Africa CDC data from November 2",
+    "Congo declared the outbreak in mid-May; it is its 17th",
+    "No approved vaccine or treatment exists for the Bundibugyo strain",
+    "WHO said contact follow-up in Congo was 79.7 percent, below the 95 percent target",
+    "Kenya: nine infections and two deaths, its first recorded cases"
+   ],
+   "report": [
+    {
+     "heading": "Where the outbreak stands",
+     "paragraphs": [
+      "Congo declared the outbreak, the 17th and largest in its history, in mid-May. Africa CDC data released on Monday, November 2, showed 5,376 deaths: 5,372 in Congo and two each in Kenya and Uganda. About 10,444 people have been infected, putting the death rate above half. Uganda recorded 20 cases, nearly all in travellers from Congo, and was declared free of Ebola in August. Nigeria has had one imported case in Abuja, and France one in a health worker returning from Congo in July."
+     ]
+    },
+    {
+     "heading": "Gaps in the response",
+     "paragraphs": [
+      "The World Health Organization’s most recent outbreak report, published on October 23, said cases had spread across 66 health zones in eight Congolese provinces and that only about 80 percent of contacts were being followed up, short of the 95 percent target. Most recent deaths occurred in communities rather than treatment centres, which WHO said points to late detection and care. Attackers recently killed a nurse responding to a case, Al Jazeera reported."
+     ]
+    },
+    {
+     "heading": "Vaccines and travel",
+     "paragraphs": [
+      "No vaccine or medicine is approved for Bundibugyo. WHO said a pivotal trial of a candidate vaccine began enrolling in Bunia on October 23, and Al Jazeera reports trials of Ervebo, which protects against the Zaire strain. WHO continues to advise against travel and trade restrictions on affected countries."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+     "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo",
+     "publishedAt": "2026-11-03",
+     "kind": "Reporting (AFP, Reuters)"
+    },
+    {
+     "publisher": "World Health Organization",
+     "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Kenya and Nigeria",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622",
+     "publishedAt": "2026-10-23",
+     "kind": "Primary"
+    }
+   ],
+   "threadId": "ebola-east-africa",
+   "threadTitle": "Ebola outbreak in Africa",
+   "threadSummary": "A Bundibugyo-strain Ebola outbreak declared in Congo in May that has spread to neighbouring and distant countries."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Herzog’s choice",
+   "text": "Israel’s president has until Wednesday, November 11, to name the candidate who will try to form a government, now that Gadi Eisenkot has the most recommendations."
+  },
+  {
+   "title": "New Zealand votes",
+   "text": "New Zealanders elect a new parliament on Saturday, November 7, with the last polls showing neither main bloc on course for a majority."
+  },
+  {
+   "title": "Talks in Abu Dhabi",
+   "text": "Ukrainian, Russian and US officials are due to meet in Abu Dhabi on November 10 and 11, with Kyiv saying the focus will include recovery after the war."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "Senate races in Mississippi and Alaska remained too close to call as both parties began choosing House leaders, and 3M offered a multibillion-dollar settlement over chemicals in firefighting foam.",
+   "briefs": [
+    {
+     "title": "A Republican plans to force a House vote on impeaching Defense Secretary Hegseth",
+     "text": "Representative Thomas Massie of Kentucky plans to force a vote on impeaching Pete Hegseth when Congress returns next week, and Republican sources expect it to pass, CNN reported. President Trump said Hegseth was doing a very good job, while acknowledging calls from people unhappy with him. An earlier impeachment measure Massie forced in September was not expected to pass.",
+     "eventDate": "2026-11-04",
+     "sources": [
+      {
+       "publisher": "Just Security",
+       "title": "Early Edition: November 5, 2026",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+       "publishedAt": "2026-11-05",
+       "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "The Ibero-American summit opened in Madrid with fewer than half of the 22 member countries represented by their leaders, as divisions over Spain’s coming election and regional politics showed.",
+   "briefs": []
+  },
+  "europe": {
+   "summary": "French unions held a nationwide strike over pay and the budget, the toll from Russia’s bombing of an aid point in southern Ukraine rose to 42, and preparations continued for US-led talks in Abu Dhabi.",
+   "briefs": [
+    {
+     "title": "Erdoğan says he wants to talk to Putin about ending the war",
+     "text": "Turkey’s President Recep Tayyip Erdoğan said he wants to speak with Vladimir Putin about ending the war in Ukraine, days after meeting Volodymyr Zelensky, and that officials were working on a possible meeting in Ukraine. Kremlin spokesman Dmitry Peskov said there were no concrete plans but that a call could be arranged at short notice, Reuters reported.",
+     "eventDate": "2026-11-05",
+     "sources": [
+      {
+       "publisher": "Just Security",
+       "title": "Early Edition: November 5, 2026",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+       "publishedAt": "2026-11-05",
+       "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Early results from South Africa’s local elections showed the ANC and DA close nationally, Congo’s Ebola outbreak passed 10,400 infections, and a Tanzanian court prepared to rule in the opposition leader’s treason trial.",
+   "briefs": [
+    {
+     "title": "Tanzania’s High Court will rule on opposition leader Tundu Lissu’s treason charge on Friday",
+     "text": "The High Court in Dar es Salaam is due to deliver its judgment on November 6 in the treason case against Tundu Lissu, chairman of the opposition party Chadema, after a trial of about a year. Lissu has argued that the case has no substantive basis and that police witnesses contradicted one another.",
+     "eventDate": "2026-11-06",
+     "sources": [
+      {
+       "publisher": "The Citizen",
+       "title": "Lissu treason verdict set for November 6",
+       "url": "https://thecitizen.co.tz/tanzania/news/national/lissu-treason-verdict-set-for-november-6-5614178",
+       "publishedAt": "2026-09-29",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The Citizen",
+       "title": "Tanzania opposition leader Tundu Lissu demands acquittal, says treason case has no substantive basis",
+       "url": "https://thecitizen.co.tz/tanzania/news/national/tanzania-opposition-leader-tundu-lissu-demands-acquittal-says-treason-case-has-no-substantive-basis-5561126",
+       "publishedAt": "undated",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "More than 50,000 Ethiopians have fled clashes in Moyale into Kenya",
+     "text": "Kenya, the UN refugee agency and the Red Cross have begun registering Ethiopians who crossed the border after renewed fighting in the town of Moyale since late October. Aid agencies have appealed for about 8.9 million dollars to cover three months of help.",
+     "eventDate": "2026-11-04",
+     "sources": [
+      {
+       "publisher": "allAfrica",
+       "title": "Africa: All of Africa Today – November 4, 2026",
+       "url": "https://allafrica.com/stories/202611040155.html",
+       "publishedAt": "2026-11-04",
+       "kind": "News digest"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Israel’s Arab-led parties backed Gadi Eisenkot for prime minister, giving him majority support, while Iran rejected the latest US reply on Hormuz and reported more ship fires in the strait.",
+   "briefs": [
+    {
+     "title": "Saudi Arabia and Syria sign a defence cooperation agreement",
+     "text": "The Saudi and Syrian defence ministries signed a cooperation agreement during a visit to Riyadh by Syria’s President Ahmed al-Sharaa, who met Crown Prince Mohammed bin Salman, the Saudi state news agency reported on November 4, according to Reuters. Syria’s foreign minister said last week that Damascus was considering joining the Mecca defence pact.",
+     "eventDate": "2026-11-04",
+     "sources": [
+      {
+       "publisher": "Just Security",
+       "title": "Early Edition: November 5, 2026",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/",
+       "publishedAt": "2026-11-05",
+       "kind": "News digest citing Reuters, AP, Axios, The Hill and others"
+      },
+      {
+       "publisher": "Al Jazeera",
+       "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+       "url": "https://aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister",
+       "publishedAt": "2026-10-31",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Drones hit Iranian Kurdish opposition groups in northern Iraq",
+     "text": "Two explosive-laden drones struck Iranian Kurdish opposition groups in Sulaymaniyah and east of Erbil, Reuters reported, citing security sources. No one claimed responsibility, and casualties were not confirmed.",
+     "eventDate": "2026-11-04",
+     "sources": [
+      {
+       "publisher": "Gulf News",
+       "title": "Middle East War: 8 things UAE residents need to know tonight, November 4",
+       "url": "https://gulfnews.com/uae/middle-east-war-8-things-uae-residents-need-to-know-tonight-november-4-1.500736088",
+       "publishedAt": "2026-11-04",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "A Hong Kong court gave Joshua Wong a further 10 years in prison, and North Korea fired more missiles as Kim Yo-jong set conditions for talks with Washington.",
+   "briefs": [
+    {
+     "title": "South Korea extends its anti-piracy naval unit’s area to the coast of Oman",
+     "text": "South Korea’s defence ministry will extend the operating area of the Cheonghae Unit, which protects merchant ships off Somalia, to the southern coast of Oman, and plans to send maritime patrol aircraft and a bomb disposal team, SBS reported. The change follows weeks of attacks and reported mine strikes on ships around the Strait of Hormuz.",
+     "eventDate": "2026-11-05",
+     "sources": [
+      {
+       "publisher": "SBS News",
+       "title": "Today’s Major News (November 5, 2026)",
+       "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008832123",
+       "publishedAt": "2026-11-05",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "New Zealand goes to the polls on Saturday, with the final surveys pointing to a close race between National and Labour and no clear majority.",
+   "briefs": [
+    {
+     "title": "New Zealand’s final polls point to a hung parliament before Saturday’s election",
+     "text": "A Roy Morgan poll published on November 4 put Labour on 27.5 percent and National on 26.5 percent, with the governing coalition projected at 57 of 122 seats against 55 for the Labour-led opposition and 10 for the Opportunity Party. The vote is on Saturday, November 7.",
+     "eventDate": "2026-11-04",
+     "sources": [
+      {
+       "publisher": "Roy Morgan",
+       "title": "New Zealand national voting intention, October 2026",
+       "url": "https://www.roymorgan.com/findings/10381-nz-national-voting-intention-october-2026",
+       "publishedAt": "2026-11-04",
+       "kind": "Poll"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

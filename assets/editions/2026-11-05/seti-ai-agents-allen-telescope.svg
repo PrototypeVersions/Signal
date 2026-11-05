@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A row of radio telescope dishes under a night sky, with a copper pulse line rising from the nearest dish">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="#d6e6f2" opacity="0.7"><circle cx="90" cy="60" r="2"/><circle cx="210" cy="110" r="1.5"/><circle cx="330" cy="40" r="2"/><circle cx="470" cy="90" r="1.5"/><circle cx="700" cy="50" r="2"/><circle cx="740" cy="150" r="1.5"/><circle cx="150" cy="170" r="1.5"/></g>
+  <rect x="0" y="410" width="800" height="90" fill="#0f1f2e"/>
+  <g fill="none" stroke="#7fa6c4" stroke-width="4" opacity="0.7">
+    <path d="M520 360 Q560 330 600 360"/><line x1="560" y1="350" x2="560" y2="410"/>
+    <path d="M630 380 Q660 358 690 380"/><line x1="660" y1="372" x2="660" y2="410"/>
+    <path d="M715 392 Q738 376 760 392"/><line x1="738" y1="386" x2="738" y2="410"/>
+  </g>
+  <g transform="translate(320 330)">
+    <path d="M-130 -40 Q0 70 130 -40 Z" fill="#12263a" stroke="#d6e6f2" stroke-width="5" stroke-linejoin="round"/>
+    <line x1="0" y1="12" x2="0" y2="-70" stroke="#d6e6f2" stroke-width="4"/>
+    <circle cx="0" cy="-74" r="7" fill="#d6e6f2"/>
+    <line x1="0" y1="14" x2="0" y2="80" stroke="#7fa6c4" stroke-width="10"/>
+    <path d="M-40 80 L40 80" stroke="#7fa6c4" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <polyline points="320,250 340,250 352,220 364,250 400,250 412,190 424,250 460,250 472,150 484,250 520,250 532,120 544,250 600,250" fill="none" stroke="#c8865a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" transform="rotate(-25 320 250)"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A vault door standing slightly open with a copper key in its lock, standing for outside hackers invited to test an AI company's defences">
+  <rect width="800" height="500" fill="#09131d"/>
+  <rect x="200" y="70" width="400" height="360" rx="14" fill="#0f1f2e" stroke="#7fa6c4" stroke-width="5"/>
+  <path d="M235 105 L470 120 L470 380 L235 395 Z" fill="#12263a" stroke="#d6e6f2" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M470 120 L565 105 L565 395 L470 380 Z" fill="#1a3550" opacity="0.6"/>
+  <circle cx="350" cy="250" r="70" fill="none" stroke="#7fa6c4" stroke-width="6"/>
+  <g stroke="#7fa6c4" stroke-width="6" stroke-linecap="round">
+    <line x1="350" y1="180" x2="350" y2="150"/><line x1="350" y1="320" x2="350" y2="350"/>
+    <line x1="280" y1="250" x2="255" y2="250"/><line x1="420" y1="250" x2="445" y2="250"/>
+  </g>
+  <circle cx="350" cy="250" r="18" fill="#09131d" stroke="#d6e6f2" stroke-width="4"/>
+  <g transform="translate(350 250) rotate(-30)">
+    <rect x="0" y="-5" width="110" height="10" rx="3" fill="#c8865a"/>
+    <rect x="70" y="5" width="10" height="16" fill="#c8865a"/><rect x="90" y="5" width="10" height="22" fill="#c8865a"/>
+    <circle cx="-26" cy="0" r="26" fill="none" stroke="#c8865a" stroke-width="10" transform="translate(-4 0)"/>
+  </g>
+  <path d="M472 140 L560 128" stroke="#c8865a" stroke-width="3" opacity="0.8"/>
+  <path d="M472 360 L560 372" stroke="#c8865a" stroke-width="3" opacity="0.8"/>
+</svg>

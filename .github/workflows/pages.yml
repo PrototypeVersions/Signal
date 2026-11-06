@@ -12,6 +12,8 @@ concurrency:
   group: signal-pages
   cancel-in-progress: false
 jobs:
+  # 1. Publish the edition straight away. Recordings that already exist are carried over from the
+  #    cache, and a new edition gets a note saying when its recording should be ready.
   publish:
     runs-on: ubuntu-latest
     environment:
@@ -24,8 +26,39 @@ jobs:
           python-version: '3.12'
       - name: Validate and build the publication
         run: python scripts/build.py
-      # Listen: each edition is read aloud. Recordings are cached between runs, so only a new or
-      # changed edition is recorded. If anything here fails, the site still publishes without audio.
+      - name: Restore recorded editions
+        uses: actions/cache/restore@v4
+        with:
+          path: .audio-cache
+          key: narration-${{ github.run_id }}
+          restore-keys: narration-
+      - name: Add existing recordings and an audio-on-its-way note
+        continue-on-error: true
+        run: python scripts/narrate.py --out dist --cache .audio-cache --models .kokoro --days 30 --budget 0 --pending-minutes 45
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # 2. Record the edition read aloud, then publish again with the audio. If recording fails,
+  #    the edition published in step 1 stays up without the Listen button.
+  narrate:
+    needs: publish
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate and build the publication
+        run: python scripts/build.py
+      # Recordings are cached between runs, so only a new or changed edition is recorded.
       - name: Restore recorded editions
         uses: actions/cache/restore@v4
         with:
@@ -48,7 +81,7 @@ jobs:
           [ -s .kokoro/kokoro-v1.0.onnx ] || curl -fsSL --retry 3 -o .kokoro/kokoro-v1.0.onnx "$base/kokoro-v1.0.onnx"
           [ -s .kokoro/voices-v1.0.bin ] || curl -fsSL --retry 3 -o .kokoro/voices-v1.0.bin "$base/voices-v1.0.bin"
           command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
-          python scripts/narrate.py --out dist --cache .audio-cache --models .kokoro --days 30 --budget 40
+          python scripts/narrate.py --out dist --cache .audio-cache --models .kokoro --days 30 --budget 40 --pending-minutes 45
       - name: Save recorded editions
         if: always()
         run: mkdir -p .audio-cache
@@ -57,10 +90,17 @@ jobs:
         with:
           path: .audio-cache
           key: narration-${{ github.run_id }}
+      # Only republish when recording worked, so a failure never removes audio that was already live.
       - uses: actions/configure-pages@v5
+        if: steps.narrate.outcome == 'success'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.narrate.outcome == 'success'
         with:
           path: dist
-      - name: Deploy
+          name: github-pages-audio
+      - name: Deploy with audio
         id: deployment
+        if: steps.narrate.outcome == 'success'
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-audio

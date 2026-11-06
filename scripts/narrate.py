@@ -9,7 +9,7 @@ the run stops starting new recordings once --budget minutes have passed.
 Needs: kokoro-onnx (pip), the Kokoro v1.0 model files in --models, and ffmpeg.
 """
 import argparse, json, shutil, subprocess, sys, tempfile, time, wave
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -49,6 +49,8 @@ def main():
     ap.add_argument('--models', default='.kokoro')
     ap.add_argument('--days', type=int, default=30)
     ap.add_argument('--budget', type=float, default=40, help='minutes after which no new recording starts')
+    ap.add_argument('--pending-minutes', type=float, default=0,
+                    help='for each edition not recorded yet, write <date>.pending.json saying audio is expected about this many minutes from now (0 = off)')
     args = ap.parse_args()
     started = time.time()
     out = Path(args.out) / 'audio'; out.mkdir(parents=True, exist_ok=True)
@@ -63,7 +65,12 @@ def main():
         mp3, meta = cache / f'{stem}.mp3', cache / f'{stem}.json'
         if not (mp3.exists() and meta.exists()):
             if (time.time() - started) / 60 > args.budget:
-                print(f'{edition["date"]}: skipped, time budget used (next run records it)'); skipped += 1; continue
+                print(f'{edition["date"]}: skipped, time budget used (next run records it)'); skipped += 1
+                if args.pending_minutes > 0 and edition is editions[0]:
+                    eta = datetime.now(timezone.utc) + timedelta(minutes=args.pending_minutes)
+                    eta = (eta + timedelta(minutes=(5 - eta.minute % 5) % 5)).replace(second=0, microsecond=0)
+                    (out / f'{edition["date"]}.pending.json').write_text(json.dumps({'date': edition['date'], 'expectedBy': eta.isoformat().replace('+00:00', 'Z')}))
+                continue
             if kokoro is None:
                 from kokoro_onnx import Kokoro
                 kokoro = Kokoro(str(Path(args.models) / 'kokoro-v1.0.onnx'), str(Path(args.models) / 'voices-v1.0.bin'))

@@ -192,6 +192,19 @@
           if(saved>10&&saved<m.duration-15){start(saved);toast(`Picking up where you left off, at ${clock(saved)}.`);}else start(0);
         });
       });
-    }).catch(()=>{});
+    }).catch(()=>{
+      // A new edition is published before its recording is ready; the publish workflow leaves a note saying when to expect it.
+      const main=listenButtons.find(b=>!b.dataset.chapter);
+      if(!main)return;
+      fetch(prefix+'audio/'+edition.date+'.pending.json').then(r=>{if(!r.ok)throw Error('No note');return r.json();}).then(p=>{
+        const eta=new Date(p.expectedBy);
+        if(isNaN(eta)||Date.now()>eta.getTime()+45*60000)return;
+        const late=Date.now()>eta.getTime();
+        let when='';try{when=eta.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',timeZone:'America/Chicago'})+' CT';}catch{}
+        main.hidden=false;main.disabled=true;main.classList.add('is-pending');
+        main.querySelector('.listen-label').textContent='Audio on its way';
+        main.querySelector('.listen-time').textContent=late||!when?'almost ready':`around ${when}`;
+      }).catch(()=>{});
+    });
   }
 })();

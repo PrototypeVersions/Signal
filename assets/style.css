@@ -263,6 +263,7 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .listen{display:inline-flex;align-items:center;gap:10px;padding:6px 15px 6px 6px;border:1px solid var(--line);border-radius:999px;font:10px/1 var(--mono);letter-spacing:.8px;text-transform:uppercase;color:var(--ink);background:transparent;cursor:pointer;white-space:nowrap;transition:border-color .2s,background .2s}.listen:hover{border-color:var(--accent);background:var(--panel)}.listen[hidden]{display:none}
 .listen-icon{display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--accent);color:var(--paper)}.listen-icon svg{width:12px;height:12px;margin-left:2px}
 .listen-time{color:var(--muted)}.listen-time:before{content:'·';margin-right:9px}
+.listen.is-pending{cursor:default;color:var(--muted)}.listen.is-pending:hover{border-color:var(--line);background:transparent}.listen.is-pending .listen-icon{background:var(--line);color:var(--muted)}.listen.is-pending{white-space:normal;text-align:left}
 .listen-story{margin:4px 0 22px}
 .player{position:fixed;left:0;right:0;bottom:0;z-index:60;background:color-mix(in srgb,var(--panel) 94%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-top:1px solid var(--line);box-shadow:0 -12px 40px #0005;padding-bottom:env(safe-area-inset-bottom)}
 .player[hidden]{display:none}body.has-player{padding-bottom:84px}body.has-player .toast{bottom:100px}

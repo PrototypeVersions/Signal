@@ -1,0 +1,1030 @@
+{
+  "date": "2026-11-06",
+  "number": 20,
+  "cutoff": "2026-11-06T12:15:00Z",
+  "cutoffLabel": "6:15 AM CT",
+  "opening": "Paraguay’s president resigned over a bank collapse that froze millions of accounts. The Dow had its worst day in 19 months as AI stocks sank, Trump said a decision on new Iran strikes was near, Herzog delayed naming Israel’s next leader, and South Africa’s ANC trailed in three big cities.",
+  "leadStoryId": "paraguay-pena-resigns-ueno-bank",
+  "stories": [
+    {
+      "id": "paraguay-pena-resigns-ueno-bank",
+      "section": "world",
+      "title": "Paraguay’s President Santiago Peña resigns, and is impeached minutes later, after the collapse of a bank used by most of the country’s adults",
+      "category": "Politics",
+      "region": "Latin America · Paraguay",
+      "regions": ["latin-america"],
+      "status": "Major development",
+      "eventDate": "2026-11-03 / 2026-11-05",
+      "body": "Santiago Peña announced his resignation in a video on Thursday, as the lower house prepared to impeach him; it then voted 78 to 0 to do so anyway, sending the charges to the Senate. Two days earlier the central bank had seized Ueno Bank, a digital lender with close to three million customers, after finding poorly documented lending to insiders. Peña once held a stake in Ueno’s holding company. Vice President Pedro Alliana was due to be sworn in to serve until August 2028.",
+      "whatChanged": "After three days of protests over frozen savings, Peña quit office, a day after the central bank chief he appointed resigned.",
+      "whyMatters": "A single bank failure has toppled a sitting president and cut off savings, wages and public funds for a large share of a small country, testing whether Paraguay’s deposit guarantee and institutions can contain the damage.",
+      "uncertainty": "It is not yet clear whether the Senate will pursue the impeachment after the resignation, how quickly depositors will be repaid, or how much public money was exposed to losses.",
+      "watchNext": "The Senate’s handling of the impeachment charges, the choice of a new vice president, and the first payouts from the deposit guarantee fund.",
+      "keyFacts": [
+        "The central bank took over Ueno Bank on Tuesday, November 3",
+        "The lower house voted 78 to 0 to impeach Peña minutes after he resigned",
+        "Ueno held about 800 million dollars of public deposits, roughly a quarter of its total, per AP",
+        "Eight senior Ueno executives were detained and 27 people charged, including founder Miguel Vázquez",
+        "Vice President Pedro Alliana takes over for the rest of the term, to August 2028"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "On Monday, Paraguayan regulators found that Ueno Bank had made poorly documented loans to companies tied to its owners and had booked expenses as assets; once corrected, its capital fell below half the legal minimum. The central bank seized the lender on Tuesday. Its app, cards and transfers stopped working, branches shut, and customers rushed to open accounts elsewhere, crashing other banks’ apps, Euronews reported.",
+            "Ueno, which grew out of a finance company and won a banking licence in 2023, says it served more than 60 percent of the country’s adults. The Associated Press reported that about 800 million dollars of its deposits were public money, including state pension and health fund accounts, and that some 7,000 employees are owed wages."
+          ]
+        },
+        {
+          "heading": "Peña’s fall",
+          "paragraphs": [
+            "Peña had held a stake in Ueno’s holding company until last year and had appointed Carlos Carvallo, who once ran the bank’s predecessor, to head the central bank. As recently as October he dismissed concerns about the bank as a smear. Carvallo resigned at Peña’s request on Wednesday. On Thursday, after three days of protests in Asunción in which police used pepper spray and rubber pellets, Peña said he was stepping down for the sake of stability and apologised, while not accepting responsibility for the crisis.",
+            "The Chamber of Deputies impeached him regardless, by 78 votes to none; conviction in the Senate needs two thirds. Deputies rejected a separate impeachment motion against Vice President Pedro Alliana, of the same Colorado Party, who is to finish the term."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "Prosecutors have charged 27 bank officials and associates with offences including breach of trust and attempted fraud. The deposit guarantee covers up to 228.3 million guaraníes per depositor, and authorities estimate about 97 percent of customers can be repaid in full, starting with small balances, according to the Spanish outlet Demócrata. Lawmakers are also expected to choose a new vice president."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Paraguay",
+        "bounds": [-63.5, -28.5, -53.5, -18.5],
+        "countries": ["600"],
+        "alt": "Map of Paraguay, highlighted, with a marker at the capital Asunción, where depositors protested for three days and Congress voted on the president’s impeachment.",
+        "caption": "Paraguay · marker shows the capital, Asunción"
+      },
+      "locations": [
+        {"label": "Asunción", "lon": -57.58, "lat": -25.28}
+      ],
+      "sources": [
+        {
+          "publisher": "OPB (Associated Press)",
+          "title": "Paraguay’s president is impeached minutes after resigning following a bank collapse",
+          "url": "https://www.opb.org/article/2026/11/05/paraguay-president-impeached-minutes-after-resigning-following-bank-collapse/",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "NBC Los Angeles (Associated Press)",
+          "title": "Paraguay President Santiago Peña resigns following bank collapse",
+          "url": "https://www.nbclosangeles.com/news/national-international/paraguay-president-santiago-pena-resigns-bank-collapse/3966370/",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Paraguayan president resigns amid bank collapse leaving 3M people without access to bank accounts",
+          "url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Demócrata",
+          "title": "Paraguay, a resignation and a banking crisis: why has President Santiago Peña resigned and what has happened with Ueno Bank?",
+          "url": "https://www.democrata.es/en/international/paraguay-a-resignation-and-a-banking-crisis-why-has-president-santiago-pena-stepped-down-and-what-has-happened-to-ueno-bank/",
+          "publishedAt": "2026-11-05",
+          "kind": "Explainer"
+        }
+      ],
+      "threadId": "paraguay-ueno-bank-crisis",
+      "threadTitle": "Paraguay’s bank collapse",
+      "threadSummary": "The November 2026 failure of Paraguay’s Ueno Bank and the political crisis it set off, including the president’s resignation."
+    },
+    {
+      "id": "wall-street-ai-selloff-after-midterms",
+      "section": "world",
+      "title": "The Dow falls more than 1,800 points and the Nasdaq enters a correction as investors dump AI stocks after the Democrats’ midterm sweep",
+      "category": "Markets",
+      "region": "North America · United States",
+      "regions": ["north-america"],
+      "status": "Major development",
+      "eventDate": "2026-11-05",
+      "body": "On Thursday the Dow Jones Industrial Average closed down 1,833 points, or 3.4 percent, its steepest one-day fall in 19 months. The S&P 500 lost 4.4 percent and the Nasdaq 5.5 percent, leaving it more than 10 percent below its October record. Chip and data-centre stocks led the fall: Nvidia dropped about 9 percent and AMD about 17 percent. Analysts linked the selling to expectations that a Democratic Congress, many of whose members campaigned against new data centres, will slow and raise the cost of the AI buildout.",
+      "whatChanged": "A day after a relief rally, markets reversed sharply, erasing the post-election gains and pushing the Nasdaq into a correction.",
+      "whyMatters": "Spending on AI chips and data centres has driven much of the stock market’s rise, so a political threat to that buildout reaches retirement savings and company investment plans well beyond the tech sector.",
+      "uncertainty": "One day’s fall does not show a lasting change; analysts’ explanations are interpretations, and Democrats have not yet set out what limits on data centres, if any, they will pursue.",
+      "watchNext": "Whether the selling continues on Friday, and what the incoming Democratic leaders say about data-centre permitting and electricity prices.",
+      "keyFacts": [
+        "Dow: down 1,833 points, or 3.44 percent, to about 51,523",
+        "S&P 500: down 4.36 percent; Nasdaq: down 5.52 percent",
+        "The Philadelphia semiconductor index fell more than 12 percent",
+        "The Dow had risen 1,570 points on Wednesday, its best day since April 2025",
+        "The VIX volatility index jumped about 62 percent, per Anadolu"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "Stocks fell from the open on Thursday and kept falling. By the close the Dow was at 51,523, down 1,833 points, Fox Business reported, and the S&P 500 had lost 335 points to 7,354. The Nasdaq Composite, heavy in technology, fell 5.5 percent, closing in correction territory, at least 10 percent below the record it set on October 6.",
+            "Chipmakers took the worst of it. Nvidia lost more than 9 percent and AMD about 17 percent, ABC News reported, while SanDisk fell by more than a fifth. Data-centre operators such as IREN, Applied Digital and Nebius each dropped more than 14 percent, and power suppliers to the industry, including GE Vernova and Constellation Energy, also fell."
+          ]
+        },
+        {
+          "heading": "Why investors sold",
+          "paragraphs": [
+            "Democrats won control of both chambers of Congress in Tuesday’s midterms, and some of their candidates had made rising electricity bills and the spread of power-hungry data centres a campaign issue, with calls for restrictions or pauses. Dan Ives of Yorkville told ABC News the result was a major shift that would slow the pace of AI infrastructure building in the United States. Another analyst quoted by Fox Business described the day as capitulation for companies that benefit from data-centre spending.",
+            "The fall reversed Wednesday’s rally, when the Dow had its best day since April 2025 as markets absorbed the election result."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "Democrats take control of Congress in the new year. Investors will be watching for statements from Democratic leaders and for whether large technology companies change the spending plans that have underpinned the rally in AI shares."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Thursday’s losses",
+        "measure": "Fall in each index at Thursday’s close, November 5, 2026",
+        "unit": "percent",
+        "values": [
+          {"label": "Dow Jones", "value": 3.44},
+          {"label": "S&P 500", "value": 4.36},
+          {"label": "Nasdaq", "value": 5.52}
+        ],
+        "alt": "Bar chart of Thursday’s declines: the Dow fell 3.44 percent, the S&P 500 4.36 percent and the Nasdaq 5.52 percent.",
+        "caption": "One-day percentage declines, November 5, 2026, as reported by Fox Business",
+        "sourceUrl": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+      },
+      "sources": [
+        {
+          "publisher": "Fox Business",
+          "title": "Nasdaq tumbles 5%, Dow plunges more than 1,800 points",
+          "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "Dow plunges 1,800 points, wiping out gains from midterm results rally",
+          "url": "https://abcnews.com/Business/dow-plunges-1200-points-shedding-midterm-results-stock/story?id=137880888",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+          "publishedAt": "2026-11-06",
+          "kind": "News digest"
+        }
+      ],
+      "threadId": "ai-capital-spending",
+      "threadTitle": "The AI infrastructure buildout",
+      "threadSummary": "The spending by technology companies on chips, data centres and power for AI, and how investors and governments respond to it."
+    },
+    {
+      "id": "trump-iran-strikes-decision-qatar-proposal",
+      "section": "world",
+      "title": "Trump says a decision on renewed strikes on Iran is coming soon, as Tehran sends a nuclear proposal through Qatar",
+      "category": "Conflict",
+      "region": "Middle East · Iran",
+      "regions": ["middle-east", "north-america"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05 / 2026-11-06",
+      "body": "In the Oval Office on Thursday, Donald Trump said he would rather not destroy the rest of Iran but might have to, and that a decision would come soon. Axios reported that he met his national security team for the first time since the midterms to weigh renewed large-scale strikes, continued sanctions and blockade, or a deal. A senior Iranian official told Reuters that Tehran had sent a nuclear proposal through Qatar but would discuss it only once Washington met seven demands. Iran’s Revolutionary Guards said they downed two American drones over Qeshm Island.",
+      "whatChanged": "The White House has begun formally weighing a return to major combat now that Trump’s pledge not to strike before the midterms has lapsed, while Iran has put a nuclear offer on the table through Qatar.",
+      "whyMatters": "The choice between a new bombing campaign and a negotiated reopening of the Strait of Hormuz will shape energy prices and the risk of a wider regional war in the coming weeks.",
+      "uncertainty": "The contents of Iran’s proposal have not been published, neither side has accepted the Qatari two-day plan, and the drone claim comes from Iranian state media and has not been confirmed by the United States.",
+      "watchNext": "Any announcement from the White House on strikes, a US reply to the Qatari plan, and the arrival of the USS Theodore Roosevelt in the region, expected in mid-November.",
+      "keyFacts": [
+        "Trump: a decision on escalation will come soon, and US forces are ready",
+        "Iran sent a nuclear proposal via Qatar, a senior official told Reuters",
+        "Tehran says talks require seven US steps, including lifting sanctions and the naval blockade",
+        "Iran says ships from India, China, Iraq and Qatar are exempt from its Hormuz restrictions",
+        "The USS Theodore Roosevelt carrier group is not expected in the region until mid-November"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "Trump told reporters on Thursday that the United States would now make a decision on Iran and that people would know soon enough, adding that he would prefer not to destroy the rest of the country if possible. He described US control over Iran as close to an occupation and said rebuilding would take about 25 years. In October he had said there would be no attack before the November 3 midterms.",
+            "According to Axios, cited by Breitbart, Trump met his top national security advisers on Thursday to weigh three options: a renewed large military campaign, more economic pressure through sanctions and the naval blockade, or a negotiated settlement. A US official said Central Command was finalising preparations for possible major operations but had received no new order."
+          ]
+        },
+        {
+          "heading": "Iran’s position",
+          "paragraphs": [
+            "A senior Iranian official told Reuters that Tehran had sent a nuclear proposal to Washington through Qatar, which the United States was reviewing, but that it would only be discussed once seven demands were met, including lifting sanctions, releasing frozen assets, compensation and ending the naval blockade. Qatar is mediating a two-day plan under which the United States would first ease the blockade and release some funds, Iran would invite UN nuclear inspectors to damaged sites, and the strait would reopen on the second day. Iran’s refusal to send its highly enriched uranium abroad remains a sticking point.",
+            "Separately, an Iranian lawmaker said ships from India, China, Iraq and Qatar were now exempt from Iran’s restrictions in the strait, with Indian and Chinese vessels paying transit fees, Al Jazeera reported. The Revolutionary Guards said on Thursday they had shot down two US reconnaissance drones over Qeshm Island, according to the state news agency IRNA."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "The carrier USS Theodore Roosevelt is heading toward the Middle East but is not expected in Central Command’s area until mid-November. Analysts told Al Jazeera that Iran’s exemptions make only a limited difference to oil flows for now."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Iran, the Gulf and Qatar",
+        "bounds": [48, 22, 60, 30.5],
+        "countries": ["364", "634"],
+        "labels": [
+          {"label": "Strait of Hormuz", "lon": 56.6, "lat": 26.3, "kind": "water"},
+          {"label": "Persian Gulf", "lon": 51.0, "lat": 27.6, "kind": "water"}
+        ],
+        "alt": "Map of the Gulf with Iran and Qatar highlighted, and markers at Qeshm Island, where Iran says it downed two US drones, and Doha, through which Iran sent its proposal.",
+        "caption": "Iran and Qatar · approximate reporting locations; the drone claim is Iran’s and unconfirmed"
+      },
+      "locations": [
+        {"label": "Qeshm Island, Iran", "mapLabel": "Qeshm", "lon": 55.9, "lat": 26.8},
+        {"label": "Doha, Qatar", "mapLabel": "Doha", "lon": 51.53, "lat": 25.29}
+      ],
+      "sources": [
+        {
+          "publisher": "Breitbart (citing Axios, Reuters and Fox News)",
+          "title": "Trump Says Decision on Renewed Strikes Against Iran Coming ‘Soon’",
+          "url": "https://www.breitbart.com/politics/2026/11/05/trump-decision-renewed-strikes-iran-coming-soon/",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "WebIndia123 (ANI)",
+          "title": "“Would rather not destroy rest of the country”: Trump’s Iran war tone changes after midterm drubbing",
+          "url": "https://news.webindia123.com/news/Articles/World/20261106/4516486.html",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting (ANI)"
+        },
+        {
+          "publisher": "The Times of Israel (Reuters)",
+          "title": "Iran sent nuclear proposal to the US via Qatar, says senior Iranian official",
+          "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting (Reuters)"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+          "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions",
+          "publishedAt": "2026-11-06",
+          "kind": "Analysis"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+          "publishedAt": "2026-11-06",
+          "kind": "News digest"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war between the United States, Israel and Iran, the struggle over the Strait of Hormuz and efforts to negotiate an end to the fighting."
+    },
+    {
+      "id": "herzog-delays-mandate-sunday",
+      "section": "world",
+      "title": "Herzog confirms 67 lawmakers back Eisenkot but delays naming who will form Israel’s government until Sunday",
+      "category": "Politics",
+      "region": "Middle East · Israel",
+      "regions": ["middle-east"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05",
+      "body": "Closing his consultations on Thursday, President Isaac Herzog said parties with 67 of the Knesset’s 120 seats had recommended Gadi Eisenkot and parties with 46 had recommended Benjamin Netanyahu. He said the numbers looked clear on the surface but that vetoes between and within the two blocs left it uncertain whether anyone could actually form a government. He will hold further private talks with party leaders and announce on Sunday, November 8, whom he is tasking. Eisenkot’s Yashar party urged him to act quickly.",
+      "whatChanged": "The count is now official, but Herzog has held back the mandate to test whether Eisenkot’s majority of recommendations can become a working coalition.",
+      "whyMatters": "Herzog’s caution signals that a majority of recommendations, resting on parties that rule out sitting with one another, may not translate into a stable government, which raises the chance of a long deadlock or another election.",
+      "uncertainty": "It is not known which leaders Herzog will meet, what terms the Arab-led parties would set for supporting a government, or whether Herzog could choose Netanyahu despite his smaller tally.",
+      "watchNext": "Herzog’s announcement on Sunday, November 8, and the 28 days the nominee will then have to build a coalition.",
+      "keyFacts": [
+        "Eisenkot: 67 recommendations from Yashar, Together, the Democrats, Yisrael Beytenu, Ra’am and the Joint List",
+        "Netanyahu: 46 from Likud, Religious Zionism, Otzma Yehudit, Shas and Zehut",
+        "United Torah Judaism recommended neither candidate",
+        "Herzog will name the nominee on Sunday, November 8",
+        "Yashar says 67 is the most for any candidate since 2015"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "Herzog finished two days of meetings with the factions of the new Knesset on Thursday and set out the result in a video statement. Six parties, Yashar, Together, the Democrats, Yisrael Beytenu, Ra’am and the Joint List, recommended Eisenkot; five, Likud, Religious Zionism, Otzma Yehudit, Shas and Zehut, recommended Netanyahu, Ynet reported. United Torah Judaism declined to choose.",
+            "Rather than hand over the mandate at once, Herzog said he needed to judge whether a government could really be formed, pointing to mutual vetoes between the blocs and inside them. He said he would leave no stone unturned to encourage a stable government and would announce his decision on Sunday."
+          ]
+        },
+        {
+          "heading": "The reaction",
+          "paragraphs": [
+            "Yashar called the 67 recommendations an absolute majority and the highest for a prime ministerial candidate since 2015, urged a national emergency government, and described Netanyahu as a caretaker with the backing of only 46 lawmakers. For Likud, Yoav Kisch warned Herzog against a government that depends on Arab parties and argued that Likud is the largest party."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "Before Sunday, Herzog plans personal talks with some party leaders in an effort to settle the question quickly, JNS reported. Whoever he chooses will have 28 days to form a coalition, with a possible 14-day extension, and if no one succeeds Israel would return to the polls."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "The final recommendations",
+        "measure": "Knesset seats held by parties recommending each candidate to President Herzog",
+        "unit": "seats",
+        "values": [
+          {"label": "Gadi Eisenkot", "value": 67},
+          {"label": "Benjamin Netanyahu", "value": 46},
+          {"label": "No recommendation", "value": 7}
+        ],
+        "alt": "Bar chart: parties with 67 seats recommended Gadi Eisenkot, 46 Benjamin Netanyahu, and the remaining 7, United Torah Judaism, recommended no one, in a 120-seat Knesset where 61 is a majority.",
+        "caption": "Final tally announced by President Herzog on November 5; 61 of 120 seats is a majority",
+        "sourceUrl": "https://www.ynetnews.com/article/rjj1td9pfx"
+      },
+      "sources": [
+        {
+          "publisher": "Ynet News",
+          "title": "Eisenkot leads Netanyahu 67-46, but Herzog delays mandate decision until Sunday",
+          "url": "https://www.ynetnews.com/article/rjj1td9pfx",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "JNS",
+          "title": "Herzog: 67 MKs recommend Eisenkot, 46 Netanyahu; mandate to be assigned Sunday",
+          "url": "https://www.jns.org/news/israel-news/herzog-67-mks-recommend-eisenkot-46-netanyahu-mandate-to-be-assigned-sunday",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+          "publishedAt": "2026-11-06",
+          "kind": "News digest"
+        }
+      ],
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel's October 2026 general election, its campaign and the formation of the next government."
+    },
+    {
+      "id": "south-africa-anc-trails-three-metros",
+      "section": "world",
+      "title": "With most votes counted, South Africa’s ANC leads nationally on about 32 percent but trails in Johannesburg, Pretoria and Durban",
+      "category": "Politics",
+      "region": "Africa · South Africa",
+      "regions": ["africa"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-04 / 2026-11-06",
+      "body": "By Friday morning, with 71 percent of votes counted in Wednesday’s local elections, the ANC had just under 32 percent nationally, ahead of the Democratic Alliance, provisional figures showed. But the ANC was third in Tshwane, which includes Pretoria, and in Johannesburg, where the DA leads, and third in eThekwini, which includes Durban, where the MK party is ahead. Reuters noted the ANC’s share is about 14 points below its 2021 result. Final results are expected on Sunday.",
+      "whatChanged": "As counting passed two thirds, the DA moved ahead in Johannesburg and Tshwane and MK led in eThekwini, leaving the ANC behind in all three of the largest contested metros.",
+      "whyMatters": "Losing South Africa’s biggest cities would cut the governing party off from their large budgets and force fresh coalition deals in the metros, a sign of how far its national dominance has eroded.",
+      "uncertainty": "Counting was incomplete in all three metros, with Johannesburg under half counted on Friday morning, and the coalitions that will run each city are unknown.",
+      "watchNext": "The commission’s declaration of final results, expected on Sunday, November 8, and the two-week window that follows for parties to form city coalitions.",
+      "keyFacts": [
+        "71 percent of votes counted by 8:33 AM South African time on Friday",
+        "National votes: ANC about 6.19 million, DA 4.76 million, MK 1.78 million",
+        "Tshwane (65 percent counted): DA first, ActionSA second, ANC third",
+        "Johannesburg (46 percent counted): DA 476,905, ANC 204,885, ActionSA 184,415",
+        "eThekwini (39 percent counted): MK first, DA second, ANC third"
+      ],
+      "report": [
+        {
+          "heading": "Where the count stands",
+          "paragraphs": [
+            "Provisional figures reported by The Witness early on Friday gave the ANC about 6.19 million votes nationally, just under 32 percent, against 4.76 million for the DA and 1.78 million for the MK party. In Tshwane, with 65 percent counted, the DA had about 367,000 votes, ActionSA 257,000 and the ANC 246,000. In Johannesburg, less than half counted, the DA had more than twice the ANC’s total. In eThekwini, where 39 percent had been counted, MK led with about 316,000 votes, followed by the DA and then the ANC."
+          ]
+        },
+        {
+          "heading": "Why the result matters",
+          "paragraphs": [
+            "Reuters reported on Thursday that the ANC was running about 14 percentage points below its 2021 municipal result, and quoted Louw Nel of Oxford Economics Africa describing a share near 32 percent as the party’s worst nightmare coming true. A CSIR projection put turnout at about 52 percent, higher than in 2021, which Nel said suggested ANC voters had not simply stayed at home.",
+            "The ANC chairperson, Gwede Mantashe, said on Thursday that townships and other areas where the party is strong had not yet been fully counted."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "Results are due to be declared on Sunday. Parties then have two weeks to form coalition governments in municipalities where no one has a majority, including the main Gauteng metros."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "National votes counted so far",
+        "measure": "Provisional national votes with 71 percent counted, Friday morning",
+        "unit": "million votes",
+        "values": [
+          {"label": "ANC", "value": 6.19},
+          {"label": "DA", "value": 4.76},
+          {"label": "MK", "value": 1.78}
+        ],
+        "alt": "Bar chart of provisional national votes with 71 percent counted: ANC 6.19 million, DA 4.76 million and MK 1.78 million.",
+        "caption": "Provisional count as of 8:33 AM South African time on November 6; figures will change",
+        "sourceUrl": "https://witness.co.za/news/2026/11/06/anc-leads-nationally-but-trails-in-three-major-metros/"
+      },
+      "sources": [
+        {
+          "publisher": "The Witness",
+          "title": "ANC leads nationally but trails in three major metros",
+          "url": "https://witness.co.za/news/2026/11/06/anc-leads-nationally-but-trails-in-three-major-metros/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CNBC Africa (Reuters)",
+          "title": "South Africa’s ANC faces ‘worst nightmare’ as vote share tumbles",
+          "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting (Reuters)"
+        }
+      ],
+      "threadId": "south-africa-politics",
+      "threadTitle": "South Africa's politics",
+      "threadSummary": "South Africa's elections, coalition governments and the decline of the ANC's dominance."
+    },
+    {
+      "id": "us-senate-mississippi-alaska-counts",
+      "section": "more",
+      "title": "Democrats lead by a few hundred votes in Alaska and about 1,800 in Mississippi as two Senate counts go on",
+      "category": "Politics",
+      "region": "North America · United States",
+      "regions": ["north-america"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05",
+      "whatChanged": "Scott Colom’s lead over Senator Cindy Hyde-Smith in Mississippi widened to about 1,800 votes on Thursday, while Mary Peltola stayed about 640 votes ahead of Senator Dan Sullivan in Alaska.",
+      "body": "With 96 percent of the expected vote reported in Mississippi, Colom had 466,747 votes to Hyde-Smith’s 464,925, ABC News reported; her campaign says thousands of votes from Republican counties are still to come. Affidavit ballots can be cured until November 10 and counties must certify by November 13, and the state has no formal recount law. In Alaska, with 74 percent counted, Peltola led by 637 votes, while a little-known candidate also named Dan Sullivan had about 3,600.",
+      "sources": [
+        {
+          "publisher": "ABC News",
+          "title": "Election 2026 live results",
+          "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
+          "publishedAt": "2026-11-05",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "WDAM",
+          "title": "Colom leads Senate race against Hyde-Smith on day 3 of ballot counting",
+          "url": "https://www.wdam.com/2026/11/05/colom-leads-senate-race-against-hyde-smith-day-3-ballot-counting/",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Fox News",
+          "title": "Alaska Senate race tightens as ‘Decoy Dan’ may sway Sullivan result",
+          "url": "https://www.foxnews.com/politics/alaska-mississippi-senate-races-separate-razor-thin-vote-margins",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 2026 elections for the US Congress, governors and ballot measures, and their aftermath."
+    },
+    {
+      "id": "france-national-strike-november-5",
+      "section": "more",
+      "title": "France’s strike day ends with 448 arrests, and the prime minister calls unions and employers to talks on Monday",
+      "category": "Society",
+      "region": "Europe · France",
+      "regions": ["europe"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05 / 2026-11-06",
+      "whatChanged": "Final tallies put Thursday’s marches at about 575,000 people by the government’s count and nearly 1.6 million by the CGT union’s, and Prime Minister Sébastien Lecornu called a social conference for Monday.",
+      "body": "The Interior Ministry reported 448 arrests, 53 injured officers and 86 fires by the evening, Anadolu reported, and Reuters said police fired tear gas in Lyon. The CGT’s leader, Sophie Binet, called the strike extremely effective and demanded pay rises for all and a 10 percent increase in the minimum wage. Lecornu’s government said it will host unions and employers at Matignon on Monday, November 9.",
+      "sources": [
+        {
+          "publisher": "Express Tribune (Anadolu)",
+          "title": "France reports 448 arrests as 53 police officers injured in protests",
+          "url": "https://tribune.com.pk/story/2638953/france-reports-448-arrests-as-53-police-officers-injured-in-protests",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting (Anadolu)"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Hundreds of thousands protest across France over high cost of living",
+          "url": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "france-unrest-2026",
+      "threadTitle": "France's 2026 unrest",
+      "threadSummary": "Strikes, blockades and protests in France in 2026 over pay, public services and the cost of living."
+    },
+    {
+      "id": "europe-flight-bomb-hoaxes",
+      "section": "more",
+      "title": "Hoax bomb threats disrupt at least 27 flights across Europe, the second wave in a week",
+      "category": "Security",
+      "region": "Europe",
+      "regions": ["europe"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-04 / 2026-11-05",
+      "whatChanged": "Emailed and phoned threats on Thursday forced diversions, fighter escorts and searches in at least ten countries; no explosives were found.",
+      "body": "An Aer Lingus flight from Dublin to Rome was intercepted by fighter jets and diverted to an air base in northern France, and Bulgarian jets escorted three airliners down, Al Jazeera reported. Spain, the Czech Republic, Poland, Finland and Romania also reported threatened flights. Britain’s transport secretary called them malicious hoaxes; the EU said it was too early to say whether they were linked, and no government has assigned blame.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "New bomb threats force more European flights into emergency landings",
+          "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+          "publishedAt": "2026-11-06",
+          "kind": "News digest"
+        }
+      ],
+      "threadId": "europe-hybrid-threats",
+      "threadTitle": "Sabotage and disruption in Europe",
+      "threadSummary": "Suspected sabotage, drone incursions, hoaxes and other disruptive incidents across Europe, and how governments respond."
+    },
+    {
+      "id": "newsom-commutes-california-death-row",
+      "section": "more",
+      "title": "California’s governor moves to commute all 548 death sentences to life without parole",
+      "category": "Justice",
+      "region": "North America · United States",
+      "regions": ["north-america"],
+      "status": "Major development",
+      "eventDate": "2026-11-05",
+      "whatChanged": "Gavin Newsom, who paused executions in 2019, said on Thursday he will convert every death sentence in the state, to life without parole.",
+      "body": "In a letter, Newsom said state killing is incompatible with California’s values and called the decision one of the hardest of his career, acknowledging the pain for victims’ families. Under the state constitution, clemency for anyone with more than one felony conviction needs the approval of the California Supreme Court, the AP noted. Voters rejected repealing the death penalty in 2016; the ACLU welcomed the move.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "title": "Newsom says he will commute all 548 of California’s death sentences to life without parole",
+          "url": "https://www.pbs.org/newshour/politics/newsom-says-he-will-commute-all-548-of-californias-death-sentences-to-life-without-parole",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting (AP)"
+        }
+      ],
+      "threadId": "us-death-penalty",
+      "threadTitle": "The death penalty in the US",
+      "threadSummary": "Executions, death sentences and clemency in the United States."
+    },
+    {
+      "id": "china-blocks-softbank-abb-robotics",
+      "section": "more",
+      "title": "China blocks SoftBank’s 5.4 billion dollar purchase of ABB’s robotics business",
+      "category": "Business",
+      "region": "Asia · China",
+      "regions": ["asia"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05",
+      "whatChanged": "ABB said on Thursday that Chinese authorities had prohibited the deal after a foreign-investment security review, a year after it was agreed.",
+      "body": "The deal, announced in October 2025, had already passed a Chinese competition review. The Financial Times, cited by Silicon UK, reported that the reviewers were concerned about robotics data leaving China and being used to train AI models, including those of OpenAI, in which SoftBank is a major investor. ABB said the deal still faces other regulatory approvals; neither company has said what happens next.",
+      "sources": [
+        {
+          "publisher": "Silicon UK",
+          "title": "China Blocks SoftBank’s Acquisition Of ABB’s Robotics Business",
+          "url": "https://www.silicon.co.uk/e-regulation/china-abb-softbank-632204",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting (citing the Financial Times)"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+          "publishedAt": "2026-11-06",
+          "kind": "News digest"
+        }
+      ],
+      "threadId": "us-china-ai-rivalry",
+      "threadTitle": "The US–China AI rivalry",
+      "threadSummary": "Competition between the United States and China over AI chips, data, models and the companies that build them."
+    },
+    {
+      "id": "openai-agents-linux-kernel-root-exploits",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "OpenAI says its AI agents built working root exploits for 948 Linux kernel flaws in one run",
+      "category": "AI security",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-10-15 / 2026-11-04",
+      "hook": "If the figures hold, finding serious bugs in critical software has become a matter of budget, and defenders will need to patch far faster.",
+      "body": "OpenAI said on Wednesday that an automated pipeline running an unreleased cyber model scanned the latest Linux kernel in mid-October, flagged 2,308 possible bugs, reproduced 1,724 and produced working privilege-escalation exploits for 948 distinct flaws. These let a user who already has an ordinary account take full control of a machine. The run cost about 1.21 million dollars in API credits. OpenAI says it is reporting the bugs and patches to kernel maintainers in stages and is withholding technical details.",
+      "whatChanged": "A single automated run found almost six times as many exploitable kernel flaws as OpenAI’s July attempt, which found 166.",
+      "whyMatters": "Linux underpins a large share of the world’s servers and devices, and a sudden flood of serious flaws found by machines puts pressure on the people who maintain it and gives attackers with similar tools a large advantage until fixes ship.",
+      "uncertainty": "All figures come from OpenAI; no independent researchers or kernel maintainers had verified them in the coverage we read, and the ten new exploitation techniques OpenAI describes are not public.",
+      "watchNext": "How many of the flaws are patched in coming kernel releases, any statement from kernel maintainers, and whether OpenAI makes the model available to defenders.",
+      "keyFacts": [
+        "2,308 candidate bugs flagged, 1,724 reproduced, 948 distinct bugs with working root exploits",
+        "Cost: about 1.21 million dollars, roughly 1,279 dollars per exploitable bug",
+        "OpenAI’s July scan with GPT-5.6 Sol found 166 such flaws for about 514,000 dollars",
+        "Over 100 flaws were patched or had patches staged within ten days, OpenAI says",
+        "Tests ran in virtual machines and require an existing foothold on the target"
+      ],
+      "report": [
+        {
+          "heading": "What OpenAI reported",
+          "paragraphs": [
+            "In a post published on Wednesday, OpenAI described a five-stage pipeline in which AI agents look for weaknesses, reproduce them, judge whether they can be exploited, write candidate patches and hand results to human reviewers before reports go to maintainers. Run against the kernel’s main development branch in mid-October, it flagged 2,308 potential bugs and reproduced 1,724, SecurityWeek and The Hacker News reported. The agents produced working local privilege-escalation exploits, which turn an ordinary account into full administrator control, for 948 distinct bugs, as well as proofs of concept for 291 bugs that leak information.",
+            "The run cost about 1.21 million dollars in API credits. A similar scan in late July using GPT-5.6 Sol found 166 such flaws, and work in June with GPT-5.5-Cyber found 24. OpenAI says the agents used at least ten exploitation techniques that outside kernel experts had not seen."
+          ]
+        },
+        {
+          "heading": "Limits and reaction",
+          "paragraphs": [
+            "Every number comes from OpenAI. The exploits work only for an attacker who already has a foothold on a machine, and were tested in virtual machines with standard kernel protections switched on. OpenAI is withholding technical details for safety reasons, so the new techniques cannot be checked. SecurityWeek found no statement from kernel maintainers. OpenAI says more than 100 flaws had been fixed or had patches staged within ten days and that remaining fixes will follow in stages.",
+            "Outside the company, the security firm VulnCheck has described AI-assisted bug hunting as a growing risk because it lowers the skill attackers need, and Britain’s National Cyber Security Centre has said such tools have almost certainly increased the discovery of previously unknown flaws, The Hacker News noted."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-06/openai-agents-linux-kernel-root-exploits.svg",
+        "alt": "A staircase of blocks rising to a padlock, with copper patches on several steps, standing for software flaws that let an ordinary user climb to full control of a Linux machine.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "SecurityWeek",
+          "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+          "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Hacker News",
+          "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+          "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "OpenAI",
+          "title": "A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+          "publishedAt": "2026-11-04",
+          "kind": "Company announcement (could not be opened directly; figures taken from the reporting above)"
+        }
+      ],
+      "threadId": "ai-cybersecurity-acceleration",
+      "threadTitle": "AI and the cybersecurity race",
+      "threadSummary": "How increasingly capable AI systems are changing the discovery and exploitation of software vulnerabilities, and how defenders respond."
+    },
+    {
+      "id": "claude-prokaryotic-vault-particle",
+      "section": "frontiers",
+      "field": "Science",
+      "title": "Anthropic scientists working with Claude map the first 3D structure of a vault particle from bacterial life",
+      "category": "AI in biology",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-04",
+      "hook": "A modest but concrete example of an AI model doing much of the hands-on analysis in a lab study, errors included, on a long-standing puzzle in cell biology.",
+      "body": "Vault particles are large, barrel-shaped protein shells first described in 1986, with no known function. Anthropic’s science team reported on Wednesday that, with Claude searching protein databases, designing DNA constructs and running much of the microscopy analysis, it found vault-forming proteins in bacteria and viruses that infect them, and solved the structure of one shell made of 96 copies of a single phage protein. The work has been submitted as a preprint and has not been peer reviewed.",
+      "whatChanged": "Vaults had been characterised only in complex cells; this is the first reported structure of one from prokaryotic life.",
+      "whyMatters": "Finding vaults in bacteria and phages suggests these structures are older than thought, and the study shows how far an AI system can now carry the practical work of a biology project under scientists’ direction.",
+      "uncertainty": "The particles were made only in laboratory E. coli, their function is still unknown, the results have not been independently reviewed, and the account of Claude’s role comes from Anthropic itself.",
+      "watchNext": "Publication of the preprint and data, and whether outside groups confirm the structures or find vaults in living bacteria.",
+      "keyFacts": [
+        "Vault-like protein genes found in 29 bacterial and four archaeal phyla, in under 1 percent of species",
+        "Seven of 15 soluble candidates formed vault-like particles; four were confirmed by cryo-electron microscopy",
+        "The mapped phage shell has 96 copies of one protein; human vaults have 78",
+        "A new purification method cut preparation from about three days to about 90 minutes",
+        "Errors in Claude-written protocols cost the team about two weeks"
+      ],
+      "report": [
+        {
+          "heading": "What the team did",
+          "paragraphs": [
+            "Anthropic’s science team searched about 15 billion predicted protein sequences for relatives of the main vault protein, then tested 24 candidates by producing them in E. coli. Fifteen gave soluble protein and seven assembled into vault-like particles; cryo-electron microscopy confirmed the vault shape for four, two from bacteria and two from bacteriophages, the viruses that infect bacteria. One phage-derived shell, called L05, was mapped at a resolution of 3.2 ångströms, Unite.AI reported. It is about 54 by 45 nanometres and made of 96 copies of one protein.",
+            "The team also altered the particles, showing that duplicating part of the wall gave closed shells with about 20 percent more interior space. Each L05 protein holds an unidentified small molecule; a computer search suggested coenzyme A as a candidate, which is unconfirmed."
+          ]
+        },
+        {
+          "heading": "Claude’s part, and its mistakes",
+          "paragraphs": [
+            "According to Anthropic, Claude searched the databases, designed DNA constructs, suggested a faster purification method that cut preparation from about three days to 90 minutes, and ran the microscopy processing. It also made errors: one protocol included an additive that blocked DNA uptake and cost two weeks, and an early processing step produced a flawed map. The microscopy analysis used hundreds of graphics processors, more than most academic labs have."
+          ]
+        },
+        {
+          "heading": "Limits",
+          "paragraphs": [
+            "The report has been submitted to the preprint server bioRxiv and has not been peer reviewed. The particles were not studied in the organisms where they naturally occur, and what vaults do remains unknown. The coverage we read included no comment from independent scientists."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-06/claude-prokaryotic-vault-particle.svg",
+        "alt": "A hollow barrel-shaped shell built from repeated tiles with a small copper molecule inside, standing for the bacterial vault particle and the unidentified molecule found in its pocket.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Anthropic",
+          "title": "Investigating vault particles with Claude",
+          "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+          "publishedAt": "2026-11-04",
+          "kind": "Company research report"
+        },
+        {
+          "publisher": "Unite.AI",
+          "title": "Anthropic Uses Claude to Show Bacterial and Phage Proteins Form Vaults",
+          "url": "https://www.unite.ai/anthropic-uses-claude-to-show-bacterial-and-phage-proteins-form-vaults/",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ai-and-research",
+      "threadTitle": "AI & scientific research",
+      "threadSummary": "How AI systems are being used to make, speed up or check scientific discoveries."
+    },
+    {
+      "id": "hubble-orbit-boost-request",
+      "section": "frontiers",
+      "field": "Space",
+      "title": "NASA asks companies how to rescue the Hubble telescope, which could fall from orbit by 2033",
+      "category": "Space telescopes",
+      "region": "Global",
+      "regions": [],
+      "status": "This week",
+      "eventDate": "2026-10-29 / 2026-11-04",
+      "hook": "An early, exploratory step, but the window to save the most famous telescope in orbit is now measured in a handful of years.",
+      "body": "Hubble has no engines, and the thin upper atmosphere is slowly dragging it down. NASA’s latest analysis projects that it will re-enter between 2033 and 2034, and a mission to raise it would have to launch by 2032. On October 29 the agency issued a request for information asking commercial firms about technologies to boost the telescope’s orbit, service and upgrade it, or retire it safely. NASA stressed these options are being explored, not approved. Responses are due on November 30.",
+      "whatChanged": "NASA has formally started looking for commercial ways to keep Hubble in orbit, setting a 2032 deadline for any boost mission.",
+      "whyMatters": "Without a boost, one of astronomy’s best-known instruments will eventually fall or have to be brought down, and NASA has only a few years to find a way to prevent that.",
+      "uncertainty": "There is no funding or approved mission, and it is not clear whether any company can build a docking and boost craft in time.",
+      "watchNext": "Responses to NASA’s request, due on November 30, and whether the agency’s next budget includes money for a mission.",
+      "keyFacts": [
+        "Projected re-entry: 2033 to 2034, per NASA",
+        "A boost mission would need to launch by 2032",
+        "Request for information issued October 29; responses due November 30",
+        "Options: raise the orbit, service and upgrade, or retire safely"
+      ],
+      "report": [
+        {
+          "heading": "What NASA announced",
+          "paragraphs": [
+            "NASA said that trace gas in low Earth orbit is steadily reducing Hubble’s altitude, and the telescope carries no propulsion of its own to counter the drag. The agency’s current projection is that it will re-enter the atmosphere in 2033 or 2034. To prevent that, a boost mission would need to launch by 2032.",
+            "On October 29 NASA issued a request for information to industry, asking about technologies that could push Hubble into a higher orbit, service the telescope and improve its instruments, or dispose of it safely, either by a controlled descent or by moving it to a storage orbit. The release, republished by ScienceDaily on November 4, says these are options under study, not approved plans."
+          ]
+        },
+        {
+          "heading": "Background",
+          "paragraphs": [
+            "Hubble is run by NASA’s Goddard Space Flight Center, with science operations at the Space Telescope Science Institute in Baltimore and the European Space Agency as a partner. Lockheed Martin Space provides operational support. A request for information is an early step that helps an agency judge what industry can offer before deciding whether to fund a mission; responses are due by 3 PM Eastern time on Monday, November 30, after which NASA would have to choose whether to pursue a boost, an upgrade or a safe retirement."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-06/hubble-orbit-boost-request.svg",
+        "alt": "A space telescope with two solar panels above the curve of the Earth, a dashed lower path beneath it and a copper arrow pointing up, standing for NASA’s search for a way to lift Hubble’s sinking orbit.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "ScienceDaily (NASA)",
+          "title": "NASA Is Racing Against Time to Save the Hubble Space Telescope",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+          "publishedAt": "2026-11-04",
+          "kind": "Primary (NASA release)"
+        }
+      ],
+      "threadId": "nasa-space-observatories",
+      "threadTitle": "NASA's space observatories",
+      "threadSummary": "The operation, funding and future of NASA's space telescopes and observatories."
+    },
+    {
+      "id": "ebola-who-approves-vaccine-trials",
+      "section": "still",
+      "title": "WHO approves trials of two vaccines designed for the Ebola strain spreading in Congo, where cases have passed 10,500",
+      "category": "Health",
+      "region": "Africa · Democratic Republic of the Congo",
+      "regions": ["africa"],
+      "status": "Still matters",
+      "eventDate": "2026-11-02 / 2026-11-04",
+      "body": "The World Health Organization approved trials of two vaccines built for the Bundibugyo strain, one developed by the University of Oxford with the Serum Institute of India and Moderna, Al Jazeera reported on Wednesday; results are expected in early 2027. Congo’s National Institute for Biomedical Research will lead them. Europe’s disease agency counted 10,532 confirmed cases and 5,126 deaths in Congo through November 1, with 65 new cases on November 2. A British health worker infected in Congo is being flown home.",
+      "whatChanged": "Two vaccines designed for this strain have been cleared for trials, adding to a trial of Ervebo, which was made for a different strain.",
+      "whyMatters": "With no approved vaccine or treatment and a death rate near half, a vaccine that works against Bundibugyo is the main hope of bringing the fastest-growing outbreak in Congo’s history under control.",
+      "uncertainty": "Trial start dates have not been given, the second vaccine was not named in the coverage we read, and death counts differ between agencies: Africa CDC has reported more than 5,300.",
+      "watchNext": "The start of the new trials and the next WHO situation report.",
+      "keyFacts": [
+        "10,532 confirmed cases and 5,126 deaths in Congo through November 1, per ECDC",
+        "Africa CDC has reported more than 5,300 deaths across affected countries",
+        "Ituri province has about 7,400 of Congo’s cases; eight provinces are affected",
+        "Results from the newly approved vaccine trials are expected in early 2027",
+        "Kenya has had nine cases and two deaths, with no new case since October 20"
+      ],
+      "report": [
+        {
+          "heading": "The new trials",
+          "paragraphs": [
+            "WHO expert groups recommended on Monday that two vaccine candidates designed for the Bundibugyo strain be added to trials in Congo, and WHO approved them, Al Jazeera reported. One was developed by the University of Oxford with the Serum Institute of India and Moderna. The trials will be led by Congo’s National Institute for Biomedical Research, with results expected early next year. A separate trial, which began in Bunia last month, is testing Ervebo, a licensed vaccine for the Zaire strain. WHO’s chief, Tedros Adhanom Ghebreyesus, said vaccines do not replace early care, contact tracing, isolation and safe burials, and urged countries to lift travel restrictions."
+          ]
+        },
+        {
+          "heading": "Where the outbreak stands",
+          "paragraphs": [
+            "The European Centre for Disease Prevention and Control said on November 3 that Congo had recorded 10,532 confirmed cases and 5,126 deaths through November 1, most in Ituri and North Kivu, and that cases were still rising. It noted that Congo had added 314 deaths in a data review and that the true size of the outbreak is likely larger than reported. Africa CDC figures cited by Al Jazeera put deaths above 5,300. Kenya has recorded nine cases and two deaths, and Nigeria one imported case. Britain said an infected British health worker in stable condition was being evacuated from Congo."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "WHO approves trials for two new Ebola vaccines",
+          "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "European Centre for Disease Prevention and Control",
+          "title": "Ebola disease outbreak caused by Bundibugyo virus",
+          "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-03",
+          "publishedAt": "2026-11-03",
+          "kind": "Primary (public health agency)"
+        }
+      ],
+      "threadId": "ebola-east-africa",
+      "threadTitle": "Ebola outbreak in Africa",
+      "threadSummary": "The 2026 Bundibugyo-strain Ebola outbreak centred on the Democratic Republic of the Congo, its spread and the response."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Herzog’s choice",
+      "text": "Israel’s president says he will announce on Sunday, November 8, who will try to form a government, after Gadi Eisenkot won 67 recommendations to Benjamin Netanyahu’s 46."
+    },
+    {
+      "title": "New Zealand votes",
+      "text": "New Zealanders elect a parliament on Saturday, November 7, with the final 1News Verian poll leaving the small Opportunity party holding the balance between the two blocs."
+    },
+    {
+      "title": "South Africa’s results",
+      "text": "The electoral commission is expected to declare final local election results on Sunday, November 8, opening a two-week window for coalition deals in the big cities."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Wall Street suffered its worst day in 19 months as AI shares sank after the midterms, two Senate counts stayed close, and California’s governor moved to empty the state’s death row.",
+      "briefs": [
+        {
+          "title": "Karen Bass concedes the Los Angeles mayoral race to Nithya Raman",
+          "text": "Los Angeles Mayor Karen Bass conceded to her challenger Nithya Raman on Thursday afternoon, ABC News reported. Raman is set to become the city’s 44th mayor.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "ABC News",
+              "title": "Election 2026 live results: Karen Bass concedes LA mayoral race to Nithya Raman",
+              "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
+              "publishedAt": "2026-11-05",
+              "kind": "Live reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Paraguay’s president resigned and was impeached after the collapse of Ueno Bank, and the United States widened its sanctions on Cuba’s oil shipping.",
+      "briefs": [
+        {
+          "title": "US adds Cuban oil tankers and Chinese suppliers to its sanctions",
+          "text": "The State Department said on Thursday that the United States had sanctioned eight entities, two individuals and five Cuban-linked tankers, targeting the government’s oil shipping network, firms tied to the military conglomerate GAESA and two Chinese companies it says supplied military equipment to Cuba. It said humanitarian trade remains allowed and warned that foreign firms in several Cuban industries could face sanctions.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "US Department of State",
+              "title": "Further Sanctions on the Cuban Regime’s Foreign Military Support and Illicit Revenue Networks - Fact Sheet",
+              "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/further-sanctions-on-the-cuban-regimes-foreign-military-support-and-illicit-revenue-networks-fact-sheet",
+              "publishedAt": "2026-11-05",
+              "kind": "Primary (government)"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "France counted the cost of a nationwide strike and called unions to talks, while a second wave of hoax bomb threats disrupted flights across the continent.",
+      "briefs": [
+        {
+          "title": "Russell Brand found guilty of rape and sexual assault",
+          "text": "A jury at Southwark Crown Court in London on Thursday convicted the comedian Russell Brand of one count of rape and three of sexual assault, covering incidents between 1999 and 2009, and acquitted him of three other charges. He was taken into custody and will be sentenced on Monday. Brand had denied all the allegations.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Russell Brand found guilty of rape and sexual assault by UK court",
+              "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "South Africa’s ANC trailed in three major cities as local election counting neared its end, and WHO cleared trials of two new vaccines for Congo’s Ebola outbreak.",
+      "briefs": [
+        {
+          "title": "Sudan and Ethiopia close each other’s consulates",
+          "text": "Ethiopia ordered the closure of Sudan’s consulate in the border town of Asosa, and Sudan responded by shutting Ethiopia’s consulate in Gadarif and expelling its diplomats, Al Jazeera reported on Wednesday. Sudan has complained to the UN Security Council that Ethiopia lets the Rapid Support Forces use its territory for drone attacks, while Ethiopia accuses Sudan of backing Tigrayan rebels; both deny the charges.",
+          "eventDate": "2026-11-01 / 2026-11-04",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Sudan, Ethiopia shut each other’s consulates in tit-for-tat move: Reports",
+              "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions",
+              "publishedAt": "2026-11-04",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Trump said a decision on renewed strikes on Iran was near as Tehran sent a nuclear proposal through Qatar, and Israel’s president delayed naming the next prime minister until Sunday.",
+      "briefs": [
+        {
+          "title": "Saudi Arabia says it intercepted a Houthi missile aimed at the Madinah region",
+          "text": "The Saudi-led coalition in Yemen said on Thursday that its air defences destroyed a ballistic missile fired by the Houthis toward the Madinah region and shot down a drone over the Eastern Province, Arab News reported. Qatar, Kuwait, Bahrain and Jordan condemned the attack, according to Anadolu.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Arab News",
+              "title": "Saudi coalition says Houthi missile fired at Madinah region intercepted",
+              "url": "https://www.arabnews.com/saudi-arabia/saudi-coalition-says-houthi-missile-fired-at-medina-region-intercepted-3009937",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Anadolu Agency",
+              "title": "Morning Briefing: Nov. 6, 2026",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+              "publishedAt": "2026-11-06",
+              "kind": "News digest"
+            }
+          ]
+        },
+        {
+          "title": "Turkey’s parliament ratifies the Mecca defence pact with Saudi Arabia and Pakistan",
+          "text": "Turkish lawmakers approved the Mecca Joint Defence Agreement by 279 votes to 119 on Thursday. The ten-year pact, signed in August, commits Turkey, Saudi Arabia and Pakistan to come to one another’s aid if attacked, in terms that echo NATO’s mutual defence clause, though experts told Al Jazeera that any Turkish troop deployment would need separate approval.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+              "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "China blocked SoftBank’s purchase of ABB’s robotics arm, South Korea moved to extend its naval patrols toward Hormuz, and the United States sanctioned an Indian network it says helped Iranian tankers.",
+      "briefs": [
+        {
+          "title": "South Korea plans to extend naval patrols toward the Strait of Hormuz",
+          "text": "South Korea’s defence ministry said on Thursday it will ask parliament to extend its Cheonghae anti-piracy unit’s mandate and widen its area to waters near Duqm in Oman, about 650 kilometres from the strait, after US pressure to support the war on Iran. Officials say the mission would stay non-combat and under Korean command; an opposition leader called it a troop deployment.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+              "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "US sanctions an Indian network accused of faking ship registries for Iranian tankers",
+          "text": "The US Treasury sanctioned a Chandigarh-based couple, two associates and nine linked companies, accusing them of posing as the ship registries of Guyana, Eswatini and Laos to issue false flags that kept sanctioned tankers carrying Iranian oil at sea, Al Jazeera and Reuters reported. A Turkish ground-handling firm serving sanctioned Iranian airlines was also targeted.",
+          "eventDate": "2026-11-04 / 2026-11-05",
+          "sources": [
+            {
+              "publisher": "Al Jazeera (Reuters)",
+              "title": "US sanctions Indian and Turkish firms accused of helping Iran",
+              "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting (Reuters)"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "New Zealand’s campaign closed on Friday ahead of Saturday’s general election, with the final poll showing neither main bloc on course for a majority.",
+      "briefs": [
+        {
+          "title": "New Zealand’s final poll leaves Opportunity as kingmaker",
+          "text": "The last 1News Verian poll before Saturday’s election put National on 30 percent and Labour on 29, with the Greens on 16, ACT 10, NZ First 8 and the Opportunity party 6. That would give the right-leaning bloc 58 of 121 seats, three short of a majority, leaving Opportunity’s projected seven seats to decide the government.",
+          "eventDate": "2026-11-03",
+          "sources": [
+            {
+              "publisher": "1News",
+              "title": "Final poll: Election set to go down to wire as National's partners slip",
+              "url": "https://www.1news.co.nz/2026/11/03/final-poll-election-set-to-go-down-to-wire-as-nationals-partners-slip/",
+              "publishedAt": "2026-11-03",
+              "kind": "Reporting (poll)"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

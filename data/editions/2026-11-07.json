@@ -1,0 +1,1382 @@
+{
+  "date": "2026-11-07",
+  "number": 21,
+  "cutoff": "2026-11-07T12:15:00Z",
+  "cutoffLabel": "6:15 AM CT",
+  "opening": "Paraguay’s Senate removed Santiago Peña, who was then put under house arrest. New Zealand’s election is too close to call, Russia fired 36 ballistic missiles at Kyiv before peace talks, Stephen Miller will replace Susie Wiles as Trump’s chief of staff, and Trump weighed new Iran strikes.",
+  "leadStoryId": "paraguay-senate-removes-pena-house-arrest",
+  "stories": [
+    {
+      "id": "paraguay-senate-removes-pena-house-arrest",
+      "section": "world",
+      "title": "Paraguay’s Senate removes Santiago Peña from office despite his resignation, and prosecutors place him under house arrest",
+      "category": "Politics",
+      "region": "Latin America · Paraguay",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-06",
+      "body": "Paraguay’s Senate voted on Friday to remove Santiago Peña from office for poor performance of his duties, with all 44 senators present in favour, a day after he tried to resign. Vice President Pedro Alliana was sworn in as president within the hour and is due to serve until 2028. Prosecutors then placed Peña under house arrest and said they would question him on Saturday about alleged breach of trust, influence peddling and misuse of funds linked to the collapse of Ueno Bank.",
+      "whatChanged": "Rather than accept his resignation, the Senate removed Peña, stripping the immunity he would have kept, and prosecutors detained him within about an hour.",
+      "whyMatters": "Peña is only the second Paraguayan president removed by impeachment, after Fernando Lugo in 2012, and the case now moves from Congress to the courts, testing how far responsibility for the bank’s collapse reaches into the government that was meant to supervise it.",
+      "uncertainty": "The full charges have not been published, a judge has yet to rule on whether Peña stays in custody, and it is unclear how quickly Ueno’s roughly three million customers will recover all their money.",
+      "watchNext": "Peña’s questioning on Saturday, any ruling on his detention, Alliana’s choice of ministers, and how fast the deposit guarantee fund widens its payouts beyond small balances.",
+      "keyFacts": [
+        "All 44 senators present voted to remove Peña on Friday, November 6",
+        "Pedro Alliana, 52, was sworn in as president and is due to serve until 2028",
+        "Prosecutors put Peña under house arrest and planned to question him on Saturday",
+        "Ueno held roughly 800 to 850 million dollars of public deposits, including state pension money",
+        "Early payouts of up to about 1,600 dollars per customer began on Thursday"
+      ],
+      "report": [
+        {
+          "heading": "The vote",
+          "paragraphs": [
+            "Peña asked senators for a 72-hour delay and did not attend Friday’s session, The Rio Times reported. The Senate went ahead because the Chamber of Deputies had already approved the charges on Thursday, and opposition lawmakers wanted to stop him leaving office with the immunity that comes with a former president’s life seat in the Senate. All 44 senators present voted to remove him, and Senate President Basilio Núñez declared him guilty of poor performance of his duties, AFP and AP reported. He is the second Paraguayan president removed this way, after Fernando Lugo in 2012.",
+            "The lawmakers who prosecuted the case cited four grounds, according to La Nación: conflicts of interest, manipulation of the bank’s supervision, the diversion of pension funds and taking part in a cover-up involving the central bank. AP reported that they accuse Peña of letting the state pension fund place about 355 million dollars at Ueno, beyond legal limits."
+          ]
+        },
+        {
+          "heading": "The arrest",
+          "paragraphs": [
+            "Within about an hour of the vote, prosecutors ordered the detention of Peña and of Carlos Carvallo, the central bank governor who resigned this week, The Rio Times reported. Prosecutor Silvia González told AFP that Peña was under house arrest and would be questioned on Saturday about alleged breach of trust, influence peddling and misappropriation of funds. Eight senior Ueno executives were moved on Friday to one of the country’s main prisons to await trial, La Nación reported. Peña has not been convicted of any crime."
+          ]
+        },
+        {
+          "heading": "A new government and the depositors",
+          "paragraphs": [
+            "Alliana, a 52-year-old Colorado Party politician and former governor of Ñeembucú, took the oath about 50 minutes after the vote, and Congress named Senator Antonio Barrios as vice president that evening, according to The Rio Times. Alliana pledged to compensate Ueno’s nearly three million depositors, putting pensioners and other vulnerable customers first.",
+            "The central bank began advance payments on Thursday of up to about 1,600 dollars to customers without loans who hold an account at another Paraguayan bank, AFP reported. Deposits are insured up to about 37,000 dollars, which the central bank says covers nearly all customers, according to AP."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Paraguay",
+        "bounds": [
+          -63.5,
+          -28.5,
+          -53.5,
+          -18.5
+        ],
+        "countries": [
+          "600"
+        ],
+        "alt": "Map of Paraguay, highlighted, with a marker at the capital Asunción, where the Senate voted to remove the president.",
+        "caption": "Paraguay · marker shows the capital, Asunción"
+      },
+      "locations": [
+        {
+          "label": "Asunción",
+          "lon": -57.58,
+          "lat": -25.28
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Eagle-Tribune (Associated Press)",
+          "title": "Paraguay Senate removes President Santiago Peña from office following Ueno bank collapse",
+          "url": "https://www.eagletribune.com/region/paraguay-senate-votes-to-remove-president-santiago-pe-a-from-office-following-ueno-bank-collapse/article_f31fb6b1-bb85-581b-a1ed-89668a8c802c.html",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "The Telegraph Nigeria (AFP)",
+          "title": "Paraguay Senate impeaches President Peña, VP Alliana takes over",
+          "url": "https://telegraph.ng/news/2026/11/07/paraguay-senate-impeaches-president-pena-vp-alliana-takes-over/",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting (AFP)"
+        },
+        {
+          "publisher": "Yahoo News (Reuters)",
+          "title": "Paraguay’s Alliana sworn in as president after Peña impeachment",
+          "url": "https://www.yahoo.com/news/world/articles/paraguays-alliana-sworn-president-pe-230304379.html",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting (Reuters)"
+        },
+        {
+          "publisher": "The Rio Times",
+          "title": "Paraguay Ousts President, Then Detains Him",
+          "url": "https://www.riotimesonline.com/paraguay-senate-removes-pena-alliana-sworn-in-2026/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "La Nación (Argentina)",
+          "title": "Tras ser destituido por el Senado, Santiago Peña fue detenido en su domicilio",
+          "url": "https://www.lanacion.com.ar/el-mundo/el-senado-de-paraguay-destituyo-al-presidente-santiago-pena-tras-el-colapso-del-ueno-bank-nid06112026/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "paraguay-ueno-bank-crisis",
+      "threadTitle": "Paraguay’s bank collapse",
+      "threadSummary": "The November 2026 failure of Paraguay’s Ueno Bank and the political crisis it set off, including the president’s resignation and removal."
+    },
+    {
+      "id": "new-zealand-election-too-close-to-call",
+      "section": "world",
+      "title": "New Zealand’s election is too close to call, with the governing bloc one seat over a majority before special votes are counted",
+      "category": "Politics",
+      "region": "Oceania · New Zealand",
+      "regions": [
+        "oceania"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-07",
+      "body": "With about 95 percent of votes counted on Saturday night, National was the largest party but only about 3,500 votes ahead of Labour, according to the German agency dpa. On preliminary figures the governing bloc of National, ACT and New Zealand First had 67 seats in an enlarged parliament of 130, one more than a majority, against 56 for Labour, the Greens and Te Pāti Māori. Prime Minister Christopher Luxon said the result was too close to call. The official count is due on November 27.",
+      "whatChanged": "Saturday’s preliminary count gave Luxon’s coalition a one-seat majority, too slim to declare victory because special votes, about a fifth of the total last time, are still to come.",
+      "whyMatters": "A margin of one seat leaves New Zealand without a settled government for weeks, and the special votes will decide whether a first-term coalition survives after a campaign fought over the cost of living and housing.",
+      "uncertainty": "Special votes have shifted preliminary results in each of the last three elections, according to dpa, and the number of extra seats that enlarges parliament could change with them. The Opportunity party’s final seat count is not yet confirmed.",
+      "watchNext": "The official result on November 27, and whether Luxon keeps ruling out a deal with the Opportunity party if special votes erase his bloc’s majority.",
+      "keyFacts": [
+        "About 95 percent of votes were counted on election night, Saturday, November 7",
+        "National and Labour were separated by about 3,500 votes, per dpa",
+        "Preliminary seats: National, ACT and NZ First 67; Labour, Greens and Te Pāti Māori 56",
+        "Parliament would have 130 seats, its largest ever, so a majority needs 66",
+        "The official result is due on November 27"
+      ],
+      "report": [
+        {
+          "heading": "The count",
+          "paragraphs": [
+            "Voting opened on October 26 and closed at 7 pm on Saturday, with nearly 3.8 million people eligible, AP reported. By the end of the night about 95 percent of the vote had been counted, with roughly 3,500 votes between National and Labour, dpa reported. Early figures carried by Reuters had National ahead on the party vote. Luxon told supporters that National was the largest party in parliament on the numbers so far but that it was too close to call, and that counting special votes would take several weeks, the Otago Daily Times reported.",
+            "Parliament is set to grow to 130 seats because National and Te Pāti Māori won more electorate seats than their share of the party vote would give them, so a government needs 66 votes rather than the usual 61. On preliminary figures the right-leaning bloc has 67 seats and the left 56, according to dpa."
+          ]
+        },
+        {
+          "heading": "The newcomers",
+          "paragraphs": [
+            "The centrist Opportunity party, founded in 2017 and led by the political newcomer Qiulae Wong, crossed the 5 percent threshold and is set to enter parliament for the first time. Wong told supporters that seven seats looked very likely. Luxon has repeatedly ruled out working with the party, while Labour’s leader, Chris Hipkins, said every vote now had to be counted."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "Special votes, which include ballots cast by New Zealanders abroad, made up just over a fifth of the vote in 2023 and have tended to favour left-leaning parties, dpa reported. Luxon said caretaker conventions apply in the meantime, so government business continues, and that negotiation and compromise would be needed once the shape of parliament is known. Coalition talks could run past the official result on November 27."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "New Zealand",
+        "bounds": [
+          165.5,
+          -47.8,
+          179.5,
+          -33.8
+        ],
+        "countries": [
+          "554"
+        ],
+        "alt": "Map of New Zealand, highlighted. The election was national, so no single location is marked.",
+        "caption": "New Zealand · nationwide general election"
+      },
+      "sources": [
+        {
+          "publisher": "Yahoo News (dpa)",
+          "title": "New Zealand election too close to call as count continues",
+          "url": "https://www.yahoo.com/news/world/articles/zealand-election-too-close-call-111831623.html",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting (dpa)"
+        },
+        {
+          "publisher": "Otago Daily Times",
+          "title": "‘Too close to call’, Luxon says as election comes down to special votes",
+          "url": "https://odt.co.nz/news/national/too-close-to-call-luxon-says-as-election-comes-down-to-special-votes-o59idyvp",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "KSAT (Associated Press)",
+          "title": "Conservative bloc takes a slim lead in New Zealand election that’s still too close to call",
+          "url": "https://www.ksat.com/news/2026/11/06/early-count-in-new-zealands-election-suggests-result-too-close-to-call/",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "Al Jazeera (Reuters)",
+          "title": "Two main parties neck and neck after New Zealand vote, near complete count",
+          "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "new-zealand-election-2026",
+      "threadTitle": "New Zealand’s 2026 election",
+      "threadSummary": "New Zealand’s November 2026 general election and the formation of its next government."
+    },
+    {
+      "id": "kyiv-ballistic-missiles-northern-bridge",
+      "section": "world",
+      "title": "Russia fires 36 ballistic missiles at Kyiv and its region, hitting a main bridge and power lines days before talks in Abu Dhabi",
+      "category": "Conflict",
+      "region": "Europe · Ukraine",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-06 / 2026-11-07",
+      "body": "Waves of Russian ballistic missiles struck Kyiv from late Friday into Saturday morning. Ukraine’s air force said Russia launched 36 missiles, of which only four were intercepted, along with 172 drones, of which 149 were downed. Missiles hit the Northern Bridge over the Dnipro, which was closed, and the energy ministry said facilities carrying power from two nuclear plants to the capital were badly damaged. At least two people were killed across Ukraine. The attack came a day after Donald Trump said a peace deal was very close.",
+      "whatChanged": "After a week of warnings from President Volodymyr Zelensky, Russia struck Kyiv’s bridges and power links days before the first three-way talks since February, as Trump predicted an agreement after meeting Putin’s envoy.",
+      "whyMatters": "With temperatures near freezing and only one in nine ballistic missiles stopped, the strike shows how exposed Kyiv’s power, heating and water remain, and it sets a hard backdrop for talks that Washington says could end the war.",
+      "uncertainty": "The full damage to the grid and how long outages will last were not clear on Saturday morning, and Trump has given no details of the agreement he says is coming.",
+      "watchNext": "Repairs to Kyiv’s power supply and the Northern Bridge, and the US-led talks between Ukraine and Russia due to open in Abu Dhabi on Tuesday, November 10.",
+      "keyFacts": [
+        "36 ballistic missiles launched and 4 intercepted, per Ukraine’s air force",
+        "172 drones launched and 149 shot down or suppressed",
+        "Kyiv’s Northern Bridge was closed in both directions after missile hits",
+        "At least two people killed across Ukraine; at least five injured in Kyiv, including a 14-year-old girl",
+        "The death toll from a November 2 strike on an aid point in Komyshuvakha has risen to 50"
+      ],
+      "report": [
+        {
+          "heading": "The attack",
+          "paragraphs": [
+            "The first missiles flew shortly before 11 pm on Friday, with further waves after 1 am and around 3 am, the Kyiv Independent reported. Mayor Vitali Klitschko said the Northern Bridge’s roadway, trolleybus wires and a power line were damaged and the crossing was closed both ways. A five-storey apartment block and a kindergarten were damaged in the Solomianskyi district, and in the Brovary district outside the city a man was pulled from his burning home with burns and shrapnel wounds.",
+            "Ukraine’s energy ministry said facilities outside Kyiv that carry electricity from two nuclear power plants to the city and central regions were seriously damaged, and Zelensky said substations in five other regions were hit, The Moscow Times reported. He said the capital faced serious problems with electricity, water and heating. Russia’s defence ministry said it had struck military-industrial sites and energy and transport infrastructure."
+          ]
+        },
+        {
+          "heading": "The diplomacy",
+          "paragraphs": [
+            "On Thursday Trump met Kirill Dmitriev, Putin’s special envoy, at the White House and told reporters that a big agreement was coming that would involve more than Ukraine, possibly all of Europe, Al Jazeera reported. He gave no details and did not meet the Ukrainian delegation that was also in Washington. The same day Melania Trump hosted Russian and Ukrainian officials, building on a truce she helped broker in Oleshky from October 27 to November 1 that let nearly 800 civilians leave the occupied town.",
+            "Zelensky said Russia was preparing for the talks by firing missiles at critical infrastructure, and urged the newly Democratic-controlled US Congress to pay more attention to Ukraine. A Russian bombing of an aid distribution point in Komyshuvakha in the Zaporizhzhia region on November 2 has now killed 50 people, Ukraine’s emergency service said, making it one of the deadliest attacks on civilians this year."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Kyiv, Ukraine",
+        "bounds": [
+          22,
+          44,
+          41,
+          53
+        ],
+        "countries": [
+          "804"
+        ],
+        "labels": [
+          {
+            "label": "Black Sea",
+            "lon": 34,
+            "lat": 44.6,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Ukraine, highlighted, with a marker at Kyiv, where ballistic missiles damaged the Northern Bridge and nearby energy facilities.",
+        "caption": "Ukraine · marker shows Kyiv, the main target"
+      },
+      "locations": [
+        {
+          "label": "Kyiv",
+          "lon": 30.52,
+          "lat": 50.45
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "36 Russian ballistic missiles slam Kyiv and Kyiv Oblast, damage Northern Bridge, injure at least 6 people",
+          "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Moscow Times",
+          "title": "Russia Pounds Power Facilities Around Kyiv, Damages Major Bridge",
+          "url": "https://www.themoscowtimes.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-a94198",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Russia launches missile attack on Kyiv, injuring residents",
+          "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+    },
+    {
+      "id": "stephen-miller-replaces-susie-wiles",
+      "section": "world",
+      "title": "Trump replaces his chief of staff, Susie Wiles, with Stephen Miller, as pressure builds on Defense Secretary Pete Hegseth",
+      "category": "Politics",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-05 / 2026-11-06",
+      "body": "Donald Trump announced on Friday that Stephen Miller, one of his closest aides, will replace Susie Wiles as White House chief of staff from Monday. Wiles, the first woman in the job and the longest-serving chief of Trump’s two terms, resigned on Thursday night and will move to his political operation. The change follows the Republicans’ loss of both houses of Congress. Separately, Representative Thomas Massie, a Republican, says he will bring impeachment articles against Pete Hegseth as soon as next week unless he resigns.",
+      "whatChanged": "Trump made the biggest change to his White House since the midterms, replacing the chief of staff who had served since the start of his second term.",
+      "whyMatters": "The chief of staff controls who and what reaches the president, and the switch comes as Trump faces a Democratic Congress and open Republican dissent over a war with Iran that some in his party blame for their losses.",
+      "uncertainty": "No reason was given beyond a post-election reset, Miller’s plans for the job are unknown, and it is unclear whether Massie’s push against Hegseth will reach a vote in the current House.",
+      "watchNext": "Miller’s first day on Monday, November 9, any further departures, and whether Massie files impeachment articles against Hegseth next week.",
+      "keyFacts": [
+        "Miller takes over as chief of staff on Monday, November 9",
+        "Wiles served about 21 months, longer than any chief in Trump’s two terms",
+        "Harmeet Dhillon resigned as head of the Justice Department’s civil rights division on Thursday",
+        "Massie says impeachment articles against Hegseth could come next week unless he resigns",
+        "As of Friday, Democrats held 253 House seats and 54 Senate seats, with races still uncalled"
+      ],
+      "report": [
+        {
+          "heading": "The change",
+          "paragraphs": [
+            "Trump announced the move on social media on Friday, thanking Wiles and saying she had done a great job, and said she would move to his political operation, Fox News and Yahoo News reported. Wiles, who handed in her resignation on Thursday night, said serving in the White House had been the honour of a lifetime. Miller, until now one of her deputies, said he was honoured beyond words. A White House official told Fox News the decision was amicable.",
+            "Wiles worked on Trump’s 2016 and 2020 campaigns before becoming the first woman to serve as chief of staff. At about 21 months she outlasted John Kelly, Trump’s longest-serving first-term chief, who lasted about 17. Fox News linked the change to Republican losses that it tied to the Iran war and voters’ worries about affordability."
+          ]
+        },
+        {
+          "heading": "A wider shake-up",
+          "paragraphs": [
+            "Harmeet Dhillon resigned on Thursday as head of the Justice Department’s civil rights division, the first senior official to leave after the midterms, Anadolu and Democracy Now reported. Bloomberg reported that Secretary of State Marco Rubio had discussed stepping down; the State Department called that report fake news, Forbes reported.",
+            "Pressure is also building on Hegseth. Massie, a Kentucky Republican, says he will introduce articles of impeachment as soon as next week unless the defence secretary resigns, and the Republican chair of the House Oversight Committee, James Comer, said on Friday there were a lot of questions about him. In a video on Thursday Hegseth said the effort would not work, and Democracy Now reported that he called for at least 350 billion dollars in extra military funding."
+          ]
+        },
+        {
+          "heading": "The new balance of power",
+          "paragraphs": [
+            "Democrats have won control of both chambers. As of Friday afternoon they held 253 House seats to the Republicans’ 162, with 20 races uncalled, and 54 Senate seats to 44, with Alaska and Mississippi still undecided, according to Yahoo News."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Trump’s longest-serving chiefs of staff",
+        "measure": "Time as White House chief of staff",
+        "unit": "months",
+        "values": [
+          {
+            "label": "Susie Wiles (second term)",
+            "value": 21
+          },
+          {
+            "label": "John Kelly (first term)",
+            "value": 17
+          }
+        ],
+        "alt": "Bar chart comparing about 21 months for Susie Wiles with about 17 months for John Kelly, the longest-serving chiefs of staff in each of Trump’s terms.",
+        "caption": "Approximate months in the job, as reported by Fox News · Wiles to November 2026",
+        "sourceUrl": "https://www.foxnews.com/politics/trump-names-stephen-miller-new-white-house-chief-staff-replacing-susie-wiles"
+      },
+      "sources": [
+        {
+          "publisher": "Fox News",
+          "title": "Trump names Stephen Miller new White House chief of staff, replacing Susie Wiles",
+          "url": "https://www.foxnews.com/politics/trump-names-stephen-miller-new-white-house-chief-staff-replacing-susie-wiles",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "Trump says chief of staff Susie Wiles out, Stephen Miller will replace her",
+          "url": "https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Yahoo News",
+          "title": "Midterms 2026 results and latest updates: Stephen Miller named White House chief of staff in post-election shake-up; Alaska and Mississippi still undecided",
+          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+          "publishedAt": "2026-11-06",
+          "kind": "Wire digest"
+        },
+        {
+          "publisher": "Democracy Now!",
+          "title": "Headlines for November 06, 2026",
+          "url": "https://www.democracynow.org/2026/11/6/headlines",
+          "publishedAt": "2026-11-06",
+          "kind": "Headline digest"
+        },
+        {
+          "publisher": "Forbes",
+          "title": "Rubio Considering Resigning, Report Says",
+          "url": "https://www.forbes.com/sites/saradorn/2026/11/05/rubio-considering-resigning-report-says/",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "trump-administration-turnover",
+      "threadTitle": "Turnover in Trump’s administration",
+      "threadSummary": "Departures and replacements among senior officials in Donald Trump’s second administration."
+    },
+    {
+      "id": "iran-trump-decision-nuclear-reward",
+      "section": "world",
+      "title": "Trump says he may have to “destroy the rest” of Iran, as the United States offers 20 million dollars for information on its nuclear programme",
+      "category": "Conflict",
+      "region": "Middle East · Iran",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05 / 2026-11-07",
+      "body": "Donald Trump told reporters he would rather not destroy the rest of Iran but might have to, and that the world would know his decision soon. On Friday the United States offered up to 20 million dollars for information about Iran’s nuclear programme, and Trump spoke with Qatar’s emir about ending the war. Qatar’s prime minister urged both sides to accept a good deal rather than wait for a perfect one. On Saturday Iran’s Revolutionary Guards said they were ready to change their nuclear doctrine if ordered.",
+      "whatChanged": "Trump’s warning grew sharper and Washington put a cash reward on Iran’s nuclear secrets, while Qatar said it saw progress and that a settlement could be reached.",
+      "whyMatters": "Whether Trump resumes major strikes will shape a war that has already killed 18 American service members and kept shipping through the Strait of Hormuz far below normal, with oil prices lurching on every signal.",
+      "uncertainty": "There is no public timetable for Trump’s decision, the terms of Qatar’s proposal have not been published, and the Guards did not say what a change of nuclear doctrine would involve.",
+      "watchNext": "Any White House announcement on strikes, Iran’s answer to Qatar’s mediators, and whether attacks by Yemen’s Houthis on Saudi Arabia widen if fighting resumes.",
+      "keyFacts": [
+        "Reward: up to 20 million dollars plus possible relocation, through the State Department’s Rewards for Justice programme",
+        "Trump says Iran would need about 25 years to rebuild",
+        "Trump acknowledged that 18 US service members have died in the war",
+        "Brent crude rose 3.67 dollars to 98.29 a barrel on Friday after falling more than 8 percent on Thursday"
+      ],
+      "report": [
+        {
+          "heading": "What Trump said",
+          "paragraphs": [
+            "Speaking in the Oval Office, Trump said the United States had to decide whether to go further to make sure Iran’s threat never returned, Middle East Eye reported. He said he would rather not destroy the rest of the country but that maybe he would have to, and that people would know soon enough. He said Iran would need about 25 years to rebuild. On Tuesday he had told the Financial Times he had no immediate plans for new strikes, CBS News reported, and Gulf News reported that he has met his national security team to discuss resuming operations."
+          ]
+        },
+        {
+          "heading": "Pressure and mediation",
+          "paragraphs": [
+            "US Central Command announced on Friday that the State Department’s Rewards for Justice programme would pay up to 20 million dollars, with possible relocation, for information about Iran’s nuclear programme. Trump also called Qatar’s emir, Sheikh Tamim bin Hamad Al Thani, whose office said he stressed dialogue and diplomacy. Qatar’s prime minister said on Saturday that mediation was continuing, that he saw progress and that a settlement was within reach, according to Khaleej Times and Al Jazeera."
+          ]
+        },
+        {
+          "heading": "Iran’s response",
+          "paragraphs": [
+            "Iran’s foreign minister, Abbas Araghchi, held calls with counterparts in eight countries including Saudi Arabia, the United Arab Emirates, Qatar and Turkey, and an army spokesman warned that any renewed attack would bring strikes on American assets worldwide, Gulf News reported. Iran says the Strait of Hormuz will not reopen until the United States meets seven conditions. On Saturday the Revolutionary Guards’ spokesman, Hossein Mohebbi, said the force was prepared to change its nuclear doctrine if the state ordered it and that Iran continued to extend the range of its missiles, Al Jazeera reported.",
+            "Shipping through the strait remains well below pre-war levels under a US blockade of Iranian ports, and Britain’s maritime security agency reported four attacks off Oman’s Musandam coast between November 1 and 3, according to Gulf News."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Iran and the Gulf",
+        "bounds": [
+          44,
+          22,
+          64,
+          40
+        ],
+        "countries": [
+          "364",
+          "634"
+        ],
+        "labels": [
+          {
+            "label": "Strait of Hormuz",
+            "lon": 57.2,
+            "lat": 25.6,
+            "kind": "water"
+          },
+          {
+            "label": "Persian Gulf",
+            "lon": 50.5,
+            "lat": 27.6,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Iran and Qatar, highlighted, with markers at Tehran and Doha, the Qatari capital where mediation is based, and the Strait of Hormuz labelled.",
+        "caption": "Iran and Qatar highlighted · markers show capitals"
+      },
+      "locations": [
+        {
+          "label": "Tehran",
+          "lon": 51.39,
+          "lat": 35.69
+        },
+        {
+          "label": "Doha",
+          "lon": 51.53,
+          "lat": 25.29
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Middle East Eye",
+          "title": "Trump threatens to ‘destroy the rest’ of Iran, saying ‘you’ll know soon enough’ about his decision",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-destroy-rest-iran-saying-youll-know-soon-enough-about",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Live Updates: U.S. offers $20 million for information on Iran’s nuclear program",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Gulf News",
+          "title": "Trump warns Iran of ‘heavy hit’ amid rising Gulf tensions and diplomatic efforts",
+          "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Iran war live: IRGC warns ready to change ‘nuclear doctrine’ if ordered to",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal",
+          "publishedAt": "2026-11-07",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Khaleej Times",
+          "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+          "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-7-2026",
+          "publishedAt": "2026-11-07",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+    },
+    {
+      "id": "us-senate-mississippi-alaska-counts",
+      "section": "more",
+      "title": "Scott Colom’s lead in Mississippi’s Senate race grows to about 2,500 votes, with up to 20,000 affidavit ballots still to count",
+      "category": "Politics",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-06",
+      "whatChanged": "Colom gained nearly 700 votes on Friday as late ballots broke heavily his way, while Alaska’s count paused until Monday.",
+      "body": "Late on Friday Colom, a Democrat, led Senator Cindy Hyde-Smith by 2,493 votes, having won about 70 percent of the ballots counted that day, Yahoo News reported. Mississippi’s secretary of state said 12,000 to 20,000 affidavit ballots remain, which voters can cure until November 10, and Republicans have demanded they be kept separate, a possible first step toward a legal challenge. In Alaska, Mary Peltola leads Senator Dan Sullivan by 637 votes, with the next mail ballots due to be counted on Monday and Tuesday.",
+      "sources": [
+        {
+          "publisher": "Yahoo News",
+          "title": "Midterms 2026 results and latest updates: Stephen Miller named White House chief of staff in post-election shake-up; Alaska and Mississippi still undecided",
+          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Democracy Docket",
+          "title": "Mississippi Senate ballot fight heats up as Colom’s lead grows",
+          "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 2026 elections for the US Congress, governors and ballot measures, and their aftermath."
+    },
+    {
+      "id": "us-jobs-october-165000",
+      "section": "more",
+      "title": "US employers added 165,000 jobs in October, far more than expected, and unemployment fell to 4.1 percent",
+      "category": "Economy",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-06",
+      "whatChanged": "Hiring beat forecasts of about 65,000 by a wide margin and raised expectations of a Federal Reserve rate rise in December.",
+      "body": "Gains were led by professional and business services, health care and factories, while restaurants, bars and hotels shed jobs, AP reported. Average hourly pay rose 0.4 percent in the month, but at 3.1 percent over the year it has trailed inflation for seven straight months. Futures markets put the chance of a rate rise at the Fed’s December meeting at 77 percent, according to CME FedWatch figures cited by AP.",
+      "sources": [
+        {
+          "publisher": "Sentinel Colorado (Associated Press)",
+          "title": "US employers added a surprising 165,000 jobs in October; unemployment rate dipped to 4.1%",
+          "url": "https://sentinelcolorado.com/uncategorized/us-employers-added-a-surprising-165000-jobs-in-october-unemployment-rate-dipped-to-4-1/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "Yahoo Finance",
+          "title": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "us-economy",
+      "threadTitle": "The US economy",
+      "threadSummary": "Jobs, growth, inflation and interest rates in the United States."
+    },
+    {
+      "id": "asia-tech-stocks-ai-rout",
+      "section": "more",
+      "title": "Asian tech stocks plunge as the AI sell-off spreads, and Taiwan’s market has its worst week since 1991",
+      "category": "Markets",
+      "region": "Asia · Japan, South Korea, Taiwan",
+      "regions": [
+        "asia"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-06",
+      "whatChanged": "Thursday’s Wall Street rout carried into Asia on Friday, before US technology shares recovered some ground later that day.",
+      "body": "Japan’s Nikkei fell 6 percent on Friday, its steepest one-day drop since April 2025, trading on South Korea’s Kospi was briefly halted, and Chinese state entities bought shares to steady prices, Al Jazeera reported. Taiwan’s market lost 12.2 percent over the week. In New York the Nasdaq then rose 1.1 percent and the S&P 500 0.3 percent, while the Dow slipped 0.5 percent, Yahoo Finance reported.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera (with Reuters)",
+          "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+          "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Yahoo Finance",
+          "title": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "ai-capital-spending",
+      "threadTitle": "The AI infrastructure buildout",
+      "threadSummary": "The rush to build data centres and chips for AI, how it is financed, and what investors make of it."
+    },
+    {
+      "id": "swift-observatory-reenters",
+      "section": "more",
+      "title": "NASA’s Swift observatory burns up over Indonesia after nearly 22 years in orbit, after a commercial rescue failed",
+      "category": "Space",
+      "region": "Global",
+      "regions": [],
+      "status": "This week",
+      "eventDate": "2026-11-04",
+      "whatChanged": "The gamma-ray observatory re-entered the atmosphere on Wednesday, ending a mission designed for two years that lasted almost 22.",
+      "body": "Swift came down over North Sumatra at 7:39 am Eastern time on November 4, CBS News reported; most of the 3,200-pound spacecraft burned up, and NASA had put the risk to anyone on the ground at about 1 in 2,100. A robotic craft from Katalyst Space meant to push it to a higher orbit malfunctioned soon after its July launch and never got within seven miles. Launched in 2004, Swift observed more than 2,000 gamma-ray bursts.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "title": "Swift observatory plunges back to Earth",
+          "url": "https://www.cbsnews.com/news/swift-observatory-plunges-back-to-earth/",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC7 San Francisco",
+          "title": "A 3,200-pound NASA observatory plunged back to Earth | Here’s what to know",
+          "url": "https://abc7news.com/story/nasas-neil-gehrels-swift-observatory-is-careening-back-earth-heres-what-know/20015487/",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "nasa-space-observatories",
+      "threadTitle": "NASA’s space observatories",
+      "threadSummary": "The ageing fleet of NASA space telescopes, the efforts to keep them working and what is lost when they end."
+    },
+    {
+      "id": "poland-russian-spy-ring-six-detained",
+      "section": "more",
+      "title": "Poland detains six people accused of shipping military materials to Russia for its intelligence services",
+      "category": "Security",
+      "region": "Europe · Poland",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05",
+      "whatChanged": "Polish officials said on Thursday that a network supplying military-grade materials to Russia had been broken up after searches at 21 sites.",
+      "body": "Tomasz Siemoniak, who coordinates Poland’s special services, said the group sent large amounts of military-grade materials to Russia for use in ammunition and weapons, the Kyiv Independent reported. Five suspects are Polish and one is a Russian woman, and four are in pretrial detention on espionage charges. Siemoniak said almost 100 people have been named as suspects in espionage or sabotage cases since January 2024.",
+      "sources": [
+        {
+          "publisher": "Yahoo News (The Kyiv Independent)",
+          "title": "Poland detains 6 suspects working for Russian intelligence, Polish official says",
+          "url": "https://www.yahoo.com/news/world/articles/poland-detains-6-suspects-working-130709350.html",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+          "publishedAt": "2026-11-06",
+          "kind": "Wire digest"
+        }
+      ],
+      "threadId": "europe-hybrid-threats",
+      "threadTitle": "Sabotage and disruption in Europe",
+      "threadSummary": "Suspected sabotage, espionage, cyberattacks and hoaxes targeting European infrastructure and transport."
+    },
+    {
+      "id": "nigeria-court-voids-atiku-candidacy",
+      "section": "more",
+      "title": "A Nigerian court voids opposition leader Atiku Abubakar’s nomination for January’s presidential election",
+      "category": "Politics",
+      "region": "Africa · Nigeria",
+      "regions": [
+        "africa"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05",
+      "whatChanged": "A federal judge ruled that the party leadership that nominated Atiku was unlawfully constituted, cancelling the primary that made him its candidate.",
+      "body": "Justice Peter Lifu of the Federal High Court in Abuja ruled on Thursday that the African Democratic Congress caretaker committee led by the former Senate president David Mark was unlawful, P.M. News reported, voiding the primary that chose Atiku for the vote on January 16, 2027. The case was brought by a former party official, Nafiu Bala Gombe. The party rejected the ruling and says it will go to the Court of Appeal.",
+      "sources": [
+        {
+          "publisher": "P.M. News",
+          "title": "Court sacks David Mark, cancels Atiku’s presidential ticket",
+          "url": "https://pmnewsnigeria.com/2026/11/05/breaking-court-sacks-david-mark-voids-atikus-candidacy/",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "TRT Afrika",
+          "title": "Nigerian court nullifies opposition leader Atiku Abubakar’s presidential candidacy",
+          "url": "https://www.trtafrika.com/english/article/c80f5816bd49",
+          "publishedAt": "Undated (published about November 5, 2026)",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "nigeria-politics",
+      "threadTitle": "Nigeria’s politics",
+      "threadSummary": "Nigeria’s political contests, courts and parties ahead of its January 2027 presidential election."
+    },
+    {
+      "id": "metr-anthropic-rd-acceleration",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "An outside audit finds AI may have roughly doubled the pace of Anthropic’s progress, but the company redacted much of the evidence",
+      "category": "AI evaluation",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-05",
+      "hook": "A rare look inside a frontier lab’s own speed of progress, and a sign that a company’s safety thresholds can be crossed months before the public hears about it.",
+      "body": "METR, an independent nonprofit evaluator, spent about eleven weeks with access to Anthropic’s internal data and reported on Thursday that the company’s capability gains since October 2025 have run about 1.9 times faster than in the previous 19 months. It attributes about 80 percent of the speed-up to Anthropic using AI in its own research. Anthropic’s safety policy treats a doubling as a warning sign, and METR says that point may have been reached in July. Anthropic redacted much of the evidence METR found most informative.",
+      "whatChanged": "For the first time an outside group has estimated, from inside a leading lab, how much AI is speeding up AI development, and Anthropic now calls it plausible that its warning threshold has been crossed.",
+      "whyMatters": "If AI is accelerating the research that builds it, safety checks timed to the old pace of progress may come too late, and the audit shows how much of that picture a company can keep from public view.",
+      "uncertainty": "The plausible range runs from 1.3 to 3 times, the estimate rests on Anthropic’s own capability score, the most informative evidence is redacted, and the assessment has not been peer reviewed.",
+      "watchNext": "Whether Anthropic changes its safety commitments in response, whether the cancelled audit of its computing budget is revived, and whether other labs allow similar outside access.",
+      "keyFacts": [
+        "METR had access from August 12 to October 29, 2026, with 2.5 full-time staff",
+        "Estimated acceleration: about 1.9 times, with a plausible range of 1.3 to 3",
+        "About 80 percent of the speed-up is attributed to AI use in Anthropic’s own research",
+        "Industry-wide figure, including OpenAI, Google and xAI models: about 1.4 times",
+        "Anthropic’s August report said under 2; the unredacted internal figure implied 1.97"
+      ],
+      "report": [
+        {
+          "heading": "What METR found",
+          "paragraphs": [
+            "METR published its assessment on November 5 after a team equivalent to two and a half full-time staff spent August 12 to October 29 with access to Anthropic’s non-public data, The Decoder reported. Using a composite capability score, it found that Anthropic’s progress since October 2025 has run about 1.9 times faster than between March 2024 and October 2025, with a plausible range of 1.3 to 3. It said it could confidently rule out growth in training compute as the main cause, and attributed about 80 percent of the speed-up to AI being used in Anthropic’s own research.",
+            "Across the industry, including models from OpenAI, Google and xAI, the figure was about 1.4. Employees’ answers in internal polls suggested far larger productivity gains, which METR treated as weak evidence, Dataconomy reported."
+          ]
+        },
+        {
+          "heading": "The threshold",
+          "paragraphs": [
+            "Anthropic’s Responsible Scaling Policy treats a doubling of progress driven by automated AI research as a warning level. The company’s public August risk report said the acceleration was less than a factor of two; METR said the unredacted internal version implied 1.97 and that the public account understated both the speed-up and the uncertainty around it. METR considers it possible that the threshold was reached on July 15, and Anthropic itself calls that plausible."
+          ]
+        },
+        {
+          "heading": "What was kept back",
+          "paragraphs": [
+            "Anthropic had the right to redact non-public information and removed most of the material METR rated most informative, including forecasts and an analysis of bottlenecks, saying it was protecting information that could help competitors. A planned audit of how the company divides computing power between capabilities and safety work was dropped partway through; Anthropic said it wanted to focus on risk assessment first. METR agrees that the risk of catastrophe is currently low but says it cannot rule out another sharp acceleration within six months. Dataconomy reported that Anthropic has trained three models in the past six months that it has not released."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-07/metr-anthropic-rd-acceleration.svg",
+        "alt": "A speed gauge whose needle has swung past a copper mark near the top of its range, with black redaction bars covering part of the dial, standing for an audit that found AI speeding up Anthropic’s progress while much of the evidence was blacked out.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "The Decoder",
+          "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+          "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Dataconomy",
+          "title": "METR says Anthropic’s AI development pace has doubled",
+          "url": "https://dataconomy.com/2026/11/06/metr-says-anthropics-ai-development-pace-has-doubled/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "independent-ai-evaluation",
+      "threadTitle": "Independent AI evaluation",
+      "threadSummary": "Outside testing and auditing of advanced AI systems and the companies that build them."
+    },
+    {
+      "id": "fda-amivantamab-head-neck-cancer",
+      "section": "frontiers",
+      "field": "Medicine",
+      "title": "The FDA approves the first new treatment in a decade for head and neck cancer that returns after chemotherapy and immunotherapy",
+      "category": "Cancer treatment",
+      "region": "North America · United States",
+      "regions": [],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-05",
+      "hook": "A real new option for patients who had few, though the approval rests on tumour shrinkage in one small trial and a survival benefit is still to be proven.",
+      "body": "The US Food and Drug Administration gave accelerated approval on Thursday to Johnson and Johnson’s amivantamab, injected under the skin, for head and neck squamous cell cancer that has come back or spread after platinum chemotherapy and immunotherapy. In a trial of 102 patients, tumours shrank in 42 percent, compared with about 20 percent or less for existing treatments, the agency said. The drug blocks two growth signals, known as EGFR and MET. Throat cancers linked to the human papillomavirus are excluded.",
+      "whatChanged": "The FDA says this is the first approval in ten years for patients in this situation, and Johnson and Johnson says it is the first drug for it that targets both EGFR and MET.",
+      "whyMatters": "People whose head and neck cancer returns after standard treatment have had few options that work, and a response rate about double that of existing drugs could change their care if longer-term benefit is confirmed.",
+      "uncertainty": "Accelerated approval rests on response rates from a single-arm trial. Whether the drug helps people live longer must still be shown in the phase 3 OrigAMI-5 trial, and serious side effects were common.",
+      "watchNext": "Results from the confirmatory OrigAMI-5 trial and how the drug performs outside clinical trials.",
+      "keyFacts": [
+        "Accelerated approval granted on November 5, 2026",
+        "OrigAMI-4 trial: 102 patients, 42 percent response rate, 15 percent complete responses",
+        "Median progression-free survival 6.8 months; median overall survival 12.5 months",
+        "Rash in 79 percent of patients; serious adverse reactions in 39 percent; fatal ones in 6 percent"
+      ],
+      "report": [
+        {
+          "heading": "What was approved",
+          "paragraphs": [
+            "The approval covers amivantamab combined with hyaluronidase, sold as Rybrevant Faspro and given as an injection under the skin, used on its own in adults with head and neck squamous cell carcinoma that has recurred or spread after platinum chemotherapy and a PD-1 or PD-L1 immunotherapy, the FDA said. Cancers of the oropharynx linked to the human papillomavirus are excluded. The agency called it the first approval in ten years for this group of patients.",
+            "Amivantamab is an antibody that targets two receptors that drive tumour growth, EGFR and MET. Johnson and Johnson describes it as the first and only dual-targeted therapy for advanced head and neck cancer."
+          ]
+        },
+        {
+          "heading": "The evidence",
+          "paragraphs": [
+            "The decision rests on one group of 102 patients in OrigAMI-4, a phase 1b/2 trial. Assessed by an independent central review, 42 percent had their tumours shrink, and 15 percent had a complete response, Targeted Oncology reported; among responders, 56 percent kept the response for at least six months. The FDA said currently approved treatments achieve response rates of about 20 percent or less. After about a year of follow-up, median progression-free survival was 6.8 months and median overall survival 12.5 months."
+          ]
+        },
+        {
+          "heading": "Limits and next steps",
+          "paragraphs": [
+            "Side effects were frequent: rash affected 79 percent of patients, 39 percent had serious adverse reactions and 6 percent had fatal ones, according to Targeted Oncology and the company. Because accelerated approval is based on a surrogate measure, continued approval may depend on the phase 3 OrigAMI-5 trial showing a clinical benefit."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-07/fda-amivantamab-head-neck-cancer.svg",
+        "alt": "The outline of a human head and neck in profile with a copper patch at the throat, beside a small syringe, standing for an injected drug approved for advanced head and neck cancer.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "US Food and Drug Administration",
+          "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
+          "publishedAt": "2026-11-05",
+          "kind": "Primary"
+        },
+        {
+          "publisher": "Johnson & Johnson",
+          "title": "Johnson & Johnson announces U.S. FDA Approval of RYBREVANT FASPRO (amivantamab and hyaluronidase-lpuj) as First and Only Dual-Targeted Therapy for Advanced Head and Neck Cancer",
+          "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-u-s-fda-approval-of-rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-as-first-and-only-dual-targeted-therapy-for-advanced-head-and-neck-cancer",
+          "publishedAt": "2026-11-05",
+          "kind": "Company announcement"
+        },
+        {
+          "publisher": "Targeted Oncology",
+          "title": "FDA Approves Amivantamab and Hyaluronidase for Recurrent/Metastatic HNSCC",
+          "url": "https://www.targetedonc.com/view/fda-approves-amivantamab-and-hyaluronidase-for-recurrent-metastatic-hnscc",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "head-and-neck-cancer",
+      "threadTitle": "Treating head and neck cancer",
+      "threadSummary": "New treatments and evidence for cancers of the head and neck."
+    },
+    {
+      "id": "bepirovirsen-hepatitis-b-cure-durability",
+      "section": "frontiers",
+      "field": "Medicine",
+      "title": "A hepatitis B “functional cure” with GSK’s bepirovirsen lasts in about nine in ten responders a year after all treatment stopped",
+      "category": "Infectious disease",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-05 / 2026-11-06",
+      "hook": "Durable for the people it works in, but it works in about one in five, and the data come from a conference presentation rather than a published paper.",
+      "body": "Follow-up from two phase 3 trials, presented at the American liver disease meeting in Denver, showed that among patients who reached a functional cure of hepatitis B with bepirovirsen, 90 and 92 percent still had it 48 weeks after all treatment stopped, the journal AJMC reported. About one in five patients given the drug reached that cure, against none given a placebo. The FDA approved the medicine, sold as Hibsago, in October.",
+      "whatChanged": "The new data show that most cures seen in the trials lasted a year off all hepatitis B drugs, a key question left open when the medicine was approved.",
+      "whyMatters": "For the patients it works in, the result suggests they could stop all hepatitis B medicine for at least a year and keep the cure, the main goal of treating the disease.",
+      "uncertainty": "The figures come from a conference presentation, not a peer-reviewed paper, and cover only responders. GSK’s higher cure estimates for patients with low levels of a viral protein are projections from a model, not trial results.",
+      "watchNext": "Full publication of the follow-up data and how widely the newly approved drug is used.",
+      "keyFacts": [
+        "Functional cure at week 72: 20 percent (127 of 650) in B-Well 1 and 19 percent (106 of 570) in B-Well 2",
+        "No patients on placebo reached a functional cure",
+        "At week 96, the cure persisted in 90 and 92 percent of responders",
+        "The FDA approved bepirovirsen, sold as Hibsago, on October 20, 2026"
+      ],
+      "report": [
+        {
+          "heading": "The trials",
+          "paragraphs": [
+            "In the B-Well 1 and B-Well 2 trials, people with chronic hepatitis B already taking antiviral pills were assigned two to one to weekly 300-milligram injections of bepirovirsen or a placebo for 24 weeks, AJMC reported. Their antiviral pills were stopped at week 48. At week 72, 20 percent of patients on the drug in one trial and 19 percent in the other had a functional cure, compared with none on placebo."
+          ]
+        },
+        {
+          "heading": "The new follow-up",
+          "paragraphs": [
+            "The data presented at the meeting of the American Association for the Study of Liver Diseases, which runs from November 5 to 9, followed responders to week 96, 48 weeks after all hepatitis B treatment had ended. The cure persisted in 114 of 127 responders in one trial and 97 of 105 in the other. The most common side effect late in follow-up was upper respiratory infection, in about 4 percent of patients. GSK listed the presentation among its data at the meeting.",
+            "Bepirovirsen is an antisense oligonucleotide, and the FDA approved it on October 20 as the first medicine of that kind for chronic hepatitis B, AJMC reported."
+          ]
+        },
+        {
+          "heading": "Limits",
+          "paragraphs": [
+            "The durability figures apply only to the minority who responded, and they have not yet been published in a peer-reviewed journal. GSK’s modelling suggests cure rates of about 46 to 53 percent in patients whose viral protein levels start below 100 international units per millilitre, but that estimate has not been tested as a trial result."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-07/bepirovirsen-hepatitis-b-cure-durability.svg",
+        "alt": "A pale-blue liver inside a copper ring beside an empty pill blister pack, standing for a hepatitis B cure that lasted after patients stopped taking their medicine.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "AJMC",
+          "title": "Hepatitis B Functional Cure Persists Off Treatment After Bepirovirsen",
+          "url": "https://www.ajmc.com/view/hepatitis-b-functional-cure-persists-off-treatment-after-bepirovirsen",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "GSK",
+          "title": "GSK showcases progress in liver portfolio at AASLD 2026",
+          "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-showcases-progress-in-liver-portfolio-at-aasld-2026/",
+          "publishedAt": "2026-11-05",
+          "kind": "Company announcement"
+        }
+      ],
+      "threadId": "hepatitis-b-treatment",
+      "threadTitle": "Hepatitis B treatment",
+      "threadSummary": "New medicines and evidence aimed at controlling or curing chronic hepatitis B."
+    },
+    {
+      "id": "yemen-war-taiz-houthi-missiles-saudi",
+      "section": "still",
+      "title": "Yemen’s renewed war deepens, with a deadly market strike in Taiz and Houthi missiles aimed at Medina, Najran and Riyadh",
+      "category": "Conflict",
+      "region": "Middle East · Yemen, Saudi Arabia",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-05 / 2026-11-07",
+      "body": "A missile hit a market in Taiz on Friday, killing and wounding dozens of people, most of them civilians; Yemen’s government blamed the Houthis, who blamed Saudi Arabia. The World Health Organization says 1,771 people have been killed and nearly 8,000 injured in Yemen since fighting escalated in August. The Saudi-led coalition said it intercepted Houthi missiles aimed at the Medina region on Thursday, at Najran on Friday and at Riyadh on Saturday. A Houthi siege is cutting supplies to about 800,000 people in Taiz.",
+      "whatChanged": "Houthi missile fire at Saudi Arabia continued for a third straight day, and the WHO’s count of the dead since August passed 1,770.",
+      "whyMatters": "Yemen has become a second front tied to the Iran war: an analyst told Al Jazeera that renewed US strikes on Iran could lead Tehran to use the Houthis to press Saudi Arabia, while Taiz is running out of fuel and medicine.",
+      "uncertainty": "Responsibility for the Taiz market strike is disputed and its toll is unconfirmed, and the government’s claims of battlefield gains could not be independently verified.",
+      "watchNext": "Whether fuel and medicine reach Taiz before diesel runs out, and whether Houthi attacks on Saudi Arabia escalate if the United States resumes strikes on Iran.",
+      "keyFacts": [
+        "WHO: 1,771 killed and 7,959 injured in Yemen since August",
+        "UN figures: more than 323,000 people displaced since August, over two in five of them in Taiz",
+        "About 800,000 people in Taiz are cut off by a Houthi blockade",
+        "The coalition says it intercepted Houthi missiles aimed at Medina, Najran and Riyadh on November 5, 6 and 7"
+      ],
+      "report": [
+        {
+          "heading": "How the war resumed",
+          "paragraphs": [
+            "The current escalation began in August, Al Jazeera reported. The Houthis took the Red Sea port of Mocha in September, and on October 5 the government launched an offensive called Dawn of Yemen, backed by Saudi-led air power, aiming to retake Houthi-held areas and eventually the capital, Sanaa. The government claims gains in Taiz, Marib and Lahij, which Al Jazeera could not verify, but it also lost ground around Taiz, which led to the siege of the city.",
+            "On Friday a missile struck the al-Hadara market in Taiz governorate. A government military spokesman called it a Houthi ballistic missile attack and a war crime; the Houthis denied it and blamed Saudi Arabia. The WHO said on Thursday that 1,771 people had been killed and 7,959 injured since August, including 94 deaths from October 26 to 30 alone, Anadolu reported."
+          ]
+        },
+        {
+          "heading": "Missiles over Saudi Arabia",
+          "paragraphs": [
+            "The coalition said it intercepted a ballistic missile fired toward the Medina region on Thursday, an attack condemned by Qatar, Kuwait, Bahrain and Jordan, according to Anadolu. Gulf News reported interceptions of Houthi missiles aimed at Najran on Friday, and on Saturday the coalition’s spokesman, Turki al-Maliki, said a cruise missile launched toward the Riyadh region had been destroyed. The Houthis are striking Saudi airports and oil sites almost daily, one analyst told Al Jazeera, and Saudi Arabia is reported to be bombing inside Yemen for the first time since 2022."
+          ]
+        },
+        {
+          "heading": "The siege of Taiz",
+          "paragraphs": [
+            "The Houthi blockade is stopping food, fuel, water and medical supplies from reaching about 800,000 people in Taiz. Diesel reserves had less than 48 hours left, and about 40 percent of hospitals have closed, Al Jazeera reported. Analysts it quoted expect the war to worsen before any settlement, and see the offensive as a way to strengthen Saudi Arabia’s hand before talks rather than a bid for outright victory."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+          "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war",
+          "publishedAt": "2026-11-07",
+          "kind": "Explainer"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "WHO says Yemen conflict killed 1,771, wounded nearly 8,000 since August",
+          "url": "https://www.aa.com.tr/en/middle-east/who-says-yemen-conflict-killed-1-771-wounded-nearly-8-000-since-august/4113023",
+          "publishedAt": "2026-11-05",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "A News (Anadolu Agency)",
+          "title": "Saudi-led coalition says it intercepted Houthi cruise missile over Riyadh",
+          "url": "https://www.anews.com.tr/world/2026/11/07/saudi-led-coalition-says-it-intercepted-houthi-cruise-missile-over-riyadh",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Gulf News",
+          "title": "Trump warns Iran of ‘heavy hit’ amid rising Gulf tensions and diplomatic efforts",
+          "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918",
+          "publishedAt": "2026-11-06",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+          "publishedAt": "2026-11-06",
+          "kind": "Wire digest"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Herzog’s choice",
+      "text": "Israel’s president, Isaac Herzog, is due to announce on Sunday, November 8, who will try to form a government, with parties backing Gadi Eisenkot holding 67 of the Knesset’s 120 seats."
+    },
+    {
+      "title": "Talks in Abu Dhabi",
+      "text": "US-led talks between Ukrainian and Russian officials are due to open in Abu Dhabi on Tuesday, November 10, the first three-way round since February."
+    },
+    {
+      "title": "Mississippi’s ballots",
+      "text": "Voters in Mississippi have until Tuesday, November 10, to cure affidavit ballots that could settle the Senate race between Scott Colom and Cindy Hyde-Smith."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Trump replaced his chief of staff after the midterm defeat, October hiring beat forecasts, and Senate counts in Mississippi and Alaska went on. Canada unveiled a budget with large deficits.",
+      "briefs": [
+        {
+          "title": "Canada’s budget adds 142 billion Canadian dollars of new measures and runs a 62 billion dollar deficit",
+          "text": "Finance Minister François-Philippe Champagne tabled the Carney government’s budget on Thursday, with 142.1 billion Canadian dollars of new spending, tax breaks and other measures over five years. The largest is a 36.1 billion dollar deduction to encourage business investment, alongside more money for a grocery rebate and 11.2 billion dollars toward ending homelessness within a decade. The deficit is forecast at 62.3 billion dollars this year and above 50 billion in each of the next four, with no path to balance; Conservative leader Pierre Poilievre said his party would vote against it.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "CP24",
+              "title": "Carney government unveils $142B plan to boost economy, affordability in Budget 2026",
+              "url": "https://www.cp24.com/news/canada/2026/11/05/carney-government-adds-142b-in-new-spending-to-spur-economic-growth-address-affordability/",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Nithya Raman unseats Los Angeles Mayor Karen Bass",
+          "text": "Karen Bass conceded on Thursday and said she had called Nithya Raman to promise a smooth transition. With 76 percent of votes counted, Raman, a city council member first elected in 2020, led with 52.1 percent to Bass’s 47.9 percent, and later ballots were expected to favour her.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "FOX 11 Los Angeles",
+              "title": "Karen Bass concedes as Nithya Raman wins Los Angeles mayoral race",
+              "url": "https://www.foxla.com/news/nithya-raman-la-mayor-beats-karen-bass-election",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Paraguay’s Senate removed President Santiago Peña, who was put under house arrest, while Washington tightened sanctions on Cuba’s oil shipping and Haitian police killed a gang leader.",
+      "briefs": [
+        {
+          "title": "US sanctions five Cuban tankers and two Chinese suppliers of Cuba’s military",
+          "text": "The US Treasury on Thursday blocked five Cuban-flagged tankers and the companies that operate them, including Cyprus-based CAROIL and Cuba’s PETROMARCA, saying it aimed to disrupt the network moving oil to and from the island. The State Department also designated relatives of leaders of the military-run conglomerate GAESA and named two Chinese firms it says supply military parts to Cuba’s armed forces. Trade in food and medicine remains allowed.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "CiberCuba",
+              "title": "U.S. sanctions on Cuban oil: The five affected vessels and their operators",
+              "url": "https://en.cibercuba.com/noticias/2026-11-06-u1-e199370-s27061-nid345038-cinco-buques-senalados-eeuu-nuevas-sanciones-cuba",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "CubaHeadlines",
+              "title": "United States Targets Cuban Regime’s Oil Networks, Chinese Firms, and GAESA Leaders’ Relatives",
+              "url": "https://www.cubaheadlines.com/articles/344958",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Anadolu Agency",
+              "title": "Morning Briefing: Nov. 6, 2026",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+              "publishedAt": "2026-11-06",
+              "kind": "Wire digest"
+            }
+          ]
+        },
+        {
+          "title": "Haitian police kill a gang leader as another powerful gang reaches out about disarmament",
+          "text": "Haitian police said on Friday that Mathias Saintil, leader of the Boston gang in Cité Soleil, was killed in an operation, and Prime Minister Alix Didier Fils-Aimé hailed one less gang leader. The same day the 400 Mawozo gang said it had contacted the state disarmament body seeking peace and reconciliation. The UN counts 1,123 people killed in Haiti between July and October.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+              "url": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation",
+              "publishedAt": "2026-11-07",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "ClickOrlando (Associated Press)",
+              "title": "Powerful Haitian gang reaches out to state disarmament group as gunfights persist",
+              "url": "https://www.clickorlando.com/news/world/2026/11/07/powerful-haitian-gang-reaches-out-to-state-disarmament-group-as-gunfights-persist/",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting (AP)"
+            }
+          ]
+        },
+        {
+          "title": "Mexico’s president calls for a clean-up of the electoral institute after a contracts scandal",
+          "text": "President Claudia Sheinbaum said on Friday that corruption at the National Electoral Institute dates back at least to the 2014 to 2023 term of its former head, Lorenzo Córdova, and called for an audit. The institute’s president, Guadalupe Taddei, resigned last week after reports that contracts went to firms linked to a businessman close to her; both are reported to face a federal investigation.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Mexico News Daily",
+              "title": "Sheinbaum calls for INE ‘cleanup’ after corruption scandal: Friday’s mañanera recapped",
+              "url": "https://mexiconewsdaily.com/politics/sheinbaum-ine-cleanup-corruption-scandal-november-6-mananera/",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Russia hit Kyiv’s bridges and power links with ballistic missiles days before talks in Abu Dhabi, and Poland broke up a suspected Russian supply network. The EU sent Ukraine another loan payment.",
+      "briefs": [
+        {
+          "title": "EU pays Ukraine 4.36 billion euros from its 90 billion euro loan",
+          "text": "The European Commission paid Ukraine 4.36 billion euros on Thursday: 3.7 billion in budget support, the second of three payments planned for 2026, and 658 million from the loan’s defence component for drones, missiles, radar and air-defence ammunition. Defence payments under the loan now total 16.4 billion euros, with 25.2 billion more available to Ukraine this year.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "A News (Anadolu Agency)",
+              "title": "EU disburses $4.89B to Ukraine under bloc’s support loan",
+              "url": "https://www.anews.com.tr/europe/2026/11/05/eu-disburses-489b-to-ukraine-under-blocs-support-loan",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Anadolu Agency",
+              "title": "Morning Briefing: Nov. 6, 2026",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+              "publishedAt": "2026-11-06",
+              "kind": "Wire digest"
+            }
+          ]
+        },
+        {
+          "title": "Britain and Mauritius aim for progress on the stalled Chagos deal by the end of the year",
+          "text": "Meeting at the Commonwealth summit in Antigua, Prime Minister Andy Burnham and Mauritius’s Navin Ramgoolam agreed to work on a shared plan to make further progress by the end of the year, Downing Street said. Burnham told The Economist that talks with Washington aim to recast the arrangement so the Diego Garcia base stays secure. Legislation for the treaty has been paused since April because Britain says it cannot proceed without US backing.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "ITV News",
+              "title": "Andy Burnham wants progress on Chagos Islands stalemate ‘by the end of the year’",
+              "url": "https://www.itv.com/news/2026-11-05/andy-burnham-wants-progress-on-chagos-islands-stalemate-by-the-end-of-the-year",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "West Nile virus has killed 12 people in the Netherlands this year",
+          "text": "The Dutch public health institute reported on Thursday that 12 people, all of them hospitalised, have died of West Nile virus this year out of 77 confirmed infections, 45 of them in South Holland. The country recorded no human cases last year.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Türkiye Today",
+              "title": "Netherlands West Nile virus deaths reach 12 as infections rise to 77",
+              "url": "https://www.turkiyetoday.com/lifestyle/netherlands-west-nile-virus-deaths-reach-12-as-infections-rise-to-77-3231830",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Anadolu Agency",
+              "title": "Morning Briefing: Nov. 6, 2026",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+              "publishedAt": "2026-11-06",
+              "kind": "Wire digest"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "A Nigerian court voided the main opposition candidate’s nomination for January’s election, and the military denied any truce with jihadist groups. South Africa awaits final local election results on Sunday.",
+      "briefs": [
+        {
+          "title": "Nigeria’s military denies any ceasefire with Boko Haram",
+          "text": "At a security briefing in Abuja on Thursday, the defence headquarters’ information director, Major General Samaila Uba, said there was no ceasefire with Boko Haram, ISWAP or other armed groups, rejecting a report of a secret truce with one Boko Haram faction. He said militants leaving their old strongholds showed military pressure was working, and cited figures of 435 fighters killed and 717 captives freed in September and October.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "P.M. News",
+              "title": "Nigerian military denies claim of ceasefire deal with Boko Haram terrorists",
+              "url": "https://pmnewsnigeria.com/2026/11/05/nigerian-military-denies-claim-of-ceasefire-deal-with-boko-haram-terrorists/",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "allAfrica (Daily Trust)",
+              "title": "Nigeria: No Ceasefire With Boko Haram, Others - Military",
+              "url": "https://allafrica.com/stories/202611060208.html",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Death toll in a Nairobi building collapse rises to eight",
+          "text": "Rescuers recovered six more bodies on Thursday from an 18-storey building under construction in Nairobi’s Eastleigh district that collapsed on October 23, bringing the death toll to eight. On the 14th day of the search they reached the basement, and officials said the operation was about 95 percent complete.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Nairobi News",
+              "title": "Eastleigh building collapse death toll rises to eight as rescuers reach basement",
+              "url": "https://nairobinews.co.ke/eastleigh-building-collapse-death-toll-rises-to-eight-as-rescuers-reach-basement",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Trump warned he may have to destroy the rest of Iran as Qatar pressed for a deal, and Yemen’s war spilled further into Saudi Arabia. Israel’s president is due to name who will form a government on Sunday.",
+      "briefs": [
+        {
+          "title": "A Jordanian policeman is killed in what officials call a terrorist attack in Amman",
+          "text": "A man attacked an on-duty police corporal with a sharp object on Medina Street in Amman on Thursday; the officer died in hospital and his patrol leader was wounded. The attacker was arrested, and officials said initial findings showed he planned to target security personnel. State Security Court prosecutors have opened a case.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "The National",
+              "title": "Policeman killed in ‘terrorist attack’ in Amman",
+              "url": "https://www.thenationalnews.com/news/mena/2026/11/05/jordan-says-terrorist-attack-killed-policeman-in-amman/",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Anadolu Agency",
+              "title": "Morning Briefing: Nov. 6, 2026",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576",
+              "publishedAt": "2026-11-06",
+              "kind": "Wire digest"
+            }
+          ]
+        },
+        {
+          "title": "Israeli settlers take over eight Palestinian homes near Jericho",
+          "text": "About 30 settlers seized eight homes in Ein al-Duyuk al-Tahta, on the edge of Jericho, on Thursday, displacing dozens of residents, according to the Israeli group Peace Now. A UN spokesman said settlers reportedly used live ammunition and assaulted residents, and the army declared the area a closed military zone. Settlers say the homes were bought legally; Palestinian officials say the sale documents were forged.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+              "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Five people, including a 12-year-old boy, killed by Israeli fire in Gaza",
+          "text": "Gaza’s civil defence said Israeli fire and strikes killed five people on Thursday, including a boy east of Bureij and a woman near Khan Younis. Gaza’s health ministry says more than 1,600 people have been killed since the October 2025 ceasefire; the Israeli army reports seven soldiers and a contractor killed in the same period.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "The New Arab",
+              "title": "Israel kills five in Gaza, including child",
+              "url": "https://www.newarab.com/news/israel-kills-five-gaza-including-child",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting (AFP)"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "The AI sell-off hit Asian markets hard, with Taiwan suffering its worst week since 1991. Japan launched an emergency cyber-defence package, and Malaysia’s former leader Najib Razak stayed in prison.",
+      "briefs": [
+        {
+          "title": "Japan announces an emergency cybersecurity package after a wave of attacks",
+          "text": "After dozens of companies and agencies suffered break-ins and data leaks, Prime Minister Sanae Takaichi announced a package worth about 10 billion yen on Friday. It uses Japan’s new active cyber defence powers to get into servers used by hackers and creates a response team drawn from the defence ministry, police and the national cyber office, with an AI-assisted team due by the end of November.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Herald Journal (Associated Press)",
+              "title": "Japan announces emergency cybersecurity package following a wave of attacks",
+              "url": "https://www.hjnews.com/nation/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/article_05eb419c-8b3f-5ad5-8d9d-c8c649b21b52.html",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting (AP)"
+            }
+          ]
+        },
+        {
+          "title": "Malaysia’s Najib Razak stays in prison after the attorney general halts his move to house arrest",
+          "text": "A court on Friday cleared former Prime Minister Najib Razak, jailed since 2022 over the 1MDB scandal, to begin serving his sentence at home under a royal pardon. Hours later the attorney general’s office suspended the transfer, saying the terms of the pardon needed clarifying. Najib’s lawyers said the move disregarded the king’s order.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Al Jazeera (with Reuters)",
+              "title": "Malaysian ex-PM Najib’s bid to serve prison term at home delayed",
+              "url": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "New Zealand’s election ended without a clear winner, with the governing bloc one seat over a majority before special votes. Fiji passed a sweeping new police law.",
+      "briefs": [
+        {
+          "title": "Fiji passes a new police law allowing warrantless arrests and orders to unlock phones",
+          "text": "Fiji’s parliament on Thursday passed the Fiji Police Bill 2026, replacing a law from 1965. It allows arrests without a warrant in some circumstances and lets courts order people to hand over phone passcodes, with up to five years in jail for refusing; covert surveillance will need High Court approval.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Islands Business (PACNEWS)",
+              "title": "PACNEWS ONE, 06 NOVEMBER 2026",
+              "url": "https://islandsbusiness.com/pacnews/pacnews-one-06-november-2026/",
+              "publishedAt": "2026-11-06",
+              "kind": "Regional news digest"
+            }
+          ]
+        },
+        {
+          "title": "Albanese fails to win a change to British backpacker visas at the Commonwealth summit",
+          "text": "At the summit in Antigua, Anthony Albanese pressed Britain’s prime minister, Andy Burnham, to restore a rule requiring British backpackers to do regional farm work, after their arrivals roughly doubled. He got no agreement but called the talks very constructive, while at home his government searches for savings before its mid-year budget update.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "ABC News (Australia)",
+              "title": "While Albanese represents Australia overseas at CHOGM, issues back home pile up",
+              "url": "https://www.abc.net.au/news/2026-11-05/albanese-chogm-week-in-politics/107336024",
+              "publishedAt": "2026-11-05",
+              "kind": "Analysis"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

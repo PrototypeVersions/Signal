@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="The outline of a human head and neck in profile, with a copper area at the throat, beside a small syringe for an under-the-skin injection">
+  <rect width="800" height="500" fill="#09131d"/>
+  <path d="M250 440 L250 360 C210 340 190 300 195 260 C170 255 170 230 190 222 C180 200 185 170 200 150 C220 95 280 60 345 62 C430 66 480 130 475 210 C472 265 450 300 420 320 L420 440" fill="#12263a" stroke="#7fa6c4" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="300" cy="345" rx="34" ry="22" fill="#c8875a" opacity="0.9"/>
+  <g transform="translate(640 220) rotate(160)">
+    <rect x="-110" y="-16" width="160" height="32" rx="6" fill="#d6e6f2"/>
+    <rect x="-80" y="-16" width="80" height="32" fill="#7fa6c4" opacity="0.7"/>
+    <rect x="50" y="-8" width="30" height="16" fill="#9fb8cc"/>
+    <line x1="80" y1="0" x2="140" y2="0" stroke="#d6e6f2" stroke-width="4"/>
+    <rect x="-150" y="-26" width="16" height="52" rx="3" fill="#9fb8cc"/>
+    <rect x="-134" y="-5" width="24" height="10" fill="#9fb8cc"/>
+  </g>
+</svg>

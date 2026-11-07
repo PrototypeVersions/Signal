@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A semicircular speed gauge whose needle has swung past a copper mark at the far end of the dial, with dark bars blocking out part of the dial face">
+  <rect width="800" height="500" fill="#09131d"/>
+  <path d="M170 380 A230 230 0 0 1 630 380" fill="none" stroke="#1d3a55" stroke-width="34" stroke-linecap="round"/>
+  <path d="M170 380 A230 230 0 0 1 400 150" fill="none" stroke="#7fa6c4" stroke-width="34" stroke-linecap="round" opacity="0.8"/>
+  <g stroke="#d6e6f2" stroke-width="5" stroke-linecap="round">
+    <line x1="215" y1="380" x2="250" y2="380"/>
+    <line x1="263" y1="245" x2="288" y2="270"/>
+    <line x1="400" y1="195" x2="400" y2="230"/>
+    <line x1="537" y1="245" x2="512" y2="270"/>
+  </g>
+  <line x1="568" y1="300" x2="604" y2="285" stroke="#c8875a" stroke-width="10" stroke-linecap="round"/>
+  <line x1="400" y1="380" x2="575" y2="262" stroke="#d6e6f2" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="400" cy="380" r="24" fill="#d6e6f2"/>
+  <circle cx="400" cy="380" r="9" fill="#09131d"/>
+  <rect x="300" y="285" width="150" height="26" fill="#000000" opacity="0.92"/>
+  <rect x="340" y="324" width="170" height="26" fill="#000000" opacity="0.92"/>
+  <rect x="190" y="410" width="420" height="20" rx="4" fill="#12263a"/>
+  <rect x="190" y="410" width="250" height="20" rx="4" fill="#000000" opacity="0.92"/>
+</svg>

@@ -617,7 +617,7 @@
     {
       "id": "asia-tech-stocks-ai-rout",
       "section": "more",
-      "title": "Asian tech stocks plunge as the AI sell-off spreads, and Taiwan’s market has its worst week since 1991",
+      "title": "Asian tech stocks plunge as the AI sell-off spreads, and Taiwan’s market has its worst week since 2001",
       "category": "Markets",
       "region": "Asia · Japan, South Korea, Taiwan",
       "regions": [
@@ -1313,7 +1313,7 @@
       ]
     },
     "asia": {
-      "summary": "The AI sell-off hit Asian markets hard, with Taiwan suffering its worst week since 1991. Japan launched an emergency cyber-defence package, and Malaysia’s former leader Najib Razak stayed in prison.",
+      "summary": "The AI sell-off hit Asian markets hard, with Taiwan suffering its worst week since 2001. Japan launched an emergency cyber-defence package, and Malaysia’s former leader Najib Razak stayed in prison.",
       "briefs": [
         {
           "title": "Japan announces an emergency cybersecurity package after a wave of attacks",
@@ -1378,5 +1378,14 @@
         }
       ]
     }
-  }
+  },
+  "corrections": [
+    {
+      "storyId": "asia-tech-stocks-ai-rout",
+      "date": "2026-11-08",
+      "original": "Asian tech stocks plunge as the AI sell-off spreads, and Taiwan’s market has its worst week since 1991",
+      "replacement": "Asian tech stocks plunge as the AI sell-off spreads, and Taiwan’s market has its worst week since 2001",
+      "reason": "Taiwan’s 12.2 percent weekly fall was its steepest since September 2001, not 1991, according to Reuters reporting on the week."
+    }
+  ]
 }

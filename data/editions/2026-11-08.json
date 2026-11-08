@@ -1,0 +1,1277 @@
+{
+  "date": "2026-11-08",
+  "number": 22,
+  "cutoff": "2026-11-08T12:15:00Z",
+  "cutoffLabel": "6:15 AM CT",
+  "opening": "Israel’s president asked Gadi Eisenkot to form a government, a setback for Benjamin Netanyahu. Debris from missiles aimed at Riyadh damaged an Aramco tower, Paraguay ordered its ousted president held for trial, the ANC slumped to its worst local result, and Taiwan moved to calm its markets.",
+  "leadStoryId": "herzog-taps-eisenkot-form-government",
+  "stories": [
+    {
+      "id": "herzog-taps-eisenkot-form-government",
+      "section": "world",
+      "title": "Israel’s president asks Gadi Eisenkot to form a government, a setback for Prime Minister Benjamin Netanyahu",
+      "category": "Politics",
+      "region": "Middle East · Israel",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-07",
+      "body": "Israel’s president, Isaac Herzog, said on Saturday evening that he would give Gadi Eisenkot, the former military chief who leads the Yashar party, the task of forming the next government, a day earlier than he had signalled. Sixty-seven of the Knesset’s 120 members had recommended Eisenkot and 46 had recommended Prime Minister Benjamin Netanyahu, while United Torah Judaism backed no one. The formal handover was set for Sunday evening. Eisenkot will have 28 days, which Herzog can extend by 14, to build a coalition.",
+      "whatChanged": "The mandate to form a government has passed to Netanyahu’s main challenger after the October 27 election, though Herzog has warned it is far from clear that Eisenkot can turn recommendations into a coalition.",
+      "whyMatters": "It is the clearest sign yet that Netanyahu could lose power, but the parties that recommended Eisenkot range from the right to the Arab-led lists, so the decision opens a hard round of bargaining rather than settling who governs.",
+      "uncertainty": "Eisenkot’s likely partners do not reach a majority on their own; whether the ultra-Orthodox parties will join or tolerate him is unresolved, and Shas has dismissed reports that it might join as fake news.",
+      "watchNext": "Sunday’s handover at the President’s Residence, talks with the ultra-Orthodox parties over military service for religious students, and whether Netanyahu gets a turn if Eisenkot fails.",
+      "keyFacts": [
+        "67 lawmakers recommended Eisenkot and 46 recommended Netanyahu",
+        "United Torah Judaism, with 7 seats, recommended no one",
+        "Eisenkot has 28 days, extendable by up to 14, to form a government",
+        "The formal handover was set for 5 PM Israel time on Sunday, November 8",
+        "His expected bloc has 48 seats, or 55 with United Torah Judaism, against 61 needed"
+      ],
+      "report": [
+        {
+          "heading": "The decision",
+          "paragraphs": [
+            "Herzog announced his choice on Saturday evening after informing both Eisenkot and Netanyahu, the Times of Israel reported, bringing forward a decision he had said would come on Sunday. Days earlier he had confirmed that Eisenkot held a clear majority of recommendations from the parties elected on October 27, while cautioning that whether he could actually form a government was far from clear.",
+            "Under Israeli law Eisenkot has 28 days, and Herzog can add up to 14 more, which the Associated Press described as up to six weeks. Being named does not guarantee he becomes prime minister; if he fails, the president can give another lawmaker a turn. Eisenkot wrote on X that the moment called for a national emergency government."
+          ]
+        },
+        {
+          "heading": "Netanyahu’s response",
+          "paragraphs": [
+            "In a video on Saturday, Netanyahu called for a national unity government that would include his previous partners, among them Religious Zionism, Otzma Yehudit and the ultra-Orthodox parties, and warned against rushing to swear in a government that relied on what he called supporters of terrorism, a reference to the Arab-led parties, the Times of Israel reported. The public broadcaster Kan reported that an envoy he sent to Eisenkot was turned away. Eisenkot’s party described the video as hysterical."
+          ]
+        },
+        {
+          "heading": "The arithmetic",
+          "paragraphs": [
+            "The Times of Israel calculates that the parties expected to form Eisenkot’s coalition hold 48 seats, rising to 55 with United Torah Judaism, and 61, a bare majority, only if Shas also does not stand in the way. Avigdor Liberman has said he is ready for painful compromises on drafting ultra-Orthodox men, while Yair Golan of the Democrats has said he will not give the religious parties a blank cheque. The Arab-led Ra’am and Joint List are not part of the planned coalition, though their support counted in Eisenkot’s 67 recommendations."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Who lawmakers recommended",
+        "measure": "Members of the 120-seat Knesset recommending each candidate to President Herzog",
+        "unit": "lawmakers",
+        "values": [
+          {
+            "label": "Gadi Eisenkot",
+            "value": 67
+          },
+          {
+            "label": "Benjamin Netanyahu",
+            "value": 46
+          },
+          {
+            "label": "No recommendation",
+            "value": 7
+          }
+        ],
+        "alt": "Bar chart: 67 lawmakers recommended Gadi Eisenkot, 46 recommended Benjamin Netanyahu, and 7, from United Torah Judaism, recommended no one. A majority is 61 of 120.",
+        "caption": "Recommendations to the president, as reported by the Times of Israel · 61 of 120 seats is a majority",
+        "sourceUrl": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+      },
+      "sources": [
+        {
+          "publisher": "The Times of Israel",
+          "title": "President Herzog taps Eisenkot to form coalition, but path remains fraught",
+          "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+          "url": "https://www.pbs.org/newshour/world/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "ABC News (Associated Press)",
+          "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+          "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting (AP)"
+        }
+      ],
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel's October 2026 general election, its campaign and the formation of the next government."
+    },
+    {
+      "id": "riyadh-aramco-building-damaged-missiles",
+      "section": "world",
+      "title": "Missiles aimed at Riyadh are shot down but debris damages an Aramco tower, as the Yemen and Iran wars push deeper into the Gulf",
+      "category": "Conflict",
+      "region": "Middle East · Saudi Arabia, Yemen, Iran",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-07 / 2026-11-08",
+      "body": "Saudi air defences intercepted missiles fired towards Riyadh and other parts of the kingdom early on Sunday, and falling debris damaged an Aramco office building in the capital’s King Abdullah Financial District. The energy ministry reported minor damage and no casualties. The Saudi-led coalition blamed Yemen’s Houthis, whose officials said Saudi strikes near Sanaa on Saturday had killed at least 27 people. In the Gulf of Oman, US forces disabled a cargo ship accused of trying to breach the blockade of Iran, and President Trump confirmed what he called minor strikes on Iranian air defences.",
+      "whatChanged": "Debris from an attack damaged a building in Riyadh’s main financial district, while Washington kept up small strikes on Iran even as Qatar pushed a two-day plan to end the war.",
+      "whyMatters": "The Yemen war and the Iran war are now pressing on the same Gulf economies and shipping lanes, so attacks on oil company property and ships matter for energy supplies far beyond the region.",
+      "uncertainty": "Accounts differ on how many missiles were fired and intercepted, the Houthis had not formally claimed the Riyadh attack in early reports, and casualty figures from the strikes near Sanaa come only from Houthi officials.",
+      "watchNext": "Iran’s answer to Qatar’s proposal, US Secretary of State Marco Rubio’s talks with G7 foreign ministers in Paris on November 9 and 10, and whether attacks on Saudi oil sites continue.",
+      "keyFacts": [
+        "An Aramco building in Riyadh’s King Abdullah Financial District was damaged by debris early on November 8",
+        "Saudi Arabia’s energy ministry reported minor damage and no casualties",
+        "Houthi officials put the death toll from Saudi strikes near Sanaa on Saturday at 27 to 33",
+        "The UN says more than 1,600 people have been killed in Yemen since the truce collapsed in July",
+        "US forces disabled a St Kitts-flagged cargo ship in the Gulf of Oman on Saturday"
+      ],
+      "report": [
+        {
+          "heading": "The attack on Riyadh",
+          "paragraphs": [
+            "The Associated Press reported that Saudi defences intercepted two ballistic and two cruise missiles aimed at Riyadh and other areas early on Sunday, and a further ballistic missile aimed at the south of the country. Witnesses described damage across several floors of an Aramco tower in the King Abdullah Financial District; the energy ministry said the building suffered minor damage from falling debris and nobody was hurt. Al Jazeera, citing the coalition spokesman, Turki al-Maliki, gave a slightly different count of three ballistic missiles destroyed, two of them aimed at Riyadh, plus one aimed at the Eastern Province.",
+            "The Houthi military spokesman, Yahya Saree, said the group had carried out six operations against Aramco facilities, Riyadh’s airport and Saudi military positions, and accused the coalition of more than a hundred air strikes in a day. Houthi health officials said Saudi strikes on the village of al-Shariyah near Sanaa killed 33 people, including 13 children; the AP cited Houthi officials putting the toll at at least 27. Neither figure could be independently verified."
+          ]
+        },
+        {
+          "heading": "The Iran war at sea",
+          "paragraphs": [
+            "US forces on Saturday disabled a St Kitts-flagged cargo ship in the Gulf of Oman that they accused of repeatedly trying to break the blockade of Iran, CBS News reported, and Iran’s military said two tankers struck mines near Hormuz and caught fire. The United Arab Emirates said it rescued 22 crew from a burning cargo ship in the Sea of Oman, according to the AP. Trump confirmed further minor strikes that he said took out an Iranian anti-aircraft system."
+          ]
+        },
+        {
+          "heading": "Qatar’s plan",
+          "paragraphs": [
+            "Qatar, the main mediator, has put forward a two-step plan in which the United States would lift its blockade of Iranian ports and release some frozen funds while Iran admitted UN inspectors to bombed nuclear sites, followed by the reopening of the Strait of Hormuz, the AP reported. Iran says it is studying the proposal but will not negotiate over its nuclear programme until its conditions for a ceasefire are met."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Saudi Arabia, Yemen and Iran",
+        "bounds": [
+          34,
+          12,
+          62,
+          34
+        ],
+        "countries": [
+          "682",
+          "887",
+          "364"
+        ],
+        "labels": [
+          {
+            "label": "Red Sea",
+            "lon": 38.5,
+            "lat": 20.5,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Oman",
+            "lon": 59.5,
+            "lat": 24.0,
+            "kind": "water"
+          },
+          {
+            "label": "Persian Gulf",
+            "lon": 50.8,
+            "lat": 27.3,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map with Saudi Arabia, Yemen and Iran highlighted. Markers show Riyadh, where an Aramco building was damaged, and Sanaa, near where Houthi officials say Saudi strikes killed civilians.",
+        "caption": "Saudi Arabia, Yemen and Iran highlighted for context · markers are approximate reporting locations"
+      },
+      "locations": [
+        {
+          "label": "Riyadh",
+          "lon": 46.68,
+          "lat": 24.71
+        },
+        {
+          "label": "Sanaa",
+          "lon": 44.21,
+          "lat": 15.35
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "ABC News (Associated Press)",
+          "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+          "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "Al Jazeera (with AFP)",
+          "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+          "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "U.S. expands naval blockade to include task force on disrupting ground transport",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+          "publishedAt": "2026-11-07",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Business Standard (Associated Press)",
+          "title": "Iran reviewing Qatar’s proposals on nuclear deal with US amid war",
+          "url": "https://www.business-standard.com/world-news/iran-reviewing-qatar-s-proposals-on-nuclear-deal-with-us-amid-war-126110700056_1.html",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting (AP)"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+    },
+    {
+      "id": "pena-charged-pretrial-detention",
+      "section": "world",
+      "title": "Paraguay charges its ousted president, Santiago Peña, over the Ueno Bank collapse, and a judge orders him held until trial",
+      "category": "Politics",
+      "region": "Latin America · Paraguay",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-07",
+      "body": "A judge in Asunción ordered Santiago Peña held in pretrial detention on Saturday, a day after the Senate removed him as president. Prosecutors charged him with breach of trust and with managing public money for his own benefit in the case over the collapse of Ueno Bank, and Carlos Carvallo, who led the central bank until this week, faces similar charges. Both declined to answer questions. Peña is being held at a presidential guard regiment rather than a prison. About 1.2 million Ueno customers have now had money returned.",
+      "whatChanged": "Within a day of his removal, Peña went from detention at home to formal criminal charges and a court order keeping him in custody until trial.",
+      "whyMatters": "A sitting president’s fall has become one of Latin America’s highest-profile corruption prosecutions, and it will test whether Paraguay’s courts can establish who allowed public and pension money to pile up at a failing bank.",
+      "uncertainty": "Peña has not been convicted and has not yet answered the charges in detail; how long the detention lasts, and how many ordinary depositors will be made whole beyond the guaranteed amounts, is unclear.",
+      "watchNext": "Any appeal by Peña’s lawyers, the next steps against the 27 people charged in the case, and pension payments due to retirees on November 17.",
+      "keyFacts": [
+        "Judge Humberto Otazú ordered pretrial detention on Saturday, November 7",
+        "Charges: breach of trust and managing public funds for his own benefit",
+        "Twenty-seven people have been charged in the Ueno case",
+        "About 1,196,000 depositors had been repaid roughly 160 million dollars after two days",
+        "President Pedro Alliana named new interior and public works ministers"
+      ],
+      "report": [
+        {
+          "heading": "The charges",
+          "paragraphs": [
+            "Four prosecutors charged Peña on Saturday as the instigator of breach of trust and the author of managing public funds for his own benefit, and asked the court to hold him, ABC Color reported. They accuse him of steering large deposits of public and pension money into Ueno, a bank with which he had earlier business ties. Carvallo, the former central bank president, was charged with breach of trust, the same self-dealing offence and producing false public documents. Both men declined to make statements when questioned.",
+            "Judge Humberto Otazú, who handles economic crimes, granted the prosecutors’ request the same day, according to the Spanish agency EFE. He reasoned that Peña had access to too much sensitive information about organised crime to be released. Peña stays at the presidential escort regiment where he spent Friday night."
+          ]
+        },
+        {
+          "heading": "A wider case",
+          "paragraphs": [
+            "Attorney General Emiliano Rolón opened the case on November 5, and 27 people have now been charged, including Ueno’s co-founder Miguel Vázquez, ABC Color reported. Eight former executives were already in custody. The Senate’s vote on Friday to remove Peña for poor performance of his duties prevented him from taking the lifetime Senate seat, with immunity, that former presidents receive."
+          ]
+        },
+        {
+          "heading": "The new government and depositors",
+          "paragraphs": [
+            "After two days of payments, about 1.2 million account holders had received roughly 996 billion guaraníes, about 160 million dollars, El Nacional reported. Thursday’s payouts covered balances up to 10 million guaraníes and Friday’s extended that to 40 minimum monthly salaries under a new law. The state pension agency moved about 32,000 retirees who were paid through Ueno to eight other banks. On Saturday President Pedro Alliana appointed Ariel Martínez as interior minister and Juan Carlos Baruja as minister of public works."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Paraguay",
+        "bounds": [
+          -63.5,
+          -28.5,
+          -53.5,
+          -18.5
+        ],
+        "countries": [
+          "600"
+        ],
+        "alt": "Map of Paraguay, highlighted, with a marker at the capital, Asunción, where a judge ordered the former president held.",
+        "caption": "Paraguay · marker shows the capital, Asunción"
+      },
+      "locations": [
+        {
+          "label": "Asunción",
+          "lon": -57.58,
+          "lat": -25.28
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "ABC Color",
+          "title": "Caso Ueno: Fiscalía imputa y pide prisión preventiva para Santiago Peña y el extitular del BCP",
+          "url": "https://www.abc.com.py/politica/2026/11/07/caso-ueno-fiscalia-imputa-y-pide-prision-preventiva-para-santiago-pena-y-del-extitular-del-bcp/",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "El Mostrador (EFE)",
+          "title": "Juez envía a prisión preventiva a Santiago Peña por el caso del intervenido Ueno bank",
+          "url": "https://www.elmostrador.cl/noticias/2026/11/07/juez-envia-a-prision-preventiva-a-santiago-pena-por-el-caso-del-intervenido-ueno-bank/",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting (EFE)"
+        },
+        {
+          "publisher": "El Nacional (Paraguay)",
+          "title": "Reunión de Alliana con ministros: 1.200.000 ahorristas ya recibieron devoluciones de dinero",
+          "url": "https://elnacional.com.py/politica/reunion-alliana-ministros-1200000-ahorristas-ya-recibieron-devoluciones-dinero-n114860",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "paraguay-ueno-bank-crisis",
+      "threadTitle": "Paraguay’s bank collapse",
+      "threadSummary": "The November 2026 failure of Paraguay’s Ueno Bank and the political crisis it set off, including the president’s resignation and removal."
+    },
+    {
+      "id": "south-africa-anc-worst-local-result",
+      "section": "world",
+      "title": "South Africa’s ANC falls to about 31 percent, its worst local election result since apartheid ended, and controls no big city",
+      "category": "Politics",
+      "region": "Africa · South Africa",
+      "regions": [
+        "africa"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-07 / 2026-11-08",
+      "body": "With more than 99 percent of votes counted in Wednesday’s local elections, the African National Congress had about 31 percent nationally, its weakest municipal showing since 1994, ahead of the Democratic Alliance on about 25 percent and the MK party on almost 10. The ANC took about a fifth of the vote in Johannesburg and Tshwane, which includes Pretoria, and about 16 percent in eThekwini, which includes Durban. A record 135 councils have no single party in control. The electoral commission was due to declare final results on Sunday night.",
+      "whatChanged": "The near-final count confirmed a heavier ANC loss than early returns suggested, with no outright majority in any of the eight metropolitan councils.",
+      "whyMatters": "South Africa’s biggest cities, which drive its economy, now face more coalition governments, and the result confirms the ANC’s steep decline as a governing party.",
+      "uncertainty": "Figures are provisional until the formal declaration, and who governs each hung council will depend on coalition deals that have not yet been struck.",
+      "watchNext": "The formal declaration of results, the first council meetings where mayors are elected, and which parties strike deals to run Johannesburg, Tshwane and eThekwini.",
+      "keyFacts": [
+        "ANC about 30.8 percent nationally, DA about 24.6 percent, MK about 9.7 percent",
+        "Turnout was about 52 percent, according to electoral commission data",
+        "135 councils are hung, against 66 after the 2021 local elections",
+        "The ANC won about 20 percent in Johannesburg and Tshwane and 16.5 percent in eThekwini",
+        "Its best metro result was Buffalo City, at about 42 percent"
+      ],
+      "report": [
+        {
+          "heading": "The count",
+          "paragraphs": [
+            "Provisional figures reported by the African News Agency on Sunday put the ANC on 30.81 percent, the DA on 24.6 percent and former president Jacob Zuma’s MK party on 9.72 percent. Electoral commission data compiled by ESP on Saturday evening showed similar shares for the ward ballot, with the Economic Freedom Fighters on about 6 percent, ActionSA about 5 percent and the Inkatha Freedom Party just under 5 percent, on turnout of about 52 percent.",
+            "The ANC’s share was about 20 percent in Johannesburg, Tshwane and Ekurhuleni, about 16.5 percent in eThekwini and about 14 percent in Cape Town, according to the African News Agency. Its best metro result was in Buffalo City in the Eastern Cape, where it took about 42 percent but still fell short of a majority."
+          ]
+        },
+        {
+          "heading": "Who leads where",
+          "paragraphs": [
+            "Partial counts reported by The Witness on Friday showed the DA ahead in both Tshwane and Johannesburg, with ActionSA second in Tshwane, and MK leading in eThekwini, the country’s third-largest city. The DA was also ahead across Western Cape and Gauteng provinces, and MK across KwaZulu-Natal, ESP’s figures showed."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "The number of councils with no majority has roughly doubled since 2021, to 135, the African News Agency reported, so the coming weeks will be dominated by coalition talks."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Provisional national vote share",
+        "measure": "Share of the vote with more than 99 percent counted",
+        "unit": "percent",
+        "values": [
+          {
+            "label": "ANC",
+            "value": 30.81
+          },
+          {
+            "label": "DA",
+            "value": 24.6
+          },
+          {
+            "label": "MK",
+            "value": 9.72
+          }
+        ],
+        "alt": "Bar chart of provisional national vote shares: ANC 30.8 percent, Democratic Alliance 24.6 percent and MK 9.7 percent.",
+        "caption": "Provisional figures reported on November 8, before the formal declaration",
+        "sourceUrl": "https://africannewsagency.com/death-of-the-anc-party-suffers-worst-municipal-result-since-1994-as-support-falls-to-30-81-percent/"
+      },
+      "sources": [
+        {
+          "publisher": "African News Agency",
+          "title": "Death of the ANC: Party suffers worst municipal result since 1994 as support falls to 30.81 percent",
+          "url": "https://africannewsagency.com/death-of-the-anc-party-suffers-worst-municipal-result-since-1994-as-support-falls-to-30-81-percent/",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Witness",
+          "title": "DA pulls ahead in Tshwane and Johannesburg, MK Party leads eThekwini",
+          "url": "https://witness.co.za/news/2026/11/06/da-pulls-ahead-in-tshwane-and-johannesburg-mk-party-leads-ethekwini/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ESP",
+          "title": "2026 Local Election Results (South Africa)",
+          "url": "https://esp.info/elections/local/2026",
+          "publishedAt": "2026-11-07",
+          "kind": "Results data (electoral commission figures)"
+        }
+      ],
+      "threadId": "south-africa-politics",
+      "threadTitle": "South Africa's politics",
+      "threadSummary": "South Africa's elections, coalition governments and the decline of the ANC's dominance."
+    },
+    {
+      "id": "taiwan-korea-market-rescue-measures",
+      "section": "world",
+      "title": "Taiwan curbs short selling and authorises a share-buying fund after its worst stock market week since 2001",
+      "category": "Markets",
+      "region": "Asia · Taiwan, South Korea",
+      "regions": [
+        "asia"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-06 / 2026-11-07",
+      "body": "Taiwan’s financial regulator said that from Monday, November 9, short sellers using borrowed shares may place orders for only 3 percent of a stock’s average daily volume, down from 30 percent, and must post more margin. The National Stabilization Fund authorised up to 500 billion New Taiwan dollars to buy shares if needed. Taiwan’s market fell more than 12 percent last week, its steepest weekly drop since September 2001, as investors fled AI chip stocks. South Korea eased margin-loan rules after the Kospi fell 6 percent on Friday.",
+      "whatChanged": "After a week of losses, the governments of the two biggest chipmaking markets stepped in directly to slow the selling.",
+      "whyMatters": "Taiwan and South Korea make most of the world’s advanced chips, so emergency steps there show how far doubts about AI spending have spread from Wall Street into the economies that supply it.",
+      "uncertainty": "The fund has not said when or how much it will actually spend, curbs on short selling have a mixed record of halting falls, and the sell-off depends heavily on US markets when they reopen.",
+      "watchNext": "How Asian markets open on Monday, when the new curbs take effect, and US chip company shares through the week.",
+      "keyFacts": [
+        "Taiwan’s market fell 12.19 percent in the week to November 6, its fourth weekly loss in a row",
+        "It is down more than 20 percent from its early-October record",
+        "Short-sale order cap cut to 3 percent of average daily volume from 30 percent, from November 9",
+        "The fund’s 10th intervention allows up to 500 billion New Taiwan dollars",
+        "South Korea’s Kospi closed 6.02 percent lower on November 6 after a 20-minute trading halt"
+      ],
+      "report": [
+        {
+          "heading": "A brutal week",
+          "paragraphs": [
+            "Taiwan’s main index fell 4.5 percent on Friday to its lowest close since late April, and ended the week down 12.19 percent, its steepest weekly drop since September 2001, Reuters reported. It is now more than 20 percent below its early-October high, the usual definition of a bear market. TSMC, which makes up more than 40 percent of the market’s value, fell 4.7 percent on Friday, according to Trading Economics.",
+            "South Korea’s Kospi fell more than 8 percent early on Friday, briefly dropping below 5,000 points and triggering a 20-minute halt, before closing 6.02 percent lower at 5,059.69, HedgeThink reported. Reuters said the index lost more than a tenth of its value over the week. Investors have been selling on fears that spending on AI data centres will slow, and on the prospect of tougher US policy after the midterm elections."
+          ]
+        },
+        {
+          "heading": "The response",
+          "paragraphs": [
+            "Taiwan’s Financial Supervisory Commission cut the limit on intraday short-sale orders using borrowed securities to 3 percent of average daily volume over the previous 30 business days, from 30 percent, and raised the minimum margin on short sales to 130 percent from 90 percent, TokenPost reported. The National Stabilization Fund approved its 10th intervention, with a ceiling of 500 billion New Taiwan dollars but no start date; a similar authorisation in April 2025 ended up using about 12 billion New Taiwan dollars.",
+            "In Seoul, regulators suspended for three months the standard 140 percent collateral requirement on loans used to buy shares, giving brokers more leeway before forcing customers to sell, according to HedgeThink. The step does not ban margin calls."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Taiwan and South Korea",
+        "bounds": [
+          114,
+          19,
+          134,
+          41
+        ],
+        "countries": [
+          "158",
+          "410"
+        ],
+        "alt": "Map with Taiwan and South Korea highlighted, and markers at Taipei and Seoul, whose stock markets fell sharply and whose regulators intervened.",
+        "caption": "Taiwan and South Korea · markers show the financial capitals"
+      },
+      "locations": [
+        {
+          "label": "Taipei",
+          "lon": 121.56,
+          "lat": 25.04
+        },
+        {
+          "label": "Seoul",
+          "lon": 126.98,
+          "lat": 37.57
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Business Recorder (Reuters)",
+          "title": "Taipei, Seoul reel under chipmaker rout as AI frenzy unwinds",
+          "url": "https://www.brecorder.com/news/40447854/taipei-seoul-reel-under-chipmaker-rout-as-ai-frenzy-unwinds",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting (Reuters)"
+        },
+        {
+          "publisher": "TokenPost",
+          "title": "Taiwan Authorizes Up to NT$500 Billion in Its 10th Market Intervention",
+          "url": "https://www.tokenpost.com/news/investing/51333",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Trading Economics",
+          "title": "TAIEX Ends at Over 6-Month Low, Posts 4th Weekly Loss",
+          "url": "https://tradingeconomics.com/taiwan/stock-market/news/598961",
+          "publishedAt": "2026-11-06",
+          "kind": "Market data"
+        },
+        {
+          "publisher": "HedgeThink",
+          "title": "Global Tech Sell-Off Deepens as AI Investment Fears Send South Korea’s Kospi Down 6%",
+          "url": "https://www.hedgethink.com/global-tech-sell-off-deepens-as-ai-investment-fears-send-south-koreas-kospi-down-6/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ai-capital-spending",
+      "threadTitle": "The AI infrastructure buildout",
+      "threadSummary": "The rush to build data centres and chips for AI, how it is financed, and what investors make of it."
+    },
+    {
+      "id": "ukraine-abu-dhabi-delegation-attacks",
+      "section": "more",
+      "title": "Rustem Umerov will lead Ukraine’s team at Tuesday’s talks in Abu Dhabi, as Russian strikes on power links leave two dead",
+      "category": "Conflict",
+      "region": "Europe · Ukraine",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-06 / 2026-11-08",
+      "whatChanged": "Kyiv settled who will represent it at the first three-way talks since February, while the toll and damage from Friday night’s barrage became clearer.",
+      "body": "A senior official, Davyd Arakhamia, confirmed that Rustem Umerov will head the Ukrainian delegation, which includes the military intelligence chief Kyrylo Budanov, the Kyiv Independent reported. Russian attacks over Friday and Saturday killed two people and injured 37 across Ukraine and hit substations linking the Rivne and Khmelnytskyi nuclear plants to Kyiv; President Volodymyr Zelensky blamed a shortage of Patriot interceptors for how few ballistic missiles were stopped. A later strike on Odesa killed one person, the regional administration said.",
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Umerov to lead Ukraine delegation in Abu Dhabi peace talks despite media confusion, top official confirms",
+          "url": "https://kyivindependent.com/umerov-to-lead-ukraine-delegation-in-abu-dhabi-peace-talks-despite-media-confusion-top-official-confirms/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Russian attacks kill 2, injure 37 across Ukraine over past day, hit substations connecting nuclear power plants to Kyiv",
+          "url": "https://kyivindependent.com/russian-attacks-kill-2-injure-37-across-ukraine-over-past-day-hit-substations-connecting-nuclear-power-plants-to-kyiv/",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Manila Times (Associated Press)",
+          "title": "Ukraine hit by drone, missile attacks as talks with Russia, US loom",
+          "url": "https://www.manilatimes.net/2026/11/08/world/ukraine-hit-by-drone-missile-attacks-as-talks-with-russia-us-loom/2464614",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "Kyiv Post",
+          "title": "Russian Strike on Odesa Kills 1, Hits Infrastructure",
+          "url": "https://www.kyivpost.com/post/89458",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+    },
+    {
+      "id": "us-senate-mississippi-alaska-counts",
+      "section": "more",
+      "title": "Scott Colom’s lead in Mississippi’s Senate race edges up to about 2,600 votes, while Alaska’s count waits until Monday",
+      "category": "Politics",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-07",
+      "whatChanged": "Colom, a Democrat, added about 80 votes to his lead on Saturday, with only a few thousand mail ballots and an unknown number of affidavit ballots left.",
+      "body": "With about 97 percent counted, Colom led Senator Cindy Hyde-Smith by 2,574 votes, the Associated Press figures cited by Yahoo News showed. Mississippi’s secretary of state said just over 3,000 mail ballots remain, and voters have until November 10 to cure affidavit ballots; Hyde-Smith’s campaign said it was not backing down. In Alaska, Mary Peltola leads Senator Dan Sullivan by 637 votes with about a quarter of ballots outstanding, and new counts are expected on Monday and Tuesday.",
+      "sources": [
+        {
+          "publisher": "Yahoo News",
+          "title": "Midterms 2026 results and latest updates: Mississippi and Alaska Senate races still too close to call",
+          "url": "https://yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
+          "publishedAt": "2026-11-07",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Fox News",
+          "title": "Colom leads Mississippi Senate race, Hyde-Smith says she is ‘not backing down’",
+          "url": "https://www.foxnews.com/live-news/mississippi-senate-race-too-close-to-call-colom-leads-11-07-26",
+          "publishedAt": "2026-11-07",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Alaska’s News Source",
+          "title": "Peltola and Sullivan campaigns project wins while a quarter of ballots are outstanding",
+          "url": "https://www.alaskasnewssource.com/2026/11/06/peltola-sullivan-campaigns-project-wins-while-quarter-ballots-are-outstanding/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 2026 elections for the US Congress, governors and ballot measures, and their aftermath."
+    },
+    {
+      "id": "massie-hegseth-impeachment-push",
+      "section": "more",
+      "title": "A Republican congressman says he will force a vote on impeaching Defense Secretary Pete Hegseth when the House returns",
+      "category": "Politics",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-06",
+      "whatChanged": "Thomas Massie set out the charges he plans to revive next week unless Hegseth resigns, as other senior Republicans criticised the defense secretary.",
+      "body": "Massie, who lost his primary in May, plans to reintroduce eight articles of impeachment covering the Iran war, the law on civilian casualties and retaliation against critics, the Kentucky station WUKY reported. The House Oversight chairman, James Comer, and Senator Thom Tillis have both criticised Hegseth. Hegseth called the effort a sham pushed by a defeated congressman.",
+      "sources": [
+        {
+          "publisher": "WUKY",
+          "title": "Massie plans to relaunch Hegseth impeachment push",
+          "url": "https://www.wuky.org/wuky-news/2026-11-06/massie-plans-to-relaunch-hegseth-impeachment-push",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "trump-administration-turnover",
+      "threadTitle": "Turnover in Trump’s administration",
+      "threadSummary": "Departures and replacements among senior officials in Donald Trump’s second administration."
+    },
+    {
+      "id": "new-zealand-election-too-close-to-call",
+      "section": "more",
+      "title": "New Zealand’s two main parties finish the election-night count tied, 41 votes apart, with special votes still to come",
+      "category": "Politics",
+      "region": "Oceania · New Zealand",
+      "regions": [
+        "oceania"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-07 / 2026-11-08",
+      "whatChanged": "With 98 percent of the preliminary count in, National and Labour were each on 29.27 percent, and the governing bloc still held a one-seat majority on projections.",
+      "body": "The governing coalition of National, ACT and New Zealand First is projected to hold 67 seats, one more than the 66 needed, Al Jazeera reported. About 14 to 20 percent of votes, special votes that have usually leaned left, are still to be counted, with the official result due on November 27. The Opportunity party cleared the 5 percent threshold, and several senior National ministers are set to leave parliament because the party won no list seats, according to The Spinoff.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "New Zealand’s governing coalition holds slim majority in preliminary count",
+          "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Spinoff",
+          "title": "Who won the 2026 election?",
+          "url": "https://thespinoff.co.nz/politics/08-11-2026/who-won-the-2026-election",
+          "publishedAt": "2026-11-08",
+          "kind": "Analysis"
+        }
+      ],
+      "threadId": "new-zealand-election-2026",
+      "threadTitle": "New Zealand’s 2026 election",
+      "threadSummary": "New Zealand’s November 2026 general election and the formation of its next government."
+    },
+    {
+      "id": "france-protests-november-7",
+      "section": "more",
+      "title": "More than 140,000 people march across France on a fourth weekend of protests over living costs and schools",
+      "category": "Society",
+      "region": "Europe · France",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-07",
+      "whatChanged": "Students led Saturday’s marches, two days after the national strike, and police used tear gas in Paris and Lyon.",
+      "body": "The interior ministry counted 146,000 marchers, 46,000 of them in Paris, while unions said 250,000, Al Jazeera reported, with 70,000 police and gendarmes deployed. Police said about 200 people attacked officers during an arrest in Paris. Separately, Jean-Luc Mélenchon presented his programme for April’s presidential election to about 17,000 supporters.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera (with AFP)",
+          "title": "More than 140,000 rally as new protests against rising costs sweep France",
+          "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "france-unrest-2026",
+      "threadTitle": "France's 2026 unrest",
+      "threadSummary": "Strikes, blockades and protests in France in 2026 over pay, public services and the cost of living."
+    },
+    {
+      "id": "japan-earthquake-shizuoka-aichi",
+      "section": "more",
+      "title": "An earthquake of magnitude 5.7 strikes central Japan overnight, injuring at least 22 people",
+      "category": "Disaster",
+      "region": "Asia · Japan",
+      "regions": [
+        "asia"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-08",
+      "whatChanged": "The quake hit at about 1 AM on Sunday local time, centred in Shizuoka prefecture about 40 kilometres deep.",
+      "body": "Japan’s meteorological agency put the magnitude at 5.7, while the US Geological Survey estimated 5.5, ABC News in Australia reported. Shop windows were shattered in Toyohashi in neighbouring Aichi prefecture, and bullet trains were slowed. No tsunami warning was reported.",
+      "sources": [
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "Earthquake rocks central Japan, shattering shop windows and injuring at least 22",
+          "url": "https://www.abc.net.au/news/2026-11-08/japan-earthquake-aichi-prefecture-at-least-22-injured/107361392",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Associated Press)",
+          "title": "Earthquake with preliminary magnitude of 5.7 strikes Japan",
+          "url": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting (AP)"
+        }
+      ],
+      "threadId": "japan-earthquakes",
+      "threadTitle": "Earthquakes in Japan",
+      "threadSummary": "Significant earthquakes in Japan and their effects."
+    },
+    {
+      "id": "malaysia-king-najib-house-arrest",
+      "section": "more",
+      "title": "Malaysia’s king warns officials not to defy his order moving former prime minister Najib Razak to house arrest",
+      "category": "Politics",
+      "region": "Asia · Malaysia",
+      "regions": [
+        "asia"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-07",
+      "whatChanged": "The king publicly rebuked the attorney general a day after he stopped Najib’s transfer, turning a legal question into a standoff with the palace.",
+      "body": "In September the king granted Najib a conditional pardon allowing him to serve the rest of his first 1MDB sentence at home once he paid a fine of about 12 million dollars, Al Jazeera reported. After the fine was paid, the attorney general halted the move to seek clarification; the king said on Saturday his order was clear and without ambiguity. The prime minister’s office said the attorney general would seek an audience with the king. Najib is separately appealing a 15-year sentence in another 1MDB case.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+          "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "malaysia-najib-razak",
+      "threadTitle": "Najib Razak and the 1MDB scandal",
+      "threadSummary": "The imprisonment of Malaysia’s former prime minister Najib Razak over the 1MDB scandal and the dispute over his royal pardon."
+    },
+    {
+      "id": "pelacarsen-lpa-horizon-neutral",
+      "section": "frontiers",
+      "field": "Medicine",
+      "title": "A drug that slashed a hidden heart-risk particle by almost four-fifths did not prevent heart attacks or strokes",
+      "category": "Cardiology trial",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-07",
+      "hook": "The first big test of whether lowering lipoprotein(a) prevents heart disease came back flat, a real setback for a class of drugs many cardiologists had pinned hopes on.",
+      "body": "Novartis’s pelacarsen, a monthly injection, cut lipoprotein(a), an inherited cholesterol-carrying particle, by about 78 percent but did not reduce heart attacks, strokes or cardiovascular deaths in a trial of more than 8,300 people with heart disease, according to full results presented on Saturday at the American Heart Association meeting in Chicago and published in the New England Journal of Medicine. After a median of 57 months, 12.3 percent of patients on the drug and 12.1 percent on placebo had a major event. Novartis had disclosed the headline failure in September.",
+      "whatChanged": "The full peer-reviewed data show no benefit at all, even among patients with the highest levels, and more side effects on the drug.",
+      "whyMatters": "Several rival drugs that lower lipoprotein(a) are in development, and this result raises the question of whether lowering it is enough to protect the heart.",
+      "uncertainty": "The trial tested one drug in people who already had heart disease, most participants were white, and researchers say the result does not show that lipoprotein(a) is harmless or that other drugs will also fail.",
+      "watchNext": "Results from rival lipoprotein(a) drugs such as olpasiran and lepodisiran, and further analyses of why the large reduction did not translate into fewer events.",
+      "keyFacts": [
+        "8,323 patients enrolled at 797 sites in 42 countries, followed for a median of 57 months",
+        "Major cardiovascular events: 12.3 percent on pelacarsen, 12.1 percent on placebo",
+        "Lipoprotein(a) fell by about 78 percent at 12 months",
+        "20.6 percent stopped the drug because of side effects, against 7.5 percent on placebo",
+        "A separate trial of Novo Nordisk’s ziltivekimab also showed no reduction in events"
+      ],
+      "report": [
+        {
+          "heading": "What the trial found",
+          "paragraphs": [
+            "Lp(a)HORIZON enrolled patients with established cardiovascular disease and lipoprotein(a) of at least 70 milligrams per decilitre, with a median of 109, according to the American College of Cardiology’s summary. They received 80 milligrams of pelacarsen or a placebo each month. Major cardiovascular events occurred in 511 patients on the drug and 503 on placebo, a hazard ratio of 1.02 that is statistically indistinguishable from no effect, and results were the same among people with levels of 90 or more. There was no difference in deaths.",
+            "Drug-related side effects were reported by 56.8 percent of patients on pelacarsen against 18.0 percent on placebo, and 19 people on the drug had anaphylaxis, a severe allergic reaction, against none on placebo, the Cleveland Clinic, which led the trial, reported. Serious adverse events overall were slightly lower on the drug."
+          ]
+        },
+        {
+          "heading": "What researchers make of it",
+          "paragraphs": [
+            "Steven Nissen of the Cleveland Clinic, the senior investigator, said he could not avoid the disappointing conclusion that the drug did not work, but that this did not make lipoprotein(a) irrelevant. The American Heart Association called the neutral outcome unexpected. Limitations include the focus on patients who already had heart disease, a population that was 78 percent white with under 4 percent of African ancestry, and possible disruption from the Covid pandemic during follow-up."
+          ]
+        },
+        {
+          "heading": "A difficult day for prevention",
+          "paragraphs": [
+            "In the same session, full results of Novo Nordisk’s ZEUS trial showed that ziltivekimab, an antibody that dampens inflammation, lowered inflammatory markers but did not reduce cardiovascular events in patients with heart and kidney disease, STAT reported. Cardiologists told STAT they would still pursue anti-inflammatory approaches, perhaps aiming at targets earlier in the inflammatory chain."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-08/pelacarsen-lpa-horizon-neutral.svg",
+        "alt": "A balance scale held perfectly level, with an injection pen in one pan and a heart in the other, standing for a drug that lowered a risk factor but left heart attacks and strokes unchanged.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "American Heart Association Newsroom",
+          "title": "Lp(a) HORIZON trial: Lp(a) fell by 78%, but cardiovascular outcomes unexpectedly neutral",
+          "url": "https://newsroom.heart.org/news/lp-a-horizon-trial-lp-a-fell-by-78-but-cardiovascular-outcomes-unexpectedly-neutral",
+          "publishedAt": "2026-11-07",
+          "kind": "Primary (scientific society release)"
+        },
+        {
+          "publisher": "Cleveland Clinic ConsultQD",
+          "title": "Lipoprotein(a) Reduction With Pelacarsen Has No Impact on Cardiac Events, Lp(a)HORIZON Finds",
+          "url": "https://consultqd.clevelandclinic.org/lipoproteina-reduction-with-pelacarsen-has-no-impact-on-cardiac-events",
+          "publishedAt": "2026-11-07",
+          "kind": "Investigator institution"
+        },
+        {
+          "publisher": "American College of Cardiology",
+          "title": "Lp(a) HORIZON: Pelacarsen vs. Placebo in Patients With High Lp(a)",
+          "url": "https://www.acc.org/Latest-in-Cardiology/Articles/2026/11/06/14/37/sat-10am-lpa-aha-2026",
+          "publishedAt": "2026-11-07",
+          "kind": "Trial summary"
+        },
+        {
+          "publisher": "STAT",
+          "title": "Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+          "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "heart-disease-prevention",
+      "threadTitle": "Preventing heart disease",
+      "threadSummary": "Trials and treatments aimed at preventing heart attacks, strokes and other cardiovascular disease."
+    },
+    {
+      "id": "deepmind-rsa-1024-weaknesses",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Google DeepMind says its AI agents found two new weaknesses in old 1024-bit RSA encryption",
+      "category": "AI and cryptography",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-06",
+      "hook": "A modest but telling step: AI agents contributing new cryptanalysis, aimed at key sizes that should already have been retired, while today’s standard keys stay safe.",
+      "body": "Google DeepMind said on Friday that AI agents, guided by its researchers and the cryptographers Nadia Heninger of UC San Diego and Emmanuel Thomé of Inria, found two weaknesses in RSA encryption with 1024-bit keys, a size long considered obsolete. One makes some forms of signature forgery cheaper; in a sandbox the agents repeated a known forgery using 3.5 times less computing time. The other is a batch method that could make factoring each additional 1024-bit key about 30 times cheaper. DeepMind says 2048-bit keys, today’s standard, are not affected.",
+      "whatChanged": "A major AI lab is claiming that its agents produced new results in cryptanalysis, not just found software bugs, within weeks.",
+      "whyMatters": "Many older systems still rely on 1024-bit keys, and if AI agents can speed up attacks on mathematical security assumptions, organisations have less time to retire weak cryptography.",
+      "uncertainty": "Neither result has been peer reviewed or independently reproduced, the larger gains are theoretical estimates rather than measured attacks, the batch method has not been implemented, and the full signature paper was not yet public.",
+      "watchNext": "Publication of the full papers, reactions from independent cryptographers, and whether standards bodies or vendors speed up the retirement of 1024-bit keys.",
+      "keyFacts": [
+        "Announced by Google DeepMind on November 6, 2026",
+        "A sandboxed forgery used 3.5 times less computing time than earlier academic work",
+        "DeepMind estimates a roughly 1,600-fold improvement for one forgery scenario, in theory",
+        "Batch factoring could cut the cost of each extra 1024-bit key about 30-fold, after heavy precomputation",
+        "DeepMind says 2048-bit and larger RSA keys are not affected"
+      ],
+      "report": [
+        {
+          "heading": "The two findings",
+          "paragraphs": [
+            "The first result concerns signatures. DeepMind says that when an attacker controls about half or more of the block being signed, the padding meant to protect RSA signatures adds little security, AI Chat Daily reported. In a sandboxed test against a benchmark key, the agents reproduced a forgery that academic researchers had demonstrated earlier, using 3.5 times less processor time. For a harder case, in which the attacker controls only a short, hash-sized part of the message, DeepMind estimates its method would be about 1,600 times better than the best previous one, a figure it describes as theoretical.",
+            "The second is a batch factoring technique described in a working paper dated November 5. After a one-off precomputation roughly equal to factoring one key, each additional 1024-bit key would cost about 30 times less than with the best earlier batch method, according to DataStudios’ summary of the paper. Key steps of the proofs were checked in the Lean proof assistant."
+          ]
+        },
+        {
+          "heading": "Limits",
+          "paragraphs": [
+            "DeepMind and the paper both say 2048-bit and larger keys, the modern standard for banking, messaging and software updates, are not threatened, and US guidance has disallowed new signatures with keys under 2048 bits since 2013. The cost estimates leave out lower-order terms, memory requirements are a major practical obstacle, and no key has been factored with the new method, PiyushAI noted in its analysis. The announcements did not name the AI models used or describe a disclosure process, and no independent cryptographer had published an assessment."
+          ]
+        },
+        {
+          "heading": "Why DeepMind published",
+          "paragraphs": [
+            "Pushmeet Kohli, who leads DeepMind’s science work, announced the results and said they show why cryptographic assumptions should be reassessed rather than treated as fixed, AI Chat Daily reported. DeepMind presented the work as a contribution that gives defenders better tools for measuring how strong their cryptography really is."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-08/deepmind-rsa-1024-weaknesses.svg",
+        "alt": "A small padlock with a copper crack running through it beside a larger, intact padlock, standing for weaknesses found in older 1024-bit keys while 2048-bit keys remain safe.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "AI Chat Daily",
+          "title": "Google DeepMind agents find two weaknesses in legacy 1024-bit RSA",
+          "url": "https://www.aichatdaily.com/ai-security/google-deepmind-agents-find-two-weaknesses-legacy-1024-bit",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "DataStudios",
+          "title": "Google DeepMind AI agents find two weaknesses in legacy 1024-bit RSA",
+          "url": "https://www.datastudios.org/post/google-deepmind-ai-agents-two-weaknesses-legacy-1024-bit-rsa",
+          "publishedAt": "2026-11-07",
+          "kind": "Analysis"
+        },
+        {
+          "publisher": "PiyushAI",
+          "title": "DeepMind’s AI Attack on 1024-bit RSA Explained: What It Is, How It Works, Limits and Risks",
+          "url": "https://piyushai.com/deepmind-ai-1024-bit-rsa-explained/",
+          "publishedAt": "2026-11-08",
+          "kind": "Analysis"
+        }
+      ],
+      "threadId": "ai-cybersecurity-acceleration",
+      "threadTitle": "AI and the cybersecurity race",
+      "threadSummary": "How increasingly capable AI systems are changing the discovery and exploitation of software vulnerabilities, and how defenders respond."
+    },
+    {
+      "id": "exomars-alba-mons-volcanic-gas",
+      "section": "frontiers",
+      "field": "Space",
+      "title": "A European orbiter finds gas rising from fresh cracks on a Martian volcano, a possible sign Mars is not volcanically dead",
+      "category": "Planetary science",
+      "region": "Mars",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-04",
+      "hook": "A suggestive clue rather than proof: a seasonal puff of gas over young fissures that could come from a dormant magma chamber.",
+      "body": "Europe’s ExoMars Trace Gas Orbiter has repeatedly detected hydrogen chloride appearing in early northern summer above fresh fissures on the flanks of Alba Mons, a vast Martian volcano, researchers reported in Science Advances. The timing is odd, because the gas normally peaks in winter and largely vanishes in summer. The team suggests ice seals the cracks during winter and, when it turns to vapour, gas from a dormant magma body escapes. The orbiter’s camera imaged narrow fissures hundreds of metres long. No eruption or lava has been seen.",
+      "whatChanged": "A peer-reviewed study links a recurring gas signal to specific young surface cracks, pointing to possible present-day volcanic activity on Mars.",
+      "whyMatters": "Active volcanism would mean Mars still has internal heat today, which matters for understanding how the planet evolved and where future missions should look.",
+      "uncertainty": "The signal involves very small amounts of gas, other atmospheric explanations had to be ruled out, and the authors describe it only as a potential signature of volcanic activity.",
+      "watchNext": "Further observations of Alba Mons in coming Martian summers and whether other instruments confirm the gas or detect heat at the fissures.",
+      "keyFacts": [
+        "Published in Science Advances; ESA announced it on November 4, 2026",
+        "Hydrogen chloride spikes recur in early northern summer over Alba Mons",
+        "The CaSSIS camera imaged fresh fissures hundreds of metres long",
+        "Led by Alexander Trokhimovskiy, with Daniel Mège of the Polish Academy of Sciences"
+      ],
+      "report": [
+        {
+          "heading": "What was seen",
+          "paragraphs": [
+            "The Atmospheric Chemistry Suite on the Trace Gas Orbiter has been measuring hydrogen chloride in the Martian atmosphere for several years. Usually the gas rises in northern winter and mostly disappears in summer, ESA said, but over Alba Mons it reappeared in a recurring spike early each summer. Images from the orbiter’s CaSSIS camera showed narrow, fresh-looking fissures hundreds of metres long on the volcano’s flanks, with colour changes on the surrounding surface, Space.com reported."
+          ]
+        },
+        {
+          "heading": "The explanation offered",
+          "paragraphs": [
+            "The researchers propose that in winter, at temperatures around minus 120 degrees Celsius, ice plugs the cracks, and that when the ice sublimates in summer, gas released from a dormant magma chamber below can escape. The paper, led by Alexander Trokhimovskiy and co-led by Daniel Mège, describes the detections as a potential signature of igneous activity, and the team had to rule out explanations based on atmospheric chemistry alone."
+          ]
+        },
+        {
+          "heading": "Caveats",
+          "paragraphs": [
+            "No eruption, lava flow or hot spot has been observed, and the signal comes from very small quantities of gas. ESA itself described the result as hints of volcanic activity rather than a confirmation. Links to the possibility of habitable environments are speculative. The coverage cited no independent researchers, so the interpretation has yet to be tested by other teams or instruments."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-08/exomars-alba-mons-hcl.svg",
+        "alt": "The broad slope of a reddish volcano with dark fissures releasing faint wisps of gas, and a small orbiter overhead, standing for the gas detected rising from cracks on Alba Mons.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "EurekAlert! (European Space Agency)",
+          "title": "European orbiter detects hints of volcanic activity on Mars",
+          "url": "https://www.eurekalert.org/news-releases/1150079",
+          "publishedAt": "2026-11-04",
+          "kind": "Primary (agency release)"
+        },
+        {
+          "publisher": "Space.com",
+          "title": "Mars isn’t dead: recent volcanic activity reveals it’s just sleeping",
+          "url": "https://space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+          "publishedAt": "2026-11-04",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "mars-exploration",
+      "threadTitle": "Exploring Mars and its moons",
+      "threadSummary": "Missions to study Mars and its two small moons, and to bring material from them back to Earth."
+    },
+    {
+      "id": "ebola-congo-north-kivu-spread",
+      "section": "still",
+      "title": "Congo’s Ebola outbreak passes 10,700 confirmed cases, with new infections now almost as common in North Kivu as in Ituri",
+      "category": "Health",
+      "region": "Africa · DR Congo",
+      "regions": [
+        "africa"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-03 / 2026-11-06",
+      "body": "The World Health Organization’s latest report counts 10,668 confirmed cases and 5,198 deaths in Congo through November 3, a death rate of almost half, and Europe’s disease agency had 10,741 cases by November 5. In the three weeks to November 3 there were 1,463 new confirmed cases, 710 in Ituri and 640 in North Kivu. Transmission is active in 51 health zones. Contact tracing reaches 86 percent of contacts, below the 95 percent target. A health worker infected in Congo is being treated in London.",
+      "whatChanged": "WHO’s November 6 update shows the outbreak still adding roughly 70 confirmed cases a day and spreading in North Kivu almost as fast as in Ituri.",
+      "whyMatters": "Vaccines designed for the Bundibugyo strain are still only in trials, and WHO rates the risk as high for Congo’s neighbours.",
+      "uncertainty": "Counts cover confirmed cases and may miss infections in insecure areas, and vaccine trials will not produce results until next year.",
+      "watchNext": "Whether new cases fall in Ituri and North Kivu, national approval of the two additional trial vaccines, and any further cases outside Congo.",
+      "keyFacts": [
+        "10,668 confirmed cases and 5,198 deaths in Congo through November 3, per WHO",
+        "1,463 new confirmed cases in the 21 days to November 3",
+        "67 health zones in eight provinces affected; 51 with active transmission",
+        "Kenya has had nine cases and two deaths, with none since October 19"
+      ],
+      "report": [
+        {
+          "heading": "The latest figures",
+          "paragraphs": [
+            "WHO’s Disease Outbreak News of November 6 reported 10,668 confirmed cases, 5,198 deaths and 2,881 recoveries in Congo, with a crude fatality rate of 48.7 percent. The outbreak has reached 67 health zones in eight provinces. Of the 1,463 confirmed cases in the previous 21 days, 710 were in Ituri, 640 in North Kivu and 77 in Haut-Uélé. The European Centre for Disease Prevention and Control’s update put the totals at 10,741 cases and 5,230 deaths as of November 5."
+          ]
+        },
+        {
+          "heading": "Beyond Congo",
+          "paragraphs": [
+            "Kenya has recorded nine confirmed cases and two deaths, with no new case since October 19. Nigeria’s single imported case, found in Abuja, was evacuated to Geneva on October 26, and six of 62 contacts have completed follow-up. On November 5 Britain reported the evacuation of an infected health worker from Congo to London. WHO rates the risk as very high in Congo, high in neighbouring countries and low globally, and advises against travel or trade restrictions."
+          ]
+        },
+        {
+          "heading": "Vaccines",
+          "paragraphs": [
+            "A trial testing vaccines against the outbreak began in Bunia on October 23. WHO-convened experts have recommended adding two candidates designed for this strain, from the University of Oxford with the Serum Institute of India and from Moderna, once national approvals are granted."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "World Health Organization",
+          "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Kenya and Nigeria",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
+          "publishedAt": "2026-11-06",
+          "kind": "Primary"
+        },
+        {
+          "publisher": "European Centre for Disease Prevention and Control",
+          "title": "Ebola disease: Multi-country outbreak 2026",
+          "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda",
+          "publishedAt": "2026-11-06",
+          "kind": "Primary"
+        }
+      ],
+      "threadId": "ebola-east-africa",
+      "threadTitle": "Ebola outbreak in Africa",
+      "threadSummary": "The 2026 Bundibugyo-strain Ebola outbreak centred on the Democratic Republic of the Congo, its spread and the response."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Climate talks open",
+      "text": "The COP31 climate summit opens in Antalya, Türkiye, on Monday, November 9, with Australia leading the negotiations and world leaders due on November 11 and 12."
+    },
+    {
+      "title": "Talks in Abu Dhabi",
+      "text": "US-led talks between Ukrainian and Russian officials are due to open in Abu Dhabi on Tuesday, November 10, with Rustem Umerov leading Ukraine’s team."
+    },
+    {
+      "title": "Mississippi’s deadline",
+      "text": "Tuesday, November 10, is the last day for mail ballots to arrive and for affidavit ballots to be cured in Mississippi’s Senate race, while Alaska resumes counting on Monday and Tuesday."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Counting went on in the undecided Mississippi and Alaska Senate races, and a Republican congressman set out plans to try to impeach Pete Hegseth. Canada began spending from its new budget.",
+      "briefs": [
+        {
+          "title": "Arizona Democrats win full control of state government for the first time in 60 years",
+          "text": "Democrats in Arizona won the governor’s office and majorities in both chambers of the legislature in Tuesday’s elections, giving them a so-called trifecta for the first time in six decades, according to results reported by Yahoo News. Nationally, Associated Press tallies cited in the same coverage gave Democrats 54 Senate seats with two races uncalled.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Yahoo News",
+              "title": "Midterms 2026 results and latest updates: Mississippi and Alaska Senate races still too close to call",
+              "url": "https://yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
+              "publishedAt": "2026-11-07",
+              "kind": "Live reporting"
+            }
+          ]
+        },
+        {
+          "title": "Justice Department drops its attempt to set aside California ballots",
+          "text": "The US Justice Department withdrew a lawsuit that sought to set aside ballots linked to about 20,000 people it alleged were non-citizens registered to vote in California, Fox News reported. California’s attorney general, Rob Bonta, said the department had thrown in the towel.",
+          "eventDate": "2026-11-07",
+          "sources": [
+            {
+              "publisher": "Fox News",
+              "title": "Colom leads Mississippi Senate race, Hyde-Smith says she is ‘not backing down’",
+              "url": "https://www.foxnews.com/live-news/mississippi-senate-race-too-close-to-call-colom-leads-11-07-26",
+              "publishedAt": "2026-11-07",
+              "kind": "Live reporting"
+            }
+          ]
+        },
+        {
+          "title": "Carney pledges more than 1 billion Canadian dollars for homelessness in Manitoba",
+          "text": "Prime Minister Mark Carney announced up to 800 million dollars for more than 2,000 supportive homes and over 200 million for a mental health and addictions centre in Winnipeg, his office said on Friday. It is the first agreement under a budget plan of nearly 30 billion dollars that aims to end chronic homelessness within ten years.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Prime Minister of Canada",
+              "title": "Prime Minister Carney launches plan to put Canada on a path to end homelessness within 10 years in Budget 2026, starting with a landmark partnership in Manitoba",
+              "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/06/prime-minister-carney-launches-plan-put-canada-path-end-homelessness",
+              "publishedAt": "2026-11-06",
+              "kind": "Primary"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Paraguay’s ousted president was charged and ordered held until trial as payouts to Ueno Bank customers continued. Brazil’s electoral court opened a case against President Lula’s ticket.",
+      "briefs": [
+        {
+          "title": "Brazil’s electoral court opens a case against Lula and his running mate",
+          "text": "Brazil’s Superior Electoral Court opened proceedings against President Luiz Inácio Lula da Silva and Vice President Geraldo Alckmin over a complaint from the Novo party that 35 government measures expanding benefits in the election year amounted to abuse of power, The Rio Times reported. Novo is asking for their election certificates to be annulled and for eight-year bans; the defence has five days to respond and no ruling date has been set.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "The Rio Times",
+              "title": "The Big Read: Brazil, 7 November 2026",
+              "url": "https://www.riotimesonline.com/the-big-read-brazil-7-november-2026/",
+              "publishedAt": "2026-11-07",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Mexico’s president will make her first trip to China for the APEC summit",
+          "text": "Claudia Sheinbaum confirmed she will attend the Asia-Pacific Economic Cooperation summit in Shenzhen on November 18 and 19 and is seeking a meeting with Xi Jinping, the Latin Times reported. It will be her first visit to China as president.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Latin Times",
+              "title": "Mexico’s Sheinbaum to Visit China for APEC Summit, Pursue Meeting With Xi Jinping",
+              "url": "https://www.latintimes.com/mexicos-sheinbaum-visit-china-apec-summit-pursue-meeting-xi-jinping-600958",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Ukraine named its team for US-led talks with Russia in Abu Dhabi as Russian strikes on its power grid continued, and France saw a fourth weekend of protests.",
+      "briefs": [
+        {
+          "title": "Italy’s foreign minister says he was hit by a cyberattack over his support for Ukraine",
+          "text": "Antonio Tajani said on Saturday that he had been targeted in a cyberattack because of Italy’s position on Ukraine, with his personal data spread on the dark web, the Kyiv Independent reported. Prime Minister Giorgia Meloni linked the attack to pro-Russian hackers.",
+          "eventDate": "2026-11-07",
+          "sources": [
+            {
+              "publisher": "The Kyiv Independent",
+              "title": "Italy’s foreign minister targeted in cyberattack due to Ukraine stance, minister says",
+              "url": "https://kyivindependent.com/italys-foreign-minister-targeted-in-cyberattack-due-to-ukraine-stance-minister-says-2/",
+              "publishedAt": "2026-11-07",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Ukraine strikes a factory in Russia’s Oryol region with Neptune missiles",
+          "text": "Ukraine said it hit the Proton-Elektrotex plant in Oryol with Neptune missiles overnight into Saturday, and Russian media reported a strike on the Saratov oil refinery, which was not confirmed, the Kyiv Independent reported. Russia said it downed 411 drones, and one person was killed in Belgorod region.",
+          "eventDate": "2026-11-07",
+          "sources": [
+            {
+              "publisher": "The Kyiv Independent",
+              "title": "Ukraine strikes Oryol factory with Neptune missile, reportedly Saratov Oil Refinery in mass attack on Russian regions",
+              "url": "https://kyivindependent.com/ukraine-strikes-saratov-oil-refinery-in-mass-attack-on-several-regions-reports-say/",
+              "publishedAt": "2026-11-07",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "South Africa’s ANC slumped to its worst local election result, and Congo’s Ebola outbreak kept spreading in North Kivu.",
+      "briefs": []
+    },
+    "middle-east": {
+      "summary": "Israel’s president asked Gadi Eisenkot to form a government. Missiles aimed at Riyadh were shot down but damaged an Aramco building, and US forces kept enforcing their blockade of Iran.",
+      "briefs": [
+        {
+          "title": "Iran’s Revolutionary Guards dismiss a new US task force on smuggling routes",
+          "text": "A Revolutionary Guards spokesman, Hossein Mohebbi, called the new US Task Force Iron Gate, set up to disrupt Iranian shipments over land borders and the Caspian Sea, mere wordplay, Reuters reported on Sunday. US Central Command had announced the unit of about 20 people on Saturday without saying whether it would use force.",
+          "eventDate": "2026-11-08",
+          "sources": [
+            {
+              "publisher": "The Jerusalem Post (Reuters)",
+              "title": "Iran rejects possibility of US enforcing economic blockade, closing trade routes",
+              "url": "https://www.jpost.com/middle-east/iran-news/article-914180",
+              "publishedAt": "2026-11-08",
+              "kind": "Reporting (Reuters)"
+            },
+            {
+              "publisher": "CBS News",
+              "title": "U.S. expands naval blockade to include task force on disrupting ground transport",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+              "publishedAt": "2026-11-07",
+              "kind": "Live reporting"
+            }
+          ]
+        },
+        {
+          "title": "Two more Palestinians die in Gaza, including a medical student",
+          "text": "Two Palestinians, among them the medical student Sara Abu Jiyab, died on Friday of wounds from Israeli fire, and gunfire was reported near al-Mawasi, according to a wire report carried by The Nation. Gaza’s health ministry says more than 1,600 people have been killed since the October 2025 ceasefire.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "The Nation (Pakistan)",
+              "title": "Israeli attacks kill 2 more Palestinians in Gaza, including medical student",
+              "url": "https://www.nation.com.pk/07-Nov-2026/israeli-attacks-kill-2-palestinians-gaza-including-medical-student",
+              "publishedAt": "2026-11-07",
+              "kind": "Reporting (wire copy)"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "Taiwan and South Korea moved to calm their stock markets after a week of heavy selling, an earthquake injured at least 22 people in central Japan, and Malaysia’s king rebuked the attorney general over Najib Razak.",
+      "briefs": [
+        {
+          "title": "Analysts see signs of a large unannounced Chinese exercise around Taiwan",
+          "text": "Taiwan’s National Security Council counted more than 100 Chinese navy and coast guard vessels in the western Pacific on November 3, and the carrier Fujian left port, according to an update by the American Enterprise Institute and the Institute for the Study of War, which says China may be rehearsing an isolation of Taiwan. Taiwan holds local elections on November 28.",
+          "eventDate": "2026-11-03 / 2026-11-06",
+          "sources": [
+            {
+              "publisher": "American Enterprise Institute",
+              "title": "China & Taiwan Update, November 6, 2026",
+              "url": "https://www.aei.org/commentary/china-taiwan-update-november-6-2026/",
+              "publishedAt": "2026-11-06",
+              "kind": "Analysis"
+            }
+          ]
+        },
+        {
+          "title": "North Korea says its latest launches tested a new air-defence missile",
+          "text": "North Korea’s state media said missiles fired from the Sondok area on November 4 tested an advanced air-defence missile alongside an artillery strike drill, Stars and Stripes reported. The launches came as Kim Yo Jong rejected a suggested meeting between Kim Jong Un and Donald Trump.",
+          "eventDate": "2026-11-05",
+          "sources": [
+            {
+              "publisher": "Stars and Stripes",
+              "title": "North Korea claims new missile technology as Trump-Kim diplomacy remains in doubt",
+              "url": "https://stripes.com/theaters/asia_pacific/2026-11-05/north-korea-missile-technology-diplomacy-23369224.html",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "New Zealand’s election remains undecided, with the two main parties level on the preliminary count. Vanuatu’s prime minister faces a no-confidence vote, and drought persists in Fiji.",
+      "briefs": [
+        {
+          "title": "Vanuatu’s prime minister faces a no-confidence vote on Monday",
+          "text": "Vanuatu’s parliament is due to debate a motion of no confidence against Prime Minister Jotham Napat on Monday, November 9, the Pacific news service PACNEWS reported.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Islands Business (PACNEWS)",
+              "title": "PACNEWS THREE, 06 NOVEMBER 2026",
+              "url": "https://islandsbusiness.com/pacnews/pacnews-three-06-november-2026/",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Fiji trucks water to drought-hit communities",
+          "text": "Fiji’s prime minister, Sitiveni Rabuka, said 67 water trucks had delivered more than 1.69 million litres to communities hit by drought, and Vanuatu approved 60 million vatu, about 1.1 million US dollars, for El Niño relief, PACNEWS reported.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Islands Business (PACNEWS)",
+              "title": "PACNEWS THREE, 06 NOVEMBER 2026",
+              "url": "https://islandsbusiness.com/pacnews/pacnews-three-06-november-2026/",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

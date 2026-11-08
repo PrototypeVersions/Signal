@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="The broad slope of a Martian volcano with narrow fissures releasing faint wisps of gas, and a small orbiter overhead">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="#d6e6f2"><circle cx="90" cy="70" r="2"/><circle cx="700" cy="60" r="2"/><circle cx="520" cy="40" r="1.5"/><circle cx="250" cy="110" r="1.5"/></g>
+  <path d="M0 430 C 160 400 280 300 400 290 C 520 300 640 400 800 430 V500 H0 Z" fill="#8a4f33"/>
+  <path d="M0 455 C 200 440 600 440 800 455 V500 H0 Z" fill="#5e3523"/>
+  <g stroke="#09131d" stroke-width="5" stroke-linecap="round">
+    <line x1="300" y1="345" x2="350" y2="330"/><line x1="440" y1="335" x2="500" y2="350"/><line x1="360" y1="372" x2="420" y2="368"/>
+  </g>
+  <g fill="none" stroke="#c8d8e6" stroke-width="3" opacity="0.55" stroke-linecap="round">
+    <path d="M325 335 C 315 310 340 295 328 270"/><path d="M470 340 C 482 315 458 300 472 272"/><path d="M390 365 C 380 340 404 325 392 300"/>
+  </g>
+  <g transform="translate(600 120)">
+    <rect x="-18" y="-14" width="36" height="28" rx="3" fill="#d6e6f2"/>
+    <rect x="-78" y="-8" width="54" height="16" fill="#7fa6c4"/>
+    <rect x="24" y="-8" width="54" height="16" fill="#7fa6c4"/>
+    <circle cx="0" cy="20" r="5" fill="#c8875a"/>
+  </g>
+</svg>

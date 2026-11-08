@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A small padlock with a crack running through its body beside a larger intact padlock">
+  <rect width="800" height="500" fill="#09131d"/>
+  <path d="M235 250 V200 A65 65 0 0 1 365 200 V250" fill="none" stroke="#7fa6c4" stroke-width="20"/>
+  <rect x="200" y="245" width="200" height="160" rx="18" fill="#1d3a55" stroke="#7fa6c4" stroke-width="4"/>
+  <circle cx="300" cy="310" r="14" fill="#09131d"/>
+  <rect x="294" y="318" width="12" height="36" fill="#09131d"/>
+  <path d="M262 245 L285 292 L262 330 L292 372 L278 405" fill="none" stroke="#c8875a" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M470 220 V150 A90 90 0 0 1 650 150 V220" fill="none" stroke="#d6e6f2" stroke-width="26"/>
+  <rect x="440" y="215" width="240" height="200" rx="22" fill="#12263a" stroke="#d6e6f2" stroke-width="5"/>
+  <circle cx="560" cy="295" r="18" fill="#09131d"/>
+  <rect x="552" y="305" width="16" height="48" fill="#09131d"/>
+</svg>

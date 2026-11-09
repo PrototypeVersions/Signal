@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A judge's gavel resting across a computer chip">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g stroke="#7fa6c4" stroke-width="5">
+    <line x1="290" y1="150" x2="290" y2="110"/><line x1="350" y1="150" x2="350" y2="110"/><line x1="410" y1="150" x2="410" y2="110"/><line x1="470" y1="150" x2="470" y2="110"/>
+    <line x1="290" y1="390" x2="290" y2="430"/><line x1="350" y1="390" x2="350" y2="430"/><line x1="410" y1="390" x2="410" y2="430"/><line x1="470" y1="390" x2="470" y2="430"/>
+    <line x1="260" y1="190" x2="220" y2="190"/><line x1="260" y1="250" x2="220" y2="250"/><line x1="260" y1="310" x2="220" y2="310"/><line x1="260" y1="360" x2="220" y2="360"/>
+    <line x1="500" y1="190" x2="540" y2="190"/><line x1="500" y1="250" x2="540" y2="250"/><line x1="500" y1="310" x2="540" y2="310"/><line x1="500" y1="360" x2="540" y2="360"/>
+  </g>
+  <rect x="260" y="150" width="240" height="240" rx="14" fill="#12263a" stroke="#7fa6c4" stroke-width="5"/>
+  <rect x="320" y="210" width="120" height="120" rx="6" fill="#1d3a55"/>
+  <g transform="rotate(-28 470 240)">
+    <rect x="300" y="222" width="330" height="26" rx="10" fill="#c8875a"/>
+    <rect x="600" y="175" width="70" height="120" rx="14" fill="#d6e6f2"/>
+    <rect x="592" y="195" width="86" height="14" rx="5" fill="#c8875a"/>
+    <rect x="592" y="261" width="86" height="14" rx="5" fill="#c8875a"/>
+  </g>
+</svg>

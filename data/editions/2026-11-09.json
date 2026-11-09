@@ -1,0 +1,1305 @@
+{
+  "date": "2026-11-09",
+  "number": 23,
+  "cutoff": "2026-11-09T12:15:00Z",
+  "cutoffLabel": "6:15 AM CT",
+  "opening": "Russia and Ukraine traded heavy long-range strikes on the eve of talks in Abu Dhabi. A gunman killed six people in Kraków, Gadi Eisenkot began trying to form Israel’s government, Qatar took Iran mediation to the White House, and the COP31 climate summit opened in Türkiye.",
+  "leadStoryId": "ukraine-abu-dhabi-talks-eve-strikes",
+  "stories": [
+    {
+      "id": "ukraine-abu-dhabi-talks-eve-strikes",
+      "section": "world",
+      "title": "On the eve of US-brokered talks in Abu Dhabi, Russia sends 317 drones at Ukraine and Ukrainian drones set a refinery near St Petersburg on fire",
+      "category": "Conflict & diplomacy",
+      "region": "Europe · Ukraine, Russia",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-07 / 2026-11-09",
+      "body": "Russia launched 317 drones at Ukraine overnight, 105 of them jet-powered, Ukraine’s air force said, and Russia’s defence ministry said it hit electrical substations in four regions, including around Kyiv. Ukrainian drones started a fire at the KINEF refinery near St Petersburg, more than 1,200 kilometres from the border. The strikes came a day before two days of US-mediated talks in Abu Dhabi on security guarantees. Moscow is sending a more senior team led by Vladimir Medinsky; Rustem Umerov leads Ukraine’s. France says European officials will attend, which Moscow disputes.",
+      "whatChanged": "Russia named a more senior delegation, France said Europeans would be in Abu Dhabi despite Moscow’s objections, and both sides stepped up long-range strikes a day before the talks.",
+      "whyMatters": "These are the first three-way talks since February, and higher-ranking teams and an agenda on security guarantees suggest a more serious round, while attacks on power grids and refineries will shape how both countries get through the winter.",
+      "uncertainty": "Moscow says European officials will not take part while France says they will; President Trump’s claim that the two sides are very close has not been echoed by either government; damage from the overnight strikes was still being assessed.",
+      "watchNext": "The opening of talks on Tuesday, November 10, whether European officials are in the room, and a possible meeting of Trump, Vladimir Putin and Xi Jinping at the APEC summit in Shenzhen on November 18 and 19.",
+      "keyFacts": [
+        "Russia launched 317 drones overnight into November 9, 105 of them jet-powered, per Ukraine’s air force",
+        "Ukraine’s air force said it downed 276 drones and five missiles, with hits recorded at 31 locations",
+        "Russian attacks injured 28 people across Ukraine over the past day, the Kyiv Independent reported",
+        "The Abu Dhabi talks run over two days from Tuesday, November 10",
+        "Russia’s team is led by Vladimir Medinsky and includes deputy foreign ministers Sergei Ryabkov and Mikhail Galuzin"
+      ],
+      "report": [
+        {
+          "heading": "The overnight strikes",
+          "paragraphs": [
+            "Ukraine’s air force said Russia launched 317 drones of various types overnight into Monday, 105 of them jet-powered, along with missiles, and that air defences brought down 276 drones and five missiles. Hits were recorded at 31 locations, the Kyiv Independent reported. Russia’s defence ministry said it struck four electrical substations in the Kyiv, Dnipropetrovsk, Cherkasy and Vinnytsia regions, describing the campaign in terms that the Associated Press said amounted to denying Ukrainians heat, light and water before winter. Over the past day Russian attacks injured 28 people across six regions, with the most in Kharkiv.",
+            "Ukrainian long-range drones set fire to the KINEF refinery, one of Russia’s largest, near St Petersburg, the Leningrad region’s governor, Alexander Drozdenko, confirmed. President Volodymyr Zelensky said the European Union had agreed to trigger an emergency mechanism to speed up money for repairing Ukraine’s power grid."
+          ]
+        },
+        {
+          "heading": "Who is going to Abu Dhabi",
+          "paragraphs": [
+            "The talks, mediated by the United States, are due to run over two days from Tuesday and will cover security guarantees. The last three-way round, in Geneva in February, made no significant progress. Ukrainska Pravda, citing Bloomberg and the Kremlin, reported that Russia’s delegation will be led by Putin’s aide Vladimir Medinsky and include the deputy foreign ministers Sergei Ryabkov and Mikhail Galuzin and the military intelligence chief Igor Kostyukov. Ukraine’s team is led by Rustem Umerov and includes Kyrylo Budanov."
+          ]
+        },
+        {
+          "heading": "Europe’s place and Trump’s claims",
+          "paragraphs": [
+            "France’s foreign minister, Jean-Noël Barrot, told RTL radio on Sunday that Europeans would be represented and that France would take part, AFP reported, while Moscow has said European officials will not join. In a television interview aired on Sunday, Trump said Moscow and Kyiv were very close to a deal and that Ukraine would have a slightly different shape afterwards, without explaining. He also said he would likely meet Putin and Xi Jinping at the APEC summit in China later this month."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Ukraine and western Russia",
+        "bounds": [
+          22,
+          44,
+          42,
+          61
+        ],
+        "countries": [
+          "804",
+          "643"
+        ],
+        "labels": [
+          {
+            "label": "Black Sea",
+            "lon": 31.5,
+            "lat": 44.6,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Finland",
+            "lon": 26.5,
+            "lat": 59.9,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map with Ukraine and Russia highlighted. Markers show Kyiv, whose surrounding region was among those where Russia says it hit substations, and Kirishi near St Petersburg, site of the KINEF refinery set on fire by Ukrainian drones.",
+        "caption": "Ukraine and Russia highlighted for context · markers are approximate reporting locations"
+      },
+      "locations": [
+        {
+          "label": "Kyiv",
+          "lon": 30.52,
+          "lat": 50.45
+        },
+        {
+          "label": "KINEF refinery, Kirishi",
+          "mapLabel": "Kirishi",
+          "lon": 32.02,
+          "lat": 59.45
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "WSLS (Associated Press)",
+          "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
+          "url": "https://www.wsls.com/news/world/2026/11/09/a-day-before-us-brokered-talks-russia-and-ukraine-batter-each-other-with-long-range-strikes/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Russian attacks injure 28 across Ukraine over past day, as Russia continues strikes on energy infrastructure",
+          "url": "https://kyivindependent.com/russian-attacks-injure-28-across-ukraine-over-past-day-as-russia-continues-strikes-on-energy-infrastructure/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Yahoo News (Ukrainska Pravda)",
+          "title": "Russia is sending higher-level delegation to Abu Dhabi, Bloomberg says",
+          "url": "https://www.yahoo.com/news/politics/articles/russia-sending-higher-level-delegation-204800783.html",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Kyiv Post (AFP)",
+          "title": "France Confirms European Role at Abu Dhabi Talks",
+          "url": "https://www.kyivpost.com/post/89489",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting (AFP)"
+        },
+        {
+          "publisher": "Arab News (AFP)",
+          "title": "Trump says likely to meet Putin, Xi in China",
+          "url": "https://arabnews.com/world/trump-says-likely-to-meet-putin-xi-in-china-3010654",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting (AFP)"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+    },
+    {
+      "id": "krakow-main-square-shooting",
+      "section": "world",
+      "title": "A gunman with far-right views kills six people in Kraków’s Main Square after police say he killed his parents and sister",
+      "category": "Security",
+      "region": "Europe · Poland",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-07 / 2026-11-09",
+      "body": "A 24-year-old Polish man opened fire in the Main Square of Kraków’s old town on Saturday afternoon, killing six people, four of them Polish, one British and one from another foreign country, and wounding about 15. Police shot and wounded him, and he died in hospital early on Monday, police said. The bodies of his mother, father and sister were found at the family home in Ostrowiec Świętokrzyski. Prosecutors are treating the attack as a terrorist offence, and Poland held two days of national mourning.",
+      "whatChanged": "The suspect died in hospital on Monday, prosecutors said they were preparing murder charges that could cover all nine deaths, and officials described him as holding very radical, ultranationalist views.",
+      "whyMatters": "Mass shootings are rare in Poland, and an attack in one of Europe’s busiest tourist squares by a man officials describe as far-right will test how the country and its neighbours handle legal gun ownership and political extremism.",
+      "uncertainty": "The suspect has not been officially named and his motive has not been set out in detail; investigators had not formally confirmed that he killed his family; the nationality of one foreign victim was not given.",
+      "watchNext": "The prosecutors’ account of the investigation now that the suspect has died, the condition of the wounded police officer in a coma, and any proposals to tighten rules on legally held guns.",
+      "keyFacts": [
+        "Six people were killed and about 15 wounded in Kraków’s Main Square on Saturday, November 7",
+        "The 24-year-old suspect died in hospital early on Monday, November 9, police said",
+        "His parents and sister were found dead at the family home in Ostrowiec Świętokrzyski",
+        "Eleven weapons were recovered; his father legally owned more than ten guns, officials said",
+        "Poland held national mourning on November 8 and 9"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "The gunman opened fire on Saturday afternoon in the Main Square, the centre of Kraków’s old town and one of the most visited places in Poland. Six people were killed: four women and two men. Four were Polish, one was a man from the United Kingdom and one was a woman from another country that officials did not name, the Associated Press reported. About 15 people were wounded. Two police officers who stopped the attacker were taken to hospital; one remained in a coma, according to the region’s governor, Krzysztof Jan Klęczar, who praised their intervention.",
+            "Police shot and wounded the suspect. Polish police said on Monday that he had died in hospital early that morning, ABC News reported."
+          ]
+        },
+        {
+          "heading": "The suspect and the investigation",
+          "paragraphs": [
+            "Investigators found the bodies of the suspect’s mother, father and sister at the family home in Ostrowiec Świętokrzyski, about 150 kilometres north-east of Kraków; they had probably been shot. The interior minister, Marcin Kierwiński, said the man held very radical, ultranationalist views and was fascinated by far-right ideologies. His father legally owned more than ten guns and he also owned guns, the governor said; 11 weapons were recovered from the home, his car and his person.",
+            "Prosecutors opened a case covering murder and attempted murder, including of police officers, and said the acts amounted to a terrorist offence. A prosecutor told ABC News that six murder charges were being prepared, which could rise to nine if investigators confirmed he killed his family."
+          ]
+        },
+        {
+          "heading": "Mourning",
+          "paragraphs": [
+            "Poland began two days of national mourning on Sunday. The hourly trumpet call from St Mary’s Basilica, which overlooks the square, was paused overnight, the first time it had been missed since the Second World War, and flags were lowered at the European Commission in Brussels."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Kraków and Ostrowiec Świętokrzyski",
+        "bounds": [
+          13.5,
+          48.8,
+          24.5,
+          55
+        ],
+        "countries": [
+          "616"
+        ],
+        "labels": [
+          {
+            "label": "Baltic Sea",
+            "lon": 17.5,
+            "lat": 54.85,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Poland, highlighted. Markers show Kraków, where the shooting took place in the Main Square, and Ostrowiec Świętokrzyski, where the suspect’s family were found dead.",
+        "caption": "Poland highlighted for context · markers are approximate reporting locations"
+      },
+      "locations": [
+        {
+          "label": "Kraków",
+          "lon": 19.94,
+          "lat": 50.06
+        },
+        {
+          "label": "Ostrowiec Świętokrzyski",
+          "mapLabel": "Ostrowiec",
+          "lon": 21.39,
+          "lat": 50.93
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "CBS News (Associated Press)",
+          "title": "Poland mourns victims of Krakow mass shooting as terrorism probe launched",
+          "url": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting (AP)"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "Suspect in deadly Poland shooting dies in hospital, police say",
+          "url": "https://abcnews.com/International/suspect-deadly-poland-shooting-dies-hospital-police/story?id=137966778",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "poland-krakow-shooting",
+      "threadTitle": "The Kraków shooting",
+      "threadSummary": "The November 2026 mass shooting in Kraków’s Main Square, which prosecutors are treating as terrorism, and its aftermath."
+    },
+    {
+      "id": "eisenkot-coalition-bid",
+      "section": "world",
+      "title": "Gadi Eisenkot formally takes on the task of forming Israel’s government and invites Netanyahu’s Likud to join him",
+      "category": "Politics",
+      "region": "Middle East · Israel",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-07 / 2026-11-08",
+      "body": "President Isaac Herzog formally handed Gadi Eisenkot the mandate on Sunday, giving him 28 days to try to form a government. Parties with 67 of the 120 seats recommended him, but that count includes Arab-led parties that several of his potential partners refuse to sit with. Eisenkot called for a national emergency government and invited Likud and the Religious Zionist party to join under his leadership. Benjamin Netanyahu, in a video, urged a unity government of what he called the national camp instead.",
+      "whatChanged": "The mandate became formal, and both men are now competing to build a unity government, each on his own terms and each looking to the ultra-Orthodox parties.",
+      "whyMatters": "Whether Israel gets a new prime minister for the first time since 2022 will shape its approach to the war with Iran, Gaza and relations with Washington, and the arithmetic leaves no easy path to 61 seats.",
+      "uncertainty": "Reports differ on whether Eisenkot would rely on outside support from Arab-led parties for a minority government; the ultra-Orthodox parties have not committed; reports describe the deadline as 28 days, with longer totals cited if extensions are granted.",
+      "watchNext": "Talks between Eisenkot and United Torah Judaism and Shas, whether Avigdor Liberman’s refusal to depend on Arab parties holds, and any move by Likud lawmakers toward a unity deal.",
+      "keyFacts": [
+        "Herzog formally tasked Eisenkot on Sunday, November 8",
+        "Parties with 67 seats recommended Eisenkot and parties with 46 recommended Netanyahu",
+        "Eisenkot has 28 days to form a government, AFP reported",
+        "A Knesset majority is 61 of 120 seats",
+        "Eisenkot is a former military chief of staff and would be Israel’s first Sephardic prime minister"
+      ],
+      "report": [
+        {
+          "heading": "The mandate",
+          "paragraphs": [
+            "At a ceremony at the president’s office on Sunday, Eisenkot accepted the task of forming a government and said Israel needed a national emergency government, describing the country as approaching a point of no return. Parties holding 67 seats recommended him and parties holding 46 recommended Netanyahu, AFP reported, but the 67 includes Arab-led parties, which won a record number of seats and which several parties in his camp will not govern with.",
+            "Eisenkot invited Likud and Bezalel Smotrich’s Religious Zionist party to join a unity government under his leadership, saying his door was open; Al Jazeera reported that he left open a role for Netanyahu himself. AFP reported that he appears open to starting with a minority government relying on outside votes, while Al Jazeera reported him ruling out work with Arab-led parties."
+          ]
+        },
+        {
+          "heading": "Netanyahu’s answer",
+          "paragraphs": [
+            "In a recorded video on Saturday evening, Netanyahu called for a national unity government made up of the parties of what he calls the national camp, and argued that a government depending on Arab parties would not fight Hamas, Ynet reported. Eisenkot’s Yashar party accused him of hypocrisy and invited Likud members to join a government led by Eisenkot without what it called extremists, the Times of Israel reported."
+          ]
+        },
+        {
+          "heading": "The kingmakers",
+          "paragraphs": [
+            "United Torah Judaism recommended no candidate and its officials told Ynet they expected Shas to follow if they reached agreement with Eisenkot; Shas has so far stayed with Netanyahu. Avigdor Liberman says he will not back a government that depends on Arab parties but has become open to the ultra-Orthodox parties, AFP reported, despite his long campaign for universal military service."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Who lawmakers recommended",
+        "measure": "Members of the 120-seat Knesset whose parties recommended each candidate to President Herzog",
+        "unit": "lawmakers",
+        "values": [
+          {
+            "label": "Gadi Eisenkot",
+            "value": 67
+          },
+          {
+            "label": "Benjamin Netanyahu",
+            "value": 46
+          }
+        ],
+        "alt": "Bar chart: parties with 67 lawmakers recommended Gadi Eisenkot and parties with 46 recommended Benjamin Netanyahu. The 67 includes Arab-led parties. A majority is 61 of 120.",
+        "caption": "Recommendations to the president, as reported by AFP · the remaining seven lawmakers recommended no one · 61 of 120 is a majority",
+        "sourceUrl": "https://www.onmanorama.com/news/world/2026/11/09/eisenkot-seeks-unlikely-alliances-to-form-israel-govt-reaches-out-to-netanyahu-s-camp.html"
+      },
+      "sources": [
+        {
+          "publisher": "Onmanorama (AFP)",
+          "title": "Eisenkot seeks unlikely alliances to form Israel govt, reaches out to Netanyahu's camp",
+          "url": "https://www.onmanorama.com/news/world/2026/11/09/eisenkot-seeks-unlikely-alliances-to-form-israel-govt-reaches-out-to-netanyahu-s-camp.html",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting (AFP)"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Eisenkot open to Netanyahu joining Israel's next government",
+          "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Ynet",
+          "title": "'This is a time for unity': Netanyahu renews coalition appeal as Eisenkot courts Haredi parties",
+          "url": "https://www.ynetnews.com/article/b1l00njp6mg",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Yashar accuses Netanyahu of hypocrisy for urging unity government, invites 'Likud and its members' to join coalition led by Eisenkot 'without extremists'",
+          "url": "https://www.timesofisrael.com/liveblog_entry/yashar-accuses-netanyahu-of-hypocrisy-for-urging-unity-government-invites-him-to-join-coalition-led-by-eisenkot-without-extremists/",
+          "publishedAt": "2026-11-07",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel’s October 2026 general election and the effort to form a government afterwards."
+    },
+    {
+      "id": "qatar-white-house-iran-khor-mor",
+      "section": "world",
+      "title": "Qatar’s prime minister heads to the White House on Iran, as a drone strike on a gas field cuts most of Iraqi Kurdistan’s electricity",
+      "category": "Conflict & diplomacy",
+      "region": "Middle East · Iran, Iraq, Qatar",
+      "regions": [
+        "middle-east",
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-07 / 2026-11-09",
+      "body": "President Trump is due to meet Qatar’s prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, on Monday to discuss a ceasefire with Iran and a return to nuclear talks. Secretary of State Marco Rubio said on Sunday that Iran’s conditions were unacceptable and no breakthrough was close, while Iran’s foreign minister said its own proposal stood. Late on Sunday a drone struck the Khor Mor gas field in northern Iraq, halting production and cutting the Kurdistan region’s power supply by roughly three-quarters. Nobody has claimed the attack.",
+      "whatChanged": "Mediation moved to the White House while both sides hardened their public positions, and the war’s attacks on energy sites reached Iraq’s main Kurdish gas field.",
+      "whyMatters": "Qatar is the main channel between Washington and Tehran, and continued attacks on gas fields, tankers and oil sites keep energy supplies and prices at risk across the Gulf and beyond.",
+      "uncertainty": "Responsibility for the Khor Mor strike is unknown; Iran’s claims of tankers hitting mines near Hormuz have not been independently confirmed; the outcome of Monday’s meeting is not known.",
+      "watchNext": "What comes out of the White House meeting, Iran’s formal response to the Qatari plan, Iraq’s investigation into the Khor Mor attack, and further incidents in the Strait of Hormuz.",
+      "keyFacts": [
+        "Trump meets Qatar’s prime minister at the White House on Monday, November 9",
+        "A drone hit the Khor Mor gas field’s liquefied gas unit at about 11 PM local time on November 8",
+        "Kurdistan’s grid fell from more than 3,700 megawatts to about 1,000, according to reports",
+        "A tanker was struck by an unknown projectile in the Strait of Hormuz on November 7, the UK maritime agency said",
+        "Brent crude fell toward 97 dollars a barrel on Monday after its biggest weekly drop since 2020"
+      ],
+      "report": [
+        {
+          "heading": "Diplomacy moves to Washington",
+          "paragraphs": [
+            "The White House schedule showed Trump meeting Qatar’s prime minister on Monday, with a new ceasefire and a resumption of nuclear talks on the agenda, ANI reported. Before leaving for a meeting of G7 foreign ministers in Paris, Rubio said there had been little progress and called some of Iran’s conditions unacceptable, according to ABC News. Iran’s foreign minister, Abbas Araghchi, said Tehran’s own proposal still stood and required an end to the war on all fronts. Trump told CNN that new strikes were highly unlikely if talks progressed."
+          ]
+        },
+        {
+          "heading": "The Khor Mor attack",
+          "paragraphs": [
+            "A drone struck the liquefied petroleum gas unit at the Khor Mor field in Sulaimani province late on Sunday, starting a large fire that was later put out, Al Jazeera reported. The operator, Dana Gas, said no staff were hurt and production remained suspended, according to Kurdistan24. Because the field feeds the region’s power stations, supply in the Kurdistan region fell from more than 3,700 megawatts to around 1,000, cutting electricity to Erbil, Sulaimani and Duhok. Iraq’s prime minister ordered a joint investigation; no group has claimed the attack."
+          ]
+        },
+        {
+          "heading": "At sea and in the markets",
+          "paragraphs": [
+            "The UK Maritime Trade Operations centre said an outbound tanker was hit by an unknown projectile in the Strait of Hormuz on Saturday, with the crew safe, Iran International reported. Iran’s Revolutionary Guards claimed that tankers using what they called unauthorised routes had struck mines; those claims have not been confirmed. Brent crude slipped toward 97 dollars a barrel on Monday, Nairametrics reported, after falling more than 16 percent last week on hopes for diplomacy."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Iraq, Iran and the Gulf",
+        "bounds": [
+          38,
+          22,
+          62,
+          39
+        ],
+        "countries": [
+          "368",
+          "364",
+          "634"
+        ],
+        "labels": [
+          {
+            "label": "Persian Gulf",
+            "lon": 50.5,
+            "lat": 27.6,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Oman",
+            "lon": 59.8,
+            "lat": 23.6,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map with Iraq, Iran and Qatar highlighted. A marker shows Chamchamal in northern Iraq, near the Khor Mor gas field hit by a drone.",
+        "caption": "Iraq, Iran and Qatar highlighted for context · marker is an approximate reporting location"
+      },
+      "locations": [
+        {
+          "label": "Chamchamal, near the Khor Mor gas field",
+          "mapLabel": "Khor Mor area",
+          "lon": 44.83,
+          "lat": 35.53
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "ANI",
+          "title": "Trump to meet Qatar's Prime Minister today as Iran diplomacy faces hurdles",
+          "url": "https://www.aninews.in/news/world/us/trump-to-meet-qatars-prime-minister-today-as-iran-diplomacy-faces-hurdles20261109120949/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "Iran live updates: Americans are tired of 'Forever Wars,' Araghchi says",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
+          "publishedAt": "2026-11-09",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Drone attack suspends production at Iraq's Khor Mor gasfield",
+          "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Kurdistan24",
+          "title": "Dana Gas Confirms Khor Mor Drone Attack, Production Remains Suspended",
+          "url": "https://www.kurdistan24.net/en/story/951712/dana-gas-confirms-khor-mor-drone-attack-production-remains-suspended",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Iran International",
+          "title": "Tanker struck by unknown projectile in Strait of Hormuz, UKMTO says",
+          "url": "https://www.iranintl.com/en/202611083609",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Nairametrics",
+          "title": "Oil prices extend biggest weekly decline since 2020 as Brent falls towards $97",
+          "url": "https://nairametrics.com/2026/11/09/oil-prices-extend-biggest-weekly-decline-since-2020-as-brent-falls-towards-97/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+    },
+    {
+      "id": "cop31-opens-antalya",
+      "section": "world",
+      "title": "The COP31 climate summit opens in Türkiye late and split over money, with no officials sent by the Trump administration",
+      "category": "Climate",
+      "region": "Europe · Türkiye",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-09",
+      "body": "The UN climate conference opened in Antalya on Monday an hour and a half late, after negotiators argued into Sunday night over developing countries’ demands to put climate finance on the agenda. UN Secretary-General António Guterres told delegates the world had entered a new age of climate extremes. Türkiye is inviting countries to a voluntary pledge to raise electricity’s share of energy demand from about a fifth to 35 percent by 2035. Organisers say leaders from 102 countries have confirmed attendance; the Trump administration sent no officials.",
+      "whatChanged": "Two weeks of talks began with a dispute over finance already delaying the opening, and with a fossil-fuel roadmap left off the formal agenda.",
+      "whyMatters": "Current national pledges put the world on course for about 2.6 degrees of warming, and poorer countries say the money they need to adapt is a fraction of what they receive.",
+      "uncertainty": "It was not clear at the opening whether the full agenda had been adopted, and the number of leaders who will actually travel to Antalya has not been confirmed.",
+      "watchNext": "The leaders’ summit on November 11 and 12, how many countries join the electrification pledge, and how finance for adaptation is handled before the talks close on November 20.",
+      "keyFacts": [
+        "COP31 runs in Antalya from November 9 to November 20, 2026",
+        "Organisers say leaders from 102 countries had confirmed as of November 9",
+        "The voluntary target is electricity at 35 percent of final energy use by 2035, from about 20 percent",
+        "The UN Environment Programme estimates current pledges point to about 2.6 degrees Celsius of warming",
+        "Developing countries need about 305 billion dollars a year for adaptation by 2035, the UN estimates; developed countries provided roughly 28 to 32 billion in 2024"
+      ],
+      "report": [
+        {
+          "heading": "A late start",
+          "paragraphs": [
+            "The opening ceremony at the Antalya expo centre began 90 minutes behind schedule without explanation, AFP reported, after talks late on Sunday over developing countries’ push to add finance items to the agenda. Greenpeace’s delegation head said developed countries had taken a hard line on a platform agreed last year for discussing how rich countries pay for poorer ones’ climate action. A source told AFP that a climate finance work programme would be included, but that African countries’ call to triple adaptation finance would be discussed under other items rather than separately. A senior EU official warned there was no political will for new funding pledges.",
+            "Guterres urged leaders to cut emissions faster, speed a just transition from fossil fuels and deliver finance to vulnerable countries. The COP31 president, Türkiye’s environment minister Murat Kurum, said delay carried one of the heaviest costs in climate action. Australia leads the negotiations under an arrangement that settled a dispute over hosting."
+          ]
+        },
+        {
+          "heading": "What is on the table",
+          "paragraphs": [
+            "The Turkish presidency’s main proposal is a set of voluntary targets: raising electricity to 35 percent of final energy use by 2035, cutting the energy intensity of buildings by at least a quarter, and raising circular use of materials, The Rio Times reported. The EU wants electrification to be clean, which could cause friction over oil, gas and coal. A roadmap for moving away from fossil fuels, promised after COP30 ended without explicit language on them, has stalled and is not formally on the agenda.",
+            "The UN Environment Programme’s latest reports estimate that fully implemented pledges would lead to about 2.6 degrees of warming this century, and that developing countries need around 305 billion dollars a year for adaptation by 2035."
+          ]
+        },
+        {
+          "heading": "Who is coming",
+          "paragraphs": [
+            "Organisers say heads of state or government from 102 countries had confirmed by Monday, with leaders due on November 11 and 12. Brazil’s President Lula was due to arrive late on Monday. The Trump administration has not sent officials, though a US congressional delegation is attending."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Antalya, Türkiye",
+        "bounds": [
+          24,
+          34,
+          46,
+          43.5
+        ],
+        "countries": [
+          "792"
+        ],
+        "labels": [
+          {
+            "label": "Mediterranean Sea",
+            "lon": 29.5,
+            "lat": 34.8,
+            "kind": "water"
+          },
+          {
+            "label": "Black Sea",
+            "lon": 34.5,
+            "lat": 43,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Türkiye, highlighted, with a marker at Antalya on the Mediterranean coast, where the COP31 climate conference opened.",
+        "caption": "Türkiye highlighted · marker shows the host city"
+      },
+      "locations": [
+        {
+          "label": "Antalya",
+          "lon": 30.71,
+          "lat": 36.9
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Malay Mail (AFP)",
+          "title": "'Get serious': COP31 opens in Antalya with leaders under pressure to tackle climate crisis",
+          "url": "https://www.malaymail.com/news/world/2026/11/09/get-serious-cop31-opens-in-antalya-with-leaders-under-pressure-to-tackle-climate-crisis/242615",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting (AFP)"
+        },
+        {
+          "publisher": "The Rio Times",
+          "title": "Turkey Opens UN Climate Talks, Leaders Next",
+          "url": "https://www.riotimesonline.com/turkey-opens-un-climate-talks-leaders-next",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "cop31-climate-summit",
+      "threadTitle": "The COP31 climate summit",
+      "threadSummary": "The UN’s 2026 climate conference in Antalya, Türkiye, and the negotiations on emissions, energy and climate finance."
+    },
+    {
+      "id": "asia-markets-rebound-taiwan",
+      "section": "more",
+      "title": "Taiwan’s stock market jumps nearly 5 percent after new limits on short selling, while Seoul slips again",
+      "category": "Markets",
+      "region": "Asia · Taiwan, Japan, South Korea",
+      "regions": [
+        "asia"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-09",
+      "whatChanged": "The first trading day after Taiwan’s rescue measures brought a sharp rebound in Taipei and Tokyo, but foreign investors kept selling in South Korea.",
+      "body": "Taiwan’s main index closed up 4.98 percent at 41,680 after regulators cut the share of trading that can be borrowed-share short sales and raised margin requirements, and a state stabilisation fund was cleared to buy. Japan’s Nikkei rose about 2.4 percent after its worst week since 2020. South Korea’s KOSPI ended 0.75 percent lower at 5,022 as foreign investors sold about 865 billion won of shares. The rout last week was driven by fears that the AI building boom will slow.",
+      "sources": [
+        {
+          "publisher": "Startup Fortune",
+          "title": "Taiwan stocks jump as regulators curb short selling and deploy a stabilization fund",
+          "url": "https://startupfortune.com/taiwan-stocks-jump-as-regulators-curb-short-selling-and-deploy-a-stabilization-fund/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "MarketScreener (Reuters)",
+          "title": "Japan's Nikkei rebounds from bear market as tech stocks recover",
+          "url": "https://www.marketscreener.com/news/japan-s-nikkei-rebounds-from-bear-market-as-tech-stocks-recover-ce785fd3d88cfe27",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting (Reuters)"
+        },
+        {
+          "publisher": "Aju Press",
+          "title": "KOSPI barely holds above 5,000 amid heavy foreign selling",
+          "url": "https://www.ajupress.com/view/20261109164834275",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Asian stock markets climb after earlier tech rout",
+          "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ai-capital-spending",
+      "threadTitle": "The AI infrastructure buildout",
+      "threadSummary": "The spending race on data centres and chips for AI, and its effects on markets, energy and economies."
+    },
+    {
+      "id": "congress-lame-duck-hegseth",
+      "section": "more",
+      "title": "Congress returns for its last weeks before the new majority, with a push to impeach Pete Hegseth and a December 11 funding deadline",
+      "category": "US politics",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-09",
+      "whatChanged": "Lawmakers are back in Washington, and Stephen Miller starts on Monday as White House chief of staff.",
+      "body": "Thomas Massie, a Republican, is expected to reintroduce a privileged resolution with eight articles of impeachment against the defense secretary as soon as Monday, which could force a vote this week; President Trump says Hegseth stays. Government funding runs out after December 11 with no deal, and House and Senate Republicans hold leadership elections on Tuesday. Stephen Miller replaces Susie Wiles as chief of staff from Monday.",
+      "sources": [
+        {
+          "publisher": "WEIS Radio (ABC Audio)",
+          "title": "Congress returns for crowded lame-duck session as Hegseth impeachment, government funding deadline loom",
+          "url": "https://weisradio.com/2026/11/09/congress-returns-for-crowded-lame-duck-session-as-hegseth-impeachment-government-funding-deadline-loom/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Fox News",
+          "title": "Congress returns to brutal lame-duck stretch with shutdown deadline, leadership races",
+          "url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Trump installs Stephen Miller as White House chief of staff, replacing Susie Wiles",
+          "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "trump-administration-turnover",
+      "threadTitle": "Turnover in Trump’s administration",
+      "threadSummary": "Departures, dismissals and challenges to senior officials in President Trump’s second administration."
+    },
+    {
+      "id": "new-zealand-election-special-votes",
+      "section": "more",
+      "title": "New Zealand faces weeks of uncertainty, with about 400,000 special votes to count before results on November 27",
+      "category": "Elections",
+      "region": "Oceania · New Zealand",
+      "regions": [
+        "oceania"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-08 / 2026-11-09",
+      "whatChanged": "Seat projections show Christopher Luxon’s coalition one seat over a majority, but special votes, which have tended to favour the left, could still change that.",
+      "body": "On preliminary results National has 42 seats and Labour 36, and the governing coalition with ACT and New Zealand First holds 67, one more than needed in a 131-seat parliament. About 400,000 special votes remain, with the official result due on November 27. The Opportunity party, with about 6 percent, says it will talk first to National, and former prime minister Helen Clark called the result possibly flawed because of the overhang seats it relies on.",
+      "sources": [
+        {
+          "publisher": "Taipei Times (AP/AFP)",
+          "title": "New Zealand election result unclear",
+          "url": "https://www.taipeitimes.com/News/world/archives/2026/11/09/2003867424",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "1News",
+          "title": "Coalition talks: Kiwis warned of 'fairly frustrating time' ahead",
+          "url": "https://www.1news.co.nz/2026/11/08/coalition-talks-kiwis-warned-of-fairly-frustrating-time-ahead/",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "1News (AAP)",
+          "title": "Election possibly 'flawed', Helen Clark says",
+          "url": "https://1news.co.nz/2026/11/08/election-possibly-flawed-helen-clark-says",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "new-zealand-election-2026",
+      "threadTitle": "New Zealand’s 2026 election",
+      "threadSummary": "New Zealand’s November 2026 general election and the formation of its next government."
+    },
+    {
+      "id": "anc-coalition-talks-metros",
+      "section": "more",
+      "title": "South Africa’s ANC says it is in no hurry to form local coalitions after final results put it at 30.7 percent",
+      "category": "Politics",
+      "region": "Africa · South Africa",
+      "regions": [
+        "africa"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-08 / 2026-11-09",
+      "whatChanged": "Final figures confirmed the Democratic Alliance won Cape Town outright, and the ANC’s leaders begin meeting on Monday to decide whether to bargain or go into opposition.",
+      "body": "The ANC finished on 30.7 percent nationally and the Democratic Alliance on 24.2 percent, with the DA winning Cape Town outright, the only metro with a majority, TimesLIVE reported. The ANC’s national working committee meets on Monday and its national executive on Thursday; secretary-general Fikile Mbalula said the party would not rush into coalitions and could sit in opposition. The ANC has begun preliminary talks with ActionSA.",
+      "sources": [
+        {
+          "publisher": "TimesLIVE (Business Day)",
+          "title": "ANC faces tough coalition talks after election setback",
+          "url": "https://www.timeslive.co.za/politics/elections-2026/2026-11-09-anc-faces-tough-coalition-talks-after-election-setback/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "south-africa-politics",
+      "threadTitle": "South Africa's politics",
+      "threadSummary": "South Africa’s governing coalition, its 2026 local elections and the struggles of the ANC."
+    },
+    {
+      "id": "pena-house-searched-ueno",
+      "section": "more",
+      "title": "Paraguayan prosecutors search the house of the detained former president Santiago Peña",
+      "category": "Justice",
+      "region": "Latin America · Paraguay",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-08",
+      "whatChanged": "Investigators searched the San Bernardino house they say was partly financed with a loan from the collapsed Ueno Bank.",
+      "body": "Prosecutors and police searched Peña’s house in San Bernardino on Sunday evening; they say Ueno lent him about 600,000 dollars toward it in 2024, and have not said what was seized. Peña remains in pretrial detention, and prosecutors estimate the bank’s collapse caused about 810 million dollars in losses. From Monday the central bank begins paying savers who also owe Ueno money, net of their debts.",
+      "sources": [
+        {
+          "publisher": "Infobae",
+          "title": "Crisis en Paraguay: la Fiscalía ordenó allanar la vivienda de Santiago Peña en la ciudad de San Bernardino",
+          "url": "https://www.infobae.com/america/america-latina/2026/11/08/crisis-en-paraguay-la-fiscalia-ordeno-allanar-la-vivienda-de-santiago-pena-en-la-ciudad-de-san-bernardino/",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "La Prensa (EFE)",
+          "title": "Peña permanece en prisión preventiva mientras Paraguay da paso a nuevo Gobierno",
+          "url": "https://www.laprensa.hn/mundo/santiago-pena-permanece-prision-preventiva-paraguay-nuevo-gobierno-ID32576680",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting (EFE)"
+        }
+      ],
+      "threadId": "paraguay-ueno-bank-crisis",
+      "threadTitle": "Paraguay’s bank collapse",
+      "threadSummary": "The collapse of Paraguay’s Ueno Bank, the removal of President Santiago Peña and the fallout for savers and politics."
+    },
+    {
+      "id": "pope-leo-argentina-visit",
+      "section": "more",
+      "title": "Pope Leo XIV arrives in Argentina, the first papal visit there since 1987, and tells President Milei the economy must serve people",
+      "category": "Religion",
+      "region": "Latin America · Argentina, Uruguay",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-08 / 2026-11-09",
+      "whatChanged": "The pope moved on from Uruguay to Buenos Aires, where he met Javier Milei privately and holds a mass on Monday.",
+      "body": "Leo XIV landed in Buenos Aires on Sunday and met Milei at the Casa Rosada, then said in a speech that the economy should serve the person and not the other way round, without naming the president. He had closed his visit to Uruguay with a mass for about 30,000 people. Monday is a national holiday in Argentina for the papal mass; he visits Córdoba on Tuesday before leaving for Lima on Wednesday.",
+      "sources": [
+        {
+          "publisher": "InfoVaticana",
+          "title": "León XIV llega a Buenos Aires y es recibido por Milei",
+          "url": "https://infovaticana.com/2026/11/09/leon-xiv-llega-buenos-aires-milei/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "MCN",
+          "title": "León XIV a Milei: «La economía debe estar al servicio de las personas»",
+          "url": "https://mcn-comglobal.com/leon-xiv-milei-economia-servicio-personas/",
+          "publishedAt": "2026-11-09",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "MercoPress",
+          "title": "Leo XIV leaves Uruguay urging Catholics to reach out to 'those who have drifted away'",
+          "url": "https://en.mercopress.com/2026/11/08/leo-xiv-leaves-uruguay-urging-catholics-to-reach-out-to-those-who-have-drifted-away",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "pope-leo-latin-america-2026",
+      "threadTitle": "Pope Leo XIV in South America",
+      "threadSummary": "Pope Leo XIV’s November 2026 journey through Uruguay, Argentina and Peru."
+    },
+    {
+      "id": "zeus-ziltivekimab-neutral",
+      "section": "frontiers",
+      "field": "Medicine",
+      "title": "A drug that sharply lowered inflammation did not prevent heart attacks, strokes or deaths in a major trial",
+      "category": "Cardiology trial",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-07",
+      "hook": "A clear negative result: hitting the biological target was not enough for patients this sick, though inflammation remains a plausible target earlier in disease.",
+      "body": "In the ZEUS trial of 6,376 people with heart disease, chronic kidney disease and high inflammation, monthly injections of Novo Nordisk’s ziltivekimab cut the inflammatory markers hs-CRP by 64 percent and IL-6 by 76 percent. Yet heart attacks, strokes and cardiovascular deaths were almost identical: 561 events on the drug against 565 on placebo. Serious infections were slightly more common on the drug. The results were presented at the American Heart Association’s meeting in Chicago and published in the New England Journal of Medicine.",
+      "whatChanged": "Full peer-reviewed results confirmed that the IL-6 blocker gave no protection, despite doing what it was designed to do to inflammation.",
+      "whyMatters": "Inflammation has been a leading new target in heart disease, and this was the largest test of blocking IL-6; its failure narrows where the approach may work.",
+      "uncertainty": "Participants had advanced disease and kidney damage, with about twice the death rate of similar trials, so the result may not apply to healthier patients; the trial was funded by the drug’s maker.",
+      "watchNext": "Planned trials of IL-6 blockade in earlier-stage disease and of drugs acting further upstream on the NLRP3 inflammasome.",
+      "keyFacts": [
+        "6,376 participants at 757 sites in 38 countries, followed for a median of about 29 months",
+        "561 major cardiovascular events on ziltivekimab versus 565 on placebo",
+        "hs-CRP fell 64 percent and IL-6 fell 76 percent on the drug",
+        "Serious infections: 20 percent on the drug versus 18 percent on placebo",
+        "Published in the New England Journal of Medicine on November 7, 2026"
+      ],
+      "report": [
+        {
+          "heading": "The trial",
+          "paragraphs": [
+            "ZEUS was a phase 3, double-blind trial comparing monthly 15-milligram injections of ziltivekimab, an antibody that blocks interleukin-6, with placebo on top of usual care. It enrolled 6,376 adults with atherosclerotic heart disease, significant chronic kidney disease and high-sensitivity C-reactive protein of at least 2 milligrams per litre, from 2021 to 2024. Their average age was 69, almost all already took cholesterol-lowering drugs, two-thirds had type 2 diabetes and 42 percent had heart failure."
+          ]
+        },
+        {
+          "heading": "What it found",
+          "paragraphs": [
+            "The main outcome, a combination of heart attack, stroke and cardiovascular death, occurred 561 times in the ziltivekimab group and 565 times on placebo, a difference that was not significant. Deaths from any cause were 538 and 542. The drug did its biological job, lowering hs-CRP by 64 percent and IL-6 by 76 percent, but that did not translate into fewer events. Overall side effects were similar, though serious infections were somewhat more frequent on the drug, at 20 percent against 18 percent.",
+            "More than 6 percent of participants died during the trial, roughly double the rate in comparable studies of patients without severe kidney disease, according to the American Heart Association."
+          ]
+        },
+        {
+          "heading": "What researchers make of it",
+          "paragraphs": [
+            "The lead author, Paul Ridker of Harvard Medical School and Mass General Brigham, cautioned against over-reading the result and called it too little, too late for such a sick population. He pointed out that other anti-inflammatory drugs, canakinumab and low-dose colchicine, have reduced heart attacks and strokes in earlier trials. STAT reported that cardiologists still intend to pursue anti-inflammatory treatments. Next steps include testing IL-6 blockade earlier in the course of disease. The study was funded by Novo Nordisk."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-09/zeus-ziltivekimab-neutral.svg",
+        "alt": "A gauge with its needle turned far down beside a heart whose pulse line is unchanged, standing for a drug that cut inflammation sharply without reducing heart attacks or strokes.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "American Heart Association Newsroom",
+          "title": "Researchers say inflammation as a treatment target still important despite neutral results of ZEUS trial",
+          "url": "https://newsroom.heart.org/news/researchers-say-inflammation-as-a-treatment-target-still-important-despite-neutral-results-of-zeus-trial",
+          "publishedAt": "2026-11-07",
+          "kind": "Primary (conference release)"
+        },
+        {
+          "publisher": "STAT",
+          "title": "Despite Novo drug's failure, cardiologists say they will still pursue anti-inflammatories",
+          "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "heart-disease-prevention",
+      "threadTitle": "Preventing heart disease",
+      "threadSummary": "Trials and treatments aimed at preventing heart attacks and strokes."
+    },
+    {
+      "id": "doj-super-intelligence-task-force",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "The US Justice Department sets up a task force to coordinate AI prosecutions and lawsuits, and to challenge state AI laws",
+      "category": "AI policy",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-05",
+      "hook": "An organisational change rather than new law, but it puts one office in charge of both prosecuting AI misuse and fighting state rules on AI.",
+      "body": "The Justice Department has created what it calls the Super Intelligence Task Force, under an October 13 memo from Attorney General Todd Blanche. Co-chaired by two senior deputies, it will coordinate criminal and civil cases involving AI misuse by foreign states, criminal groups and companies, recommend enforcement priorities and write prosecution guidance. It absorbs the department’s AI Litigation Task Force, set up in January to challenge state AI laws. The name follows a September executive order telling agencies to say super intelligence instead of artificial intelligence.",
+      "whatChanged": "AI enforcement at the Justice Department, including its campaign against state AI laws, now runs through one dedicated body.",
+      "whyMatters": "How federal prosecutors treat AI-enabled fraud and foreign misuse, and how hard Washington pushes against state regulation, will shape the legal ground for AI companies and users.",
+      "uncertainty": "The department has not described the task force’s staff, budget or timetable for guidance, nor which state laws it will target; it creates no new crimes.",
+      "watchNext": "The first prosecution guidance, any new lawsuits against state AI laws, and how the task force works with the White House’s Super Intelligence Force led by the intelligence director, Jay Clayton.",
+      "keyFacts": [
+        "Announced on Thursday, November 5, 2026, under an October 13 memo from Attorney General Todd Blanche",
+        "Co-chaired by Associate Attorney General Stanley Woodward and Associate Deputy Attorney General Stephen Weiss",
+        "Absorbs the AI Litigation Task Force created in January 2026",
+        "Serves as the department’s point of contact with the White House Super Intelligence Force"
+      ],
+      "report": [
+        {
+          "heading": "What the department announced",
+          "paragraphs": [
+            "The new body, known as DOJ-SITF, was set up by a memo from Blanche dated October 13 and announced on November 5, Government Executive reported. Blanche wrote that it would ensure American leadership in what the administration now calls super intelligence is not compromised by its misuse. Its jobs are to organise the department’s criminal and civil enforcement involving AI, recommend priorities, draft guidance for prosecuting unlawful AI-related conduct, and coordinate the department’s own lawsuits on AI.",
+            "It takes over the work of the AI Litigation Task Force, created in January under Blanche’s predecessor, Pam Bondi, to challenge state AI laws seen as conflicting with federal policy."
+          ]
+        },
+        {
+          "heading": "Two different jobs",
+          "paragraphs": [
+            "Analysts at The Neuron noted that the task force combines policing misuse, such as fraud and foreign operations, with an agenda to promote American dominance in AI, including by contesting state regulation. They reported that prosecutors may have to notify the task force before opening AI-related cases, with exceptions for emergencies. The task force is also the department’s link to the White House Super Intelligence Force, which coordinates government dealings with AI companies."
+          ]
+        },
+        {
+          "heading": "The name",
+          "paragraphs": [
+            "The wording follows an executive order in late September directing agencies to use super intelligence in place of artificial intelligence. Government Executive pointed out that the term already has a separate, established meaning: systems that far exceed human intelligence, which is not what the department is describing."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-09/doj-super-intelligence-task-force.svg",
+        "alt": "A judge’s gavel resting across a computer chip, standing for the Justice Department taking charge of legal cases involving AI.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Government Executive (Nextgov/FCW)",
+          "title": "Justice Department creates new task force to police AI misuse",
+          "url": "https://www.govexec.com/technology/2026/11/department-justice-forms-ai-task-force/417075/",
+          "publishedAt": "2026-11-06",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Neuron",
+          "title": "Trump's New Super Intelligence Task Force Has Two Very Different Jobs",
+          "url": "https://www.theneuron.ai/news/doj-super-intelligence-task-force-explained/",
+          "publishedAt": "2026-11-06",
+          "kind": "Analysis"
+        }
+      ],
+      "threadId": "ai-accountability",
+      "threadTitle": "AI and the law",
+      "threadSummary": "How courts, regulators and prosecutors are applying the law to artificial intelligence."
+    },
+    {
+      "id": "gaza-floods-tents",
+      "section": "still",
+      "title": "Winter rain floods tens of thousands of tents in Gaza, and a collapsing sand bank kills five people, four of them children",
+      "category": "Humanitarian",
+      "region": "Middle East · Gaza",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-08",
+      "body": "Heavy rain on Sunday caused a sand mound to collapse onto tents in Deir el-Balah, in central Gaza, killing five people including four children, Al Jazeera reported. Gaza’s government media office said about 70,000 tents were flooded and nearly 400,000 displaced people live in flood-prone areas. Save the Children said shelter supplies were held up at the crossings because Israel was not letting them in. Separately, an Israeli drone strike west of Khan Younis killed two people on Sunday evening, according to the Palestinian news agency WAFA.",
+      "whatChanged": "The first heavy winter storm turned the shortage of shelter into deaths, more than a year after the October 2025 ceasefire.",
+      "whyMatters": "Most of Gaza’s population is still living in tents and damaged buildings, so each winter storm brings new risks while aid for shelter remains restricted.",
+      "uncertainty": "Flood figures come from Gaza’s Hamas-run authorities and could not be independently verified; Israel had not commented on the claim that shelter aid was being held back.",
+      "watchNext": "Further storms forecast this winter, whether tents and shelter materials are allowed in at the crossings, and continuing deaths from strikes despite the ceasefire.",
+      "keyFacts": [
+        "Five people, four of them children, were killed in Deir el-Balah on November 8",
+        "About 70,000 tents flooded, according to Gaza’s government media office",
+        "Nearly 400,000 displaced people live in flood-prone areas, the office said",
+        "Al Jazeera reports more than 1,600 people killed in Gaza since the October 2025 ceasefire"
+      ],
+      "report": [
+        {
+          "heading": "The storm",
+          "paragraphs": [
+            "Heavy rain on Sunday brought a mound of sand down onto tents sheltering displaced families in Deir el-Balah, killing five people, four of them children, Al Jazeera and The New Arab reported. Across the territory, water flooded camps of makeshift shelters. Gaza’s government media office estimated that about 70,000 tents were flooded and that nearly 400,000 displaced people live in areas at risk of flooding. The water left tens of thousands of people without dry shelter across the territory, Al Jazeera reported."
+          ]
+        },
+        {
+          "heading": "Shelter held back",
+          "paragraphs": [
+            "Save the Children said supplies to protect families from the weather were stuck at the border because Israel was blocking their entry, Al Jazeera reported. Israel has not publicly responded to that claim. Aid groups have warned for months that most families in Gaza face the winter in tents or damaged buildings."
+          ]
+        },
+        {
+          "heading": "Strikes continue",
+          "paragraphs": [
+            "On Sunday evening an Israeli drone strike near the Taiba Towers, west of Khan Younis, killed two people, including a woman, according to WAFA, which said several other people were wounded in the same attack. Al Jazeera, citing Gaza’s health authorities, puts the death toll since the October 2025 ceasefire above 1,600, and the total since the war began in 2023 above 74,600. These figures come from authorities in Gaza and could not be independently verified."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Four children among five killed in Gaza floods",
+          "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The New Arab",
+          "title": "Five killed in Gaza after storm collapses sand mound onto tents",
+          "url": "https://www.newarab.com/news/five-killed-gaza-after-storm-collapses-sand-mound-tents",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "WAFA",
+          "title": "Two killed, including woman, others injured in Israeli bombardment of Gaza's Khan Yunis city",
+          "url": "https://english.wafa.ps/Pages/Details/176738",
+          "publishedAt": "2026-11-08",
+          "kind": "Reporting (Palestinian state news agency)"
+        }
+      ],
+      "threadId": "gaza-humanitarian",
+      "threadTitle": "Gaza's humanitarian situation",
+      "threadSummary": "Conditions for civilians in Gaza, aid access and the effects of the war and ceasefire."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Talks in Abu Dhabi",
+      "text": "US-mediated talks between Russian and Ukrainian delegations open in Abu Dhabi on Tuesday, November 10, and run for two days."
+    },
+    {
+      "title": "Senate counts",
+      "text": "Tuesday, November 10, is the last day for mail ballots to arrive in Mississippi’s Senate race, and Alaska releases new batches of ballots on Monday and Tuesday."
+    },
+    {
+      "title": "Leaders at COP31",
+      "text": "World leaders address the COP31 climate summit in Antalya on Wednesday and Thursday, November 11 and 12."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Congress returned for its final weeks before the new majority takes over, with a push to impeach Pete Hegseth and a December funding deadline, as Stephen Miller became White House chief of staff. The Justice Department set up an AI task force.",
+      "briefs": [
+        {
+          "title": "Alaska’s Senate count resumes with Mary Peltola narrowly ahead",
+          "text": "The Democrat Mary Peltola led Republican Senator Dan Sullivan by 637 votes, 48.2 percent to 47.9 percent, with about three-quarters counted, the latest Associated Press figures show. New batches of ballots were due on Monday and Tuesday, and ranked-choice tabulation begins on November 18 if no one passes 50 percent.",
+          "eventDate": "2026-11-06 / 2026-11-09",
+          "sources": [
+            {
+              "publisher": "Democracy Docket",
+              "title": "New data suggests Peltola likely to win Alaska, voters not confused by 2 Dan Sullivans",
+              "url": "https://www.democracydocket.com/news-alerts/new-data-suggests-peltola-likely-to-win-alaska-voters-not-confused-by-2-dan-sullivans/",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "ABC News",
+              "title": "Election 2026 live updates: Trump says US took 'giant step back' through midterms",
+              "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085&amp=&entryId=137954883",
+              "publishedAt": "2026-11-08",
+              "kind": "Live reporting"
+            }
+          ]
+        },
+        {
+          "title": "Canada’s budget adds 11.2 billion dollars for defence but does not price the NATO target",
+          "text": "Prime Minister Mark Carney’s 2026 budget includes 142 billion Canadian dollars in new spending, CTV News reported. The Hub found that it adds 11.2 billion for defence but leaves the cost of reaching NATO’s 2035 spending target unstated.",
+          "eventDate": "2026-11-05 / 2026-11-07",
+          "sources": [
+            {
+              "publisher": "CTV News",
+              "title": "Carney government unveils $142B plan to boost economy, affordability in Budget 2026",
+              "url": "https://www.ctvnews.ca/politics/article/carney-government-adds-142b-in-new-spending-to-spur-economic-growth-address-affordability/",
+              "publishedAt": "2026-11-05",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "The Hub",
+              "title": "Carney budget adds $11.2 billion to defence but leaves 2035 NATO target unpriced",
+              "url": "https://thehub.ca/2026/11/07/carney-budget-adds-11-2-billion-to-defence-but-leaves-2035-nato-target-unpriced",
+              "publishedAt": "2026-11-07",
+              "kind": "Analysis"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Paraguayan prosecutors searched the detained former president’s house, and Pope Leo XIV began a visit to Argentina. Mexico arrested an alleged cartel commander and Brazil’s president promised fiscal discipline.",
+      "briefs": [
+        {
+          "title": "Mexico arrests an alleged commander of the Jalisco cartel",
+          "text": "Mexican forces arrested Rafael Álvarez, alleged head of a Jalisco New Generation cartel cell, in Zapopan on Sunday, using US intelligence, Al Jazeera reported. He was wounded in a shootout and 19 other people were detained. Security Minister Omar García Harfuch linked him to at least 19 killings, and he faces a US extradition request.",
+          "eventDate": "2026-11-08",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Mexico arrests alleged major leader of Jalisco cartel",
+              "url": "https://aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel",
+              "publishedAt": "2026-11-09",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Lula promises to keep Brazil’s fiscal rules in a national broadcast",
+          "text": "In a broadcast on Sunday night, President Luiz Inácio Lula da Silva pledged fiscal responsibility and adherence to the spending rules, Agência Brasil reported. He also said he would propose a public security ministry and free weekend public transport. Brazil’s electoral court is examining a complaint against his re-election ticket.",
+          "eventDate": "2026-11-08",
+          "sources": [
+            {
+              "publisher": "Agência Brasil",
+              "title": "Lula se compromete com responsabilidade fiscal e busca conciliação",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-busca-conciliacao-e-se-compromete-com-responsabilidade-fiscal",
+              "publishedAt": "2026-11-08",
+              "kind": "Reporting (state news agency)"
+            }
+          ]
+        },
+        {
+          "title": "Cuba’s president rejects new US sanctions",
+          "text": "Miguel Díaz-Canel said Cuba would not be made to yield after Secretary of State Marco Rubio announced sanctions on eight entities, two people and five ships, including Chinese firms accused of supplying the Cuban military.",
+          "eventDate": "2026-11-05 / 2026-11-08",
+          "sources": [
+            {
+              "publisher": "CubaHeadlines",
+              "title": "Cuban Leader Díaz-Canel Defies Rubio's Sanctions: 'We Will Not Be Defeated!'",
+              "url": "https://cubaheadlines.com/articles/345136",
+              "publishedAt": "2026-11-08",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Poland mourned six people killed in a shooting in Kraków, Russia and Ukraine traded long-range strikes before talks in Abu Dhabi, and the COP31 climate summit opened in Türkiye.",
+      "briefs": [
+        {
+          "title": "G7 foreign ministers meet in Paris on Ukraine and Iran",
+          "text": "Foreign ministers from the Group of Seven meet in Paris on Monday and Tuesday after the venue was moved from Marseille, with Ukraine, the Middle East, Hormuz and energy security on the agenda, France’s foreign ministry said. Marco Rubio said there had been progress on Ukraine’s post-war security arrangements but no breakthrough on Iran, the Associated Press reported. France has signalled there will be no joint communiqué.",
+          "eventDate": "2026-11-09 / 2026-11-10",
+          "sources": [
+            {
+              "publisher": "France Diplomatie",
+              "title": "Priorities of the G7 Foreign Ministers' Meeting in Paris",
+              "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/quelles-priorites-pour-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris",
+              "publishedAt": "2026-11-06",
+              "kind": "Primary"
+            },
+            {
+              "publisher": "ABC News (Associated Press)",
+              "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+              "url": "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
+              "publishedAt": "2026-11-09",
+              "kind": "Reporting (AP)"
+            },
+            {
+              "publisher": "Kuwait Times (AFP)",
+              "title": "G7 ministers meet in Paris on Ukraine, Iran",
+              "url": "https://kuwaittimes.com/article/53278/world/g7-ministers-meet-in-paris-on-ukraine-iran/",
+              "publishedAt": "2026-11-09",
+              "kind": "Reporting (AFP)"
+            }
+          ]
+        },
+        {
+          "title": "Donors meet in Paris to fund repairs to Chernobyl’s protective dome",
+          "text": "France’s finance ministry hosts a donor conference on Monday for the shelter over the damaged Chernobyl reactor, AFP reported. About 500 million euros is needed and just over half has been raised.",
+          "eventDate": "2026-11-09",
+          "sources": [
+            {
+              "publisher": "Kuwait Times (AFP)",
+              "title": "G7 ministers meet in Paris on Ukraine, Iran",
+              "url": "https://kuwaittimes.com/article/53278/world/g7-ministers-meet-in-paris-on-ukraine-iran/",
+              "publishedAt": "2026-11-09",
+              "kind": "Reporting (AFP)"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "South Africa’s ANC began weighing coalition talks after its worst local result, and at least 21 people died when a migrant boat sank off Senegal. Ebola keeps spreading in eastern Congo.",
+      "briefs": [
+        {
+          "title": "At least 21 people die as a boat capsizes off Senegal",
+          "text": "A wooden boat capsized on Saturday off the coast of Kébémer department in northern Senegal, killing at least 21 people, with one survivor rescued, Al Jazeera reported. The toll was provisional and the search was continuing.",
+          "eventDate": "2026-11-07 / 2026-11-08",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "At least 21 dead as small boat sinks off Senegal",
+              "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal",
+              "publishedAt": "2026-11-08",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Armed attack in Ebola-hit North Kivu kills at least 33",
+          "text": "Fighters of the ADF armed group killed at least 33 people in Cantine, about 50 kilometres west of Beni, burning more than 50 houses and a health post, Al Jazeera reported. About 180 patients fled, including suspected Ebola cases and one confirmed case. WHO’s latest count, to November 3, is 10,668 confirmed cases and 5,198 deaths in Congo.",
+          "eventDate": "2026-11-05 / 2026-11-06",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
+              "url": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "World Health Organization",
+              "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Kenya and Nigeria",
+              "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
+              "publishedAt": "2026-11-06",
+              "kind": "Primary"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Gadi Eisenkot began trying to form Israel’s government, Qatar took its Iran mediation to the White House, a drone cut most of Iraqi Kurdistan’s power, and winter floods killed five people in Gaza.",
+      "briefs": [
+        {
+          "title": "Syria prepares to send special forces to Saudi Arabia",
+          "text": "About 600 Syrian special forces fighters are expected to deploy to Saudi Arabia within a week, a Syrian official told the Associated Press, as fighting between the Saudi-led coalition and the Houthis escalates. Saudi Arabia has agreed to lend Syria more than 400 million dollars for reconstruction. Syria’s state news agency denied that its forces were headed to Yemen.",
+          "eventDate": "2026-11-08",
+          "sources": [
+            {
+              "publisher": "WSLS (Associated Press)",
+              "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
+              "url": "https://www.wsls.com/news/world/2026/11/08/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates/",
+              "publishedAt": "2026-11-08",
+              "kind": "Reporting (AP)"
+            }
+          ]
+        },
+        {
+          "title": "Israeli shelling and demolitions continue in southern Lebanon",
+          "text": "Lebanon’s national news agency reported Israeli artillery fire on several villages in the south on Sunday and demolitions in Bani Hayan, with no casualties reported, Prensa Latina said. Lebanon’s health ministry puts the toll since March 2 at 4,390 dead.",
+          "eventDate": "2026-11-08",
+          "sources": [
+            {
+              "publisher": "Prensa Latina",
+              "title": "Israel bombs towns and demolishes buildings in southern Lebanon",
+              "url": "https://www.plenglish.com/news/2026/11/08/israel-bombs-towns-and-demolishes-buildings-in-southern-lebanon/",
+              "publishedAt": "2026-11-08",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "Taiwan’s stock market rebounded sharply after new curbs on short selling, Japan’s also rose, and South Korea’s slipped. Malaysia’s dispute over Najib Razak’s house arrest went to the king.",
+      "briefs": [
+        {
+          "title": "Malaysia’s attorney general seeks an audience with the king over Najib",
+          "text": "Prime Minister Anwar Ibrahim said the attorney general would seek an audience with the king to clarify the order moving Najib Razak to house arrest, Malay Mail reported. The palace said the decree was clear and must be respected; the attorney general’s office says it is not defying the king but faces conflicting legal readings of Najib’s sentences.",
+          "eventDate": "2026-11-07",
+          "sources": [
+            {
+              "publisher": "Malay Mail",
+              "title": "AG seeks audience with King to clarify Najib's house arrest issue, says Anwar",
+              "url": "https://www.malaymail.com/news/malaysia/2026/11/07/ag-seeks-audience-with-king-to-clarify-najibs-house-arrest-issue-says-anwar/242375",
+              "publishedAt": "2026-11-07",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Malay Mail",
+              "title": "Istana Negara says King's decree on Najib's house arrest is clear, must be respected",
+              "url": "https://www.malaymail.com/news/malaysia/2026/11/07/istana-negara-says-kings-order-on-najibs-house-arrest-is-clear-must-be-respected/242312",
+              "publishedAt": "2026-11-07",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Indonesia names a fourth suspect in a plot to tap the president’s communications",
+          "text": "Indonesian police named a fourth suspect in the alleged scheme to intercept President Prabowo Subianto’s communications, Al Jazeera reported. A former national police chief was among three officers arrested on November 3, in a case that reflects tension between Prabowo and his predecessor, Joko Widodo.",
+          "eventDate": "2026-11-03 / 2026-11-06",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Indonesia names fourth wiretapping suspect as political intrigue deepens",
+              "url": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "New Zealand’s election result will not be final until November 27, and Vanuatu’s prime minister survived after a no-confidence motion was withdrawn.",
+      "briefs": [
+        {
+          "title": "No-confidence motion against Vanuatu’s prime minister is withdrawn",
+          "text": "Vanuatu’s opposition withdrew its no-confidence motion against Prime Minister Jotham Napat on Monday before it came to a vote, RNZ Pacific reported. The motion had cited the sharing of ministerial posts and alleged misuse of government investment funds; the government said the opposition had no valid grounds.",
+          "eventDate": "2026-11-09",
+          "sources": [
+            {
+              "publisher": "Scoop (RNZ Pacific)",
+              "title": "'Coalition United': No-Confidence Motion Against Vanuatu PM Napat Withdrawn Before Vote",
+              "url": "https://www.scoop.co.nz/stories/WO2611/S00068/coalition-united-no-confidence-motion-against-vanuatu-pm-napat-withdrawn-before-vote.htm",
+              "publishedAt": "2026-11-09",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Taiwan closes its office in Papua New Guinea and blames China",
+          "text": "Taiwan said it would close its representative office in Port Moresby, blaming pressure from Beijing, and halt spot purchases of liquefied natural gas from Papua New Guinea as well as medical and scholarship programmes, Al Jazeera reported.",
+          "eventDate": "2026-11-06",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+              "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china",
+              "publishedAt": "2026-11-06",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

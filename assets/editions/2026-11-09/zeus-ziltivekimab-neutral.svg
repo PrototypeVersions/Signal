@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A gauge whose needle has been turned far down beside a heart with a flat, unchanged pulse line">
+  <rect width="800" height="500" fill="#09131d"/>
+  <path d="M110 330 A150 150 0 0 1 410 330" fill="none" stroke="#1d3a55" stroke-width="26" stroke-linecap="round"/>
+  <path d="M110 330 A150 150 0 0 1 170 210" fill="none" stroke="#c8875a" stroke-width="26" stroke-linecap="round"/>
+  <line x1="260" y1="330" x2="160" y2="268" stroke="#d6e6f2" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="260" cy="330" r="16" fill="#d6e6f2"/>
+  <path d="M600 400 C520 340 450 290 450 225 C450 180 485 150 525 150 C560 150 585 172 600 198 C615 172 640 150 675 150 C715 150 750 180 750 225 C750 290 680 340 600 400 Z" fill="#12263a" stroke="#7fa6c4" stroke-width="5"/>
+  <path d="M470 255 H545 L560 230 L575 280 L590 255 H730" fill="none" stroke="#d6e6f2" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="440" y1="440" x2="760" y2="440" stroke="#1d3a55" stroke-width="3"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A magnifying glass held over a computer chip">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g stroke="#7fa6c4" stroke-width="5" stroke-linecap="round">
+    <line x1="270" y1="140" x2="270" y2="100"/><line x1="320" y1="140" x2="320" y2="100"/><line x1="370" y1="140" x2="370" y2="100"/><line x1="420" y1="140" x2="420" y2="100"/>
+    <line x1="270" y1="380" x2="270" y2="420"/><line x1="320" y1="380" x2="320" y2="420"/><line x1="370" y1="380" x2="370" y2="420"/><line x1="420" y1="380" x2="420" y2="420"/>
+    <line x1="230" y1="180" x2="190" y2="180"/><line x1="230" y1="230" x2="190" y2="230"/><line x1="230" y1="290" x2="190" y2="290"/><line x1="230" y1="340" x2="190" y2="340"/>
+    <line x1="460" y1="180" x2="500" y2="180"/><line x1="460" y1="230" x2="500" y2="230"/><line x1="460" y1="290" x2="500" y2="290"/><line x1="460" y1="340" x2="500" y2="340"/>
+  </g>
+  <rect x="230" y="140" width="230" height="240" rx="14" fill="#12263a" stroke="#7fa6c4" stroke-width="5"/>
+  <rect x="285" y="200" width="120" height="120" rx="6" fill="#1d3a55"/>
+  <g stroke="#2c4f6e" stroke-width="3">
+    <line x1="305" y1="220" x2="385" y2="220"/><line x1="305" y1="245" x2="385" y2="245"/><line x1="305" y1="270" x2="385" y2="270"/><line x1="305" y1="295" x2="385" y2="295"/>
+  </g>
+  <circle cx="420" cy="230" r="105" fill="#d6e6f2" fill-opacity="0.10" stroke="#d6e6f2" stroke-width="12"/>
+  <circle cx="420" cy="230" r="88" fill="none" stroke="#c8875a" stroke-width="3" stroke-opacity="0.7"/>
+  <line x1="496" y1="306" x2="600" y2="410" stroke="#c8875a" stroke-width="30" stroke-linecap="round"/>
+  <line x1="496" y1="306" x2="520" y2="330" stroke="#d6e6f2" stroke-width="14" stroke-linecap="round"/>
+</svg>

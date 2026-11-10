@@ -1,0 +1,1310 @@
+{
+ "date": "2026-11-10",
+ "number": 24,
+ "cutoff": "2026-11-10T12:30:00Z",
+ "cutoffLabel": "6:30 AM CT",
+ "opening": "Russia, Ukraine and the United States opened their first three-way talks since February in Abu Dhabi. Trump called the Iran war effectively over and questioned the midterm results, Israel’s new parliament is sworn in, and scientists projected a slight fall in fossil fuel emissions.",
+ "leadStoryId": "abu-dhabi-talks-open",
+ "stories": [
+  {
+   "id": "abu-dhabi-talks-open",
+   "section": "world",
+   "title": "Russia, Ukraine and the United States open their first three-way talks since February in Abu Dhabi, with security guarantees at the top of the agenda",
+   "category": "Conflict & diplomacy",
+   "region": "Europe · Ukraine, Russia · Middle East · UAE",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-10",
+   "body": "Delegations from Russia, Ukraine and the United States began two days of talks in Abu Dhabi on Tuesday, their first three-way meeting since February. The White House says the focus is future security guarantees for Ukraine, and an unnamed US official said both sides had privately shown some flexibility on a possible exchange of territory. Jared Kushner and Steve Witkoff are mediating. Ukraine’s team first met officials from Britain, France, Germany, Italy, NATO and the European Commission, while the Kremlin insists Europeans stay outside the talks. Overnight, Russia launched 162 drones and a ballistic missile at Ukraine.",
+   "whatChanged": "The talks opened on schedule, European officials met the Ukrainian side on the margins rather than joining the three-way format, and a US official said both sides had privately signalled some give on territory.",
+   "whyMatters": "Diplomacy stalled after the United States went to war with Iran in February. Guarantees against a future invasion are Kyiv’s central demand, so progress here would be the first real step towards any settlement, and Europe’s place in that settlement is now openly contested.",
+   "uncertainty": "In public the two sides remain far apart: Moscow wants all of the Donbas and Kyiv refuses to give up land. The talk of private flexibility comes from an unnamed official. Russia rejects a general ceasefire, and European officials say the US approach may be too accommodating to Moscow.",
+   "watchNext": "The second day of talks on Wednesday, November 11, any joint statement or prisoner exchange, a separate track on wider European security that Washington has proposed, and the APEC summit in Shenzhen on November 18 and 19.",
+   "keyFacts": [
+    "The talks run on November 10 and 11, the first three-way round since Geneva on February 18",
+    "Jared Kushner and Steve Witkoff mediate; Vladimir Medinsky leads Russia’s team and Rustem Umerov Ukraine’s",
+    "Russia launched 162 drones and a ballistic missile overnight, Ukraine’s air force said",
+    "Russia occupies roughly 20 percent of Ukraine, including Crimea",
+    "Germany’s foreign minister told G7 colleagues in Paris that there can be no solution without Europe"
+   ],
+   "report": [
+    {
+     "heading": "The talks open",
+     "paragraphs": [
+      "The three delegations met in the capital of the United Arab Emirates on Tuesday for a session due to last two days, Ukrainian state media and Russia’s RIA Novosti reported. Earlier rounds this year, in January and February, produced no significant breakthrough, and the process stalled after the United States launched its war on Iran. Since then Witkoff and Kushner have met Vladimir Putin and Volodymyr Zelensky separately.",
+      "A US official said on Monday that the talks would cover security guarantees and then a long-term security arrangement between Russia and Europe, run as parallel tracks so progress on one could help the other. Kushner wrote that the mediators were working for a lasting negotiated peace and had some good ideas for bridging differences. NATO’s commander, General Alexus Grynkewich, pointed to progress in contacts between the two militaries."
+     ]
+    },
+    {
+     "heading": "Who is at the table",
+     "paragraphs": [
+      "Ukraine’s team is led by Rustem Umerov and reportedly includes Kyrylo Budanov, Sergiy Kyslytsya and Davyd Arakhamia. Russia’s is led by Putin’s aide Vladimir Medinsky, with the deputy foreign ministers Sergei Ryabkov and Mikhail Galuzin, the military intelligence chief Igor Kostyukov and Yuri Zhigarlovsky of the General Staff.",
+      "Umerov said the day began with a meeting involving Britain, France, Germany, Italy, NATO and the European Commission. The Kremlin spokesman, Dmitry Peskov, said Europeans would not take part because the format was agreed as three-way, though Russia has said EU representatives could join later. Germany’s chancellor, Friedrich Merz, said he did not have overly high expectations."
+     ]
+    },
+    {
+     "heading": "The gaps",
+     "paragraphs": [
+      "Putin wants Ukraine to withdraw from four regions Moscow claims but has not fully captured, drop its bid for NATO and accept limits on its armed forces; he wants a comprehensive deal rather than a ceasefire. Zelensky rejects giving up territory and wants an immediate ceasefire and a meeting with Putin. In his nightly address he said battlefield gains and long-range strikes on Russian oil sites had strengthened Ukraine’s hand. An unnamed US official said guarantees could include a defence commitment modelled on NATO’s Article 5, with any land deal coming last. Marco Rubio said the process still had a way to go."
+     ]
+    },
+    {
+     "heading": "Europe pushes back",
+     "paragraphs": [
+      "At a G7 foreign ministers’ meeting in Paris that overlaps with the talks, Germany’s Johann Wadephul said there was no need to redraw Europe’s security architecture and urged Moscow to drop maximalist demands. Ukraine’s foreign minister, Andrii Sybiha, was due to join a session on Tuesday, saying no one could decide Ukraine’s fate without it."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "From Kyiv to Abu Dhabi",
+    "bounds": [
+     22,
+     20,
+     60,
+     56
+    ],
+    "countries": [
+     "804",
+     "643",
+     "784"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.3,
+      "kind": "water"
+     },
+     {
+      "label": "Persian Gulf",
+      "lon": 51,
+      "lat": 27.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map with Ukraine, Russia and the United Arab Emirates highlighted. Markers show Kyiv and Abu Dhabi, where the three-way talks are being held.",
+    "caption": "Ukraine, Russia and the UAE highlighted for context · markers are approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Abu Dhabi",
+     "lon": 54.37,
+     "lat": 24.45
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "CP24 (Associated Press)",
+     "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+     "url": "https://www.cp24.com/news/world/2026/11/10/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AP)"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
+     "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The National",
+     "title": "Russia and Ukraine security-focused talks start in Abu Dhabi",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Russia, Ukraine and US officials hold talks in Abu Dhabi",
+     "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera (AFP, Reuters)",
+     "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
+     "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AFP, Reuters)"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+  },
+  {
+   "id": "trump-iran-war-effectively-over",
+   "section": "world",
+   "title": "Trump calls the Iran war effectively over after meeting Qatar’s prime minister, as Tehran denies talks are planned and missiles are fired at Riyadh",
+   "category": "Conflict & diplomacy",
+   "region": "Middle East · Iran, Qatar, Saudi Arabia",
+   "regions": [
+    "middle-east",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09 / 2026-11-10",
+   "body": "After White House talks with Qatar’s prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, President Trump said the war with Iran was militarily all but over and that new US strikes were quite unlikely, while the naval blockade of Iranian ports stays in place. Iran’s security chief, Mohsen Rezaei, dismissed talk of negotiations as fake news and told Washington to accept Iran’s seven conditions. On Tuesday Saudi Arabia said it intercepted two missiles over Riyadh and a third aimed at the south, a day after a strike set a small fire on its East-West oil pipeline.",
+   "whatChanged": "Washington signalled it would hold off on new strikes and keep squeezing Iran with the blockade instead, while Tehran publicly rejected the idea that talks were close.",
+   "whyMatters": "A pause in US strikes lowers the immediate risk of escalation and pushed oil prices down, but with shipping through Hormuz still restricted and Iran’s demands unchanged, the blockade and the war in Yemen keep hitting Gulf energy supplies.",
+   "uncertainty": "Trump later said he had not meant the war would necessarily end soon, and Marco Rubio called Iran’s demands unrealistic. A reported meeting next week between JD Vance and Rezaei in Qatar was denied by Iran. The United States has not acknowledged overnight strikes that Iranian officials reported on Qeshm Island.",
+   "watchNext": "Qatar’s briefing to European ministers and Saudi Arabia at the G7 in Paris on Tuesday, whether any meeting between Vance and Rezaei takes place, and further Houthi attacks on Saudi oil sites.",
+   "keyFacts": [
+    "Trump met Sheikh Mohammed and Vice President JD Vance at the White House on Monday, November 9",
+    "Trump said new strikes were quite unlikely but that the US remained ready to act",
+    "Brent crude fell to about 92 dollars a barrel on Monday",
+    "Saudi Arabia says it downed a ballistic missile and a cruise missile over Riyadh and a second ballistic missile over the south on Tuesday",
+    "Iran’s conditions include lifting sanctions, freeing frozen funds and recognising a Hormuz shipping route agreed with Oman"
+   ],
+   "report": [
+    {
+     "heading": "At the White House",
+     "paragraphs": [
+      "The meeting was Trump’s first with a foreign leader since Republicans lost both houses of Congress. Afterwards he said Iran was effectively finished militarily and described the present position, a US naval blockade plus a newly announced effort called Task Force Iron Gate to cut Iran’s trade by land and across the Caspian Sea, as a status quo that Gulf states preferred to renewed strikes. He said Iran must never have a nuclear weapon and predicted the conflict would end fairly soon, then clarified that he did not mean it would necessarily end soon.",
+      "Sheikh Mohammed called the talks excellent and said they covered ways to advance negotiations between Washington and Tehran; reports said he carried an Iranian proposal to end the war. The Financial Times reported that Arab leaders have urged Trump to put negotiations first, and that Israel’s caretaker prime minister, Benjamin Netanyahu, favours renewed military action, which an Israeli source denied was being pressed in a coordinated way."
+     ]
+    },
+    {
+     "heading": "Tehran’s answer",
+     "paragraphs": [
+      "Rezaei, secretary of Iran’s Supreme National Security Council, wrote that the United States was flailing and should stop inventing news about talks. Foreign Minister Abbas Araghchi denied any meeting was being planned, after media citing Turkey’s intelligence chief reported that Qatar would host Vance and Rezaei. The Tasnim news agency quoted a security official as saying Iran would not talk until Washington took concrete steps. President Masoud Pezeshkian said Iran was open to negotiation but would not surrender to force. Iranian officials want sanctions lifted, frozen funds released, a Hormuz route agreed with Oman recognised and fighting ended on every front, including Lebanon."
+     ]
+    },
+    {
+     "heading": "The wider war",
+     "paragraphs": [
+      "An Iranian provincial official told state television that Qeshm Island, in the Strait of Hormuz, was targeted overnight into Monday. In Riyadh, residents received alerts to take shelter before the Saudi-led coalition said it had destroyed incoming missiles, which it blamed on the Houthis; no casualties were reported. On Monday the East-West pipeline in the Medina region, which carries Saudi oil around the restricted strait, was hit again, causing a limited fire that did not stop operations, the energy ministry said. The Wall Street Journal reported that the US moved aircraft out of RAF Mildenhall in England on Monday after an Iran-related threat."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Gulf and Saudi Arabia",
+    "bounds": [
+     34,
+     12,
+     62,
+     38
+    ],
+    "countries": [
+     "364",
+     "682",
+     "634",
+     "887"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 51.2,
+      "lat": 27.6,
+      "kind": "water"
+     },
+     {
+      "label": "Red Sea",
+      "lon": 38.6,
+      "lat": 20,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map with Iran, Saudi Arabia, Qatar and Yemen highlighted. Markers show Riyadh, where Saudi Arabia says it intercepted missiles, and Qeshm Island in the Strait of Hormuz, which Iranian officials say was targeted overnight.",
+    "caption": "Iran, Saudi Arabia, Qatar and Yemen highlighted for context · markers are approximate reporting locations"
+   },
+   "locations": [
+    {
+     "label": "Riyadh",
+     "lon": 46.72,
+     "lat": 24.71
+    },
+    {
+     "label": "Qeshm Island",
+     "mapLabel": "Qeshm",
+     "lon": 55.9,
+     "lat": 26.8
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Euronews",
+     "title": "Trump says Iran war 'effectively over' as Tehran denies planned talks",
+     "url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Ynet News",
+     "title": "Trump says Iran strikes unlikely, cites 'positive momentum' toward ending conflict",
+     "url": "https://www.ynetnews.com/article/r14ou0yafe",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "After meeting Qatar PM, Trump calls Iran war 'effectively over' militarily",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The New Arab",
+     "title": "Trump claims war 'effectively over', Iran presses conditions",
+     "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
+     "publishedAt": "2026-11-10",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Al Jazeera (AFP)",
+     "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+     "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AFP)"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "knesset-sworn-in-speaker-haredi-talks",
+   "section": "world",
+   "title": "Israel’s new parliament is sworn in, as Eisenkot’s bloc names its choice to replace the Likud speaker and agrees to court the ultra-Orthodox parties",
+   "category": "Politics",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09 / 2026-11-10",
+   "body": "Israel’s 26th Knesset, elected on October 27, holds its opening session on Tuesday afternoon. The bloc behind Gadi Eisenkot, who has the mandate to form a government, has agreed that the former minister Matan Kahana will be its candidate to replace Likud’s Amir Ohana as speaker, and that Avigdor Liberman will chair the foreign affairs and defence committee. Eisenkot and Liberman also agreed to open talks with the ultra-Orthodox parties Shas and United Torah Judaism, reportedly offering a softer military draft law. Right-wing groups plan to protest outside the Knesset.",
+   "whatChanged": "The opposition bloc settled on a speaker candidate and committee chairs, and Eisenkot and Liberman agreed to seek ultra-Orthodox support despite Liberman’s pledge before the election not to govern with those parties.",
+   "whyMatters": "The speaker controls the Knesset’s agenda while a government is being formed, and a deal with the ultra-Orthodox parties is the clearest route to a majority for Eisenkot that does not depend on Arab-led parties.",
+   "uncertainty": "United Torah Judaism had not been formally approached, and the terms it reportedly wants, a pause of up to 18 months in draft enforcement, may not survive legal review. The speaker vote is expected next week rather than on opening day. Haaretz had earlier reported that Eisenkot might take the speaker’s post himself.",
+   "watchNext": "The vote on a new speaker, which Ohana says he will schedule within a week if a majority asks; Wednesday’s plenum vote on the make-up of committees; and the first formal talks with Shas and United Torah Judaism.",
+   "keyFacts": [
+    "The 26th Knesset’s opening session begins at 4 pm local time on Tuesday, November 10",
+    "Matan Kahana is the bloc’s candidate for speaker; Liberman is to chair Foreign Affairs and Defence",
+    "A speaker can be replaced early if 61 of the 120 lawmakers request a vote",
+    "Ultra-Orthodox parties reportedly want a one-year, possibly 18-month, transition with no draft sanctions or arrests"
+   ],
+   "report": [
+    {
+     "heading": "Opening day",
+     "paragraphs": [
+      "President Isaac Herzog is due to open the session with three strikes of the gavel before all 120 members take the oath, followed by speeches from Ohana and Netanyahu, according to the Knesset programme reported by the Jerusalem Post. Several right-wing groups, including Im Tirtzu, planned to demonstrate outside under a slogan objecting to the speaker being replaced with votes from Arab lawmakers, and the Knesset Guard was on heightened alert."
+     ]
+    },
+    {
+     "heading": "The fight for the speaker’s chair",
+     "paragraphs": [
+      "A speaker is normally elected when a government is formed, but an earlier vote can be forced by a written request from a majority. Four anti-Netanyahu parties sent Ohana such letters last week. He said he would schedule a vote no later than a week after a majority asked, and distanced himself from a predecessor’s refusal to do so in 2020, which ended up before the Supreme Court. The Times of Israel reported the vote would probably come next week.",
+      "Under the bloc’s deal reported by Israel National News, Roy Folkman of Eisenkot’s Yashar party would chair the arrangements committee, Liberman the foreign affairs and defence committee, and Liran Avisar Ben Horin of Naftali Bennett’s list the finance committee. The committee line-up is due for a plenum vote on Wednesday."
+     ]
+    },
+    {
+     "heading": "Reaching for the ultra-Orthodox",
+     "paragraphs": [
+      "Israel’s public broadcaster, Kan, reported that Eisenkot and Liberman agreed on Monday to open talks with Shas and United Torah Judaism, with a softened draft law on offer. Channel 12 said the parties would seek a transition of a year or 18 months with no meaningful enlistment and no arrests of draft evaders, and want the attorney general’s assurance that it would hold up legally. Senior rabbis in United Torah Judaism are said to be interested, but discussions are at an early stage.",
+      "The move is a turn for Liberman, who promised before the election not to join a government with the ultra-Orthodox parties. Eisenkot has said he will not build a government with the Arab-led parties, whose 19 seats are part of the 67 lawmakers who recommended him to the president."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Who lawmakers recommended",
+    "measure": "Members of the 120-seat Knesset whose parties recommended each candidate to President Herzog",
+    "unit": "lawmakers",
+    "values": [
+     {
+      "label": "Gadi Eisenkot",
+      "value": 67
+     },
+     {
+      "label": "Benjamin Netanyahu",
+      "value": 46
+     }
+    ],
+    "alt": "Bar chart: 67 lawmakers recommended Gadi Eisenkot and 46 recommended Benjamin Netanyahu. A majority is 61 of 120.",
+    "caption": "Recommendations to the president, as reported by Democracy Now · 61 of 120 is a majority, the number needed to replace the speaker early",
+    "sourceUrl": "https://www.democracynow.org/2026/11/9/headlines"
+   },
+   "sources": [
+    {
+     "publisher": "The Jerusalem Post",
+     "title": "Israel's 26th Knesset prepares to be sworn in as Eisenkot's bloc asserts control",
+     "url": "https://www.jpost.com/israel-election-2026/article-914409",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Israel National News",
+     "title": "Eisenkot's Bloc reaches deal on Knesset Speaker, key committee chairs",
+     "url": "https://www.israelnationalnews.com/news/435945",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Times of Israel",
+     "title": "Eisenkot, Liberman said to greenlight outreach to Haredim, reach agreement on Knesset speaker",
+     "url": "https://www.timesofisrael.com/eisenkot-liberman-said-to-greenlight-outreach-to-haredim-reach-agreement-on-knesset-speaker/",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Times of Israel",
+     "title": "Report: Eisenkot, Liberman agree to open talks with Haredi parties, eyeing draft law concessions",
+     "url": "https://www.timesofisrael.com/liveblog_entry/report-eisenkot-liberman-agree-to-open-talks-with-haredi-parties-eyeing-draft-law-concessions/",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Ynet News",
+     "title": "Anti-Netanyahu bloc moves to oust Knesset speaker on parliament's opening day",
+     "url": "https://www.ynetnews.com/article/bjunej5agg",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Ynet News",
+     "title": "Eisenkot courts ultra-Orthodox parties as Likud hunts for opposition defectors",
+     "url": "https://www.ynetnews.com/article/byfom0x6me",
+     "publishedAt": "2026-10-31",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Democracy Now!",
+     "title": "Headlines for November 09, 2026",
+     "url": "https://www.democracynow.org/2026/11/9/headlines",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel’s October 2026 general election and the effort to form a government afterwards."
+  },
+  {
+   "id": "trump-questions-midterm-results",
+   "section": "world",
+   "title": "Trump questions whether the midterm elections were honest, days after saying he accepted the results, as the last two Senate counts near their end",
+   "category": "Politics",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09 / 2026-11-10",
+   "body": "President Trump asked on social media on Monday whether anyone really believed the midterm elections had been honest, and how the polls could have been so wrong, with vague references to vote dumps and machines. He offered no evidence. A week earlier he told the New York Times he was absolutely willing to accept the results, which gave Democrats both houses of Congress. Two Senate races are still uncalled: in Mississippi, Tuesday is the last day for mail ballots to arrive, with Scott Colom 2,574 votes ahead, and in Alaska Mary Peltola leads Senator Dan Sullivan by 2,517.",
+   "whatChanged": "Trump moved from accepting the outcome to openly doubting it, his first explicit challenge to the midterm results as a whole.",
+   "whyMatters": "A president casting doubt on an election his party lost could shape how Republicans handle the close counts still under way and how they deal with the Democratic majorities that take over in January.",
+   "uncertainty": "Trump did not say whether he alleges error or wrongdoing and has announced no legal challenge. The number of outstanding ballots in Mississippi is not precisely known, and its affidavit ballots may end up in court.",
+   "watchNext": "Mississippi’s county certification deadline on Friday, November 13, any lawsuit over affidavit ballots, and Alaska’s next count releases.",
+   "keyFacts": [
+    "Trump’s post on Monday, November 9, offered no evidence of fraud",
+    "A Pew analysis found pre-election polls understated the Democratic margin in at least 23 of 27 races for governor and Senate",
+    "Mississippi: Colom leads Senator Cindy Hyde-Smith by 2,574 votes with about 97 percent counted",
+    "Alaska: Peltola 106,321 votes, Sullivan 103,804, before Tuesday’s update",
+    "Democrats hold at least 54 Senate seats and 254 House seats, the BBC reported"
+   ],
+   "report": [
+    {
+     "heading": "The post",
+     "paragraphs": [
+      "In the message, Trump put the word election in quotation marks and pointed to early-vote totals he said were too large for Republicans to overcome. Days earlier he had congratulated Democrats in a call with CBS News, told Fox News they did a good job, and said in a 60 Minutes interview that he was open to working with the new majority. In recent days he had also shared posts with graphs questioning turnout figures.",
+      "The Senate Democratic leader, Chuck Schumer, said a return to election denial had been inevitable. The conservative commentator Megyn Kelly, who backed Trump in 2024, told him to stop."
+     ]
+    },
+    {
+     "heading": "What the evidence shows",
+     "paragraphs": [
+      "The polls Trump cited erred in the other direction: a Pew Research report found they understated the Democratic margin by at least two points in 23 of 27 races for governor and Senate. State and local officials said voting went mostly smoothly, with some weather closures and slow counts. The MIT political scientist Charles Stewart said election-night reporting followed normal patterns, and Ruth Greenwood of Harvard Law School said slower counts did not indicate wrongdoing. Before the vote, the Justice Department sued over counting in several states and lost in nearly every case."
+     ]
+    },
+    {
+     "heading": "The last two Senate races",
+     "paragraphs": [
+      "In Mississippi, Colom’s lead has grown from 65 votes on election night. Mail ballots postmarked by election day must arrive by Tuesday, which is also the deadline for voters who cast affidavit ballots to show identification; Colom’s campaign estimates about 15,000 affidavit ballots were cast. The state has no recount law. Hyde-Smith’s lawyers have demanded that affidavit ballots be preserved, and the state Republican chairman said they would use every legal option if the law was broken. Counties must certify by Friday.",
+      "In Alaska, the Division of Elections was due to release its seven-day count on Tuesday, adding early, absentee and questioned ballots. Peltola said she expected her lead to hold."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Alaska’s Senate count",
+    "measure": "Votes counted for each candidate in Alaska’s US Senate race, as of November 9, 2026",
+    "unit": "votes",
+    "values": [
+     {
+      "label": "Mary Peltola (Democrat)",
+      "value": 106321
+     },
+     {
+      "label": "Dan Sullivan (Republican)",
+      "value": 103804
+     }
+    ],
+    "alt": "Bar chart: Mary Peltola has 106,321 votes and Dan Sullivan 103,804, a gap of 2,517, with more ballots still to be counted.",
+    "caption": "Count before the seven-day update due on November 10, as reported by Your Alaska Link · the race is not called",
+    "sourceUrl": "https://www.youralaskalink.com/news/politics/peltola-widens-lead-over-sullivan-as-alaska-senate-race-remains-too-close-to-call/article_c5227427-dc38-4b28-a03c-b1a85f05ba2d.html"
+   },
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Yahoo News (BBC)",
+     "title": "Trump questions midterm elections integrity after previously accepting results",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-questions-midterm-election-integrity-153748273.html",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting (BBC)"
+    },
+    {
+     "publisher": "Yahoo News",
+     "title": "Mississippi Senate latest: Scott Colom's lead over Cindy Hyde-Smith tops 2,500 votes as key deadlines loom",
+     "url": "https://www.yahoo.com/news/politics/article/mississippi-senate-latest-scott-coloms-lead-over-cindy-hyde-smith-tops-2500-votes-as-key-deadlines-loom-183943706.html",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Your Alaska Link",
+     "title": "Peltola widens lead over Sullivan as Alaska Senate race remains too close to call",
+     "url": "https://www.youralaskalink.com/news/politics/peltola-widens-lead-over-sullivan-as-alaska-senate-race-remains-too-close-to-call/article_c5227427-dc38-4b28-a03c-b1a85f05ba2d.html",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-midterms-2026",
+   "threadTitle": "The 2026 US midterms",
+   "threadSummary": "The November 2026 elections for the US Congress, governors and ballot measures, and their aftermath."
+  },
+  {
+   "id": "moyale-clashes-displacement",
+   "section": "world",
+   "title": "More than 50,000 people have now fled fighting around Ethiopia’s Moyale into Kenya, and most lack enough food, an aid survey finds",
+   "category": "Humanitarian",
+   "region": "Africa · Ethiopia, Kenya",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09",
+   "body": "The number of people who have crossed from Ethiopia into Kenya’s Moyale area since late October has passed 50,000, the Kenya Red Cross and the UN migration agency say, up from an estimated 36,000 in late October. They are fleeing fighting rooted in a dispute over land between Ethiopia’s Oromia and Somali regions. A survey of 758 households found 71 percent did not have enough to eat and 44 percent lacked enough drinking water. More than half the arrivals are children. Kenya is sending more police to the border and has asked Ethiopia’s government to help end the fighting.",
+   "whatChanged": "The count of people who have fled passed 50,000, and the first household survey showed widespread hunger, with no camp or reserve food stocks yet in place.",
+   "whyMatters": "A fight between two Ethiopian regional administrations has become a cross-border emergency, stranding trucks on the road between Mombasa and Addis Ababa and straining Kenyan host families who have little to share.",
+   "uncertainty": "Figures from different agencies cover different periods, and the 50,000 count has not been independently established. There is no overall death toll, and who is fighting on the ground is only partly reported.",
+   "watchNext": "Funding for the aid appeal by the UN migration agency and its partners, whether Kenya opens a camp once security improves, and any move by Ethiopia’s federal government to separate the regional forces.",
+   "keyFacts": [
+    "About 50,000 people have crossed into Kenya since late October, the Kenya Red Cross says",
+    "71 percent of 758 households surveyed lack enough food; 44 percent lack enough drinking water",
+    "96 percent of surveyed households fled from Ethiopia’s Oromia and Somali regions",
+    "One Kenyan was killed by a stray bullet, Kenya’s police chief said"
+   ],
+   "report": [
+    {
+     "heading": "Who has fled",
+     "paragraphs": [
+      "A rapid assessment by Kenyan authorities with the International Organization for Migration, UN agencies and aid groups found that 80 percent of households named food as their most urgent need, more than three-quarters had no handwashing facilities, and over half struggled to get health care because of cost and shortages of medicine. Nine in ten said their whole village had fled. Most people are staying with relatives or host families in Moyale; others are in schools or temporary sites, and some sleep outdoors. The head of the migration agency’s Kenya mission, Nomagugu Ncube, said host communities also had little to spare."
+     ]
+    },
+    {
+     "heading": "The fighting",
+     "paragraphs": [
+      "Al Jazeera reports the clashes stem from a long dispute over land and administrative control between the Oromia and Somali regional governments, and escalated around October 18 over the raising of the Somali regional flag in contested parts of Moyale. A Kenyan man was killed by a stray bullet and an Ethiopian man died of gunshot wounds in Kenya, police said. The security analyst Abdiwahab Sheikh Abdisamad warned that armed fighters crossing the border make it a Kenyan security problem too."
+     ]
+    },
+    {
+     "heading": "Kenya’s response",
+     "paragraphs": [
+      "Kenya has sent a team from several agencies to Moyale, and its refugee department is working with UNHCR. Officials say there were no contingency food stocks and that a refugee camp cannot be set up until security improves. The police chief, Douglas Kanja, said more officers would be deployed along the border. The Ethiopian Red Cross has distributed supplies worth about 30 million birr to 1,000 households on its side. Trucks have been stranded near the border for almost two weeks, and traders report prices up by about a fifth."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Ethiopia and Kenya at Moyale",
+    "bounds": [
+     33,
+     -2,
+     48,
+     12
+    ],
+    "countries": [
+     "231",
+     "404"
+    ],
+    "labels": [
+     {
+      "label": "Indian Ocean",
+      "lon": 45.5,
+      "lat": -1,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map with Ethiopia and Kenya highlighted. A marker shows the border town of Moyale, which straddles the two countries and where people fleeing the fighting are arriving.",
+    "caption": "Ethiopia and Kenya highlighted for context · marker is an approximate reporting location"
+   },
+   "locations": [
+    {
+     "label": "Moyale",
+     "lon": 39.06,
+     "lat": 3.52
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
+     "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "AllAfrica (UN News)",
+     "title": "Ethiopian families fleeing to Kenya face food, water and shelter shortages",
+     "url": "https://allafrica.com/stories/202611100008.html",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting (UN News, IOM statement)"
+    }
+   ],
+   "threadId": "ethiopia-regional-clashes",
+   "threadTitle": "Ethiopia's regional clashes",
+   "threadSummary": "Fighting between regional forces inside Ethiopia and the displacement it causes, including across the border into Kenya."
+  },
+  {
+   "id": "massie-hegseth-impeachment-push",
+   "section": "more",
+   "title": "A Republican congressman files eight articles of impeachment against Defense Secretary Pete Hegseth as the House returns",
+   "category": "US politics",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-09",
+   "whatChanged": "Thomas Massie formally filed the articles on the House’s first day back after the midterms, over the Iran war, strikes on alleged drug boats and limits on the press.",
+   "body": "Massie, a Kentucky Republican who leaves Congress in January, accuses Hegseth of waging war on Iran without the approval of Congress and of fostering disregard for the rules of engagement, citing a February strike on a school in Minab, Iran, that killed more than 150 people. Speaker Mike Johnson opposes the effort, and Trump said Hegseth was guilty only of winning two wars. Removal would need 67 senators, more than Democrats will hold. Hegseth was expected to hold a news conference on Tuesday.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+     "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "trump-administration-turnover",
+   "threadTitle": "Turnover in Trump’s administration",
+   "threadSummary": "Departures, dismissals and challenges to senior officials in President Trump’s second administration."
+  },
+  {
+   "id": "hasina-passport-return",
+   "section": "more",
+   "title": "Bangladesh’s exiled former leader Sheikh Hasina applies for a passport, saying she will return in December despite a death sentence",
+   "category": "Politics",
+   "region": "Asia · Bangladesh, India",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09",
+   "whatChanged": "Her lawyers asked Bangladesh’s mission in London for a new passport and identity card, the first formal step toward the return she has promised.",
+   "body": "Hasina, ousted by a student-led uprising in August 2024 and living in India since, was sentenced to death in absentia in 2025 over a crackdown in which the UN says about 1,400 people were killed; she denies wrongdoing and rejects the verdict. An aide called the request a significant step toward coming home. Bangladesh’s home minister said ministries were checking whether she is entitled to apply, and the government wants India to extradite her, which New Delhi has declined to do.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera (Reuters)",
+     "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+     "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting (Reuters)"
+    },
+    {
+     "publisher": "Yahoo News Singapore (Associated Press)",
+     "title": "Bangladesh's Sheikh Hasina appeals for new passport in 'significant step' toward return from exile",
+     "url": "https://sg.news.yahoo.com/bangladesh-sheikh-hasina-appeals-passport-054008410.html",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting (AP)"
+    }
+   ],
+   "threadId": "bangladesh-politics",
+   "threadTitle": "Bangladesh’s politics",
+   "threadSummary": "Bangladesh after the 2024 uprising that ousted Sheikh Hasina, its elections and the cases against her."
+  },
+  {
+   "id": "anc-coalition-talks-metros",
+   "section": "more",
+   "title": "Coalition bargaining begins for Johannesburg, Pretoria and Ekurhuleni, with about two weeks before South Africa’s new councils first sit",
+   "category": "Politics",
+   "region": "Africa · South Africa",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09 / 2026-11-10",
+   "whatChanged": "The EFF and ActionSA opened formal talks on the three Gauteng metros, and the ANC said it would skip a Wednesday meeting of left-wing parties.",
+   "body": "No party won a majority in Johannesburg, Tshwane, which includes Pretoria, or Ekurhuleni, and the Democratic Alliance came first in all three. First council sittings, where mayors are chosen, are expected around November 25 or 26. ActionSA’s Herman Mashaba has given mixed signals, calling the DA racist on Sunday while also saying it could take Johannesburg if Helen Zille is not mayor. The ANC, on 30.7 percent nationally, says its executive will choose between opposition and minority governments.",
+   "sources": [
+    {
+     "publisher": "TimesLIVE",
+     "title": "ANC to skip Council of the Left meeting as coalition talks warm up",
+     "url": "https://www.timeslive.co.za/politics/2026-11-10-anc-to-skip-council-of-the-left-meeting-as-coalition-talks-warm-up/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "African News Agency",
+     "title": "EFF, ActionSA and ANC kick off coalition talks as fight for Johannesburg, Tshwane and Ekurhuleni metros intensifies",
+     "url": "https://africannewsagency.com/eff-actionsa-and-anc-kick-off-coalition-talks-as-fight-for-johannesburg-tshwane-and-ekurhuleni-metros-intensifies/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "south-africa-politics",
+   "threadTitle": "South Africa's politics",
+   "threadSummary": "South Africa’s coalition politics, its 2026 local elections and the parties competing to govern its cities."
+  },
+  {
+   "id": "pope-leo-argentina-visit",
+   "section": "more",
+   "title": "About 2.5 million people attend Pope Leo XIV’s mass in Buenos Aires, and he meets five survivors of clergy abuse",
+   "category": "Religion",
+   "region": "Latin America · Argentina",
+   "regions": [
+    "latin-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-09 / 2026-11-11",
+   "whatChanged": "The first papal mass in Argentina since 1987 drew what authorities called the biggest crowd of Leo’s papacy, and he held the first of several planned meetings with abuse survivors on the tour.",
+   "body": "Local authorities estimated 2.5 million people at Monday’s mass in the Palermo parks, where the pope spoke about the family and drew a long ovation when he remembered Pope Francis. President Javier Milei sat in the front row. Afterwards Leo met five survivors of clerical abuse privately, one at a time, the Vatican said. He celebrates mass in Córdoba on Tuesday and in Luján on Wednesday before travelling to Peru.",
+   "sources": [
+    {
+     "publisher": "MercoPress",
+     "title": "Some 2.5 million people attend Leo XIV's Mass in Buenos Aires, authorities say",
+     "url": "https://en.mercopress.com/2026/11/10/some-2.5-million-people-attend-leo-xiv-s-mass-in-buenos-aires-authorities-say",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera (Reuters)",
+     "title": "Pope meets with clergy abuse survivors in Argentina",
+     "url": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting (Reuters)"
+    }
+   ],
+   "threadId": "pope-leo-latin-america-2026",
+   "threadTitle": "Pope Leo XIV in South America",
+   "threadSummary": "Pope Leo XIV’s November 2026 tour of Uruguay, Argentina and Peru."
+  },
+  {
+   "id": "cameroon-elections-february-2027",
+   "section": "more",
+   "title": "Cameroon sets February 7 for legislative and local elections that have already been postponed twice",
+   "category": "Politics",
+   "region": "Africa · Cameroon",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09",
+   "whatChanged": "President Paul Biya, 93, fixed the date by a decree read on public radio, after extending lawmakers’ terms to December 20.",
+   "body": "Biya has ruled since 1982 and is the world’s oldest head of state. His re-election in October 2025 set off protests and a crackdown in which up to 2,000 people were detained, according to lawyers cited by Human Rights Watch. In October authorities suspended the party of the runner-up, Issa Tchiroma Bakary, who claims he won and is in exile in the Gambia. A vice-presidency restored in April, whose holder would be expected to succeed Biya, remains unfilled.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera (AFP, Reuters)",
+     "title": "Cameroon sets date for twice-delayed legislative and local elections",
+     "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AFP, Reuters)"
+    }
+   ],
+   "threadId": "cameroon-politics",
+   "threadTitle": "Cameroon’s politics",
+   "threadSummary": "Cameroon under President Paul Biya, its disputed 2025 election and the delayed votes that follow."
+  },
+  {
+   "id": "meta-teen-age-estimation-global",
+   "section": "more",
+   "title": "Meta extends its AI age estimation worldwide, moving suspected teenagers into restricted accounts even if they say they are adults",
+   "category": "Technology & children",
+   "region": "Global",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09",
+   "whatChanged": "After tests in the United States, Britain, Canada and Australia, Meta said it is expanding the system to every country, starting with Instagram this month.",
+   "body": "The system estimates age from behaviour and posts and moves suspected teenagers into Teen Accounts, which mute notifications at night and limit daily use. Facebook and Threads follow later in the year. Meta faces lawsuits worldwide over teenagers’ use of its apps, and in August agreed to pay 18 billion dollars to US states. It urged TikTok and YouTube to adopt the same approach.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Meta rolls out automated age checks for teens globally",
+     "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "children-online-safety",
+   "threadTitle": "Children’s safety online",
+   "threadSummary": "Laws, lawsuits and company rules on how children and teenagers use social media and AI apps."
+  },
+  {
+   "id": "nvidia-huang-board-inquiry",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Nvidia’s board investigates Jensen Huang after he admits an affair with an executive US intelligence suspects of spying for China",
+   "category": "AI chips & security",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-08 / 2026-11-10",
+   "hook": "A governance shock at the company that supplies most of the world’s AI chips; so far there is no public evidence that any secrets were lost.",
+   "body": "Nvidia’s independent directors have opened an inquiry, with outside lawyers, into chief executive Jensen Huang’s relationship with Alice Huang, a former executive of Megaspeed, a Singapore company that bought more than 4.8 billion dollars of Nvidia chips. US intelligence agencies believe she worked for China’s Ministry of State Security, CBS reported. Huang admitted the affair and apologised. President Trump said the FBI was looking into it and that Huang told him he had no idea. Nvidia shares fell 4.3 percent on Monday, and a shareholder has sued.",
+   "whatChanged": "Huang’s admission brought a board inquiry, an FBI review confirmed by the president, a fall of about 190 billion dollars in market value and the first investor lawsuit.",
+   "whyMatters": "Nvidia is estimated to control 80 to 90 percent of the market for chips used to run frontier AI models, and limits on selling those chips to China are central to the AI rivalry, so questions about influence over its chief executive reach into that policy.",
+   "uncertainty": "The intelligence assessment has not been published. Nvidia says it has no reason to think secrets or national security were compromised, China calls the reports a smear, and the lawsuit’s claims have not been tested in court.",
+   "watchNext": "The findings of the board’s inquiry, any action from the FBI, briefings for members of Congress, and whether the matter affects US decisions on chip sales to China.",
+   "keyFacts": [
+    "Nvidia shares closed down 4.27 percent at 178.67 dollars on Monday, November 9, after falling as much as 8 percent",
+    "Megaspeed bought more than 4.8 billion dollars of Nvidia chips over two years, the New York Times reported",
+    "The shareholder suit, filed in federal court in northern California, covers buyers from October 9, 2025, to November 8, 2026",
+    "China’s foreign ministry called the spy reports groundless"
+   ],
+   "report": [
+    {
+     "heading": "The inquiry",
+     "paragraphs": [
+      "Nvidia’s board said on Sunday that a committee of independent directors, advised by outside counsel, would examine all available information, and that it had no reason to believe the company’s secrets or US national security had been compromised. A spokesman, John Rizzo, said the company trusted the US government would have warned it of a genuine threat. In a message to staff, Huang admitted being unfaithful to his wife, apologised to family, colleagues and shareholders without naming the woman, and said he would cooperate and remain fully committed to the company.",
+      "The admission followed reports last week in the New York Times and Financial Times that unnamed US officials had written a memo saying Alice Huang, who is not related to Jensen Huang and has not commented, targeted him for intelligence gathering. She previously worked as a television reporter in China."
+     ]
+    },
+    {
+     "heading": "Washington and Beijing",
+     "paragraphs": [
+      "Speaking at the White House on Monday, Trump said law enforcement had begun inquiries after the admission, that Huang assured him he had no idea of the alleged intelligence links, and that he believed him. Secretary of State Marco Rubio called it an internal corporate matter. China’s foreign ministry spokesman, Guo Jiakun, called the reports groundless speculation and a smear."
+     ]
+    },
+    {
+     "heading": "Markets and the lawsuit",
+     "paragraphs": [
+      "Nvidia’s shares fell as much as 8 percent during Monday’s trading before closing 4.3 percent lower, wiping roughly 190 billion dollars from its value. Minutes after the market closed, an investor represented by the Rosen Law Firm filed a proposed class action accusing Nvidia and Huang of misleading shareholders about Megaspeed and failing to disclose national security risks, citing four statements made in 2025 and 2026. Megaspeed is one of Nvidia’s largest customers in South-East Asia."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-10/nvidia-huang-board-inquiry.svg",
+    "alt": "A magnifying glass held over a computer chip, standing for the board and FBI inquiries into the head of the world’s leading AI chipmaker.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "CBS News",
+     "title": "Nvidia investigates CEO Jensen Huang amid allegations he was target of Chinese intelligence effort",
+     "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Trump says FBI probing Nvidia CEO Huang's affair with alleged spy",
+     "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Decrypt",
+     "title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
+     "url": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "Competition between the United States and China over AI chips, models and the rules governing their trade."
+  },
+  {
+   "id": "anthropic-fable-mythos-5-2",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Anthropic releases new versions of its top AI models, one open to all and one limited to vetted security and medical groups, a week before its share listing",
+   "category": "Model release",
+   "region": "Global",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09",
+   "hook": "A real price cut and claimed coding gains, but every headline result so far comes from the company itself.",
+   "body": "Anthropic released Fable 5.2, for general use, and Mythos 5.2, restricted to vetted cybersecurity and biomedical organisations; both run on the same underlying model with different safeguards. The company says they are up to 30 percent faster and 20 percent cheaper, at 8 dollars per million input tokens. On its own tests, Fable 5.2 scored 49.1 percent on a coding benchmark, up from 32.4 percent for the previous version. Anthropic plans to list its shares in the week of November 16, aiming to raise up to 100 billion dollars.",
+   "whatChanged": "New versions of both models arrived with lower prices and company-reported gains, after the first versions were briefly pulled in June when the US Commerce Department raised security concerns.",
+   "whyMatters": "Keeping the less restricted model for vetted groups is a prominent test of releasing AI systems that can find software flaws in tiers, and the launch sets the pitch for what could be the largest share sale on record.",
+   "uncertainty": "All performance figures are Anthropic’s own and have not been independently replicated. Analysts say long-running AI agents still need human supervision, and that better flaw-finding could help attackers as well as defenders. The listing date and valuation could still change.",
+   "watchNext": "Independent benchmark results, the pricing of Anthropic’s share sale in the week of November 16, and any response from US officials to the restricted release.",
+   "keyFacts": [
+    "Prices fall from 10 and 50 dollars to 8 and 40 dollars per million input and output tokens",
+    "Mythos 5.2 found 89.6 percent of 1,829 known vulnerabilities in an internal test, against 78.3 percent for Mythos 5.1",
+    "Third-quarter revenue was 17 billion dollars, with an operating loss of 567 million dollars, according to a securities filing",
+    "The listing could raise up to 100 billion dollars at a valuation above 1 trillion dollars"
+   ],
+   "report": [
+    {
+     "heading": "What was released",
+     "paragraphs": [
+      "Anthropic announced the two models on Monday. Fable 5.2 carries safeguards that block most cybersecurity and biology tasks, which the company says lets it offer the model to everyone. Mythos 5.2 has fewer restrictions and is available only through verification programmes, though business customers can use its vulnerability scanning through a separate security product. Both cost 8 dollars per million input tokens and 40 dollars per million output tokens, down from 10 and 50 dollars, and Anthropic says output can be up to 30 percent faster.",
+      "The first versions of Fable and Mythos launched in June and were withdrawn within days after the Commerce Department cited national security concerns and ordered Anthropic to bar access by foreign nationals; those controls were lifted weeks later, AFP reported."
+     ]
+    },
+    {
+     "heading": "What the numbers do and do not show",
+     "paragraphs": [
+      "Anthropic reports that Fable 5.2 scored 49.1 percent on FrontierCode 2.0, which checks whether open-source maintainers would accept AI-written code changes, against 32.4 percent for Fable 5.1, and that Mythos 5.2 rediscovered 89.6 percent of 1,829 known vulnerabilities in an internal test. It also says Fable 5.2 coordinated more than 1,000 sub-agents over eight days to build a prototype operating system that booted on a laptop. InfoWorld notes that none of these figures has been independently verified.",
+      "Analysts quoted by InfoWorld said the gains could make long-running agents practical for tasks such as code migration, but that reliability without supervision and coordination among many agents remain hard, and that companies should measure cost per finished task rather than per token."
+     ]
+    },
+    {
+     "heading": "The share sale",
+     "paragraphs": [
+      "Anthropic aims to list in the week of November 16 and could raise up to 100 billion dollars, which would be the largest flotation on record, at a valuation above 1 trillion dollars, down from estimates as high as 2 trillion. A securities filing shows third-quarter revenue of 17 billion dollars, up from 1.4 billion a year earlier, with slowing growth and an operating loss of 567 million dollars as it paid more for short-term computing capacity."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-10/anthropic-fable-mythos-5-2.svg",
+    "alt": "A single corridor splitting into two doorways, one standing open and one closed with a lock, standing for one AI model released in an open version and a restricted one.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "InfoWorld",
+     "title": "Anthropic unveils Claude Fable 5.2, Mythos 5.2 with coding gains and lower prices",
+     "url": "https://www.infoworld.com/article/4246681/anthropic-unveils-claude-fable-5-2-mythos-5-2-with-coding-gains-and-lower-prices.html",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting and analysis"
+    },
+    {
+     "publisher": "Malay Mail (AFP)",
+     "title": "Anthropic rolls out faster, cheaper AI models ahead of US$100b Wall Street debut",
+     "url": "https://www.malaymail.com/news/money/2026/11/10/anthropic-rolls-out-faster-cheaper-ai-models-ahead-of-us100b-wall-street-debut/242666",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AFP)"
+    }
+   ],
+   "threadId": "frontier-models",
+   "threadTitle": "Frontier model releases",
+   "threadSummary": "Releases of the most capable AI models, their claimed abilities and independent tests of them."
+  },
+  {
+   "id": "global-carbon-budget-2026",
+   "section": "frontiers",
+   "field": "Science",
+   "title": "Fossil fuel emissions are set to fall slightly this year, mainly because the Iran war cut oil use, but total carbon emissions still reach a record",
+   "category": "Climate science",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-10",
+   "hook": "A rare dip, but the scientists behind it say a fall forced by an oil shock is not the peak that would come from switching to clean energy.",
+   "body": "The Global Carbon Budget, compiled by more than 140 researchers, projects fossil carbon dioxide emissions of 38.2 billion tonnes in 2026, down about 0.4 percent, the first annual fall since 2020. Emissions from oil drop 1.9 percent after the closure of the Strait of Hormuz pushed up prices, while coal rises 0.6 percent. India’s emissions grow 4.4 percent as China’s and the United States’ fall. Fires in South-East Asia raise emissions from land use, so the total including land reaches a record 43.3 billion tonnes.",
+   "whatChanged": "The annual scientific tally projects the first fall in fossil emissions since the pandemic year, published as the COP31 climate summit opened.",
+   "whyMatters": "It shows clean energy now offsets most of the growth in energy demand, yet the carbon budget left for a 50 percent chance of holding warming to 1.5 degrees, about 150 billion tonnes, is less than four years of current emissions.",
+   "uncertainty": "The projected range runs from a 1.5 percent fall to a 0.6 percent rise, so a small increase cannot be ruled out. Researchers expect the dip to fade if Hormuz reopens for good. The main report is a preprint still under peer review.",
+   "watchNext": "Whether COP31 negotiators take up the figures in talks on moving away from fossil fuels before the summit closes on November 20, and how the strengthening El Niño weakens forests’ and soils’ carbon uptake in 2027.",
+   "keyFacts": [
+    "Fossil carbon dioxide in 2026: 38.2 billion tonnes, a projected fall of about 0.4 percent",
+    "Oil emissions fall 1.9 percent; coal rises 0.6 percent; gas is roughly flat",
+    "China down 0.9 percent, United States down 1.3 percent, India up 4.4 percent, EU down 1.5 percent",
+    "Carbon dioxide in the atmosphere reaches 427.7 parts per million this year",
+    "A companion study finds solar, wind and electric vehicles offset about 69 percent of this year’s demand-driven emissions growth"
+   ],
+   "report": [
+    {
+     "heading": "The numbers",
+     "paragraphs": [
+      "The 21st Global Carbon Budget, led by Pierre Friedlingstein of the University of Exeter and submitted to the journal Earth System Science Data, estimates fossil and cement emissions of 38.2 billion tonnes of carbon dioxide this year. Emissions from land use rise to 5.1 billion tonnes from 4.4 billion, driven by peat fires and forest damage in South-East Asia linked to El Niño, so total emissions reach 43.3 billion tonnes, up from 42.8 billion. Carbon dioxide in the air rises by 2.2 parts per million to 427.7, about 54 percent above pre-industrial levels."
+     ]
+    },
+    {
+     "heading": "Why oil fell",
+     "paragraphs": [
+      "The fall in oil emissions, about 243 million tonnes, is one of the steepest on record, exceeded only in 2020, 2009 and 1992, according to Carbon Brief. It followed the energy shock after the Strait of Hormuz closed during the Iran war. China’s oil emissions fall 4.6 percent, and coal use in the United States falls again after a rise last year. India’s growth is driven by coal. A companion study in Nature Climate Change led by Corinne Le Quéré estimates that solar, wind and electric cars offset about 69 percent of the emissions growth that rising energy demand would otherwise have caused, and that emissions would have kept rising without the shock."
+     ]
+    },
+    {
+     "heading": "Not yet a peak",
+     "paragraphs": [
+      "Le Quéré said clean technologies are already making a difference and could turn the tide within a few years if they accelerate. Friedlingstein called the decline encouraging but said cuts driven by geopolitical shocks are not a lasting climate solution. Glen Peters of the CICERO institute in Oslo said one year of falling emissions is not a peak unless structural change lies behind it. The companion study projects that even in its optimistic case, emissions in 2028 will be higher than in 2025. On the positive side, 40 countries, responsible for about a quarter of fossil emissions, cut their emissions over the past decade while their economies grew."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Carbon budget left",
+    "measure": "Carbon dioxide that can still be emitted from the start of 2027 for a 50 percent chance of holding warming to each level",
+    "unit": "billion tonnes of CO2",
+    "values": [
+     {
+      "label": "1.5°C",
+      "value": 150
+     },
+     {
+      "label": "1.7°C",
+      "value": 510
+     },
+     {
+      "label": "2°C",
+      "value": 1035
+     }
+    ],
+    "alt": "Bar chart of remaining carbon budgets from 2027: 150 billion tonnes for 1.5 degrees Celsius, 510 for 1.7 degrees and 1,035 for 2 degrees. Annual emissions are about 43 billion tonnes.",
+    "caption": "Global Carbon Budget 2026 estimates, as reported by Carbon Brief · total emissions this year are about 43.3 billion tonnes",
+    "sourceUrl": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use"
+   },
+   "sources": [
+    {
+     "publisher": "Carbon Brief",
+     "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+     "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+     "publishedAt": "2026-11-10",
+     "kind": "Analysis by report authors (Global Carbon Budget preprint)"
+    },
+    {
+     "publisher": "Trending Topics",
+     "title": "Fossil CO2 Emissions Fall in 2026, Helped by the Iran War",
+     "url": "https://www.trendingtopics.eu/fossil-co2-emissions-fall-2026-global-carbon-budget/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The New Arab",
+     "title": "Trump claims war 'effectively over', Iran presses conditions",
+     "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
+     "publishedAt": "2026-11-10",
+     "kind": "Live reporting"
+    }
+   ],
+   "threadId": "climate-greenhouse-gases",
+   "threadTitle": "Greenhouse gases and the warming climate",
+   "threadSummary": "Measurements of greenhouse gas emissions and concentrations and what they mean for global warming."
+  },
+  {
+   "id": "gaza-floods-tents",
+   "section": "still",
+   "title": "Gaza’s weekend storm destroyed more than 6,000 family shelters, the UN says, while more than 150,000 tents wait outside the territory",
+   "category": "Humanitarian",
+   "region": "Middle East · Gaza",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-06 / 2026-11-09",
+   "body": "The UN humanitarian office says the storm that began on November 6 destroyed more than 6,000 family shelters in Gaza and damaged 17,400, leaving over 3,900 households with none. An infant reportedly drowned, and five people, three children and two women, were killed when a sand hill collapsed onto tents near Deir al-Balah. About 1.4 million people live in tents or makeshift shelters. Stocks of tents and blankets inside Gaza are virtually exhausted, while about 150,000 tents, 300,000 tarpaulins and 500,000 blankets wait outside for Israeli approval to enter.",
+   "whatChanged": "A fuller UN damage count replaced early estimates and showed that shelter supplies are held up outside Gaza rather than missing.",
+   "whyMatters": "This was the winter’s first major storm, and most of Gaza’s people live in tents that cannot withstand a moderate storm, so the pace of approvals at the crossings will decide how many are left exposed to the next one.",
+   "uncertainty": "The damage figures are preliminary. Early local reports gave four children among the dead at the collapse site, while the UN lists three children and two women there and an infant who drowned at another site.",
+   "watchNext": "Whether Israel approves the entry of tents, pumps and heavy machinery, further storms this winter, and UN updates on flooded health and school sites.",
+   "keyFacts": [
+    "More than 6,000 family shelters destroyed and 17,400 damaged, according to preliminary UN figures",
+    "Civil defence answered 218 of 2,166 distress calls",
+    "About 117,000 of the waiting tents are held by the Egyptian Relief Committee in Al-Arish",
+    "At least 55 learning spaces serving about 55,000 children were affected"
+   ],
+   "report": [
+    {
+     "heading": "The damage",
+     "paragraphs": [
+      "Heavy rain and strong winds from the evening of November 6 flooded displacement sites in all five of Gaza’s governorates, with water reaching one and a half metres in places, according to the UN Office for the Coordination of Humanitarian Affairs. More than 26,000 households were affected, about 600 were displaced again, and more than 20,000 households across 222 sites need shelter and basic household items. Sewage overflowed into a camp in Deir al-Balah, water entered the Nasser Medical Complex, and some clinics suspended services. Mine clearance teams warned that floodwater could move unexploded ordnance."
+     ]
+    },
+    {
+     "heading": "Supplies stuck outside",
+     "paragraphs": [
+      "Partners have installed tens of thousands of sandbags, run dewatering pumps and handed out mattresses, tarpaulins and winter clothes, but stocks of tents, tarpaulins, blankets and clothing inside Gaza are virtually exhausted. The UN says Israeli restrictions on supplies and equipment limited stocks before the rain began, and that aid groups need Israeli approval for shelter items, vacuum trucks, pumps, spare parts and heavy machinery.",
+      "The deputy UN special coordinator, Ramiz Alakbarov, said the rain could not be prevented but more could be done to protect people, noting that most tents cannot withstand a moderate storm. The UN deputy spokesman, Farhan Haq, said Israeli efforts to facilitate rebuilding had been insufficient and that the supplies needed only permission to pass the checkpoints. Strikes also continue: on Saturday, UN staff visiting a site in Gaza City took cover when gunfire broke out nearby."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "UN OCHA",
+     "title": "Humanitarian Situation Report: Heavy Rains in the Gaza Strip, 8 November 2026",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026",
+     "publishedAt": "2026-11-08",
+     "kind": "Primary (UN)"
+    },
+    {
+     "publisher": "UN News",
+     "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+     "url": "https://news.un.org/en/story/2026/11/1168766",
+     "publishedAt": "2026-11-09",
+     "kind": "Primary (UN)"
+    }
+   ],
+   "threadId": "gaza-humanitarian",
+   "threadTitle": "Gaza's humanitarian situation",
+   "threadSummary": "Conditions for civilians in Gaza, aid access and casualties during and after the war."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Abu Dhabi, day two",
+   "text": "The three-way talks on Ukraine continue on Wednesday, November 11, while G7 ministers finish their meeting in Paris on Tuesday."
+  },
+  {
+   "title": "Mississippi’s count",
+   "text": "Tuesday, November 10, is the last day for mail ballots to arrive and for affidavit voters to show identification, and counties must certify their results by Friday, November 13."
+  },
+  {
+   "title": "Leaders at COP31",
+   "text": "World leaders address the COP31 climate summit in Antalya on Wednesday and Thursday, November 11 and 12, a day after new figures showed fossil emissions dipping."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "President Trump questioned the midterm results he had accepted a week earlier, as the last Senate counts in Mississippi and Alaska neared their end. A Republican filed impeachment articles against Pete Hegseth, and the FBI is looking at Nvidia’s chief executive.",
+   "briefs": [
+    {
+     "title": "Supreme Court lets a border wall go ahead through Big Bend National Park",
+     "text": "The Supreme Court on Monday lifted a lower court’s order that had paused construction of a border wall through a remote stretch of Big Bend National Park in West Texas, saying the government was very likely to win its argument that the lower court lacked jurisdiction. Justice Ketanji Brown Jackson said she would have refused the request. Conservation groups and local residents had challenged waivers that let the project skip environmental laws.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Al Jazeera (Reuters)",
+       "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+       "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting (Reuters)"
+      }
+     ]
+    },
+    {
+     "title": "Poll suggests support for the Iran war cost candidates votes",
+     "text": "A YouGov poll commissioned by Eurasia Group’s Institute for Global Affairs, completed on the eve of the November 3 midterms, found 44 percent of voters were less likely to back a candidate who supported the war with Iran and 13 percent more likely. Fifty-three percent said Congress, not the president, should decide when the war ends.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+       "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Pope Leo XIV drew about 2.5 million people to a mass in Buenos Aires and met survivors of clergy abuse. Washington set out a December timetable for a new Venezuelan supreme court, and a verdict in a Honduran trafficking trial was delayed.",
+   "briefs": [
+    {
+     "title": "Rubio says Venezuela should have new supreme court judges by mid-December",
+     "text": "Speaking in Paris on Monday, Secretary of State Marco Rubio said new justices could be in office by the middle of December, followed quickly by a new electoral council. Under the roadmap set out by US officials, the acting president, Delcy Rodríguez, would then declare the presidency vacant, opening a window of up to six months for an election. No judges or election date have been named.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "The Rio Times",
+       "title": "Rubio Sees New Venezuela Court by December",
+       "url": "https://www.riotimesonline.com/rubio-sees-new-venezuela-supreme-court-by-december/",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Honduras delays verdict in trafficking trial linked to a missing American woman",
+     "text": "A Honduran court postponed until November 20 its verdict in the trial of four men, three of them US citizens, accused of crimes linked to the disappearance of Angie Pena on the island of Roatán in 2022. The court said it needed to review evidence and wait for an interpreter. Prosecutors say the men belonged to a network trafficking minors; the defence denies their involvement.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Al Jazeera (Associated Press)",
+       "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+       "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting (AP)"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "US-mediated talks between Russia and Ukraine opened in Abu Dhabi as European ministers meeting in Paris insisted on a say. Hackers claimed Russian statistics records show far higher war deaths than Moscow admits.",
+   "briefs": [
+    {
+     "title": "Hackers say leaked Russian records show about 394,000 to 450,000 war deaths",
+     "text": "Two hacker groups, Belarusian Cyberpartisans and Silent Crow, say death records taken from Russia’s statistics agency show at least 393,881 deaths explicitly linked to the war from February 2022 to August 2026, and up to about 450,000 on a broader count. The figures have not been independently verified. The agency, Rosstat, acknowledged cyberattacks but denied that its databases were breached.",
+     "eventDate": "2026-11-07 / 2026-11-08",
+     "sources": [
+      {
+       "publisher": "The Kyiv Independent",
+       "title": "Hackers claim leaked Russian data reveals up to 450,000 war-related deaths in Ukraine",
+       "url": "https://kyivindependent.com/hackers-claim-leaked-russian-data-reveals-up-to-450-000-war-related-deaths-in-ukraine/",
+       "publishedAt": "2026-11-07",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "US aircraft moved out of an English air base after an Iran-related threat",
+     "text": "The Wall Street Journal reported that the US military evacuated aircraft from RAF Mildenhall on Monday after a threat linked to Iran, with two refuelling tankers diverted to Germany. The exact nature of the threat was still being assessed, weeks after US bombers were withdrawn from RAF Fairford over a suspected Iran-linked security incident.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "The New Arab",
+       "title": "Trump claims war 'effectively over', Iran presses conditions",
+       "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
+       "publishedAt": "2026-11-10",
+       "kind": "Live reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "More than 50,000 people have fled fighting in Ethiopia into Kenya’s Moyale area. South Africa’s parties began bargaining over its biggest cities, and Cameroon set a date for long-delayed elections.",
+   "briefs": [
+    {
+     "title": "Twenty-one people die in a minibus and truck crash in Tanzania",
+     "text": "A minibus collided with a cargo truck on the highway near Iringa on Monday morning, killing 21 people, including two young boys, and injuring five. The regional police commander said early findings suggest the minibus pulled onto the highway from a side road without taking proper care.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "AllAfrica (Tanzania Daily News)",
+       "title": "21 killed in bus and truck collision on Iringa highway",
+       "url": "https://allafrica.com/stories/202611100034.html",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "United States deports a genocide suspect to Rwanda",
+     "text": "Jean Léonard Teganya, 55, was handed to Rwandan authorities in Kigali on Monday and arrested over alleged killings in Butare during the 1994 genocide against the Tutsi. He had served a US prison sentence for immigration fraud and perjury. Rwanda’s prosecutors say he is the eighth genocide fugitive deported from the United States since 2007.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "AllAfrica (The New Times)",
+       "title": "US deports Rwandan genocide suspect Jean Léonard Teganya",
+       "url": "https://allafrica.com/stories/202611100072.html",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Trump said the Iran war was effectively over militarily after meeting Qatar’s prime minister, while Saudi Arabia intercepted missiles over Riyadh. Israel’s new Knesset is sworn in, and the UN counted the damage from Gaza’s first winter storm.",
+   "briefs": [
+    {
+     "title": "Israeli forces kill a 14-year-old boy in a West Bank village",
+     "text": "Israeli forces shot dead Moataz Iyad Daghlas, 14, and wounded two older teenagers during a raid on Burqa, near Nablus, the Palestinian health ministry said. The Israeli military said soldiers fired to stop stone-throwing at vehicles. The UN says at least 1,143 Palestinians, including 250 children, have been killed in the West Bank since October 7, 2023.",
+     "eventDate": "2026-11-09 / 2026-11-10",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
+       "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Gulf states agree a forward military command in Kuwait",
+     "text": "Defence ministers of the Gulf Cooperation Council, meeting in Manama on Tuesday, approved opening an advanced headquarters for their unified military command in Kuwait and assigning forces to it. The council’s secretary-general described the move as a response to Iranian attacks; no size or timetable was given.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "The Peninsula",
+       "title": "GCC approves opening advanced command for Unified Military Command in Kuwait",
+       "url": "https://thepeninsulaqatar.com/article/10/11/2026/gcc-approves-opening-advanced-command-for-unified-military-command-in-kuwait",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Iraq reopens a border crossing with Iran",
+     "text": "Iraq reopened the Al-Sheeb crossing with Iran in Maysan province on Tuesday, which it had closed in October amid US pressure to isolate Tehran, and said it would close the Mandali crossing in Diyala from Friday for maintenance.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "The New Arab",
+       "title": "Trump claims war 'effectively over', Iran presses conditions",
+       "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
+       "publishedAt": "2026-11-10",
+       "kind": "Live reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Bangladesh’s exiled former leader Sheikh Hasina applied for a passport ahead of a promised return. Vietnam and Japan signed a set of agreements during To Lam’s visit to Tokyo.",
+   "briefs": [
+    {
+     "title": "Vietnam and Japan sign deals on nuclear power, AI and a power plant loan",
+     "text": "During To Lam’s official visit to Tokyo, he and Prime Minister Sanae Takaichi oversaw the signing of 11 cooperation documents on Monday, Vietnamese state media reported, including a memorandum on nuclear power, an agreement on AI research and a Japanese aid loan for the O Mon 3 thermal power plant. The two leaders also issued a joint vision statement.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Vietnam News Agency (VietnamPlus)",
+       "title": "Vietnamese, Japanese leaders witness exchange of cooperation deals",
+       "url": "https://en.vietnamplus.vn/vietnamese-japanese-leaders-witness-exchange-of-cooperation-deals-post355102.vnp",
+       "publishedAt": "2026-11-09",
+       "kind": "State media"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Pacific leaders pressed for climate finance at COP31, and Papua New Guinea’s prime minister reaffirmed ties with China. New Zealand’s final election result is due on November 27.",
+   "briefs": [
+    {
+     "title": "Papua New Guinea’s prime minister reaffirms the One-China policy",
+     "text": "James Marape told the head of China’s international development agency in Port Moresby that Papua New Guinea would never compromise its One-China policy, and sought more trade, investment and visa arrangements. He asked his Treasury to weigh Chinese concessional loans against the goal of a balanced budget in 2027. Taiwan was recently ordered to close its office in the country.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "Islands Business (PACNEWS)",
+       "title": "PACNEWS TWO, 10 November 2026",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-two-10-november-2026/",
+       "publishedAt": "2026-11-10",
+       "kind": "Regional news service"
+      },
+      {
+       "publisher": "Islands Business (PACNEWS)",
+       "title": "PACNEWS ONE, 10 November 2026",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-one-10-november-2026/",
+       "publishedAt": "2026-11-10",
+       "kind": "Regional news service"
+      }
+     ]
+    },
+    {
+     "title": "US moves again to open a Pacific marine monument to commercial fishing",
+     "text": "A proposed federal rule published on Monday would allow purse-seine and longline fishing in the Pacific Islands Heritage Marine National Monument, with a 30-day comment period. Conservation groups, which won a lawsuit last year that stopped commercial fishing there, say they will go back to court.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Islands Business (PACNEWS)",
+       "title": "PACNEWS TWO, 10 November 2026",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-two-10-november-2026/",
+       "publishedAt": "2026-11-10",
+       "kind": "Regional news service"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

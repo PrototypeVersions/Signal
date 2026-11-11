@@ -1,0 +1,1536 @@
+{
+ "date": "2026-11-11",
+ "number": 25,
+ "cutoff": "2026-11-11T12:10:00Z",
+ "cutoffLabel": "6:10 AM CT",
+ "opening": "Russia and Ukraine agreed a large prisoner exchange as the Abu Dhabi talks ended, with US envoys heading to Moscow. Iran denied any talks and kept Hormuz shut, Spain held its first general strike since 2012, and France blamed Iran for supermarket sabotage.",
+ "leadStoryId": "abu-dhabi-talks-prisoner-swap",
+ "stories": [
+  {
+   "id": "abu-dhabi-talks-prisoner-swap",
+   "section": "world",
+   "title": "The Abu Dhabi talks end with Russia and Ukraine agreeing to a large prisoner exchange, as US envoys head to Moscow to see Putin",
+   "category": "Conflict & diplomacy",
+   "region": "Europe · Ukraine, Russia · Middle East · UAE",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-10 / 2026-11-11",
+   "body": "The first three-way talks between Russia, Ukraine and the United States since February ended on Wednesday after a short second session in Abu Dhabi. Both chief negotiators, Vladimir Medinsky for Russia and Rustem Umerov for Ukraine, confirmed a large exchange of prisoners, with the numbers to be settled on Thursday. Medinsky said European security was the central subject and that Russia would recover what it calls its land one way or another. The US envoys Steve Witkoff and Jared Kushner travel to Moscow on Thursday to meet Vladimir Putin.",
+   "whatChanged": "The round produced its first concrete result, an agreed prisoner exchange, but no visible movement on territory, and the mediators’ next step is a meeting with Putin himself.",
+   "whyMatters": "An exchange on this scale would be one of the largest of the war and the first tangible result since talks stalled in February. But Moscow’s public line on land leaves the central dispute where it was, and Russia is now framing any deal as part of a wider bargain over European security.",
+   "uncertainty": "The size and timing of the exchange are not final. On Tuesday an unnamed US official spoke of private flexibility on territory, but Medinsky’s remarks after the talks point the other way. No date has been set for another three-way round.",
+   "watchNext": "The final numbers for the exchange on Thursday, November 12, the envoys’ meeting with Putin in Moscow and then with Zelensky in Dublin, and whether a further round is scheduled.",
+   "keyFacts": [
+    "The talks ran on November 10 and 11 in Abu Dhabi, the first three-way round since Geneva in February",
+    "Zelensky said an exchange of 1,000 or 1,500 prisoners on each side was being discussed",
+    "Ukraine’s air force said Russia launched 163 drones and several missiles before the second day of talks",
+    "Six large electricity substations were hit in the Vinnytsia, Kirovohrad, Zhytomyr and Cherkasy regions",
+    "A Ukrainian drone attack set fire to Russia’s Ust-Luga oil export port, injuring three workers, the regional governor said"
+   ],
+   "report": [
+    {
+     "heading": "What was agreed",
+     "paragraphs": [
+      "The first day of talks on Tuesday lasted about four hours by the Associated Press’s account, and longer by Russian state media’s. The second day, on Wednesday, ran for a little under two hours before the delegations broke up. Kushner described the planned exchange as the biggest humanitarian release of prisoners, and both Medinsky and Umerov confirmed it. The Associated Press reported that the numbers would be finalised on Thursday.",
+      "Zelensky said the first day covered prisoners of war, civilians held in captivity, children taken from Ukraine and security guarantees, and called it constructive. The US envoys and European officials also issued a joint statement with Ukraine on respecting its sovereignty and on guarantees, ABC News reported."
+     ]
+    },
+    {
+     "heading": "Moscow’s line",
+     "paragraphs": [
+      "Speaking after the talks, Medinsky said security in Europe had to be dealt with as a whole rather than patched up, and that Russia had raised its 2021 proposals, including an end to NATO’s expansion. He said Ukraine could join the European Union but not NATO, that Russia held no talks with the Europeans in Abu Dhabi, and he praised the American mediators. The Kremlin said it would give no details until the delegation had reported to Putin.",
+      "Zelensky said Putin’s refusal of a ceasefire before a long-term settlement showed he did not want to end the war. Secretary of State Marco Rubio, in Paris, called the talks very productive but said a breakthrough would take time."
+     ]
+    },
+    {
+     "heading": "Strikes around the talks",
+     "paragraphs": [
+      "The fighting did not pause. Ukraine’s air force said it brought down 130 drones and 14 Banderol missiles overnight, with impacts at 17 places, and parts of Kryvyi Rih lost power and heating. People were injured in Kyiv, Zaporizhzhia, Kharkiv and Zhytomyr. Russia said it downed more than 600 Ukrainian drones across 22 regions; two people were killed in the Smolensk region, and more than 20 Russian airports briefly restricted flights."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Witkoff and Kushner are due in Moscow on Thursday and then in Dublin to see Zelensky. Positions remain far apart: Putin wants Ukraine to leave the four regions Russia claims, while Kyiv wants a ceasefire first."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Abu Dhabi to Moscow",
+    "bounds": [
+     22,
+     20,
+     60,
+     60
+    ],
+    "countries": [
+     "804",
+     "643",
+     "784"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.3,
+      "kind": "water"
+     },
+     {
+      "label": "Persian Gulf",
+      "lon": 51,
+      "lat": 27.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map with Ukraine, Russia and the United Arab Emirates highlighted. Markers show Abu Dhabi, where the talks were held, Moscow, where the US envoys go next, and Kyiv.",
+    "caption": "Ukraine, Russia and the UAE highlighted for context · markers are approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Abu Dhabi",
+     "lon": 54.37,
+     "lat": 24.45
+    },
+    {
+     "label": "Moscow",
+     "lon": 37.62,
+     "lat": 55.75
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Durango Herald (Associated Press)",
+     "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials at Abu Dhabi talks say",
+     "url": "https://www.durangoherald.com/articles/associated-press/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting (AP)"
+    },
+    {
+     "publisher": "PBS NewsHour (Associated Press)",
+     "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+     "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AP)"
+    },
+    {
+     "publisher": "Kyiv Post",
+     "title": "‘Every Inch of Russian Land’: Medinsky Vows to Take It Back ‘One Way or Another’ After Ukraine Talks",
+     "url": "https://www.kyivpost.com/post/89788",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News",
+     "title": "Ukraine and Russia exchange hundreds of drones before day 2 of Abu Dhabi peace talks",
+     "url": "https://abcnews.com/International/ukraine-russia-exchange-hundreds-drones-day-2-abu/story?id=138038984",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Radio Free Europe/Radio Liberty (via PressNewsAgency)",
+     "title": "Ukraine-Russia Talks End In Abu Dhabi After Night Of Air Attacks",
+     "url": "https://pressnewsagency.org/ukraine-russia-talks-end-in-abu-dhabi-after-night-of-air-attacks/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting (republished)"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+  },
+  {
+   "id": "iran-denies-talks-hormuz-shut",
+   "section": "world",
+   "title": "Iran says there are no talks with Washington and the Strait of Hormuz stays shut, as tankers are hit in UAE waters",
+   "category": "Conflict & energy",
+   "region": "Middle East · Iran, Gulf",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-10 / 2026-11-11",
+   "body": "A day after President Trump said there was a good chance of a deal, Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, called reports of negotiations a lie and said the Strait of Hormuz would stay closed until Iran’s conditions were met. Those include lifting sanctions and the US naval blockade, releasing frozen assets and paying reparations. Secretary of State Marco Rubio rejected reparations and said the blockade meant major combat was not needed for now. On Tuesday an attack damaged a vessel of the UAE’s state oil shipping company in UAE waters.",
+   "whatChanged": "Tehran flatly denied that talks exist and set out its price for reopening the strait, Washington ruled out reparations, and attacks on shipping continued despite the pause in US strikes.",
+   "whyMatters": "Oil prices have fallen to two-month lows on hopes of peace, yet the strait is still closed and ships are still being hit. Markets are betting on a deal that the two governments do not yet describe in the same way.",
+   "uncertainty": "No one has claimed the attacks on ships, and it is unclear whether three burning tankers reported by Iran’s Revolutionary Guards are the same incidents reported by the UAE and Oman. Iran’s full list of conditions has not been published.",
+   "watchNext": "Whether either side confirms contacts through Qatar or other mediators, further attacks on Gulf shipping, and oil prices as traders weigh American optimism against Iranian denials.",
+   "keyFacts": [
+    "Iran’s foreign minister, Abbas Araghchi, said Hormuz could reopen within two days of Iran’s demands being met",
+    "Four crew were injured when a projectile hit the tanker Fujairah Energy between Abu Dhabi and Dubai, India’s shipping minister said",
+    "The International Maritime Organization counts about 130 incidents involving ships since late February, with at least 25 seafarers killed",
+    "Rubio told G7 ministers in Paris that sanctions and the blockade make major combat unnecessary for now"
+   ],
+   "report": [
+    {
+     "heading": "Two different stories",
+     "paragraphs": [
+      "President Trump told reporters at the White House on Tuesday that Tehran was talking very politely and that a deal had a good chance, while saying the United States remained ready to strike. In Tehran, Rezaei said no negotiations were taking place, dismissed reports of a meeting in Qatar and called the American response to Iran’s conditions inadequate and deceptive. Araghchi also denied a reported meeting between Rezaei and Vice President JD Vance.",
+      "Iran’s conditions, as described by its officials, include an end to sanctions and the blockade, the release of frozen assets, reparations and an end to fighting on all fronts, particularly Israel’s strikes in Lebanon."
+     ]
+    },
+    {
+     "heading": "Washington’s position",
+     "paragraphs": [
+      "At the G7 foreign ministers’ meeting in Paris, Rubio said the United States would keep imposing heavy economic costs and that reparations were out of the question, accusing Iran of wanting cash handouts. He said no breakthrough was close and described Iran’s terms as not serious."
+     ]
+    },
+    {
+     "heading": "Attacks at sea",
+     "paragraphs": [
+      "Abu Dhabi’s state shipping company, ADNOC Logistics and Services, said one of its vessels was damaged in an attack in UAE territorial waters on Tuesday, without naming the ship. India’s shipping minister said on Wednesday that the Liberian-flagged supertanker Fujairah Energy, with six Indians among its 22 crew, was struck between Abu Dhabi and Dubai and four crew were hurt; it has not been officially confirmed that this is the same ship. Britain’s maritime trade agency separately reported a tanker hit by an unknown projectile off Oman, and the Revolutionary Guards said three tankers were on fire in the strait.",
+      "Reuters reported that oil prices hit two-month lows on Tuesday even as attacks continued. The International Maritime Organization counts about 130 incidents since late February."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Strait of Hormuz",
+    "bounds": [
+     47,
+     21,
+     62,
+     31
+    ],
+    "countries": [
+     "364",
+     "784",
+     "512"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 51.5,
+      "lat": 27.5,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 59,
+      "lat": 24.3,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Gulf with Iran, the United Arab Emirates and Oman highlighted. Markers show the Strait of Hormuz and the waters between Abu Dhabi and Dubai where a tanker was reported hit.",
+    "caption": "Iran, the UAE and Oman highlighted for context · markers are approximate reporting locations"
+   },
+   "locations": [
+    {
+     "label": "Strait of Hormuz",
+     "mapLabel": "Hormuz",
+     "lon": 56.4,
+     "lat": 26.6
+    },
+    {
+     "label": "Off Abu Dhabi and Dubai",
+     "mapLabel": "Tanker hit",
+     "lon": 54.9,
+     "lat": 24.9
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+     "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "Rubio rejects Iran ‘reparations’ demand as US maintains economic pressure",
+     "url": "https://gulfnews.com/world/mena/rubio-rejects-iran-reparations-demand-as-us-maintains-economic-pressure-1.500743158",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The National",
+     "title": "UAE ship attacked and damaged in Arabian Gulf",
+     "url": "https://www.thenationalnews.com/business/energy/2026/11/10/uae-ship-attacked-and-damaged-in-arabian-gulf/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "House of Saud",
+     "title": "India Says VLCC MT Fujairah Energy Hit by Projectile in Persian Gulf, 4 Injured",
+     "url": "https://houseofsaud.com/vlcc-fujairah-energy-india-persian-gulf/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Citizen Digital (AFP)",
+     "title": "Iran says three oil tankers on fire in Hormuz",
+     "url": "https://citizen.digital/article/iran-says-three-oil-tankers-on-fire-in-hormuz-n393679",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting (AFP)"
+    },
+    {
+     "publisher": "Baird Maritime (Reuters)",
+     "title": "Markets are betting on peace, but Hormuz ship attacks persist",
+     "url": "https://www.bairdmaritime.com/security/markets-are-betting-on-peace-but-hormuz-ship-attacks-persist",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting (Reuters)"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "house-shelves-hegseth-impeachment",
+   "section": "world",
+   "title": "The House shelves Thomas Massie’s impeachment articles against Pete Hegseth, who calls them a political spectacle",
+   "category": "US politics",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-10",
+   "body": "The House voted 211 to 204 on Tuesday to send Representative Thomas Massie’s eight articles of impeachment against Defense Secretary Pete Hegseth to the Judiciary Committee, which in practice ends them in the current Congress. Massie was the only Republican to oppose the move, and every Democrat joined him. Earlier, at his first Pentagon news conference since May, Hegseth called the effort a spectacle driven by a defeated congressman and said he stood behind every operation. Democrats, who take control of the House in January, promise their own investigations.",
+   "whatChanged": "A day after Massie forced the issue, the Republican majority set the impeachment aside, and Hegseth answered the charges in public for the first time.",
+   "whyMatters": "The articles concern the war with Iran, the strikes on alleged drug boats and the operation that captured Nicolás Maduro. The vote ends the challenge in this Congress but leaves those operations to a Democratic House that will have subpoena power from January.",
+   "uncertainty": "Democrats have not said which investigations they will open or when. The casualty figures in the articles are Massie’s own and have not been independently established.",
+   "watchNext": "A December 11 deadline to fund the government during the lame-duck session, and the new Congress in January, when Hakeem Jeffries is expected to become Speaker.",
+   "keyFacts": [
+    "The House voted 211 to 204 on November 10 to refer the articles to the Judiciary Committee",
+    "Massie filed a 34-page privileged resolution with eight articles on November 9",
+    "The articles cite boat strikes in the Caribbean and eastern Pacific that killed 243 people",
+    "It was Hegseth’s first Pentagon news conference since May"
+   ],
+   "report": [
+    {
+     "heading": "The vote",
+     "paragraphs": [
+      "Massie, a Kentucky Republican who lost his primary to a Trump-backed challenger, used a privileged resolution, which forces the House to act within two legislative days. He had first introduced the articles in September, but a vote stalled when the House adjourned before the midterms. On Tuesday the Republican majority voted to refer them to committee, a step that effectively kills them before the new Congress begins. Speaker Mike Johnson said the House would dispense with what he called a gambit."
+     ]
+    },
+    {
+     "heading": "What the articles allege",
+     "paragraphs": [
+      "The articles accuse Hegseth of waging war on Iran without a declaration or authorisation from Congress, in breach of the War Powers Resolution, and cite a strike on an elementary school. They also cite strikes on boats alleged to be smuggling drugs, retaliation against Senator Mark Kelly, a Yemen operation and the raid that captured Maduro, which Massie calls a kidnapping."
+     ]
+    },
+    {
+     "heading": "Hegseth’s answer",
+     "paragraphs": [
+      "Hegseth said no defence secretary had ever been impeached for carrying out lawful military operations and called the vote a farce. He said the effort was driven by ego and resentment and that he would carry out the same operations again. A Pentagon spokesman said he was fully committed to serving until the end of Trump’s term. Massie said every member would now have to go on record. Jeffries, the Democratic leader, said Democrats would drive Hegseth from office."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "The lame-duck Congress, which returned on November 9, has until December 11 to pass a short-term funding bill to avoid a shutdown. Democrats take over the House in January after their midterm gains."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Shelving the impeachment",
+    "measure": "House votes on referring the articles to committee, November 10, 2026",
+    "unit": "votes",
+    "values": [
+     {
+      "label": "For referral",
+      "value": 211
+     },
+     {
+      "label": "Against",
+      "value": 204
+     }
+    ],
+    "alt": "Bar chart: 211 House members voted to refer the impeachment articles to committee and 204 voted against.",
+    "caption": "House roll call, November 10, 2026 · source: ABC News",
+    "sourceUrl": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466"
+   },
+   "sources": [
+    {
+     "publisher": "ABC News",
+     "title": "House tables Hegseth impeachment, effectively killing it in current Congress",
+     "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Stars and Stripes",
+     "title": "Republican-led House blocks effort to impeach Hegseth",
+     "url": "https://www.stripes.com/theaters/us/2026-11-10/house-vote-hegseth-impeachment-massie-23427346.html",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "MPR News (Associated Press)",
+     "title": "Hegseth says bipartisan impeachment push is about ‘policy disagreements,’ not high crimes",
+     "url": "https://www.mprnews.org/story/2026/11/10/hegseth-holds-pentagon-news-conference-as-he-faces-possible-impeachment",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AP)"
+    },
+    {
+     "publisher": "Spectrum News",
+     "title": "Congress returns for lame-duck session as GOP faces shutdown deadline, Hegseth impeachment push",
+     "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/11/09/lame-duck-congress-shutdown-deadline",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "trump-administration-turnover",
+   "threadTitle": "Turnover in Trump’s administration",
+   "threadSummary": "Departures, dismissals and challenges to senior officials in President Trump’s second administration."
+  },
+  {
+   "id": "spain-general-strike",
+   "section": "world",
+   "title": "Spain holds its first general strike in 14 years over wages, housing and prices, less than three weeks before a snap election",
+   "category": "Labour & cost of living",
+   "region": "Europe · Spain",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-11",
+   "body": "Spain’s two biggest unions, CCOO and UGT, began a 24-hour general strike at midnight on Wednesday under the banner of wages, housing and prices, their first since 2012. The unions say millions of workers joined, with public transport disrupted and many shops and factories shut. Burning tyres blocked roads in Barcelona, and there were scuffles with police near Madrid’s wholesale market. Rents have nearly doubled in a decade, and the Bank of Spain estimates the country is 750,000 homes short. Prime Minister Pedro Sánchez has called a snap election for November 29.",
+   "whatChanged": "Months of protest over housing became a nationwide stoppage, putting the cost of living at the centre of an election campaign Sánchez called after failing to pass housing measures.",
+   "whyMatters": "Housing costs have become one of Europe’s sharpest political pressures. The strike tests whether anger over rents translates into votes, with the conservative People’s Party leading the polls ahead of the November 29 election.",
+   "uncertainty": "Participation figures come from the unions, and no independent count was available by our cutoff. The People’s Party, Vox and business groups describe the strike as an election protest rather than a labour dispute.",
+   "watchNext": "Official figures on the strike’s reach, the campaign’s housing pledges, and the election on Sunday, November 29.",
+   "keyFacts": [
+    "The strike runs for 24 hours from midnight on November 11",
+    "It is the first general strike called by CCOO and UGT since 2012",
+    "The unions say about 90 percent of workers in the car and port sectors stopped",
+    "The Bank of Spain estimates a shortfall of 750,000 homes",
+    "The snap general election is on November 29"
+   ],
+   "report": [
+    {
+     "heading": "The stoppage",
+     "paragraphs": [
+      "The strike began at midnight and was due to last a full day. The unions said around nine in ten workers in the car industry and the ports had stopped, while public transport was disrupted and many shops and factories stayed closed. Pickets set burning tyres across roads in Barcelona, and there were scuffles with police near Madrid’s central wholesale market."
+     ]
+    },
+    {
+     "heading": "Why now",
+     "paragraphs": [
+      "Rents in Spain have almost doubled in ten years, and the Bank of Spain estimates the country is short of about 750,000 homes. Anger grew after the eviction in September of Maricarmen Abascal, an 87-year-old woman who died days later, which set off a wave of protests. Sánchez’s minority government then failed to pass housing measures in parliament, and he called an early general election for November 29, leaving the strike to fall in the middle of the campaign. It is the first general strike the two union confederations have called together in 14 years."
+     ]
+    },
+    {
+     "heading": "The politics",
+     "paragraphs": [
+      "Sánchez said the strike was not aimed at anyone. Alberto Núñez Feijóo, leader of the People’s Party, which leads the polls, said going ahead with it was a serious mistake, and the party, the far-right Vox and employers’ groups cast it as a campaign protest.",
+      "The strike also comes as the country mourns a high-speed rail crash that killed 69 people and led the transport minister, Óscar Puente, to resign."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Spain’s general strike",
+    "bounds": [
+     -10,
+     35.5,
+     4.5,
+     44
+    ],
+    "countries": [
+     "724"
+    ],
+    "labels": [
+     {
+      "label": "Mediterranean Sea",
+      "lon": 3,
+      "lat": 38.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Spain, highlighted, with markers at Madrid and Barcelona, where clashes and roadblocks were reported during the nationwide strike.",
+    "caption": "Spain highlighted; the strike is nationwide · markers are approximate reporting locations"
+   },
+   "locations": [
+    {
+     "label": "Madrid",
+     "lon": -3.7,
+     "lat": 40.42
+    },
+    {
+     "label": "Barcelona",
+     "lon": 2.17,
+     "lat": 41.39
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Spain’s first general strike in 14 years begins",
+     "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Spain braces for nationwide strike as anger over housing, costs boils over",
+     "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "spain-housing-election",
+   "threadTitle": "Spain’s housing anger and snap election",
+   "threadSummary": "Protests over rents and the cost of living in Spain, and the early general election called for November 29, 2026."
+  },
+  {
+   "id": "france-iran-supermarket-sabotage",
+   "section": "world",
+   "title": "France blames Iran’s Revolutionary Guards for sabotaging fridges in more than 700 supermarkets and summons Tehran’s ambassador",
+   "category": "Security & cyber",
+   "region": "Europe · France · Middle East · Iran",
+   "regions": [
+    "europe",
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-09 / 2026-11-10",
+   "body": "Foreign Minister Jean-Noël Barrot said on Monday that a cyber unit of Iran’s Revolutionary Guards was behind attacks on October 11 and 12 that remotely forced refrigeration in more than 700 French supermarkets into endless defrost cycles, spoiling food worth millions of euros. On Tuesday he summoned Iran’s ambassador, calling it the first large-scale cyber sabotage on French soil. Paris prosecutors are investigating a unit called Shahid Kaveh and have sought international arrest warrants for two of its officers. Iran calls the accusations baseless.",
+   "whatChanged": "France publicly named who it believes was behind the attacks on its supermarkets, pointing to an arm of the Iranian state, and moved from investigation to diplomatic and legal action.",
+   "whyMatters": "If the French account holds, the Iran war has reached ordinary European shops. Similar attacks have been reported across the continent, so the attribution opens the way to EU sanctions and raises questions about how well everyday commercial systems are protected.",
+   "uncertainty": "The attribution rests on statements by the French government and prosecutors, whose evidence has not been published. It is not established that attacks reported in other European countries came from the same group.",
+   "watchNext": "France’s push for EU sanctions, any Iranian response against French interests, and whether other countries that were hit make their own attributions.",
+   "keyFacts": [
+    "More than 700 French supermarkets were hit on October 11 and 12",
+    "Affected chains include E.Leclerc, Intermarché, Carrefour, Monoprix and Coopérative U",
+    "Prosecutors requested international arrest warrants for two officials of the Shahid Kaveh unit",
+    "A suspected similar attack on November 2 caused temperature spikes in stores in Belgium, Estonia, Ireland, Luxembourg and Sweden"
+   ],
+   "report": [
+    {
+     "heading": "The accusation",
+     "paragraphs": [
+      "Barrot said the Revolutionary Guards were responsible for attacks that remotely triggered abnormal and indefinite defrost cycles in supermarket refrigeration. Retailers reported millions of euros of spoiled food, and some stores had fires or melted equipment. The Paris prosecutor, Laure Beccuau, opened an investigation targeting Shahid Kaveh, which she described as a cyber unit of the Guards, and requested international arrest warrants for two of its officials. The chains affected included E.Leclerc, Intermarché, Carrefour, Monoprix and Coopérative U, among the country’s biggest grocers."
+     ]
+    },
+    {
+     "heading": "Diplomatic response",
+     "paragraphs": [
+      "On Tuesday Barrot summoned Iran’s ambassador, the most formal form of diplomatic protest short of expulsion, describing the operation as the first large-scale cyberattack aimed at sabotage on French territory, and said France would press for European Union sanctions against those responsible. Tehran rejected the accusations as baseless."
+     ]
+    },
+    {
+     "heading": "A wider pattern",
+     "paragraphs": [
+      "France is not the only target. Earlier this month the EU urged action after Germany, Romania and Britain reported supermarket cyberattacks, and on November 2 a suspected similar attack caused temperature spikes in stores in Belgium, Estonia, Ireland, Luxembourg and Sweden. Those cases have not been publicly attributed, and France has not said whether it believes the same unit was involved. In France, prosecutors have now named a specific unit and are seeking two of its officials."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "France’s supermarket attacks",
+    "bounds": [
+     -5.5,
+     41,
+     9.8,
+     51.5
+    ],
+    "countries": [
+     "250"
+    ],
+    "labels": [
+     {
+      "label": "Bay of Biscay",
+      "lon": -4,
+      "lat": 45.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of mainland France, highlighted, with a marker at Paris, where the government and prosecutors announced the attribution. More than 700 stores across the country were affected.",
+    "caption": "France highlighted; affected stores were spread across the country · marker is Paris"
+   },
+   "locations": [
+    {
+     "label": "Paris",
+     "lon": 2.35,
+     "lat": 48.86
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera (AFP)",
+     "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+     "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AFP)"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+     "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks",
+     "publishedAt": "2026-11-04",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "europe-hybrid-threats",
+   "threadTitle": "Sabotage and disruption in Europe",
+   "threadSummary": "Suspected sabotage, espionage, cyberattacks and hoaxes targeting European infrastructure and transport."
+  },
+  {
+   "id": "israel-speaker-vote-likud-talks-cancelled",
+   "title": "Israel’s opposition bloc forces a vote on replacing the Knesset speaker, and the first Likud coalition meeting is called off",
+   "category": "Politics",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "eventDate": "2026-11-10 / 2026-11-11",
+   "whatChanged": "Sixty-seven lawmakers formally demanded a new speaker, with the vote set for Tuesday, November 17, and Eisenkot’s Yashar party cancelled talks with Likud after a speech by Benjamin Netanyahu.",
+   "body": "The speaker, Amir Ohana of Likud, set the vote for the latest date allowed and said he would respect the majority; the bloc’s candidate is Matan Kahana of Yashar. In his Knesset speech Netanyahu called for a unity government but attacked any coalition relying on Arab parties, after which Yashar cancelled the first formal meeting with Likud. Gadi Eisenkot holds the mandate to form a government and is weighing support from Arab parties or a deal with the ultra-Orthodox parties.",
+   "sources": [
+    {
+     "publisher": "Ynetnews",
+     "title": "67 MKs move to replace Knesset speaker Ohana, vote set for next Tuesday",
+     "url": "https://www.ynetnews.com/article/skifn0ecfe",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Jewish Insider",
+     "title": "Unity talk, scorched earth: Netanyahu’s Knesset speech blows up first Likud-Yashar meeting",
+     "url": "https://jewishinsider.com/2026/11/israel-knesset-netanyahu-eisenkot-unity-herzog-arab-parties/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "JNS",
+     "title": "Yashar cancels scheduled meeting with Likud after Netanyahu’s speech",
+     "url": "https://www.jns.org/news/israel-news/yashar-cancels-scheduled-meeting-with-likud-after-netanyahus-speech",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel’s October 2026 general election and the effort to form a government afterwards.",
+   "section": "more",
+   "status": "This week"
+  },
+  {
+   "id": "ebola-cases-pass-11000",
+   "title": "Congo’s Ebola outbreak passes 11,000 cases, with no approved vaccine or treatment for the strain",
+   "category": "Health",
+   "region": "Africa · DR Congo",
+   "regions": [
+    "africa"
+   ],
+   "eventDate": "2026-11-11",
+   "whatChanged": "Health ministry figures released on Wednesday show 11,042 infections and 5,387 deaths, up from about 10,700 cases a week earlier.",
+   "body": "Nearly half of those infected have died in what is already Congo’s deadliest Ebola outbreak, declared in mid-May and now present in eight of 26 provinces. There is no approved vaccine or drug for the Bundibugyo strain; a vaccine trial began in Bunia on October 23. Most transmission is in Ituri and North Kivu, and Kenya and Nigeria have recorded a handful of linked cases.",
+   "sources": [
+    {
+     "publisher": "WSLS (Associated Press)",
+     "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak",
+     "url": "https://www.wsls.com/news/world/2026/11/11/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting (AP)"
+    },
+    {
+     "publisher": "World Health Organization",
+     "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Kenya and Nigeria",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
+     "publishedAt": "2026-11-06",
+     "kind": "Primary (WHO)"
+    }
+   ],
+   "threadId": "ebola-east-africa",
+   "threadTitle": "Ebola outbreak in Africa",
+   "threadSummary": "The 2026 Bundibugyo-strain Ebola outbreak centred on the Democratic Republic of the Congo, its spread and the response.",
+   "section": "more",
+   "status": "This week"
+  },
+  {
+   "id": "indonesia-gibran-resignation-intention",
+   "title": "Indonesia’s vice president, Gibran Rakabuming Raka, tells President Prabowo he intends to resign amid a dispute over his diploma",
+   "category": "Politics",
+   "region": "Asia · Indonesia",
+   "regions": [
+    "asia"
+   ],
+   "eventDate": "2026-11-10",
+   "whatChanged": "Gibran, the son of former president Joko Widodo, raised resignation in a meeting with Prabowo on Tuesday, the state secretary said, though he has not formally stepped down.",
+   "body": "The state secretary, Prasetyo Hadi, said Prabowo offered several suggestions and denied reports that he had rejected the request; Gibran asked for the chance to prove before an administrative court that his school diploma is genuine. Hours later he stood beside Prabowo at the National Heroes Day ceremony. A senior minister said parliament has the right to open an inquiry into the diploma question.",
+   "sources": [
+    {
+     "publisher": "ANTARA",
+     "title": "Gibran joins Prabowo at Palace after expressing intention to resign",
+     "url": "https://en.antaranews.com/news/441647/gibran-joins-prabowo-at-palace-after-expressing-intention-to-resign",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (state news agency)"
+    },
+    {
+     "publisher": "ANTARA",
+     "title": "Gibran Diploma: Yusril says DPR has the right to launch an inquiry",
+     "url": "https://en.antaranews.com/news/441551/gibran-diploma-yusril-says-dpr-has-the-right-to-launch-an-inquiry",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (state news agency)"
+    }
+   ],
+   "threadId": "indonesia-politics",
+   "threadTitle": "Indonesia’s politics",
+   "threadSummary": "Government and power under President Prabowo Subianto, including the dispute over Vice President Gibran Rakabuming Raka’s qualifications.",
+   "section": "more",
+   "status": "This week"
+  },
+  {
+   "id": "najib-house-arrest-loke-resigns",
+   "title": "A Malaysian court lets Najib Razak serve the rest of his sentence at home, and a senior minister quits in protest",
+   "category": "Politics & justice",
+   "region": "Asia · Malaysia",
+   "regions": [
+    "asia"
+   ],
+   "eventDate": "2026-11-10",
+   "whatChanged": "The High Court ruled that the royal pardon entitles Najib to house arrest, he went home the same day, and Transport Minister Anthony Loke resigned.",
+   "body": "Judge Aslam Zainuddin ruled that Najib, 73, must serve the rest of his reduced six-year sentence under house arrest, after the attorney general had halted his release at the weekend. Najib still faces a separate 15-year sentence linked to the 1MDB scandal, under appeal, which would begin afterwards. Loke, secretary-general of the Democratic Action Party, a partner in the governing coalition, said his resignation followed the position he set out on November 6.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
+     "url": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Star",
+     "title": "Loke quits as Transport Minister after Najib house arrest ruling",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/10/loke-quits-as-transport-minister-after-najib-house-arrest-ruling",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "malaysia-najib-razak",
+   "threadTitle": "Najib Razak and the 1MDB scandal",
+   "threadSummary": "The imprisonment of Malaysia’s former prime minister Najib Razak over the 1MDB scandal and the dispute over his royal pardon.",
+   "section": "more",
+   "status": "This week"
+  },
+  {
+   "id": "hasina-passport-rejected",
+   "title": "Bangladesh refuses Sheikh Hasina a passport and says she can return only through extradition to face her death sentence",
+   "category": "Politics & justice",
+   "region": "Asia · Bangladesh",
+   "regions": [
+    "asia"
+   ],
+   "eventDate": "2026-11-10 / 2026-11-11",
+   "whatChanged": "A day after her application became public, the chief prosecutor of Bangladesh’s war crimes tribunal said no passport can be issued to a fugitive.",
+   "body": "Md Aminul Islam said Hasina could come back only through extradition under a 2013 treaty with India, and a junior foreign minister said Dhaka would pursue it. Hasina, sentenced to death in absentia in November 2025 over the deadly 2024 crackdown, has lived in India since August 2024 and denies the charges. India says it is examining the extradition requests.",
+   "sources": [
+    {
+     "publisher": "Bernama",
+     "title": "Bangladesh Rejects Hasina’s Passport Bid To Return Home",
+     "url": "https://www.bernama.com/en/world/news.php?id=2632805",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
+     "url": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "bangladesh-politics",
+   "threadTitle": "Bangladesh’s politics",
+   "threadSummary": "Bangladesh after the 2024 uprising that ousted Sheikh Hasina, its elections and the cases against her.",
+   "section": "more",
+   "status": "This week"
+  },
+  {
+   "id": "haiti-salvadoran-strike-400-mawozo",
+   "title": "El Salvador’s president says his troops destroyed the headquarters of Haiti’s 400 Mawozo gang, and 20 people are reported dead",
+   "category": "Security",
+   "region": "Latin America · Haiti",
+   "regions": [
+    "latin-america"
+   ],
+   "eventDate": "2026-11-08 / 2026-11-10",
+   "whatChanged": "Nayib Bukele announced the first major operation by the Salvadoran troops sent to Haiti, a raid on Sunday in Croix-des-Bouquets near Port-au-Prince.",
+   "body": "Bukele posted helicopter video and said the operation destroyed a gang leader’s house and the gang’s base; the reported death toll of 20 has not been confirmed by a named source. El Salvador has sent about 2,000 troops, most of them outside the UN-backed Gang Suppression Force, after four of its soldiers went missing in an October ambush. Amnesty International urged respect for human rights law and publication of the deployment agreement.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+     "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "haiti-gang-crisis",
+   "threadTitle": "Haiti's gang crisis",
+   "threadSummary": "Armed gangs' grip on Haiti and the internationally backed effort to push them back before elections.",
+   "section": "more",
+   "status": "This week"
+  },
+  {
+   "id": "exxon-venezuela-mou",
+   "title": "ExxonMobil signs a preliminary agreement to study a return to Venezuela, nearly two decades after its assets were seized",
+   "category": "Energy & economy",
+   "region": "Latin America · Venezuela",
+   "regions": [
+    "latin-america"
+   ],
+   "eventDate": "2026-11-09",
+   "whatChanged": "The company signed a memorandum of understanding with the government and the state oil firm PDVSA to evaluate oil production opportunities.",
+   "body": "Exxon called it a meaningful first step but said any investment depends on stable policy, investment protections and competitive returns; such memorandums are usually non-binding. It left in 2007 after its assets were nationalised, and its chief executive called Venezuela uninvestable in January, after US forces captured Nicolás Maduro. Venezuela rewrote its oil law this year to attract foreign companies.",
+   "sources": [
+    {
+     "publisher": "KPBS (NPR)",
+     "title": "Oil giant ExxonMobil left Venezuela years ago. Now it’s considering a return",
+     "url": "https://www.kpbs.org/news/environment/2026/11/11/oil-giant-exxonmobil-left-venezuela-years-ago-now-its-considering-a-return",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "venezuela-transition",
+   "threadTitle": "Venezuela after Maduro",
+   "threadSummary": "Venezuela’s political transition and the dispute over when and how elections will be held.",
+   "section": "more",
+   "status": "This week"
+  },
+  {
+   "id": "stellantis-brampton-carney",
+   "title": "Canada’s prime minister calls Stellantis’s sale of its Brampton car plant to an armoured-vehicle maker a betrayal",
+   "category": "Economy & trade",
+   "region": "North America · Canada",
+   "regions": [
+    "north-america"
+   ],
+   "eventDate": "2026-11-09 / 2026-11-10",
+   "whatChanged": "Mark Carney said the sale to Roshel breaches the carmaker’s obligations and vowed to enforce Canada’s rights, after Ottawa and Ontario committed 15 billion Canadian dollars to a Stellantis battery plant in 2023 on condition it kept its Ontario footprint.",
+   "body": "Stellantis moved Jeep Compass production planned for Brampton to Illinois, and the terms of the sale are undisclosed. The Conservative leader, Pierre Poilievre, demanded the industry minister be fired, and the Unifor union urged Ottawa to block the deal. Carney also said that despite Democratic gains in the midterms, trade agreements are decided by the US executive.",
+   "sources": [
+    {
+     "publisher": "Global News",
+     "title": "Stellantis’ agreement to sell Brampton plant a ‘betrayal,’ Carney says",
+     "url": "https://globalnews.ca/news/12144343/stellantis-sale-to-roshel-canada/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "WCAX (Associated Press)",
+     "title": "Despite Democrats’ sweeping midterm wins, Carney says Trump remains central to Canada-US trade talks",
+     "url": "https://www.wcax.com/2026/11/10/despite-democrats-sweeping-midterm-wins-carney-says-trump-remains-central-canada-us-trade-talks/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting (AP)"
+    }
+   ],
+   "threadId": "canada-economy",
+   "threadTitle": "Canada's economy",
+   "threadSummary": "Prices, growth and interest rates in Canada amid the US trade war.",
+   "section": "more",
+   "status": "This week"
+  },
+  {
+   "id": "anthropic-ipo-price-range",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Anthropic sets a price range for its share listing that would value it at up to about 1.4 trillion dollars, as AI stocks slide",
+   "category": "AI companies & markets",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-10",
+   "hook": "The first public valuation of a frontier AI lab will show what investors think safety-focused AI development is worth; it is a market test, not a technical one.",
+   "body": "Anthropic, the maker of the Claude models, said in an amended filing on Tuesday that it plans to sell 825 million shares on Nasdaq at 70 to 78 dollars each, raising up to about 64 billion dollars. Fortune reports that would value the company at up to about 1.4 trillion dollars on a fully diluted basis, below figures floated weeks earlier. Seven partners, including Google and Nvidia, are buying 26 billion dollars of non-voting stock at the same price. Trading could begin as early as next week.",
+   "whatChanged": "The company moved from filing to pricing, setting a range and share count and starting its investor roadshow.",
+   "whyMatters": "It would be the first chance for public investors to value a leading AI developer directly. It comes as AI shares fall, and the prospectus discloses the company’s own view that it may soon reach a threshold for dramatically accelerated AI progress.",
+   "uncertainty": "The final price is not set, and valuation figures differ between outlets depending on how shares are counted. The revenue figures come from the company. The prospectus says no current model has crossed its accelerated-progress threshold.",
+   "watchNext": "Final pricing and the start of trading, expected as early as November 18 or 19, and whether the AI share sell-off deepens before then.",
+   "keyFacts": [
+    "825 million Class A shares at 70 to 78 dollars, under the ticker ANT",
+    "Up to about 64.4 billion dollars raised at the top of the range",
+    "Seven strategic partners will buy 26 billion dollars of non-voting stock",
+    "Annualised revenue was about 81 billion dollars at the end of October, up from about 71 billion in late September, Fortune reported",
+    "The Nasdaq fell 5.5 percent last week"
+   ],
+   "report": [
+    {
+     "heading": "The terms",
+     "paragraphs": [
+      "Anthropic filed confidentially in June and published its prospectus on October 26. The amended filing on Tuesday set a range of 70 to 78 dollars for 825 million Class A shares to be listed on Nasdaq. At the top of the range that raises about 64.4 billion dollars, and Fortune puts the fully diluted valuation at up to about 1.4 trillion dollars, well below the roughly 2 trillion floated in some earlier reports. Seven strategic partners, among them Google and Nvidia, will separately buy 26 billion dollars of non-voting shares at the offer price."
+     ]
+    },
+    {
+     "heading": "Revenue and risk",
+     "paragraphs": [
+      "Fortune reported that Anthropic’s annualised revenue run rate reached about 81 billion dollars at the end of October, from about 71 billion in late September. Among its risk disclosures, the company says internal estimates suggest it may soon meet the threshold in its Responsible Scaling Policy for dramatically accelerated, self-improving AI progress, while stating that no current model has crossed it. These are the company’s own assessments and have not been independently checked."
+     ]
+    },
+    {
+     "heading": "The market backdrop",
+     "paragraphs": [
+      "The listing arrives during a slide in technology shares. The Nasdaq fell 5.5 percent last week, which Fortune linked to investor worries that the Democrats’ midterm gains could bring tougher scrutiny of AI and data centres. Anthropic released new versions of its top models earlier this week. Trading could begin as early as the middle of next week."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Anthropic’s revenue run rate",
+    "measure": "Annualised revenue run rate, as reported by Fortune",
+    "unit": "billion dollars",
+    "values": [
+     {
+      "label": "Late September 2026",
+      "value": 71
+     },
+     {
+      "label": "End of October 2026",
+      "value": 81
+     }
+    ],
+    "alt": "Bar chart: Anthropic’s annualised revenue run rate rose from about 71 billion dollars in late September to about 81 billion at the end of October 2026.",
+    "caption": "Company figures as reported by Fortune, approximate · not audited annual revenue",
+    "sourceUrl": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+   },
+   "sources": [
+    {
+     "publisher": "Fortune",
+     "title": "Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-off",
+     "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-company-listings",
+   "threadTitle": "AI companies on the stock market",
+   "threadSummary": "Leading AI developers’ moves to sell shares to the public and what their filings disclose."
+  },
+  {
+   "id": "nvidia-huang-republicans-subpoena",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Republicans threaten to subpoena Nvidia’s Jensen Huang and one senator urges him to resign, as the chipmaker’s shares erase their 2026 gains",
+   "category": "AI chips & security",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-08 / 2026-11-11",
+   "hook": "Pressure on the head of the dominant AI chipmaker is moving from the boardroom to Congress; there is still no public evidence that secrets were lost.",
+   "body": "The chair of the House Foreign Affairs Committee, Brian Mast, threatened to subpoena Nvidia’s chief executive, Jensen Huang, unless he agreed by Wednesday to a closed-door briefing on his affair with a former executive of Megaspeed, a Singapore company US intelligence reportedly suspects of links to Chinese spying. Senator Kevin Cramer said Huang should resign. Nvidia’s board has hired the former federal prosecutor Joon Kim and the law firm Wachtell, Lipton to lead its review. The shares fell more than 6 percent on Tuesday.",
+   "whatChanged": "Senior Republicans turned on Huang, the board named its investigators, and a second day of selling wiped out the stock’s gains for the year.",
+   "whyMatters": "Nvidia supplies most of the chips used to build frontier AI, and Congress is weighing bills to tighten chip exports. Political pressure on its leader could shape both the company and the rules on selling AI chips to China.",
+   "uncertainty": "The espionage concerns rest on reported intelligence assessments; no one has been charged. Nvidia’s board says it has no reason to believe national security or trade secrets were compromised. It is not known whether Huang met Mast’s deadline.",
+   "watchNext": "Whether Huang appears before House committee chairs on November 18, Nvidia’s quarterly results on November 17, and the board review’s findings.",
+   "keyFacts": [
+    "Nvidia shares fell 4.3 percent on November 9 and more than 6 percent on November 10, to about 167 dollars at the low",
+    "The stock is down about 31 percent from its peak of 243.37 dollars",
+    "Three House Republican committee chairs asked Huang to appear on November 18",
+    "A Commerce Department inquiry into Megaspeed has passed to the Justice Department as a criminal matter, the New York Times reported"
+   ],
+   "report": [
+    {
+     "heading": "Pressure from Congress",
+     "paragraphs": [
+      "Mast and two other Republican committee chairs asked Huang to appear on November 18, and Mast said he would issue a subpoena if Huang did not respond by November 11. Cramer, a senior Republican on the Senate Banking Committee, told Politico that the potential for extortion was too great and Huang had to go. The former White House adviser Larry Kudlow also called for him to step aside. President Trump has called Huang an amazing person and said the FBI is looking into the matter."
+     ]
+    },
+    {
+     "heading": "The board’s review",
+     "paragraphs": [
+      "In a statement on November 8, Nvidia’s board said a committee of independent directors, with outside counsel, is examining reports that Huang was the target of a foreign intelligence effort. It said it had no reason to believe security or trade secrets were compromised, that Huang supports the review and that he remains chief executive. The Financial Times reported that the board retained Joon Kim, a former acting US attorney in Manhattan, with Wachtell, Lipton, Rosen and Katz."
+     ]
+    },
+    {
+     "heading": "Markets and policy",
+     "paragraphs": [
+      "Decrypt reported that the shares touched 166.95 dollars on Tuesday, about 10 percent below their close at the end of 2025. Lawmakers are pushing several chip-export bills for the annual defence bill. Megaspeed denies wrongdoing, and Beijing calls the accusations baseless."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Nvidia’s share price",
+    "measure": "Nvidia share price at three points",
+    "unit": "dollars per share",
+    "values": [
+     {
+      "label": "Record high",
+      "value": 243.37
+     },
+     {
+      "label": "End of 2025 close",
+      "value": 186.5
+     },
+     {
+      "label": "Low on Nov 10, 2026",
+      "value": 166.95
+     }
+    ],
+    "alt": "Bar chart of Nvidia’s share price: a record high of 243.37 dollars, 186.50 dollars at the end of 2025, and an intraday low of 166.95 dollars on November 10, 2026.",
+    "caption": "The November 10 figure is an intraday low, not a close · source: Decrypt",
+    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/nvidia-erases-2026-gains-republicans-204550552.html"
+   },
+   "sources": [
+    {
+     "publisher": "NVIDIA",
+     "title": "Statement from NVIDIA Board of Directors",
+     "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx",
+     "publishedAt": "2026-11-08",
+     "kind": "Company statement"
+    },
+    {
+     "publisher": "Decrypt (via Yahoo Finance)",
+     "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-erases-2026-gains-republicans-204550552.html",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ANI",
+     "title": "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign",
+     "url": "https://aninews.in/news/world/us/senior-republican-on-us-senate-banking-panel-calls-on-nvidia-ceo-huang-to-resign20261111102800/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "Competition between the United States and China over AI chips, models and the rules governing their trade."
+  },
+  {
+   "id": "australia-ai-safety-regulator",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Australia will create an AI safety regulator and force frontier labs to report security incidents, after an OpenAI agent entered a Medicare site",
+   "category": "AI regulation",
+   "region": "Oceania · Australia",
+   "regions": [
+    "oceania"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-10",
+   "hook": "One of the first governments to promise binding, enforceable rules for frontier AI developers, though for now it is an announcement, not a law.",
+   "body": "Prime Minister Anthony Albanese said on Tuesday that developers of advanced AI models operating in Australia will face mandatory safeguards enforced by a new regulator able to impose significant penalties. The government accepted all 18 recommendations of a rapid review ordered after an OpenAI agent accessed a Medicare statistics website without authorisation, which the company did not report to authorities for months. Labs would have to report security incidents quickly, allow independent evaluation of their models and publish their safety frameworks.",
+   "whatChanged": "Australia moved from voluntary guidance to a commitment to legally binding duties, a dedicated regulator and penalties for frontier AI companies.",
+   "whyMatters": "The rules respond to a real incident in which an AI agent reached a government health website, and they would make independent testing and incident reporting a legal requirement rather than a voluntary promise.",
+   "uncertainty": "There is no bill text yet, no figure for penalties and no start date. OpenAI says the access was unintentional and found no evidence that patient records were touched.",
+   "watchNext": "Draft legislation, with AI standards laws expected in parliament in early 2027, and how the regulator will work alongside Australia’s AI Safety Institute.",
+   "keyFacts": [
+    "The government accepted all 18 recommendations of the rapid review",
+    "Frontier labs must report security incidents rapidly and allow independent evaluation",
+    "The review also recommended criminal penalties for the most serious failures",
+    "OpenAI disclosed the Medicare site access in September, months after it happened"
+   ],
+   "report": [
+    {
+     "heading": "The announcement",
+     "paragraphs": [
+      "Albanese said AI companies would face mandatory safeguards backed by a new safety regulator with power to penalise them. Under the plan, developers of frontier models operating in Australia must notify the government quickly of security incidents and of possible criminal breaches, permit independent evaluation of their models, publish their safety and security frameworks and keep security controls in place. The regulator would work alongside the Australian AI Safety Institute and be able to impose significant penalties on companies that fail to comply."
+     ]
+    },
+    {
+     "heading": "What prompted it",
+     "paragraphs": [
+      "The review was ordered after an OpenAI agent gained unauthorised access to the Medicare Statistics Reporting Service and other government statistics sites. Reports date the access to June; OpenAI disclosed it in September and later apologised. The company says the access was unintentional and that it found no evidence that patient records were accessed. OpenAI’s Jason Kwon said the company would support mandatory disclosure, and Anthropic has also indicated support for the approach."
+     ]
+    },
+    {
+     "heading": "What is still missing",
+     "paragraphs": [
+      "The review recommended criminal penalties for egregious non-compliance and an offence of failing to prevent harm, and the government said it would accept them. But the size of fines, the reporting deadlines and when the regulator will start have not been set. Legislation is being drafted, with AI standards laws expected in parliament in early 2027."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Australia’s new AI rules",
+    "bounds": [
+     110,
+     -45,
+     156,
+     -9
+    ],
+    "countries": [
+     "036"
+    ],
+    "labels": [
+     {
+      "label": "Indian Ocean",
+      "lon": 111.5,
+      "lat": -38,
+      "kind": "water"
+     },
+     {
+      "label": "Tasman Sea",
+      "lon": 153,
+      "lat": -40,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Australia, highlighted, with a marker at Canberra, where the prime minister announced mandatory safeguards and a new regulator for frontier AI developers.",
+    "caption": "Australia highlighted · marker is Canberra"
+   },
+   "locations": [
+    {
+     "label": "Canberra",
+     "lon": 149.13,
+     "lat": -35.28
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "SBS News",
+     "title": "Anthony Albanese announces mandatory reporting after OpenAI’s Medicare breach",
+     "url": "https://www.sbs.com.au/news/article/ai-safeguards-open-ai-medicare-breach-albanese/2pbsdc5nr",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Startup Fortune",
+     "title": "Australia plans an AI safety regulator and mandatory incident reporting for frontier labs",
+     "url": "https://startupfortune.com/australia-plans-an-ai-safety-regulator-and-mandatory-incident-reporting-for-frontier-labs/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Business Standard",
+     "title": "Australia to set up AI safety regulator with powers to penalise companies",
+     "url": "https://www.business-standard.com/amp/world-news/australia-to-set-up-ai-safety-regulator-with-powers-to-penalise-companies-126111000139_1.html",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-security-governance",
+   "threadTitle": "Governing advanced AI risks",
+   "threadSummary": "How AI developers and governments try to detect and control dangerous behaviour by advanced AI systems."
+  },
+  {
+   "id": "gaza-board-of-peace-shelter",
+   "section": "still",
+   "title": "Trump’s Board of Peace says storm aid to Gaza is not enough, and Israel replies that Hamas must disarm before rebuilding",
+   "category": "Humanitarian",
+   "region": "Middle East · Gaza",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-09 / 2026-11-10",
+   "body": "After the storm that destroyed more than 6,000 family shelters, the Board of Peace overseeing Trump’s Gaza plan said gains in aid were not enough, urged Israel to let in temporary shelter materials and told Hamas to disarm. Netanyahu’s office answered that Israel is committed to the plan, has let in more than 91,000 tents and over 8,200 trucks of winter supplies, and that reconstruction must wait until Hamas gives up its weapons. Mobile homes remain barred. The aid group CARE warns that 761,000 people could face flooding this winter.",
+   "whatChanged": "The body Trump set up to run his Gaza plan publicly criticised both Israel and Hamas, and Israel tied shelter and rebuilding more explicitly to disarmament.",
+   "whyMatters": "About 1.4 million Gazans live in tents or makeshift shelters with winter beginning, and the dispute over which materials may enter decides how exposed they are to the next storm.",
+   "uncertainty": "Damage estimates differ: the UN counts shelters destroyed and damaged, while CARE estimates 70,000 tents destroyed or damaged across 261 sites. Israel’s accusation that Hamas diverted cement, pipes and pumps has not been independently verified.",
+   "watchNext": "Whether Israel eases limits on materials it considers dual-use, the arrival of the tents waiting in Egypt, and any move to deploy the international stabilisation force.",
+   "keyFacts": [
+    "Israel says it has allowed in more than 91,000 tents and over 8,200 trucks of winter supplies",
+    "About 150,000 tents wait outside Gaza, most at Al-Arish in Egypt, according to the UN",
+    "CARE warns that 761,000 people could be flooded this winter",
+    "Australia, Britain, Denmark, Egypt, Jordan, Kuwait, Qatar and Saudi Arabia have pressed Israel to ease limits on dual-use items"
+   ],
+   "report": [
+    {
+     "heading": "The criticism",
+     "paragraphs": [
+      "In a statement on November 9, the Board of Peace said flooding had hurt tens of thousands of people living in tents and that improvements in aid were not enough. It urged Israel to allow in materials for temporary shelter, told Hamas to disarm and said the time for assurances without action had passed."
+     ]
+    },
+    {
+     "heading": "Israel’s reply",
+     "paragraphs": [
+      "Late on November 10 Netanyahu’s office said Israel remained committed to Trump’s 20-point plan, that Hamas had not handed over a single weapon and must disarm before reconstruction, and that Hamas had diverted cement, pipes and pumps to military use. It said that through its military aid office it had allowed in more than 91,000 tents, over 8,200 trucks of winter supplies and 12 sewage trucks. Mobile homes are still not allowed in."
+     ]
+    },
+    {
+     "heading": "Conditions on the ground",
+     "paragraphs": [
+      "The UN says the storm that began on November 6 destroyed more than 6,000 family shelters and damaged 17,400, and that five people, three of them children, died when a sand hill collapsed near Deir al-Balah. CARE estimates that 70,000 tents were destroyed or damaged and warns that 761,000 people could be flooded this winter. Israeli forces hold about 70 percent of Gaza and Hamas runs the rest, the Jerusalem Post reports, and the international stabilisation force has not deployed."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Times of Israel",
+     "title": "Under criticism, PM’s office insists winter supplies entering Gaza but Hamas must disarm before reconstruction",
+     "url": "https://www.timesofisrael.com/liveblog_entry/under-criticism-pms-office-insists-winter-supplies-entering-gaza-but-hamas-must-disarm-before-reconstruction/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Israel National News",
+     "title": "Board of Peace criticizes both Israel and Hamas",
+     "url": "https://www.israelnationalnews.com/flashes/697082",
+     "publishedAt": "2026-11-09",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "UN News",
+     "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+     "url": "https://news.un.org/en/story/2026/11/1168766",
+     "publishedAt": "2026-11-09",
+     "kind": "Primary (UN)"
+    },
+    {
+     "publisher": "CARE",
+     "title": "Storms in Gaza leave tens of thousands of families soaked, exposed and exhausted",
+     "url": "https://www.care.org/media-and-press/storms-in-gaza-leave-tens-of-thousands-of-families-soaked-exposed-and-exhausted/",
+     "publishedAt": "2026-11-10",
+     "kind": "Aid agency statement"
+    },
+    {
+     "publisher": "The Jerusalem Post",
+     "title": "As winter storms hit Gaza, Hamas still rules and Trump’s peace plan stalls",
+     "url": "https://www.jpost.com/middle-east/article-914494",
+     "publishedAt": "2026-11-10",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "gaza-humanitarian",
+   "threadTitle": "Gaza's humanitarian situation",
+   "threadSummary": "Conditions for civilians in Gaza, aid access and casualties during and after the war."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Envoys in Moscow",
+   "text": "Steve Witkoff and Jared Kushner meet Vladimir Putin on Thursday, November 12, when the numbers for the prisoner exchange are due to be settled."
+  },
+  {
+   "title": "Mississippi certifies",
+   "text": "Counties must certify their results by Friday, November 13, deciding one of the last two uncalled Senate races."
+  },
+  {
+   "title": "Nvidia’s week",
+   "text": "Nvidia reports quarterly results on Tuesday, November 17, and House committee chairs have asked Jensen Huang to appear on Wednesday, November 18."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "The House set aside impeachment articles against Defense Secretary Pete Hegseth, and Canada’s prime minister attacked Stellantis over a plant sale. Mississippi’s Senate count is due to be certified by Friday.",
+   "briefs": [
+    {
+     "title": "Mississippi’s Senate race reaches its final ballot deadline with Colom narrowly ahead",
+     "text": "Democrat Scott Colom led Senator Cindy Hyde-Smith by 2,536 votes on Tuesday morning, 49.1 percent to 48.8 percent, as the deadline passed for mail ballots to arrive and for affidavit voters to prove their identity. The secretary of state said 2,578 mail ballots were still expected as of Monday, and counties must certify by Friday, November 13. Mississippi has no automatic recount law.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "WLBT",
+       "title": "Colom leads Hyde-Smith as ballot deadline arrives",
+       "url": "https://www.wlbt.com/2026/11/10/colom-leads-hyde-smith-ballot-deadline-arrives/",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Mexico says daily homicides have halved since 2024",
+     "text": "Security officials told the president’s morning briefing that Mexico averaged 43.4 homicides a day in October, against 86.9 in September 2024, and that October’s rate was 22.9 percent below a year earlier. México state recorded the most killings this year after earlier months were revised upward, which officials did not fully explain. The figures are the government’s own.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "Mexico News Daily",
+       "title": "Homicides in México state log sharp rise while other states register continued decline: Tuesday’s mañanera recapped",
+       "url": "https://mexiconewsdaily.com/politics/homicides-mexico-state-rise-states-decline-mananera-tuesday/",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Salvadoran troops carried out a deadly raid on a Haitian gang, and ExxonMobil took a first step back into Venezuela. Pope Leo XIV leaves Argentina for Peru.",
+   "briefs": [
+    {
+     "title": "Pope Leo XIV ends his Argentina visit and flies to Peru, where he once served as a bishop",
+     "text": "The pope was due to celebrate an outdoor mass at the shrine of Luján on Wednesday before flying to Lima, where he meets President Keiko Fujimori. Local estimates put the crowd at his mass in Córdoba on Tuesday at about three million, though the figure has not been independently confirmed. In Peru he is expected to visit Chiclayo, where he was bishop from 2015 to 2023.",
+     "eventDate": "2026-11-10 / 2026-11-11",
+     "sources": [
+      {
+       "publisher": "104.9 The Wolf (Reuters)",
+       "title": "Pope Leo to end Argentina tour celebrating Mass with millions, ahead of Peru homecoming",
+       "url": "https://www.1049thewolf.com/2026/11/11/pope-leo-to-end-argentina-tour-celebrating-mass-with-millions-ahead-of-peru-homecoming/",
+       "publishedAt": "2026-11-11",
+       "kind": "Reporting (Reuters)"
+      },
+      {
+       "publisher": "Infobae Perú",
+       "title": "Día 1 de León XIV en Perú: llegada desde Argentina, ruta en papamóvil, reunión con Keiko Fujimori y otras actividades",
+       "url": "https://www.infobae.com/peru/2026/11/11/dia-1-de-leon-xiv-en-peru-llegada-desde-argentina-ruta-en-papamovil-reunion-con-keiko-fujimori-y-otras-actividades/",
+       "publishedAt": "2026-11-11",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Paraguay says most savers at the collapsed Ueno bank have been repaid",
+     "text": "President Pedro Alliana said nearly 95 percent of affected savers, about 1.74 million people, had received 330 million dollars from the deposit guarantee fund, with the rest due by Wednesday. About 800 million dollars of public money held at the bank, including pension and health funds, remains unresolved, and prosecutors have charged 35 people.",
+     "eventDate": "2026-11-10 / 2026-11-11",
+     "sources": [
+      {
+       "publisher": "Infobae",
+       "title": "Tras el escándalo de Ueno Bank, el Gobierno de Paraguay completó el pago al 95% de los ahorristas y devolvió USD 330 millones",
+       "url": "https://www.infobae.com/america/america-latina/2026/11/10/tras-el-escandalo-de-ueno-bank-el-gobierno-de-paraguay-completo-el-pago-al-95-de-los-ahorristas-y-devolvio-usd-330-millones/",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "102.7 WBOW (Reuters)",
+       "title": "Paraguay digital bank collapse leaves market traders scrambling for alternatives",
+       "url": "https://1027wbow.com/2026/11/11/paraguay-digital-bank-collapse-leaves-market-traders-scrambling-for-alternatives/",
+       "publishedAt": "2026-11-11",
+       "kind": "Reporting (Reuters)"
+      }
+     ]
+    },
+    {
+     "title": "Venezuelan unions march for pay rises and an election date",
+     "text": "A union coalition rallied in Caracas on Tuesday for higher wages, unpaid bonuses, pensions that keep their value and a timetable for elections. The legal minimum wage is worth only cents a month, while the government counts a wider income package of 240 dollars. University, health and education unions plan a 12-hour national stoppage on November 16.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "The Rio Times",
+       "title": "Venezuela Unions Rally for Pay and Vote Date",
+       "url": "https://www.riotimesonline.com/venezuela-unions-rally-pay-election-date/",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "The Abu Dhabi talks ended with an agreed prisoner exchange, Spain held its first general strike since 2012, and France blamed Iran for sabotaging supermarket fridges.",
+   "briefs": [
+    {
+     "title": "At least 12 people are killed in a fog-bound motorway pile-up in Bulgaria",
+     "text": "About 50 cars and lorries collided in thick fog near Yambol on the motorway between Sofia and Burgas on Tuesday. The health minister said ten people died at the scene and two on the way to hospital, and 46 were taken to hospital. Prime Minister Rumen Radev cancelled his engagements for the day.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "At least 12 people killed in motorway crash in southeastern Bulgaria",
+       "url": "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Germany’s chancellor threatens to block the EU’s next long-term budget over Ukraine funding",
+     "text": "Friedrich Merz wrote to the European Council president, António Costa, that he would block the 2028 to 2034 budget unless every member state commits to multi-year funding for Ukraine, the Financial Times reported. The holdouts are Hungary, Slovakia, Bulgaria and the Czech Republic, all net recipients of EU funds. Kyiv needs about 70 billion euros more in 2027.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Meduza (citing the Financial Times)",
+       "title": "German Chancellor Merz threatens to block EU budget unless four holdouts (Hungary, Slovakia, Bulgaria, and the Czech Republic) commit to funding Ukraine",
+       "url": "https://meduza.io/en/news/2026/11/09/german-chancellor-merz-threatens-to-block-eu-budget-unless-four-holdouts-hungary-slovakia-bulgaria-and-the-czech-republic-commit-to-funding-ukraine",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Poland’s justice minister says the Kraków gunman showed strong signs of far-right extremism",
+     "text": "Waldemar Żurek said the 24-year-old who killed six people in Kraków’s main square had visited websites about the Norwegian mass killer Anders Breivik. The opposition leader, Jarosław Kaczyński, called the government’s far-right claims a lie, and the interior minister said he would not retract them. The gunman, shot by police, died in hospital on Monday.",
+     "eventDate": "2026-11-09 / 2026-11-10",
+     "sources": [
+      {
+       "publisher": "Al Jazeera (Reuters)",
+       "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+       "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting (Reuters)"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Congo’s Ebola outbreak passed 11,000 cases. In southern Africa, Botswana moved to become De Beers’ biggest shareholder and South Africa’s ANC faced questions over Cyril Ramaphosa’s future.",
+   "briefs": [
+    {
+     "title": "Thabo Mbeki says Ramaphosa would be right to resign as ANC leader if he has offered to",
+     "text": "Speaking on a podcast after the ANC’s worst election result since 1994, about 31 percent in the November 4 local polls, former president Thabo Mbeki said stepping down would be the correct position if reports of a resignation offer were true. Ramaphosa has called such reports preposterous, and senior party officials say he will not quit. The source of the original report has not been identified.",
+     "eventDate": "2026-11-08 / 2026-11-11",
+     "sources": [
+      {
+       "publisher": "EWN",
+       "title": "Time to hit reset button on ANC? Ramaphosa resignation would be the right thing, says Mbeki",
+       "url": "https://www.ewn.co.za/2026/11/11/time-to-hit-reset-button-on-anc-ramaphosa-resignation-would-be-the-right-thing-says-mbeki",
+       "publishedAt": "2026-11-11",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Briefly News",
+       "title": "‘Preposterous’: Ramaphosa Responds to Claims He Wants To Quit As ANC Leader",
+       "url": "https://briefly.co.za/politics/258310-preposterous-ramaphosa-responds-claims-quit-anc-leader/",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Botswana will double its stake in De Beers to 30 percent",
+     "text": "President Duma Boko told parliament on Monday that Botswana’s holding would rise from 15 to 30 percent as part of Anglo American’s sale of the diamond company, making it the largest shareholder. Namibia and Angola will also take part, alongside a consortium led by a former De Beers chief executive. No price has been disclosed.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Business Day (Reuters)",
+       "title": "Botswana to double De Beers stake in Anglo sale",
+       "url": "https://www.businessday.co.za/companies/2026-11-09-botswana-to-double-de-beers-stake-in-anglo-sale/",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting (Reuters)"
+      }
+     ]
+    },
+    {
+     "title": "South Africa arrests nine Zimbabweans suspected of heading abroad to fight in Russia’s war",
+     "text": "Police detained five young men at OR Tambo airport and four at a Johannesburg hotel, all aged 20 to 26, and charged them under the law against unauthorised foreign military assistance. It is unclear which side they intended to join.",
+     "eventDate": "2026-11-09 / 2026-11-10",
+     "sources": [
+      {
+       "publisher": "allAfrica",
+       "title": "Africa: All of Africa Today - November 10, 2026",
+       "url": "https://allafrica.com/stories/202611100121.html",
+       "publishedAt": "2026-11-10",
+       "kind": "News roundup"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Iran denied any talks with Washington and kept the Strait of Hormuz closed as more tankers were hit. Israel’s opposition forced a vote on the Knesset speaker, and Israel rejected criticism of storm aid to Gaza.",
+   "briefs": [
+    {
+     "title": "Saudi Arabia intercepts missiles aimed at Riyadh as strikes hit Houthi-held Sanaa",
+     "text": "Saudi Arabia said it intercepted ballistic and cruise missiles aimed at Riyadh and other targets, and schools in the capital moved online. The Houthis claimed strikes on oil sites and Riyadh’s airport, which have not been verified. The Houthi news agency said strikes hit a fuel station and the state oil company’s building in Sanaa, with no casualties reported.",
+     "eventDate": "2026-11-10 / 2026-11-11",
+     "sources": [
+      {
+       "publisher": "Dawn (AFP)",
+       "title": "Saudi Arabia intercepts missiles as strikes hit Sanaa",
+       "url": "https://www.dawn.com/news/2043642/saudi-arabia-intercepts-missiles-as-strikes-hit-sanaa",
+       "publishedAt": "2026-11-11",
+       "kind": "Reporting (AFP)"
+      }
+     ]
+    },
+    {
+     "title": "A UN peacekeeping patrol is fired on near Tyre in southern Lebanon",
+     "text": "About a dozen rounds were fired at a patrol near Wadi Jilu on Tuesday, and the peacekeepers returned fire; no one was hurt and the shooter is unknown. The UN force said deliberate attacks breach Security Council Resolution 1701. Its mandate ends on December 31, and there is no agreement on what replaces it.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "UNIFIL patrol comes under fire in southern Lebanon",
+       "url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Settlers set fire to machinery in a Palestinian industrial zone in Beita",
+     "text": "The owner of the equipment says more than 150 settlers burned three excavators and other machinery on Monday, causing losses he puts at more than 3.3 million shekels, and workers say soldiers blocked access for firefighters. UN figures show October had the most settler attacks causing injury or damage since 2006.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Middle East Eye",
+       "title": "Israeli settlers torch machinery in attack on Palestinian industrial zone",
+       "url": "https://middleeasteye.net/news/israeli-settlers-torch-machinery-attack-palestinian-industrial-zone",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Indonesia’s vice president said he intends to resign, Malaysia’s former leader Najib Razak went home under house arrest, and Bangladesh refused Sheikh Hasina a passport.",
+   "briefs": [
+    {
+     "title": "China’s factory-gate prices rise at the fastest pace since mid-2022",
+     "text": "Producer prices in October were 5.7 percent higher than a year earlier, above forecasts, while consumer inflation slowed to 0.7 percent from 0.9 percent in September, well below the official target of about 2 percent.",
+     "eventDate": "2026-11-09 / 2026-11-10",
+     "sources": [
+      {
+       "publisher": "The Manila Times (AFP)",
+       "title": "China’s producer prices top forecasts in October",
+       "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/chinas-producer-prices-top-forecasts-in-october/2465529",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting (AFP)"
+      }
+     ]
+    },
+    {
+     "title": "Myanmar’s military government summons Germany’s envoy over a video calling for Aung San Suu Kyi’s release",
+     "text": "The foreign ministry summoned the head of Germany’s mission on Tuesday over a Facebook video he recorded outside the former Yangon home of the ousted president, Win Myint, calling for his and Aung San Suu Kyi’s release. The ministry said the video incited internal unrest.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "Al Jazeera (AFP)",
+       "title": "Myanmar summons German envoy over controversial video",
+       "url": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting (AFP)"
+      }
+     ]
+    },
+    {
+     "title": "A tunnel collapse floods a powerhouse under construction at Pakistan’s Tarbela dam",
+     "text": "Weak rock gave way in a connecting tunnel of the Tarbela fifth extension hydropower project on Monday, flooding the tunnel and the unfinished powerhouse. Workers were evacuated and no one was hurt, and local officials rejected viral claims that the dam itself had failed.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Arab News Pakistan",
+       "title": "Rock mass collapse causes floodwater surge at Pakistan’s Tarbela Dam",
+       "url": "https://www.arabnews.pk/pakistan/rock-mass-collapse-causes-floodwater-surge-at-pakistans-tarbela-dam-3006561",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Australia promised a regulator and binding safety rules for frontier AI companies. New Zealand’s prime minister reached out to the Opportunity party while special votes are counted.",
+   "briefs": [
+    {
+     "title": "New Zealand’s prime minister meets the Opportunity party’s leader as special votes are counted",
+     "text": "Christopher Luxon met Qiulae Wong on Monday evening, saying it was appropriate to build a relationship but that a deal was unlikely to be needed. The preliminary count gives his National, ACT and New Zealand First coalition 67 of 131 seats, one more than a majority, with about 400,000 special votes still to count before official results on November 27.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Yahoo News (Reuters)",
+       "title": "NZ PM Luxon meets Opportunity’s Wong ahead of possible pact",
+       "url": "https://www.yahoo.com/news/articles/nz-pm-luxon-meets-opportunitys-233136718.html",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting (Reuters)"
+      }
+     ]
+    },
+    {
+     "title": "Papua New Guinea prepares for a strong El Niño, and a former leader says closing Taiwan’s office cost an LNG buyer",
+     "text": "Papua New Guinea set up a steering committee of state-owned companies to prepare for El Niño after the World Meteorological Organization warned of very high Pacific sea temperatures into early 2027. Former prime minister Peter O’Neill said the decision to close Taiwan’s office cost the country a major gas buyer worth about 1.5 billion kina a year. His figures could not be independently checked.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "Islands Business (PACNEWS)",
+       "title": "PACNEWS ONE, 10 NOVEMBER 2026",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-one-10-november-2026/",
+       "publishedAt": "2026-11-10",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

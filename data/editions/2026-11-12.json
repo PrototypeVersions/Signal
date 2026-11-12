@@ -1,0 +1,1157 @@
+{
+ "date": "2026-11-12",
+ "number": 26,
+ "cutoff": "2026-11-12T12:15:00Z",
+ "cutoffLabel": "6:15 AM CT",
+ "opening": "US envoys went to Moscow to see Vladimir Putin as European leaders gathered in Dublin. Iran claimed lasting joint control of Hormuz with Oman, Indonesia’s vice president resigned, hotter US inflation set up a December rate rise, and world leaders addressed the COP31 climate summit.",
+ "leadStoryId": "witkoff-kushner-moscow-putin",
+ "stories": [
+  {
+   "id": "witkoff-kushner-moscow-putin",
+   "section": "world",
+   "title": "US envoys go to Moscow to see Putin after the Abu Dhabi talks, as European leaders gather in Dublin to hear from Zelensky",
+   "category": "Conflict & diplomacy",
+   "region": "Europe · Russia, Ukraine, Ireland",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-11 / 2026-11-12",
+   "body": "Steve Witkoff and Jared Kushner landed in Moscow on Thursday morning for talks with Vladimir Putin, a day after the first US-mediated negotiations between Russia and Ukraine in nine months ended in Abu Dhabi with a planned prisoner exchange but no movement on territory. Kushner said Washington wants Putin’s blessing to bring Europeans into the process; Russia’s chief negotiator brushed the idea aside. The envoys then fly to Dublin, where Volodymyr Zelensky is briefing leaders from more than 40 countries at a European summit.",
+   "whatChanged": "The mediators took the talks to Putin himself, reportedly with an updated peace proposal and a request to let Europe in, while Europe’s leaders met in Dublin to hear Kyiv’s account.",
+   "whyMatters": "Europe’s seat at the table has joined territory as a central dispute. Moscow wants a wider bargain on European security without Europeans in the room, while Kyiv and Washington want them involved. Putin’s answer will shape whether another round is held before the new year.",
+   "uncertainty": "The outcome of the Moscow meeting was not known at the time of writing. The size of the prisoner exchange has not been published, and no date has been set for another round.",
+   "watchNext": "Any readout from the Kremlin or the envoys, their meeting with Zelensky in Dublin, new EU sanctions expected on Monday, November 16, and whether a date is set for the next round.",
+   "keyFacts": [
+    "Witkoff’s trip is his tenth to Russia since Donald Trump returned to the White House in January 2025",
+    "The Abu Dhabi talks on November 10 and 11 were the first US-mediated Russia–Ukraine negotiations in nine months",
+    "Kyiv rejects Putin’s demand that Ukraine give up all of the eastern Donbas region",
+    "Up to 50 heads of state or government were expected in Dublin, the largest diplomatic event in Ireland’s history",
+    "France says the EU will adopt sanctions on 150 more entities, including 50 banks, on Monday"
+   ],
+   "report": [
+    {
+     "heading": "Arrival in Moscow",
+     "paragraphs": [
+      "Kirill Dmitriev, Putin’s special envoy, met the Americans on the runway at Vnukovo airport in wet snow and drove them into central Moscow. The meeting with Putin was expected around midday Moscow time. Al Jazeera’s correspondent said the delegation was also expected to bring an updated peace proposal. Foreign Minister Sergei Lavrov said Putin would first hear from the Russian team that went to Abu Dhabi and then from the Americans before deciding what to do next.",
+      "In Abu Dhabi the US side said major differences remained, especially over land, but that there had been some progress on security guarantees after a war. With territory stuck, the mediators have shifted attention to guarantees and reconstruction, according to Reuters."
+     ]
+    },
+    {
+     "heading": "Europe’s place in the talks",
+     "paragraphs": [
+      "Kushner said the United States wanted Putin’s blessing to bring European representatives into the negotiations. Vladimir Medinsky, who led Russia’s delegation, dismissed immediate European participation and said Moscow would accept only a deal on its own terms. A senior Russian diplomat said on Wednesday that Russia could sign non-aggression pacts with NATO members as part of a new European security framework, an idea many European politicians reject until there is real progress on Ukraine, including a ceasefire."
+     ]
+    },
+    {
+     "heading": "The Dublin summit",
+     "paragraphs": [
+      "The ninth European Political Community summit opened on Thursday at the Convention Centre Dublin, hosted by the Taoiseach, Micheál Martin. Zelensky, Canada’s Mark Carney, NATO’s Mark Rutte and Britain’s prime minister, Andy Burnham, were among those attending; Turkey’s Recep Tayyip Erdoğan stayed at the climate summit and Spain’s Pedro Sánchez at home campaigning. The forum issues no communiqué. Zelensky said the outcome depends on how hard Washington presses Moscow and that he wants results by the end of the year.",
+      "Ireland called it the largest security operation in the history of its police force. Hybrid threats from Russia were on the agenda after hoax bomb threats against airlines and media outlets, including the broadcaster RTÉ, for which no European government has formally assigned blame."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Ukraine’s negotiator Davyd Arakhamia said a date for the next round should be fixed after the envoys have seen Putin and Zelensky, and that Kyiv sees enough momentum for a solution before the new year. Al Jazeera’s correspondent in Kyiv reported that Ukrainians expect little from the Moscow meeting."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Moscow, Dublin and Abu Dhabi",
+    "bounds": [
+     -12,
+     20,
+     60,
+     62
+    ],
+    "countries": [
+     "643",
+     "804",
+     "372",
+     "784"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.3,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map with Russia, Ukraine, Ireland and the United Arab Emirates highlighted. Markers show Abu Dhabi, where this week’s talks were held, Moscow, where the US envoys went to see Putin, Dublin, where European leaders gathered, and Kyiv.",
+    "caption": "Countries highlighted for context · markers are approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Moscow",
+     "lon": 37.62,
+     "lat": 55.75
+    },
+    {
+     "label": "Dublin",
+     "lon": -6.26,
+     "lat": 53.35
+    },
+    {
+     "label": "Abu Dhabi",
+     "lon": 54.37,
+     "lat": 24.45
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "Witkoff and Kushner arrive in Moscow seeking Putin's 'blessing' to bring Europe into Ukraine peace talks",
+     "url": "https://www.euronews.com/2026/11/12/witkoff-and-kushner-arrive-in-moscow-seeking-putins-blessing-to-bring-europe-into-ukraine-",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Moscow Times (Reuters)",
+     "title": "U.S. Envoys Arrive in Moscow for Latest Round of Talks With Putin",
+     "url": "https://www.themoscowtimes.com/2026/11/12/us-envoys-arrive-in-moscow-for-latest-round-of-talks-with-putin-a94236",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "RTÉ",
+     "title": "50 leaders in Dublin for State's largest diplomatic event",
+     "url": "https://www.rte.ie/news/eu-presidency/2026/1112/1598891-epc-summit/",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Yahoo News (Associated Press)",
+     "title": "What to know as European leaders meet in Dublin to discuss Ukraine's security, and their own",
+     "url": "https://www.yahoo.com/news/politics/articles/know-european-leaders-meet-dublin-070941490.html",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Post",
+     "title": "Witkoff, Kushner to Meet Putin in Moscow After Abu Dhabi Talks",
+     "url": "https://www.kyivpost.com/post/89817",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+  },
+  {
+   "id": "iran-hormuz-oman-vance-rezaei",
+   "section": "world",
+   "title": "Iran says Hormuz will never return to its pre-war status, as Washington weighs a meeting between JD Vance and Iran’s security chief",
+   "category": "Conflict & diplomacy",
+   "region": "Middle East · Iran, Gulf",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-11 / 2026-11-12",
+   "body": "Mohammad Bagher Ghalibaf, Iran’s parliament speaker and chief negotiator, told Al Jazeera on Wednesday that the Strait of Hormuz will never go back to how it was before the war. He said Iran and Oman had agreed to oversee the waterway and that the UN law of the sea does not apply there. The Wall Street Journal reported that Vice President JD Vance is weighing a meeting with Mohsen Rezaei, Iran’s security chief, possibly in Doha. Rezaei called talk of negotiations a lie, and the Revolutionary Guards said two more tankers hit mines.",
+   "whatChanged": "Tehran stated a lasting claim to joint control of the strait with Oman, and a possible direct channel between Vance and Rezaei came into view, although Iran publicly denied any talks.",
+   "whyMatters": "Changing the rules of one of the world’s main oil routes goes further than reopening it, and shipping nations would find it hard to accept. In Washington, the reported debate has moved from whether to resume strikes to whether to negotiate or keep squeezing Iran’s economy.",
+   "uncertainty": "The Vance meeting is unconfirmed, and US officials call the contacts preliminary. Oman has not been quoted on the arrangement Ghalibaf described. The mine claims come from the Revolutionary Guards and have not been independently confirmed.",
+   "watchNext": "A formal US reply to Iran’s seven conditions, any date for a Vance–Rezaei meeting, and further attacks on ships in and near the strait.",
+   "keyFacts": [
+    "Ghalibaf said Iran sent its seven-condition reply to Washington through a Qatari mediator",
+    "Iran’s conditions include lifting the US naval blockade and sanctions, releasing frozen funds and ending fighting on all fronts",
+    "Steps under discussion reportedly include the US easing its blockade and Iran letting 25 tankers through the strait",
+    "Maritime monitors counted at least 37 attacks on ships in and near the strait in October, the most of any month in the war",
+    "The insurer Allianz Trade puts physical damage to Gulf countries at about 200 billion dollars"
+   ],
+   "report": [
+    {
+     "heading": "Tehran’s terms",
+     "paragraphs": [
+      "In his interview Ghalibaf said the joint arrangement with Oman is part of a seven-point proposal to end the eight-month war, and that the strait is governed by the laws of the two states on its shores rather than by the 1982 convention on the law of the sea. He said the conditions come from a memorandum signed in Islamabad in June and must be carried out before negotiations with the United States begin. The main obstacle, he said, is Iran’s lack of trust in Washington; he warned that new US attacks would end in another defeat for Trump.",
+      "Rezaei, who heads Iran’s Supreme National Security Council, said separately that not a single particle of enriched nuclear material would leave the country."
+     ]
+    },
+    {
+     "heading": "A possible Vance channel",
+     "paragraphs": [
+      "According to the Journal’s account, as reported by Israel Hayom, Trump is open to Vance resuming contacts and has authorised him to lead them. Vance wrote to Rezaei last month asking to meet, but no date is set and the two sides are talking through intermediaries. Secretary of State Marco Rubio and the new White House chief of staff, Stephen Miller, are said to favour keeping sanctions and the blockade in place. Rubio on Tuesday called Iran’s demands totally unrealistic but said that could change.",
+      "Rezaei answered on social media by telling the United States to stop inventing stories about imaginary talks."
+     ]
+    },
+    {
+     "heading": "At sea",
+     "paragraphs": [
+      "The Revolutionary Guards said two more oil tankers struck mines and caught fire after using what they called an unauthorised route; the US military says its southern shipping lanes are safe and open. Allianz Trade estimates the war could cost Gulf states up to 790 billion dollars through 2030, and says more than 80 energy facilities have been hit."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Strait of Hormuz",
+    "bounds": [
+     49,
+     21,
+     62,
+     31
+    ],
+    "countries": [
+     "364",
+     "512",
+     "784",
+     "634"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 51.5,
+      "lat": 27.6,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 59,
+      "lat": 24.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Strait of Hormuz with Iran, Oman, the United Arab Emirates and Qatar highlighted. Markers show the strait and Doha, a possible venue for US–Iran talks.",
+    "caption": "Countries highlighted for context · markers are approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Strait of Hormuz",
+     "mapLabel": "Hormuz",
+     "lon": 56.4,
+     "lat": 26.6
+    },
+    {
+     "label": "Doha",
+     "lon": 51.53,
+     "lat": 25.29
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+     "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Israel Hayom (citing The Wall Street Journal)",
+     "title": "Report: Vance considers face-to-face meeting with Iran's national security chief",
+     "url": "https://www.israelhayom.com/2026/11/11/report-vance-considers-face-to-face-meeting-with-irans-national-security-chief/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Middle East Eye",
+     "title": "Vance reportedly considers direct talks with Iran’s top security chief Rezaei",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-reportedly-considers-direct-talks-irans-top-security-chief-rezaei",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "Live Updates: Iran war, nuclear standoff and the Strait of Hormuz",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+     "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "indonesia-gibran-resigns",
+   "section": "world",
+   "title": "Indonesia’s vice president, Gibran Rakabuming Raka, resigns hours before lawmakers were due to take up an impeachment petition",
+   "category": "Politics",
+   "region": "Asia · Indonesia",
+   "regions": [
+    "asia"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-11 / 2026-11-12",
+   "body": "Gibran Rakabuming Raka, the 39-year-old son of former president Joko Widodo, submitted his resignation as Indonesia’s vice president on Thursday, the speaker of the People’s Consultative Assembly said, and President Prabowo Subianto accepted it. Gibran had offered to quit on Tuesday after the Constitutional Court and the Supreme Court found last month that his education documents did not meet the legal requirements to run. On Wednesday more than 120 lawmakers had petitioned the House to start impeachment proceedings.",
+   "whatChanged": "Gibran went from signalling that he might quit to formally resigning, hours before the House was due to meet on the impeachment petition.",
+   "whyMatters": "It removes the political heir of Indonesia’s previous president from the line of succession and deepens the rift between Prabowo and Widodo. It comes amid street protests over the economy and wildfires and an inquiry into alleged police wiretapping of the president.",
+   "uncertainty": "The resignation letter gave no reason. It is not yet known whom Prabowo will nominate, or what happens to the impeachment petition now.",
+   "watchNext": "Prabowo’s two nominees for the post and the assembly’s vote, which is due within 60 days.",
+   "keyFacts": [
+    "Gibran served two years of a five-year term",
+    "The vacancy does not trigger an election; the assembly chooses between two candidates nominated by the president",
+    "The Constitutional Court found no convincing evidence that he held the high school diploma the law requires",
+    "More than 120 lawmakers from eight parties signed the impeachment petition",
+    "Former police chief Listyo Sigit Prabowo was detained last week over alleged wiretapping of the president"
+   ],
+   "report": [
+    {
+     "heading": "The resignation",
+     "paragraphs": [
+      "The assembly’s speaker, Ahmad Muzani, confirmed receipt of the letter on Thursday, November 12. Prabowo accepted it and thanked Gibran for his service. After meeting the president earlier in the week, Gibran said he respected public criticism and did not want the matter to become a lasting political controversy. A cabinet minister had said Prabowo urged him to defend himself."
+     ]
+    },
+    {
+     "heading": "The diploma dispute",
+     "paragraphs": [
+      "In October the Constitutional Court found no convincing evidence that Gibran held the high school diploma required to stand for office, and the Supreme Court then ruled that an equivalency certificate he had obtained was invalid. Petitioners argued that the document he used before the 2024 election was a support letter from the education ministry based on attendance at a college in Sydney, not a graduation certificate.",
+      "The impeachment petition required House leaders to set up a special committee to examine whether he had breached the constitution by serving despite not meeting the requirements."
+     ]
+    },
+    {
+     "heading": "A widening rift",
+     "paragraphs": [
+      "Widodo backed Prabowo by letting his son run as his running mate, and the pair won decisively. Relations have since soured. Last week the former national police chief, Listyo Sigit Prabowo, who is widely seen as a Widodo ally, and other senior officers were detained over the alleged wiretapping of the president and his allies; a presidential spokesperson said the conduct could amount to treason. Those allegations are still under investigation.",
+      "Students and activists have held protests in several cities in recent weeks over economic hardship, corruption and the government’s handling of months of forest fires, whose smoke has sickened thousands."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "The vice presidency has few defined powers, but its holder takes over if the president is incapacitated. The post stays empty until the assembly elects a successor."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Indonesia",
+    "bounds": [
+     94,
+     -12,
+     142,
+     8
+    ],
+    "countries": [
+     "360"
+    ],
+    "labels": [
+     {
+      "label": "Java Sea",
+      "lon": 111,
+      "lat": -5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Indonesia, highlighted, with a marker on the capital, Jakarta.",
+    "caption": "Indonesia highlighted for context · marker is approximate"
+   },
+   "locations": [
+    {
+     "label": "Jakarta",
+     "lon": 106.85,
+     "lat": -6.21
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Indonesia vice president resigns amid dispute over eligibility",
+     "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "Indonesia Vice-President Gibran Rakabuming Raka resigns over questions about his eligibility",
+     "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "indonesia-politics",
+   "threadTitle": "Indonesia’s politics",
+   "threadSummary": "Government and power under President Prabowo Subianto, including the dispute over Vice President Gibran Rakabuming Raka’s qualifications."
+  },
+  {
+   "id": "us-inflation-fed-december-hike",
+   "section": "world",
+   "title": "Hotter than expected US inflation sets the Federal Reserve on course for another rate rise in December, and long-term borrowing costs reach 5 percent",
+   "category": "Economy",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-10 / 2026-11-11",
+   "body": "US consumer prices rose 0.4 percent in October and core prices, which leave out food and energy, rose 0.3 percent, both more than forecast, the Bureau of Labor Statistics reported on Tuesday. Energy rose much less than in September, but food climbed 0.5 percent, a sign that price pressure is spreading. Futures markets now see almost no chance that the Federal Reserve holds rates at its December meeting, and some traders are betting on a half-point rise. The ten-year Treasury yield returned to about 5 percent.",
+   "whatChanged": "Another month of broad price rises removed most doubt about a December increase, and some Fed officials are openly discussing a larger one.",
+   "whyMatters": "Higher rates are meant to cool inflation driven partly by the Iran war’s oil shock, but they also raise borrowing costs for households, businesses and the government. Inflation has been above the Fed’s 2 percent target for more than five years.",
+   "uncertainty": "No annual inflation rate was published, because last year’s government shutdown left no October 2025 data; one economist put the implied rate at about 4 percent. The size of the December move is still debated.",
+   "watchNext": "Speeches by Fed officials before the December 8 to 9 meeting, and the November price figures.",
+   "keyFacts": [
+    "Prices rose 0.4 percent overall and 0.3 percent excluding food and energy in October, against forecasts of 0.3 and 0.2",
+    "Energy prices rose 0.7 percent in October after 5.2 percent in September",
+    "CME FedWatch put the chance of a quarter-point rise to a 4 to 4.25 percent range at about 87 percent, and a half point at about 13 percent",
+    "The 30-year Treasury yield rose to 5.36 percent after the report",
+    "Employers added 165,000 jobs in October and unemployment fell to 4.1 percent"
+   ],
+   "report": [
+    {
+     "heading": "The numbers",
+     "paragraphs": [
+      "Food prices rose 0.5 percent, the biggest monthly increase since April, with beef and veal up 0.9 percent. Gasoline rose 1 percent after a 9.1 percent jump in September, and transport services rose 0.8 percent. September’s figures had shown prices up 0.6 percent on the month and 3.7 percent on the year.",
+      "Heather Long of Navy Federal Credit Union said the implied annual rate is around 4 percent, well above wage growth of 3.1 percent over the past year, and that the rise is not only about fuel."
+     ]
+    },
+    {
+     "heading": "The Fed’s debate",
+     "paragraphs": [
+      "The Fed raised rates by a quarter point in September and held them in October, when Governor Lisa Cook and the Cleveland Fed’s Beth Hammack dissented in favour of a rise. Governor Christopher Waller has said a half-point step should be considered if inflation stays high and that a smaller move could cost the Fed credibility. The Dallas Fed’s Lorie Logan supports at least two more increases. A half-point rise would be the largest since 2022. The chair, Kevin Warsh, has said the Fed is committed to bringing inflation down."
+     ]
+    },
+    {
+     "heading": "Markets",
+     "paragraphs": [
+      "After the report the two-year Treasury yield rose 19 basis points, the dollar strengthened and stocks fell. Oil prices remain 20 to 30 dollars a barrel higher than they would otherwise be because of insurance and transfer costs around the Strait of Hormuz, The National reported, and diesel is expected to stay expensive because refining capacity is limited."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "The Fed meets on December 8 and 9 and will publish new forecasts. In September officials expected their preferred inflation measure to end 2026 at 3.7 percent and ease to 2.3 percent in 2027."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "October’s price rises",
+    "measure": "Change in US consumer prices from September to October 2026, by category",
+    "unit": "percent",
+    "values": [
+     {
+      "label": "All items",
+      "value": 0.4
+     },
+     {
+      "label": "Excluding food and energy",
+      "value": 0.3
+     },
+     {
+      "label": "Food",
+      "value": 0.5
+     },
+     {
+      "label": "Energy",
+      "value": 0.7
+     }
+    ],
+    "alt": "Bar chart of monthly price changes in October 2026: all items up 0.4 percent, prices excluding food and energy up 0.3 percent, food up 0.5 percent and energy up 0.7 percent.",
+    "caption": "Monthly, seasonally adjusted changes from the October consumer price index, as reported by Fox Business · no annual rate was published",
+    "sourceUrl": "https://www.foxbusiness.com/economy/cpi-inflation-october-2026"
+   },
+   "sources": [
+    {
+     "publisher": "Fox Business",
+     "title": "October CPI: Inflation trended higher as energy prices hit consumers",
+     "url": "https://www.foxbusiness.com/economy/cpi-inflation-october-2026",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The National",
+     "title": "Hot US inflation report seals Federal Reserve rate increase",
+     "url": "https://www.thenationalnews.com/business/economy/2026/11/10/federal-reserve-inflation-interest-rates-december/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "American Banker",
+     "title": "Hot inflation report puts Fed on track for December rate hike",
+     "url": "https://www.americanbanker.com/news/hot-inflation-report-puts-fed-on-track-for-december-rate-hike",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-economy",
+   "threadTitle": "The US economy",
+   "threadSummary": "Jobs, growth, inflation and interest rates in the United States."
+  },
+  {
+   "id": "cop31-leaders-antalya",
+   "section": "world",
+   "title": "World leaders address the COP31 climate summit in Antalya, where Guterres demands an end to fossil fuels and many big-economy leaders stay away",
+   "category": "Climate",
+   "region": "Europe · Türkiye",
+   "regions": [
+    "europe"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-11 / 2026-11-12",
+   "body": "Heads of state began two days of speeches at the UN climate summit in Antalya, Türkiye, on Wednesday. António Guterres, at his last summit before stepping down as UN secretary-general, said fossil fuels must go the way of the dinosaurs and accused the industry of distorting science. Brazil’s Lula said climate had disappeared from leaders’ speeches this year. The presidents of the United States and France, and the leaders of Germany and Italy, did not attend, and China sent its vice president. Finland set out plans to phase out fossil fuels.",
+   "whatChanged": "The summit reached its leaders’ stage, as Türkiye pushed a global electrification goal and a Brazil-led plan for moving away from coal, oil and gas won support from large producers including India, Nigeria and Germany.",
+   "whyMatters": "The world is on course to break the 1.5 degree warming limit, and the test in Antalya is whether the 2023 pledge to transition away from fossil fuels gets timelines and money. The absences, and the oil price shock from the Iran war, weaken the political push.",
+   "uncertainty": "Some producing countries want to keep the Brazilian roadmap voluntary and out of the formal decision. Türkiye’s electrification goal would not require the new power to be clean.",
+   "watchNext": "The rest of the leaders’ speeches on Thursday, and negotiations that run until November 20.",
+   "keyFacts": [
+    "Türkiye wants electricity to supply 35 percent of world energy use by 2035, up from a little over a fifth today",
+    "Brazil’s roadmap asks countries to plan their energy systems by 2028 and to cut fossil fuel supply from 2031",
+    "Finland is the fourth country with a concrete plan to phase out fossil fuels, after France, Germany and the Netherlands",
+    "The United States is skipping the talks for the second year running",
+    "Erdoğan said output from Türkiye’s new Gabar oilfields will pass 100,000 barrels a day in the second half of 2027"
+   ],
+   "report": [
+    {
+     "heading": "The speeches",
+     "paragraphs": [
+      "Guterres used his final summit as secretary-general to say it was long past time to stop treating the move away from fossil fuels as taboo, and urged countries to set clear timelines. Marshall Islands President Hilda Heine said every new oil well or coal mine threatens her country’s future. The host, President Recep Tayyip Erdoğan, who announced new oil discoveries earlier in the week, called for a fair transition that accounts for energy security, and Saudi Arabia’s energy minister warned that chasing carbon neutrality without energy security could backfire. Activists criticised Ursula von der Leyen and Australia’s Anthony Albanese for not naming fossil fuels.",
+      "Britain’s prime minister, Andy Burnham, was the only G7 leader scheduled to speak, and Canada, Japan and India were also expected to send no leader."
+     ]
+    },
+    {
+     "heading": "The roadmap",
+     "paragraphs": [
+      "Brazil’s presidency of last year’s summit, which failed to agree a fossil fuel plan, published a roadmap on November 3 and presented it in Antalya. Germany, the Netherlands, Britain and Australia back it publicly, and Nigeria and India welcomed its recognition that countries start from different places. The African Group of Negotiators said poorer producers need finance, technology and flexibility on timing. John Kerry said current policies put the world on track for 2.8 degrees of warming."
+     ]
+    },
+    {
+     "heading": "Türkiye’s goal",
+     "paragraphs": [
+      "The host wants an electrification target at the heart of the final deal, arguing it would cut emissions from cars, factories and buildings. Critics note that it does not require new electricity to come from clean sources, and the European Union says electrification must be clean."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Negotiators from nearly 200 countries continue until November 20. Germany and the Netherlands want Türkiye and Australia, which share this year’s presidency, and Ethiopia, next year’s host, to carry the fossil fuel debate into the global review of progress due in 2028."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Antalya, Türkiye",
+    "bounds": [
+     24,
+     34,
+     46,
+     43
+    ],
+    "countries": [
+     "792"
+    ],
+    "labels": [
+     {
+      "label": "Mediterranean Sea",
+      "lon": 29,
+      "lat": 34.8,
+      "kind": "water"
+     },
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 42.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Türkiye, highlighted, with a marker on Antalya on the Mediterranean coast, where the COP31 summit is being held.",
+    "caption": "Türkiye highlighted for context · marker shows the summit city"
+   },
+   "locations": [
+    {
+     "label": "Antalya",
+     "lon": 30.71,
+     "lat": 36.9
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Dawn (AFP)",
+     "title": "World urged to tackle fossil fuels but big names skip COP31",
+     "url": "https://www.dawn.com/news/2043837/world-urged-to-tackle-fossil-fuels-but-big-names-skip-cop31",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Investing.com (Reuters)",
+     "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
+     "url": "https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Climate Home News",
+     "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
+     "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "cop31-climate-summit",
+   "threadTitle": "The COP31 climate summit",
+   "threadSummary": "The UN’s 2026 climate conference in Antalya, Türkiye, and the negotiations on emissions, energy and climate finance."
+  },
+  {
+   "id": "jim-jordan-house-republican-leader",
+   "section": "more",
+   "title": "House Republicans choose Jim Jordan to lead them in the minority after losing the House",
+   "category": "Politics",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-10",
+   "whatChanged": "Republicans picked a co-founder of the hard-right Freedom Caucus over Steve Scalise as their leader for the new Congress.",
+   "body": "In a secret ballot on Tuesday, House Republicans chose Jim Jordan of Ohio as minority leader, to replace Speaker Mike Johnson when Democrats take control in January after flipping at least 40 seats. Jordan, a close Trump ally who chairs the Judiciary Committee, will face two years of Democratic investigations into the administration. Senate Republicans re-elected John Thune as their leader.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
+     "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Democracy Now!",
+     "title": "Headlines for November 11, 2026",
+     "url": "https://www.democracynow.org/2026/11/11/headlines",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-midterms-2026",
+   "threadTitle": "The 2026 US midterms",
+   "threadSummary": "The November 2026 elections for the US Congress, governors and ballot measures, and their aftermath."
+  },
+  {
+   "id": "usda-snap-categorical-eligibility-rule",
+   "section": "more",
+   "title": "The US Agriculture Department proposes a rule that it estimates would end food aid for about 6.3 million people",
+   "category": "Social policy",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-10",
+   "whatChanged": "The department formally proposed ending broad-based categorical eligibility, which lets states enrol households in food stamps automatically if they receive other aid.",
+   "body": "Under the proposal, only households that actually receive cash assistance from the federal welfare programme for needy families would qualify automatically for SNAP, the main food aid programme. The department’s own analysis estimates that 3.2 million households with 6.3 million people would lose benefits by 2029, and that about 1.78 million children would lose automatic eligibility for free school meals, although most would still qualify on income. It projects federal savings of about 44.6 billion dollars over five years. Comments are open for 30 days.",
+   "sources": [
+    {
+     "publisher": "Federal Register (public inspection)",
+     "title": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+     "url": "https://public-inspection.federalregister.gov/2026-22936.pdf",
+     "publishedAt": "2026-11-10",
+     "kind": "Primary document"
+    }
+   ],
+   "threadId": "us-food-aid",
+   "threadTitle": "US food aid",
+   "threadSummary": "Changes to SNAP, the main US food assistance programme, and who qualifies for it."
+  },
+  {
+   "id": "trinidad-privy-council-gay-sex-ban",
+   "section": "more",
+   "title": "Trinidad and Tobago’s ban on gay sex is struck down by its final court of appeal in London",
+   "category": "Rights",
+   "region": "Latin America · Trinidad and Tobago",
+   "regions": [
+    "latin-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-10",
+   "whatChanged": "The Privy Council unanimously ruled that the laws criminalising sex between men cannot be justified, upholding a 2018 High Court ruling.",
+   "body": "The Judicial Committee of the Privy Council found that the 1986 Sexual Offences Act was new legislation rather than a re-enactment of colonial law, so it was not shielded from constitutional challenge, and that criminalising private consensual relations was too severe an interference to justify. The case was brought by Jason Jones, a Trinidad-born activist living in Britain. The court will take further submissions before its final order. At least four other former British colonies in the Caribbean still criminalise sex between men.",
+   "sources": [
+    {
+     "publisher": "Jamaica Gleaner (CMC)",
+     "title": "Privy Council rules in favour of gay man who challenged Trinidad's buggery laws",
+     "url": "https://jamaica-gleaner.com/article/world-news/20261110/privy-council-rules-favour-gay-man-who-challenged-trinidads-buggery",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CP24 (Associated Press)",
+     "title": "A gay sex ban is overturned in Trinidad and Tobago. What the ruling says about LGBTQ2S+ rights and post-colonial identity",
+     "url": "https://www.cp24.com/news/world/2026/11/10/a-gay-sex-ban-is-overturned-in-trinidad-and-tobago-what-the-ruling-says-about-lgbtq-rights-and-post-colonial-identity/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "caribbean-lgbtq-rights",
+   "threadTitle": "LGBTQ rights in the Caribbean",
+   "threadSummary": "Court challenges to colonial-era laws that criminalise same-sex relations in Caribbean countries."
+  },
+  {
+   "id": "houthi-missiles-riyadh-mecca",
+   "section": "more",
+   "title": "Saudi Arabia intercepts Houthi missiles and drones aimed at Riyadh and Mecca for a second straight day",
+   "category": "Conflict",
+   "region": "Middle East · Saudi Arabia, Yemen",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-10 / 2026-11-11",
+   "whatChanged": "The Saudi-led coalition said it destroyed three cruise missiles heading for Riyadh and drones aimed at Mecca and the south, while the Houthis denied targeting Islam’s holiest city.",
+   "body": "The Houthi military spokesman, Yahya Saree, said the group targets oil facilities and military bases, and claimed an attack on a pumping station in Yanbu, the port Saudi Arabia uses to export oil while Hormuz is blocked; Riyadh did not confirm it. On Sunday a Houthi attack damaged an Aramco office building in Riyadh. Fighting between the two has intensified since September, when the Houthis advanced toward the Bab el-Mandeb Strait.",
+   "sources": [
+    {
+     "publisher": "GV Wire (Reuters)",
+     "title": "Saudi Arabia Intercepts Houthi Missiles, Drones; Group Denies Targeting Mecca",
+     "url": "https://gvwire.com/2026/11/11/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "guinea-expels-burkinabe-miners",
+   "section": "more",
+   "title": "Guinea expels more than 8,000 gold miners from Burkina Faso, who are now waiting in Mali to go home",
+   "category": "Migration",
+   "region": "Africa · Guinea, Burkina Faso, Mali",
+   "regions": [
+    "africa"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-05 / 2026-11-11",
+   "whatChanged": "The expulsions, which followed a ban on small-scale gold mining in north-eastern Guinea, have drawn a sharp protest from Burkina Faso and now involve three countries.",
+   "body": "Burkina Faso’s security minister, Mahamadou Sana, said the miners suffered inhumane and degrading treatment, with injuries and deaths reported, and that his government was given no warning. The miners have been gathered in Mali; by Wednesday some had begun leaving the assembly site. Guinea has not publicly responded to the criticism.",
+   "sources": [
+    {
+     "publisher": "Africanews",
+     "title": "Guinea expels Burkinabé gold miners, draws Ouagadougou's fury",
+     "url": "https://www.africanews.com/2026/11/05/guinea-expels-burkinabe-gold-miners-draws-ougadougous-fury/",
+     "publishedAt": "2026-11-05",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Rio Times",
+     "title": "Africa Intelligence Brief for Wednesday, November 11, 2026",
+     "url": "https://www.riotimesonline.com/africa-intelligence-brief-wednesday-november-11-2026",
+     "publishedAt": "2026-11-11",
+     "kind": "News digest"
+    }
+   ],
+   "threadId": "west-africa-gold-mining",
+   "threadTitle": "Gold mining in West Africa",
+   "threadSummary": "Crackdowns on small-scale gold mining in West Africa and their effect on miners and relations between countries."
+  },
+  {
+   "id": "alphaproof-code-signal-verification",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Google DeepMind’s AI agents prove key security properties of the code at the heart of Signal’s encryption",
+   "category": "AI for software security",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-10",
+   "hook": "Proving key security properties of widely used encryption code in weeks rather than years is a real step for verification, though it covers one library and depends on human-written specifications.",
+   "body": "Google DeepMind said on Tuesday that a new multi-agent system, AlphaProof Code, wrote mathematical proofs that the core library behind Signal’s encryption keeps its security promises, including forward secrecy and authentication. The proofs are written in the Lean theorem prover and check the compiled machine code, not just the source. A team of five did the work in four weeks. When two old, already fixed bugs were put back into test copies, the system proved that those builds broke a security property.",
+   "whatChanged": "An AI system carried out a formal verification of production cryptographic code, a task that has previously taken specialists years.",
+   "whyMatters": "The same protocol protects messages in WhatsApp and Google Messages as well as Signal. If such proofs can be produced in weeks, verification could reach other cryptographic libraries, firmware and hypervisors.",
+   "uncertainty": "The proofs assume the underlying cryptographic building blocks are sound, and leave out timing and power side channels and the rest of the Signal app. Google told Wired the computing demands are high and it is unclear how practical wider use will be.",
+   "watchNext": "Independent review of the published Lean proofs, and whether the method is applied to other widely used code.",
+   "keyFacts": [
+    "The proofs cover libsignal version 0.105.4, compiled for 64-bit Arm processors",
+    "They target the post-quantum handshake, PQXDH, and the Triple Ratchet that keeps changing keys during a conversation",
+    "The agents, running on Gemini Carbon, produced about 6.5 million lines of Lean",
+    "No new vulnerabilities were reported",
+    "The proof files are published for public review"
+   ],
+   "report": [
+    {
+     "heading": "What was proved",
+     "paragraphs": [
+      "According to Hardware Busters, which also cites The Register, the proofs establish forward secrecy, authentication, security after a compromise and secrecy of the opening handshake for two parts of libsignal: PQXDH, which sets up a conversation in a way meant to resist future quantum computers, and the Triple Ratchet, which keeps changing keys as messages flow. The proofs are checked against a model of how Arm processor instructions behave, so they can catch errors introduced by compilers as well as in the source code."
+     ]
+    },
+    {
+     "heading": "How it was done",
+     "paragraphs": [
+      "Humans wrote and reviewed the specifications of what the code should guarantee. The AI agents then wrote the proofs, and Lean’s small trusted core checked every step. An auditing pass flagged parts that needed human review. For comparison, the verification of the seL4 operating system kernel took about 20 person-years.",
+      "To show that the proofs can fail when they should, the team reinserted two previously fixed libsignal bugs into separate copies. In both cases the system produced a checked proof that the modified build violated a security property. Signal’s chief technology officer, Ehren Kret, said the work expands the scope of earlier verification of the protocol."
+     ]
+    },
+    {
+     "heading": "Limits",
+     "paragraphs": [
+      "This was a demonstration, not a hunt for bugs. DeepMind research scientist Swarat Chaudhuri told Wired there is a long way to go before the approach scales to all software, and 9to5Mac notes the resources involved have not been disclosed."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-12/alphaproof-code-signal-verification.svg",
+    "alt": "A padlock locked over a toothed ratchet wheel, beside a column of three check marks, standing for machine-checked proofs about the ratchet at the heart of Signal’s encryption.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Hardware Busters",
+     "title": "Google DeepMind's AlphaProof Code Verifies Signal's Encryption All the Way Down to Arm Machine Code",
+     "url": "https://hwbusters.com/news/google-deepminds-alphaproof-code-verifies-signals-encryption-all-the-way-down-to-arm-machine-code/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "9to5Mac (citing Wired)",
+     "title": "Google DeepMind analysis proves Signal and WhatsApp encryption is secure",
+     "url": "https://9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-cybersecurity-acceleration",
+   "threadTitle": "AI and the cybersecurity race",
+   "threadSummary": "How increasingly capable AI systems are changing the discovery and exploitation of software vulnerabilities, and how defenders respond."
+  },
+  {
+   "id": "silent-lynx-ai-agent-espionage",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "A Kazakhstan-linked hacking group used an autonomous AI agent to steal more than 2,000 Tajik security documents, researchers say",
+   "category": "AI and cyber espionage",
+   "region": "Asia · Kazakhstan, Tajikistan",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-11",
+   "hook": "It is one of the first documented cases of a state-linked spying operation handing the hands-on work of a break-in to an AI agent, based on one firm’s findings.",
+   "body": "The Singapore-based security firm CloudSEK reported on Wednesday that a group researchers call Silent Lynx used Hermes, an open-source framework for autonomous AI agents, to break into Tajikistan’s electronic document system and take more than 2,000 national security files. Instead of typing commands, the operators told the agent what to do, and it wrote its own program to download, sort and split the files for removal. The firm found the operation because the group left a server exposed to the internet.",
+   "whatChanged": "Agent-run intrusions, already reported among criminals, have now been documented in espionage aimed at a government.",
+   "whyMatters": "If spying groups can delegate break-ins to freely available AI agents, smaller and less skilled actors can mount operations that once needed experienced teams, and defenders face faster attacks.",
+   "uncertainty": "The account comes from one company’s analysis of the exposed server; the governments of Kazakhstan and Tajikistan did not respond to Reuters, and the attribution rests on circumstantial clues.",
+   "watchNext": "Whether Tajikistan or other Central Asian governments confirm the breach, and further reports of agent-run intrusions.",
+   "keyFacts": [
+    "Reconnaissance began around mid-August 2026, and the breach followed about two weeks later",
+    "More than 2,000 national security-related documents were taken",
+    "The exposed instructions told the agent to act as an elite offensive security specialist",
+    "The operators spoke Russian, worked Kazakh business hours and often used a home internet connection in Kazakhstan, CloudSEK said"
+   ],
+   "report": [
+    {
+     "heading": "What the researchers found",
+     "paragraphs": [
+      "CloudSEK’s report, published on November 11 and described by Reuters, says the exposed server held the instructions the operators gave the agent, including how it should see itself and communicate. The agent carried out the intrusion steps it was told to and then wrote custom software to move the stolen files out in chunks, which makes such transfers harder to spot.",
+      "Silent Lynx has been linked to Kazakhstan by other researchers before. CloudSEK based its attribution on language, working hours and network connections seen on the server."
+     ]
+    },
+    {
+     "heading": "Why it stands out",
+     "paragraphs": [
+      "Reuters has previously reported on cybercriminals assigning break-ins to autonomous agents. CloudSEK said this case shows that more advanced, espionage-focused groups are also outsourcing their operations to AI. Hermes is open source, so the tools involved are available to anyone.",
+      "Reuters was unable to reach Silent Lynx, and Kazakh and Tajik officials did not immediately reply to requests for comment."
+     ]
+    },
+    {
+     "heading": "What the evidence shows",
+     "paragraphs": [
+      "The findings are CloudSEK’s, drawn from what it could see on a single exposed server, and neither government has commented on the breach. The link to Kazakhstan rests on the operators’ language, their working hours and the internet connections they used, rather than on any official statement. What the case does show clearly is the method: an agent given a goal in plain language and left to work out the technical steps, including writing its own tools for moving data."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Kazakhstan and Tajikistan",
+    "bounds": [
+     45,
+     33,
+     90,
+     56
+    ],
+    "countries": [
+     "398",
+     "762"
+    ],
+    "labels": [
+     {
+      "label": "Caspian Sea",
+      "lon": 50.5,
+      "lat": 42,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Central Asia with Kazakhstan, where researchers say the hackers worked from, and Tajikistan, whose government was targeted, highlighted. A marker shows Dushanbe, Tajikistan’s capital.",
+    "caption": "Countries highlighted for context · attribution comes from one security firm"
+   },
+   "locations": [
+    {
+     "label": "Dushanbe",
+     "lon": 68.79,
+     "lat": 38.56
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "ThePrint (Reuters)",
+     "title": "Kazakhstan-linked hackers used AI to steal Tajik government documents, researchers say",
+     "url": "https://theprint.in/world/kazakhstan-linked-hackers-used-ai-to-steal-tajik-government-documents-researchers-say/3096117/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-cybersecurity-acceleration",
+   "threadTitle": "AI and the cybersecurity race",
+   "threadSummary": "How increasingly capable AI systems are changing the discovery and exploitation of software vulnerabilities, and how defenders respond."
+  },
+  {
+   "id": "nvidia-chip-diversion-lutnick",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Trump approved a crackdown on Nvidia chips being diverted to China three times this year, and his commerce secretary stalled it each time, Axios reports",
+   "category": "AI chips & export controls",
+   "region": "North America · United States · Asia · China",
+   "regions": [
+    "north-america",
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-05 / 2026-11-11",
+   "hook": "Who actually enforces limits on AI chip sales to China is now in open dispute inside the administration; the controls themselves have not changed yet.",
+   "body": "Axios reported on Wednesday, citing six sources, that President Trump has authorised action against companies suspected of diverting Nvidia’s AI chips to China three times this year, most recently on November 5, and that Commerce Secretary Howard Lutnick delayed it every time. At a Situation Room meeting, Treasury Secretary Scott Bessent confronted Lutnick about his department’s resistance, the report said; later in the Oval Office Trump consulted Elon Musk and told officials to get it done. The action had still not been taken.",
+   "whatChanged": "The dispute over Nvidia’s China sales has moved from Congress to a reported confrontation within the cabinet, with the president said to have ordered tighter enforcement.",
+   "whyMatters": "Chips diverted through third parties undercut US limits on China’s access to advanced AI hardware. The report also ties the delay to Megaspeed, the company at the centre of the inquiry into a suspected Chinese agent close to Nvidia’s chief executive.",
+   "uncertainty": "The account rests on unnamed sources. The Commerce Department denied that Bessent confronted Lutnick and did not comment on the rest. The specific rule at issue has not been described.",
+   "watchNext": "Whether the Commerce Department issues the controls, and any response from Lutnick, the White House or Nvidia.",
+   "keyFacts": [
+    "Trump reportedly approved action in May, in August and on November 5",
+    "Lutnick warned the controls would start a trade war with China, Axios reported",
+    "The Treasury secretary, defence secretary, trade representative and secretary of state attended the Situation Room meeting",
+    "Nvidia’s board opened an independent investigation on November 8 into reports that Huang was the target of a foreign intelligence effort"
+   ],
+   "report": [
+    {
+     "heading": "The reported confrontation",
+     "paragraphs": [
+      "According to Axios, Bessent challenged Lutnick at the Situation Room meeting over Commerce’s resistance, particularly on Megaspeed. The group sided with Bessent, and Lutnick said he needed to check with the president. They went to the Oval Office around 5 p.m., where Trump called Musk, who backed the controls, and gave the go-ahead despite Lutnick’s warning about a trade war. Lutnick then proposed developing options, and the action had not happened by the time of the report, Axios said.",
+      "Commerce spokesperson Kristen Eichamer denied the confrontation. Axios also reported that Lutnick and the Commerce undersecretary, Jeffrey Kessler, had resisted pressure from Bessent and others each time the president approved action, in May, in August and in November."
+     ]
+    },
+    {
+     "heading": "Background",
+     "paragraphs": [
+      "Last year the administration allowed sales of Nvidia’s H200 chips to China in return for a 25 percent tariff, after lobbying by the company. Axios reports that a classified memo in May warned officials about Jensen Huang’s relationship with a Megaspeed employee whom US intelligence reportedly suspects of being a Chinese agent, and that Bessent and others then pressed Commerce to act.",
+      "Nvidia’s board said on November 8 that independent directors, with outside counsel, would oversee an inquiry, that it had no reason to think national security or company secrets were compromised, and that Huang was cooperating."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-12/nvidia-chip-diversion-lutnick.svg",
+    "alt": "A computer chip on a shipping crate passing beneath a barrier arm left half raised, standing for a stalled crackdown on AI chips being diverted to China.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Yahoo News (Axios)",
+     "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
+     "url": "https://www.yahoo.com/news/politics/articles/scoop-lutnick-stalled-curbing-nvidia-205902739.html",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "GV Wire (Reuters)",
+     "title": "Lutnick Stalled Trump Crackdown on Diversion of Nvidia Chips to China, Axios Reports",
+     "url": "https://gvwire.com/2026/11/11/lutnick-stalled-trump-crackdown-on-diversion-of-nvidia-chips-to-china-axios-reports/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Nvidia",
+     "title": "Statement from NVIDIA Board of Directors",
+     "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+     "publishedAt": "2026-11-08",
+     "kind": "Company statement"
+    }
+   ],
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "Competition between the United States and China over AI chips, models and the rules governing their trade."
+  },
+  {
+   "id": "gaza-nasser-hospital-strike",
+   "section": "still",
+   "title": "An Israeli strike on Gaza’s Nasser Hospital kills at least six people, including a surgeon, as floods soak tens of thousands of tents",
+   "category": "Humanitarian",
+   "region": "Middle East · Gaza",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-11 / 2026-11-12",
+   "body": "An Israeli air strike hit the surgery department of Nasser Hospital in Khan Younis early on Thursday, killing at least six people, among them the surgeon Rizk Abu Shaira, Gaza’s health ministry said; at least 20 were injured. Israel’s military said senior Hamas members were using the hospital as a command centre, but released no evidence beyond graphics. Strikes elsewhere killed several more people. Heavy rain has affected at least 106,000 people, UNICEF says, and the UN says Israeli permits are needed for waterproof tents.",
+   "whatChanged": "A strike hit one of Gaza’s main hospitals, while the winter flooding and the stalled second phase of the ceasefire left shelter needs unmet.",
+   "whyMatters": "More than a year into the ceasefire, health authorities count over 1,600 Palestinians killed since it began, hospitals are still being struck, and aid for winter depends on Israeli permits and on donors who are waiting for a new Israeli government.",
+   "uncertainty": "The Israeli military’s account of the hospital’s use has not been independently verified. Casualty figures come from Gaza’s health authorities.",
+   "watchNext": "Whether winter tents are allowed in, and whether talks on the ceasefire’s next stage resume once Israel has a new government.",
+   "keyFacts": [
+    "At least six people were killed and at least 20 injured at Nasser Hospital, according to Gaza’s authorities",
+    "Gaza’s total reported death toll since October 2023 is above 74,600",
+    "More than 1,600 Palestinians have been killed since the October 2025 ceasefire, health authorities say",
+    "Gaza’s media office says at least 70,000 tents were flooded in weekend rains"
+   ],
+   "report": [
+    {
+     "heading": "The strike",
+     "paragraphs": [
+      "Video showed heavy damage to one of the hospital’s buildings. The Israeli military said a senior Hamas figure and other fighters were using the buildings to store weapons and hold interrogations, and that it used precise munitions and surveillance to limit harm to civilians. Hamas called the strike a war crime, the health ministry said it violated the protection owed to medical facilities, and Physicians for Human Rights Israel said Israel was continuing its conduct under cover of a ceasefire.",
+      "Al Jazeera reported other deaths in Sheikh Radwan, where a tent sheltering displaced people was hit, and in central Gaza."
+     ]
+    },
+    {
+     "heading": "Floods and aid",
+     "paragraphs": [
+      "Thousands of tents were submerged and latrines overflowed into camps after the weekend rain. The UN has appealed for waterproof tents. Its humanitarian chief, Tom Fletcher, said some donor countries were holding back winter supplies until an Israeli government is formed and called that unacceptable. Italy announced 5 million euros in emergency aid."
+     ]
+    },
+    {
+     "heading": "The ceasefire",
+     "paragraphs": [
+      "Progress on the next stage is stalled: Hamas says it will disarm only if Israeli strikes stop and Israeli forces withdraw, while Israel says strikes will stop only once Hamas is disarmed.",
+      "Nasser Hospital was also struck in August 2025, when 22 people, five of them journalists, were killed; the findings of the Israeli military’s investigation into that attack have not been released. Al Jazeera, citing Gaza’s medical sources, puts the number injured since the ceasefire took effect on October 11, 2025, at almost 5,900."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "Six killed in Israeli air strike on Gaza's Nasser Hospital",
+     "url": "https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "At least six killed in Israeli strike on Gaza’s Nasser Medical Complex",
+     "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "gaza-humanitarian",
+   "threadTitle": "Gaza's humanitarian situation",
+   "threadSummary": "Conditions for civilians in Gaza, aid access and casualties during and after the war."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Envoys in Dublin",
+   "text": "Steve Witkoff and Jared Kushner are due to brief Volodymyr Zelensky in Dublin on Friday, November 13, after their meeting with Putin."
+  },
+  {
+   "title": "New EU sanctions",
+   "text": "The European Union is expected to adopt sanctions on 150 more entities, including 50 banks, on Monday, November 16."
+  },
+  {
+   "title": "Nvidia’s week",
+   "text": "Nvidia reports quarterly results on Tuesday, November 17, as the dispute over chip sales to China and its chief executive continues."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "Hotter than expected inflation set the Federal Reserve on course for a December rate rise, House Republicans chose Jim Jordan as their next leader, and the Agriculture Department proposed tighter food aid rules.",
+   "briefs": []
+  },
+  "latin-america": {
+   "summary": "The Privy Council struck down Trinidad and Tobago’s colonial-era ban on gay sex in a ruling that could be cited elsewhere in the Caribbean.",
+   "briefs": []
+  },
+  "europe": {
+   "summary": "US envoys took the Ukraine talks to Putin in Moscow while European leaders met in Dublin, and world leaders addressed the COP31 climate summit in Antalya.",
+   "briefs": [
+    {
+     "title": "Russia’s leading independent newspaper, Novaya Gazeta, leaves its Moscow office",
+     "text": "Novaya Gazeta stopped operating and gave up its central Moscow office on Monday, after being labelled a foreign agent, ordered to vacate its premises and cut off from reader donations by banks. Its co-founder Dmitry Muratov, a Nobel Peace Prize laureate, blamed the Kremlin and called for a wider ceasefire in Ukraine and the release of political prisoners. Kremlin spokesman Dmitry Peskov described the closure as part of normal turnover in a competitive media market.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "TimesLIVE (Reuters)",
+       "title": "Novaya Gazeta closes after years of defiant reporting in Russia",
+       "url": "https://www.timeslive.co.za/news/world/2026-11-09-novaya-gazeta-closes-after-years-of-defiant-reporting-in-russia/",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Guinea’s expulsion of thousands of Burkinabè gold miners strained relations in West Africa, and Gambia’s main opposition leader entered next month’s presidential race.",
+   "briefs": [
+    {
+     "title": "Gambia’s opposition leader Ousainou Darboe files to challenge President Barrow",
+     "text": "Ousainou Darboe, the 78-year-old leader of the United Democratic Party, submitted his candidacy for the December 5 presidential election on Monday, accompanied by thousands of supporters. It is his sixth attempt, and he called it his last. President Adama Barrow is seeking a third term with the backing of the Gambia Democratic Congress. Nominations close on November 14.",
+     "eventDate": "2026-11-09",
+     "sources": [
+      {
+       "publisher": "Le Soleil",
+       "title": "Gambie : Ousainou Darboe dépose sa candidature pour la présidentielle du 5 décembre",
+       "url": "https://lesoleil.sn/international/gambie-ousainou-darboe-depose-sa-candidature-pour-la-presidentielle-du-5-decembre/",
+       "publishedAt": "2026-11-09",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Iran claimed lasting joint control of the Strait of Hormuz with Oman as Washington weighed a direct channel, Houthi missiles were intercepted over Saudi Arabia, and an Israeli strike hit a Gaza hospital.",
+   "briefs": []
+  },
+  "asia": {
+   "summary": "Indonesia’s vice president resigned over a dispute about his qualifications, and researchers said a Kazakhstan-linked group used an AI agent to spy on Tajikistan.",
+   "briefs": [
+    {
+     "title": "Pakistan’s imports from India recover despite the trade ban",
+     "text": "Payments for imports from India reached 61.7 million dollars from July to September, up 69 percent on a year earlier, central bank data analysed by Al Jazeera show, even though Pakistan suspended all trade with India after a deadly attack in Kashmir in April 2025. Medicines and chemicals made up about 96 percent of imports from India last financial year, helped by an exemption for therapeutic products, and a former trade official says some Indian goods also arrive through places such as Dubai and Malaysia.",
+     "eventDate": "2026-11-11",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "How are Pakistan’s imports from India growing again despite tensions?",
+       "url": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions",
+       "publishedAt": "2026-11-11",
+       "kind": "Analysis"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "New Zealand’s parties positioned themselves for coalition talks, with the newcomer Opportunity party holding the balance as special votes are counted.",
+   "briefs": [
+    {
+     "title": "New Zealand’s parties manoeuvre ahead of coalition talks",
+     "text": "Preliminary results suggest the National-led government could lose its majority once special votes are counted, which would leave Christopher Luxon needing the Opportunity party led by Qiulae Wong. Wong has listed non-negotiables including a lobbyist register with a donation cap and recommitting to the Paris climate agreement. Labour’s Chris Hipkins says he wants a deal with Opportunity, and the Greens, after their best result, have urged it to pick a side.",
+     "eventDate": "2026-11-10",
+     "sources": [
+      {
+       "publisher": "The Spinoff",
+       "title": "How the different parties are positioning themselves for coalition negotiations",
+       "url": "https://thespinoff.co.nz/politics/10-11-2026/how-the-parties-are-positioned-ahead-of-coalition-negotiations",
+       "publishedAt": "2026-11-10",
+       "kind": "Analysis"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

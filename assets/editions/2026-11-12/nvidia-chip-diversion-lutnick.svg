@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A computer chip on a shipping crate passing under a half-raised barrier arm">
+  <rect width="800" height="500" fill="#09131d"/>
+  <line x1="60" y1="400" x2="740" y2="400" stroke="#2c4f6e" stroke-width="6" stroke-linecap="round"/>
+  <rect x="300" y="290" width="220" height="110" rx="6" fill="#12263a" stroke="#7fa6c4" stroke-width="5"/>
+  <line x1="300" y1="345" x2="520" y2="345" stroke="#2c4f6e" stroke-width="4"/>
+  <g stroke="#7fa6c4" stroke-width="5" stroke-linecap="round">
+    <line x1="370" y1="215" x2="370" y2="200"/><line x1="410" y1="215" x2="410" y2="200"/><line x1="450" y1="215" x2="450" y2="200"/>
+    <line x1="370" y1="290" x2="370" y2="280"/><line x1="410" y1="290" x2="410" y2="280"/><line x1="450" y1="290" x2="450" y2="280"/>
+    <line x1="345" y1="235" x2="330" y2="235"/><line x1="345" y1="262" x2="330" y2="262"/>
+    <line x1="475" y1="235" x2="490" y2="235"/><line x1="475" y1="262" x2="490" y2="262"/>
+  </g>
+  <rect x="345" y="215" width="130" height="65" rx="8" fill="#1d3a55" stroke="#d6e6f2" stroke-width="4"/>
+  <rect x="140" y="250" width="34" height="150" rx="4" fill="#12263a" stroke="#7fa6c4" stroke-width="5"/>
+  <circle cx="157" cy="250" r="14" fill="#c8875a"/>
+  <g transform="rotate(-28 157 250)">
+    <rect x="157" y="240" width="460" height="20" rx="10" fill="#d6e6f2"/>
+    <rect x="237" y="240" width="50" height="20" fill="#c8875a"/>
+    <rect x="357" y="240" width="50" height="20" fill="#c8875a"/>
+    <rect x="477" y="240" width="50" height="20" fill="#c8875a"/>
+  </g>
+</svg>

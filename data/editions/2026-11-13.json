@@ -1,0 +1,1223 @@
+{
+ "date": "2026-11-13",
+ "number": 27,
+ "cutoff": "2026-11-13T12:10:00Z",
+ "cutoffLabel": "6:10 AM CT",
+ "opening": "Putin and the US envoys agreed to keep talking, and Zelensky says Europe will join the next round. Trump said Washington no longer needs a deal with Iran, Nvidia’s chief executive resigned, and COP31’s hosts put the shift away from fossil fuels back on the table.",
+ "leadStoryId": "putin-envoys-new-round-europe",
+ "stories": [
+  {
+   "id": "putin-envoys-new-round-europe",
+   "section": "world",
+   "title": "Putin and the US envoys agree to keep talking, and Zelensky says Europe will have a voice in the next round",
+   "category": "Conflict & diplomacy",
+   "region": "Europe · Russia, Ukraine, Ireland",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-12 / 2026-11-13",
+   "body": "Vladimir Putin met Steve Witkoff and Jared Kushner in the Kremlin for about two and a half hours on Thursday. Both sides said the three-way talks with Ukraine will continue, and Witkoff said a new meeting has been set. The envoys then flew to Dublin and briefed Volodymyr Zelensky that night. Zelensky said European representatives will take part in the next round with a voice of their own, while Putin repeated that any European troops in Ukraine would be legitimate targets.",
+   "whatChanged": "The Moscow meeting ended with agreement to hold another round, and Kyiv says Europeans will be at the table, although Moscow has not said it accepts that.",
+   "whyMatters": "Europe’s role had become a sticking point alongside territory. A round that includes European representatives would change who shapes any settlement, but Russia’s public line still rejects European troops and frames Europe as a party that must choose peace on Moscow’s terms.",
+   "uncertainty": "No date or venue for the next round has been officially announced, and the Kremlin has not confirmed European participation. The size of the agreed prisoner exchange has not been published.",
+   "watchNext": "An announced date for the next round, which Irish broadcaster RTÉ reports is expected in Abu Dhabi next week; the Asia-Pacific summit in Shenzhen on November 18 and 19; and new EU sanctions expected on Monday, November 16.",
+   "keyFacts": [
+    "The Kremlin meeting on November 12 lasted about two and a half hours, according to the Kyiv Post",
+    "Putin’s aide Yuri Ushakov called the talks substantive, constructive, frank and useful",
+    "Witkoff and Kushner met Zelensky near Dublin late on Thursday for just under an hour",
+    "Zelensky says Russia has accepted what would be the largest prisoner exchange of the war",
+    "Overnight into Friday, Ukraine’s air force said Russia launched 117 drones and 80 were shot down or suppressed"
+   ],
+   "report": [
+    {
+     "heading": "In the Kremlin",
+     "paragraphs": [
+      "Witkoff told reporters he believed progress had been made and that a new meeting had been set, adding that European countries are partners and should be involved. Ushakov, Putin’s foreign policy aide, said the trilateral format will continue and that Putin and Donald Trump will keep discussing Ukraine around the Asia-Pacific Economic Cooperation summit in Shenzhen. He said Europeans must decide whether they want peace or continued war, and called a European military contingent in Ukraine a recipe for endless conflict.",
+      "Before the talks, Putin proposed a humanitarian mission to the Russian-occupied town of Kostiantynivka in Donetsk region, modelled on an earlier operation in Oleshky, saying 400 to 500 civilians remained. Ushakov said the US envoys supported the idea. An adviser in Zelensky’s office suggested Russia could use it as cover to rotate troops, and Meduza noted that Ukrainian units still hold the town’s northern and western outskirts."
+     ]
+    },
+    {
+     "heading": "The Dublin briefing",
+     "paragraphs": [
+      "The envoys landed at Casement Aerodrome outside Dublin, where Zelensky had attended the European Political Community summit. Afterwards he said Europe would join the next round not as a follower but with its own voice, and Kushner said a deal could not be concluded without Europeans at the table. Ireland’s Taoiseach, Micheál Martin, called the planned prisoner swap significant in itself but said it was unclear whether Russia was serious.",
+      "On Friday EU leaders were meeting in Dublin, where, according to Euronews, a dispute over who should speak for the EU in the talks overshadowed an agenda that also covers Ukraine’s funding needs for 2027."
+     ]
+    },
+    {
+     "heading": "On the ground",
+     "paragraphs": [
+      "The fighting has not paused. Zelensky also said Starshield, the military version of the Starlink satellite service, had faced repeated speed restrictions that hamper drone interception; SpaceX told CNN it had made no change to its service. Ukraine’s air force reported 117 Russian drones overnight into Friday, with hits recorded at 24 locations, and no casualty figures had been released by early morning."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Moscow, Dublin and Kyiv",
+    "bounds": [
+     -12,
+     40,
+     50,
+     62
+    ],
+    "countries": [
+     "643",
+     "804",
+     "372"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.3,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map with Russia, Ukraine and Ireland highlighted. Markers show Moscow, where Putin met the US envoys, Dublin, where they briefed Zelensky, Kyiv, and Kostiantynivka in Donetsk region, where Putin proposed a humanitarian mission.",
+    "caption": "Countries highlighted for context · markers are approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Moscow",
+     "lon": 37.62,
+     "lat": 55.75
+    },
+    {
+     "label": "Dublin",
+     "lon": -6.26,
+     "lat": 53.35
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    },
+    {
+     "label": "Kostiantynivka",
+     "lon": 37.71,
+     "lat": 48.53
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "US envoys and Putin agree to continue Russia-Ukraine peace talks",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TASS",
+     "title": "Putin aide comments on Europe's security, humanitarian task, Kiev's peace allergy",
+     "url": "https://tass.com/politics/2217455",
+     "publishedAt": "2026-11-12",
+     "kind": "Russian state media"
+    },
+    {
+     "publisher": "Kyiv Post",
+     "title": "New Round of Ukraine Talks Set, European Representatives to Participate",
+     "url": "https://www.kyivpost.com/post/89964",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Irish Times",
+     "title": "Zelenskiy says Europe to be included in Ukraine peace talks as he meets US envoys in Dublin",
+     "url": "https://www.irishtimes.com/politics/2026/11/12/eu-meetings-dublin-road-closures-traffic-disruption-latest/",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "RTÉ",
+     "title": "Taoiseach to host informal meeting of EU leaders in Dublin",
+     "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Meduza",
+     "title": "Putin wants to repeat the Oleshky humanitarian mission in occupied Kostiantynivka",
+     "url": "https://meduza.io/en/feature/2026/11/12/putin-wants-to-repeat-the-oleshky-humanitarian-mission-in-occupied-kostiantynivka-why-there-and-is-it-a-ploy-to-resupply-russian-troops",
+     "publishedAt": "2026-11-12",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "KTEN (CNN)",
+     "title": "Witkoff and Kushner to meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
+     "url": "https://www.kten.com/news/politics/witkoff-and-kushner-to-meet-zelensky-after-talks-with-putin-as-ukraine-says-starshield-restricted/article_f1ce3279-f2f7-5ee2-9d61-99b211f1173f.html",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "UNN",
+     "title": "Russian Federation attacked Ukraine with 117 drones — how many were destroyed",
+     "url": "https://unn.ua/en/news/the-russian-federation-attacked-ukraine-with-117-drones-how-many-were-destroyed",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "Ukraine envoy row hijacks EU leaders' first AI summit",
+     "url": "https://www.euronews.com/2026/11/13/ukraine-envoy-row-hijacks-eu-leaders-first-ai-summit",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+  },
+  {
+   "id": "trump-no-iran-deal-vance",
+   "section": "world",
+   "title": "Trump says the United States no longer needs a deal with Iran and moves JD Vance off the file",
+   "category": "Conflict & diplomacy",
+   "region": "Middle East · Iran, Gulf",
+   "regions": [
+    "middle-east",
+    "north-america"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-12 / 2026-11-13",
+   "body": "Donald Trump wrote on Thursday that a deal with Iran is no longer needed and told Vice President JD Vance, who had been weighing direct talks with Iran’s security chief, to focus instead on alleged crime and corruption in Democratic-run cities. Trump said Saudi Arabia and other Gulf states had asked him to hold off on renewed large-scale strikes. Iran says it is still waiting for a reply to a seven-point ceasefire plan, and on Friday claimed it had hit a US radar in Bahrain.",
+   "whatChanged": "A day after reports that Vance might meet Iran’s Mohsen Rezaei, Trump publicly dropped the idea of a negotiated deal and took Vance off the issue.",
+   "whyMatters": "Without a deal or a resumption of full-scale war, the Strait of Hormuz stays contested, with tankers still being hit and insurers wary. The standoff keeps energy prices and the risk of Gulf escalation high, and it splits the administration after a midterm defeat Vance blamed on the war.",
+   "uncertainty": "Iran’s accounts of four tankers hit by explosions and of a strike on a US radar in Bahrain have not been independently confirmed. It is not clear whether Vance is formally off the negotiations or only redirected.",
+   "watchNext": "Any US response to Iran’s claimed strike in Bahrain, any reply to the seven-point proposal sent through Qatar, and further attacks on shipping in the strait.",
+   "keyFacts": [
+    "Trump wrote on Truth Social that the United States does not need a deal with Iran",
+    "Iran’s parliament speaker, Mohammad Bagher Ghalibaf, says Hormuz will never return to its pre-war status",
+    "Iran says four tankers were struck by explosions in the strait on November 11 and 12",
+    "A Reuters/Ipsos poll found 71 percent of Americans support legislation to end the conflict",
+    "US Central Command says more than 4,000 ships have crossed the strait with US help"
+   ],
+   "report": [
+    {
+     "heading": "Trump closes the door",
+     "paragraphs": [
+      "Trump’s post on Thursday said the days of needing a deal had passed and referred to the United States holding Iran’s money and its strait. It followed a Wall Street Journal report that Vance was considering face-to-face talks with Mohsen Rezaei, secretary of Iran’s Supreme National Security Council. Vance led the April talks in Islamabad that produced a memorandum of understanding in June, which later collapsed, and after the November 3 midterms he wrote that Republicans lost because of the war.",
+      "Secretary of State Marco Rubio has said economic pressure on Iran is working and will get worse. Trump said Saudi Arabia, Qatar, Kuwait, the United Arab Emirates and Bahrain preferred the current approach to renewed bombing, but that he would have struck anyway if he chose."
+     ]
+    },
+    {
+     "heading": "Iran’s position",
+     "paragraphs": [
+      "Ghalibaf, Iran’s lead negotiator, says Tehran sent a seven-point proposal through Qatari mediators. According to Al Jazeera and CBS News, it includes ending the US naval blockade, lifting sanctions, releasing frozen funds, ending fighting on all fronts including Lebanon and Gaza, and recognising an Iranian and Omani system for managing traffic through Hormuz. Rubio has called the conditions unacceptable, and Iran refuses nuclear talks until the war formally ends."
+     ]
+    },
+    {
+     "heading": "In the strait",
+     "paragraphs": [
+      "Iran’s Revolutionary Guards said two supertankers were disabled on Wednesday after ignoring warnings, and the army said two more hit mines on Thursday; Reuters could not verify either account. Britain’s maritime security agency separately reported a vessel struck by a projectile off Ras al-Khaimah on Wednesday. On Friday Iran said it had destroyed a US early-warning radar in Bahrain in response to an attack on a telecommunications tower in Sirik, a claim not independently confirmed. A Chatham House analyst described the situation as no war and no peace."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Strait of Hormuz",
+    "bounds": [
+     48,
+     21,
+     62,
+     31
+    ],
+    "countries": [
+     "364",
+     "512",
+     "784"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 51.5,
+      "lat": 27.6,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 59,
+      "lat": 24.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Strait of Hormuz with Iran, Oman and the United Arab Emirates highlighted. Markers show the strait, Sirik on Iran’s coast and Bahrain, where Iran claims it hit a US radar.",
+    "caption": "Countries highlighted for context · markers are approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Strait of Hormuz",
+     "mapLabel": "Hormuz",
+     "lon": 56.4,
+     "lat": 26.6
+    },
+    {
+     "label": "Sirik",
+     "lon": 57.1,
+     "lat": 25.9
+    },
+    {
+     "label": "Bahrain",
+     "lon": 50.56,
+     "lat": 26.07
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+     "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance",
+     "publishedAt": "2026-11-13",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "Trump says US does not ‘need’ Iran deal and tells Vance to focus on Democratic fraud",
+     "url": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Roll Call",
+     "title": "Trump says no Iran deal needed after conflict drove GOP’s midterm losses",
+     "url": "https://rollcall.com/2026/11/12/trump-vance-iran-deal-midterm-elections/",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "Live Updates: Iran sticks to its demands as Trump insists war will end ‘when we want to end it’",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Yahoo News (Reuters)",
+     "title": "Four tankers struck by explosions in Strait of Hormuz, Iran says",
+     "url": "https://www.yahoo.com/news/articles/four-tankers-struck-explosions-strait-162708977.html",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "Middle East tensions escalate as Iran threatens US bases, Trump rejects deal and Saudi Arabia intercepts missiles",
+     "url": "https://gulfnews.com/world/mena/us-israel-iran-war-tehran-threatens-american-bases-from-middle-east-to-europe-houthi-missile-debris-lands-in-makkah-eisenkot-cautions-netanyahu-1.500744472",
+     "publishedAt": "2026-11-13",
+     "kind": "Live reporting"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "cop31-summary-of-reflections",
+   "section": "world",
+   "title": "The COP31 hosts put moving away from fossil fuels back on the table in a first sketch of a final deal",
+   "category": "Climate",
+   "region": "Europe · Türkiye",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12 / 2026-11-13",
+   "body": "Australia’s team, which is steering negotiations at the climate summit in Antalya, released a summary of what countries want in a possible overall decision. It includes the call made in Dubai in 2023 to transition away from fossil fuels in energy systems, which was missing from the last two summits’ decisions, as well as tripling money for adaptation and limiting how far and how long warming overshoots 1.5 degrees. Russia and the Arab Group say there is no mandate for such a decision.",
+   "whatChanged": "The hosts set out the first outline of a possible headline decision, and it revives fossil fuel language that two summits dropped.",
+   "whyMatters": "Whether the transition from fossil fuels survives into the final text is the main test of whether COP31 moves beyond Dubai. The document also shows the lines of opposition early, with oil producers resisting both the language and the idea of a cover decision at all.",
+   "uncertainty": "The summary names no countries and is not a negotiating text. There is no agreed baseline for tripling adaptation finance, and the European Union says there is no political will for new finance pledges.",
+   "watchNext": "A first draft of the deal, expected on Monday, November 16, the arrival of ministers this weekend, and the scheduled close on Friday, November 20.",
+   "keyFacts": [
+    "The document, a summary of reflections, emerged overnight into November 13",
+    "It cites the Dubai call to transition away from fossil fuels in energy systems",
+    "A proposed adaptation goal of 120 billion dollars would triple the 40 billion agreed in Glasgow",
+    "Development banks announced 103 billion dollars in climate finance at the summit",
+    "The Saudi-led Arab Group opposes any reference to Brazil’s voluntary fossil fuel roadmap"
+   ],
+   "report": [
+    {
+     "heading": "What the hosts proposed",
+     "paragraphs": [
+      "The summary works as a wish list for a possible Antalya declaration. Beyond the fossil fuel wording, it mentions tripling adaptation finance, limiting the magnitude and duration of any overshoot of 1.5 degrees of warming, and the central role of the UN’s climate science panel. Many countries want the panel’s next full assessment by 2028, while Saudi Arabia, India and China prefer 2029 or later, according to the Climate Diplomacy Brief."
+     ]
+    },
+    {
+     "heading": "The resistance",
+     "paragraphs": [
+      "Russia and the Arab Group argue the conference has no mandate for a cover decision. The 22-member Arab Group, led by Saudi Arabia, opposes any reference to the 182-page fossil fuel roadmap that Brazil produced voluntarily after COP30. Brazil’s President Luiz Inácio Lula da Silva urged the co-hosts to take ownership of roadmaps on finance, fossil fuels and forests. Alden Meyer of the think tank E3G said the question is what can survive that opposition."
+     ]
+    },
+    {
+     "heading": "Money",
+     "paragraphs": [
+      "Finance remains the weak point. Countries have not agreed the baseline for tripling adaptation money, and the Africa Group wants clarity. Pledges so far include 103 billion dollars from multilateral development banks and 480 million dollars aimed at methane and other gases, while a Pacific resilience fund remains about 300 million dollars short. The leaders’ segment slowed the technical talks, and ministers take over from this weekend."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Antalya, Türkiye",
+    "bounds": [
+     24,
+     34,
+     46,
+     43
+    ],
+    "countries": [
+     "792"
+    ],
+    "labels": [
+     {
+      "label": "Mediterranean Sea",
+      "lon": 29,
+      "lat": 34.8,
+      "kind": "water"
+     },
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 42.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Türkiye, highlighted, with a marker on Antalya on the Mediterranean coast, where the COP31 climate summit is being held.",
+    "caption": "Türkiye highlighted for context · marker is approximate"
+   },
+   "locations": [
+    {
+     "label": "Antalya",
+     "lon": 30.71,
+     "lat": 36.89
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The New Arab",
+     "title": "COP31 releases ‘wish list’ which includes fossil fuel transition",
+     "url": "https://www.newarab.com/news/cop31-deal-wish-list-includes-fossil-fuel-transition",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Climate Diplomacy Brief",
+     "title": "Climate Diplomacy Brief - COP31 day 5",
+     "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-8c7",
+     "publishedAt": "2026-11-13",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "TRT World",
+     "title": "COP31 wish list puts fossil fuel phaseout back at centre of climate talks",
+     "url": "https://www.trtworld.com/article/6bb121b26451",
+     "publishedAt": "undated (November 13, 2026)",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "cop31-climate-summit",
+   "threadTitle": "The COP31 climate summit",
+   "threadSummary": "The UN’s 2026 climate conference in Antalya, Türkiye, and the negotiations on emissions, energy and climate finance."
+  },
+  {
+   "id": "trump-mexico-tariffs-caravans",
+   "section": "world",
+   "title": "Trump threatens to double tariffs on Mexico over migrant caravans, and Sheinbaum says none has reached the border since 2025",
+   "category": "Trade & migration",
+   "region": "Latin America · Mexico",
+   "regions": [
+    "latin-america",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12",
+   "body": "Donald Trump threatened to double tariffs on Mexican goods unless Mexico stops migrants crossing its territory. At her daily briefing on Thursday, President Claudia Sheinbaum said not a single caravan has reached the north since Trump returned to office, that a group of about 600 people moving through the southern state of Chiapas had largely dispersed, and that officials were urging several hundred Hondurans to go home. She ruled out using force. The threat lands in the middle of talks to cut existing US duties.",
+   "whatChanged": "Trump tied a sharp tariff increase to migration just as Mexico is negotiating to reduce the duties it already faces.",
+   "whyMatters": "A doubling of tariffs would hit Mexican trucks, steel and farm goods that already face US duties. Linking trade to migration also complicates the review of the North American trade agreement that began in July.",
+   "uncertainty": "The reports do not specify which tariffs Trump would double or when. KJZZ reports Sheinbaum saying fewer than 100 people remain in the Chiapas caravan; the Associated Press says only that it has largely dispersed.",
+   "watchNext": "Whether Washington sets a date or details for higher tariffs, and the next round of talks under the trade agreement review.",
+   "keyFacts": [
+    "Sheinbaum says no migrant caravan has reached the US border since January 2025",
+    "The Chiapas caravan numbered about 600 people",
+    "Mexico wants cuts to a 10 percent tariff on goods outside the trade agreement and a 25 percent duty on trucks",
+    "Talks also cover a 50 percent tariff on steel and aluminium and a 17 percent duty on tomatoes",
+    "The review of the US-Mexico-Canada Agreement began in July"
+   ],
+   "report": [
+    {
+     "heading": "The threat",
+     "paragraphs": [
+      "Trump’s message, posted on social media, warned that tariffs on Mexican products would double unless Mexico halted migrants travelling through the country. The Associated Press did not report the exact wording, and neither outlet said which tariff rate would be the base."
+     ]
+    },
+    {
+     "heading": "Mexico’s answer",
+     "paragraphs": [
+      "Sheinbaum used her Thursday morning briefing to reject the premise. She said the caravan that set out through Chiapas had been told that reaching the United States would be very difficult and had broken up, that officials were in talks with a separate group of several hundred Honduran migrants, and that Mexican authorities have long experience accompanying migrants without force. She argued that migrants had little chance of crossing. KJZZ reported her saying that fewer than 100 people were still travelling with the Chiapas group."
+     ]
+    },
+    {
+     "heading": "What is at stake",
+     "paragraphs": [
+      "The two governments are already negotiating over duties Washington imposed last year. Mexico is seeking significant cuts to the 10 percent tariff on goods not covered by the trade agreement and to the 25 percent duty on medium and heavy trucks, and the talks also cover the 50 percent levy on steel and aluminium and a 17 percent countervailing duty on tomatoes. Those negotiations run alongside the formal review of the agreement, which began in July and will shape North American trade for years."
+     ]
+    },
+    {
+     "heading": "What is not yet known",
+     "paragraphs": [
+      "Neither report gives a deadline for Mexico to act or a date when higher tariffs would take effect, and the White House had not published details by Friday morning. Mexico’s response so far has been to dispute the facts rather than offer new enforcement measures."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Mexico and the United States",
+    "bounds": [
+     -120,
+     12,
+     -84,
+     34
+    ],
+    "countries": [
+     "484",
+     "840"
+    ],
+    "labels": [
+     {
+      "label": "Gulf of Mexico",
+      "lon": -90,
+      "lat": 25,
+      "kind": "water"
+     },
+     {
+      "label": "Pacific Ocean",
+      "lon": -110,
+      "lat": 16,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Mexico and the southern United States, both highlighted, with a marker in the southern Mexican state of Chiapas, where a migrant caravan set out.",
+    "caption": "Countries highlighted for context · marker is approximate"
+   },
+   "locations": [
+    {
+     "label": "Chiapas",
+     "lon": -92.6,
+     "lat": 16.5
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "ClickOrlando (Associated Press)",
+     "title": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025",
+     "url": "https://www.clickorlando.com/news/world/2026/11/12/sheinbaum-rebuts-trump-says-no-migrant-caravans-have-reached-us-border-since-january-2025/",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "KJZZ",
+     "title": "Sheinbaum says migrant caravans will not reach U.S.-Mexico border as Trump threatens higher tariffs",
+     "url": "https://www.kjzz.org/fronteras-desk/2026-11-12/sheinbaum-says-migrant-caravans-will-not-reach-u-s-mexico-border-as-trump-threatens-higher-tariffs",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-mexico-trade",
+   "threadTitle": "The United States, Mexico and trade",
+   "threadSummary": "Tariffs, migration and the review of the North American trade agreement between the United States and Mexico."
+  },
+  {
+   "id": "fed-williams-more-rate-rises",
+   "section": "world",
+   "title": "A senior Fed official says more rate rises are likely, as weak bond auctions show investors want higher returns",
+   "category": "Economy",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12",
+   "body": "John Williams, president of the New York Federal Reserve, said on Thursday that more increases in interest rates are likely needed to bring down persistent inflation, describing the economy as strong and the labour market as still improving. Markets broadly expect a quarter-point rise in early December and another in January. On the same day the Treasury sold 25 billion dollars of 30-year bonds at a higher yield than expected, the third weak auction this week, while weekly jobless claims stayed near their lowest level since 1969.",
+   "whatChanged": "One of the Fed’s most influential voices endorsed further rises, and demand for long-term US government debt weakened again.",
+   "whyMatters": "Williams heads the New York Fed, one of the central bank’s most senior posts, and his comments make a December increase look more likely. Rising long-term yields push up mortgage and business borrowing costs even before the Fed acts.",
+   "uncertainty": "Williams gave no timing or size for increases. Fed officials differ on pace: Christopher Waller has raised the possibility of a half-point move, while Beth Hammack favours smaller, more frequent steps.",
+   "watchNext": "October producer prices, due on Friday, November 13, and the Fed’s December meeting.",
+   "keyFacts": [
+    "The Fed’s target range is 3.75 to 4 percent",
+    "October core consumer prices rose 0.3 percent",
+    "The 30-year bond auction cleared at 5.441 percent",
+    "Initial jobless claims were 200,000 in the week to November 7",
+    "The four-week average of claims, 195,250, is the lowest since 1969"
+   ],
+   "report": [
+    {
+     "heading": "What Williams said",
+     "paragraphs": [
+      "Williams said the central bank still has work to do to get policy to the right place, calling inflation persistent. He did not say how many increases might be needed or when. His remarks follow hotter than expected consumer price figures for October and line up with market pricing for a December increase."
+     ]
+    },
+    {
+     "heading": "A divided committee",
+     "paragraphs": [
+      "Other officials have set out different paths. Governor Waller has said a half-point rise could be on the table in December, Cleveland’s Hammack has argued for smaller and more frequent increases, and others, including Michelle Bowman, have favoured a more cautious pace, according to TheStreet."
+     ]
+    },
+    {
+     "heading": "The bond market",
+     "paragraphs": [
+      "Thursday’s 30-year auction tailed, meaning it sold at a higher yield than traders expected, and indirect bidders, a group that includes foreign buyers, took their smallest share since August. Auctions of 10-year and three-year debt earlier in the week also tailed. Together with a labour market where layoffs remain very low, the results suggest investors are demanding more to hold long-term US debt while inflation stays high."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Chicago’s Austan Goolsbee has also warned about inflation that refuses to fade. October producer prices, due on Friday, will show whether price pressures in the supply chain are easing, and the Fed’s December decision will test how far the committee’s hawks and doves can agree."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "United States",
+    "bounds": [
+     -126,
+     23,
+     -65,
+     50
+    ],
+    "countries": [
+     "840"
+    ],
+    "alt": "Map of the contiguous United States, highlighted, for a story about the Federal Reserve and US interest rates.",
+    "caption": "United States highlighted for context"
+   },
+   "sources": [
+    {
+     "publisher": "Investing.com (Reuters)",
+     "title": "Fed's Williams says central bank has ‘work to do’ to get inflation back on target",
+     "url": "https://www.investing.com/news/economy-news/feds-williams-says-central-bank-has-work-to-do-to-get-inflation-back-on-target-5023897",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TheStreet Pro",
+     "title": "Stock Market Today: November 12, 2026",
+     "url": "https://pro.thestreet.com/stock-market-today/2026-11-12",
+     "publishedAt": "2026-11-12",
+     "kind": "Market reporting"
+    }
+   ],
+   "threadId": "us-economy",
+   "threadTitle": "The US economy",
+   "threadSummary": "Jobs, growth, inflation and interest rates in the United States."
+  },
+  {
+   "id": "houthis-deny-mecca-saudi-attacks",
+   "section": "more",
+   "title": "Houthi attacks on Saudi Arabia continue for a third day, as the group denies aiming at Mecca",
+   "category": "Conflict",
+   "region": "Middle East · Saudi Arabia, Yemen",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-11 / 2026-11-12",
+   "body": "Saudi civil defence said missile debris fell about 35 kilometres and 21 kilometres from Mecca’s Grand Mosque after two ballistic missiles were intercepted. Houthi spokesman Yahya Saree called that claim false and said the group targeted an oil pumping station at Yanbu and Riyadh’s main airport, which Saudi Arabia has not confirmed. On Thursday the coalition reported more drones downed over Riyadh and the Eastern Province, and the UN Security Council renewed sanctions on the Houthis for another year.",
+   "whatChanged": "The Houthis rejected Saudi accounts that missiles were aimed at Mecca and said they had hit oil facilities instead, while interceptions continued over Riyadh and the Eastern Province.",
+   "sources": [
+    {
+     "publisher": "The New Arab",
+     "title": "Houthis deny targeting Mecca amid Saudi missile interceptions",
+     "url": "https://www.newarab.com/news/houthis-deny-targeting-mecca-amid-saudi-missile-interceptions",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "Middle East tensions escalate as Iran threatens US bases, Trump rejects deal and Saudi Arabia intercepts missiles",
+     "url": "https://gulfnews.com/world/mena/us-israel-iran-war-tehran-threatens-american-bases-from-middle-east-to-europe-houthi-missile-debris-lands-in-makkah-eisenkot-cautions-netanyahu-1.500744472",
+     "publishedAt": "2026-11-13",
+     "kind": "Live reporting"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "indonesia-gibran-resignation-accepted",
+   "section": "more",
+   "title": "Prabowo accepts his vice president’s resignation, starting a 60-day race to choose a successor",
+   "category": "Politics",
+   "region": "Asia · Indonesia",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12",
+   "body": "Gibran handed in his resignation on Thursday, and President Prabowo Subianto accepted it with what he called a heavy heart at a joint appearance at the palace. A day earlier 120 lawmakers from eight parties had signed an impeachment petition over his eligibility. There will be no new election: the assembly must elect a successor within 60 days from two candidates nominated by the president, and names floated include Puan Maharani, Sugiono and Sufmi Dasco Ahmad.",
+   "whatChanged": "Gibran Rakabuming Raka’s resignation became formal, and the choice of his replacement passes to the People’s Consultative Assembly.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Indonesia vice president resigns amid dispute over eligibility",
+     "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "Why did Indonesia’s Vice-President Gibran Rakabuming Raka resign?",
+     "url": "https://abc.net.au/news/2026-11-12/why-did-indonesia-vp-gibran-rakabuming-raka-resign/107377964",
+     "publishedAt": "2026-11-12",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "indonesia-politics",
+   "threadTitle": "Indonesia’s politics",
+   "threadSummary": "Government and power under President Prabowo Subianto, including the dispute over Vice President Gibran Rakabuming Raka’s qualifications."
+  },
+  {
+   "id": "argentina-inflation-october-2026",
+   "section": "more",
+   "title": "Argentina’s monthly inflation rises to 2.2 percent, its highest since April",
+   "category": "Economy",
+   "region": "Latin America · Argentina",
+   "regions": [
+    "latin-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-12",
+   "body": "The national statistics agency, INDEC, said on Thursday that consumer prices rose 2.2 percent in October. Annual inflation stands at 33.1 percent and prices are up 26.3 percent so far this year. Core inflation, which strips out volatile items, slowed to 1.5 percent, its lowest monthly reading since November 2017.",
+   "whatChanged": "Inflation rose for a second month in a row, up from 1.9 percent in September, although underlying inflation fell.",
+   "sources": [
+    {
+     "publisher": "Buenos Aires Herald",
+     "title": "Inflation rises to 2.2% in October",
+     "url": "https://buenosairesherald.com/economics/inflation-rises-to-2-2-in-october",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "argentina-economy",
+   "threadTitle": "Argentina’s economy",
+   "threadSummary": "Inflation, growth and economic policy in Argentina."
+  },
+  {
+   "id": "eu-court-rejects-poland-climate-cases",
+   "section": "more",
+   "title": "The EU’s top court throws out all seven of Poland’s challenges to the bloc’s main climate laws",
+   "category": "Climate & law",
+   "region": "Europe · Poland, EU",
+   "regions": [
+    "europe"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-12",
+   "body": "Poland’s previous government had argued that rules including the end of new combustion-engine car sales, the carbon border levy, national emissions targets and the extension of carbon trading needed unanimous approval. The court in Luxembourg dismissed every case on Thursday, saying exceptions to majority voting must be read strictly. The ruling removes a legal cloud over the core of the EU’s 2030 climate package.",
+   "whatChanged": "The Court of Justice ruled that the Fit for 55 measures were lawfully adopted by majority vote.",
+   "sources": [
+    {
+     "publisher": "Yahoo News (dpa)",
+     "title": "EU court strikes down Poland's challenges to climate package",
+     "url": "https://www.yahoo.com/news/world/articles/eu-court-strikes-down-polands-111906518.html",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "eu-climate-law",
+   "threadTitle": "Europe’s climate laws",
+   "threadSummary": "The European Union’s climate legislation and the political and legal fights over it."
+  },
+  {
+   "id": "spain-housing-decree-vote",
+   "section": "more",
+   "title": "After Spain’s general strike, lawmakers keep eviction protections but reject a curb on speculation by one vote",
+   "category": "Politics",
+   "region": "Europe · Spain",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12",
+   "body": "Hundreds of thousands of people joined Wednesday’s 24-hour strike over rents and living costs. On Thursday a smaller parliamentary body that sits while parliament is dissolved upheld a decree protecting tenants from eviction but rejected an anti-speculation measure after the Basque centre-right party voted with the right-wing bloc. The conservative Popular Party, which polls suggest could win the November 29 election, has promised to repeal the measures.",
+   "whatChanged": "A day after the strike, a parliamentary body approved one housing decree 35 to 34 and rejected another 34 to 35.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Spain approves housing reforms after nationwide strike over costs",
+     "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "spain-housing-election",
+   "threadTitle": "Spain’s housing anger and snap election",
+   "threadSummary": "Protests over rents and the cost of living in Spain, and the early general election called for November 29, 2026."
+  },
+  {
+   "id": "south-sudan-abiemnom-amnesty",
+   "section": "more",
+   "title": "Amnesty says South Sudan and UN peacekeepers ignored warnings before a massacre that killed more than 200 people",
+   "category": "Human rights",
+   "region": "Africa · South Sudan",
+   "regions": [
+    "africa"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-11 / 2026-11-12",
+   "body": "Between 1,000 and 1,500 armed men attacked Abiemnom, near the border with Sudan, on March 1, killing more than 200 people by official count and burning over 230 buildings. Amnesty says the roughly three dozen peacekeepers there were reinforced only afterwards and wants an independent investigation. A UN mission spokesperson said it did its best with limited resources and protected about 2,500 people. South Sudan is due to vote on December 22.",
+   "whatChanged": "A new Amnesty International report says authorities and the UN mission had enough information and time to prevent the March attack on Abiemnom.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+     "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "south-sudan-violence",
+   "threadTitle": "South Sudan’s violence and elections",
+   "threadSummary": "Armed violence, the protection of civilians and the long-delayed elections in South Sudan."
+  },
+  {
+   "id": "nvidia-huang-resigns",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Jensen Huang resigns as Nvidia’s chief executive, and the chief financial officer takes over for now",
+   "category": "AI industry",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-12",
+   "hook": "The company at the centre of the AI chip boom has lost its co-founder and leader days before results, though its products and customers are unchanged for now.",
+   "body": "Nvidia said on Thursday that Jensen Huang had resigned as president, chief executive and director with immediate effect. Colette Kress, the chief financial officer, becomes interim chief executive while the board searches inside and outside the company, and Harvey Jones becomes Nvidia’s first board chair. The company gave no reason. Huang had admitted an affair with a former executive of Megaspeed, a Singapore customer whom US officials reportedly suspect of passing information to Beijing, and further relationships with employees have since been reported.",
+   "whatChanged": "Nvidia’s board went from investigating Huang to announcing his departure within days, a week before quarterly results.",
+   "whyMatters": "Huang built Nvidia into the main supplier of chips for training AI and was its public face in Washington and Beijing. His exit adds leadership uncertainty to an export-control fight over chip sales to China and to a company whose results shape markets for AI spending.",
+   "uncertainty": "Nvidia’s filing does not explain the resignation. The allegations about relationships and espionage come from press reports; China calls the spying claims unsubstantiated, and Nvidia’s review found no reason to believe national security or company secrets were compromised.",
+   "watchNext": "Quarterly results on Tuesday, November 17, the House China committee’s requested briefing on November 18, and the choice of a permanent chief executive.",
+   "keyFacts": [
+    "Huang resigned as president, chief executive and director effective immediately on November 12",
+    "Colette Kress is interim chief executive and remains chief financial officer",
+    "Harvey C. Jones becomes Nvidia’s first board chair",
+    "Nvidia shares closed down 4.34 percent at 166.19 dollars on Thursday after falling far more during the day",
+    "Results for the third quarter of fiscal 2027 are due on November 17"
+   ],
+   "report": [
+    {
+     "heading": "The announcement",
+     "paragraphs": [
+      "In a release filed with US securities regulators, Nvidia said Huang had stepped down from all his roles and that the board would consider internal and external candidates to succeed him. Kress keeps her job as finance chief while serving as interim chief executive. The earnings date and conference call were left unchanged."
+     ]
+    },
+    {
+     "heading": "How it came to this",
+     "paragraphs": [
+      "The New York Times reported last month that Huang had a close relationship with Alice Huang, who is not related to him and was an executive at Megaspeed, and that US intelligence believed she was passing information to Beijing. In an email to staff Huang apologised for being unfaithful to his wife. The board opened an independent inquiry, Donald Trump said the FBI was looking into the matter, and the chair of the House Foreign Affairs Committee threatened a subpoena. After the board reportedly met on Wednesday night, the Times and Reuters reported further relationships with company employees; Nvidia declined to comment on them."
+     ]
+    },
+    {
+     "heading": "Reaction",
+     "paragraphs": [
+      "Nvidia’s shares fell sharply during Thursday’s session before recovering much of the loss. Trump praised Huang and floated Apple’s Tim Cook as a possible replacement, drawing criticism from the House Democratic leader, Hakeem Jeffries. Malaysia is investigating whether chips brought in by Megaspeed or an affiliate were sent on elsewhere, and House Republicans have said Huang agreed to testify before Thanksgiving."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-13/nvidia-huang-resigns.svg",
+    "alt": "An empty high-backed office chair beside a large computer chip, standing for Nvidia losing its chief executive.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "NVIDIA (SEC Form 8-K)",
+     "title": "NVIDIA Announces CEO Transition",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+     "publishedAt": "2026-11-12",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "The Boston Globe (Associated Press)",
+     "title": "What we know after Jensen Huang resigns as Nvidia CEO",
+     "url": "https://www.bostonglobe.com/2026/11/12/business/nvidia-ceo-resigns-heres-what-we-know/",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Yahoo Finance",
+     "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html",
+     "publishedAt": "2026-11-12",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "ABC News",
+     "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs",
+     "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "Competition between the United States and China over AI chips, models and the rules governing their trade."
+  },
+  {
+   "id": "alphagenome-2-cell-variants",
+   "section": "frontiers",
+   "field": "Science",
+   "title": "Google DeepMind’s AlphaGenome 2 predicts how genetic variants change gene activity in specific types of cell",
+   "category": "AI for biology",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-11 / 2026-11-12",
+   "hook": "A useful research tool if its results hold up, but the gains are self-reported and it still finds only a minority of disease-linked variants.",
+   "body": "Google DeepMind released AlphaGenome 2, a model that reads about a million letters of DNA and predicts how variants alter gene activity in a chosen tissue, cell type or cell state. It was trained on more than 100 million single-cell profiles. On an immune-cell benchmark, DeepMind says it identified 30 percent of likely causal variants at high precision, against 16 percent for the first version. Researchers can use it free for non-commercial work, but it is not validated for clinical use.",
+   "whatChanged": "DeepMind moved its DNA model from broad tissues to individual cell types and states, and opened it to non-commercial researchers.",
+   "whyMatters": "Most genetic variants linked to disease sit outside genes and act in particular cells. A tool that points to which cells and genes a variant affects could narrow the search for drug targets and speed up lab work.",
+   "uncertainty": "The benchmarks come from DeepMind’s own technical paper, which has not been peer reviewed, and no independent evaluation has been published. The company says the model learns correlations from observational data and is weaker on distant regulatory elements.",
+   "watchNext": "Independent tests by academic groups using the free access, and whether predictions are confirmed in laboratory experiments.",
+   "keyFacts": [
+    "Trained on more than 100 million single-cell profiles from 68 tissues",
+    "Recovered 30 percent of likely causal expression variants at 90 percent precision, against 16 percent for AlphaGenome",
+    "Predicted the direction of effect for 43 percent of variants, against 23 percent",
+    "Free for non-commercial research through an API; commercial access is in private preview",
+    "Not validated or approved for clinical or diagnostic use"
+   ],
+   "report": [
+    {
+     "heading": "What it does",
+     "paragraphs": [
+      "AlphaGenome 2 succeeds a model released in 2025. Given a long stretch of DNA and a target cell context, it predicts readouts such as gene expression and, newly, DNA methylation. DeepMind says it can take in new single-cell data from a few dozen cells without retraining, so the same sequence can be modelled differently across cells."
+     ]
+    },
+    {
+     "heading": "The claimed results",
+     "paragraphs": [
+      "On the TenK10K dataset of 28 immune cell types, the company says the model recovered nearly twice as many variants that change gene expression as its predecessor. In one example it linked an inflammatory bowel disease variant to the ETS2 gene, about 290,000 letters away, in gut immune cells. Another suggested a variant tied to severe Covid-19 disrupts gene activity more strongly in activated T cells."
+     ]
+    },
+    {
+     "heading": "Limits",
+     "paragraphs": [
+      "DeepMind itself notes that the model recovers only a minority of disease variants, struggles with effects after genes are transcribed, and needs more computing than the first version, so it will not immediately replace it. The only outside voice in coverage so far is a commercial partner, Genomics Ltd, which plans to build it into its platform. Claims of improvement need confirmation from independent groups."
+     ]
+    },
+    {
+     "heading": "Access",
+     "paragraphs": [
+      "DeepMind has precomputed predictions for variants already linked to traits across hundreds of cell and tissue conditions, and says researchers studying drug targets could benefit because drugs act on particular proteins in particular cells, according to its genomics lead, Žiga Avsec. Commercial users remain in a private preview."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-13/alphagenome-2-cell-variants.svg",
+    "alt": "A DNA double helix running between three differently shaded cells, with one highlighted rung, standing for a model that predicts how a single DNA change acts in different cell types.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Dataconomy",
+     "title": "Google DeepMind Releases AlphaGenome 2 To Study Disease",
+     "url": "https://dataconomy.com/2026/11/12/google-deepmind-releases-alphagenome-2-to-study-disease/",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Unite.AI",
+     "title": "Google DeepMind's AlphaGenome 2 Predicts Cell-State Variant Effects",
+     "url": "https://www.unite.ai/google-deepminds-alphagenome-2-predicts-cell-state-variant-effects/",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-and-research",
+   "threadTitle": "AI & scientific research",
+   "threadSummary": "How AI systems are being used to make, speed up or check scientific discoveries."
+  },
+  {
+   "id": "fda-priority-voucher-pilot-shelved",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "The FDA quietly stops awarding the vouchers that promised drug reviews in one or two months",
+   "category": "Drug regulation",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12",
+   "hook": "A modest but telling shift: the fast-track experiment is not formally cancelled, but without new vouchers or political oversight it is drifting.",
+   "body": "The Food and Drug Administration has awarded no new national priority vouchers since its commissioner, Marty Makary, left in May, according to a Reuters report. The programme, launched in June 2025, aimed to cut final reviews from 10 to 12 months to one or two. The council of political appointees that oversaw it has gone dormant, and career staff now manage timelines for the nine drugs still in it. The agency says the pilot is ongoing and it is reviewing feedback.",
+   "whatChanged": "Reporting shows the fast-review pilot has stalled in practice, although the FDA says it has not ended.",
+   "whyMatters": "The vouchers were the most visible attempt to speed up US drug approvals. Their stalling leaves companies unsure how quickly promised reviews will happen, while the agency has no confirmed commissioner.",
+   "uncertainty": "The FDA disputes that the programme is shelved. It is not clear whether a new commissioner would revive it.",
+   "watchNext": "The Senate committee vote on the commissioner nominee, Heidi Overton, and decisions on the nine drugs still in the pilot.",
+   "keyFacts": [
+    "22 drugs received vouchers and 12 have been approved",
+    "Five of those approvals came after Makary left in May 2026",
+    "Nine drugs remain in the programme",
+    "The target was a final review of one to two months, against the usual 10 to 12"
+   ],
+   "report": [
+    {
+     "heading": "What has changed",
+     "paragraphs": [
+      "Reuters reported that the commissioner’s national priority voucher pilot has effectively been shelved. No vouchers have been issued since Makary’s departure, and the group of political appointees that oversaw the fast reviews is no longer active. The remaining reviews are in the hands of career staff."
+     ]
+    },
+    {
+     "heading": "The record so far",
+     "paragraphs": [
+      "Of 22 drugs that received vouchers, 12 have been approved, five of them after Makary left. An FDA spokesperson, Emily Hilliard, said the pilot is ongoing and the agency is reviewing feedback. Holly Fernandez Lynch, a bioethicist at the University of Pennsylvania, described the current state as the worst of both worlds."
+     ]
+    },
+    {
+     "heading": "Context",
+     "paragraphs": [
+      "The FDA has been without a confirmed commissioner since May. A Senate committee vote on the nominee has been scheduled, which could decide whether the programme is revived, reshaped or allowed to lapse."
+     ]
+    },
+    {
+     "heading": "Why it mattered",
+     "paragraphs": [
+      "The vouchers were introduced in June 2025 under Makary as a way to speed up medicines the agency chose to prioritise, promising a final decision within one to two months rather than the usual 10 to 12, with a council of political appointees overseeing the reviews. The approvals that have come through show the shortcut can work, but without new awards and with oversight shifted to career staff, companies cannot count on the timelines the programme promised."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-13/fda-priority-voucher-pilot-shelved.svg",
+    "alt": "A ticket marked with a fast-forward arrow lying beside a medicine bottle under a stopped hourglass, standing for a stalled fast-track drug review programme.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Pharmaceutical Technology",
+     "title": "FDA Shelves Priority Voucher Pilot, Stalling Fast-Track Drug Reviews",
+     "url": "https://www.pharmtech.com/view/fda-shelves-priority-voucher-pilot-stalling-fast-track-drug-reviews",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "fda-drug-review",
+   "threadTitle": "How the FDA reviews drugs",
+   "threadSummary": "Changes to how the US Food and Drug Administration reviews and approves medicines."
+  },
+  {
+   "id": "sudan-drones-power-stations",
+   "section": "still",
+   "title": "Drones are now hitting Sudan’s power stations almost daily, cutting water supplies, UNICEF warns",
+   "category": "Humanitarian",
+   "region": "Africa · Sudan",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-10",
+   "body": "UNICEF says Sudan’s war has moved into a phase of long-range drone strikes, some travelling up to 1,500 kilometres, against civilian infrastructure. At least 15 strikes hit power stations in October, and in the last week of that month not a single day passed without one, the agency’s spokesperson James Elder said. When power fails, water pumps and treatment stop. Two in three children killed or injured this year were victims of armed drones, and UNICEF’s response is only one-third funded.",
+   "whatChanged": "UNICEF set out new figures showing a sustained drone campaign against Sudan’s electricity supply in October.",
+   "whyMatters": "Sudan already has one of the world’s largest humanitarian emergencies. Attacks on power ripple into water, health care and farming, raising the risk of cholera and hunger far from the front lines.",
+   "uncertainty": "UNICEF did not attribute the strikes on power stations, though Elder said it was hard to see why the army or government would carry them out. Overall casualty figures for the strikes were not given.",
+   "watchNext": "New funding pledges for Sudan’s aid response, and whether strikes on infrastructure continue into November.",
+   "keyFacts": [
+    "At least 15 drone strikes hit Sudanese power stations in October",
+    "Some drones travel up to 1,500 kilometres to their targets",
+    "Two in three child casualties this year were caused by armed drones",
+    "About 825,000 children under five are expected to suffer severe acute malnutrition this year",
+    "UNICEF’s Sudan response is about one-third funded"
+   ],
+   "report": [
+    {
+     "heading": "What UNICEF reported",
+     "paragraphs": [
+      "Speaking to reporters in Geneva, Elder described attacks on power stations as unprecedented and said strikes are also hitting markets and other public infrastructure. He said the agency could not determine who carried out the attacks on power stations, while noting that it was hard to see a motive for the army or government."
+     ]
+    },
+    {
+     "heading": "The knock-on effects",
+     "paragraphs": [
+      "Without electricity, pumps and water treatment plants stop, pushing families toward expensive and unsafe sources. Cholera has been detected in pockets, the cold chain for vaccines and medicines is at risk, and farmers cannot run irrigation pumps because generator fuel is scarce. Well over 15 million people urgently need shelter, according to UNICEF."
+     ]
+    },
+    {
+     "heading": "The response",
+     "paragraphs": [
+      "UNICEF and its partners have treated hundreds of thousands of children for severe malnutrition, provided health care to more than 2.5 million people and kept water flowing for close to eight million by connecting systems to solar power. Elder said everything is at breaking point and that resilience cannot run on goodwill alone. The war pits the army against the paramilitary Rapid Support Forces, former allies."
+     ]
+    },
+    {
+     "heading": "Why power matters",
+     "paragraphs": [
+      "UNICEF compared the pattern with Russian strikes on Ukraine’s grid, with one difference: in Sudan, damaged stations are not being repaired. Each strike therefore leaves a lasting gap in supply, with effects that reach hospitals, water systems and farms far from the fighting."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "UN News",
+     "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
+     "url": "https://news.un.org/en/story/2026/11/1168771",
+     "publishedAt": "2026-11-10",
+     "kind": "Primary (UN)"
+    }
+   ],
+   "threadId": "sudan-war-humanitarian-crisis",
+   "threadTitle": "Sudan's war and humanitarian crisis",
+   "threadSummary": "Sudan's conflict, displacement and worsening food emergency."
+  }
+ ],
+ "watch": [
+  {
+   "title": "COP31’s first draft",
+   "text": "A first draft of the climate summit’s deal is expected on Monday, November 16, with the talks due to end on Friday, November 20."
+  },
+  {
+   "title": "Nvidia without Huang",
+   "text": "Nvidia reports quarterly results on Tuesday, November 17, its first under an interim chief executive."
+  },
+  {
+   "title": "Shenzhen summit",
+   "text": "Xi Jinping hosts Asia-Pacific leaders in Shenzhen on November 18 and 19, where China says it is discussing a meeting with Trump and Putin."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "Nvidia’s chief executive resigned, Donald Trump said a deal with Iran was no longer needed, and a senior Fed official signalled more rate rises.",
+   "briefs": []
+  },
+  "latin-america": {
+   "summary": "Trump threatened to double tariffs on Mexico over migrant caravans, and Argentina’s monthly inflation rose to its highest since April.",
+   "briefs": [
+    {
+     "title": "Blackouts drive a surge of protests in Venezuela",
+     "text": "A Venezuelan monitoring group counted more than 1,000 protests in September, about six times the level a year earlier, and roughly half were over power cuts. In one survey 87 percent of respondents said they suffer blackouts at least four days a week, with the western states of Mérida, Táchira and Trujillo hit hardest. The crisis adds pressure on the acting president, Delcy Rodríguez, ahead of a promised presidential election.",
+     "eventDate": "2026-11-11 / 2026-11-12",
+     "sources": [
+      {
+       "publisher": "SBS News",
+       "title": "Venezuela, Oil Giant Losing Its Light... Public Anger Explodes Amid Severe Power Crises",
+       "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008841950",
+       "publishedAt": "2026-11-12",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "Putin and the US envoys agreed to keep talking and Zelensky said Europe would join the next round, while COP31’s hosts revived fossil fuel language and the EU’s top court upheld its climate laws.",
+   "briefs": [
+    {
+     "title": "Two men convicted in London of helping Iranian intelligence",
+     "text": "A jury at Woolwich Crown Court on Thursday convicted Mostafa Sepahvand and Farhad Javadi Manesh of conduct likely to assist Iran’s intelligence services. Their targets included two journalists at the Persian-language broadcaster Iran International and a lawyer from UK Lawyers for Israel. A third man was acquitted, and sentencing is set for December 17.",
+     "eventDate": "2026-11-12",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "UK court finds two Iranian men guilty of spying for Iran",
+       "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran",
+       "publishedAt": "2026-11-12",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "UNICEF warned that drones are striking Sudan’s power stations almost daily, and Amnesty said warnings went unheeded before a massacre in South Sudan.",
+   "briefs": [
+    {
+     "title": "Kenya discharges its last Ebola patient and starts a 42-day countdown",
+     "text": "Kenya discharged its last Ebola patient, bringing recoveries to seven, and officials say no new confirmed case has been reported since October 20. All 135 identified contacts finished 21 days of monitoring without signs of wider spread. The country can be declared Ebola-free after 42 days without new cases, and it urged other countries to reconsider travel restrictions linked to the outbreak.",
+     "eventDate": "2026-11-11 / 2026-11-12",
+     "sources": [
+      {
+       "publisher": "allAfrica",
+       "title": "Africa: All of Africa Today - November 12, 2026",
+       "url": "https://allafrica.com/stories/202611120147.html",
+       "publishedAt": "2026-11-12",
+       "kind": "News digest"
+      }
+     ]
+    },
+    {
+     "title": "Eswatini begins closing foreign-owned businesses",
+     "text": "Eswatini’s government has started closing businesses owned by foreigners, mainly Asian traders, under a law intended to raise participation by citizens in the economy. Parliament agreed that foreign owners should have at least 12 months to leave, but there is a dispute over how quickly the law should be enforced.",
+     "eventDate": "2026-11-12",
+     "sources": [
+      {
+       "publisher": "allAfrica",
+       "title": "Africa: All of Africa Today - November 12, 2026",
+       "url": "https://allafrica.com/stories/202611120147.html",
+       "publishedAt": "2026-11-12",
+       "kind": "News digest"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Trump said Washington no longer needs a deal with Iran as Tehran reported more tankers hit in Hormuz, and Houthi attacks on Saudi Arabia continued.",
+   "briefs": [
+    {
+     "title": "Lebanon’s talks with Israel are reported frozen until Israel forms a government",
+     "text": "Lebanon’s Al Jadeed television reported on Thursday that talks with Israel are suspended until a new Israeli government is formed, and that officials are working on an alternative force for southern Lebanon now that the international presence there has ended. In Israel, the caretaker defence minister, Israel Katz, said no approval from the opposition was needed to launch strikes, after opposition leader Gadi Eisenkot urged restraint before a new government takes office.",
+     "eventDate": "2026-11-11 / 2026-11-12",
+     "sources": [
+      {
+       "publisher": "Al Jadeed",
+       "title": "Evening News Introduction November 12, 2026",
+       "url": "https://www.aljadeed.tv/news/news-reports/595490/evening-news-introduction-november-12-2026/en",
+       "publishedAt": "2026-11-12",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Gulf News",
+       "title": "Middle East tensions escalate as Iran threatens US bases, Trump rejects deal and Saudi Arabia intercepts missiles",
+       "url": "https://gulfnews.com/world/mena/us-israel-iran-war-tehran-threatens-american-bases-from-middle-east-to-europe-houthi-missile-debris-lands-in-makkah-eisenkot-cautions-netanyahu-1.500744472",
+       "publishedAt": "2026-11-13",
+       "kind": "Live reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Indonesia’s vice president formally left office, starting a 60-day process to choose a successor, and China confirmed Xi Jinping will host next week’s Asia-Pacific summit.",
+   "briefs": [
+    {
+     "title": "China confirms Xi will chair the APEC summit and is discussing a meeting with Trump and Putin",
+     "text": "Beijing announced on Friday that Xi Jinping will chair the Asia-Pacific Economic Cooperation leaders’ meeting in Shenzhen on November 18 and 19 and speak at a business summit beforehand. A foreign ministry spokesperson, Mao Ning, said China is in communication with the relevant parties about a meeting of the three heads of state, referring to Xi, Donald Trump and Vladimir Putin. Trump’s attendance has not been confirmed.",
+     "eventDate": "2026-11-13",
+     "sources": [
+      {
+       "publisher": "Anadolu Agency",
+       "title": "China's Xi to address APEC summit, hold bilateral meetings in Shenzhen next week",
+       "url": "https://www.aa.com.tr/en/asia-pacific/china-s-xi-to-address-apec-summit-hold-bilateral-meetings-in-shenzhen-next-week/4123661",
+       "publishedAt": "2026-11-13",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Australia’s prime minister opened the COP31 leaders’ summit he co-hosts, while his government announced mandatory AI safety rules at home.",
+   "briefs": [
+    {
+     "title": "Australia announces mandatory AI safety rules and a regulator with power to penalise companies",
+     "text": "Anthony Albanese’s government announced mandatory safety and security protections for artificial intelligence this week, with a new regulator able to penalise technology companies that do not comply. The acting prime minister, Richard Marles, said responsibility would trace back to how AI agents are built and to decisions by their owners and developers. Independent senator David Pocock welcomed the move but wants stronger mandatory reporting; the regulator’s name, penalties and timetable have not yet been published.",
+     "eventDate": "2026-11-09 / 2026-11-12",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Federal politics: Labor frontbenchers talk up decline in investor home loans — as it happened",
+       "url": "https://www.abc.net.au/news/2026-11-12/federal-politics-live-blog-albanese-cop31-nov-2/107375902",
+       "publishedAt": "2026-11-12",
+       "kind": "Live reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

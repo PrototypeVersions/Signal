@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A ticket with a fast-forward arrow beside a medicine bottle under a stopped hourglass">
+  <rect width="800" height="500" fill="#09131d"/>
+  <line x1="60" y1="420" x2="740" y2="420" stroke="#2c4f6e" stroke-width="6" stroke-linecap="round"/>
+  <g transform="translate(110 300) rotate(-8)">
+    <path d="M0 0 h230 v30 a18 18 0 0 0 0 36 v30 h-230 v-30 a18 18 0 0 0 0 -36 z" fill="#12263a" stroke="#d6e6f2" stroke-width="5"/>
+    <path d="M70 26 l40 22 l-40 22 z M115 26 l40 22 l-40 22 z" fill="#c8875a"/>
+  </g>
+  <rect x="425" y="270" width="110" height="150" rx="14" fill="#1d3a55" stroke="#d6e6f2" stroke-width="5"/>
+  <rect x="440" y="240" width="80" height="34" rx="6" fill="#12263a" stroke="#7fa6c4" stroke-width="5"/>
+  <rect x="440" y="320" width="80" height="50" rx="4" fill="#0f2233" stroke="#2c4f6e" stroke-width="4"/>
+  <g transform="translate(640 250)">
+    <line x1="-55" y1="-130" x2="55" y2="-130" stroke="#7fa6c4" stroke-width="10" stroke-linecap="round"/>
+    <line x1="-55" y1="130" x2="55" y2="130" stroke="#7fa6c4" stroke-width="10" stroke-linecap="round"/>
+    <path d="M-45 -122 C -45 -40, 45 -40, 45 -122 Z" fill="none" stroke="#d6e6f2" stroke-width="5"/>
+    <path d="M-45 122 C -45 40, 45 40, 45 122 Z" fill="none" stroke="#d6e6f2" stroke-width="5"/>
+    <path d="M-45 -122 C -45 -40, 45 -40, 45 -122" fill="none" stroke="#d6e6f2" stroke-width="5"/>
+    <path d="M-30 -110 L30 -110 L0 -62 Z" fill="#c8875a"/>
+    <path d="M-30 112 L30 112 L0 88 Z" fill="#c8875a"/>
+    <line x1="0" y1="-60" x2="0" y2="60" stroke="#2c4f6e" stroke-width="3" stroke-dasharray="4 8"/>
+  </g>
+</svg>

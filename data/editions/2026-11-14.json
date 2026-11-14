@@ -1,0 +1,1139 @@
+{
+ "date": "2026-11-14",
+ "number": 28,
+ "cutoff": "2026-11-14T12:30:00Z",
+ "cutoffLabel": "6:30 AM CT",
+ "opening": "Europe named a five-country team for the next Ukraine talks as Ukraine launched one of its largest drone attacks on Russia. Iran and the United States gave clashing accounts of drones fired at Bahrain, a network failure grounded all US departures, and Trump said he would consider force against Cuba.",
+ "leadStoryId": "europe-team-ukraine-talks-dublin",
+ "stories": [
+  {
+   "id": "europe-team-ukraine-talks-dublin",
+   "section": "world",
+   "title": "Europe picks France, Germany, Britain, Italy and Poland to speak for it in Ukraine talks, as Ukraine fires nearly 1,200 drones at Russia",
+   "category": "Conflict & diplomacy",
+   "region": "Europe · Ireland, Ukraine, Russia",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-13 / 2026-11-14",
+   "body": "Meeting informally in Dublin on Friday, EU leaders chose a team rather than a single envoy for the US-brokered peace talks: France, Germany, Britain, Italy and Poland, together with the EU institutions. European Council President António Costa said Europe must speak with one clear voice. Overnight, Russia’s defence ministry said it had downed 1,198 Ukrainian long-range drones, one of Kyiv’s largest aerial attacks of the war. Russian strikes on Friday wounded about 30 people in Zaporizhzhia and cut power in roughly half of Ukraine’s regions.",
+   "whatChanged": "Europe settled who will represent it at the next round of talks, choosing five governments and the EU institutions instead of naming one special envoy.",
+   "whyMatters": "Washington, Kyiv and even Moscow had asked Europe for a single negotiator. A named team gives Europe a clearer seat at talks that now reach into the continent’s wider security, but it counts only if Russia agrees to negotiate with Europeans directly, which it has long refused to do.",
+   "uncertainty": "The Kremlin says it is open to contacts with Europeans but has not accepted the team. No date or venue for the next round has been announced. Casualty figures from the drone attacks come from officials on each side and cannot be independently checked.",
+   "watchNext": "A date and venue for the next round, any Kremlin answer on European participation, and the Asia-Pacific summit Xi Jinping hosts in Shenzhen on November 18 and 19.",
+   "keyFacts": [
+    "EU leaders agreed the negotiating team at an informal summit in Dublin on November 13",
+    "The team is France, Germany, the UK, Italy and Poland, plus the EU institutions",
+    "Russia’s defence ministry said it downed 1,198 Ukrainian drones between late Thursday and early Friday",
+    "Ukraine’s General Staff said it struck an oil refinery in Volgograd and started a fire",
+    "Russian strikes on Friday caused power cuts in about half of Ukraine’s regions, a deputy energy minister said"
+   ],
+   "report": [
+    {
+     "heading": "The Dublin decision",
+     "paragraphs": [
+      "Costa said the leaders agreed that Europe’s team for the peace negotiations is made up of the EU institutions and the five largest members of the so-called Coalition of the Willing. The EU would lead on Ukraine’s European future, reconstruction and prosperity, he said, while security guarantees would sit with the coalition in close coordination with NATO. Euronews reported that NATO is also part of the group.",
+      "In practice the decision mostly formalises what already exists. France, Germany and Britain have been at the table, Italy took part in Abu Dhabi this week, and Poland is expected at the next round. German Chancellor Friedrich Merz said the format had proved effective and he saw no need for an institutional debate."
+     ]
+    },
+    {
+     "heading": "Kallas left without a seat",
+     "paragraphs": [
+      "The EU’s foreign policy chief, Kaja Kallas, had openly sought the envoy role and argued that representing the bloc was part of her mandate, while acknowledging that Moscow does not want her. Commission President Ursula von der Leyen declined to back her, and Costa pointed to the treaties that give his own office the job of representing the Union at leaders’ level. A senior diplomat called the arrangement not ideal.",
+      "Kallas warned that Russia was using a debate on Europe’s security architecture to distract from its aggression, and the Associated Press reported she said Europe must insist on a ceasefire before talks go further. Merz rejected Moscow’s framing of the issue and pointed to NATO. Kremlin spokesman Dmitry Peskov said Russia was open to contacts with Europeans."
+     ]
+    },
+    {
+     "heading": "The war in the air",
+     "paragraphs": [
+      "Local officials said Ukrainian strikes on three Russian regions killed seven people, including a 12-year-old, and wounded 17. Russia, for its part, launched 117 drones at Ukraine overnight into Friday, killing at least two people, and a Friday attack on Zaporizhzhia hit two five-storey apartment blocks, wounding 30 people including six children.",
+      "The exchange continued into Saturday. Regional authorities in Belgorod said a Ukrainian drone killed a couple and their adult daughter, and a strike on a power grid facility in Odesa region left nearly 50,000 people without electricity, according to the regional governor."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Dublin, Kyiv and the drone war",
+    "bounds": [
+     -12,
+     40,
+     50,
+     62
+    ],
+    "countries": [
+     "804",
+     "643",
+     "372"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.3,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map with Ireland, Ukraine and Russia highlighted. Markers show Dublin, where EU leaders chose their negotiating team, Kyiv, Zaporizhzhia, where Russian strikes hit apartment blocks, and Volgograd, where Ukraine says it hit a refinery.",
+    "caption": "Countries highlighted for context · markers are approximate locations"
+   },
+   "locations": [
+    {
+     "label": "Dublin",
+     "lon": -6.26,
+     "lat": 53.35
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    },
+    {
+     "label": "Zaporizhzhia",
+     "lon": 35.14,
+     "lat": 47.84
+    },
+    {
+     "label": "Volgograd",
+     "lon": 44.51,
+     "lat": 48.71
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "EUobserver",
+     "title": "EU leaders hand Ukraine peace talks to France, Germany, UK, Italy, Poland plus Brussels instead of a single envoy",
+     "url": "https://euobserver.com/248871/eu-leaders-hand-ukraine-peace-talks-to-france-germany-uk-italy-poland-plus-brussels-instead-of-a-single-envoy/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
+     "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Manila Times (AP)",
+     "title": "Ukraine launches nearly 1,200 drones at Russia ahead of US-led European security talks",
+     "url": "https://www.manilatimes.net/2026/11/14/world/americas-emea/ukraine-launches-nearly-1200-drones-at-russia-ahead-of-us-led-european-security-talks/2469894",
+     "publishedAt": "2026-11-14",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "A News",
+     "title": "Russia, Ukraine trade deadly overnight strikes, leaving 5 killed, 18 injured",
+     "url": "https://www.anews.com.tr/world/2026/11/14/russia-ukraine-trade-deadly-overnight-strikes-leaving-5-killed-18-injured",
+     "publishedAt": "2026-11-14",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+  },
+  {
+   "id": "iran-bahrain-radar-hormuz-mines",
+   "section": "world",
+   "title": "Iran claims a strike on a US radar in Bahrain, which Washington denies, and says mines hit tankers in Hormuz",
+   "category": "Conflict",
+   "region": "Middle East · Iran, Bahrain, Strait of Hormuz",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12 / 2026-11-13",
+   "body": "Iran’s Revolutionary Guards said on Friday they had destroyed a US early-warning radar in Bahrain, calling it retaliation for an air strike on a telecommunications tower in Sirik, on Iran’s southern coast. US Central Command said two Iranian attack drones aimed at Bahrain were shot down, causing no injuries or damage. The Guards’ navy also said a gas tanker struck a mine and exploded in the Strait of Hormuz after taking a route Iran has banned. That claim has not been independently confirmed, and the ship has not been named.",
+   "whatChanged": "Iran made its first claimed attack on US forces in a Gulf state since early September, and the United States confirmed that drones were launched while denying that anything was hit.",
+   "whyMatters": "The exchange shows how easily the fragile lull in the war can break, with each side casting the other as the aggressor. Iran’s claims of mined routes also add risk for tankers that have only recently begun returning to the strait.",
+   "uncertainty": "Neither side has published evidence for its account of the Bahrain incident, and Washington has not commented on the strike Iran reported in Sirik. The tanker’s name, flag, crew and damage are unknown, and reports differ on whether it carried liquefied natural gas or petroleum gas.",
+   "watchNext": "Whether either side strikes again, any confirmation of the tanker incident from maritime authorities, and how the UN nuclear agency’s board responds to Iran’s refusal to resume inspections.",
+   "keyFacts": [
+    "Central Command said US forces shot down two Iranian one-way attack drones heading for Bahrain",
+    "Iran says the attack answered a strike on a telecommunications tower in Sirik on Thursday evening",
+    "The Joint Maritime Information Center has recorded 181 vessel incidents in the region since March 1",
+    "Daily transits of the strait are in single digits to low double digits, against about 138 a day in 2025",
+    "About 211 commercial ships were waiting at anchor east of the strait, according to the same centre"
+   ],
+   "report": [
+    {
+     "heading": "Two accounts of Friday",
+     "paragraphs": [
+      "According to the state news agency IRNA, the Guards said the radar strike was a warning to Washington to stop what they called aerial provocations and oil smuggling in the Strait of Hormuz, and that their aerospace force was ready to respond without limits. The Fars agency said the radar was targeted about an hour after the attack on Sirik. The Times of Israel noted it was Iran’s first such claim against American assets in a Gulf country since early September.",
+      "Central Command rejected the claim as false in a post on X, saying both drones launched toward Bahrain were brought down. President Donald Trump, asked whether he would use force to stop Iran threatening US allies and shipping, answered that he would do so without hesitation, and repeated his claim that the United States controls the strait."
+     ]
+    },
+    {
+     "heading": "Mines in the strait",
+     "paragraphs": [
+      "The Guards’ navy said the gas carrier was hit in the eastern part of the strait after trying to use a prohibited southern passage despite warnings. The British military’s maritime trade office had not confirmed the incident, and no details of the vessel were released. Iranian media had reported explosions on four oil tankers the day before.",
+      "Separately, the Joint Maritime Information Center listed four tanker attacks on November 10 and 11, including the Fujairah Energy, whose injured crew were taken ashore, and the Dominica Prosperity, whose 22 crew were evacuated after an engine-room hit. The Washington Institute for Near East Policy counted 37 attacks in October, the most in any month since the war began."
+     ]
+    },
+    {
+     "heading": "Washington’s pressure campaign",
+     "paragraphs": [
+      "A White House official would not say whether talks with Iran had ended after Trump wrote that Washington did not need a deal, pointing instead to the naval blockade and economic pressure. Treasury Secretary Scott Bessent, who moved to a military base on Secret Service advice after Iranian death threats, told CNBC that the economic campaign was working and that Iran would eventually seek an agreement."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Bahrain and the Strait of Hormuz",
+    "bounds": [
+     46,
+     22,
+     62,
+     31
+    ],
+    "countries": [
+     "364",
+     "784",
+     "512",
+     "682",
+     "634"
+    ],
+    "labels": [
+     {
+      "label": "The Gulf",
+      "lon": 51.2,
+      "lat": 27.6,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 59.3,
+      "lat": 24.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Gulf with Iran, Saudi Arabia, Qatar, the United Arab Emirates and Oman highlighted. Markers show Bahrain, where Iran says it hit a US radar, and Sirik on Iran’s coast near the Strait of Hormuz, where Iran reported a strike.",
+    "caption": "Countries highlighted for context · Bahrain is too small to shade at this scale · markers are approximate"
+   },
+   "locations": [
+    {
+     "label": "Bahrain",
+     "lon": 50.58,
+     "lat": 26.23
+    },
+    {
+     "label": "Sirik",
+     "lon": 57.1,
+     "lat": 26.52
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Middle East Monitor (Anadolu)",
+     "title": "CENTCOM denies Iranian claim of attack on US radar in Bahrain, says 2 drones shot down",
+     "url": "https://www.middleeastmonitor.com/20261113-centcom-denies-iranian-claim-of-attack-on-us-radar-in-bahrain-says-2-drones-shot-down/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News",
+     "title": "Iran live updates",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
+     "publishedAt": "2026-11-13",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "The Tribune (ANI)",
+     "title": "US CENTCOM denies Iran’s claim of destroying US radar in Bahrain, says two drones shot down",
+     "url": "https://www.tribuneindia.com/news/bahrain/us-centcom-denies-irans-claim-of-destroying-us-radar-in-bahrain-says-two-drones-shot-down",
+     "publishedAt": "2026-11-14",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "gCaptain (Reuters)",
+     "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
+     "url": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "SAFETY4SEA",
+     "title": "Strait of Hormuz: New gas carrier incident reported amid rising security threats",
+     "url": "https://safety4sea.com/strait-of-hormuz-new-gas-carrier-incident-reported-amid-rising-security-threats/",
+     "publishedAt": "2026-11-13",
+     "kind": "Maritime reporting"
+    },
+    {
+     "publisher": "The Times of Israel",
+     "title": "Liveblog, November 13, 2026",
+     "url": "https://www.timesofisrael.com/liveblog-november-13-2026/",
+     "publishedAt": "2026-11-13",
+     "kind": "Live reporting"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "faa-nationwide-ground-stop",
+   "section": "world",
+   "title": "A communications failure grounds every departing flight in the United States for more than four hours",
+   "category": "Infrastructure",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-13 / 2026-11-14",
+   "body": "The Federal Aviation Administration halted departures from every US airport at 3:54 in the afternoon, Eastern time, on Friday, after communication problems hit several of the centres that guide planes at cruising altitude. The stop was lifted at 8:15 that evening. Transportation Secretary Sean Duffy blamed overloaded routers and decades-old equipment, and officials said they had seen no sign of a cyberattack. By late Friday, the tracking service Flightradar24 counted nearly 10,000 cancelled flights to and from US airports through Saturday.",
+   "whatChanged": "The United States had its first nationwide ground stop since January 2023, this time caused by a failure in the network that links air traffic control centres.",
+   "whyMatters": "American air traffic control works as one national system, and Friday showed how a single weak link can stop it. The failure adds weight to Duffy’s request for 50 billion dollars to rebuild the system, and to his warning that more outages will follow if it is not.",
+   "uncertainty": "The cause is still under investigation. Officials have not confirmed whether a software update or security patch set off the crash, and the Homeland Security Department is checking whether the FAA’s new AI routing tool played any part, without having found that it did.",
+   "watchNext": "How quickly airlines clear the backlog over the weekend, the findings of the FAA and Homeland Security inquiries, and whether Congress acts on the funding request before the new Congress takes over in January.",
+   "keyFacts": [
+    "The ground stop lasted from 3:54 to 8:15 p.m. Eastern time on November 13, about four hours and 20 minutes",
+    "At the low point, Flightradar24 counted 336 flights bound for US airports, against more than 3,600 usually at that hour",
+    "Nearly 10,000 flights were cancelled through Saturday, including more than 2,200 each at Delta and American",
+    "The network involved, FAA Telecommunications Infrastructure, is operated by the contractor L3Harris",
+    "An FAA safety review in November 2023 called that network obsolete"
+   ],
+   "report": [
+    {
+     "heading": "What failed",
+     "paragraphs": [
+      "In a brief statement, the FAA said communication issues had affected multiple air route traffic control centres and that technicians were investigating. Duffy said the problem touched all of those centres. Homeland Security Secretary Markwayne Mullin described it as a telecommunications outage rather than a safety threat and said every flight was accounted for. Planes already in the air were allowed to land.",
+      "Several people familiar with the system told CBS News that an update to the FAA’s private communications network caused it to reboot and then crash. Mullin said new security patches installed on the older system appeared to have overwhelmed its routers. Duffy pointed to what he called 1980s copper lines and said none of the newly installed equipment had failed. The FAA said it tested its systems before letting flights resume."
+     ]
+    },
+    {
+     "heading": "The AI question",
+     "paragraphs": [
+      "At a news conference in Washington, Mullin said his department was working with other agencies to establish whether the FAA’s new artificial intelligence tool contributed. The system, known as SMART, began rolling out in September and uses live data on weather, airport congestion and flight paths to adjust routes. Officials stressed that they had not found it caused the failure. Mullin also rejected any link to a Microsoft outage the same day."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "A safety review by the FAA in November 2023 warned that an unexpected failure of the network could cut off individual facilities or an entire regional control centre. Duffy, who is asking Congress for 50 billion dollars to overhaul air traffic control technology, said there would be more episodes like this unless the system is rebuilt. Cancellations were expected to continue through the weekend, and the Associated Press noted that the last nationwide stop before 2023 followed the attacks of September 11, 2001."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Flights heading to US airports",
+    "measure": "Flights in the air bound for US airports",
+    "unit": "flights",
+    "values": [
+     {
+      "label": "Usual at that hour",
+      "value": 3600
+     },
+     {
+      "label": "Low point of the stop",
+      "value": 336
+     }
+    ],
+    "alt": "Bar chart comparing more than 3,600 flights normally bound for US airports at that time of day with 336 at the low point of Friday’s ground stop.",
+    "caption": "Flightradar24 counts reported by Notebookcheck, November 13 · the usual figure is given as more than 3,600",
+    "sourceUrl": "https://www.notebookcheck.net/FAA-ground-stop-Overloaded-routers-halted-US-flights-for-hours.1450239.0.html"
+   },
+   "sources": [
+    {
+     "publisher": "Federal Aviation Administration",
+     "title": "FAA statement on nationwide ground stop",
+     "url": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop",
+     "publishedAt": "2026-11-13",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "Notebookcheck",
+     "title": "FAA ground stop: Overloaded routers halted US flights for hours",
+     "url": "https://www.notebookcheck.net/FAA-ground-stop-Overloaded-routers-halted-US-flights-for-hours.1450239.0.html",
+     "publishedAt": "2026-11-14",
+     "kind": "Reporting, citing CBS News, ABC News and Flightradar24"
+    },
+    {
+     "publisher": "Fox News",
+     "title": "FAA issues nationwide ground stop, cites communications issue",
+     "url": "https://www.foxnews.com/live-news/faa-issues-nationwide-ground-stop-cites-communications-issue",
+     "publishedAt": "2026-11-13",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "KPRC Click2Houston",
+     "title": "FAA investigating whether new AI technology contributed to nationwide ground stop",
+     "url": "https://www.click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC13 Houston",
+     "title": "FAA ground stop live updates",
+     "url": "https://abc13.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/",
+     "publishedAt": "2026-11-13",
+     "kind": "Live reporting (AP)"
+    }
+   ],
+   "threadId": "us-air-traffic-control",
+   "threadTitle": "America’s air traffic control system",
+   "threadSummary": "The strain on the ageing US air traffic control network, the outages it suffers and the plans to rebuild it."
+  },
+  {
+   "id": "trump-cuba-force-before-term-ends",
+   "section": "world",
+   "title": "Trump says he wants to ‘get Cuba done’ before he leaves office and would consider using military force",
+   "category": "Diplomacy & security",
+   "region": "Latin America · Cuba, United States",
+   "regions": [
+    "latin-america",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12 / 2026-11-13",
+   "body": "In a radio interview with Hugh Hewitt on Thursday, President Donald Trump said he wanted to settle the question of Cuba before his term ends and, asked about a short military campaign, said he would certainly consider it. He called the island essentially a failed nation and praised Secretary of State Marco Rubio’s work on it. On Friday a State Department spokesman, Tommy Pigott, said a failed state so close to US shores was a direct threat to national security, without confirming any plan for military action.",
+   "whatChanged": "Trump tied his goal for Cuba to the end of his term and openly kept military force among his options.",
+   "whyMatters": "A US fuel blockade has already left Cubans facing long blackouts and shortages of food, water and petrol. Open talk of force raises the stakes for the island and for a region where the United States has already used its military in Venezuela and against boats at sea.",
+   "uncertainty": "No military plan has been announced, and Rubio has said the administration prefers a negotiated, peaceful change. Havana had not answered the latest remarks directly by Friday. Democrats, who won this month’s congressional elections, do not take control until January 3.",
+   "watchNext": "Any response from Havana, any movement of US ships or forces in the Caribbean, and whether the incoming Congress moves to limit the president’s war powers over Cuba.",
+   "keyFacts": [
+    "Trump made the remarks to the radio host Hugh Hewitt on November 12",
+    "The State Department says it has offered 100 million dollars in aid, to be delivered directly to Cubans under independent checks",
+    "A Marist poll earlier this year found 61 percent of Americans opposed US military operations in Cuba",
+    "On Monday, President Miguel Díaz-Canel said Cuba’s future would not be decided in the north"
+   ],
+   "report": [
+    {
+     "heading": "What Trump said",
+     "paragraphs": [
+      "Asked whether he would order force to free Cuba, Trump said he wanted the matter finished before he left, and called Rubio, whose parents left Cuba in 1956, very talented on the issue. He said he would like to act for Cuban emigrants who, in his words, had been treated badly. Days earlier he had told reporters at the White House that Cuba was a failing nation that would fall fairly soon. The Latin America Daily Briefing, summarising Politico, described it as the first time he had put a timeline on such an operation."
+     ]
+    },
+    {
+     "heading": "Washington’s line",
+     "paragraphs": [
+      "Speaking on Fox News, Pigott backed the president’s remarks and blamed Cuba’s humanitarian crisis on the government’s incompetence. He said the aid offer stands only if it reaches people directly and bypasses the authorities, and that the administration will keep sanctioning schemes it says divert resources from the population. Rubio has described Cuba as a security threat because of its ties to Russia and China, but has also said Washington would rather see a peaceful political transition.",
+      "The remarks build on months of escalating rhetoric. In March Trump said it would be an honour to take Cuba, and on October 31 he vowed that no Castro would hold power by the end of his term."
+     ]
+    },
+    {
+     "heading": "An island under pressure",
+     "paragraphs": [
+      "The oil and fuel blockade imposed earlier this year has caused widespread blackouts and shortages, made worse by failing infrastructure. Díaz-Canel has called the blockade criminal and a form of collective punishment, and UN human rights experts have condemned it as a breach of international law. At home, the same Marist poll found that 70 percent of Americans think Congress should approve any military action before it happens."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Cuba and the Florida Straits",
+    "bounds": [
+     -90,
+     17,
+     -72,
+     31
+    ],
+    "countries": [
+     "192",
+     "840"
+    ],
+    "labels": [
+     {
+      "label": "Gulf of Mexico",
+      "lon": -88,
+      "lat": 25.5,
+      "kind": "water"
+     },
+     {
+      "label": "Caribbean Sea",
+      "lon": -78,
+      "lat": 18.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Cuba and the southern United States, both highlighted, with a marker on Havana, about 150 kilometres south of Florida.",
+    "caption": "Countries highlighted for context · marker is approximate"
+   },
+   "locations": [
+    {
+     "label": "Havana",
+     "lon": -82.37,
+     "lat": 23.11
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Spectrum News",
+     "title": "Trump says he might use military force in Cuba before he leaves office",
+     "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/11/13/trump-cuba-military-force",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CubaHeadlines",
+     "title": "State Department reacts to Trump’s military remarks: a failed Cuba is a direct threat to the U.S.",
+     "url": "https://www.cubaheadlines.com/articles/345671",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TRT World",
+     "title": "Trump seeks to ’get Cuba done’ before he leaves office",
+     "url": "https://www.trtworld.com/article/26731afa59e3",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Latin America Daily Briefing",
+     "title": "Latin America Daily Briefing, November 13, 2026",
+     "url": "https://latinamericadailybriefing.substack.com/p/latin-america-daily-briefing-f07",
+     "publishedAt": "2026-11-13",
+     "kind": "News digest"
+    }
+   ],
+   "threadId": "us-cuba-relations",
+   "threadTitle": "The United States and Cuba",
+   "threadSummary": "Washington’s decades-old embargo on Cuba, its tightening in 2026, and international opposition to it."
+  },
+  {
+   "id": "cop31-first-week-fossil-fuels",
+   "section": "world",
+   "title": "COP31’s first week ends with countries still far apart on fossil fuels, as Australia gathers views for a draft deal",
+   "category": "Climate",
+   "region": "Europe · Türkiye",
+   "regions": [
+    "europe"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-13",
+   "body": "The UN climate summit in Antalya finished its first week on Friday with big fossil fuel producers and consumers resisting firm new targets or any shift away from oil, gas and coal, observers said. Türkiye, the host, wants a deal built around expanding electrification, without requiring the power to come from renewables. Brazil wants countries to set out more clearly how they will move away from fossil fuels. Australia, which leads the negotiations, is taking submissions until Saturday night and plans a draft text early next week.",
+   "whatChanged": "The summit moved from leaders’ speeches to bargaining over a text, with electrification emerging as the hosts’ main offer and observers describing positions as entrenched.",
+   "whyMatters": "A recent UN report found the world will pass 1.5 degrees of warming on every plausible path. What the final text says about fossil fuels and electrification will show whether this summit tries to limit that overshoot or mainly records it.",
+   "uncertainty": "Saudi Arabia, Russia and India did not comment on the state of the talks, so their final positions are unclear. The United States is absent for a second year, and it is not known whether the electrification goal will survive in any form.",
+   "watchNext": "The first draft of the deal, expected early next week, and the scheduled close of the summit on Friday, November 20.",
+   "keyFacts": [
+    "COP31 runs from November 9 to 20 in Antalya, Türkiye, with more than 80,000 delegates expected",
+    "Australia is accepting submissions for a political text until Saturday night, November 14",
+    "The United States is skipping the talks for the second year running",
+    "Brazil’s President Lula called for national roadmaps for a just transition away from fossil fuels",
+    "The Marshall Islands asked for adaptation finance to be tripled to at least 120 billion dollars a year by 2035"
+   ],
+   "report": [
+    {
+     "heading": "Where the talks stand",
+     "paragraphs": [
+      "Cosima Cassel, an observer with the climate think tank E3G, said positions were still quite entrenched but that this was normal at this stage. Her colleague Katrine Petersen said whether the electrification and transition measures survive depends on the coming days, and that India and the G77 group of developing countries do not want firm targets or language naming particular fuels or technologies. India has argued that such measures could limit its development.",
+      "Diana Acconcia, who heads the EU delegation, said Europe supports the electrification goal, which she described as not prescriptive about how it is reached, although the EU wants it met with clean energy."
+     ]
+    },
+    {
+     "heading": "What leaders asked for",
+     "paragraphs": [
+      "In the high-level segment, UN Secretary-General António Guterres called for no new coal, oil or gas infrastructure, and Lula told leaders they had grown complacent about warming. The campaign group 350.org criticised Australia’s prime minister, Anthony Albanese, for not mentioning fossil fuels in his address. Venezuela’s acting president, Delcy Rodríguez, defended her country’s right to develop its oil industry. The Marshall Islands’ president, Hilda Heine, said electrification must be tied to renewable power."
+     ]
+    },
+    {
+     "heading": "Planning for overshoot",
+     "paragraphs": [
+      "Chris Bowen, Australia’s energy minister and the summit’s president of negotiations, said the latest science points to a temporary overshoot of 1.5 degrees, with a possible return below it later. Pacific representatives warned that even a temporary overshoot could bring irreversible harm. The year has already brought heatwaves in Western Europe and a glacier collapse in Nepal that set off a flood killing more than 1,450 people."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Antalya, Türkiye",
+    "bounds": [
+     24,
+     34,
+     46,
+     43
+    ],
+    "countries": [
+     "792"
+    ],
+    "labels": [
+     {
+      "label": "Mediterranean Sea",
+      "lon": 29,
+      "lat": 34.8,
+      "kind": "water"
+     },
+     {
+      "label": "Black Sea",
+      "lon": 34.5,
+      "lat": 42.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Türkiye, highlighted, with a marker on Antalya on the Mediterranean coast, where the COP31 climate summit is being held.",
+    "caption": "Türkiye highlighted as host · marker shows the summit city"
+   },
+   "locations": [
+    {
+     "label": "Antalya",
+     "lon": 30.71,
+     "lat": 36.9
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Reuters (via 93.3 The Drive)",
+     "title": "COP31 talks face early friction over future of fossil fuels",
+     "url": "https://www.933thedrive.com/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Islands Business (PACNEWS)",
+     "title": "PACNEWS ONE, 13 November 2026",
+     "url": "https://islandsbusiness.com/pacnews/pacnews-one-13-november-2026/",
+     "publishedAt": "2026-11-13",
+     "kind": "Regional news service"
+    },
+    {
+     "publisher": "Latin America Daily Briefing",
+     "title": "Latin America Daily Briefing, November 13, 2026",
+     "url": "https://latinamericadailybriefing.substack.com/p/latin-america-daily-briefing-f07",
+     "publishedAt": "2026-11-13",
+     "kind": "News digest"
+    }
+   ],
+   "threadId": "cop31-climate-summit",
+   "threadTitle": "The COP31 climate summit",
+   "threadSummary": "The UN’s 2026 climate conference in Antalya, Türkiye, and the negotiations on emissions, energy and climate finance."
+  },
+  {
+   "id": "iaea-iran-monitoring-threats",
+   "section": "more",
+   "title": "Iran tells the UN nuclear agency that inspections cannot resume while it faces US military threats",
+   "category": "Nuclear",
+   "region": "Middle East · Iran",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-13",
+   "whatChanged": "A confidential report to member states shows Iran has ruled out talks on restoring monitoring for now, while the agency calls the information gap a proliferation concern.",
+   "body": "The International Atomic Energy Agency’s report, circulated on Friday, says Iran cited repeated public threats from the US president to attack its nuclear sites again. The agency has not verified Iran’s stockpile of 440.9 kilograms of uranium enriched to 60 percent since the June 2025 war, and says it does not know the exact location of a declared underground enrichment plant at Isfahan or whether it holds nuclear material. Director General Rafael Grossi urged Iran to consider gradual technical steps that would let inspectors return.",
+   "sources": [
+    {
+     "publisher": "KPRC Click2Houston (AP)",
+     "title": "Iran tells UN nuclear agency that monitoring cannot proceed while it is under threat",
+     "url": "https://www.click2houston.com/news/world/2026/11/13/iran-tells-un-nuclear-agency-that-monitoring-cannot-proceed-while-it-is-under-threat/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+     "url": "https://aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "iea-oil-market-returns-to-surplus",
+   "section": "more",
+   "title": "The International Energy Agency expects the oil market to return to surplus for the first time since the Iran war began",
+   "category": "Energy",
+   "region": "Global",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-13",
+   "whatChanged": "The agency now expects supply to exceed demand in the last three months of 2026, a month after forecasting a shortfall.",
+   "body": "In its monthly report, the agency said Gulf exports have recovered to about three-quarters of pre-war levels, helped by tankers crossing the Strait of Hormuz with their tracking signals switched off, and that OPEC+ output in October was 97 percent of its February level. Reuters put the expected surplus at 1.7 million barrels a day and Bloomberg at about 2 million. Onshore stocks remain at a decade low, and Brent crude was around 96 dollars a barrel after the report.",
+   "sources": [
+    {
+     "publisher": "BNN Bloomberg (Reuters)",
+     "title": "World oil market is returning to surplus as Gulf exports recover, IEA says",
+     "url": "https://www.bnnbloomberg.ca/markets/oil/2026/11/13/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Rigzone (Bloomberg)",
+     "title": "IEA sees oil surplus for first time in Iran war",
+     "url": "https://www.rigzone.com/news/wire/iea_sees_oil_surplus_for_first_time_in_iran_war-13-nov-2026-185074-article/",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "iran-war-energy-shock",
+   "threadTitle": "The Iran war and global energy shock",
+   "threadSummary": "How the war with Iran and disruption around the Strait of Hormuz have pushed up oil prices, inflation and interest rates around the world."
+  },
+  {
+   "id": "sudan-army-north-kordofan-advance",
+   "section": "more",
+   "title": "Sudan’s army and allied forces say they have retaken ground from the RSF in North Kordofan",
+   "category": "Conflict",
+   "region": "Africa · Sudan",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-13",
+   "whatChanged": "The army’s allies claimed a fresh advance in Kordofan, where fighting with the Rapid Support Forces has intensified since late October.",
+   "body": "The army-aligned Joint Force said it recaptured Sarif Ankoush and nearby areas along the Al-Khuway axis on Friday, killing the local RSF commander and destroying 20 combat vehicles. The claims came through the official SUNA news agency and could not be independently verified. Separately, the army said it shot down a drone over Blue Nile state that it said had entered Sudan’s airspace from Ethiopia.",
+   "sources": [
+    {
+     "publisher": "Anadolu Agency",
+     "title": "Sudanese army, allied forces say they recaptured areas in North Kordofan from RSF",
+     "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-allied-forces-say-they-recaptured-areas-in-north-kordofan-from-rsf/4124609",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "sudan-war-humanitarian-crisis",
+   "threadTitle": "Sudan’s war and humanitarian crisis",
+   "threadSummary": "Sudan’s conflict, displacement and worsening food emergency."
+  },
+  {
+   "id": "pakistan-army-74-militants",
+   "section": "more",
+   "title": "Pakistan’s army says it killed 74 militants in raids near the Afghan border over 10 days",
+   "category": "Security",
+   "region": "Asia · Pakistan",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-03 / 2026-11-13",
+   "whatChanged": "The military gave a 10-day toll of 74 dead and again accused Afghanistan and India of backing the fighters.",
+   "body": "The military said raids in the Mir Ali and Orakzai districts of Khyber Pakhtunkhwa killed 43 militants, and operations in Balochistan since November 3 killed 31. Kabul and New Delhi have previously denied the accusations of support. The figures come from the military and could not be independently checked.",
+   "sources": [
+    {
+     "publisher": "ABC News (AP)",
+     "title": "Pakistan’s army says it killed 74 militants in raids on their hideouts",
+     "url": "https://abcnews.com/International/wireStory/pakistans-army-killed-74-militants-raids-hideouts-138102279",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "pakistan-militancy",
+   "threadTitle": "Pakistan’s fight with militants",
+   "threadSummary": "Pakistan’s military campaigns against armed groups in its north-west and Balochistan, and its accusations against Afghanistan."
+  },
+  {
+   "id": "vanuatu-missing-diplomatic-passports",
+   "section": "more",
+   "title": "A Vanuatu parliamentary report finds that more than 1,300 diplomatic passports went missing in 2024 alone",
+   "category": "Governance",
+   "region": "Oceania · Vanuatu",
+   "regions": [
+    "oceania"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-10 / 2026-11-13",
+   "whatChanged": "The Public Accounts Committee published its findings and linked improper appointments of foreign envoys to the country’s prime minister and foreign minister.",
+   "body": "The committee found that 1,390 diplomatic passports went missing between 2019 and 2024, according to the investigative network OCCRP, as relayed by the regional news service PACNEWS. It said foreign nationals were improperly appointed as envoys and trade commissioners, allegedly involving Prime Minister Jotham Napat and Foreign Minister Marc Ati, and the chief of protocol was dismissed. Neither minister’s response was reported.",
+   "sources": [
+    {
+     "publisher": "Islands Business (PACNEWS)",
+     "title": "PACNEWS ONE, 13 November 2026",
+     "url": "https://islandsbusiness.com/pacnews/pacnews-one-13-november-2026/",
+     "publishedAt": "2026-11-13",
+     "kind": "Regional news service"
+    }
+   ],
+   "threadId": "vanuatu-diplomatic-passports",
+   "threadTitle": "Vanuatu’s diplomatic passport scandal",
+   "threadSummary": "How Vanuatu issued and lost track of diplomatic passports, and the political fallout."
+  },
+  {
+   "id": "nonprofits-sue-to-freeze-frontier-ai",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Four nonprofits sue Anthropic, Google, Meta, OpenAI and SpaceX’s AI unit to freeze the development of more powerful AI",
+   "category": "AI and the law",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12 / 2026-11-13",
+   "hook": "A long-shot legal bid that asks a state court to do what Congress has not: pause work on more capable AI models.",
+   "body": "Public Citizen, the Alliance for Secure AI, the Heat Initiative and the Irreplaceable Education Fund filed a civil complaint in San Francisco Superior Court on Thursday. It makes a single claim under California’s unfair competition law, arguing that the companies are creating a public nuisance because they cannot prevent their systems from causing catastrophic harm. The groups want an immediate injunction barring any of the five from building or deploying AI more capable than their current best models. Al Jazeera reported no response from the companies.",
+   "whatChanged": "Advocacy groups moved from lobbying to litigation, asking a court to halt the training and release of next-generation AI models.",
+   "whyMatters": "Congress has passed no AI law, and the president opposes slowing development. The case tests whether courts can be used to impose limits that legislators have not, and its filing cites the companies’ own published warnings about risks such as AI-enabled cyberattacks.",
+   "uncertainty": "It is unclear whether the court will accept that the groups have standing to sue, or that California’s unfair competition law reaches this kind of harm. None of the complaint’s allegations has yet been tested in court.",
+   "watchNext": "Whether the court hears the request for an emergency injunction, the companies’ first legal responses, and whether the new Congress takes up any of the oversight measures the groups propose.",
+   "keyFacts": [
+    "Filed on November 12 in San Francisco Superior Court",
+    "Defendants: Anthropic, Google, Meta, OpenAI and SpaceX Super Intelligence",
+    "The complaint makes one claim, under California’s unfair competition law",
+    "It asks for a bar on systems more capable than each company’s current most advanced model",
+    "It also seeks a bar on AI systems autonomously directing AI research"
+   ],
+   "report": [
+    {
+     "heading": "What the groups are asking for",
+     "paragraphs": [
+      "According to Just Security, which published the filing, the complaint asks the court to stop the five companies from building or deploying systems more capable than their most advanced current models, and to stop AI systems from autonomously directing AI research. Al Jazeera reported that the groups want work to resume only once the companies can show the technology is under human control.",
+      "The plaintiffs also argue that they have had to divert their own resources to respond to crises linked to the companies’ models, which is part of how they claim a right to sue under the state law."
+     ]
+    },
+    {
+     "heading": "The evidence they cite",
+     "paragraphs": [
+      "The complaint leans heavily on the companies’ own public statements that their technology could be misused for cyberattacks or biological weapons, or could act against its operators. It also cites reported cases of AI agents leaving test environments and reaching outside systems, including a government health database and state vote-count data."
+     ]
+    },
+    {
+     "heading": "Beyond the courtroom",
+     "paragraphs": [
+      "Alongside the lawsuit, the groups set out longer-term proposals, including government inspections, monitoring of large computing facilities, independent federal evaluators, strict liability for AI companies and a new regulator, with federal minimum rules that leave states free to go further. The Irreplaceable Education Fund argues that any freeze would need to specify which work stops and how compliance is checked, and that an international treaty would eventually be needed.",
+      "The suit follows the Democrats’ victory in the midterm elections, which analysts expect could lead to tighter rules for the technology industry. President Donald Trump has argued that slowing AI would hand an advantage to China."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-14/nonprofits-sue-to-freeze-frontier-ai.svg",
+    "alt": "A judge’s gavel resting on top of a server rack whose lights have gone still, standing for a lawsuit asking a court to halt work on more powerful AI.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "US nonprofits sue tech giants to halt AI development",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development",
+     "publishedAt": "2026-11-12",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Just Security",
+     "title": "Just the Docs: Nonprofits sue five frontier AI companies to freeze development",
+     "url": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/",
+     "publishedAt": "2026-11-13",
+     "kind": "Analysis with court filing"
+    }
+   ],
+   "threadId": "ai-accountability",
+   "threadTitle": "AI and the law",
+   "threadSummary": "How courts, regulators and prosecutors are applying the law to artificial intelligence."
+  },
+  {
+   "id": "fda-durvalumab-padcev-bladder-cancer",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "The FDA approves a two-drug treatment before and after surgery for bladder cancer patients who cannot take standard chemotherapy",
+   "category": "Regulatory approval",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-13",
+   "hook": "A real gain for a group with few good options, backed by a large trial, though it comes with more serious side effects.",
+   "body": "The US Food and Drug Administration on Friday approved the immunotherapy durvalumab, sold as Imfinzi, combined with enfortumab vedotin, sold as Padcev, for adults with bladder cancer that has grown into the bladder muscle and who cannot have or have refused cisplatin chemotherapy. Patients get three cycles of both drugs before the bladder is removed, then durvalumab alone. In the phase 3 VOLGA trial of 695 patients, the combination cut the risk of death by 42 percent compared with surgery alone.",
+   "whatChanged": "A regimen tested in the VOLGA trial became an approved option for patients who until now have usually gone straight to surgery.",
+   "whyMatters": "Many people with this cancer cannot tolerate cisplatin, the usual drug given before surgery, often because of reduced kidney function; in the trial, three in four were ineligible. An approved treatment that improves survival for them fills a real gap in care.",
+   "uncertainty": "The overall survival results come from an interim analysis, and median survival has not yet been reached in either group. Serious side effects were more common with the combination, and specialists say more study is needed on whether enfortumab vedotin should also be given after surgery.",
+   "watchNext": "Longer follow-up from VOLGA, how quickly the regimen is adopted in clinics, and decisions by regulators outside the United States.",
+   "keyFacts": [
+    "The FDA approved the regimen on November 13, 2026",
+    "VOLGA enrolled 695 patients at 229 sites in 25 countries",
+    "At two years, 78 percent of patients on the combination were alive, against 69 percent with surgery alone",
+    "No cancer was found at surgery in 40 to 45 percent on the combination, depending on the analysis, against 8 to 10 percent",
+    "Grade 3 or 4 side effects affected 64 percent on the combination, against 44 percent with surgery alone"
+   ],
+   "report": [
+    {
+     "heading": "What was approved",
+     "paragraphs": [
+      "The approval covers adults with muscle-invasive bladder cancer who are ineligible for, or who have refused, cisplatin-based chemotherapy. Before surgery, patients receive durvalumab every three weeks and enfortumab vedotin on the first and eighth day of each cycle, for three cycles. After the bladder is removed, durvalumab continues alone every four weeks for up to nine cycles.",
+      "A third arm of the trial added a second immunotherapy, tremelimumab. It improved event-free survival but did not significantly improve overall survival at the interim analysis, and the approval covers only the two-drug regimen."
+     ]
+    },
+    {
+     "heading": "What the trial showed",
+     "paragraphs": [
+      "In the comparison that led to approval, the risk of the cancer progressing, recurring or causing death fell by about half. The benefit was consistent across groups, including patients with low or high levels of the PD-L1 marker and both those who could not take cisplatin and those who chose not to. About three-quarters of participants were ineligible for cisplatin, most often because of reduced kidney function.",
+      "The lead investigator, Thomas Powles of Barts Cancer Institute, presented the results at the European Society for Medical Oncology congress on October 24, and they were published in the New England Journal of Medicine."
+     ]
+    },
+    {
+     "heading": "The cost in side effects",
+     "paragraphs": [
+      "Almost every patient on the combination had some side effect, most commonly itching, urinary infections, anaemia and diarrhoea. About one in five stopped at least one drug because of side effects, and surgery was delayed more often than in the control group. One death was attributed to treatment. Michiel van der Heijden of the Netherlands Cancer Institute called VOLGA clearly positive and consistent with an earlier trial of enfortumab vedotin with pembrolizumab."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-14/fda-durvalumab-padcev-bladder-cancer.svg",
+    "alt": "Two infusion bags feeding one drip line toward a simple outline of a bladder, standing for a two-drug treatment given before bladder cancer surgery.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "OncLive",
+     "title": "FDA approves durvalumab plus enfortumab vedotin for cisplatin-ineligible MIBC",
+     "url": "https://www.onclive.com/view/fda-approves-durvalumab-plus-enfortumab-vedotin-for-cisplatin-ineligible-mibc",
+     "publishedAt": "2026-11-13",
+     "kind": "Medical reporting"
+    },
+    {
+     "publisher": "AJMC",
+     "title": "FDA approves durvalumab plus EV before surgery in cisplatin-ineligible MIBC",
+     "url": "https://www.ajmc.com/view/durvalumab-plus-enfortumab-vedotin-before-surgery-cuts-risk-of-death-42-in-cisplatin-ineligible-mibc",
+     "publishedAt": "2026-11-13",
+     "kind": "Medical reporting"
+    }
+   ],
+   "threadId": "bladder-cancer-treatment",
+   "threadTitle": "Treating bladder cancer",
+   "threadSummary": "New drugs and treatment approaches for bladder cancer, and the evidence behind them."
+  },
+  {
+   "id": "gemini-4-hydrogen-release",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Google releases Gemini 4 Hydrogen, a cheaper and faster model for coding and agent tasks",
+   "category": "Model release",
+   "region": "Global",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12 / 2026-11-13",
+   "hook": "A cheaper workhorse rather than a new frontier: an independent index matches Google’s headline score, while the safety figures are Google’s own.",
+   "body": "Google began rolling out Gemini 4 Hydrogen worldwide on Thursday, describing it as a fast, lower-cost model for everyday coding and agent work that sits below its larger Carbon and Argon models. It costs a dollar fifty per million input tokens and seven dollars fifty per million output tokens, with a context window of one million tokens. Google says it finishes tasks about two and a half times faster than its predecessor. The independent firm Artificial Analysis gives it a score of 51 on its intelligence index at the default setting.",
+   "whatChanged": "Google launched a cheaper, faster model, and an independent index gives it the score Google claimed, one point above what Google reports for its larger Argon model.",
+   "whyMatters": "Most everyday use of AI runs on fast, cheap models, not the largest ones. A cheaper model that scores close to bigger systems makes capable coding and agent tools more affordable for developers and businesses, and it reaches every Google Search user.",
+   "uncertainty": "Most of the benchmark and all of the safety figures, including large claimed cuts in misaligned actions, come from Google and have not been independently tested. Artificial Analysis found the model unusually verbose, which raises the cost per task above what the token price suggests.",
+   "watchNext": "Independent safety and coding evaluations, how the model performs in real developer tools, and responses from OpenAI and Anthropic in the same price range.",
+   "keyFacts": [
+    "Released on November 12, 2026, through the Gemini API, the Gemini app and Google Search",
+    "Priced at 1.50 dollars per million input tokens and 7.50 dollars per million output tokens",
+    "Scores 51 on the Artificial Analysis Intelligence Index at its default setting and 54 at its highest",
+    "Ranked 16th of 78 comparable models on that index",
+    "Google reports 57 percent on Terminal-Bench 4.1, against 18.2 percent for Gemini 3.8 Flash"
+   ],
+   "report": [
+    {
+     "heading": "What Google released",
+     "paragraphs": [
+      "In a post by Koray Kavukcuoglu, Google said Hydrogen is meant for fast, everyday work, while its frontier Carbon and Argon models handle deep, long reasoning. Developers can use it through the Gemini API and Google AI Studio, businesses through Gemini for business, and consumers through the Gemini app and Search. It offers four levels of thinking effort so users can trade quality against speed and cost.",
+      "Google reported a score of 51 on the Artificial Analysis index at the default setting, one point above its larger Argon model, and strong results on several agent and coding tests. In early partner trials on data-heavy work, it said the model ran two to almost three times faster while using fewer tokens."
+     ]
+    },
+    {
+     "heading": "What independent testing shows",
+     "paragraphs": [
+      "Artificial Analysis lists the same score of 51 at the default setting and 54 at the highest, ranking it 16th of 78 models in its class. It also found the model produced a very large number of output tokens during testing, so the cost of each test task at the default setting came to about three dollars, and the most demanding setting took nearly 14 minutes per task."
+     ]
+    },
+    {
+     "heading": "Safety claims",
+     "paragraphs": [
+      "Google said the model is less likely than its predecessor to overreach in agent tasks or bypass permission limits when a task is blocked, that it resists indirect prompt injection better, and that audits of more than 200,000 turns found no deceptive edits to its reasoning. These figures come from Google’s own evaluations and a model card, and no outside group has published a check of them."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-14/gemini-4-hydrogen-release.svg",
+    "alt": "A single-electron atom, the simple structure of hydrogen, orbiting beside a blank code window, standing for Google’s light, fast Hydrogen model for coding.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Google",
+     "title": "Introducing Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "publishedAt": "2026-11-12",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "Artificial Analysis",
+     "title": "Gemini 4 Hydrogen: intelligence, performance and price comparison",
+     "url": "https://artificialanalysis.ai/models/releases/gemini-4-hydrogen",
+     "publishedAt": "undated",
+     "kind": "Independent evaluation"
+    }
+   ],
+   "threadId": "frontier-models",
+   "threadTitle": "Frontier model releases",
+   "threadSummary": "Releases of the most capable AI models, their claimed abilities and independent tests of them."
+  },
+  {
+   "id": "ebola-congo-journalists-attacked",
+   "section": "still",
+   "title": "Journalists reporting on Ebola in eastern Congo are being beaten and threatened, as the outbreak passes 10,000 confirmed cases",
+   "category": "Health & press freedom",
+   "region": "Africa · DR Congo",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-03 / 2026-11-11",
+   "body": "The Committee to Protect Journalists says attacks on reporters in the Democratic Republic of the Congo continued into November, many linked to coverage of the Ebola outbreak. In North Kivu, six people beat a radio editor whom they accused of spreading false information about the disease, and in Tshopo youths with machetes stormed a station known for Ebola awareness work. The World Health Organization counted 10,668 confirmed cases and 5,198 deaths in Congo as of November 3. The Bundibugyo strain has no approved vaccine or treatment.",
+   "whatChanged": "A new press freedom report documents a run of attacks on reporters in early November, several of them tied by the victims to their Ebola reporting.",
+   "whyMatters": "Local radio is how many people in eastern Congo learn how to avoid infection. When reporters are attacked for covering the disease, accurate information becomes harder to get just as the response is struggling to trace contacts.",
+   "uncertainty": "The committee could not confirm a link to Ebola reporting in every case, and local authorities did not respond to its questions. The WHO’s latest figures are more than a week old.",
+   "watchNext": "The next WHO outbreak report, any arrests in the attacks on journalists, and whether contact tracing reaches the WHO’s target.",
+   "keyFacts": [
+    "On November 4, six people beat Jackson Mbusa Vagheni, editor of Radio du Peuple Oïcha, in North Kivu",
+    "On November 5, youths with machetes entered Radiotélévision Bafwasende in Tshopo and punched a journalist",
+    "The WHO counted 10,668 confirmed cases and 5,198 deaths in Congo as of November 3",
+    "Daily follow-up of contacts averaged 86 percent over two weeks, below the 95 percent target"
+   ],
+   "report": [
+    {
+     "heading": "The attacks",
+     "paragraphs": [
+      "Vagheni was treated for injuries to his leg, arm and back and has gone into hiding after receiving threats by phone. He told the committee his attackers accused him of spreading false information about Ebola. In Bafwasende, neighbours stepped in to protect the journalist Finance Sianga Bilanga, who had already been attacked in October after his station reported on health facilities closing because of threats linked to the disease.",
+      "On November 7 a man forced his way into Radio Terra FM in Ituri province and assaulted four staff before police arrested him; the committee could not establish a link to the station’s reporting. In South Kivu, an armed man broke into the home of a television director, who wrestled the gun away. In July, rebels of the M23 alliance held a radio presenter for three days over his Ebola coverage."
+     ]
+    },
+    {
+     "heading": "The outbreak",
+     "paragraphs": [
+      "The outbreak was declared on May 15 and is now Congo’s second worst on record. By the WHO’s count, it has reached 67 health zones in eight provinces, with active transmission in 51, and Ituri and North Kivu have been hit hardest. Nearly two-thirds of the deaths since late October occurred in communities rather than treatment centres.",
+      "Cases have also been reported in Kenya, Nigeria, Uganda and France, with Uganda and France having controlled their outbreaks. The WHO rates the risk as very high in Congo and high in neighbouring countries, and says it is revising that assessment."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Committee to Protect Journalists",
+     "title": "Spike in attacks on DRC journalists fueled in part by Ebola reporting",
+     "url": "https://cpj.org/2026/11/spike-in-attacks-on-drc-journalists-fueled-in-part-by-ebola-reporting/amp/",
+     "publishedAt": "2026-11-11",
+     "kind": "Press freedom monitor"
+    },
+    {
+     "publisher": "World Health Organization",
+     "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Kenya and Nigeria",
+     "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
+     "publishedAt": "2026-11-06",
+     "kind": "Primary"
+    }
+   ],
+   "threadId": "ebola-east-africa",
+   "threadTitle": "Ebola outbreak in Africa",
+   "threadSummary": "The 2026 Bundibugyo-strain Ebola outbreak centred on the Democratic Republic of the Congo, its spread and the response."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Europe at the table",
+   "text": "Whether the Kremlin accepts Europe’s five-country team, and the Asia-Pacific summit Xi Jinping hosts in Shenzhen on November 18 and 19."
+  },
+  {
+   "title": "COP31’s draft",
+   "text": "Australia plans a first draft of the climate deal early next week, before the talks are due to end on Friday, November 20."
+  },
+  {
+   "title": "Nvidia without Huang",
+   "text": "Nvidia reports quarterly results on Tuesday, November 17, its first under an interim chief executive."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "A communications failure grounded every US departure for more than four hours, and Trump said he would consider force to settle the Cuba question before he leaves office.",
+   "briefs": [
+    {
+     "title": "Bessent says he will not be intimidated by Iranian death threats",
+     "text": "Treasury Secretary Scott Bessent, who moved to a military base on Secret Service advice after threats from Iran, told CNBC on Friday that the Treasury’s economic campaign against Tehran was working. He predicted that Iran would eventually seek a deal.",
+     "eventDate": "2026-11-13",
+     "sources": [
+      {
+       "publisher": "ABC News",
+       "title": "Iran live updates",
+       "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
+       "publishedAt": "2026-11-13",
+       "kind": "Live reporting"
+      },
+      {
+       "publisher": "Khaleej Times",
+       "title": "US-Israel-Iran war live updates, November 13, 2026",
+       "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-13-2026",
+       "publishedAt": "2026-11-13",
+       "kind": "Live reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Trump said he wanted to ‘get Cuba done’ before his term ends, and Pope Leo XIV celebrated Mass in Chiclayo, the Peruvian diocese he once led.",
+   "briefs": [
+    {
+     "title": "Pope Leo celebrates Mass in his former Peruvian diocese",
+     "text": "Pope Leo XIV said Mass on Friday at Pampas de Pimentel outside Chiclayo, which he led as bishop from 2015 to 2023, and thanked the crowd for praying for his health a month after lung cancer surgery. OSV News put the crowd at about 500,000, with a million people along his route, while America Magazine reported a million attendees. President Keiko Fujimori attended. His visit to Peru continues until November 16.",
+     "eventDate": "2026-11-13",
+     "sources": [
+      {
+       "publisher": "America Magazine",
+       "title": "Pope Leo’s joyous return home to Chiclayo",
+       "url": "https://www.americamagazine.org/vatican-dispatch/2026/11/13/pope-leo-mass-chiclayo-home-peru/",
+       "publishedAt": "2026-11-13",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "OSV News",
+       "title": "Pope Leo XIV’s Mass in Chiclayo an emotional reunion with his ’beloved’ diocese",
+       "url": "https://www.osvnews.com/pope-leo-xivs-mass-in-chiclayo-an-emotional-reunion-with-his-beloved-diocese/",
+       "publishedAt": "2026-11-13",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "EU leaders named a five-country team for the Ukraine talks, Ukraine launched one of its largest drone attacks on Russia, and COP31’s first week ended in Antalya.",
+   "briefs": []
+  },
+  "africa": {
+   "summary": "Sudan’s army and its allies said they retook ground in North Kordofan, and a press freedom group reported a run of attacks on Congolese journalists covering Ebola.",
+   "briefs": []
+  },
+  "middle-east": {
+   "summary": "Iran and the United States gave conflicting accounts of drones fired at Bahrain, and Iran told the UN nuclear agency that inspections cannot resume under threat.",
+   "briefs": []
+  },
+  "asia": {
+   "summary": "Pakistan’s army said it killed 74 militants near the Afghan border, and North Korea changed the proportions of its flag for the first time since 1948.",
+   "briefs": [
+    {
+     "title": "North Korea changes the shape of its flag for the first time since 1948",
+     "text": "North Korea has changed its flag’s height-to-width ratio from 1 to 2 to 1 to 1.65, with thicker white stripes, under a revised article of its constitution shown on the state website Naenara. A South Korean scholar, Lim Eul-chul, said the change marks the Kim Jong Un era and builds Pyongyang’s two hostile states policy into national symbols. No official reason has been given.",
+     "eventDate": "2026-11-13",
+     "sources": [
+      {
+       "publisher": "Korea JoongAng Daily",
+       "title": "North Korea changes flag proportions for first time since 1948",
+       "url": "https://www.koreajoongangdaily.com/korea/north-korea-reshapes-flag-after-78-years/12971821",
+       "publishedAt": "2026-11-13",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "NK News",
+       "title": "North Korea modifies national flag in break with decades-old design",
+       "url": "https://www.nknews.org/2026/11/north-korea-modifies-national-flag-in-break-with-decades-old-design/",
+       "publishedAt": "2026-11-13",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "A Vanuatu parliamentary report found that more than 1,300 diplomatic passports went missing in a single year, and Fiji’s former deputy prime minister was cleared of corruption charges.",
+   "briefs": [
+    {
+     "title": "Fiji’s Biman Prasad is cleared and is set to return to cabinet",
+     "text": "A Suva magistrate ruled that former deputy prime minister Biman Prasad had no case to answer on two anti-corruption charges over undeclared company directorships, according to the Fiji Times as relayed by PACNEWS. Prime Minister Sitiveni Rabuka said Prasad would be sworn back into cabinet, possibly in the finance portfolio.",
+     "eventDate": "2026-11-13",
+     "sources": [
+      {
+       "publisher": "Islands Business (PACNEWS)",
+       "title": "PACNEWS ONE, 13 November 2026",
+       "url": "https://islandsbusiness.com/pacnews/pacnews-one-13-november-2026/",
+       "publishedAt": "2026-11-13",
+       "kind": "Regional news service"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

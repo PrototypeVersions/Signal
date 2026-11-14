@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two infusion bags feeding one drip line toward a simple outline of a bladder">
+  <rect width="800" height="500" fill="#09131d"/>
+  <line x1="150" y1="40" x2="150" y2="440" stroke="#2c4f6e" stroke-width="8" stroke-linecap="round"/>
+  <line x1="90" y1="60" x2="330" y2="60" stroke="#2c4f6e" stroke-width="8" stroke-linecap="round"/>
+  <g stroke="#d6e6f2" stroke-width="5">
+    <path d="M110 70 h70 v100 q0 30 -35 30 q-35 0 -35 -30 z" fill="#12263a"/>
+    <path d="M250 70 h70 v100 q0 30 -35 30 q-35 0 -35 -30 z" fill="#12263a"/>
+  </g>
+  <path d="M117 120 h56 v50 q0 22 -28 22 q-28 0 -28 -22 z" fill="#7fa6c4" opacity="0.7"/>
+  <path d="M257 110 h56 v60 q0 22 -28 22 q-28 0 -28 -22 z" fill="#c8875a" opacity="0.8"/>
+  <path d="M145 200 C145 250 215 250 215 270" fill="none" stroke="#7fa6c4" stroke-width="6" stroke-linecap="round"/>
+  <path d="M285 200 C285 250 215 250 215 270" fill="none" stroke="#c8875a" stroke-width="6" stroke-linecap="round"/>
+  <rect x="203" y="268" width="24" height="36" rx="6" fill="#1d3a55" stroke="#d6e6f2" stroke-width="4"/>
+  <path d="M215 304 C215 380 360 380 430 330" fill="none" stroke="#d6e6f2" stroke-width="6" stroke-linecap="round"/>
+  <g transform="translate(560 300)">
+    <path d="M-120 -40 C-130 -150 130 -150 120 -40 C112 40 50 90 0 92 C-50 90 -112 40 -120 -40 Z" fill="#12263a" stroke="#d6e6f2" stroke-width="6"/>
+    <path d="M-14 92 L-14 140 M14 92 L14 140" stroke="#d6e6f2" stroke-width="6" stroke-linecap="round"/>
+    <path d="M-110 -70 C-150 -110 -170 -150 -175 -190" fill="none" stroke="#7fa6c4" stroke-width="6" stroke-linecap="round"/>
+    <path d="M110 -70 C150 -110 170 -150 175 -190" fill="none" stroke="#7fa6c4" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="30" cy="-10" r="22" fill="#c8875a" opacity="0.35"/>
+  </g>
+</svg>

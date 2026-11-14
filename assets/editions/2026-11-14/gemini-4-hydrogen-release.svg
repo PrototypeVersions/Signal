@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A single-electron atom orbiting beside a blank code window">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g transform="translate(260 250)">
+    <ellipse cx="0" cy="0" rx="170" ry="70" fill="none" stroke="#7fa6c4" stroke-width="5" transform="rotate(-25)"/>
+    <circle cx="0" cy="0" r="34" fill="#c8875a" stroke="#d6e6f2" stroke-width="5"/>
+    <circle cx="140" cy="-90" r="15" fill="#d6e6f2"/>
+  </g>
+  <g transform="translate(470 140)">
+    <rect x="0" y="0" width="270" height="220" rx="16" fill="#12263a" stroke="#d6e6f2" stroke-width="6"/>
+    <line x1="0" y1="40" x2="270" y2="40" stroke="#2c4f6e" stroke-width="5"/>
+    <circle cx="24" cy="20" r="7" fill="#c8875a"/><circle cx="48" cy="20" r="7" fill="#2c4f6e"/><circle cx="72" cy="20" r="7" fill="#2c4f6e"/>
+    <g stroke-width="8" stroke-linecap="round">
+      <line x1="30" y1="76" x2="150" y2="76" stroke="#7fa6c4"/>
+      <line x1="60" y1="108" x2="220" y2="108" stroke="#2c4f6e"/>
+      <line x1="60" y1="140" x2="180" y2="140" stroke="#2c4f6e"/>
+      <line x1="30" y1="172" x2="120" y2="172" stroke="#7fa6c4"/>
+    </g>
+  </g>
+</svg>

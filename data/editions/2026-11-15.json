@@ -1,0 +1,996 @@
+{
+  "date": "2026-11-15",
+  "number": 29,
+  "cutoff": "2026-11-15T12:10:00Z",
+  "cutoffLabel": "6:10 AM CT",
+  "opening": "The White House says Trump will meet Xi Jinping and Vladimir Putin together in Shenzhen on Thursday to discuss nuclear weapons. Zelensky said US negotiators tied NATO membership to Donbas, Trump was reported to be weighing a pause on Iran strikes, and the United States lost its measles elimination status.",
+  "leadStoryId": "trump-xi-putin-shenzhen-nuclear-talks",
+  "stories": [
+    {
+      "id": "trump-xi-putin-shenzhen-nuclear-talks",
+      "section": "world",
+      "title": "Trump, Xi and Putin will hold their first three-way meeting in Shenzhen on Thursday, with nuclear weapons at the top of the agenda",
+      "category": "Nuclear arms control",
+      "region": "Asia · China",
+      "regions": ["asia", "north-america"],
+      "status": "Major development",
+      "eventDate": "2026-11-13 / 2026-11-14",
+      "body": "The White House said on Friday that President Donald Trump will meet China’s Xi Jinping and Russia’s Vladimir Putin in Shenzhen on Thursday, alongside the Asia-Pacific economic summit that Xi is hosting. It would be the first time the three leaders have met together. A spokeswoman said reducing nuclear weapons would be a central topic, and officials said they expect no agreement. The Kremlin has confirmed the plans, but China had not formally announced its part by Saturday. A US official said Iran would be discussed, but not Ukraine.",
+      "whatChanged": "A three-way meeting of the leaders of the largest nuclear powers, discussed for weeks, now has a date, a city and an agenda centred on arms control.",
+      "whyMatters": "Since February there has been no treaty limiting the American and Russian nuclear arsenals, the two largest in the world, and China’s capabilities have grown quickly. Even a first conversation among the three leaders would be the highest-level attempt yet to bring all of them into arms talks.",
+      "uncertainty": "China has not formally confirmed its participation, and none of the three governments has said what shape any future talks might take. A US official said Ukraine would not be raised, but UPI reported that its place on the agenda was still unclear.",
+      "watchNext": "Trump’s stops in Manila for the Quad and a US-ASEAN summit early in the week, his separate meeting with Xi on Thursday, and any joint statement after the three-way talks.",
+      "keyFacts": [
+        "The three-way meeting is planned for Thursday, November 19, in Shenzhen, on the sidelines of APEC",
+        "The last treaty capping US and Russian nuclear arsenals expired in February 2026",
+        "Trump and Xi will first meet separately, with a working lunch, their fourth meeting since January 2025",
+        "Administration officials say no agreement is expected from this first meeting",
+        "Trump leaves Washington on Monday for Manila and travels on to Shenzhen on Wednesday"
+      ],
+      "report": [
+        {
+          "heading": "What was announced",
+          "paragraphs": [
+            "The White House announced the plan on Friday, November 13. Spokeswoman Olivia Wales said cutting the availability of nuclear weapons would be central to the discussion and that Trump regards proliferation as very dangerous. A senior official told CNN that the meeting should be seen as an entry point: the first conversation on the subject at the level of leaders.",
+            "Administration officials were careful to lower expectations, saying no agreement was likely. The Kremlin confirmed the plans, according to UPI, while China had yet to make a formal announcement."
+          ]
+        },
+        {
+          "heading": "The week around it",
+          "paragraphs": [
+            "Trump is due to leave Washington on Monday for Manila, where he will attend a Quad meeting and a special summit between the United States and the Association of Southeast Asian Nations. He then flies to Shenzhen on Wednesday. On Thursday he will hold talks and a working lunch with Xi before the three-way session, according to Anadolu Agency’s summary of the White House schedule.",
+            "Officials described the Trump-Xi meeting as a check on how the two countries’ trade deal is being carried out, with no change to tariffs expected. Elon Musk will join parts of the China visit but not the official meetings."
+          ]
+        },
+        {
+          "heading": "Why arms control, and what is left out",
+          "paragraphs": [
+            "The last nuclear arms control treaty between Washington and Moscow lapsed in February, leaving the world’s two largest arsenals without major treaty limits. Trump has proposed replacing it with a broader agreement that also covers China, which has been expanding its nuclear forces rapidly.",
+            "A US official said Trump would raise Iran in Shenzhen but not the war in Ukraine. President Volodymyr Zelensky has said he is worried that Washington, Moscow and Beijing could make decisions affecting his country without Ukraine in the room."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Manila and Shenzhen",
+        "bounds": [100, 8, 132, 32],
+        "countries": ["156", "608"],
+        "labels": [
+          {"label": "South China Sea", "lon": 114.5, "lat": 15.5, "kind": "water"},
+          {"label": "Pacific Ocean", "lon": 128, "lat": 17, "kind": "water"}
+        ],
+        "alt": "Map of southern China and the Philippines, both highlighted, with markers on Manila, where Trump attends Quad and ASEAN meetings first, and Shenzhen, where the three-way meeting is planned.",
+        "caption": "Countries highlighted for context · markers show the two stops on Trump’s trip"
+      },
+      "locations": [
+        {"label": "Shenzhen", "lon": 114.06, "lat": 22.54},
+        {"label": "Manila", "lon": 120.98, "lat": 14.6}
+      ],
+      "sources": [
+        {
+          "publisher": "UPI (via Yahoo News)",
+          "title": "Trump to meet Putin, Xi in China for historic nuclear arms talks",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-meet-putin-xi-china-235605138.html",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 14, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "publishedAt": "2026-11-14",
+          "kind": "News summary"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Liveblog, November 14, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+          "publishedAt": "2026-11-14",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "nuclear-arms-control",
+      "threadTitle": "Nuclear arms control",
+      "threadSummary": "Efforts to limit nuclear arsenals after the last US-Russia arms treaty expired in February 2026, and calls to bring China into talks."
+    },
+    {
+      "id": "zelensky-us-donbas-nato-question",
+      "section": "world",
+      "title": "Zelensky says US negotiators asked, for the first time, whether Ukraine would leave Donbas in return for NATO membership",
+      "category": "Diplomacy",
+      "region": "Europe · Ukraine",
+      "regions": ["europe"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-13 / 2026-11-14",
+      "body": "Speaking to journalists after the latest US-brokered talks, President Volodymyr Zelensky said American negotiators had asked whether Ukraine would pull its forces out of the parts of Donbas it still holds if it were allowed to join NATO. He said it was the first time membership had been linked to territory. Zelensky said Ukraine would not give up land, but that a full package with security guarantees, a strong army and reconstruction money could be put to a national referendum. He ruled out neutrality and any recognition of occupied land as Russian.",
+      "whatChanged": "NATO membership, which Moscow has long called a red line, has come back into the talks, tied for the first time to a possible Ukrainian withdrawal from land Russia does not control.",
+      "whyMatters": "It shows Washington testing trades that were off the table earlier in the war. Any swap of territory for alliance membership would have to win over Ukrainian voters, every NATO member and a Kremlin that has opposed Ukraine joining from the start.",
+      "uncertainty": "The United States has not commented publicly on Zelensky’s account, and nothing suggests NATO allies or Russia have endorsed the idea. The size of the planned prisoner exchange is still being negotiated.",
+      "watchNext": "Any response from Washington or Moscow, the exchange of more than 1,000 prisoners agreed in Abu Dhabi, and whether Europe’s new five-country team joins the next round.",
+      "keyFacts": [
+        "Zelensky described the US question to journalists on Friday, November 13",
+        "It followed US-mediated talks in Abu Dhabi on November 10 and 11",
+        "Both sides agreed in Abu Dhabi to exchange more than 1,000 people",
+        "Zelensky called guarantees modelled on NATO’s Article 5 the minimum Ukraine could accept",
+        "Europe’s negotiating team: Britain, France, Germany, Italy and Poland, plus EU officials"
+      ],
+      "report": [
+        {
+          "heading": "What Zelensky described",
+          "paragraphs": [
+            "Zelensky said the US side put the question directly: if Ukraine joined NATO, would it withdraw from Donbas? He told reporters that Kyiv still will not cede sovereign land, but that he would ask the public’s view on a concrete package if the United States and NATO allies confirmed it, according to the Kyiv Post.",
+            "Such a package, he said, would need guarantees from NATO and the European Union, a strong army with guaranteed troop numbers and funded reconstruction. He described Article 5-style protection as the baseline and was wary of bilateral US security arrangements like those Washington has with Israel or Arab states. He told Al Jazeera’s reporters that Putin’s wish to redraw Europe’s borders was a fact, and that Ukraine would not write neutrality into its constitution."
+          ]
+        },
+        {
+          "heading": "Ceasefire proposals",
+          "paragraphs": [
+            "Zelensky said Putin personally opposes a ceasefire, including a pause in strikes on energy that US envoys Steve Witkoff and Jared Kushner were due to raise in Moscow, and that no progress had been reported. He dismissed Russia’s offer of a local humanitarian truce in Kostiantynivka as a sign that Moscow could not capture the city by force, ABC News reported.",
+            "Ukraine says it gave Russia a list of seven or eight other frontline settlements where civilians, including children, are trapped. Moscow denies deliberately targeting civilians."
+          ]
+        },
+        {
+          "heading": "Europe at the table",
+          "paragraphs": [
+            "Zelensky said Washington had told him all sides now accept that Europe should take part in future talks. EU leaders meeting in Ireland agreed that Britain, France, Germany, Italy and Poland, together with EU officials, would form Europe’s team. European delegates attended the Abu Dhabi round with US and Ukrainian officials but did not sit with the Russian side. The two days of talks there ended without a major breakthrough beyond the prisoner exchange."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Ukraine and the Donbas front",
+        "bounds": [22, 44, 42, 53],
+        "countries": ["804", "643"],
+        "labels": [
+          {"label": "Black Sea", "lon": 31.8, "lat": 44.4, "kind": "water"},
+          {"label": "Sea of Azov", "lon": 36.6, "lat": 46.1, "kind": "water"}
+        ],
+        "alt": "Map of Ukraine and western Russia, both highlighted, with markers on Kyiv and Kostiantynivka, a frontline city in the Donetsk region of Donbas, in Ukraine’s east.",
+        "caption": "Countries highlighted for context · markers are approximate · the map does not show the front line"
+      },
+      "locations": [
+        {"label": "Kyiv", "lon": 30.52, "lat": 50.45},
+        {"label": "Kostiantynivka", "lon": 37.71, "lat": 48.53}
+      ],
+      "sources": [
+        {
+          "publisher": "Kyiv Post",
+          "title": "US Asked if Ukraine Would Exit Donbas for NATO Membership, Zelensky Says",
+          "url": "https://www.kyivpost.com/post/90115",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+          "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "US raised idea of NATO membership for Ukraine, Volodymyr Zelenskyy says",
+          "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558",
+          "publishedAt": "2026-11-15",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+    },
+    {
+      "id": "trump-iran-hold-off-strikes",
+      "section": "world",
+      "title": "Trump has told advisers he may hold off on new strikes on Iran unless Tehran or the Houthis provoke him, Reuters reports",
+      "category": "Conflict",
+      "region": "Middle East · Iran, the Gulf",
+      "regions": ["middle-east", "north-america"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-14",
+      "body": "Three sources told Reuters that President Donald Trump has told senior advisers he may refrain from attacking Iran again if there are no new provocations from Tehran or from the Houthis in Yemen. Saudi Arabia’s crown prince and Turkey’s president both urged him in recent calls not to resume strikes, while Israeli officials are lobbying for another campaign. A White House official said only the president knows what he will do. On Saturday, Iran’s navy said another tanker had caught fire after hitting a mine in the eastern Strait of Hormuz.",
+      "whatChanged": "After weeks of threats, the reporting describes a president leaning toward relying on the naval blockade and sanctions rather than new bombing, for now.",
+      "whyMatters": "New strikes could reignite a war that has already raised fuel prices around the world, while a pause leaves the blockade and a mined strait as the main pressure on Iran. With Israel pressing for action, the decision is far from settled.",
+      "uncertainty": "The account rests on unnamed sources, and Trump has swung between threats and de-escalation throughout the war. Iran’s claim about the latest tanker has not been independently confirmed, and the ship has not been named.",
+      "watchNext": "Whether Iran or the Houthis launch new attacks, the arrival of a third US aircraft carrier in the region, and whether Trump raises Iran with Xi and Putin in Shenzhen on Thursday.",
+      "keyFacts": [
+        "Trump told Saudi Crown Prince Mohammed bin Salman on October 31 that he planned to attack after the US elections",
+        "Trump has spoken with Turkey’s President Erdogan three times since October 28",
+        "A third US aircraft carrier is heading to the region, and all three could stay",
+        "In a Reuters/Ipsos poll before November 3, 55 percent of Americans said the war was not worth the cost",
+        "Secretary of State Marco Rubio said more strikes were unnecessary because the economic pain on Iran was so great"
+      ],
+      "report": [
+        {
+          "heading": "What the sources describe",
+          "paragraphs": [
+            "Reuters reported on Saturday that Trump had told senior advisers he might not attack Iran again unless provoked by Tehran or the Houthis. Officials said he has not settled on how to end the war he launched with Israel in February. In a social media post he wrote that the United States does not need a deal with Iran, and in an interview he said he could end the war immediately but was acting at the request of countries he wants to protect.",
+            "A White House official said Trump alone decides, that Washington controls the Strait of Hormuz and that Iran’s economy is collapsing. The official also said the military has enough munitions for the president’s goals, although Reuters said Trump had been briefed that some stockpiles were at worrying levels."
+          ]
+        },
+        {
+          "heading": "Allies pull in different directions",
+          "paragraphs": [
+            "According to the report, the Saudi crown prince asked Trump on October 31 to hold off, arguing that sanctions were working, and Turkey’s November 7 readout stressed that tensions with Iran needed to end. Israeli officials, by contrast, continue to press for a new military campaign. Israel’s Channel 12 reported that the Mossad chief, Roman Gofman, had been sent to Washington to discuss Iran, according to The Times of Israel."
+          ]
+        },
+        {
+          "heading": "Pressure without bombing",
+          "paragraphs": [
+            "US intelligence assesses that the blockade and sanctions are hurting Iran’s economy, and that renewed strikes would not significantly change Tehran’s negotiating demands. The US military is also trying to stop weapons and sanctioned goods reaching Iran overland or across the Caspian Sea. Secretary of State Marco Rubio said further strikes were not needed because Iran was already under such economic strain.",
+            "Hostilities continue at sea and around the Arabian Peninsula. Iran’s navy said on Saturday that an oil tanker had caught fire after striking a mine in the eastern part of the strait, and the Saudi-led coalition said it shot down two Houthi drones aimed at Riyadh and the kingdom’s south."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Iran, Saudi Arabia and Yemen",
+        "bounds": [34, 11, 64, 38],
+        "countries": ["364", "682", "887"],
+        "labels": [
+          {"label": "Red Sea", "lon": 38.2, "lat": 20.5, "kind": "water"},
+          {"label": "The Gulf", "lon": 50.2, "lat": 28.6, "kind": "water"},
+          {"label": "Arabian Sea", "lon": 61, "lat": 15.5, "kind": "water"}
+        ],
+        "alt": "Map with Iran, Saudi Arabia and Yemen highlighted. Markers show the Strait of Hormuz, where Iran says a tanker hit a mine, and Riyadh, where the Saudi-led coalition says Houthi drones were aimed.",
+        "caption": "Countries highlighted for context · markers are approximate"
+      },
+      "locations": [
+        {"label": "Strait of Hormuz", "mapLabel": "Hormuz", "lon": 56.4, "lat": 26.6},
+        {"label": "Riyadh", "lon": 46.72, "lat": 24.71}
+      ],
+      "sources": [
+        {
+          "publisher": "Al-Monitor (Reuters)",
+          "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+          "url": "https://www.al-monitor.com/originals/2026/11/trump-tells-advisers-he-may-hold-iran-attacks-barring-new-provocations-sources",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Liveblog, November 14, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+          "publishedAt": "2026-11-14",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+    },
+    {
+      "id": "us-measles-elimination-lost",
+      "section": "world",
+      "title": "The United States loses its measles elimination status after 26 years, as cases reach their highest level since 1991",
+      "category": "Public health",
+      "region": "North America · United States",
+      "regions": ["north-america"],
+      "status": "Major development",
+      "eventDate": "2026-11-13",
+      "body": "An independent commission of experts that reports to the head of the Pan American Health Organization has found that the United States no longer qualifies as having eliminated measles, according to reports first published by The Wall Street Journal on Friday. The finding means the virus has spread continuously inside the country for more than a year. More than 5,400 cases have been reported this year, the most since 1991, nearly all in people who were unvaccinated or whose vaccination status was unknown.",
+      "whatChanged": "The loss that health officials had warned about all year is now official, a year after Canada lost the same status.",
+      "whyMatters": "Elimination status reflects whether vaccination is keeping a disease from taking hold. Losing it confirms that measles is again circulating within the United States, where about one in nine reported cases this year has needed hospital care.",
+      "uncertainty": "The commission’s findings have not been published, and PAHO did not immediately respond to questions. Case counts differ by source: the CDC’s confirmed tally is lower than totals that include state reports.",
+      "watchNext": "A formal statement from PAHO, any response from the CDC and the health department, and whether Mexico, which has also had large outbreaks, keeps its status.",
+      "keyFacts": [
+        "The CDC had received reports of 5,182 confirmed cases in 2026 by Thursday, from 45 states, New York City and Washington, DC",
+        "The whole of 2025 had 2,289 confirmed cases",
+        "Utah’s public health laboratory traced one strain through more than 600 cases between June 2025 and June 2026",
+        "About 7,500 people have been infected since 2025, and 13 have died, according to Reuters"
+      ],
+      "report": [
+        {
+          "heading": "How the decision was reached",
+          "paragraphs": [
+            "A country loses elimination status when the same strain of measles circulates for 12 months or longer. The commission reviewed epidemiological and laboratory evidence before concluding that the United States had not stopped continuous transmission. The Wall Street Journal first reported the decision, citing people familiar with it, and a source confirmed it to CNN. PAHO did not immediately respond to Reuters.",
+            "Some of the clearest evidence came from Utah, where scientists at the state laboratory found the same strain had spread from the south-west to the centre of the state, causing more than 600 cases over a year."
+          ]
+        },
+        {
+          "heading": "A record year",
+          "paragraphs": [
+            "Most of this year’s cases are linked to 43 new outbreaks, and more than 1,000 to outbreaks that began in 2025, according to the Caribbean Broadcasting Corporation’s report, which drew on CNN. Long-running outbreaks have been reported in South Carolina, Pennsylvania, Wisconsin and New York, among other states. State reports show at least 10 deaths this year.",
+            "Reuters linked the rise to falling immunisation rates and growing vaccine hesitancy, noting that Health Secretary Robert F. Kennedy Jr. has raised doubts about the safety of the measles vaccine without scientific evidence. A former CDC official, Demetre Daskalakis, described the loss as evidence of cracks in the country’s public health foundations."
+          ]
+        },
+        {
+          "heading": "The wider region",
+          "paragraphs": [
+            "Canada lost its own status last year after an outbreak across several provinces, which ended the Americas’ designation as a region free of ongoing measles transmission. Mexico has had several large outbreaks and is also at risk. Neither the CDC nor the health department had commented on the decision in the reports."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Confirmed measles cases in the United States",
+        "measure": "Confirmed cases reported to the CDC",
+        "unit": "cases",
+        "values": [
+          {"label": "2025, full year", "value": 2289},
+          {"label": "2026, to November 12", "value": 5182}
+        ],
+        "alt": "Bar chart comparing 2,289 confirmed US measles cases in all of 2025 with 5,182 in 2026 up to November 12.",
+        "caption": "CDC counts reported by Reuters, November 13 · the 2026 figure covers only part of the year",
+        "sourceUrl": "https://www.yahoo.com/news/us/articles/us-loses-measles-free-status-005522649.html"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters (via Yahoo News)",
+          "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
+          "url": "https://www.yahoo.com/news/us/articles/us-loses-measles-free-status-005522649.html",
+          "publishedAt": "2026-11-13",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Caribbean Broadcasting Corporation (CNN)",
+          "title": "US loses its measles elimination status after 26 years",
+          "url": "https://www.cbc.bb/main-stories/us-loses-its-measles-elimination-status-after-26-years/",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 14, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "publishedAt": "2026-11-14",
+          "kind": "News summary"
+        }
+      ],
+      "threadId": "us-measles",
+      "threadTitle": "Measles in the United States",
+      "threadSummary": "The resurgence of measles in the United States since 2025 and the loss of the country’s elimination status."
+    },
+    {
+      "id": "cop31-final-week-draft",
+      "section": "world",
+      "title": "COP31 enters its final week with a draft deal still to be written and countries split over fossil fuels",
+      "category": "Climate",
+      "region": "Europe · Türkiye",
+      "regions": ["europe"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-14",
+      "body": "As the climate talks in Antalya reached their halfway point, the UN climate chief, Simon Stiell, urged negotiators to move quickly and avoid tactical delays. Türkiye’s environment minister, Murat Kurum, who presides over the summit, said the Turkish and Australian teams had held three rounds of consultations and published a first assessment. Australia’s Chris Bowen, who leads the negotiations, asked countries for written feedback to be turned into a draft text early this week. Large fossil fuel producers and consumers are resisting firm new targets.",
+      "whatChanged": "The presidency is moving from gathering views to drafting, setting up a final week in which ministers must agree on wording about fossil fuels and electrification.",
+      "whyMatters": "A UN report last month found the world on course to overshoot the 1.5 degree warming limit. Whether the final text commits to anything firm on oil, gas and coal will show how much ambition survives a process that needs every country’s consent.",
+      "uncertainty": "No draft has been published, and it is unclear whether Türkiye’s electrification goal will specify clean power, as the European Union wants. The United States is absent for a second year running.",
+      "watchNext": "The first draft text early this week, ministerial talks from Monday, and the scheduled close on Friday, November 20.",
+      "keyFacts": [
+        "The talks cover 160 agenda items and 60 substantive mandates, according to Bowen",
+        "Türkiye wants electricity’s share of global energy demand to rise from about 20 percent to 35 percent by 2035",
+        "The final week of talks begins on Monday, November 16",
+        "The United States is skipping the conference for the second year in a row"
+      ],
+      "report": [
+        {
+          "heading": "Where the talks stand",
+          "paragraphs": [
+            "At a press briefing on Saturday, Kurum said the presidency wanted to turn pledges into decisions that make a real difference, and hoped ministerial talks in the second week would produce a strong outcome. Bowen said the first week had shown progress across a heavy agenda, though some issues had drawn input from many countries and others from only a few. Under an arrangement that settled a dispute over hosting, Türkiye presides over the conference while Australia runs the negotiations.",
+            "Stiell told reporters that agreeing every sentence is hard but necessary, that there is no collective success without compromise, and that engagement so far had been constructive."
+          ]
+        },
+        {
+          "heading": "The fossil fuel divide",
+          "paragraphs": [
+            "Reuters reported that big producers and consumers of fossil fuels are pushing back against new targets or a commitment to move away from oil, gas and coal. Saudi Arabia and Russia have traditionally opposed language that constrains fossil fuels, and India has resisted measures it says could hold back its development.",
+            "Türkiye wants its plan to expand electrification included in the summit’s main political decision. The plan does not require the extra electricity to come from renewable sources, which has disappointed campaigners who want clear transition plans. The European Union wants the goal to be clean electrification."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "Countries were asked for written comments on the presidency’s assessment, which will be consolidated into a draft. Heads of delegation and ministers then negotiate the text, which must be adopted by consensus. Türkiye is also promoting a set of voluntary commitments in areas such as artificial intelligence and waste."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Antalya, Türkiye",
+        "bounds": [24, 34, 46, 43],
+        "countries": ["792"],
+        "labels": [
+          {"label": "Mediterranean Sea", "lon": 29, "lat": 34.8, "kind": "water"},
+          {"label": "Black Sea", "lon": 34.5, "lat": 42.6, "kind": "water"}
+        ],
+        "alt": "Map of Türkiye, highlighted, with a marker on Antalya on the Mediterranean coast, where the COP31 climate summit is entering its final week.",
+        "caption": "Türkiye highlighted as host · marker shows the summit city"
+      },
+      "locations": [
+        {"label": "Antalya", "lon": 30.71, "lat": 36.9}
+      ],
+      "sources": [
+        {
+          "publisher": "Hürriyet Daily News",
+          "title": "Türkiye eyes ambitious climate outcome as COP31 enters final week",
+          "url": "https://www.hurriyetdailynews.com/turkiye-eyes-ambitious-climate-outcome-as-cop31-enters-final-week-229417",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Arab News (Reuters)",
+          "title": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
+          "url": "https://www.arabnews.com/world/un-climate-chief-urges-speed-as-cop31-confronts-fossil-fuel-divide-3011870",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "cop31-climate-summit",
+      "threadTitle": "The COP31 climate summit",
+      "threadSummary": "The UN’s 2026 climate conference in Antalya, Türkiye, and the negotiations on emissions, energy and climate finance."
+    },
+    {
+      "id": "microsoft-outage-capacity-upgrade",
+      "section": "more",
+      "title": "Microsoft apologises for a global outage that took Outlook, Teams and other services offline for about a day",
+      "category": "Technology",
+      "region": "Global",
+      "regions": [],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-12 / 2026-11-13",
+      "whatChanged": "Microsoft said the failure came from a network capacity upgrade, not a cyberattack or AI, and reported broad recovery on Friday.",
+      "body": "Microsoft 365, Outlook, Teams and OneDrive were among the services hit, and Britain’s National Health Service reportedly lost access to email and Teams for most of a day. Japan’s government email went down and New Zealand suspended all visa processing during the disruption. Microsoft said it was deeply sorry and will publish a full post-incident review.",
+      "sources": [
+        {
+          "publisher": "Windows Central",
+          "title": "“We are deeply sorry”: Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours",
+          "url": "https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it",
+          "publishedAt": "2026-11-13",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 14, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "publishedAt": "2026-11-14",
+          "kind": "News summary"
+        }
+      ],
+      "threadId": "tech-outages",
+      "threadTitle": "Major technology outages",
+      "threadSummary": "Large failures in the cloud and communications systems that businesses, governments and public services depend on."
+    },
+    {
+      "id": "turkey-qatar-defence-pact",
+      "section": "more",
+      "title": "Türkiye and Qatar sign a mutual defence agreement, the latest of several regional security pacts during the Iran war",
+      "category": "Security",
+      "region": "Middle East · Qatar, Türkiye",
+      "regions": ["middle-east", "europe"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-13",
+      "whatChanged": "President Erdogan and Qatar’s emir signed a defence pact and four other agreements in Istanbul, though the pact’s terms have not been published.",
+      "body": "The Turkish presidency said both countries would work to prevent a new war in the Gulf. Türkiye already has troops in Qatar, and a security analyst told Al Jazeera that Qatar’s doubts about US guarantees could lead to Turkish air defences being deployed there. On the same day, Türkiye’s law ratifying a joint defence pact with Saudi Arabia and Pakistan took effect.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Turkiye and Qatar sign mutual defence agreement",
+          "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
+          "publishedAt": "2026-11-13",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 14, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "publishedAt": "2026-11-14",
+          "kind": "News summary"
+        }
+      ],
+      "threadId": "turkey-defence-pacts",
+      "threadTitle": "Türkiye’s new defence pacts",
+      "threadSummary": "Türkiye’s growing set of defence agreements with Gulf and other Muslim-majority states during the 2026 Iran war."
+    },
+    {
+      "id": "alaska-kreiss-tomkins-governor",
+      "section": "more",
+      "title": "Alaska elects Jonathan Kreiss-Tomkins, its first Democratic governor since 2002",
+      "category": "US politics",
+      "region": "North America · United States",
+      "regions": ["north-america"],
+      "status": "This week",
+      "eventDate": "2026-11-13",
+      "whatChanged": "The Associated Press called the race after 10 days of counting, with Kreiss-Tomkins on course for a majority of first-choice votes, so no ranked-choice tabulation is needed.",
+      "body": "The 37-year-old former state legislator from Sitka will be the youngest governor in Alaska’s history and succeeds the term-limited Republican Mike Dunleavy. Results are due to be certified on November 25, and he takes office on December 7. Democrats will hold 30 governorships, up from 24.",
+      "sources": [
+        {
+          "publisher": "Alaska Public Media",
+          "title": "Alaska elects Democrat Jonathan Kreiss-Tomkins governor",
+          "url": "https://alaskapublic.org/news/politics/elections/2026-11-13/alaska-elects-democrat-jonathan-kreiss-tomkins-governor",
+          "publishedAt": "2026-11-13",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Liveblog, November 14, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+          "publishedAt": "2026-11-14",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "us-midterms-2026",
+      "threadTitle": "The 2026 US midterms",
+      "threadSummary": "The November 2026 elections for the US Congress, governors and ballot measures, and their aftermath."
+    },
+    {
+      "id": "south-sudan-election-postponed-february",
+      "section": "more",
+      "title": "South Sudan postpones its first national elections again, from December 22 to February 11",
+      "category": "Elections",
+      "region": "Africa · South Sudan",
+      "regions": ["africa"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-14",
+      "whatChanged": "The National Elections Commission set a new date without giving a reason, the latest of at least three delays since 2022.",
+      "body": "Voter registration runs from November 14 to 28 at more than 3,000 centres, with campaigning from December 27. The postponement comes after President Salva Kiir dissolved the unity government in September, and as his forces clash with supporters of the detained former vice president Riek Machar. About 90 percent of South Sudanese lack state identification, so community leaders will issue forms to let rural residents vote.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "South Sudan postpones first-ever national elections until February",
+          "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "south-sudan-violence",
+      "threadTitle": "South Sudan’s violence and elections",
+      "threadSummary": "Armed violence, the protection of civilians and the long-delayed elections in South Sudan."
+    },
+    {
+      "id": "icc-closes-original-afghanistan-probe",
+      "section": "more",
+      "title": "International Criminal Court judges close the original Afghanistan inquiry, which had covered US forces, but the Taliban case goes on",
+      "category": "International justice",
+      "region": "Asia · Afghanistan",
+      "regions": ["asia"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-12",
+      "whatChanged": "Judges ruled that the prosecutor had not shown it could effectively pursue the long-dormant investigation, and the prosecutor’s office says it has appealed.",
+      "body": "The closed inquiry covered alleged crimes since 2003 by Afghan security forces, the Taliban, US troops and CIA personnel, as well as the Islamic State group’s local branch. A separate case on the Taliban’s persecution of women and girls continues, with four arrest warrants in force, including one for the Taliban’s supreme leader.",
+      "sources": [
+        {
+          "publisher": "KabulNow",
+          "title": "ICC Closes Original Afghanistan Investigation, Continues Probe into Taliban Crimes Separately",
+          "url": "https://kabulnow.com/2026/11/icc-closes-original-afghanistan-investigation-continues-probe-into-taliban-crimes-separately/",
+          "publishedAt": "2026-11-13",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 14, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "publishedAt": "2026-11-14",
+          "kind": "News summary"
+        }
+      ],
+      "threadId": "icc-afghanistan",
+      "threadTitle": "The ICC and Afghanistan",
+      "threadSummary": "The International Criminal Court’s investigations into alleged crimes in Afghanistan, including the Taliban’s persecution of women and girls."
+    },
+    {
+      "id": "starship-first-ship-catch",
+      "section": "frontiers",
+      "field": "Space",
+      "title": "SpaceX catches a Starship upper stage at its launch tower after an orbital flight, a first, though the booster missed its own catch",
+      "category": "Reusable rockets",
+      "region": "North America · United States",
+      "regions": [],
+      "status": "Major development",
+      "eventDate": "2026-11-13 / 2026-11-14",
+      "hook": "A genuine first for rocket reuse, but only half of the double catch SpaceX was aiming for, and the harder test of refuelling in orbit is still ahead.",
+      "body": "Starship’s 15th test flight lifted off from Starbase in Texas on Friday evening, deployed 26 large Starlink satellites and circled Earth 14 times. On Saturday afternoon the ship flew back and was caught by the tower’s mechanical arms, the first time SpaceX has recovered a Starship upper stage after an orbital mission. The plan was to catch both stages, but the Super Heavy booster diverted to a splashdown in the Gulf of Mexico. NASA’s administrator, Jared Isaacman, congratulated the company.",
+      "whatChanged": "SpaceX had caught boosters three times before, minutes after launch, but never the ship, which returns faster and from much higher.",
+      "whyMatters": "Recovering the upper stage intact is a key part of SpaceX’s plan for a fully reusable rocket that can be inspected and flown again quickly. Starship is also the lander NASA is relying on to return astronauts to the Moon.",
+      "uncertainty": "Accounts differ on why the booster diverted: one report cites a low-fuel alarm, another says its guidance system judged it out of position, and SpaceX is still investigating. Refuelling in orbit with super-cold propellants, which Moon landings need, has not yet been shown.",
+      "watchNext": "SpaceX’s findings on the booster, its plan to attempt a double catch on the next flight, and federal public meetings on more Starbase launches from November 17 to 19.",
+      "keyFacts": [
+        "Launch: 5:47 p.m. Eastern time on November 13 from Starbase, Texas",
+        "The ship was caught at 4:20 p.m. Eastern time on November 14, after about 22 and a half hours",
+        "It deployed 26 Starlink V3 satellites, too large to fly on SpaceX’s Falcon rockets",
+        "This was only the second Starship flight to reach orbit, after Flight 14 on September 28"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "The vehicle, Ship 42 on Booster 22, launched on Friday evening and spent the night and most of Saturday in orbit. After releasing its satellites it re-entered and returned to the launch tower, nicknamed Mechazilla, whose two arms closed around it. A SpaceX commentator, Dan Huot, called the ship catch the missing link in the company’s plans, Space.com reported.",
+            "SpaceX had hoped to recover both stages. The Super Heavy booster instead diverted and splashed down in the Gulf. SpacePolicyOnline reported that its guidance system decided it was in the wrong position, while Space.com said it triggered a low-fuel alarm. Before landing, Starlink satellites photographed the ship’s heat shield, which SpaceX said looked in good condition."
+          ]
+        },
+        {
+          "heading": "Why the ship is the harder catch",
+          "paragraphs": [
+            "Earlier catches, on Flights 5, 7 and 8, were of the first stage, which returns minutes after liftoff. The upper stage flies higher, farther and faster and must survive re-entry from orbit. Recovering it whole is meant to allow faster inspection and reflight than the Space Shuttle ever managed: the shuttle orbiter landed on a runway and its large external tank was never reused."
+          ]
+        },
+        {
+          "heading": "What it does and does not prove",
+          "paragraphs": [
+            "SpaceX holds a NASA contract for a version of Starship to land astronauts on the Moon from 2028. That requires transferring super-cold propellant between vehicles in orbit, which SpaceX has not yet demonstrated. Elon Musk has said the company plans a double catch on the next flight. The Federal Aviation Administration is holding public scoping meetings on increasing Starship launches from Starbase from November 17 to 19."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-15/starship-first-ship-catch.svg",
+        "alt": "A lattice launch tower whose two arms close around a returning rocket upper stage, standing for SpaceX catching a Starship at its tower for the first time.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "SpacePolicyOnline",
+          "title": "SpaceX Catches a Starship",
+          "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Space.com",
+          "title": "‘Now everything changes’: SpaceX catches Starship upper stage for 1st time ever",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+          "publishedAt": "2026-11-14",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Liveblog, November 14, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+          "publishedAt": "2026-11-14",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "spacex-starship",
+      "threadTitle": "SpaceX’s Starship",
+      "threadSummary": "SpaceX’s test campaign for Starship, the fully reusable rocket meant for satellite launches, NASA’s Moon landings and Mars."
+    },
+    {
+      "id": "chatgpt-wallet-agent-payments",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "OpenAI launches ChatGPT Wallet, letting its AI agents pay for purchases without seeing the user’s card number",
+      "category": "AI agents",
+      "region": "North America · United States",
+      "regions": [],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-13",
+      "hook": "A cautious step toward AI agents that spend money for people: every purchase still needs the user’s fingerprint or face, and the launch is limited to paying US subscribers.",
+      "body": "OpenAI said on Friday that its always-on agents, called dots, can now complete purchases through a wallet built with American Express, Mastercard and Visa. A user adds a card once, reviews each order and approves it with Face ID or a fingerprint. The card network then issues a separate token, so neither the merchant nor the agent sees the real card details. The service is starting only for adult ChatGPT Pro subscribers in the United States, and OpenAI says it is not taking a cut of sales for now.",
+      "whatChanged": "OpenAI’s agents can now pay, not just shop, using payment tokens issued by the three card networks rather than the user’s own card number.",
+      "whyMatters": "Payments have been a missing piece for AI agents that act on people’s behalf. Building the safeguards into the card networks, with an approval record for each purchase, is one answer to the fraud and accountability questions that have held such services back.",
+      "uncertainty": "OpenAI acknowledges that some websites may block agent purchases and that fraud systems may decline legitimate ones. It has not said whether each token can be used only once, and delegated buying within spending limits has no date. Its claim to be first has not been tested.",
+      "watchNext": "Whether OpenAI widens access beyond Pro subscribers, how merchants and fraud systems treat agent traffic during the holiday season, and when spending limits replace per-purchase approval.",
+      "keyFacts": [
+        "Announced and launched on November 13, 2026, for US ChatGPT Pro subscribers aged 18 and over",
+        "Built with American Express, Mastercard and Visa, with Stripe, Adyen and Checkout.com among payment partners",
+        "Each purchase needs approval with Face ID or a fingerprint scan",
+        "United Airlines and Amazon are among companies blocking agents from buying on their services, CNBC reported"
+      ],
+      "report": [
+        {
+          "heading": "How it works",
+          "paragraphs": [
+            "Once a card is added, a dot can find items and prepare an order. The user sees the items, the total and the card to be charged and approves with a biometric check, which creates a record of what the agent was allowed to buy. The payment network then generates a token with its own number, security code and expiry date, and the real card is charged without being exposed. Users keep their card rewards and dispute protections, and deal with the merchant directly over delivery and returns, according to The Next Web.",
+            "Fraud-prevention firms Forter, Riskified, Sardine and Signifyd are also involved. American Express’s Luke Gebb told CNBC the small launch was deliberate, so that the companies could watch it in a contained setting."
+          ]
+        },
+        {
+          "heading": "The obstacles",
+          "paragraphs": [
+            "Many companies are wary of agents. United Airlines has said it will block them from booking tickets, Amazon stops them buying on its site, and Schwab and JPMorgan block them from moving customer money. When Visa tested 22 AI models as shoppers this month, they failed 42.8 percent of the time.",
+            "PPC Land noted that OpenAI shut down an earlier in-chat checkout feature in March after Walmart reported far lower conversion than when shoppers clicked through to its own site. It also cited a Salesforce survey in which three in four holiday shoppers said they were not interested in agents buying for them."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-15/chatgpt-wallet-agent-payments.svg",
+        "alt": "A payment card with its number hidden behind dots and a tick, beside a fingerprint and a shopping bag, standing for AI agents paying with tokens after the user approves each purchase.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "The Next Web",
+          "title": "OpenAI’s ChatGPT Wallet lets its AI agents shop without seeing your card",
+          "url": "https://thenextweb.com/news/chatgpt-wallet-openai-dots-agents-payments",
+          "publishedAt": "2026-11-13",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "PPC Land",
+          "title": "OpenAI hands its AI agents a wallet without the real card number in it",
+          "url": "https://ppc.land/openai-hands-its-ai-agents-a-wallet-without-the-real-card-number-in-it",
+          "publishedAt": "2026-11-13",
+          "kind": "Analysis"
+        },
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 14, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "publishedAt": "2026-11-14",
+          "kind": "News summary"
+        }
+      ],
+      "threadId": "ai-shopping-agents",
+      "threadTitle": "AI agents that shop and pay",
+      "threadSummary": "Efforts to let AI agents buy things on people’s behalf, and the payment and fraud safeguards around them."
+    },
+    {
+      "id": "gaza-winter-first-cold-death",
+      "section": "still",
+      "title": "A baby dies of cold in Gaza, the first such death this winter, as the European Union demands that Israel open every crossing for aid",
+      "category": "Humanitarian",
+      "region": "Middle East · Gaza",
+      "regions": ["middle-east"],
+      "status": "Still matters",
+      "eventDate": "2026-11-13 / 2026-11-15",
+      "body": "Gaza’s Health Ministry said a nine-month-old boy died of severe hypothermia, the first recorded death from cold this winter. A week after the season’s first storm flooded tens of thousands of tents, the European Union called on Israel to allow immediate and unimpeded aid and to reopen all crossings. Israel’s aid coordination body said it had stepped up sanitation work, and Israel says claims that it blocks aid distract from Hamas. Israeli strikes continue despite the ceasefire, including one that Hamas sources said killed its Rafah commander.",
+      "whatChanged": "Winter has claimed its first life from cold, and Europe has joined the UN and the Board of Peace in demanding that shelter supplies be let in.",
+      "whyMatters": "About 1.7 million people are living in tents, makeshift shelters or damaged buildings, and aid groups say materials to keep them dry are stuck outside Gaza. The coming months of rain and cold will test whether the ceasefire brings relief to civilians.",
+      "uncertainty": "Israel and aid groups give sharply different accounts of how much aid is entering. Gaza officials and the UN use different measures of how many tents and households were flooded.",
+      "watchNext": "Whether Israel opens more crossings or eases its limits on shelter materials, the next winter storms, and whether coalition talks in Israel affect aid decisions.",
+      "keyFacts": [
+        "The boy, Kinan Ahmed Arqiq, was nine months old, according to the Health Ministry",
+        "Gaza’s Government Media Office said the November 7 storm flooded about 70,000 tents in 12 hours",
+        "Aid groups had about 2,800 tents inside Gaza on November 1, against an estimated need of about 121,000",
+        "Aid groups say 180 to 200 trucks enter daily, against 600 agreed under the humanitarian protocol"
+      ],
+      "report": [
+        {
+          "heading": "A fourth winter in tents",
+          "paragraphs": [
+            "The first storm of the season hit on November 7. Gaza’s Government Media Office said about 70,000 tents flooded within 12 hours and that the civil defence received some 1,500 calls for help; the UN counted at least 26,000 households flooded. Gaza’s civil defence said at least five people, including children, died when a rain-soaked embankment collapsed onto tents south of Deir al-Balah.",
+            "The International Rescue Committee says drainage pumps are failing for lack of fuel, oil and spare parts, and that aid groups had no emergency shelter kits in stock. UNICEF estimates that nearly one million people live in flood-prone areas."
+          ]
+        },
+        {
+          "heading": "The dispute over aid",
+          "paragraphs": [
+            "The UN’s humanitarian chief, Tom Fletcher, said this week that waiting for Israel to form a new government was no reason to delay winter supplies, and called for all crossings to be opened. The Board of Peace, which oversees the US plan for Gaza, also urged Israel to let in shelter and sanitation materials. On Saturday the European Union added its demand.",
+            "Israel says it has allowed thousands of aid trucks into Gaza and blames Hamas for the lack of progress, arguing that the group would exploit dual-use items such as tent poles. UN figures show aid deliveries have declined since January."
+          ]
+        },
+        {
+          "heading": "Strikes continue",
+          "paragraphs": [
+            "Israel’s military and the Shin Bet said early on Sunday that they had targeted a senior figure in Hamas’s armed wing in Khan Younis; Hamas sources said the strike killed Samir Abu Younis, commander of the Rafah Brigade. Health officials say at least 1,600 Palestinians have been killed since the October 2025 ceasefire."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 14, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "publishedAt": "2026-11-14",
+          "kind": "News summary"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Liveblog, November 14, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+          "publishedAt": "2026-11-14",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "International Rescue Committee",
+          "title": "At least 5 dead, 26,000 households flooded as people in Gaza face fourth winter in tents",
+          "url": "https://www.rescue.org/press-release/least-5-dead-26000-households-flooded-people-gaza-face-fourth-winter-tents",
+          "publishedAt": "2026-11-09",
+          "kind": "Aid agency statement"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Rains flood 70,000 displaced families’ tents in Gaza",
+          "url": "https://aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza",
+          "publishedAt": "2026-11-07",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The National",
+          "title": "UN aid chief criticises delays in Gaza relief and rejects waiting for Israel to form government",
+          "url": "https://thenationalnews.com/news/mena/2026/11/11/un-aid-chief-criticises-delays-in-gaza-relief-and-rejects-waiting-for-israel-to-form-government",
+          "publishedAt": "2026-11-11",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "gaza-humanitarian",
+      "threadTitle": "Gaza's humanitarian situation",
+      "threadSummary": "Conditions for civilians in Gaza, aid access and casualties during and after the war."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Three leaders in Shenzhen",
+      "text": "Trump meets Xi Jinping on Thursday, November 19, before the first three-way meeting with Vladimir Putin, after stops in Manila earlier in the week."
+    },
+    {
+      "title": "COP31’s draft",
+      "text": "A first draft of the climate deal is expected early this week, with the talks in Antalya due to end on Friday, November 20."
+    },
+    {
+      "title": "Nvidia without Huang",
+      "text": "Nvidia reports quarterly results on Tuesday, November 17, its first since Jensen Huang stepped down as chief executive."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "The United States lost its measles elimination status, Alaska elected a Democratic governor, and airlines were working through the aftermath of Friday’s nationwide ground stop.",
+      "briefs": [
+        {
+          "title": "US flights are expected back to normal after the longest nationwide ground stop in 25 years",
+          "text": "The head of the Federal Aviation Administration, Bryan Bedford, said air travel should recover by the end of Sunday, after a communications failure halted all US departures for more than four hours on Friday. About 12,000 flights were cancelled that day, and he expected 4,000 to 5,000 of Saturday’s 41,000 scheduled flights to be cancelled. Officials have said there is no sign of an attack, and the Rio Times reported that the FBI was checking whether a software update was to blame.",
+          "eventDate": "2026-11-14",
+          "sources": [
+            {
+              "publisher": "The Times of Israel",
+              "title": "Liveblog, November 14, 2026",
+              "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+              "publishedAt": "2026-11-14",
+              "kind": "Live reporting"
+            },
+            {
+              "publisher": "The Rio Times",
+              "title": "Latin American Pulse for Saturday, November 14, 2026",
+              "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-november-14-2026/",
+              "publishedAt": "2026-11-14",
+              "kind": "News summary"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Chile’s government faced truckers’ blockades over fuel prices, and Friday’s US flight stoppage disrupted airlines across the region.",
+      "briefs": [
+        {
+          "title": "Chilean truckers block highways and port access over fuel prices",
+          "text": "Truck drivers across Chile staged strikes and blockades over rising fuel costs, disrupting the main north-south highway and access to ports including Iquique, Reuters reported. About 4,000 truckers were expected to take part, though the sector’s two largest associations stayed out. President José Antonio Kast’s government said it would use fiscal savings to support its fuel-price stabilisation fund and send a bill to cap weekly price rises at 20 pesos a litre.",
+          "eventDate": "2026-11-10",
+          "sources": [
+            {
+              "publisher": "AJOT (Reuters)",
+              "title": "Truckers block roads in Chile protesting fuel price hikes",
+              "url": "https://www.ajot.com/news/truckers-block-roads-in-chile-protesting-fuel-price-hikes",
+              "publishedAt": "2026-11-10",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Zelensky said US negotiators tied NATO membership to Donbas, COP31 entered its final week in Antalya, and Irish army experts defused a viable bomb in central Dublin.",
+      "briefs": [
+        {
+          "title": "Irish army experts defuse a crude but viable explosive device in central Dublin",
+          "text": "An Irish army bomb disposal team made safe a device found in an office building on Merrion Square on Saturday, The Times of Israel reported. World leaders had dined nearby the previous day during the European summit held in Ireland.",
+          "eventDate": "2026-11-14",
+          "sources": [
+            {
+              "publisher": "The Times of Israel",
+              "title": "Liveblog, November 14, 2026",
+              "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+              "publishedAt": "2026-11-14",
+              "kind": "Live reporting"
+            }
+          ]
+        },
+        {
+          "title": "Poland’s president vetoes the EU digital services law for a second time",
+          "text": "President Karol Nawrocki again vetoed legislation that would put key parts of the European Union’s Digital Services Act into Polish law, according to Anadolu Agency. Prime Minister Donald Tusk criticised the decision, which further delays enforcement of the EU’s rules on illegal online content in Poland.",
+          "eventDate": "2026-11-13",
+          "sources": [
+            {
+              "publisher": "Anadolu Agency",
+              "title": "Morning Briefing: Nov. 14, 2026",
+              "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+              "publishedAt": "2026-11-14",
+              "kind": "News summary"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "South Sudan postponed its elections to February, Nigeria ended its Ebola contact monitoring with no further cases, and at least 10 people were killed in a clash over gold mining in Guinea.",
+      "briefs": [
+        {
+          "title": "Nigeria finishes monitoring Ebola contacts with no onward spread",
+          "text": "Nigeria’s disease control centre said none of the 62 people monitored for 21 days after the country’s first Ebola case in over a decade developed the disease; 13 had fevers but tested negative. The patient, a Swiss woman who had travelled from Uganda, recovered in Switzerland. Officials stressed that the outbreak is not formally over until a 42-day countdown is complete.",
+          "eventDate": "2026-11-13",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+              "url": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission",
+              "publishedAt": "2026-11-13",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "At least 10 die in Guinea as security forces clash with gold miners",
+          "text": "Guinea’s government said at least 10 people, five of them foreigners, were killed and 13 injured when a patrol against unregulated gold mining met barricades in Balato, in the Siguiri region. Authorities banned artisanal gold mining there on November 2 and have arrested more than 1,200 people. Mali and Burkina Faso report tens of thousands of their citizens leaving Guinea.",
+          "eventDate": "2026-11-11 / 2026-11-13",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "At least 10 killed in Guinea in crackdown on gold mining",
+              "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining",
+              "publishedAt": "2026-11-13",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Trump was reported to be weighing a pause on new Iran strikes, Türkiye and Qatar signed a defence pact, and a baby died of cold in Gaza.",
+      "briefs": [
+        {
+          "title": "A car bomb kills two, including a child, near Damascus",
+          "text": "A car bomb exploded in Jaramana, a suburb of Damascus with a large Druze community, on Saturday evening, killing two people, one of them a child. State television said two people were wounded, while the Interior Ministry reported one.",
+          "eventDate": "2026-11-14",
+          "sources": [
+            {
+              "publisher": "The Times of Israel",
+              "title": "Liveblog, November 14, 2026",
+              "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+              "publishedAt": "2026-11-14",
+              "kind": "Live reporting"
+            }
+          ]
+        },
+        {
+          "title": "Iraq’s prime minister fires nine officials over oil smuggling",
+          "text": "Prime Minister Ali al-Zaidi dismissed nine officials over oil smuggling in Jurf al-Sakher, a stronghold of the Iran-aligned Kataeb Hezbollah militia, and referred the suspects to the courts.",
+          "eventDate": "2026-11-14",
+          "sources": [
+            {
+              "publisher": "The Times of Israel",
+              "title": "Liveblog, November 14, 2026",
+              "url": "https://www.timesofisrael.com/liveblog-november-14-2026/",
+              "publishedAt": "2026-11-14",
+              "kind": "Live reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "The ASEAN summit opened in Manila amid clashes with protesters, ahead of Trump’s visit, and the ICC closed its original Afghanistan inquiry.",
+      "briefs": [
+        {
+          "title": "Police arrest five protesters as the ASEAN summit opens in Manila",
+          "text": "Five people were arrested and two hurt on Sunday when protesters at Liwasang Bonifacio tried to march toward the summit venue in Pasay City, GMA News reported. One injured man said a police officer hit him with a riot shield. Police said the five caused a disturbance and rallied outside a designated protest area, while the labour group Kilusang Mayo Uno called the arrests illegal.",
+          "eventDate": "2026-11-15",
+          "sources": [
+            {
+              "publisher": "GMA News",
+              "title": "5 people arrested, 2 hurt in Manila amid ASEAN Summit protests",
+              "url": "https://www.gmanetwork.com/news/topstories/metro/1009564/5-people-arrested-2-hurt-in-manila-amid-asean-summit-protests/story/",
+              "publishedAt": "2026-11-15",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "New Zealand is waiting for the official election count, due on November 27, to settle whether the governing parties keep their one-seat majority.",
+      "briefs": [
+        {
+          "title": "New Zealand’s governing bloc holds a one-seat lead until special votes are counted",
+          "text": "Preliminary results from the November 7 election give National, ACT and New Zealand First 67 seats in a Parliament enlarged to 131 by overhang seats, one more than a majority, but about 399,000 special votes are still to be counted. The final result is due on Friday, November 27. Christopher Luxon leads a caretaker government, and the Opportunity party has said it will talk first to the largest party.",
+          "eventDate": "2026-11-07",
+          "sources": [
+            {
+              "publisher": "Newswire",
+              "title": "NZ election count no barrier to coalition talks, expert says",
+              "url": "https://newswire.co.nz/2026/11/new-zealand-election-official-count-special-votes-coalition-talks/",
+              "publishedAt": "undated (November 2026)",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

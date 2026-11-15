@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A launch tower whose two arms close around a returning rocket stage">
+  <rect width="800" height="500" fill="#09131d"/>
+  <circle cx="640" cy="110" r="3" fill="#d6e6f2"/><circle cx="700" cy="70" r="2" fill="#7fa6c4"/><circle cx="120" cy="90" r="2.5" fill="#7fa6c4"/><circle cx="560" cy="60" r="2" fill="#d6e6f2"/>
+  <line x1="40" y1="452" x2="760" y2="452" stroke="#2c4f6e" stroke-width="5"/>
+  <g stroke="#7fa6c4" stroke-width="5" fill="none">
+    <rect x="250" y="70" width="80" height="382"/>
+    <path d="M250 110 L330 150 M330 110 L250 150 M250 190 L330 230 M330 190 L250 230 M250 270 L330 310 M330 270 L250 310 M250 350 L330 390 M330 350 L250 390"/>
+  </g>
+  <g fill="#12263a" stroke="#d6e6f2" stroke-width="5" stroke-linejoin="round">
+    <path d="M330 168 L470 168 L470 186 L330 196 Z"/>
+    <path d="M330 232 L470 232 L470 214 L330 204 Z"/>
+  </g>
+  <g transform="translate(470 40)">
+    <path d="M0 0 C 18 -34 52 -34 70 0 L70 300 L0 300 Z" fill="#c8875a" stroke="#d6e6f2" stroke-width="5"/>
+    <path d="M0 40 L-26 70 L0 76 Z M70 40 L96 70 L70 76 Z M0 250 L-30 296 L0 300 Z M70 250 L100 296 L70 300 Z" fill="#7fa6c4" stroke="#d6e6f2" stroke-width="4" stroke-linejoin="round"/>
+    <line x1="10" y1="120" x2="60" y2="120" stroke="#09131d" stroke-width="4"/>
+  </g>
+  <g stroke="#2c4f6e" stroke-width="6" stroke-linecap="round">
+    <line x1="505" y1="360" x2="505" y2="400"/><line x1="490" y1="368" x2="484" y2="398"/><line x1="520" y1="368" x2="526" y2="398"/>
+  </g>
+</svg>

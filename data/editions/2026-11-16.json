@@ -1,0 +1,1000 @@
+{
+ "date": "2026-11-16",
+ "number": 30,
+ "cutoff": "2026-11-16T12:20:00Z",
+ "cutoffLabel": "6:20 AM CT",
+ "opening": "Iran fired drones at Bahrain and ships burned near the Strait of Hormuz as a third US aircraft carrier arrived. Houthi forces pushed to within about 60 kilometres of Aden, hundreds of thousands protested in Prague, and COP31’s first draft called for faster fossil fuel phase-out.",
+ "leadStoryId": "iran-bahrain-drones-hormuz-third-carrier",
+ "stories": [
+  {
+   "id": "iran-bahrain-drones-hormuz-third-carrier",
+   "section": "world",
+   "title": "Iran fires drones at Bahrain and ships catch fire near Hormuz, as a third US aircraft carrier reaches the region",
+   "category": "Iran war",
+   "region": "Middle East · Bahrain and the Gulf",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-15 / 2026-11-16",
+   "body": "Iran’s Revolutionary Guards said they launched six drones at a US radar site on Bahrain’s Riffa base early on Sunday. Bahrain said it intercepted them; it was the first attack on the kingdom since early September. On Monday a tanker leaving the Strait of Hormuz was hit by an unidentified projectile and caught fire, with no injuries, Britain’s maritime security agency said. Iranian state media claimed six vessels had caught fire in the strait since Sunday. The carrier USS Theodore Roosevelt entered the region the same day.",
+   "whatChanged": "Two days after reports that Trump might hold off on new strikes, Iran attacked a Gulf state again, warned it would not wait to be hit first, and stepped up threats to shipping, while the United States put a third carrier in the region.",
+   "whyMatters": "Three US carrier groups in the Middle East at once has not been seen since 2003, according to Bloomberg. Together with new attacks on shipping in a strait that carries a large share of the world’s oil, the risk that the war flares up again has risen.",
+   "uncertainty": "Iran’s claim that six ships caught fire could not be checked independently; only one strike on Monday has been confirmed by the British agency. The New York Times reported US and Israeli plans for renewed strikes on Iran’s energy infrastructure, but no decision has been announced.",
+   "watchNext": "Further incident reports from the Strait of Hormuz, any US response to the attack on Bahrain, and whether Trump raises Iran with Xi Jinping and Vladimir Putin in Shenzhen on Thursday.",
+   "keyFacts": [
+    "The Revolutionary Guards said they fired six drones at a US radar site at Riffa, Bahrain, on Sunday, November 15",
+    "Bahrain said the drones were all intercepted; it was the first attack on Bahrain since early September",
+    "USS Theodore Roosevelt joined USS George H.W. Bush and USS George Washington in the region on Sunday",
+    "A tanker leaving the Strait of Hormuz caught fire in its engine room after being hit on Monday, with no one hurt",
+    "Brent crude traded near 96 dollars a barrel early on Monday"
+   ],
+   "report": [
+    {
+     "heading": "The attack on Bahrain",
+     "paragraphs": [
+      "Emergency alerts sounded in Bahrain before dawn on Sunday, telling residents to find a safe place, for the first time in months. The Revolutionary Guards said their aerospace force sent six drones at a US early-warning radar at the Riffa air base, calling it a response to American aggression, and claimed a hit. Bahrain’s military said every drone was stopped before reaching its target. Two days earlier, US Central Command said it had shot down two Iranian drones heading for Bahrain.",
+      "Qatar, Saudi Arabia and the United Arab Emirates condemned the attack, and the head of the Gulf Cooperation Council called it a blatant challenge to regional peace efforts. The US embassy in Manama warned of possible attacks on American officials and facilities."
+     ]
+    },
+    {
+     "heading": "Ships under fire",
+     "paragraphs": [
+      "The Revolutionary Guards’ navy warned shipping companies away from a southern route through the strait backed by the United States, describing it as a minefield, and presented its attacks as punishment for the American blockade of Iranian ports. Iranian state media said two tankers struck mines on that route, one of them a supertanker carrying more than two million barrels of crude.",
+      "On Monday morning the UK Maritime Trade Operations agency reported that a tanker leaving the strait had been struck by an unknown projectile, setting its engine room on fire. Indian authorities separately reported an attack on a tanker in the Gulf, with its crew safe. Oil steadied after a two-week slide, with Brent near 96 dollars."
+     ]
+    },
+    {
+     "heading": "Positions in Tehran and Washington",
+     "paragraphs": [
+      "Deputy Foreign Minister Kazem Gharibabadi said late on Sunday that Iran would not wait for the United States to strike first, and accused Washington of using talks to buy time. Parliament Speaker Mohammad Bagher Ghalibaf said a path to ending the war was open if the US accepted what he called Iran’s logical conditions, while the foreign ministry ruled out limits on uranium enrichment.",
+      "President Trump said last week that the US did not need a deal with Iran. The New York Times reported on Sunday that US and Israeli planners have drawn up options for strikes on Iran’s energy and economic infrastructure. UN Secretary-General António Guterres called on Monday for a serious negotiation to end what he described as a state of neither peace nor war."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Bahrain and the Strait of Hormuz",
+    "bounds": [
+     47,
+     22,
+     60,
+     30.5
+    ],
+    "countries": [
+     "364",
+     "512",
+     "784"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 51.5,
+      "lat": 27.6,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 58.3,
+      "lat": 24.4,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Gulf with Iran, the United Arab Emirates and Oman highlighted, and markers on Riffa in Bahrain, the target of Sunday's drone attack, and the Strait of Hormuz, where ships were hit.",
+    "caption": "Countries highlighted for context · markers show approximate reporting locations"
+   },
+   "locations": [
+    {
+     "label": "Riffa, Bahrain",
+     "mapLabel": "Riffa",
+     "lon": 50.55,
+     "lat": 26.13
+    },
+    {
+     "label": "Strait of Hormuz",
+     "mapLabel": "Hormuz",
+     "lon": 56.4,
+     "lat": 26.5
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The National",
+     "title": "Iran escalates threats against US forces and Gulf states as third American carrier arrives",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Rigzone (Bloomberg)",
+     "title": "Iran Says Door to Peace Still Open after Strikes on Bahrain",
+     "url": "https://www.rigzone.com/news/wire/iran_says_door_to_peace_still_open_after_strikes_on_bahrain-16-nov-2026-185086-article/",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "US-Iran Tensions Surge as Third Aircraft Carrier Enters Middle East Amid Escalating Conflict",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-iran-tensions-escalate-as-third-aircraft-carrier-enters-region-1.500748608",
+     "publishedAt": "2026-11-16",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Arab News (Reuters)",
+     "title": "British authority: tanker targeted by unknown projectile in Strait of Hormuz, fire erupts",
+     "url": "https://www.arabnews.com/middle-east/british-authority-tanker-targeted-by-unknown-projectile-in-strait-of-hormuz-fire-erupts-3012196",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CBS News",
+     "title": "US-Iran war live updates",
+     "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+     "publishedAt": "2026-11-15",
+     "kind": "Live reporting"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "houthis-advance-on-aden",
+   "section": "world",
+   "title": "Houthi forces push to about 60 kilometres from Aden, the seat of Yemen’s government, which is digging in to defend the city",
+   "category": "Yemen’s war",
+   "region": "Middle East · Yemen",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-13 / 2026-11-15",
+   "body": "Houthi fighters took the Kharaz military base and nearby mountain positions in Lahj province on Sunday after government troops withdrew, military sources told AFP and Xinhua, leaving them about 60 kilometres from Aden. The government said it was pulling troops back from the Red Sea coast to protect the city, where forces have been building sandbag defences and tunnels since Friday. A Houthi missile strike on a checkpoint in Lahj killed eight people. The Houthis also released 600 captured government fighters, which the Red Cross confirmed.",
+   "whatChanged": "The Houthi advance along the Red Sea coast has reached the western approaches to Aden, and the government has switched from trying to win back territory to defending its interim capital.",
+   "whyMatters": "Aden is the base of Yemen’s internationally recognised government. A Houthi push on the city would upend a war that had been largely frozen since a 2022 truce, and the group’s coastal gains tighten its grip on the Bab al-Mandab strait, a gateway for Red Sea shipping.",
+   "uncertainty": "Battlefield accounts come from unnamed military sources and cannot be independently checked. It is unclear whether the Southern Transitional Council, whose forces have largely stayed out of the fighting, will help defend Aden, or what role Saudi Arabia will play.",
+   "watchNext": "Whether government forces can hold the line west of Aden, any direct Saudi military involvement, and the safety of about 9,600 refugees at the Kharaz camp near the fighting.",
+   "keyFacts": [
+    "Houthi forces took the Kharaz base in Lahj province on Sunday, November 15, about 60 kilometres from Aden",
+    "The UN says more than 1,600 people have been killed and more than 300,000 displaced since fighting resumed in July",
+    "A Houthi missile strike on a Lahj checkpoint killed eight people and wounded twelve on Sunday",
+    "The Houthis released 600 captured government fighters, a release confirmed by the Red Cross",
+    "About 9,600 refugees live at the Kharaz camp, near the front line"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "After heavy clashes early on Sunday, government troops pulled out of the Kharaz base in the Al-Madaribah wa Al-Arah district, the largest in Lahj province, according to military sources quoted by AFP and Xinhua. One source told Xinhua that the base had guarded the western approaches to Aden and the routes to the Bab al-Mandab strait. The Houthis also took positions in Al-Maqatirah, a mountainous area on the main road between Aden and Taiz, a city they have besieged for weeks.",
+      "Houthi sources said they had moved into Red Sea coastal areas that government forces abandoned, giving them a presence stretching more than 150 kilometres from Dhubab towards Khor Amira."
+     ]
+    },
+    {
+     "heading": "The government’s response",
+     "paragraphs": [
+      "Officials said on Friday that forces had begun building sandbag barriers and digging tunnels around Aden. On Sunday the government said it was withdrawing troops from the coast to reinforce other positions, with Aden and nearby provinces the priority, while still trying to break the siege of Taiz.",
+      "A Xinhua source blamed the setbacks on the poor performance of the Aden-based Giants Brigades and on tensions between Saudi Arabia and the Southern Transitional Council. An analyst quoted by AFP pointed to divided command and so-called ghost soldiers who exist only on the payroll."
+     ]
+    },
+    {
+     "heading": "The human toll",
+     "paragraphs": [
+      "The UN says the renewed fighting, which began when the truce collapsed in July, has killed more than 1,600 people and displaced more than 300,000. The UN refugee agency has voiced concern about clashes near the Kharaz refugee camp. The Houthis described Sunday’s release of 600 prisoners as the largest unilateral pardon of the war and said their opponents had not reciprocated. The group tried and failed to take Aden in 2015."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Aden and the Houthi advance",
+    "bounds": [
+     41.5,
+     11.2,
+     47.5,
+     16.2
+    ],
+    "countries": [
+     "887"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 42.2,
+      "lat": 14.6,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Aden",
+      "lon": 46.3,
+      "lat": 12.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of southwestern Yemen, highlighted, with markers on Aden, the government's interim capital, and Taiz, which the Houthis have besieged; the fighting in Lahj province lies between and west of them.",
+    "caption": "Yemen highlighted for context · markers show cities named in reporting, not front lines"
+   },
+   "locations": [
+    {
+     "label": "Aden",
+     "lon": 45.03,
+     "lat": 12.79
+    },
+    {
+     "label": "Taiz",
+     "lon": 44.02,
+     "lat": 13.58
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The New Arab (AFP)",
+     "title": "Houthis advance on Aden as govt bolsters city defences",
+     "url": "https://www.newarab.com/news/houthis-advance-aden-govt-bolsters-city-defences",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Xinhua",
+     "title": "Houthis advance toward Yemen's Aden as gov't forces suffer fresh setbacks",
+     "url": "https://english.news.cn/20261115/64b1ad9ee9f4419989308a063a7d9edd/c.html",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "yemen-war",
+   "threadTitle": "Yemen’s war",
+   "threadSummary": "The renewed war between Yemen’s Houthi movement and the Saudi-backed government after a 2022 truce collapsed in July 2026."
+  },
+  {
+   "id": "russia-record-drone-claim-starshield",
+   "section": "world",
+   "title": "Russia says it shot down a record 1,336 Ukrainian drones overnight, as Zelensky says limits on SpaceX’s Starshield are weakening Ukraine’s air defence",
+   "category": "War in Ukraine",
+   "region": "Europe · Ukraine and Russia",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-15 / 2026-11-16",
+   "body": "Russia’s defence ministry said on Monday that its air defences intercepted 1,336 Ukrainian drones overnight, possibly the largest single attack of the war; Moscow’s mayor said about 600 had flown towards the capital region. Zelensky claimed Ukrainian strikes had disabled more than 55 per cent of Russia’s oil refining capacity, which could not be verified. He also said restrictions on SpaceX’s Starshield satellite link, which cuts contact with interceptor drones flying faster than 161 kilometres an hour, are letting Russian attack drones escape before winter.",
+   "whatChanged": "Ukraine’s long-range drone campaign reached a new scale by Moscow’s own count, and Zelensky publicly blamed SpaceX for a speed limit that he says stops his interceptors catching Russian Shahed drones.",
+   "whyMatters": "Both sides are trying to cripple the other’s energy system as winter approaches: Zelensky says Russia fired more than 2,300 drones at Ukraine in a week, while Ukraine targets refineries. A satellite network that Ukraine relies on but does not control has become a point of leverage.",
+   "uncertainty": "The 1,336 figure is Russia’s claim and the refining figure is Zelensky’s; neither can be checked independently. SpaceX and the US government had not responded publicly to Zelensky’s complaint, and it is not clear when the restrictions began.",
+   "watchNext": "Whether talks with Washington and SpaceX lift the Starshield limits, and further Russian strikes on Ukraine’s power grid as temperatures fall.",
+   "keyFacts": [
+    "Russia said it intercepted 1,336 Ukrainian drones overnight into Monday, November 16",
+    "Moscow’s mayor said about 600 drones flew towards the Moscow region, 191 of them downed near the capital",
+    "Zelensky said Russia fired more than 2,300 drones, 1,590 glide bombs and 15 missiles at Ukraine in the past week",
+    "Ukrainian interceptor drones lose their Starshield link above 161 kilometres an hour, Zelensky said",
+    "A Russian strike on Chornomorsk temporarily cut power to about 41,000 customers"
+   ],
+   "report": [
+    {
+     "heading": "The overnight attack",
+     "paragraphs": [
+      "Russia’s defence ministry gave the 1,336 figure on Monday morning, which the Press Trust of India described as possibly Kyiv’s biggest aerial attack since the full-scale invasion. Some earlier raids had used more than 1,000 drones. Moscow’s mayor, Sergei Sobyanin, said most of about 600 drones aimed at the Moscow region were downed far from the city, with 191 intercepted near it. Six people were wounded in the Krasnodar region and three in Azov, in the Rostov region, according to local officials.",
+      "Over the weekend Ukrainian drones also hit two electrical substations in the Rostov region, killing a chief engineer, and industrial sites in Nizhnekamsk in Tatarstan, where heating and hot water were disrupted."
+     ]
+    },
+    {
+     "heading": "The Starshield dispute",
+     "paragraphs": [
+      "Starshield is the military version of SpaceX’s satellite network. Zelensky said on Sunday that Ukrainian interceptor drones lose contact with their operators when flying faster than 161 kilometres an hour near the front and over occupied territory, too slow to catch Russian Shahed drones. On Saturday he questioned whether the problem was technical, saying SpaceX appeared to have imposed the limits despite assurances from Secretary of State Marco Rubio that the system was more under US government control. He said he had told his ministers to work with Washington and the company to have them lifted."
+     ]
+    },
+    {
+     "heading": "The war on energy",
+     "paragraphs": [
+      "A Russian strike on Chornomorsk, near Odesa, injured six people and damaged a power facility, a gas pipeline and homes. Overnight strikes on Zaporizhzhia injured six, including a two-year-old boy, and a strike on Dnipro on Monday killed one person. Prime Minister Serhii Koretskyi said attacks in the Zaporizhzhia and Dnipropetrovsk regions had left hundreds of thousands without electricity."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Drone war on energy",
+    "bounds": [
+     22,
+     43,
+     55,
+     58.5
+    ],
+    "countries": [
+     "804",
+     "643"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Ukraine and western Russia, both highlighted, with markers on Moscow, the main target of Ukraine's overnight drones, Nizhnekamsk, where industrial sites were hit, and Chornomorsk, Dnipro and Zaporizhzhia in Ukraine, hit by Russian strikes.",
+    "caption": "Countries highlighted for context · markers show places named in reporting"
+   },
+   "locations": [
+    {
+     "label": "Moscow",
+     "lon": 37.62,
+     "lat": 55.76
+    },
+    {
+     "label": "Nizhnekamsk",
+     "lon": 51.82,
+     "lat": 55.64
+    },
+    {
+     "label": "Chornomorsk",
+     "lon": 30.66,
+     "lat": 46.3
+    },
+    {
+     "label": "Dnipro",
+     "lon": 35.05,
+     "lat": 48.46
+    },
+    {
+     "label": "Zaporizhzhia",
+     "lon": 35.14,
+     "lat": 47.84
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Telangana Today (PTI)",
+     "title": "Ukraine launches massive drone assault on Russia, Moscow claims 1,336 intercepted",
+     "url": "https://telanganatoday.com/ukraine-launches-massive-drone-assault-on-russia-moscow-claims-1336-intercepted",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "PBS NewsHour (Associated Press)",
+     "title": "Zelenskyy says Starshield restrictions threaten Ukraine's energy defenses ahead of winter",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, attacks on Ukrainian cities and infrastructure, and the diplomacy and security arrangements around it."
+  },
+  {
+   "id": "czech-public-media-letna-protest",
+   "section": "world",
+   "title": "Hundreds of thousands rally in Prague against the Czech government’s plan to end licence-fee funding for public TV and radio",
+   "category": "Press freedom",
+   "region": "Europe · Czech Republic",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-15",
+   "body": "Organisers estimated that 350,000 to 450,000 people filled the Letná plain in Prague on Sunday to oppose Prime Minister Andrej Babiš’s plan to fund Czech Television and Czech Radio from the state budget instead of licence fees. Police gave no number but confirmed it was the largest gathering they had ever monitored. Protesters demanded that the bill be withdrawn and that the speaker of parliament, Tomio Okamura, be removed. Babiš said he respected the right to protest but would press ahead, insisting nobody wants to control public media.",
+   "whatChanged": "The campaign against the media bill produced what organisers called the largest Czech protest since 1989, and the government said it would not change course.",
+   "whyMatters": "Press freedom groups, including the European Broadcasting Union, warn that the plan would make the broadcasters dependent on the government of the day, as happened in Hungary and Slovakia. Public broadcasters remain the most trusted news brands in the country.",
+   "uncertainty": "All crowd figures come from the organisers; police declined to publish an estimate. The bill has passed only its first reading, and no date has been reported for the remaining votes.",
+   "watchNext": "The anniversary of the Velvet Revolution on Tuesday, November 17, the organisers’ nationwide warning protest on December 2, and the bill’s next reading in parliament.",
+   "keyFacts": [
+    "Organisers estimated 350,000 to 450,000 protesters on Letná, in Prague, on Sunday, November 15",
+    "The bill would replace licence fees with state funding and cut the broadcasters’ budgets by about 15 per cent",
+    "Parliament passed the first reading in an overnight vote in October, recorded at 4:36 in the morning",
+    "About 750,000 people gathered on Letná on November 25, 1989",
+    "Czech Television and Czech Radio staff held a one-day strike on November 3"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "The rally, organised by the civic group Million Moments for Democracy, was named after the time of the overnight parliamentary vote that advanced the bill in October. Its chairman, Mikuláš Minář, put attendance at about 400,000. Many protesters wore paper hats borrowed from a well-known Czech television cartoon, and banners declared that people would not give the media away. The event was largely peaceful; medics treated 27 people, two of whom went to hospital.",
+      "Organisers presented a petition demanding that the government withdraw the bill, apologise for the overnight vote and remove Okamura, leader of the far-right SPD, as speaker. They called a public debate and a nationwide warning protest for December 2."
+     ]
+    },
+    {
+     "heading": "The government’s answer",
+     "paragraphs": [
+      "Babiš’s coalition of his ANO party, the SPD and the Motorists says the change will not affect editorial independence and that the broadcasters need to cut costs. Babiš said the protesters’ objections were untrue. Foreign Minister Petr Macinka called the rally an opposition event, and Okamura accused the organisers of working with opposition parties. ANO still polls at around 30 per cent."
+     ]
+    },
+    {
+     "heading": "Why it resonates",
+     "paragraphs": [
+      "The rally took place two days before the anniversary of the 1989 Velvet Revolution, on the same plain where about 750,000 people gathered that November. Organisers stressed a link of place and timing rather than an equivalence, since today’s protesters are challenging an elected government. The European Federation of Journalists, Reporters Without Borders and the International Press Institute have also criticised the plan, which Culture Minister Oto Klempíř introduced in April."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Prague",
+    "bounds": [
+     11.5,
+     48.2,
+     19.5,
+     51.4
+    ],
+    "countries": [
+     "203"
+    ],
+    "alt": "Map of the Czech Republic, highlighted, with a marker on Prague, where the protest on the Letná plain took place.",
+    "caption": "The Czech Republic highlighted · marker shows Prague"
+   },
+   "locations": [
+    {
+     "label": "Prague",
+     "lon": 14.42,
+     "lat": 50.1
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Expats.cz",
+     "title": "Echoes of 1989 on Letná: Prague protest largest since Velvet Revolution",
+     "url": "https://www.expats.cz/czech-news/article/echoes-of-1989-on-letna-prague-protest-over-media-funding-draws-400-000",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TheJournal.ie (AFP)",
+     "title": "Hundreds of thousands protest in Czechia over public-media funding overhaul",
+     "url": "https://thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "czech-public-media",
+   "threadTitle": "The fight over Czech public media",
+   "threadSummary": "Protests against the Czech government’s plan to fund public television and radio from the state budget instead of licence fees."
+  },
+  {
+   "id": "cop31-first-draft-fossil-fuels",
+   "section": "world",
+   "title": "COP31’s first draft deal calls for faster action to phase out fossil fuels, but oil producers and large developing countries are pushing back",
+   "category": "Climate diplomacy",
+   "region": "Europe · Türkiye",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-14 / 2026-11-16",
+   "body": "Australia, which is steering the negotiations in Antalya, released the first draft of the summit’s overall political decision on Monday. It calls for accelerated action to phase out fossil fuels, expresses deep concern that the 1.5C warming limit is about to be breached, and proposes tripling adaptation finance for poorer countries to at least 120 billion dollars. Over the weekend, Arab states and a bloc of large developing countries rejected new sector targets, and Saudi Arabia opposed citing Brazil’s fossil fuel roadmap. A deal is due by Friday.",
+   "whatChanged": "Last week’s outline became negotiating text, with stronger fossil fuel language than recent summits adopted, just as several blocs set out objections that will make it hard to keep.",
+   "whyMatters": "The draft is the first concrete test of whether nearly 200 countries will recommit to moving away from fossil fuels during an energy crisis driven by the Iran war. Adaptation money matters most to poorer countries already paying for climate damage.",
+   "uncertainty": "Any line of the draft can still be cut, and it sets out competing positions rather than agreements. Developed countries have brought little new money, which limits what they can offer in return for stronger commitments.",
+   "watchNext": "Ministers’ responses when the Turkish presidency convenes them midweek, and whether the fossil fuel and adaptation finance language survives to the scheduled close on Friday, November 20.",
+   "keyFacts": [
+    "Australia released the first draft cover decision on Monday, November 16",
+    "The draft proposes tripling adaptation finance to at least 120 billion dollars",
+    "Türkiye’s electrification pledge aims for electricity to provide 35 per cent of final energy use by 2035",
+    "Canada will lend up to 560 million Canadian dollars to the tropical forests fund, bringing pledges to about 8.2 billion dollars",
+    "The summit is scheduled to close on Friday, November 20"
+   ],
+   "report": [
+    {
+     "heading": "What the draft says",
+     "paragraphs": [
+      "The text calls for an immediate transition away from fossil fuels in energy systems, recognises the central role of the Intergovernmental Panel on Climate Change’s science, and warns of the approaching breach of the Paris Agreement’s 1.5C goal, AFP reported. It needs approval by consensus from nearly 200 countries. European governments and climate-vulnerable developing countries had pushed for the science reference and a faster exit from fossil fuels."
+     ]
+    },
+    {
+     "heading": "The objections",
+     "paragraphs": [
+      "At a late-night stocktaking session on Saturday, the Arab Group and the Like-Minded Developing Countries said they did not want new sector targets in the decision, a rebuff to the Turkish presidency’s pledge to expand electrification, Climate Home News reported. Saudi Arabia rejected any reference to Brazil’s roadmap for moving away from fossil fuels, and India opposed citing scientific reports produced outside the UN process. Several groups also want talks on reforming the UN climate process kept out.",
+      "Germany’s negotiator, Heike Henn, said anchoring the roadmap and the electrification goal in the text was not essential, and that new numerical goals belong in the next global stocktake in 2028."
+     ]
+    },
+    {
+     "heading": "Money",
+     "paragraphs": [
+      "Developing countries want the adaptation pledge defined as at least 120 billion dollars a year by 2035, and donors have resisted specifics. Canada’s new loan to the Tropical Forest Forever Facility leaves the fund about 1.8 billion dollars short of the 10 billion dollar target that Norway set as a condition for its own 3 billion dollar pledge."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Antalya, host of COP31",
+    "bounds": [
+     25,
+     34,
+     45,
+     43
+    ],
+    "countries": [
+     "792"
+    ],
+    "labels": [
+     {
+      "label": "Mediterranean Sea",
+      "lon": 30,
+      "lat": 34.8,
+      "kind": "water"
+     },
+     {
+      "label": "Black Sea",
+      "lon": 35,
+      "lat": 42.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Türkiye, highlighted, with a marker on Antalya on the Mediterranean coast, where the COP31 climate summit is being held.",
+    "caption": "Türkiye highlighted · marker shows the summit venue"
+   },
+   "locations": [
+    {
+     "label": "Antalya",
+     "lon": 30.71,
+     "lat": 36.89
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Arab News (AFP)",
+     "title": "COP31 draft deal calls for ‘accelerated action’ to exit fossil fuels",
+     "url": "https://www.arabnews.com/world/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels-3012249",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Climate Home News",
+     "title": "COP31 Bulletin Day 7: Sharp divisions lower expectations for COP outcome",
+     "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/",
+     "publishedAt": "2026-11-16",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "cop31-climate-summit",
+   "threadTitle": "The COP31 climate summit",
+   "threadSummary": "The UN’s 2026 climate conference in Antalya, Türkiye, and the negotiations on emissions, energy and climate finance."
+  },
+  {
+   "id": "canary-islands-2200-arrivals",
+   "section": "more",
+   "title": "Nearly 2,200 migrants reach Spain’s Canary Islands in two days, most of them landing on the small island of El Hierro",
+   "category": "Migration",
+   "region": "Europe · Spain",
+   "regions": [
+    "europe",
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-14 / 2026-11-15",
+   "whatChanged": "Arrivals surged days after Spain declared a migration emergency on the islands, with one day’s total close to the route’s record.",
+   "body": "Spain’s maritime rescue service said it helped 1,324 people on 14 dinghies in a single day, most of them reaching El Hierro, which has about 12,000 residents; the daily record of 1,461 was set in November 2020. More than 13,000 people reached the Canaries by sea between January and October, most on boats from Mauritania. The surge comes about two weeks before Spain’s early general election.",
+   "sources": [
+    {
+     "publisher": "Associated Press (via WRAL)",
+     "title": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says",
+     "url": "https://www.wral.com/news/ap/c4aeb-spain-says-nearly-2-200-migrants-have-reached-canary-islands-in-2-days/",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "canary-islands-migration",
+   "threadTitle": "Migration to the Canary Islands",
+   "threadSummary": "Boat arrivals on the Atlantic route from West Africa to Spain’s Canary Islands, one of the world’s deadliest migration routes."
+  },
+  {
+   "id": "nvidia-huang-reinstatement-petition",
+   "section": "more",
+   "title": "More than 165,000 people sign a letter urging Nvidia to reinstate Jensen Huang, a day before its first results without him",
+   "category": "Technology",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-13 / 2026-11-16",
+   "whatChanged": "The Financial Times reported that Huang has discussed a comeback with confidants, as Elon Musk and others back a public campaign for his return.",
+   "body": "Huang stepped down on November 12 after reports about his relationship with a former executive of Megaspeed, whom US officials reportedly suspect of links to Chinese intelligence; the allegations are unproven and Beijing rejects them. Signatures on the Stand with Jensen letter are not verified, and organisers have removed fake ones. Interim chief executive Colette Kress presents quarterly results on Tuesday.",
+   "sources": [
+    {
+     "publisher": "The Next Web",
+     "title": "More than 175,000 names back a call to reinstate Jensen Huang at Nvidia",
+     "url": "https://thenextweb.com/news/stand-with-jensen-letter-nvidia-board-huang-return",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "International Business Times UK",
+     "title": "Elon Musk Backs Jensen Huang's Return as Nvidia CEO as 165,000 Sign Petition After His Resignation",
+     "url": "https://www.ibtimes.co.uk/elon-musk-backs-jensen-huang-return-nvidia-ceo-1832532",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "Competition between the United States and China over AI chips, models and the rules governing their trade."
+  },
+  {
+   "id": "estonia-closes-russia-border",
+   "section": "more",
+   "title": "Estonia will close all its border crossings with Russia from December 1, after a foiled arson attack on a drone maker",
+   "category": "European security",
+   "region": "Europe · Estonia",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-14 / 2026-11-15",
+   "whatChanged": "Estonia moved to shut every crossing with Russia, blaming Russian military intelligence for the plot.",
+   "body": "Foreign Minister Margus Tsahkna announced the closure on Sunday. It follows a failed attempt early on Saturday to set fire to Threod Systems, a drone company in Viimsi, which Estonia’s security service says was ordered by Russia’s GRU. Prime Minister Kristen Michal blamed Moscow, and the broadcaster ERR reported that eight Latvian citizens had been detained.",
+   "sources": [
+    {
+     "publisher": "Anadolu Agency",
+     "title": "Estonia to close all border crossings with Russia from Dec. 1: Foreign minister",
+     "url": "https://www.aa.com.tr/en/europe/estonia-to-close-all-border-crossings-with-russia-from-dec-1-foreign-minister/4125957",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "PBS NewsHour (Associated Press)",
+     "title": "Zelenskyy says Starshield restrictions threaten Ukraine's energy defenses ahead of winter",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "europe-hybrid-threats",
+   "threadTitle": "Sabotage and disruption in Europe",
+   "threadSummary": "Suspected sabotage, espionage, cyberattacks and hoaxes targeting European infrastructure and transport."
+  },
+  {
+   "id": "pope-leo-peru-amazon",
+   "section": "more",
+   "title": "Pope Leo calls for justice for murdered Indigenous land defenders on a visit to Peru’s Amazon",
+   "category": "Religion",
+   "region": "Latin America · Peru",
+   "regions": [
+    "latin-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-15",
+   "whatChanged": "The pope took his South American tour to the rainforest, where Indigenous leaders told him 37 defenders had been killed since 2018.",
+   "body": "Pope Leo XIV flew from Chiclayo to Cusco on Sunday, where the Vatican said about 500,000 people lined the streets, and then to Pucallpa in the Amazon. There he said the blood of murdered land defenders cries out for justice, and at a Mass for about 100,000 people he condemned the drive for domination behind environmental destruction. He was due to hold a final Mass in Callao on Monday before returning to Rome.",
+   "sources": [
+    {
+     "publisher": "OSV News (via The Catholic Sun)",
+     "title": "From the Andes to the Amazon, Pope Leo flies from Cusco to the rainforest in whirlwind day in Peru",
+     "url": "https://www.catholicsun.org/2026/11/15/from-the-andes-to-the-amazon-pope-leo-flies-from-cusco-to-the-rainforest-in-whirlwind-day-in-peru/",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "pope-leo-latin-america-2026",
+   "threadTitle": "Pope Leo XIV in South America",
+   "threadSummary": "Pope Leo XIV’s November 2026 tour of Uruguay, Argentina and Peru."
+  },
+  {
+   "id": "knesset-speaker-vote-unity-talks",
+   "section": "more",
+   "title": "Gadi Eisenkot’s bloc moves to replace Israel’s Knesset speaker on Tuesday, as unity talks between Netanyahu and Eisenkot stall",
+   "category": "Israeli politics",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-15",
+   "whatChanged": "After losing his majority in the October 27 election, Netanyahu faces a vote that would take the speaker’s chair from his Likud party.",
+   "body": "Gadi Eisenkot’s bloc wants to replace Speaker Amir Ohana of Likud with Matan Kahana, in a vote set for Tuesday. Negotiating teams from Likud and Eisenkot’s Yashar party met on Sunday about a possible unity government, with reports of no progress. Separately, Yair Golan’s Democrats will chair a Knesset committee set up to repeal central laws of the judicial overhaul.",
+   "sources": [
+    {
+     "publisher": "The Times of Israel",
+     "title": "Liveblog, November 15, 2026",
+     "url": "https://www.timesofisrael.com/liveblog-november-15-2026/",
+     "publishedAt": "2026-11-15",
+     "kind": "Live reporting"
+    }
+   ],
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel’s October 2026 general election and the effort to form a government afterwards."
+  },
+  {
+   "id": "vulcan-failure-amazon-leo",
+   "section": "frontiers",
+   "field": "Space",
+   "title": "A United Launch Alliance Vulcan rocket fails ten minutes after launch, destroying 40 Amazon Leo internet satellites",
+   "category": "Launch failure",
+   "region": "North America · United States",
+   "regions": [],
+   "status": "Major development",
+   "eventDate": "2026-11-15",
+   "hook": "A first outright failure for the rocket Amazon is counting on for nearly half its network, and a setback for the main challenger to Starlink.",
+   "body": "The Vulcan lifted off from Cape Canaveral at 12:40 p.m. Eastern time on Sunday, on the first of 38 flights Amazon has bought. About ten minutes in, during the upper stage’s burn, the rocket suffered an anomaly and failed to reach orbit, ULA said. It was the company’s first outright mission failure since it was formed in 2006, and only Vulcan’s fifth flight, its first after a nine-month pause over booster nozzle problems. Northrop Grumman said its boosters performed normally.",
+   "whatChanged": "Vulcan’s return to flight ended with the loss of its payload, the largest single batch of Amazon Leo satellites so far.",
+   "whyMatters": "Amazon plans to launch about 1,500 satellites, nearly half its network, on Vulcan, and needs more than 3,300 in all. With Blue Origin’s New Glenn also grounded, the failure narrows the choice of heavy rockets for US customers, including the Space Force.",
+   "uncertainty": "ULA has not identified a cause. Spaceflight Now observed that the first stage seemed to burn longer than planned and the upper stage made unusual movements, but these are observations, not findings. How long Vulcan will be grounded is unknown.",
+   "watchNext": "The findings of ULA’s investigation, the Space Force’s decision on national security launches on Vulcan, and whether Amazon moves satellites to other rockets.",
+   "keyFacts": [
+    "Launch: 12:40 p.m. Eastern time on Sunday, November 15, from Cape Canaveral",
+    "40 Amazon Leo satellites were lost; the flight would have brought the total launched to 436",
+    "It was ULA’s first outright failure since the company was formed in 2006",
+    "Amazon has bought 38 Vulcan launches and plans to put about 1,500 satellites on them"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "The launch had slipped twice, on Friday because of a power cut at a nitrogen supply plant and on Saturday because of a communications fault between ground equipment and the rocket. On Sunday the six solid boosters burned out and separated normally, the main stage shut down and the Centaur upper stage ignited. The last update on the broadcast, at about nine and a half minutes, showed the flight on track. ULA then said the vehicle had suffered an anomaly and failed to deliver the satellites to orbit.",
+      "Spaceflight Now reported that the main stage appeared to fire for longer than planned and that telemetry showed the Centaur making unusual adjustments early in its burn. ULA has given no details."
+     ]
+    },
+    {
+     "heading": "Reactions",
+     "paragraphs": [
+      "ULA said the flight did not meet its standard and promised a transparent investigation and a quick return to flight. Amazon said every launch carries risk, especially a first mission of its kind, and that it expects ULA to learn from it. NASA’s administrator, Jared Isaacman, offered the agency’s help."
+     ]
+    },
+    {
+     "heading": "What it means",
+     "paragraphs": [
+      "ULA, a Boeing and Lockheed Martin partnership, has flown eight Amazon missions on its older Atlas V. Vulcan had been out of service since February, when the Space Force paused national security launches on it after problems with the boosters’ nozzles; ULA says it fixed all three possible causes. Amazon has also booked flights on Blue Origin’s New Glenn, Europe’s Ariane 6 and SpaceX’s Falcon 9, but New Glenn has been grounded since an explosion on the launch pad in May."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-16/vulcan-failure-amazon-leo.svg",
+    "alt": "A rocket upper stage tumbling away below a dashed orbital path that it never reaches, with debris trailing, standing for the Vulcan rocket that failed to put Amazon's satellites into orbit.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Spaceflight Now",
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Via Satellite",
+     "title": "ULA Vulcan Rocket Suffers Anomaly During First Amazon Leo Launch",
+     "url": "https://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "satellite-internet-constellations",
+   "threadTitle": "The race for satellite internet",
+   "threadSummary": "The build-out of large low-orbit internet constellations such as SpaceX’s Starlink and Amazon Leo, and the rockets that launch them."
+  },
+  {
+   "id": "google-antigravity-teamwork-proofs",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Google says teams of its AI agents built a machine-checked proof of the Weil conjectures and settled a 13-year-old information theory problem",
+   "category": "AI for mathematics",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-13",
+   "hook": "If the results hold up, a striking show of AI producing long, checkable mathematics, but for now they are Google’s own claims, without independent review.",
+   "body": "In a research blog post on Friday, Google described a feature of its Antigravity coding tool that runs many AI agents in parallel and checks their output with tools such as the Lean proof checker. Google says one such system wrote about 1.8 million lines of Lean to formalise the Weil conjectures, which Pierre Deligne proved in 1974, using 28,800 agent calls. It also says its Gemini models, working with academic collaborators, helped prove the 2013 Courtade–Kumar conjecture in full generality.",
+   "whatChanged": "Google moved from AI assisting with individual proofs to claiming complete, machine-checked formalisations of major mathematics by coordinated agents, and opened the tools to outside researchers.",
+   "whyMatters": "A proof checked by Lean does not depend on trusting the AI that wrote it, only on the theorem being stated correctly, which Google says human mathematicians confirmed. That makes formal mathematics one of the clearest ways to measure what AI agents can really do.",
+   "uncertainty": "None of the results has been independently reviewed, and coverage did not say whether the Lean code has been released. Formalising a known proof, as with the Weil conjectures, is a different achievement from discovering a new one.",
+   "watchNext": "Release of the Lean code and papers, responses from mathematicians, and what the 10,000 academic researchers offered free access produce with the tools.",
+   "keyFacts": [
+    "Google Research published the results on Friday, November 13",
+    "The Weil conjectures formalisation runs to about 1.8 million lines of Lean, from 28,800 agent calls",
+    "Google says its Courtade–Kumar proof was formalised in Lean at about 50 million lines",
+    "Google is offering 10,000 academic researchers six months of free top-tier access"
+   ],
+   "report": [
+    {
+     "heading": "What Google announced",
+     "paragraphs": [
+      "The feature, called /teamwork, splits a problem among many agents, each seeing only the files and tools it needs, and checks their work against automated tests: the Lean 4 proof checker for mathematics, test suites for code and simulators for science. Separate critic agents review results without seeing the reasoning that produced them.",
+      "Besides the Weil conjectures, Google listed formalisations related to Hilbert’s tenth problem and a reproduced Navier-Stokes blowup result, which Interesting Engineering notes is not a solution to the Millennium Prize problem. It also reported results in chemistry, software and computer science, including a rewrite of a video decoder in Rust that ended up 20 to 30 per cent faster than the original."
+     ]
+    },
+    {
+     "heading": "The role of people",
+     "paragraphs": [
+      "Google says researchers framed the questions and set constraints, human mathematicians confirmed that the formal statements matched the original problems, and authors checked and edited the outputs. For the Courtade–Kumar problem, a team at the Chinese University of Hong Kong first reduced it to an optimisation over 14 variables, and Gemini then produced most of the bounds and certificates."
+     ]
+    },
+    {
+     "heading": "Limits",
+     "paragraphs": [
+      "All of the claims are Google’s, and Interesting Engineering found no independent expert commentary and no information on peer review. Google did not give error rates for the mathematical work, and the formal proof workflow is not yet available to outside users; Google says it will follow in later updates."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-16/google-antigravity-teamwork-proofs.svg",
+    "alt": "Many small workers on either side passing blocks into one tall stack topped by a check mark, standing for teams of AI agents assembling a machine-checked proof.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Google Research",
+     "title": "Advancing science & engineering with Antigravity’s /teamwork",
+     "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+     "publishedAt": "2026-11-13",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "Interesting Engineering",
+     "title": "Google's Antigravity agents formalise major mathematical proofs",
+     "url": "https://interestingengineering.com/ai-robotics/google-antigravity-multi-agent-research",
+     "publishedAt": "2026-11-13",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-and-research",
+   "threadTitle": "AI & scientific research",
+   "threadSummary": "How AI systems are being used to make, speed up or check scientific discoveries."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Nvidia after Huang",
+   "text": "Interim chief executive Colette Kress presents Nvidia’s quarterly results on Tuesday, November 17, as calls grow for Jensen Huang’s return."
+  },
+  {
+   "title": "Three leaders in Shenzhen",
+   "text": "Trump meets Xi Jinping on Thursday, November 19, before the first three-way meeting with Vladimir Putin, with nuclear weapons and Iran on the agenda."
+  },
+  {
+   "title": "COP31’s endgame",
+   "text": "Ministers weigh the first draft deal this week, with the Antalya talks due to close on Friday, November 20."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "A Vulcan rocket failure destroyed 40 Amazon satellites, Nvidia faced calls to bring back Jensen Huang before Tuesday’s results, and Canada’s prime minister said Chinese carmakers could be an option if US trade talks fail.",
+   "briefs": [
+    {
+     "title": "Carney says Canada could look to Chinese carmakers if US trade talks fail",
+     "text": "Speaking in Phnom Penh, Prime Minister Mark Carney said a deal with Washington remains his priority, but that if talks fail to keep North America’s car industry integrated, Canada could court European, Japanese or Chinese manufacturers. He said any Chinese investment would have to bring real manufacturing and supply chains to Canada, not just assembly. He is due to meet Xi Jinping in Shenzhen this week.",
+     "eventDate": "2026-11-15 / 2026-11-16",
+     "sources": [
+      {
+       "publisher": "Associated Press (via ABC News)",
+       "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+       "url": "https://abcnews.com/International/wireStory/carney-canada-turn-chinese-automakers-trump-trade-talks-138168098",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Pope Leo XIV took his Peru visit to the Amazon, and the founder of Mexico’s Guadalajara cartel died in hospital.",
+   "briefs": [
+    {
+     "title": "Guadalajara cartel founder Miguel Ángel Félix Gallardo dies at 80",
+     "text": "Miguel Ángel Félix Gallardo, who founded Mexico’s Guadalajara cartel, died on Sunday afternoon in a private hospital in Guadalajara; local security officials said the cause was multiple organ failure. He had been in prison since his arrest in 1989, and his conviction over the 1985 killing of US drug agent Enrique Camarena lengthened his sentence. His lawyers had repeatedly sought house arrest on health grounds.",
+     "eventDate": "2026-11-15",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+       "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison",
+       "publishedAt": "2026-11-16",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "Hundreds of thousands protested in Prague over public media, Russia reported a record Ukrainian drone attack, Estonia said it will close its Russian border, and COP31 produced a first draft deal in Antalya.",
+   "briefs": [
+    {
+     "title": "Drones hit three merchant ships near Romania’s Sulina canal in the Black Sea",
+     "text": "Prime Minister Luca Niculescu said drones struck three commercial ships near the Sulina canal late on Saturday, two of them inside Romanian waters: the tankers Evia Petrol V and Ali Najafov and the bulk carrier Marsol. No one was hurt and crews put out the fires. Romania did not say where the drones came from but called the strikes a consequence of Russia’s war in Ukraine; it scrambled fighter jets, and France sent a maritime patrol aircraft at its request.",
+     "eventDate": "2026-11-14 / 2026-11-15",
+     "sources": [
+      {
+       "publisher": "Reuters (via gCaptain)",
+       "title": "Three Ships Struck By Drones In Black Sea Near Romanian Shipping Canal",
+       "url": "https://gcaptain.com/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal/",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Cape Verde voted for a president with a woman on the ballot for the first time, and record numbers of migrants from West Africa reached the Canary Islands.",
+   "briefs": [
+    {
+     "title": "Cape Verde votes in a presidential race with its first female candidate",
+     "text": "More than 300,000 people were eligible to vote in Cape Verde’s presidential election on Sunday. President José Maria Neves is seeking a second term and is seen as the favourite; his main challenger, former justice minister Joana Rosa, is the first woman to run since independence in 1975. Results were expected within two to three days, with a run-off on November 29 if no one wins a majority.",
+     "eventDate": "2026-11-15",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Polls open in Cape Verde in race with first female presidential candidate",
+       "url": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Iran attacked Bahrain and shipping near Hormuz as a third US carrier arrived, Houthi forces closed in on Aden, and Israel’s parliament prepared to vote on a new speaker.",
+   "briefs": [
+    {
+     "title": "Israeli strike kills the commander of Hamas’s Rafah Brigade in southern Gaza",
+     "text": "A drone strike on a tent for displaced people in al-Mawasi, Khan Younis, early on Saturday killed Samir Abu Younis, commander of Hamas’s Rafah Brigade, and wounded two others; Hamas confirmed his death on Sunday. His predecessor was killed two months earlier. Gaza’s health ministry says at least 1,643 people have been killed since the ceasefire of October 2025.",
+     "eventDate": "2026-11-14 / 2026-11-15",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Israeli air strike kills senior Hamas commander in Gaza",
+       "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Israel kills a top Hamas commander as Jordan sentences three over church attack",
+       "url": "https://abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Jordan sentences three men to death over a deadly attack on a church in Karak",
+     "text": "Jordan’s State Security Court on Sunday sentenced two brothers and their brother-in-law to death for terrorism over the October 23 shooting at a Greek Orthodox church in Karak, in which nine mourners were killed. The men were arrested three days after the attack following a shootout with security forces. Officials said they followed an extremist ideology but did not belong to an organised group.",
+     "eventDate": "2026-11-15",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Israel kills a top Hamas commander as Jordan sentences three over church attack",
+       "url": "https://abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Police in Manila arrested more than 200 protesters as the ASEAN summit opened, ahead of President Trump’s arrival.",
+   "briefs": [
+    {
+     "title": "Philippine police arrest more than 200 protesters as the ASEAN summit opens in Manila",
+     "text": "On the summit’s opening day on Sunday, police stopped marchers protesting against a proposed regional technology initiative and President Trump’s planned visit. Police reported 236 people held in Muntinlupa and others in Manila and Bulacan, while the activist group BAYAN put the total near 300. Police cited obstruction and the lack of a permit; rights lawyers said none is needed in designated freedom parks, and about 211 people were still held on Monday.",
+     "eventDate": "2026-11-15 / 2026-11-16",
+     "sources": [
+      {
+       "publisher": "Daily Tribune (Philippines)",
+       "title": "ASEAN Protest: Over 200 Arrested in Largest Single-Day Crackdown Under Marcos Jr.",
+       "url": "https://tribune.net.ph/2026/11/16/asean-protest-arrests-biggest-single-day-mass-arrest-under-marcos-jr-bayan",
+       "publishedAt": "2026-11-16",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Australia’s Coles supermarket chain investigated a weekend cyber incident, and New Zealand awaits its official election count on November 27.",
+   "briefs": [
+    {
+     "title": "Coles investigates a weekend cyber incident but finds no sign of data theft",
+     "text": "The supermarket chain Coles told the Australian stock exchange on Monday that it was investigating a cyber incident from the weekend with outside security experts. It said it had found no evidence that customer, staff or supplier data had been compromised, and that stores and online shopping were running normally, although some Liquorland click-and-collect orders were affected.",
+     "eventDate": "2026-11-14 / 2026-11-16",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
+       "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134",
+       "publishedAt": "2026-11-16",
+       "kind": "Live reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

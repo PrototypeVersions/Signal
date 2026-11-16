@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A rocket upper stage tumbling off course below a dashed orbit it never reaches">
+  <rect width="800" height="500" fill="#09131d"/>
+  <circle cx="90" cy="70" r="2.5" fill="#d6e6f2"/><circle cx="700" cy="60" r="2" fill="#7fa6c4"/><circle cx="610" cy="130" r="2" fill="#d6e6f2"/><circle cx="180" cy="160" r="2" fill="#7fa6c4"/><circle cx="420" cy="40" r="2.5" fill="#7fa6c4"/>
+  <path d="M-40 520 A 640 640 0 0 1 840 520" fill="#12263a" stroke="#2c4f6e" stroke-width="5"/>
+  <path d="M20 330 C 220 150 580 150 780 330" fill="none" stroke="#7fa6c4" stroke-width="4" stroke-dasharray="14 12"/>
+  <path d="M150 470 C 230 380 300 320 380 290" fill="none" stroke="#c8875a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M380 290 C 420 270 450 255 470 250" fill="none" stroke="#c8875a" stroke-width="4" stroke-linecap="round" stroke-dasharray="6 10"/>
+  <g transform="translate(520 245) rotate(118)">
+    <rect x="-22" y="-80" width="44" height="130" rx="6" fill="#d6e6f2" stroke="#7fa6c4" stroke-width="4"/>
+    <path d="M-22 -80 C -22 -112 22 -112 22 -80 Z" fill="#7fa6c4"/>
+    <path d="M-14 50 L-22 74 L22 74 L14 50 Z" fill="#2c4f6e"/>
+  </g>
+  <g fill="#c8875a"><circle cx="590" cy="200" r="5"/><circle cx="610" cy="225" r="4"/><circle cx="570" cy="230" r="3.5"/><circle cx="625" cy="195" r="3"/><circle cx="600" cy="180" r="3"/></g>
+</svg>

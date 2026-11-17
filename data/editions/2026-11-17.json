@@ -1,0 +1,1250 @@
+{
+ "date": "2026-11-17",
+ "number": 31,
+ "cutoff": "2026-11-17T12:30:00Z",
+ "cutoffLabel": "6:30 AM CT",
+ "opening": "Ukraine struck the Crimean bridge for a second night, and Russia admitted structural damage while hitting bridges in Kyiv. A leak of 15 million Deutsche Bank files was published, another tanker was attacked near Hormuz, oil producers rejected COP31’s draft, and Trump began his Asia trip in Manila.",
+ "leadStoryId": "kerch-bridge-struck-kyiv-bridges-hit",
+ "stories": [
+  {
+   "id": "kerch-bridge-struck-kyiv-bridges-hit",
+   "section": "world",
+   "title": "Ukraine strikes the Crimean bridge on two nights running, and Russia admits structural damage, as Russian strikes hit two bridges in Kyiv",
+   "category": "War in Ukraine",
+   "region": "Europe · Ukraine, Crimea and Russia",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-16 / 2026-11-17",
+   "body": "Ukraine attacked the road and rail bridge across the Kerch Strait early on Monday and again early on Tuesday, and Russian authorities suspended all traffic. Russia’s Investigative Committee confirmed structural damage and opened a terrorism case. Images circulating online appear to show part of the road deck and a steel arch in the water, though they have not been independently verified. President Zelensky said Ukrainian drones and missiles were used. Overnight, Russian missiles hit Kyiv’s Northern and Southern bridges over the Dnipro.",
+   "whatChanged": "Yesterday’s record drone barrage turned into a sustained assault on the bridge linking Crimea to Russia, which Moscow now says is structurally damaged, while Russia answered by striking the bridges and utilities of Ukraine’s capital.",
+   "whyMatters": "The bridge links Russia directly to occupied Crimea, serves as a key supply route and stands as a symbol of Moscow’s 2014 annexation. Taking it out of use, even for a time, strains supplies to Russian forces in the south and comes days before Vladimir Putin meets Donald Trump and Xi Jinping in China.",
+   "uncertainty": "How badly the bridge is damaged, whether the rail section still works and how long repairs will take are not yet clear. Russia’s count of 1,441 Ukrainian drones overnight could not be verified, and Ukraine has not detailed which weapons hit which part of the crossing.",
+   "watchNext": "Russian statements on repairs and when traffic may resume, further strikes on Kyiv’s bridges and power supply, and whether the war comes up when Trump, Xi and Putin meet in Shenzhen on Thursday.",
+   "keyFacts": [
+    "Ukraine attacked the Kerch bridge early on Monday, November 16, and again early on Tuesday, November 17",
+    "Russia’s Investigative Committee confirmed structural damage from both attacks and opened a terrorism case",
+    "Russia said it intercepted 1,441 Ukrainian drones overnight into Tuesday, after claiming 1,336 the night before",
+    "The bridge, about 19 kilometres long, opened in 2018 and was previously hit in 2022, 2023 and 2025",
+    "Russian strikes hit Kyiv’s Northern and Southern bridges, and about 700,000 households in Dnipropetrovsk region lost power"
+   ],
+   "report": [
+    {
+     "heading": "Two nights of attacks",
+     "paragraphs": [
+      "The first attack came in the early hours of Monday, when a monitoring channel reported traffic halted at about 2:22 a.m. Moscow time. Sergei Aksyonov, the Russian-installed head of Crimea, at first said the crossing would reopen around midday, and Kremlin spokesman Dmitry Peskov called the initial damage minor. Ukrainian monitoring channels shared satellite images that they said showed damage to the deck in at least two places.",
+      "Ukraine struck again before dawn on Tuesday. Aksyonov said the enemy had attacked the bridge again and that traffic was suspended, and Sevastopol’s governor urged residents to put off trips. Russia’s Investigative Committee then said both attacks had damaged the structure and opened a criminal case under terrorism laws, while the transport ministry said specialists were assessing the damage. Aksyonov separately reported two people killed in a drone attack in the Lenin district near Kerch."
+     ]
+    },
+    {
+     "heading": "What Ukraine says it used",
+     "paragraphs": [
+      "Zelensky said the strikes targeted both the road and rail sections, using domestically built Palianytsia drones and Neptune missiles, after a campaign against the air defences, radar and electronic warfare systems guarding the crossing. He also shared video of what he said was a Ukrainian-made Flamingo missile hitting the bridge. Footage appearing to show a collapsed section has not been independently verified, and the state of the railway span remains unclear."
+     ]
+    },
+    {
+     "heading": "Russia’s strikes on Kyiv",
+     "paragraphs": [
+      "Late on Monday, Russian missiles hit Kyiv’s Northern and Southern bridges, closing them to traffic and disrupting water and heating in parts of the city, Mayor Vitali Klitschko said. A deputy energy minister reported outages in eight regions, and the power company DTEK said about 700,000 households in Dnipropetrovsk region had no electricity on Tuesday morning."
+     ]
+    },
+    {
+     "heading": "Why the bridge matters",
+     "paragraphs": [
+      "Russia began building the crossing after annexing Crimea, and Putin opened it in 2018 by driving a truck across. A truck bomb in October 2022 and a naval drone attack in July 2023 each brought down road sections, and Ukraine’s security service said in June 2025 that it had attacked the underwater supports. Each time, Russia restored traffic within months. Newsweek, citing analysts, notes that military use of the bridge had already fallen sharply because of the earlier attacks."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Kerch bridge and Kyiv",
+    "bounds": [
+     28,
+     43.5,
+     41,
+     52
+    ],
+    "countries": [
+     "804"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 33.5,
+      "lat": 43.9,
+      "kind": "water"
+     },
+     {
+      "label": "Sea of Azov",
+      "lon": 36.6,
+      "lat": 46.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Ukraine and the Black Sea with markers on the Kerch Strait bridge between Crimea and Russia, and on Kyiv, where Russian strikes hit two bridges.",
+    "caption": "Ukraine highlighted for context · markers show approximate reporting locations"
+   },
+   "locations": [
+    {
+     "label": "Kerch Strait bridge",
+     "mapLabel": "Kerch bridge",
+     "lon": 36.51,
+     "lat": 45.3
+    },
+    {
+     "label": "Kyiv, Ukraine",
+     "mapLabel": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "International Business Times",
+     "title": "Russia Confirms Structural Damage To Putin's Crimea Bridge. Ukraine Strikes For Second Straight Day.",
+     "url": "https://www.ibtimes.com/ukraine-strikes-kerch-bridge-second-day-3809848",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News",
+     "title": "Ukraine launches 'unprecedented' strike on Crimean bridge, Zelenskyy says",
+     "url": "https://abcnews.com/International/ukraine-attacks-crimean-bridge-2nd-consecutive-night-officials/story?id=138201512",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Post",
+     "title": "Crimean Bridge Shut After Ukrainian Strike as Russia Claims Record 1,336 Drones Downed",
+     "url": "https://www.kyivpost.com/post/90199",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Post",
+     "title": "Crimean Bridge Arch Collapses Into Sea After Fresh Ukrainian Missile Strike",
+     "url": "https://kyivpost.com/post/90298",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Newsweek",
+     "title": "Kerch was a symbol of Putin's power. Now it's a monument to Russian weakness",
+     "url": "https://www.newsweek.com/kerch-putin-power-russian-weakness-12726047",
+     "publishedAt": "2026-11-17",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+  },
+  {
+   "id": "deutsche-bank-leak",
+   "section": "world",
+   "title": "A leak of 15 million Deutsche Bank files describes years of ignored warnings over Epstein, Russian oligarchs and money laundering",
+   "category": "Finance and accountability",
+   "region": "Europe · Germany",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-17",
+   "body": "More than 200 journalists from over 50 outlets, including Der Spiegel, the Financial Times and The New York Times, published reports on Tuesday based on more than 15 million internal Deutsche Bank records supplied by two whistleblowers. The reports say the bank repeatedly missed or overrode warnings about money laundering and sanctions, kept Jeffrey Epstein as a client after his conviction and helped sanctioned Russian oligarchs. The bank says the cases are old and that it is a different bank today. Its shares fell about five per cent in early trading.",
+   "whatChanged": "One of the largest leaks of a bank’s internal records was published in coordinated reporting, putting Germany’s biggest lender and its regulators under fresh scrutiny.",
+   "whyMatters": "Deutsche Bank has paid repeated penalties over money laundering and has been ordered by Germany’s regulator to fix its transaction monitoring several times. Detailed internal evidence that business pressure overrode compliance could bring new investigations, and the whistleblowers say they also gave the files to US and British authorities.",
+   "uncertainty": "Reuters said it could not immediately verify the reports, and the bank disputes some findings. Most of the conduct described dates back years, and it is not yet known whether any authority will act on the files.",
+   "watchNext": "Statements from Germany’s financial regulator BaFin and from US and British authorities, further instalments from the media consortium, and any lasting effect on the share price.",
+   "keyFacts": [
+    "The leak contains more than 15 million files covering the bank’s activities since the early 2010s",
+    "Reports say Deutsche Bank took on Jeffrey Epstein as a client in 2013 and later linked nearly 600 million dollars in suspicious transactions to his network",
+    "Two whistleblowers supplied the files; journalists Josy Joseph and Khadija Sharife led the project through Barracuda Media",
+    "Deutsche Bank shares fell 5.2 per cent in early Frankfurt trading on Tuesday, November 17",
+    "The bank says it invested 7 billion euros in its controls between 2019 and 2025"
+   ],
+   "report": [
+    {
+     "heading": "What the files show",
+     "paragraphs": [
+      "The project, called Inside Deutsche Bank, draws on emails, meeting minutes and records from the bank’s anti-financial-crime, sanctions and audit teams. According to the reports, staff uncovered in 2019 a network that had moved hundreds of millions of euros through companies in Cyprus, Britain, Hong Kong and Ukraine, which the bank’s systems had missed for about three years. The files also describe dealings with oligarchs Oleg Deripaska and Roman Abramovich, transactions linked to Malaysian financier Jho Low, and an internal project set up after Donald Trump’s 2016 election to review accounts connected to him.",
+      "One leaked email attributed to Christian Sewing, then a board member and now chief executive, complained that know-your-customer rules were hurting revenue. The bank rejects what it calls false insinuations about his attitude to compliance."
+     ]
+    },
+    {
+     "heading": "The bank’s response",
+     "paragraphs": [
+      "Deutsche Bank said the matters date back many years, in some cases two decades, and had been reviewed at the time. It said it is a different bank today, pointed to record profits, and said any financial impact was not expected to be meaningful. It acknowledged that taking on Epstein in 2013 was an error, declined to comment on specific clients or suspicious activity reports, and said some reporting contained inaccuracies. Lawyers for Abramovich denied wrongdoing."
+     ]
+    },
+    {
+     "heading": "Regulators under scrutiny",
+     "paragraphs": [
+      "Germany’s regulator, BaFin, ordered the bank to fix its transaction monitoring in 2021, in 2023 and again this year, according to the Tax Justice Network, which argues that fines have become a cost of doing business and that senior managers should face personal consequences. Reporters say the bank’s offices have been searched at least four times this year."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Deutsche Bank’s home market",
+    "bounds": [
+     3,
+     46,
+     17,
+     55.5
+    ],
+    "countries": [
+     "276"
+    ],
+    "alt": "Map of Germany with a marker on Frankfurt, where Deutsche Bank is headquartered and its shares fell after the leak was published.",
+    "caption": "Germany highlighted for context · marker shows the bank’s headquarters city"
+   },
+   "locations": [
+    {
+     "label": "Frankfurt, Germany",
+     "mapLabel": "Frankfurt",
+     "lon": 8.68,
+     "lat": 50.11
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Investing.com (Reuters)",
+     "title": "Deutsche Bank shares fall 5% as it defends itself from media reports based on leaks",
+     "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-shares-fall-5-as-it-defends-itself-from-media-reports-based-on-leaks-5031884",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Malaysiakini",
+     "title": "Inside Deutsche Bank: 15m leaked files expose secrets, scandals, double standards",
+     "url": "https://www.malaysiakini.com/news/889234-inside-deutsche-bank-15m-leaked-files-expose-secrets-scandals-double-standards",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting (consortium partner)"
+    },
+    {
+     "publisher": "Ara in English",
+     "title": "A massive leak reveals Deutsche Bank's ties to clients such as Jeffrey Epstein and oligarchs close to Putin",
+     "url": "https://en.ara.cat/economy/massive-leak-reveals-the-links-of-deutsche-bank-with-clients-such-as-jeffrey-epstein-and-oligarchs-close-to-putin_1_5913024.html",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Tax Justice Network",
+     "title": "Deutsche Bank leak reveals systematic regulatory failure",
+     "url": "https://taxjustice.net/press/deutsche-bank-leak-reveals-systematic-regulatory-failure/",
+     "publishedAt": "2026-11-17",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "deutsche-bank-files",
+   "threadTitle": "The Deutsche Bank leak",
+   "threadSummary": "A leak of more than 15 million internal Deutsche Bank records and what it reveals about the bank’s compliance failures and clients."
+  },
+  {
+   "id": "hormuz-tara-gas-drone-claims-infrastructure-threat",
+   "section": "world",
+   "title": "Another tanker is hit near Hormuz as Iran claims to have downed US drones and threatens power plants and ports near US bases",
+   "category": "Iran war",
+   "region": "Middle East · Iran and the Strait of Hormuz",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-16 / 2026-11-17",
+   "body": "A Panama-flagged gas tanker, the Tara Gas, was attacked in the Strait of Hormuz on Monday; India’s shipping minister said all 24 Indian crew were safe. Iran’s navy said a fourth tanker had caught fire after hitting a mine east of the strait. Iran’s army said it shot down a US MQ-1 drone, and the Revolutionary Guards said they captured another drone intact. On Tuesday, Parliament Speaker Mohammad Bagher Ghalibaf warned that dams, ports and power plants near US or Israeli bases could be treated as targets.",
+   "whatChanged": "Attacks on shipping continued for a second day, Iran added claims of shooting down American drones, and its chief negotiator answered reports of possible US strikes on Iranian infrastructure with a threat of his own.",
+   "whyMatters": "Iran is signalling that if the United States hits its civilian infrastructure, it could hit similar sites in Gulf countries that host US forces. With several US carrier groups in the region and talks stalled, each new incident raises the risk of a wider clash.",
+   "uncertainty": "Iran’s claims about mines and drones have not been confirmed by the United States or by independent maritime agencies, and no US response to the drone claims had been reported. Who fired on the Tara Gas has not been established.",
+   "watchNext": "Any US confirmation or denial of the drone losses, further shipping advisories from the strait, and whether Iran is discussed when Trump meets Xi Jinping and Vladimir Putin in Shenzhen on Thursday.",
+   "keyFacts": [
+    "The LPG tanker Tara Gas was attacked in the Strait of Hormuz on Monday, November 16, with 24 Indian seafarers among its 25 crew, all safe",
+    "Iran’s navy said a fourth tanker caught fire after hitting a mine in a restricted area east of the strait",
+    "Iran’s army said it shot down a US MQ-1 drone; the Revolutionary Guards’ navy said it brought down an MQM-170 drone intact",
+    "On Tuesday, Ghalibaf said any dam, port or power plant near a US or Israeli base would count as dual-use"
+   ],
+   "report": [
+    {
+     "heading": "Shipping under attack",
+     "paragraphs": [
+      "India’s shipping minister, Sarbananda Sonowal, said on Tuesday that the Tara Gas had been targeted in a missile attack and that its crew were completely safe. The British maritime agency UKMTO had reported an attack on a tanker about seven nautical miles off Khasab, in Oman’s Musandam peninsula, with all crew accounted for. At least four tankers were reported damaged in the 24 hours to Tuesday.",
+      "Iran’s navy said in a statement on state television that a fourth tanker had struck a mine in a restricted zone east of the strait with its navigation systems switched off, and urged ships not to enter without coordinating with Iranian forces. It did not name the vessel."
+     ]
+    },
+    {
+     "heading": "Drone claims",
+     "paragraphs": [
+      "Iran’s army said on Monday that domestically built air defences had destroyed an MQ-1 drone over the strait. Separately, the Revolutionary Guards’ navy said it had brought down an American MQM-170 drone intact south of Qeshm Island. The two claims were not reconciled, and no comment from Washington was reported."
+     ]
+    },
+    {
+     "heading": "A warning about infrastructure",
+     "paragraphs": [
+      "Ghalibaf, Iran’s top negotiator, responded on Tuesday to a New York Times report in which analysts described some Iranian dams near missile sites as dual-use. Writing on X, he mocked that reasoning and declared a new rule: any dam, port or power plant near a US or Israeli base would be treated as dual-use too, applied, he said, consistently and even-handedly. Tasnim, a news agency close to the Revolutionary Guards, described the Times report as an attempt to justify attacks on Iran’s water infrastructure. No US decision on such strikes has been announced."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Strait of Hormuz",
+    "bounds": [
+     52,
+     23,
+     60,
+     28.5
+    ],
+    "countries": [
+     "364",
+     "512",
+     "784"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 53.3,
+      "lat": 26.6,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 58.4,
+      "lat": 24.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Strait of Hormuz with Iran, Oman and the United Arab Emirates highlighted, and markers on Khasab, near where the Tara Gas was attacked, and Qeshm Island, where Iran says it captured a US drone.",
+    "caption": "Countries highlighted for context · markers show approximate reporting locations"
+   },
+   "locations": [
+    {
+     "label": "Off Khasab, Oman",
+     "mapLabel": "Khasab",
+     "lon": 56.25,
+     "lat": 26.3
+    },
+    {
+     "label": "Qeshm Island, Iran",
+     "mapLabel": "Qeshm",
+     "lon": 55.9,
+     "lat": 26.75
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Tribune (ANI)",
+     "title": "Panama-flagged LPG tanker carrying 24 Indians targeted in Hormuz missile attack, all crew safe: Shipping Minister Sonowal",
+     "url": "https://www.tribuneindia.com/news/indian-seafarers/panama-flagged-lpg-tanker-carrying-24-indians-targeted-in-hormuz-missile-attack-all-crew-safe-shipping-minister-sonowal",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Khaleej Times",
+     "title": "IRGC says oil tanker 'heavily damaged' after hitting mine in Strait of Hormuz (live updates, November 17)",
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026",
+     "publishedAt": "2026-11-17",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Anadolu Agency",
+     "title": "Iranian army says it shot down MQ-1 drone over Strait of Hormuz",
+     "url": "https://www.aa.com.tr/en/americas/iranian-army-says-it-shot-down-mq-1-drone-over-strait-of-hormuz/4127003",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Middle East Eye",
+     "title": "Iran says it shot down US drone over Strait of Hormuz",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-shot-down-us-drone-over-strait-hormuz",
+     "publishedAt": "2026-11-16",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Middle East Eye",
+     "title": "Iran's Ghalibaf warns US, Israel against targeting civilian infrastructure",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-warns-us-israel-against-targeting-civilian-infrastructure",
+     "publishedAt": "2026-11-17",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Tasnim News Agency",
+     "title": "Qalibaf Warns US, Israel against Targeting Civilian Infrastructure",
+     "url": "https://www.tasnimnews.ir/en/news/2026/11/17/3750602/qalibaf-warns-us-israel-against-targeting-civilian-infrastructure",
+     "publishedAt": "2026-11-17",
+     "kind": "Iranian state-linked media"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The 2026 US-Israeli war with Iran, attacks on Gulf shipping and energy, and efforts to end the conflict."
+  },
+  {
+   "id": "cop31-draft-rejected-oil-producers",
+   "section": "world",
+   "title": "Oil producers reject COP31’s draft deal, saying its fossil fuel and electrification goals cross their red lines",
+   "category": "Climate",
+   "region": "Europe · Türkiye",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-16 / 2026-11-17",
+   "body": "As ministers arrived in Antalya, a group of developing countries that includes China, India and Saudi Arabia told a heads of delegation meeting on Monday that the first draft of the summit’s main decision crosses their red lines. The Arab Group and Russia went further and rejected the text outright. Their objections centre on a goal of raising electricity to 35 per cent of energy use by 2035, a roadmap away from fossil fuels and fast cuts to methane. Talks on climate finance also stalled.",
+   "whatChanged": "A day after the 18-page draft was published, the main oil-producing blocs formally rejected its core energy language, leaving the summit’s presidency to produce a new version before the talks are due to end this week.",
+   "whyMatters": "Any COP decision needs consensus, so open rejection by major producers makes it likely the fossil fuel language will be weakened. Small island states, which receive only a small share of adaptation funding, are pressing for the opposite.",
+   "uncertainty": "Negotiators expect at least one more draft, and positions often shift in the final days. It is not clear how the presidency will balance the electrification target against the objections.",
+   "watchNext": "A revised cover text from the presidency, the European Union’s expected backing for the electrification pledge, and whether the talks end on schedule; the Climate Diplomacy Brief suggests they could run into the weekend.",
+   "keyFacts": [
+    "The draft cover decision, released on Monday, November 16, runs to 18 pages and 144 paragraphs",
+    "It proposes raising electricity to 35 per cent of final energy use by 2035 and a path to triple adaptation finance by 2035",
+    "It calls for faster action to move away from fossil fuels but sets no global timetable",
+    "Thirty countries had signed the voluntary electrification pledge as of Monday, according to the Climate Diplomacy Brief"
+   ],
+   "report": [
+    {
+     "heading": "The objections",
+     "paragraphs": [
+      "According to the Earth Negotiations Bulletin, as reported by Climate Home News, the Like-Minded Developing Countries objected to the electrification target, the fossil fuel transition roadmap and calls to cut methane rapidly. The Arab Group and Russia rejected the draft entirely on similar grounds, and Azerbaijan also criticised it. Pacific campaigners said Russia had objected to references to 1.5 degrees and that the Arab Group opposed putting the fossil fuel transition into the mitigation work programme.",
+      "Developed countries were relatively quiet. The draft contains many of their priorities, including a response to overshooting 1.5 degrees, though Climate Home notes that a call for them to reach net zero by 2030 is very unlikely to survive."
+     ]
+    },
+    {
+     "heading": "What the draft says",
+     "paragraphs": [
+      "Chris Bowen, the Australian minister presiding over the negotiations, described the text as a first draft that would not be the last, and acknowledged strong opposition to its fossil fuel wording. The draft acknowledges that warming is likely to overshoot 1.5 degrees and calls for a return below it as early as possible, but sets no obligations on individual countries. It proposes at least 120 billion dollars in adaptation finance, though those provisions are not agreed."
+     ]
+    },
+    {
+     "heading": "Finance deadlock",
+     "paragraphs": [
+      "Talks on the climate finance work programme stalled on Monday over whether it had even formally begun. The poorest countries want it extended for two years with a goal to triple adaptation finance, while the European Union and Switzerland want no text that adds financial commitments. Pacific representatives note that small island states receive only about three per cent of adaptation finance."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "COP31 in Antalya",
+    "bounds": [
+     24,
+     34,
+     46,
+     43.5
+    ],
+    "countries": [
+     "792"
+    ],
+    "labels": [
+     {
+      "label": "Mediterranean Sea",
+      "lon": 29.5,
+      "lat": 34.8,
+      "kind": "water"
+     },
+     {
+      "label": "Black Sea",
+      "lon": 34.5,
+      "lat": 43.0,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Türkiye with a marker on Antalya, the Mediterranean city hosting the COP31 climate talks.",
+    "caption": "Türkiye highlighted for context · marker shows the summit venue"
+   },
+   "locations": [
+    {
+     "label": "Antalya, Türkiye",
+     "mapLabel": "Antalya",
+     "lon": 30.71,
+     "lat": 36.89
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Climate Home News",
+     "title": "COP31 Bulletin Day 8: Arab Group, Russia reject cover text over fossil fuels and electrification goal",
+     "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Climate Diplomacy Brief",
+     "title": "Climate Diplomacy Brief - COP31 day 8",
+     "url": "https://climatediplobrief.substack.com/p/climate-diplomacy-brief-cop31-day-e48",
+     "publishedAt": "2026-11-17",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "Islands Business",
+     "title": "Pacific climate demands face resistance at COP31",
+     "url": "https://islandsbusiness.com/news-break/pacific-climate-demands-face-resistance-at-cop31/",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "cop31-climate-summit",
+   "threadTitle": "The COP31 climate summit",
+   "threadSummary": "The 2026 UN climate conference in Antalya, Türkiye, and negotiations over fossil fuels, finance and the 1.5 degree goal."
+  },
+  {
+   "id": "trump-manila-quad-asean",
+   "section": "world",
+   "title": "Trump revives a Quad leaders’ meeting in Manila on his way to talks with Xi Jinping and Vladimir Putin in Shenzhen",
+   "category": "Diplomacy",
+   "region": "Asia · Philippines and China",
+   "regions": [
+    "asia",
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-17",
+   "body": "President Trump landed in Manila on Tuesday evening for a special summit with Southeast Asian leaders and a meeting with President Ferdinand Marcos Jr. He also joined the leaders of India, Japan and Australia for a Quad meeting, the group’s first at leader level in more than two years. Manila is the first stop on a three-day trip that takes him to Shenzhen, where he is due to meet Xi Jinping on Thursday and join the first three-way meeting of the American, Chinese and Russian leaders.",
+   "whatChanged": "Trump began his Asia trip by bringing back the Quad at leader level and meeting Southeast Asian governments, two days before the first trilateral summit with Xi and Putin.",
+   "whyMatters": "The trip tests how Washington balances its Asian alliances with a direct bargain with China and Russia. Philippine officials want progress on defence, trade and the US-led Pax Silica technology initiative, which drew protests and clashes with police in Manila at the weekend.",
+   "uncertainty": "No substantive results from the Quad meeting had been published by the time of writing. US officials say the war with Iran will be discussed in Shenzhen but Ukraine will not, and Trump says a meeting with Kim Jong Un is possible but depends on Xi.",
+   "watchNext": "Readouts from the ASEAN-US summit and the Marcos meeting, and the Trump-Xi talks and three-way meeting with Putin in Shenzhen on Thursday, November 19.",
+   "keyFacts": [
+    "Trump landed at Manila’s international airport at about 5:37 p.m. local time on Tuesday, November 17",
+    "It is his first visit to the Philippines since the ASEAN summit of November 2017",
+    "Narendra Modi, Anthony Albanese and Sanae Takaichi joined Trump at the Quad meeting",
+    "Trump and Xi are due to meet on Thursday, November 19, alongside the APEC summit in Shenzhen"
+   ],
+   "report": [
+    {
+     "heading": "In Manila",
+     "paragraphs": [
+      "Trump was met at the airport by Executive Secretary Ralph Recto and the two countries’ ambassadors, according to the Philippine News Agency. He is scheduled to attend an ASEAN-US special summit at the Philippine International Convention Center and to hold talks with Marcos on defence, trade and regional security. The agency noted Manila’s work with Washington on critical minerals, semiconductors and new technologies under Pax Silica.",
+      "At the Quad meeting, Modi recalled that officials of the four countries first met in Manila in 2007 and revived the dialogue there in 2017, and said their foreign ministers have met five times since the start of last year. Trump opened by calling Modi a very tough man and Japan’s prime minister even tougher."
+     ]
+    },
+    {
+     "heading": "On to Shenzhen",
+     "paragraphs": [
+      "Senior US officials say Trump will join the first meeting of the US, Chinese and Russian leaders on the sidelines of APEC in Shenzhen. Before leaving Washington on Monday, Trump said Kim Jong Un may meet him in China and that it was up to Xi. ABC News noted that Kim has not flown abroad publicly since 2018 and that North Korea is not an APEC member.",
+      "The trip follows weekend protests in Manila against the visit, the economic effects of the Iran war and a planned AI hub under Pax Silica, during which marchers clashed with police."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "From Manila to Shenzhen",
+    "bounds": [
+     104,
+     6,
+     130,
+     28
+    ],
+    "countries": [
+     "608",
+     "156"
+    ],
+    "labels": [
+     {
+      "label": "South China Sea",
+      "lon": 115.5,
+      "lat": 13.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the South China Sea region with the Philippines and China highlighted, and markers on Manila, the first stop of Trump’s trip, and Shenzhen, where he meets Xi Jinping and Vladimir Putin.",
+    "caption": "Countries highlighted for context · markers show summit cities"
+   },
+   "locations": [
+    {
+     "label": "Manila, Philippines",
+     "mapLabel": "Manila",
+     "lon": 120.98,
+     "lat": 14.6
+    },
+    {
+     "label": "Shenzhen, China",
+     "mapLabel": "Shenzhen",
+     "lon": 114.06,
+     "lat": 22.54
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Philippine News Agency",
+     "title": "Trump in PH for ASEAN Summit, bilateral meet with PBBM",
+     "url": "https://www.pna.gov.ph/article/trump-in-ph-for-asean-summit-bilateral-meet-with-pbbm",
+     "publishedAt": "2026-11-17",
+     "kind": "Government news agency"
+    },
+    {
+     "publisher": "ETV Bharat",
+     "title": "Modi And Trump Share Stage In Manila Quad Leaders' Meeting, US Prez Calls PM 'Very Tough Man'",
+     "url": "https://www.etvbharat.com/en/international/modi-trump-share-stage-in-quad-leaders-meeting-in-manila-us-prez-calls-pm-very-tough-man-enn26111704973",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News",
+     "title": "Trump Asia trip live updates",
+     "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+     "publishedAt": "2026-11-16",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Democracy Now!",
+     "title": "Headlines for November 16, 2026",
+     "url": "https://www.democracynow.org/2026/11/16/headlines",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Anadolu Agency",
+     "title": "Morning Briefing: Nov. 16, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "trump-asia-summits-2026",
+   "threadTitle": "Trump’s Asia summits",
+   "threadSummary": "President Trump’s November 2026 trip to the ASEAN summit in Manila and the APEC summit in Shenzhen, including the first three-way meeting with Xi Jinping and Vladimir Putin."
+  },
+  {
+   "id": "saudi-coalition-commander-replaced-aden",
+   "section": "more",
+   "title": "Saudi Arabia replaces the commander of its Yemen coalition as Houthi forces close in on Aden",
+   "category": "Yemen war",
+   "region": "Middle East · Yemen and Saudi Arabia",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-16",
+   "whatChanged": "A royal decree put Saudi Arabia’s chief of general staff in charge of the coalition’s joint forces, a change Western diplomats linked to the Houthis’ advance.",
+   "body": "King Salman named General Fayyad Al-Ruwaili to command the coalition’s joint forces, moving Lieutenant General Fahd bin Hamad Al-Salman to an advisory post. The Long War Journal reports that the Houthis had pushed east along the Gulf of Aden coast and into highlands on the Taiz–Lahj border, about 40 miles from Aden, after government forces left the Bab al-Mandab area. The government says it is now prioritising the defence of Aden and Lahj.",
+   "sources": [
+    {
+     "publisher": "News of Bahrain",
+     "title": "Saudi Arabia replaces Yemen coalition chief as Houthis advance towards Aden",
+     "url": "https://www.newsofbahrain.com/en/article/saudi-arabia-replaces-yemen-coalition-chief-as-houthis-advance-towards-aden",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "FDD's Long War Journal",
+     "title": "Houthis retake Bab al Mandeb and move toward Aden",
+     "url": "https://www.longwarjournal.org/archives/2026/11/houthis-retake-bab-al-mandeb-and-move-toward-aden.php",
+     "publishedAt": "2026-11-16",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "yemen-war",
+   "threadTitle": "Yemen’s war",
+   "threadSummary": "The war between Yemen’s Houthi movement and the Saudi-backed government, and its effects on Red Sea shipping."
+  },
+  {
+   "id": "sudan-army-west-kordofan-rsf-defection",
+   "section": "more",
+   "title": "Sudan’s army pushes deeper into West Kordofan as an RSF commander defects, and a rights group says an army air strike killed 13 civilians",
+   "category": "Sudan war",
+   "region": "Africa · Sudan",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-13 / 2026-11-16",
+   "whatChanged": "The army took the town of Al-Khuwai and is advancing on En Nahud, a gold-mining hub held by the Rapid Support Forces since May 2025.",
+   "body": "Ahmed Hasab Al-Rasoul, an RSF commander in North Darfur, announced on Sunday that he was joining the army and urged others to follow; an analyst at the conflict monitor ACLED told The New Arab that losses and defections are weakening the RSF. The same day, the Emergency Lawyers group said an army air strike in the Abu Qalb area of West Kordofan killed at least 13 civilians, including women and children. Al Jazeera could not verify that report.",
+   "sources": [
+    {
+     "publisher": "The New Arab",
+     "title": "RSF commander defects as army makes ground in Kordofan",
+     "url": "https://www.newarab.com/news/rsf-commander-defects-army-makes-ground-kordofan",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera (with AP)",
+     "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+     "url": "https://aljazeera.com/amp/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "sudan-war-humanitarian-crisis",
+   "threadTitle": "Sudan’s war and humanitarian crisis",
+   "threadSummary": "The war between Sudan’s army and the Rapid Support Forces, which has caused one of the world’s worst humanitarian crises."
+  },
+  {
+   "id": "knesset-speaker-vote-kahana-katz",
+   "section": "more",
+   "title": "Israel’s Knesset votes on Tuesday on replacing its speaker, with Likud putting up Ofir Katz against the anti-Netanyahu bloc’s Matan Kahana",
+   "category": "Israeli politics",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-17",
+   "whatChanged": "Likud named its own candidate hours before the vote, saying Kahana refused its support on condition that no Arab-majority party gets a deputy speaker post.",
+   "body": "The vote, requested by 67 lawmakers, is the first test of whether Gadi Eisenkot’s bloc can turn its majority into control of parliament’s agenda while Benjamin Netanyahu remains caretaker prime minister. Kahana is expected to win with support from Arab-led parties; United Torah Judaism says it will not back him. Arab lawmakers have served as deputy speakers in many earlier Knessets.",
+   "sources": [
+    {
+     "publisher": "The Times of Israel",
+     "title": "Likud to nominate Ofir Katz for Knesset speaker, challenging Yashar's majority-backed Kahana",
+     "url": "https://timesofisrael.com/liveblog_entry/likud-to-nominate-ofir-katz-for-knesset-speaker-challenging-yashars-majority-backed-kahana",
+     "publishedAt": "2026-11-17",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "Ynetnews",
+     "title": "67 MKs move to replace Knesset speaker Ohana, vote set for next Tuesday",
+     "url": "https://www.ynetnews.com/article/skifn0ecfe",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel’s 2026 general election and the struggle to form a government afterwards."
+  },
+  {
+   "id": "nvidia-results-without-huang",
+   "section": "more",
+   "title": "Nvidia reports its first results without Jensen Huang on Tuesday, as reports of his possible return divide investors",
+   "category": "Technology",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-16 / 2026-11-17",
+   "whatChanged": "The Financial Times reported that Huang has discussed coming back, but CNBC reported that the board is not considering it while a national security investigation continues.",
+   "body": "Interim chief executive Colette Kress presents third-quarter results after the market closes on Tuesday; analysts expect revenue of about 109 billion dollars, nearly double a year earlier. President Trump said he would not mind seeing Huang reinstated. Nvidia’s shares closed on Friday about a third below their October record, and at least ten analysts have downgraded the stock since Huang resigned.",
+   "sources": [
+    {
+     "publisher": "Yahoo Finance",
+     "title": "Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with Huang reportedly planning comeback",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
+     "publishedAt": "2026-11-16",
+     "kind": "Live reporting"
+    }
+   ],
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "Competition between the United States and China over AI chips, models and the rules that govern them."
+  },
+  {
+   "id": "france-november-17-strike",
+   "section": "more",
+   "title": "French unions hold a second nationwide strike day over pay, with schools, public services and some trains disrupted",
+   "category": "Labour",
+   "region": "Europe · France",
+   "regions": [
+    "europe"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-17",
+   "whatChanged": "The moderate CFDT union joined the protest after calling the government’s pay offer to civil servants inadequate.",
+   "body": "Unions want about 150 euros a month more, wages linked to inflation and an end to a four-year freeze on civil servants’ base pay; the government has offered a 1.6 per cent minimum wage rise from December 1 and talks with unions on December 11. Police expected 40,000 to 80,000 marchers in Paris, where 17 metro and suburban rail stations were due to close from 11 a.m.",
+   "sources": [
+    {
+     "publisher": "Sortiraparis",
+     "title": "Strike and protest on November 17: the movement is growing, and here's what's planned in Paris",
+     "url": "https://www.sortiraparis.com/en/news/in-paris/articles/357817-strike-and-demonstration-on-november-17-the-movement-is-gaining-momentum-what-s-planned-in-paris",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Connexion",
+     "title": "Strikes and protests in France in November 2026",
+     "url": "https://www.connexionfrance.com/news/strikes-and-protests-in-france-in-november-2026/827359",
+     "publishedAt": "2026-11-11",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "france-unrest",
+   "threadTitle": "France's cost-of-living unrest",
+   "threadSummary": "Protests and strikes in France over wages, living costs and public spending."
+  },
+  {
+   "id": "gaza-150000-tents-appeal",
+   "section": "more",
+   "title": "Australia, Britain, Canada and Italy urge Israel to let 150,000 tents into Gaza before winter",
+   "category": "Gaza",
+   "region": "Middle East · Gaza",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-15",
+   "whatChanged": "Four Western governments jointly said shelter supplies are being held at Gaza’s border and called on Israel to end delays.",
+   "body": "The foreign ministries called the situation dire and said recent floods had added to the suffering; heavy rain earlier this month swept away tens of thousands of tents. They said conditions could still be improved if action came before winter fully set in. The European Union issued a similar warning a day earlier.",
+   "sources": [
+    {
+     "publisher": "CP24 (AFP)",
+     "title": "Australia, UK, Canada, Italy urge Israel to allow rapid Gaza aid access",
+     "url": "https://www.cp24.com/news/world/2026/11/15/australia-uk-canada-italy-urge-israel-to-allow-rapid-gaza-aid-access/",
+     "publishedAt": "2026-11-15",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Anadolu Agency",
+     "title": "Morning Briefing: Nov. 16, 2026",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "gaza-humanitarian",
+   "threadTitle": "Gaza's humanitarian situation",
+   "threadSummary": "Conditions for civilians in Gaza, aid access and recovery after the war."
+  },
+  {
+   "id": "gpt6-astra-lattice-standard-model",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "OpenAI says GPT-6 Astra helped a physicist build a candidate way to put the full Standard Model on a lattice",
+   "category": "AI for physics",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-16",
+   "hook": "A concrete example of AI doing the detailed proof work behind a physicist’s idea, but it is a preprint and a first step, not a settled solution.",
+   "body": "On Monday OpenAI described how its GPT-6 Astra model worked with Nathaniel Craig, a particle theorist at UC Santa Barbara who is a visiting scientist at OpenAI, on a problem that has blocked physicists for more than 25 years: defining the weak force, which treats left- and right-handed particles differently, on a computational grid. According to the account, Craig had a strategy he could not prove, and the model built a working construction and led the detailed proof. Three lattice specialists reviewed it.",
+   "whatChanged": "OpenAI moved from AI-assisted calculations to claiming a substantial role in a candidate solution to a long-standing problem in theoretical physics, published as a preprint with named outside reviewers.",
+   "whyMatters": "Lattice methods already let physicists calculate things like the proton’s mass from first principles. A sound lattice definition of the whole Standard Model would put the theory on firmer mathematical ground, and the case shows how AI models are starting to contribute to frontier physics proofs.",
+   "uncertainty": "The paper has not been through journal peer review, and Craig calls it more a beginning than an end. It does not make realistic simulations of the full Standard Model possible yet, and the exact division of work between the model and Craig rests on OpenAI’s account.",
+   "watchNext": "Responses from lattice field theorists, journal review of the preprint, and whether others extend the construction towards practical simulations.",
+   "keyFacts": [
+    "The preprint, by Nathaniel Craig, was posted on arXiv as 2610.09093",
+    "The problem concerns setting the phase of overlap fermions correctly, which had resisted solution for over 25 years",
+    "Lattice theorists Maarten Golterman, Andreas Kronfeld and Yigal Shamir reviewed the proof",
+    "OpenAI presented the work on Monday, November 16, on a new blog for science results"
+   ],
+   "report": [
+    {
+     "heading": "The problem",
+     "paragraphs": [
+      "Physicists simulate parts of the Standard Model by placing it on a grid of points in spacetime. The weak force has resisted this treatment because it acts differently on left- and right-handed particles, and simple lattices then produce unwanted extra particles. A technique called overlap fermions can remove them, but no one had found a way to fix their phase correctly in every case required."
+     ]
+    },
+    {
+     "heading": "What the paper claims",
+     "paragraphs": [
+      "Craig’s paper constructs a gauge-invariant measure for overlap fermions in a class of theories that includes the Standard Model. The key idea is that comparing the lattice at successively finer spacings can correct the phase on the original grid. The arXiv abstract presents the result as a candidate non-perturbative lattice definition of the Standard Model.",
+      "According to The Decoder’s account of OpenAI’s presentation, Craig had the strategy but could not prove it worked in all the cases needed, and GPT-6 Astra built the construction and led the detailed proof. Questions from the three outside lattice theorists helped build confidence in the result, Craig says."
+     ]
+    },
+    {
+     "heading": "Limits",
+     "paragraphs": [
+      "The work is a preprint, and the only review described so far is that of the three specialists. Craig describes it as much more a beginning than an end, with much to do before realistic simulations are feasible. The Decoder also notes that a separate OpenAI claim on the Navier-Stokes equations remains under review and has been questioned by mathematicians."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-17/gpt6-astra-lattice-standard-model.svg",
+    "alt": "A coarse grid of points with one square highlighted, and an arrow to the same square redrawn on a much finer grid, illustrating the comparison of successive lattice spacings at the heart of the proof.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "The Decoder",
+     "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+     "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "arXiv",
+     "title": "A gauge-invariant measure for lattice chiral fermions (Nathaniel Craig)",
+     "url": "https://arxiv.org/abs/2610.09093",
+     "publishedAt": "2026-10-06",
+     "kind": "Preprint"
+    }
+   ],
+   "threadId": "ai-and-research",
+   "threadTitle": "AI & scientific research",
+   "threadSummary": "How AI systems are being used to make and check discoveries in mathematics and science."
+  },
+  {
+   "id": "pax-silica-san-francisco-declaration",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "The United States and nine partners sign a pact to protect AI supply chains, and Washington tightens remote access to advanced chips",
+   "category": "AI policy",
+   "region": "Global",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-15 / 2026-11-16",
+   "hook": "A statement of intent rather than binding rules, but it shows the US trying to organise allies around AI hardware days before Trump meets Xi.",
+   "body": "The State Department announced on Sunday that the US, Britain, Japan, South Korea, Australia, India, Singapore, Israel, Qatar and the United Arab Emirates signed the San Francisco Declaration under the US-led Pax Silica initiative. It commits them to stop theft and smuggling of sensitive AI technology, protect critical infrastructure and act together against economic coercion. On Monday the Commerce Department issued a rule meant to stop companies in countries such as China using advanced chips through remote servers abroad. China said AI should benefit all humanity.",
+   "whatChanged": "Pax Silica grew from a founding group of six into a ten-member security pact covering AI technology and infrastructure, alongside a new US rule closing a route by which restricted chips could be used remotely.",
+   "whyMatters": "Control of advanced chips and the data centres that use them is now central to US policy toward China. A shared allied framework could make export rules harder to evade, but also hardens a split that Beijing says divides countries along ideological lines.",
+   "uncertainty": "The declaration sets out shared aims but VOA’s account describes no enforcement mechanism. How the remote-access rule will be applied to data centres in third countries is not yet clear.",
+   "watchNext": "Whether Germany, Sweden, the Netherlands and the European Commission sign next week as expected, and whether AI safety and chips feature in the Trump-Xi talks on Thursday.",
+   "keyFacts": [
+    "Ten countries signed the San Francisco Declaration, announced on Sunday, November 15",
+    "Pax Silica was launched in December 2025 by the US and five partners",
+    "The Commerce Department’s interim final rule on remote access to advanced chips was issued on Monday, November 16",
+    "Treasury Secretary Scott Bessent said the US and China would use the APEC talks to warn each other about AI safety problems"
+   ],
+   "report": [
+    {
+     "heading": "The declaration",
+     "paragraphs": [
+      "According to Voice of America, the declaration has two focus areas. The first is sensitive technology, including the goods, software, materials and know-how used to build AI systems, which signatories pledge to protect from theft or smuggling. The second is critical infrastructure such as ports, energy and computer networks. The text also calls for joint action against supply chain disruptions and unfair non-market practices.",
+      "When the initiative was launched, the State Department said it aimed to reduce dependence on suppliers that could use that dependence as leverage, and that it was not meant to isolate any country. The newsletter 10 Things reports that Germany, Sweden, the Netherlands and the European Commission are expected to sign next week."
+     ]
+    },
+    {
+     "heading": "The chip rule and China’s response",
+     "paragraphs": [
+      "The Commerce Department’s new rule targets a gap in export controls: companies in restricted countries renting computing power on advanced chips housed in data centres elsewhere.",
+      "Chinese foreign ministry spokesperson Mao Ning said Beijing opposes forming closed, exclusive groups in the sector. Bessent said the two governments would also use the APEC meetings to share methods for testing advanced AI systems; an emergency channel for reporting serious AI incidents, discussed in September, is not yet working, Reuters reported according to VOA. Trump said he would not raise the espionage allegations surrounding Jensen Huang with Xi, though he expects Xi to bring them up."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-17/pax-silica-san-francisco-declaration.svg",
+    "alt": "A computer chip with a padlock at its centre, ringed by ten small dots, standing for the ten countries pledging to protect AI hardware supply chains.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Voice of America",
+     "title": "US, nine partners sign AI supply chain accord ahead of Trump-Xi meeting",
+     "url": "https://www.voanews.com/a/us-nine-partners-sign-si-supply-chain-accord-ahead-of-trump-xi-meeting-20261116/8224318.html",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Yahoo Finance",
+     "title": "Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with Huang reportedly planning comeback",
+     "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
+     "publishedAt": "2026-11-16",
+     "kind": "Live reporting"
+    },
+    {
+     "publisher": "10 Things",
+     "title": "10 Things Global News - 16th November 2026",
+     "url": "https://www.10things.news/p/10-things-global-news-16th-november",
+     "publishedAt": "2026-11-16",
+     "kind": "News digest"
+    }
+   ],
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "Competition between the United States and China over AI chips, models and the rules that govern them."
+  },
+  {
+   "id": "ar1001-alzheimers-phase-3",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "An Alzheimer’s pill slows decline in one group of patients in a large trial but misses across the whole trial",
+   "category": "Alzheimer’s drug trial",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-16 / 2026-11-17",
+   "hook": "A mixed result: a modest effect confined to patients not on other Alzheimer’s drugs, which regulators may not accept and investors did not like.",
+   "body": "AriBio’s once-daily pill AR1001 was tested against placebo for a year in 1,535 people with early Alzheimer’s disease in 13 countries. Among the 604 patients not taking existing Alzheimer’s medicines, those on the drug declined 0.44 points less on a standard dementia scale, a statistically significant result. Across all patients the difference was 0.11 points and not significant. More patients stopped treatment because of side effects on the drug. AriBio’s Korean-listed shares fell by up to 30 per cent.",
+   "whatChanged": "The first phase 3 results for this oral drug, presented in Boston on Monday, technically met the trial’s main goal through a prespecified subgroup while failing in the overall population.",
+   "whyMatters": "A cheap daily pill would be far easier to use than the antibody infusions now approved for early Alzheimer’s, so any oral drug that slows decline would matter. This result shows how hard that is: the benefit appears only in part of the trial and is modest.",
+   "uncertainty": "The results are topline figures from the company and have not been peer reviewed. The subgroup was chosen partly on the basis of earlier phase 2 findings, and it is unclear whether regulators will accept a benefit limited to it.",
+   "watchNext": "AriBio’s discussions with the US Food and Drug Administration, full publication of the data, and results from the open-label extension, expected in the third quarter of 2027.",
+   "keyFacts": [
+    "The POLARIS-AD trial enrolled 1,535 people with early Alzheimer’s at about 230 sites in 13 countries",
+    "In the 604-patient monotherapy group the drug slowed decline by 0.44 points on the CDR-SB scale, with p equal to 0.0266",
+    "In the full population the difference was 0.11 points, with p equal to 0.4015",
+    "5.2 per cent of patients on the drug stopped because of side effects, against 1.7 per cent on placebo"
+   ],
+   "report": [
+    {
+     "heading": "The trial",
+     "paragraphs": [
+      "In the phase 3 trial, patients took 30 milligrams or a placebo every day for 52 weeks. The main measure was the Clinical Dementia Rating Sum of Boxes, which tracks memory, judgement and daily function. The trial was designed so that a significant result in either the full population or the monotherapy group would count as meeting its goal, a design AriBio says followed consultation with US and European regulators. Sharon Sha of Stanford presented the data at the Clinical Trials on Alzheimer’s Disease conference."
+     ]
+    },
+    {
+     "heading": "The results",
+     "paragraphs": [
+      "In the monotherapy group, AriBio describes the 0.44-point difference as a 31 per cent slowing of decline. One cognitive test, the MMSE, also favoured the drug, but another, ADAS-Cog13, did not reach significance. A spinal-fluid marker linked to the drug’s mechanism rose in both groups, and the tau marker p-tau217 fell in the monotherapy group, while amyloid measures did not change.",
+      "Serious adverse events were similar, at 10.0 per cent on the drug and 9.8 per cent on placebo, but diarrhoea, dizziness and falls were more common on AR1001."
+     ]
+    },
+    {
+     "heading": "Reaction",
+     "paragraphs": [
+      "Shares in AribioLab hit their daily limit, falling 29.8 per cent on Tuesday morning in Seoul, according to the Seoul Economic Daily, which said investors focused on the failure across all patients and on uncertainty over approval. AriBio says it plans to discuss the findings with the FDA quickly."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "How much the pill slowed decline",
+    "measure": "Difference from placebo in worsening on the CDR-SB dementia scale after 52 weeks (larger means more slowing)",
+    "unit": "points",
+    "values": [
+     {
+      "label": "Patients on no other Alzheimer’s drugs (604)",
+      "value": 0.44
+     },
+     {
+      "label": "All patients (1,535)",
+      "value": 0.11
+     }
+    ],
+    "alt": "Bar chart: the drug slowed decline by 0.44 points against placebo in patients on no other Alzheimer’s drugs, a significant result, and by 0.11 points across all patients, which was not significant.",
+    "caption": "Company topline results, not yet peer reviewed · only the 0.44-point result was statistically significant",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/11/17/3404242/0/en/aribio-s-oral-ar1001-meets-primary-efficacy-objective-in-prespecified-monotherapy-population-in-phase-3-polaris-ad-trial.html"
+   },
+   "sources": [
+    {
+     "publisher": "AriBio (GlobeNewswire)",
+     "title": "AriBio's Oral AR1001 Meets Primary Efficacy Objective in Prespecified Monotherapy Population in Phase 3 POLARIS-AD Trial",
+     "url": "https://www.globenewswire.com/news-release/2026/11/17/3404242/0/en/aribio-s-oral-ar1001-meets-primary-efficacy-objective-in-prespecified-monotherapy-population-in-phase-3-polaris-ad-trial.html",
+     "publishedAt": "2026-11-16",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "Korea Biomedical Review",
+     "title": "AriBio's Alzheimer's drug meets phase 3 endpoint in subgroup, misses in overall population",
+     "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33870",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Seoul Economic Daily",
+     "title": "Aribio Shares Plunge After Mixed Alzheimer's Trial Results",
+     "url": "https://en.sedaily.com/market/2026/11/17/aribio-shares-plunge-after-mixed-alzheimers-trial-results",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "alzheimers-research",
+   "threadTitle": "Alzheimer's research",
+   "threadSummary": "Research into treatments and diagnosis for Alzheimer’s disease."
+  },
+  {
+   "id": "voyager-1-one-light-day",
+   "section": "frontiers",
+   "field": "Space",
+   "title": "Voyager 1 becomes the first spacecraft to reach one light-day from Earth on Wednesday, 49 years after launch",
+   "category": "Space exploration",
+   "region": "Global",
+   "regions": [],
+   "status": "This week",
+   "eventDate": "2026-11-18",
+   "hook": "A symbolic milestone rather than a discovery, but a reminder that a 1977 probe is still sending data from interstellar space.",
+   "body": "NASA says Voyager 1 will be one light-day from Earth early on Wednesday, November 18: about 25.9 billion kilometres, so far that a radio signal takes a full 24 hours to reach it. Launched in September 1977, it flew past Jupiter and Saturn and in 2012 became the first spacecraft to leave the Sun’s protective bubble. It is still in contact, though NASA has switched off most of its instruments to save power. NASA has invited people to flash Voyager’s call sign at the sky on Tuesday evening.",
+   "whatChanged": "The most distant human-made object reaches a round-number distance no spacecraft has reached before.",
+   "whyMatters": "Voyager 1 is still measuring conditions beyond the heliosphere, the region where the Sun’s influence ends, data no other working spacecraft can provide. Its longevity also shows how much careful power management can extend a mission.",
+   "uncertainty": "The crossing time is a calculation from the spacecraft’s known trajectory rather than an observed event. How long the probe can keep any instrument running on its dwindling power is uncertain.",
+   "watchNext": "NASA’s public discussion on the mission at the Jet Propulsion Laboratory on Thursday, November 19, and future decisions on switching off remaining instruments.",
+   "keyFacts": [
+    "Voyager 1 reaches one light-day at 4:16 a.m. Central time on Wednesday, November 18, according to figures reported by EarthSky",
+    "One light-day is about 25.9 billion kilometres, or 16.1 billion miles",
+    "Voyager 1 launched on September 5, 1977, and entered interstellar space in 2012",
+    "NASA expects Voyager 2 to reach one light-day in November 2035"
+   ],
+   "report": [
+    {
+     "heading": "The milestone",
+     "paragraphs": [
+      "It has taken Voyager 1 about 49 years and two months to get this far. In early October it was about 25.72 billion kilometres away, with signals taking just under 24 hours to arrive. From Wednesday, any command sent from Earth will take a day to arrive, and a reply another day to come back, through NASA’s Deep Space Network.",
+      "NASA is marking the moment with a Shine Bright campaign on Tuesday evening, inviting people to flash VGR, the spacecraft’s call sign, in Morse code using a phone or flashlight, and with a panel discussion at its Jet Propulsion Laboratory on Thursday."
+     ]
+    },
+    {
+     "heading": "A mission running on reserves",
+     "paragraphs": [
+      "Both Voyagers were designed to use a planetary alignment that occurs once every 176 years to tour the outer planets. Voyager 2 entered interstellar space in 2018 and is about two billion miles closer to Earth. Most instruments on both craft no longer work, and NASA has been shutting systems down one by one; in April it switched off Voyager 1’s Low-Energy Charged Particle instrument, though it could be turned back on. The mission’s 50th anniversary falls in 2027.",
+      "Voyager 1 is heading out of the plane of the planets towards the constellation Ophiuchus. Like its twin, it carries a golden record of images and sounds from Earth, a largely symbolic message for anyone who might one day find it."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-17/voyager-1-one-light-day.svg",
+    "alt": "A tiny Earth at the left edge and a spacecraft with a large dish antenna far to the right, joined by a long dashed line of light, showing the day-long gap between them.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "NASA",
+     "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+     "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+     "publishedAt": "undated (November 2026)",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "EarthSky",
+     "title": "Voyager 1 will be 1 light-day from Earth on November 17-18, 2026",
+     "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/",
+     "publishedAt": "2026-11-10",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "voyager-mission",
+   "threadTitle": "The Voyager probes",
+   "threadSummary": "NASA’s twin Voyager spacecraft, launched in 1977 and still operating in interstellar space."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Nvidia’s numbers",
+   "text": "Interim chief executive Colette Kress presents Nvidia’s quarterly results after the US market closes on Tuesday, November 17, amid talk of Jensen Huang’s return."
+  },
+  {
+   "title": "Three leaders in Shenzhen",
+   "text": "Trump meets Xi Jinping on Thursday, November 19, before the first three-way meeting with Vladimir Putin, with Iran on the agenda and Ukraine officially off it."
+  },
+  {
+   "title": "COP31’s final days",
+   "text": "The summit presidency is expected to issue a revised draft before the Antalya talks are due to close on Friday, November 20."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "President Trump began an Asia trip, Nvidia prepares to report results without Jensen Huang, and New York’s mayor moved to break up a police protest unit.",
+   "briefs": [
+    {
+     "title": "New York’s mayor moves to disband the NYPD unit that polices protests",
+     "text": "Mayor Zohran Mamdani said he will dismantle the police department’s Strategic Response Group, which handles both counterterrorism and protest response, and replace its protest role with a civilian-led approach focused on de-escalation. He had promised to break up the unit during his 2025 campaign, citing its use of force and high rate of misconduct claims. Police leaders have praised the unit as well trained for large, chaotic protests.",
+     "eventDate": "2026-11-12 / 2026-11-16",
+     "sources": [
+      {
+       "publisher": "Democracy Now!",
+       "title": "Headlines for November 16, 2026",
+       "url": "https://www.democracynow.org/2026/11/16/headlines",
+       "publishedAt": "2026-11-16",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "WJLA (The National News Desk)",
+       "title": "Mamdani to announce disbanding of NYPD counterterrorism, protest-response unit: report",
+       "url": "https://wjla.com/news/nation-world/mamdani-to-announce-disbanding-of-nypd-counterterrorism-protest-response-unit-report-dsa-srg-nyc-rrt",
+       "publishedAt": "2026-11-12",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Pope Leo XIV left Peru, ending a 12-day tour of Uruguay, Argentina and Peru a month after lung surgery.",
+   "briefs": [
+    {
+     "title": "Pope Leo ends his South American tour in Peru, promising to return",
+     "text": "Pope Leo XIV left Lima on Monday after a 12-day trip that began in Uruguay and passed through Argentina, a test of his stamina weeks after lung cancer surgery in October. The Vatican estimated about 1.5 million people at his farewell Mass, where an object thrown towards the popemobile appeared to hit his face before he carried on. Leo, who spent two decades in Peru as a missionary and bishop, called it his second homeland and said he would come back.",
+     "eventDate": "2026-11-15 / 2026-11-16",
+     "sources": [
+      {
+       "publisher": "PBS NewsHour (AP)",
+       "title": "Pope bids 'hasta luego' to Peru as he wraps up marathon South America trip",
+       "url": "https://www.pbs.org/newshour/world/pope-bids-hasta-luego-to-peru-as-he-wraps-up-marathon-south-america-trip",
+       "publishedAt": "2026-11-16",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "Ukraine struck the Crimean bridge for a second night and Russia hit bridges in Kyiv, a leak exposed Deutsche Bank’s internal records, oil producers rejected COP31’s draft, and French unions struck over pay.",
+   "briefs": [
+    {
+     "title": "A data theft at a La Poste subsidiary exposed names and addresses of 22 million people in France",
+     "text": "Maileva, a La Poste unit that sends payslips, invoices and registered letters for client companies, confirmed that attackers in mid-September stole the first names, surnames and postal addresses of 22 million people who had received documents through it. The company says no bank details were taken, has notified France’s data protection authority and filed a criminal complaint. Specialist sites report that some letters from medical billing and social housing clients were affected.",
+     "eventDate": "2026-11-14 / 2026-11-15",
+     "sources": [
+      {
+       "publisher": "Security Affairs",
+       "title": "Data Breach at La Poste Subsidiary Maileva Affects 22 Million People in France",
+       "url": "https://securityaffairs.com/?p=203126",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Sudan’s army advanced in West Kordofan amid reports of civilian deaths from air strikes, and Cape Verde re-elected its president.",
+   "briefs": [
+    {
+     "title": "Cape Verde re-elects President José Maria Neves, defeating the country’s first female presidential candidate",
+     "text": "Provisional results gave Neves about 64 per cent of the vote in Sunday’s election, against about 32 per cent for Joana Rosa of the centre-right Movement for Democracy, who conceded. Fewer than a third of the 419,000 registered voters took part, according to results on state television, and Neves called for updated voter rolls and electronic voting. Official results are expected later this week.",
+     "eventDate": "2026-11-15 / 2026-11-16",
+     "sources": [
+      {
+       "publisher": "AllAfrica (RFI)",
+       "title": "Cape Verde: Neves Wins Second Term As Cape Verde's President - Provisional Results",
+       "url": "https://allafrica.com/stories/202611160239.html",
+       "publishedAt": "2026-11-16",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Yahoo News (AP)",
+       "title": "Cape Verde’s president is re-elected for a second five-year term, provisional results show",
+       "url": "https://www.yahoo.com/news/world/articles/cape-verde-president-jos-maria-073849454.html",
+       "publishedAt": "2026-11-16",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Another tanker was hit near Hormuz and Iran threatened infrastructure near US bases, Saudi Arabia changed its Yemen commander, and Israel’s parliament votes on a new speaker.",
+   "briefs": [
+    {
+     "title": "Gaza buries 70 people whose remains were recovered from rubble in the north",
+     "text": "A mass funeral was held on Sunday for 70 Palestinians killed in Israeli strikes whose mostly skeletal remains were recovered from beneath homes in Beit Lahia and Jabalia, Gaza’s Civil Defense said; at least 10 were children. Crews worked more than 230 hours with two bulldozers and say the remains of about 90 more people are still at the sites. Recovery teams say Israeli limits on heavy equipment force them to dig largely by hand.",
+     "eventDate": "2026-11-15",
+     "sources": [
+      {
+       "publisher": "Common Dreams",
+       "title": "70 bodies recovered from Gaza rubble laid to rest",
+       "url": "https://www.commondreams.org/news/70-bodies-recovered-gaza",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Trump joined the Quad and ASEAN leaders in Manila before heading to Shenzhen, and ASEAN kept Myanmar’s leaders out of its top meetings.",
+   "briefs": [
+    {
+     "title": "ASEAN keeps Myanmar’s leaders out of top meetings but sets out a path back",
+     "text": "Southeast Asian leaders meeting in Manila said Myanmar will stay excluded from full representation at summits and foreign ministers’ meetings, but agreed a phased, progress-based approach under which it could gradually return if it makes sustained progress on the bloc’s 2021 peace plan. The bloc also appeared to endorse individual members’ own outreach to Myanmar’s military-backed government. The UN estimates the civil war has killed 100,000 people.",
+     "eventDate": "2026-11-15",
+     "sources": [
+      {
+       "publisher": "The Star (Reuters)",
+       "title": "Asean keeps Myanmar restrictions but opens the path to political return",
+       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/asean-keeps-myanmar-restrictions-but-opens-the-path-to-political-return",
+       "publishedAt": "2026-11-15",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Australian MP Helen Haines left hospital for rehabilitation four weeks after she was struck by a vehicle outside her office.",
+   "briefs": [
+    {
+     "title": "Australian MP Helen Haines leaves hospital for rehabilitation",
+     "text": "Melbourne’s Alfred hospital said on Monday that the independent federal MP had been discharged, four weeks after she was struck by a vehicle outside her Wangaratta electorate office on October 19 and lost both legs. In her first statement since, Haines said she had moved into the rehabilitation stage and thanked staff and the public. A man charged over the attack is due back in court in February.",
+     "eventDate": "2026-11-16",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Helen Haines 'full of gratitude' for medical care, in first statement since alleged attack",
+       "url": "https://www.abc.net.au/news/2026-11-16/helen-haines-discharged-from-hospital-wangaratta-attack/107389928",
+       "publishedAt": "2026-11-16",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

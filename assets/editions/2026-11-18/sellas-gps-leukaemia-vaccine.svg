@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A vaccine vial and syringe beside a chain of four linked beads standing for the vaccine's four protein fragments">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g transform="translate(170 120)">
+    <rect x="30" y="0" width="60" height="26" rx="5" fill="#c8875a"/>
+    <rect x="38" y="26" width="44" height="14" fill="#7fa6c4"/>
+    <rect x="10" y="40" width="100" height="200" rx="16" fill="#12263a" stroke="#d6e6f2" stroke-width="5"/>
+    <rect x="16" y="130" width="88" height="104" rx="10" fill="#7fa6c4" opacity="0.55"/>
+  </g>
+  <g transform="translate(330 330) rotate(-35)">
+    <rect x="0" y="-16" width="230" height="32" rx="6" fill="#12263a" stroke="#d6e6f2" stroke-width="5"/>
+    <rect x="8" y="-10" width="120" height="20" fill="#7fa6c4" opacity="0.6"/>
+    <rect x="230" y="-26" width="12" height="52" fill="#d6e6f2"/>
+    <rect x="242" y="-5" width="60" height="10" fill="#d6e6f2"/>
+    <rect x="302" y="-14" width="10" height="28" fill="#d6e6f2"/>
+    <line x1="-60" y1="0" x2="0" y2="0" stroke="#d6e6f2" stroke-width="3"/>
+  </g>
+  <g stroke="#c8875a" stroke-width="6">
+    <line x1="560" y1="130" x2="620" y2="170"/><line x1="620" y1="170" x2="600" y2="240"/><line x1="600" y1="240" x2="670" y2="280"/>
+  </g>
+  <g fill="#c8875a"><circle cx="560" cy="130" r="22"/><circle cx="620" cy="170" r="22"/><circle cx="600" cy="240" r="22"/><circle cx="670" cy="280" r="22"/></g>
+</svg>

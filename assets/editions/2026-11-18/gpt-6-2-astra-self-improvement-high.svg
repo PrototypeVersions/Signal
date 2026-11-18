@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A semicircular risk dial with its needle in the highest band, beside a looping arrow that feeds back into itself">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="none" stroke-width="34" stroke-linecap="butt">
+    <path d="M150 340 A 190 190 0 0 1 219 194" stroke="#2c4257"/>
+    <path d="M219 194 A 190 190 0 0 1 340 150" stroke="#4d6c86"/>
+    <path d="M340 150 A 190 190 0 0 1 461 194" stroke="#7fa6c4"/>
+    <path d="M461 194 A 190 190 0 0 1 530 340" stroke="#c8875a"/>
+  </g>
+  <line x1="340" y1="340" x2="480" y2="232" stroke="#d6e6f2" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="340" cy="340" r="18" fill="#d6e6f2"/>
+  <g fill="none" stroke="#c8875a" stroke-width="10" stroke-linecap="round">
+    <path d="M640 210 A 70 70 0 1 1 590 330"/>
+  </g>
+  <path d="M572 312 L 590 346 L 612 316 Z" fill="#c8875a"/>
+  <line x1="120" y1="400" x2="680" y2="400" stroke="#2c4257" stroke-width="3"/>
+</svg>

@@ -1,0 +1,1495 @@
+{
+ "date": "2026-11-19",
+ "number": 33,
+ "cutoff": "2026-11-19T12:30:00Z",
+ "cutoffLabel": "6:30 AM CT",
+ "opening": "Trump, Xi Jinping and Vladimir Putin pledged talks on nuclear risks but announced no arms cuts. Iran claimed mine strikes on three tankers as Washington widened its blockade, a Houthi strike damaged a Riyadh tower, Brussels proposed more money for Ukraine, and Ethiopia and Eritrea massed troops.",
+ "leadStoryId": "trump-xi-putin-shenzhen-nuclear-dialogue",
+ "stories": [
+  {
+   "id": "trump-xi-putin-shenzhen-nuclear-dialogue",
+   "section": "world",
+   "title": "Trump, Xi and Putin declare that a nuclear war must never be fought and agree to talks on nuclear risks, but announce no arms cuts",
+   "category": "Great-power diplomacy",
+   "region": "Asia · Shenzhen, China",
+   "regions": [
+    "asia",
+    "north-america"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-19",
+   "body": "The leaders of the United States, China and Russia held their first three-way meeting on Thursday at the Kylin Villa in Shenzhen, beside the Asia-Pacific summit. According to a readout from China’s Xinhua news agency, they reaffirmed that a nuclear war cannot be won and must never be fought, and agreed to a dialogue on reducing nuclear risks and preventing the spread of nuclear weapons. They also backed reform of the United Nations, more refined fuel supplies and limits on international courts. No warhead cuts or timetable were announced.",
+   "whatChanged": "The three largest nuclear powers met together for the first time and signed up to shared principles on nuclear risk, the UN, fuel supply and the International Criminal Court, without a concrete arms control deal.",
+   "whyMatters": "Together the three hold about eleven thousand nuclear warheads, roughly nine in ten of the world’s total. A standing three-way dialogue would be new, but China has long refused to join disarmament talks on the grounds that its arsenal is far smaller.",
+   "uncertainty": "The fullest account of what was agreed comes from Chinese state media, and Reuters reported no immediate statements as the meeting ended; we had not seen a White House readout. It is unclear what form the nuclear dialogue will take, and whether there was any common ground on Ukraine or Iran.",
+   "watchNext": "Whether Washington confirms the commitments, when the promised nuclear risk talks begin, and what Trump’s envoys tell Ukraine and European leaders in Berlin about the meeting.",
+   "keyFacts": [
+    "First three-way meeting of the US, Chinese and Russian leaders, held on Thursday, November 19, in Shenzhen",
+    "The three hold an estimated 11,082 nuclear warheads, about 91 per cent of the world total (SIPRI estimates, January 2026)",
+    "Estimated arsenals: Russia about 5,420, the United States 5,042, China 620",
+    "Xinhua’s readout lists commitments on nuclear risk, UN reform, refined fuel supply and the International Criminal Court",
+    "No warhead reduction targets, verification arrangements or negotiating timetable were announced"
+   ],
+   "report": [
+    {
+     "heading": "What the leaders said",
+     "paragraphs": [
+      "Trump told the others they were making history and that the three countries were uniquely placed to discuss shrinking their arsenals, while conceding that giving up nuclear weapons is not easy. Xi said positive engagement among the three powers was a necessity rather than an option, that nuclear weapons should ultimately be banned and destroyed, and that the three should encourage parties to conflicts to negotiate. According to Reuters, he also told Trump the United States must handle Taiwan properly to avoid setbacks in relations.",
+      "Putin said the three shared many interests in settling regional conflicts, including the war in Ukraine, and that they should preserve the international legal order built around the United Nations, which Russia and the United States helped found."
+     ]
+    },
+    {
+     "heading": "The readout",
+     "paragraphs": [
+      "Xinhua’s English readout, reported by HuffPost, said the leaders committed to UN reform so the body can respond more effectively to global challenges, to work on raising production and supply of refined petroleum products for all nations, and to the position that the International Criminal Court and similar bodies must not abuse their jurisdiction. None of the three countries is a member of the court; Trump called it a rogue globalist organisation in his opening remarks. Russian state media described the text as a joint declaration. International Business Times, citing the roughly 80-minute session, noted that no reduction targets, verification arrangements or schedule emerged."
+     ]
+    },
+    {
+     "heading": "Iran, Ukraine and the gaps",
+     "paragraphs": [
+      "Trump said he and Xi both felt strongly that oil must keep flowing through the Strait of Hormuz, and told the meeting the United States would not let Iran have a nuclear weapon. Xi did not mention Iran or Ukraine directly. Earlier in the day Trump held a brief unscheduled encounter with Putin, their first face-to-face meeting since the Alaska talks of August 2025, which the Kremlin said went well. Ukraine’s chargé d’affaires in Washington had said on Wednesday that no decisions about Ukraine could be taken without Kyiv."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Shenzhen, southern China",
+    "bounds": [
+     104,
+     16,
+     124,
+     30
+    ],
+    "countries": [
+     "156"
+    ],
+    "labels": [
+     {
+      "label": "South China Sea",
+      "lon": 115.5,
+      "lat": 18.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of southern China, highlighted, with a marker at Shenzhen, where the three leaders met beside the Asia-Pacific summit.",
+    "caption": "China highlighted for context · marker shows the meeting city"
+   },
+   "locations": [
+    {
+     "label": "Kylin Villa, Shenzhen",
+     "mapLabel": "Shenzhen",
+     "lon": 114.06,
+     "lat": 22.54
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "HuffPost (via Yahoo News)",
+     "title": "Trump, Xi And Putin Reaffirmed 'Nuclear War Cannot Be Won And Must Never Be Fought': Meeting Readout",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-xi-putin-reaffirmed-nuclear-112457141.html",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ThePrint (Reuters)",
+     "title": "Trump, Xi, Putin conclude historic meeting on Ukraine war, nuclear arms",
+     "url": "https://theprint.in/world/trump-xi-putin-conclude-historic-meeting-on-ukraine-war-nuclear-arms/3103213/",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "International Business Times",
+     "title": "Trump, Xi And Putin Hold 11,082 Nuclear Warheads. Can They Agree To Cut Them?",
+     "url": "https://www.ibtimes.com/trump-putin-xi-nuclear-talks-no-deal-3809945",
+     "publishedAt": "2026-11-19",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "TRT World",
+     "title": "Xi, Trump and Putin wrap up historic trilateral talks in China's Shenzhen",
+     "url": "https://www.trtworld.com/article/1c326c5b1412",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Radio Free Europe/Radio Liberty",
+     "title": "Trump, Xi, And Putin Hold First-Ever Trilateral Meeting",
+     "url": "https://www.rferl.org/a/trump-and-putin-hold-brief-apec-meeting/33901539.html",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "trump-asia-summits-2026",
+   "threadTitle": "Trump’s Asia summits",
+   "threadSummary": "President Trump’s November 2026 trip to regional summits in the Philippines and China, including the first three-way meeting with Xi Jinping and Vladimir Putin."
+  },
+  {
+   "id": "iran-mines-tankers-blockade-ship-transfers",
+   "section": "world",
+   "title": "Iran says three tankers hit mines in the Strait of Hormuz, another is struck off Oman, and the US widens its blockade to transfers at sea",
+   "category": "Iran war",
+   "region": "Middle East · Strait of Hormuz, Iran and Oman",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-18 / 2026-11-19",
+   "body": "Iran’s army said three oil tankers struck naval mines in the eastern Strait of Hormuz on Wednesday and were disabled by fire, saying they had switched off their navigation systems and entered a closed area. Separately, the UK’s maritime trade agency reported that a projectile hit a tanker’s engine room about six nautical miles north of Khasab in Oman; the crew are safe. US Central Command said ships that take Iranian-loaded cargo from other vessels at sea may now be stopped, boarded or seized.",
+   "whatChanged": "The United States extended its blockade to cargo passed between ships at sea, while Iran claimed mine strikes on three tankers and a fresh projectile attack hit a ship off Oman.",
+   "whyMatters": "The strait normally carries about a fifth of the world’s oil and liquefied gas. Mines, unexplained strikes and a broader blockade all add to the risk of using it, and the new rule targets one of the remaining ways Iranian cargo could reach buyers.",
+   "uncertainty": "Iran named none of the three tankers and its mine claim has not been independently confirmed; it is unclear whether any is the ADNOC vessel attacked on Tuesday. Who fired at the ship off Khasab is unknown. Trump said Iran was looking at gases and biological weapons but gave no evidence, and US officials said there was no imminent threat.",
+   "watchNext": "Whether US forces board ships under the wider blockade, further incidents in the strait, and whether Trump’s talk of a lasting deal with Iran becomes negotiations.",
+   "keyFacts": [
+    "Iran’s army says three tankers hit mines in the eastern strait on Wednesday, November 18",
+    "A tanker’s engine room was hit about 6 nautical miles north of Khasab, Oman; all crew are safe",
+    "Central Command’s November 18 advisory covers ships receiving Iranian-loaded cargo through ship-to-ship transfers",
+    "The US blockade was first imposed on April 13, lifted in June and reimposed on July 14"
+   ],
+   "report": [
+    {
+     "heading": "Mines and projectiles",
+     "paragraphs": [
+      "Iran’s army said the three tankers had turned off their navigation systems before entering an area it described as closed to shipping, and that fires left all three unable to sail. It released no names, flags or owners.",
+      "The UK Maritime Trade Operations centre received a delayed report that a tanker sailing out of the strait had been hit in the engine room by an unknown projectile north of Khasab, on Oman’s Musandam Peninsula. The crew were accounted for; damage and any pollution were not immediately known. Earlier in the week a vessel run by ADNOC, the UAE’s state oil company, was struck about 13 nautical miles north of Khasab, leaving 11 injured and one missing, and the gas tanker Tara Gas was set alight, with Oman evacuating its 24 Indian crew."
+     ]
+    },
+    {
+     "heading": "A wider blockade",
+     "paragraphs": [
+      "Central Command said on Wednesday that a ship receiving cargo at sea from a vessel carrying cargo loaded in Iran may be treated as evading the blockade even if it never goes near Iran, and can be stopped, boarded, diverted or captured, with force used against ships that do not comply. The US Navy said neutral traffic to non-Iranian destinations would not be impeded, though ships remain subject to visit and search. Reuters reported that Iran has still exported some liquefied petroleum gas and jet fuel since July, while its crude exports have been close to a standstill."
+     ]
+    },
+    {
+     "heading": "Words from Washington",
+     "paragraphs": [
+      "In a Fox News interview, Trump said US officials had spoken to Iran, which he said wants a deal, and that the conflict would end soon, without giving a timetable. He also said Iran was looking at gases and biological weapons and warned that the United States would wipe Iran out if it attacked. Al Jazeera notes he offered no evidence. Secretary of State Marco Rubio said there was no imminent threat, and analysts cautioned that a research programme alone would not show an ability to strike abroad."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Strait of Hormuz",
+    "bounds": [
+     53.5,
+     24.0,
+     59.0,
+     28.0
+    ],
+    "countries": [
+     "364",
+     "512"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 54.4,
+      "lat": 26.6,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 58.0,
+      "lat": 24.8,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Strait of Hormuz with Iran and Oman highlighted and a marker north of Khasab on Oman’s Musandam Peninsula, where a tanker was hit. Iran did not say exactly where the mine strikes happened.",
+    "caption": "Iran and Oman highlighted for context · marker shows the approximate location of the Khasab incident"
+   },
+   "locations": [
+    {
+     "label": "About 6 nautical miles north of Khasab, Oman",
+     "mapLabel": "Khasab",
+     "lon": 56.25,
+     "lat": 26.3
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Anadolu Agency",
+     "title": "3 oil tankers disabled by mine blasts in Strait of Hormuz: Iranian army",
+     "url": "https://www.aa.com.tr/en/middle-east/3-oil-tankers-disabled-by-mine-blasts-in-strait-of-hormuz-iranian-army/4129906",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Arab News",
+     "title": "Tanker struck by projectile near Oman's Khasab as attacks in Hormuz continue",
+     "url": "https://www.arabnews.com/middle-east/tanker-struck-by-projectile-near-omans-khasab-as-attacks-in-hormuz-continue-3012815",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "gCaptain (Reuters)",
+     "title": "U.S. Targets Ship-to-Ship Transfers in Expanded Iran Maritime Blockade",
+     "url": "https://gcaptain.com/u-s-targets-ship-to-ship-transfers-in-expanded-iran-maritime-blockade/",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "US/Israel-Iran war: What UAE residents need to know today (Nov. 19, 2026)",
+     "url": "https://gulfnews.com/uae/usisrael-iran-war-what-uae-residents-need-to-know-today-nov-19-2026-1.500752902",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence",
+     "publishedAt": "2026-11-19",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war that began with US and Israeli strikes on Iran in February 2026, and its spread to Gulf states and shipping."
+  },
+  {
+   "id": "houthi-strike-damages-pif-tower-riyadh",
+   "section": "world",
+   "title": "A Houthi missile attack damages the Saudi sovereign wealth fund’s tower in Riyadh, and Yemen’s government declares the Houthis terrorists",
+   "category": "War in Yemen",
+   "region": "Middle East · Saudi Arabia and Yemen",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-19",
+   "body": "Before dawn on Thursday, a strike on Riyadh’s financial district damaged the headquarters tower of the Public Investment Fund, Saudi Arabia’s sovereign wealth fund, Reuters reported, citing three sources. The Saudi-led coalition said debris from a missile it had dealt with caused material damage, and that it intercepted four ballistic missiles and a cruise missile aimed at the south. The Houthis said they targeted Riyadh’s airport and financial centre. The same day, Yemen’s Presidential Leadership Council designated the group a terrorist organisation.",
+   "whatChanged": "Houthi fire reached the centre of the Saudi capital’s financial district, and Yemen’s internationally recognised leadership formally branded the group terrorists, with severe penalties for anyone who works with it.",
+   "whyMatters": "Damage to the headquarters of the fund behind Saudi Arabia’s economic plans shows the Houthis can reach high-value targets in the capital, as fighting that resumed in August breaks the 2022 truce and spreads across Yemen and into the kingdom.",
+   "uncertainty": "The extent of the damage and any casualties in Riyadh had not been reported, and the coalition did not say whether the missile was intercepted. Houthi claims of hits on the airport, Khamis Mushait and Abha are unconfirmed.",
+   "watchNext": "Damage and casualty reports from Riyadh, the scale of Saudi retaliation, and fighting around Taiz and Lahij, where UNICEF warns casualties could rise.",
+   "keyFacts": [
+    "Strike on the Public Investment Fund Tower in Riyadh’s financial district before dawn on Thursday, November 19",
+    "The coalition says it intercepted four ballistic missiles, destroyed a cruise missile and hit a launch platform in Saada",
+    "World Health Organization: 2,260 killed and 10,519 wounded since the escalation began in August",
+    "UNICEF: more than 330,000 people displaced, including about 174,000 children",
+    "Cooperation with the Houthis can now be punished by death or by prison terms of 30 years or more"
+   ],
+   "report": [
+    {
+     "heading": "The strike on Riyadh",
+     "paragraphs": [
+      "Saudi civil defence sent a phone alert warning of an aerial threat before dawn, and a loud explosion was heard across the capital before an all-clear. The coalition spokesman, Major General Turki al-Maliki, said the damage was being assessed. In separate statements the coalition said air defences had destroyed a cruise missile and intercepted four ballistic missiles fired at the southern region bordering Yemen, and had destroyed a launch platform in Saada province. The Houthis said they had targeted Riyadh’s international airport, which has been hit before, and the financial centre, as well as Khamis Mushait and Abha.",
+      "The Houthi-run Saba news agency reported Saudi air raids on Sanaa on Thursday, without details."
+     ]
+    },
+    {
+     "heading": "A terrorist designation",
+     "paragraphs": [
+      "The Presidential Leadership Council’s designation means anyone who cooperates with the Houthis can be prosecuted, with penalties including execution or prison terms of 30 years or more. Yemen’s parliament had approved a separate law designating the group on November 17. Government forces said they had carried out about 750 air strikes and operations against the Houthis on several fronts, including Taiz and Lahij."
+     ]
+    },
+    {
+     "heading": "A war resumed",
+     "paragraphs": [
+      "The fighting has broken the 2022 UN-brokered truce that largely halted attacks between the coalition and the Houthis, who control Yemen’s most populous areas. The Houthis seized strategic ground on the Red Sea coast last month and have struck Saudi military, civilian and oil sites for weeks. The World Health Organization counts 2,260 dead since the escalation began in August, and UNICEF says more than 330,000 people have fled their homes."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Saudi Arabia and Yemen",
+    "bounds": [
+     38,
+     12,
+     54,
+     28
+    ],
+    "countries": [
+     "682",
+     "887"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 39.5,
+      "lat": 19.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Arabian Peninsula with Saudi Arabia and Yemen highlighted, and markers at Riyadh, where the fund’s tower was damaged, and at Sanaa and Saada in Houthi-held Yemen.",
+    "caption": "Saudi Arabia and Yemen highlighted for context · markers show approximate reporting locations"
+   },
+   "locations": [
+    {
+     "label": "Riyadh financial district",
+     "mapLabel": "Riyadh",
+     "lon": 46.64,
+     "lat": 24.76
+    },
+    {
+     "label": "Sanaa, Yemen",
+     "mapLabel": "Sanaa",
+     "lon": 44.21,
+     "lat": 15.35
+    },
+    {
+     "label": "Saada province, Yemen",
+     "mapLabel": "Saada",
+     "lon": 43.76,
+     "lat": 16.94
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The National",
+     "title": "Saudi wealth fund PIF's tower in Riyadh damaged by Houthi strike",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+     "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "yemen-war",
+   "threadTitle": "Yemen’s war",
+   "threadSummary": "The war between Yemen’s Houthi movement and the Saudi-backed government, and its effects on Red Sea shipping."
+  },
+  {
+   "id": "eu-45bn-ukraine-loan-berlin-coalition",
+   "section": "world",
+   "title": "The EU proposes a new 45 billion euro loan to keep Ukraine funded in 2027, as allies meet Trump’s envoys in Berlin",
+   "category": "War in Ukraine",
+   "region": "Europe · Brussels, Berlin and Ukraine",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-18 / 2026-11-19",
+   "body": "The European Commission proposed on Wednesday to lend Ukraine another 45 billion euros in 2027, raised through joint EU borrowing: 20 billion for the budget and 25 billion for weapons such as drones, missiles and air defence interceptors. Ukraine would repay only if Russia pays reparations. Slovakia, Czechia, Hungary and Bulgaria say they will not take part. On Thursday, leaders of the Coalition of the Willing met in Berlin with President Zelensky and Trump’s envoys, Steve Witkoff and Jared Kushner.",
+   "whatChanged": "Brussels moved to cover about two-thirds of Ukraine’s 70 billion euro budget gap for 2027, as European leaders and US envoys gathered to discuss the next stage of peace efforts.",
+   "whyMatters": "The EU’s earlier lending assumed the war would end this year. Without new money Ukraine faces a deep hole in next year’s budget, and the fight over who takes part, with Germany threatening to block the next EU budget, tests European unity while Washington presses for a deal.",
+   "uncertainty": "EU leaders only begin debating the plan next week, and how countries could opt out is unclear. The outcome of the Berlin meeting was not known at our cutoff, and reports give differing counts of the countries attending.",
+   "watchNext": "The Berlin meeting’s conclusions and press conference on Thursday afternoon, and the first debate on the loan at the EU leaders’ summit in Brussels next week.",
+   "keyFacts": [
+    "Proposed loan: 45 billion euros, 20 billion for budget support and 25 billion for weapons, paid out through 2027",
+    "Ukraine’s 2027 budget shortfall is 70 billion euros; the UK, Norway, Canada and Japan are expected to help with the rest",
+    "It would add to the 90 billion euro loan EU leaders agreed in December 2025",
+    "Brussels reserves the right to use 210 billion euros of immobilised Russian assets if Moscow refuses to pay reparations",
+    "Slovakia, Czechia, Hungary and Bulgaria say they will not take part"
+   ],
+   "report": [
+    {
+     "heading": "The proposal",
+     "paragraphs": [
+      "Ursula von der Leyen’s plan splits the money into a civilian and a military pillar, partly to answer governments that oppose financing weapons. It would be paid out gradually through 2027, and AAA-rated allies could add another 5 billion euros. Kyiv would not be expected to repay from its own pocket: repayment depends on Russian reparations, and if Moscow refuses, the EU reserves the right to draw on frozen Russian assets. Borrowing will be costly because interest rates have risen this year, and the economy commissioner, Valdis Dombrovskis, said the EU budget would have to be re-examined to cover the interest."
+     ]
+    },
+    {
+     "heading": "The politics",
+     "paragraphs": [
+      "Slovakia, Czechia and Hungary had an opt-out from last year’s loan and want to keep it, and Bulgaria has joined them. Germany’s chancellor, Friedrich Merz, has threatened to veto the next long-term EU budget, including regional funds, if the 27 do not agree on new Ukraine aid; Slovakia’s prime minister, Robert Fico, called that blackmail. Von der Leyen backed Merz and said she was very confident all member states would support the plan."
+     ]
+    },
+    {
+     "heading": "Berlin",
+     "paragraphs": [
+      "The Berlin meeting at the Chancellery was co-hosted by Merz, France’s Emmanuel Macron and Britain’s Andy Burnham. The German government said 37 countries plus EU and NATO leaders were taking part. The agenda covered next steps after the US, Ukrainian and Russian talks in Abu Dhabi on November 10 and 11, a direct European role in peace efforts, air defence and Ukraine’s 2027 financing, as well as post-ceasefire security guarantees. Zelensky said he expected the US envoys to brief him on Trump’s talks with Xi and Putin, and that issues concerning Ukraine must be decided with Ukraine. The Kyiv Independent, citing unnamed sources, reported that the envoys have warned both sides that time to secure a deal is running out."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Ukraine’s 2027 funding gap and EU lending",
+    "measure": "Amount",
+    "unit": "billion euros",
+    "values": [
+     {
+      "label": "Ukraine’s 2027 budget shortfall",
+      "value": 70
+     },
+     {
+      "label": "Proposed new EU loan for 2027",
+      "value": 45
+     },
+     {
+      "label": "EU loan agreed in December 2025",
+      "value": 90
+     }
+    ],
+    "alt": "Bar chart: Ukraine’s 2027 budget shortfall of 70 billion euros, the proposed new EU loan of 45 billion euros, and the 90 billion euro loan agreed in December 2025.",
+    "caption": "Figures as reported by Euronews · the 2025 loan covered earlier needs and is still being paid out",
+    "sourceUrl": "https://www.euronews.com/2026/11/18/von-der-leyen-proposes-45bn-loan-to-ukraine-backed-by-joint-debt"
+   },
+   "sources": [
+    {
+     "publisher": "Euronews",
+     "title": "Von der Leyen proposes €45bn loan to Ukraine backed by joint debt",
+     "url": "https://www.euronews.com/2026/11/18/von-der-leyen-proposes-45bn-loan-to-ukraine-backed-by-joint-debt",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "UA.NEWS",
+     "title": "The Coalition of the Willing summit, with Zelensky in attendance, kicks off in Berlin",
+     "url": "https://ua.news/en/world/u-berlini-startuie-samit-koalitsiyi-okhochikh-za-uchastiu-zelenskogo",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Interfax-Ukraine",
+     "title": "Zelenskyy arrives in Berlin for Coalition of the Willing meeting",
+     "url": "https://en.interfax.com.ua/news/general/1239165.html",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "Zelenskyy says he expects debrief from US envoys on Trump's talks with Xi and Putin",
+     "url": "https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Independent",
+     "title": "Trump's envoys warn Russia that time is running out to secure a deal on Ukraine",
+     "url": "https://kyivindependent.com/exclusive-trumps-envoys-warn-russia-that-time-is-running-out-to-secure-a-deal-on-ukraine/",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+  },
+  {
+   "id": "ethiopia-eritrea-forces-mass-border",
+   "section": "world",
+   "title": "Ethiopia and Eritrea mass troops along their border, raising fears of a new war between them",
+   "category": "Conflict risk",
+   "region": "Africa · Ethiopia and Eritrea",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-12 / 2026-11-18",
+   "body": "Ethiopian and Eritrean forces are now within striking distance of each other along their shared border, according to the conflict monitor ACLED, the International Crisis Group and sources linked to Tigrayan armed groups, Reuters reported on Wednesday. ACLED says Ethiopian drones targeted likely Eritrean positions near the disputed town of Badme on November 12, Eritrean artillery fired back, and the two armies clashed on the Ethiopian side the next day. Reuters could not verify the clashes, and one source disputed them.",
+   "whatChanged": "Monitors now describe the two armies as massed within striking distance, and ACLED reports what would be their first direct exchange of fire in more than a month.",
+   "whyMatters": "The neighbours fought a border war from 1998 to 2000, centred on Badme, that killed tens of thousands. Open war between them would widen the conflict in Tigray, which resumed in September, and destabilise the Horn of Africa.",
+   "uncertainty": "Whether the armies have actually fought is disputed and unverified, troop numbers are unknown, and Ethiopia’s government has not commented. Eritrea denies sending troops into Tigray.",
+   "watchNext": "Further monitoring reports from around Badme, any statement from Addis Ababa, and whether fighting between Ethiopia’s army and Tigrayan rebels near the border spreads.",
+   "keyFacts": [
+    "ACLED says Ethiopian drones targeted likely Eritrean positions near Badme on November 12, and Eritrean artillery replied",
+    "ACLED reports the two armies clashed on the Ethiopian side of the border on November 13",
+    "Fighting between Ethiopia’s government and Tigrayan rebels broke out in September 2026",
+    "The 1998 to 2000 border war killed tens of thousands; a UN commission later assigned Badme to Eritrea",
+    "The border is more than 1,000 kilometres long"
+   ],
+   "report": [
+    {
+     "heading": "What monitors report",
+     "paragraphs": [
+      "ACLED says artillery fire and armed clashes have taken place near Badme since last week. A source linked to Tigrayan rebels described sporadic clashes without detail, while a source close to the pro-government Tigray Peace Force said there had been no fighting between the two countries and that Ethiopian troops were moving toward the border to pursue rebels. Magnus Taylor of the International Crisis Group did not confirm clashes but warned that fighting near the border could escalate and pull Eritrea further in on the Tigrayan side."
+     ]
+    },
+    {
+     "heading": "Claims and denials",
+     "paragraphs": [
+      "Ethiopia’s government and witnesses said Eritrean troops entered Tigray in early October to support the rebels. Eritrea denies any incursion and accuses Addis Ababa of seeking a pretext to invade; its information minister, Yemane Gebremeskel, dismissed what he called propaganda from Ethiopia’s ruling party but did not address the build-up. Ethiopian spokespeople did not respond to Reuters. Ethiopia also accuses Sudan and Egypt of backing the rebels, which all three deny."
+     ]
+    },
+    {
+     "heading": "Background",
+     "paragraphs": [
+      "The two countries made peace in 2018 and fought on the same side in the 2020 to 2022 Tigray war, but relations have soured since. Eritrea sees Prime Minister Abiy Ahmed’s talk of gaining access to the sea as an implicit threat; Abiy says Ethiopia will pursue it peacefully."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Ethiopia–Eritrea border",
+    "bounds": [
+     34,
+     10,
+     44,
+     18.5
+    ],
+    "countries": [
+     "231",
+     "232"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 40.2,
+      "lat": 16.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Ethiopia and Eritrea, both highlighted, with a marker at Badme on their shared border, where monitors report clashes. Troop positions elsewhere along the border are not known.",
+    "caption": "Ethiopia and Eritrea highlighted for context · marker shows Badme, an approximate reporting location"
+   },
+   "locations": [
+    {
+     "label": "Badme, on the Ethiopia–Eritrea border",
+     "mapLabel": "Badme",
+     "lon": 37.78,
+     "lat": 14.73
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al-Monitor (Reuters)",
+     "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+     "url": "https://www.al-monitor.com/originals/2026/11/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "OkayAfrica",
+     "title": "Today in Africa — Nov. 18, 2026",
+     "url": "https://www.okayafrica.com/today-in-africa-nov-18-2026-ethiopia-and-eritrea-reportedly-amass-forces-along-their-border-senegals-ruling-party-expels-president-faye/1442026",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ethiopia-tigray-eritrea",
+   "threadTitle": "Ethiopia, Tigray and Eritrea",
+   "threadSummary": "The fighting between Ethiopia’s federal government and Tigrayan rebels that broke out in September 2026, and the risk that it draws in neighbouring Eritrea."
+  },
+  {
+   "id": "crimean-bridge-hit-again-rail-halted",
+   "section": "more",
+   "title": "Ukraine hits the Crimean bridge again, two days after bringing down a road span, and rail traffic is halted",
+   "category": "War in Ukraine",
+   "region": "Europe · Crimea and Ukraine",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-18 / 2026-11-19",
+   "whatChanged": "A second strike just after midnight on Thursday stopped the rail traffic that had resumed on the bridge after Tuesday’s attack.",
+   "body": "Crimea’s Russian-installed head, Sergey Aksyonov, confirmed the new hit; the Kyiv Independent could not independently verify the extent of the damage. Experts have said repairs to the 19-kilometre bridge could take a year or more. Russian attacks killed four people and injured 36 across Ukraine over the past day, including in three strikes on central Odesa, and overnight Russia launched anti-ship missiles and 98 drones, of which Ukraine said 69 were stopped.",
+   "sources": [
+    {
+     "publisher": "Kyiv Independent",
+     "title": "Ukrainian forces once more hit Russia's Crimean Bridge as railway traffic halted days after devastating strike",
+     "url": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Independent",
+     "title": "Russian attacks kill 4, injure 36, including 11-year-old boy, 12-year-old girl, across Ukraine over past day",
+     "url": "https://kyivindependent.com/russian-attacks-kill-4-injure-36-including-11-year-old-boy-12-year-old-girl-across-ukraine-over-past-day/",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Post",
+     "title": "Russia Pounds Odesa's Historic Heart in 3 Strikes, Killing 4 and Wounding 9",
+     "url": "https://www.kyivpost.com/post/90463",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+  },
+  {
+   "id": "eisenkot-bloc-knesset-repeal-votes",
+   "section": "more",
+   "title": "Israel’s new Knesset votes to begin repealing Netanyahu’s judicial overhaul laws, as the opposition bloc rejects any government with him",
+   "category": "Israeli politics",
+   "region": "Middle East · Israel",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-18",
+   "whatChanged": "Bills to repeal laws on judicial appointments, the attorney general and the media passed preliminary readings by 63 votes to 47 or 49, and the bloc led by Gadi Eisenkot called replacing Netanyahu its top priority.",
+   "body": "The vote came after Naftali Bennett met Netanyahu for two to three hours on Wednesday without coordinating with Eisenkot; Bennett’s camp says he will not serve under Netanyahu and would back a unity rotation only with Eisenkot as prime minister first. Eisenkot, Bennett, Yair Lapid, Yair Golan and Avigdor Liberman then called for an emergency government led by Eisenkot. Reports differ on whether Eisenkot’s mandate to form a government runs to December 6 or the end of December.",
+   "sources": [
+    {
+     "publisher": "Jerusalem Post",
+     "title": "Replacing Netanyahu is 'top priority,' Eisenkot-led bloc declares after leaders' meeting in Knesset",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915329",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Israel National News",
+     "title": "Bennett proposes unity government with Netanyahu, Eisenkot first in rotation",
+     "url": "https://www.israelnationalnews.com/news/436548",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Times of Israel",
+     "title": "Liveblog, November 18, 2026",
+     "url": "https://www.timesofisrael.com/liveblog-november-18-2026/",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "israel-election-2026",
+   "threadTitle": "Israel's 2026 election",
+   "threadSummary": "Israel’s 2026 general election and the struggle to form a government afterwards."
+  },
+  {
+   "id": "fed-minutes-more-rate-rises",
+   "section": "more",
+   "title": "Minutes of the Federal Reserve’s October meeting show almost all officials expect further interest rate rises",
+   "category": "US economy",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-18",
+   "whatChanged": "The minutes, released on Wednesday, show the decision to hold rates in October was a close call for some officials, and that a couple were open to a bigger rise in December if inflation data disappoint.",
+   "body": "The Fed held its target range at 3.75 to 4 per cent in October. Its staff put inflation on its preferred measure at 3.6 per cent in the year to September, and linked part of the rise in goods prices to spending on AI and data centres, which stayed strong while housing weakened. The next decision is due on December 9.",
+   "sources": [
+    {
+     "publisher": "Federal Reserve Board",
+     "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+     "publishedAt": "2026-11-18",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "InvestmentNews",
+     "title": "The Fed came close to an October rate hike, FOMC minutes show",
+     "url": "https://www.investmentnews.com/equities/the-fed-came-close-to-an-october-rate-hike-fomc-minutes-show/269079",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-economy",
+   "threadTitle": "The US economy",
+   "threadSummary": "Inflation, interest rates, jobs and growth in the United States."
+  },
+  {
+   "id": "australia-unemployment-4-9",
+   "section": "more",
+   "title": "Australia’s unemployment rate jumps to 4.9 per cent, its highest since 2021, as economists warn of recession",
+   "category": "Australian economy",
+   "region": "Oceania · Australia",
+   "regions": [
+    "oceania"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-19",
+   "whatChanged": "Official figures for October showed employment falling by 43,500 and the jobless rate rising from 4.7 per cent, a level the central bank had not expected until late 2028.",
+   "body": "Youth unemployment rose to 11.3 per cent and the share of people in work fell. The Reserve Bank raised rates for the fifth time this year earlier in November; Moody’s said the figures close the door on another rise in December, and BetaShares’ David Bassanese said the economy already has one foot in recession. The Australian dollar fell to about 67 US cents.",
+   "sources": [
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "Unemployment rate surges to 4.9pc in October, taking analysts by surprise",
+     "url": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "Markets live: Leading economists warn economic data shows Australia approaching recession",
+     "url": "https://www.abc.net.au/news/2026-11-19/asx-markets-business-news-live-updates-thursday-19-november/107401802",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "australia-interest-rates",
+   "threadTitle": "Australia’s interest rates",
+   "threadSummary": "The Reserve Bank of Australia’s run of rate rises in 2026 as inflation climbs above its target."
+  },
+  {
+   "id": "mongolia-parliament-accepts-resignation",
+   "section": "more",
+   "title": "Mongolia’s parliament accepts President Khurelsukh’s resignation, triggering an election within four months",
+   "category": "Mongolian politics",
+   "region": "Asia · Mongolia",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-19",
+   "whatChanged": "Lawmakers approved the resignation on Thursday with immediate effect, a day after Ukhnaagiin Khurelsukh announced it.",
+   "body": "The speaker of parliament becomes acting president until an election, which must be held within four months; Khurelsukh’s term was due to end in June 2027. He has denied accusations by a former Ulaanbaatar mayor, now in exile in Canada, that he profited from a railway project.",
+   "sources": [
+    {
+     "publisher": "WRAL (Associated Press)",
+     "title": "Mongolia's lawmakers accept the president's resignation following corruption accusations",
+     "url": "https://www.wral.com/news/ap/226d1-mongolias-lawmakers-accept-the-presidents-resignation-following-corruption-accusations/",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News (Associated Press)",
+     "title": "Mongolia's lawmakers accept the president's resignation following corruption accusations",
+     "url": "https://abcnews.com/International/wireStory/mongolias-lawmakers-accept-presidents-resignation-corruption-accusations-138282020",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "mongolia-politics",
+   "threadTitle": "Mongolia’s politics",
+   "threadSummary": "Political turmoil and corruption allegations at the top of Mongolia’s government."
+  },
+  {
+   "id": "iraq-kataib-hezbollah-jurf-al-sakhr",
+   "section": "more",
+   "title": "Iraq orders troops into a stronghold of the Kataib Hezbollah militia, which refuses to leave before a Friday deadline",
+   "category": "Iraqi security",
+   "region": "Middle East · Iraq",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-18",
+   "whatChanged": "Iraq’s armed forces command ordered the army, federal police and the Popular Mobilisation Forces to take control of Jurf al-Sakhr, which the Iran-aligned group has held since 2014.",
+   "body": "Authorities accuse the group of smuggling oil worth tens of millions of dollars, and an AFP source says it was given until Friday, November 20, to leave. A Kataib Hezbollah commander said it would not withdraw and called Prime Minister Ali al-Zaidi an adventurer. Kurdish and US-funded outlets reported that al-Zaidi and Iran’s Quds Force chief agreed on a withdrawal, which neither government has confirmed.",
+   "sources": [
+    {
+     "publisher": "Arab News",
+     "title": "Standoff with Kataeb Hezbollah tests Iraq's plan to disarm militias",
+     "url": "https://www.arabnews.com/middle-east/standoff-with-kataeb-hezbollah-tests-iraqs-plan-to-disarm-militias-3012680",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting and analysis"
+    },
+    {
+     "publisher": "Middle East Monitor",
+     "title": "Iraq's Kata'ib Hezbollah rejects government ultimatum to withdraw from Jurf al-Sakhr",
+     "url": "https://www.middleeastmonitor.com/20261118-iraqs-kataib-hezbollah-rejects-government-ultimatum-to-withdraw-from-jurf-al-sakhr/",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "iraq-armed-factions",
+   "threadTitle": "Iraq’s armed factions",
+   "threadSummary": "The Iraqi government’s effort to bring Iran-aligned armed groups under state control."
+  },
+  {
+   "id": "bangladesh-awami-lockdown-bombs",
+   "section": "more",
+   "title": "Bombs explode in Dhaka as the Awami League begins a nationwide lockdown over Sheikh Hasina’s planned return",
+   "category": "Bangladeshi politics",
+   "region": "Asia · Bangladesh",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-18 / 2026-11-19",
+   "whatChanged": "The lockdown began on Thursday, the anniversary of Hasina’s death sentence, with crude bombs injuring at least four people in Dhaka before dawn, after days of deadly violence.",
+   "body": "Hasina, in exile in India, says she will return in December, though the government has refused her a passport. Several political killings preceded the lockdown, Muhammad Yunus’s ancestral home in Chattogram was set on fire, and the government has deployed paramilitary border guards. Arrest figures differ between reports because they cover different operations.",
+   "sources": [
+    {
+     "publisher": "Kathmandu Post (Reuters)",
+     "title": "Bangladesh deploys paramilitary as unrest grows over Hasina's return",
+     "url": "https://kathmandupost.com/world/2026/11/18/bangladesh-deploys-paramilitary-as-unrest-grows-over-hasina-s-return",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "National Herald",
+     "title": "Dhaka rocked by blasts, Yunus's home set ablaze amid Awami League lockdown",
+     "url": "https://www.nationalheraldindia.com/international/dhaka-rocked-by-blasts-muhammad-yunuss-home-set-ablaze-amid-awami-league-lockdown",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "bangladesh-politics",
+   "threadTitle": "Bangladesh’s politics",
+   "threadSummary": "Bangladesh after the 2024 uprising that ousted Sheikh Hasina, its elections and the cases against her."
+  },
+  {
+   "id": "anthropic-ipo-priced-83",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Anthropic prices its share sale at 83 dollars, above its range, raising about 81 billion dollars before trading begins on Nasdaq",
+   "category": "AI company listing",
+   "region": "Global · United States",
+   "regions": [],
+   "status": "Major development",
+   "eventDate": "2026-11-18 / 2026-11-19",
+   "hook": "A record-sized test of what public investors will pay for an AI developer whose revenue is soaring but whose accounts still show heavy losses.",
+   "body": "Anthropic, the maker of the Claude AI models, priced its initial public offering at 83 dollars a share, above the 70 to 78 dollar range it set last week, and sold about 980 million shares rather than the 825 million first planned. CoinCodex puts the raise at 81.3 billion dollars, which would be the largest initial sale on record, and chip and cloud partners are buying a further 26 billion dollars of shares at the same price. Trading under the ticker ANT is due to begin on Thursday.",
+   "whatChanged": "Strong demand pushed the price above the marketed range and increased the number of shares sold by roughly a fifth.",
+   "whyMatters": "It is the first listing of a US company focused entirely on AI, and its reception will shape how rivals approach public markets; OpenAI has said a debut is likely in 2027.",
+   "uncertainty": "Reported valuations differ, from about 1.4 trillion dollars in a Bloomberg-sourced report to about 1.5 trillion on a fully diluted basis. The first trade had not happened at our cutoff. SpaceX, whose June listing set the previous mark, fell sharply in the weeks after its debut.",
+   "watchNext": "The opening trade on Thursday, whether the banks exercise their option to sell extra shares, and Anthropic’s first quarterly results as a listed company.",
+   "keyFacts": [
+    "Priced at 83 dollars a share, against a marketed range of 70 to 78 dollars",
+    "About 980 million shares sold, up from 825 million planned; seven co-founders sold about 24 million of them",
+    "Revenue of about 17 billion dollars in July to September, roughly 12 times a year earlier",
+    "Nine-month net loss of 104 billion dollars, driven mainly by changes in the value of convertible notes and derivatives",
+    "Orders were reported at about six times the shares on offer"
+   ],
+   "report": [
+    {
+     "heading": "The pricing",
+     "paragraphs": [
+      "Bloomberg reported the 83 dollar price early on Thursday, above an earlier estimate of 80 dollars. According to CoinCodex, about 956 million of the shares come from the company and about 24 million from its seven co-founders, and Google, Microsoft, Nvidia and AMD have agreed to buy 26 billion dollars of non-voting shares at the offer price, taking the total to about 107 billion dollars. SpaceX raised 75 billion dollars in its June listing before its banks sold extra shares, lifting its total to 85.7 billion."
+     ]
+    },
+    {
+     "heading": "The business behind it",
+     "paragraphs": [
+      "Anthropic’s filings show revenue of 33.2 billion dollars in the first nine months of 2026, against 2.5 billion in the whole of 2025, driven largely by its Claude Code programming tool. Customers spending more than 100,000 dollars a year rose from about 1,500 in December 2025 to more than 11,900 at the end of September. The company reported an operating profit of 974 million dollars in the second quarter but an operating loss of 567 million in the third, and it has about 895 billion dollars of commitments, mostly for computing and data centres."
+     ]
+    },
+    {
+     "heading": "Caveats",
+     "paragraphs": [
+      "Most of the large net loss reflects accounting for notes that convert into stock rather than cash spent. Lock-ups will keep most insiders from selling for six months to a year, so some investors say the market’s verdict will come later. Not everyone is convinced: one analyst at Seaport Research expects the company to slip back into operating losses. The Signal is produced with Claude, an Anthropic model; we report the listing as we would any other."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "The two largest initial share sales",
+    "measure": "Initial proceeds, before extra shares sold by banks",
+    "unit": "billion dollars",
+    "values": [
+     {
+      "label": "Anthropic, November 2026",
+      "value": 81.3
+     },
+     {
+      "label": "SpaceX, June 2026",
+      "value": 75
+     }
+    ],
+    "alt": "Bar chart comparing initial proceeds: Anthropic about 81.3 billion dollars and SpaceX 75 billion dollars, before any extra shares sold by their banks.",
+    "caption": "As reported by CoinCodex · SpaceX’s total later reached 85.7 billion dollars with extra shares; Anthropic’s 26 billion dollar side sale is not included",
+    "sourceUrl": "https://coincodex.com/article/95629/anthropic-stock-priced-at-83-tops-spacex-with-record-81b-ipo/"
+   },
+   "sources": [
+    {
+     "publisher": "Yahoo Finance",
+     "title": "Anthropic IPO live: Company said to price stock at $83, begin trading Thursday",
+     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CoinCodex",
+     "title": "Anthropic Stock Priced at $83, Tops SpaceX with Record $81B IPO",
+     "url": "https://coincodex.com/article/95629/anthropic-stock-priced-at-83-tops-spacex-with-record-81b-ipo/",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Stock Titan",
+     "title": "Anthropic IPO Sells 980 Million Shares at $83, Live Through ANT's First Trade",
+     "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting (summary of filings)"
+    }
+   ],
+   "threadId": "ai-company-listings",
+   "threadTitle": "AI companies on the stock market",
+   "threadSummary": "Stock market listings by AI companies and what they reveal about investor demand."
+  },
+  {
+   "id": "iea-data-centre-emissions-2030",
+   "section": "frontiers",
+   "field": "Energy",
+   "title": "The International Energy Agency projects that emissions from data centres will rise by about 70 per cent by 2030 as AI drives demand",
+   "category": "Energy outlook",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-19",
+   "hook": "A projection, not a measurement, but it puts numbers on how much of AI’s power will come from gas and coal.",
+   "body": "In its annual World Energy Outlook, the International Energy Agency projects that electricity use by data centres will roughly double by 2030, with AI accounting for about three-quarters of the increase. It expects their emissions to rise by about 70 per cent, because much of the new power will come from gas in the United States and coal in China. Using satellite imagery, it tracked 93 large AI campuses heading toward about 50 gigawatts of demand, close to Great Britain’s peak.",
+   "whatChanged": "The agency’s flagship outlook now gives a detailed, region-by-region picture of where AI’s extra electricity will come from and what it will emit.",
+   "whyMatters": "Grid operators and governments are deciding now what to build for data centres. If most new supply is fossil-fuelled, AI growth will work against climate targets, and in some markets planned projects would exceed today’s entire peak demand.",
+   "uncertainty": "These are scenario projections, and coverage did not specify which scenario the 70 per cent figure comes from. The industry is opaque, so the agency relies on chip shipments and satellite images, and it says this year’s outlook is unusually uncertain after the energy shock from the war in the Middle East.",
+   "watchNext": "How governments and utilities respond, including the US Senate permitting bill passed on Wednesday that would make large data centres pay for grid upgrades.",
+   "keyFacts": [
+    "Data centre electricity use projected to roughly double by 2030, with AI about three-quarters of the rise",
+    "Data centre emissions projected to rise by about 70 per cent by 2030",
+    "Data centre investment expected to reach about 4 trillion dollars by 2030, up from 565 billion in 2025",
+    "93 large AI campuses tracked by satellite, heading toward about 50 gigawatts combined",
+    "Expected mix by 2030: about 60 per cent gas in the US, about half coal for AI in China, about 70 per cent renewables in the EU"
+   ],
+   "report": [
+    {
+     "heading": "What the agency projects",
+     "paragraphs": [
+      "The outlook says AI will add roughly 350 terawatt hours a year of data centre demand by 2030. Investment in data centres is expected to climb from 565 billion dollars in 2025 to about 4 trillion dollars by the end of the decade. The agency used satellite images to follow 93 very large AI sites whose combined demand is heading toward 50 gigawatts, roughly the peak electricity demand of Great Britain. Because that growth is concentrated in a small number of places, Bloomberg’s account of the report stresses the strain on local power grids."
+     ]
+    },
+    {
+     "heading": "Where the power comes from",
+     "paragraphs": [
+      "The picture varies sharply by region. In the United States, gas is expected to supply about 60 per cent of data centre power, and about 180 gigawatts of gas plants linked to data centres were planned as of August. In China, about half of the power for AI data centres comes from coal. In the European Union, about 70 per cent is expected to come from renewables. In some markets, the data centres already planned would draw more than today’s peak electricity demand."
+     ]
+    },
+    {
+     "heading": "Limits",
+     "paragraphs": [
+      "Because companies disclose little about their facilities, the estimates rest on server shipments and imagery rather than reported consumption. The agency also stresses that its whole outlook carries more uncertainty than usual because of disruption to oil and gas markets this year."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-19/iea-data-centre-emissions-2030.svg",
+    "alt": "A row of server cabinets with blinking lights, fed by a power line from a chimney releasing a grey plume, standing for data centres drawing electricity from fossil-fuelled power plants.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Irish Examiner (The Guardian)",
+     "title": "AI datacentres set to drive 70% rise in carbon emissions by 2030, IEA warns",
+     "url": "https://www.irishexaminer.com/world/arid-41939628.html",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Free Malaysia Today (Bloomberg)",
+     "title": "IEA sees data centre boom pushing power grids to the limit",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/19/iea-sees-data-centre-boom-pushing-power-grids-to-the-limit",
+     "publishedAt": "2026-11-19",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-energy-demand",
+   "threadTitle": "AI’s energy demand",
+   "threadSummary": "How the build-out of AI data centres is changing electricity demand, power supply and emissions."
+  },
+  {
+   "id": "homo-erectus-late-survival-china",
+   "section": "frontiers",
+   "field": "Science",
+   "title": "Fossil teeth from southern China suggest Homo erectus survived there about 200,000 years longer than thought",
+   "category": "Human evolution",
+   "region": "Asia · Guangxi, China",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-18",
+   "hook": "A solid, peer-reviewed revision of an ancestor’s timeline, though the hint of a second human species rests on a single tooth.",
+   "body": "A study published in Nature on Wednesday reports nine teeth from two caves in Guangxi, southern China, dated to between about 324,000 and 184,000 years ago. Using tooth shape and ancient proteins in the enamel, researchers identified eight as Homo erectus, making them the youngest securely dated fossils of the species from mainland Asia, where it was thought to have largely vanished about 400,000 years ago. The animals and chemistry of the site point to a tropical rainforest habitat.",
+   "whatChanged": "The record for Homo erectus in mainland East Asia now extends well into the late Middle Pleistocene, in a rainforest setting once thought to suit only modern humans.",
+   "whyMatters": "It changes the picture of which human relatives lived in East Asia, and where, during a period when several species may have overlapped, and shows how protein analysis can identify fossils too old for DNA.",
+   "uncertainty": "A ninth tooth matches no known species and may be Denisovan, but that suggestion of two species living side by side rests on one ambiguous specimen. We found no independent expert comment on the dating methods.",
+   "watchNext": "Further protein work on the unidentified tooth, and whether other Asian sites yield similarly late dates.",
+   "keyFacts": [
+    "Published in Nature on November 18, 2026",
+    "Nine teeth from Baxian and Naxian caves in Guangxi; eight identified as Homo erectus",
+    "Dated to between about 324,000 and 184,000 years ago by uranium-series and sediment analysis",
+    "The species was thought to have largely disappeared from mainland Asia about 400,000 years ago"
+   ],
+   "report": [
+    {
+     "heading": "The find",
+     "paragraphs": [
+      "The team dated the teeth and the mineral crusts above them with uranium-series methods and analysed the cave sediments, placing the fossils between roughly 324,000 and 184,000 years old. Because DNA does not survive that long in such conditions, the identification relied on the shape of the teeth and on protein sequences recovered from the enamel, work led by Frido Welker at the University of Copenhagen, with Macquarie University in Australia among the participating institutions. The result makes these the youngest securely dated Homo erectus fossils from mainland Asia, where the species had been thought to have largely disappeared about 400,000 years ago."
+     ]
+    },
+    {
+     "heading": "A rainforest home",
+     "paragraphs": [
+      "Chemical traces and the animal fossils found alongside the teeth indicate a tropical rainforest. Researchers had generally thought only modern humans could live in such environments, so the find suggests Homo erectus was more adaptable than assumed."
+     ]
+    },
+    {
+     "heading": "A possible second species",
+     "paragraphs": [
+      "One tooth’s proteins match no known species and may belong to a Denisovan, which would mean two kinds of human lived in the region at the same time. Richard Potts of the Smithsonian, who was not involved, told National Geographic the identification looked solid, but the coexistence idea depends on a single specimen and National Geographic frames even the late survival as something the species may have achieved."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-19/homo-erectus-late-survival-china.svg",
+    "alt": "A single fossil molar resting on the floor of a cave mouth framed by large tropical leaves, standing for Homo erectus teeth found in rainforest caves in southern China.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "EurekAlert! (University of Copenhagen)",
+     "title": "New discovery rewrites the story of one of our most important ancestors",
+     "url": "https://www.eurekalert.org/news-releases/1152475",
+     "publishedAt": "2026-11-18",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "National Geographic",
+     "title": "Homo Erectus May Have Survived in China 200,000 Years Longer Than We Thought",
+     "url": "https://www.nationalgeographic.com/history/article/homo-erectus-china-rainforest",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "human-origins",
+   "threadTitle": "Human origins",
+   "threadSummary": "Fossil and genetic discoveries about the evolution of humans and our extinct relatives."
+  },
+  {
+   "id": "fda-adrabetadex-niemann-pick-survival",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "US regulators approve the first drug shown to help children with an early-onset form of Niemann-Pick disease live longer",
+   "category": "Drug approval",
+   "region": "North America · United States",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-17 / 2026-11-18",
+   "hook": "A real survival gain for a fatal childhood disease, though the evidence comes from a small study compared with past patients rather than a randomised trial.",
+   "body": "The US Food and Drug Administration approved adrabetadex, sold as Lembaz, on Tuesday to reduce the risk of death in patients with Niemann-Pick disease type C whose neurological symptoms began before age six. Given every two weeks by injection into the spinal canal, it cut the risk of death by 55 per cent compared with matched past patients, with median survival of 8.5 years against 4.9. A day later the agency approved venglustat for the neurological symptoms of type 3 Gaucher disease.",
+   "whatChanged": "Families with this rare, fatal disease have a treatment approved specifically because it extends life; the two drugs already approved for it have not been shown to do so.",
+   "whyMatters": "Niemann-Pick type C destroys the nervous system in childhood and has had no therapy proven to prolong survival. The back-to-back approvals also show regulators accepting smaller studies for very rare brain diseases.",
+   "uncertainty": "The approval rests on 36 treated patients compared with an external control group, a weaker design than a randomised trial, and the releases do not give confidence intervals. The drug carries a boxed warning for hearing loss, which can be permanent.",
+   "watchNext": "The launch, which the company expects in early December, its price, and follow-up data on hearing loss and long-term survival.",
+   "keyFacts": [
+    "Approved on November 17 for patients weighing at least 7 kilograms whose neurological symptoms began before age 6",
+    "Risk of death reduced by 55 per cent; median survival 8.5 years against 4.9 in matched past patients",
+    "Evidence from 36 treated patients pooled from three studies and an expanded-access programme",
+    "Boxed warning for hearing loss, including permanent loss",
+    "On November 18 the FDA approved venglustat, the first drug for the neurological symptoms of type 3 Gaucher disease"
+   ],
+   "report": [
+    {
+     "heading": "The approval",
+     "paragraphs": [
+      "Adrabetadex, from Beren Therapeutics, is given into the spinal canal every two weeks. The FDA based its decision on 36 patients drawn from three studies and an expanded-access programme, compared with a matched external control group. The survival benefit held whether or not patients also took miglustat, which is used off-label. The drug received breakthrough therapy designation and a priority review voucher, and Beren expects to launch it in early December. The two drugs previously approved for Niemann-Pick type C have not been shown to reduce deaths, which is why the agency describes this as the first treatment shown to help patients with the infantile-onset form live longer."
+     ]
+    },
+    {
+     "heading": "Risks",
+     "paragraphs": [
+      "The label carries a boxed warning for hearing loss, which can be permanent, and notes that unsteadiness and fatigue can be severe."
+     ]
+    },
+    {
+     "heading": "A second rare-disease approval",
+     "paragraphs": [
+      "On Wednesday the FDA approved Sanofi’s venglustat, an oral drug, for the neurological symptoms of type 3 Gaucher disease in adults and children weighing at least 15 kilograms. Existing enzyme therapy does not reach the brain; venglustat does. In a randomised, double-blind 52-week trial of 43 patients aged 12 and over already treated with enzyme therapy, it improved a combined measure of coordination and thinking compared with enzyme therapy. Its label warns of serious psychiatric risks, including suicidal thoughts, and of possible harm to a fetus."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-19/fda-adrabetadex-niemann-pick-survival.svg",
+    "alt": "A column of vertebrae with a thin copper line running down the spinal canal toward a small drop, standing for a drug delivered by injection into the spinal canal.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "US Food and Drug Administration",
+     "title": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
+     "publishedAt": "2026-11-17",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "BioSpace (Beren Therapeutics release)",
+     "title": "Beren Therapeutics Announces U.S. FDA Approval of LEMBAZ (adrabetadex)",
+     "url": "https://www.biospace.com/press-releases/beren-therapeutics-announces-u-s-fda-approval-of-lembaz-adrabetadex-first-only-medicine-to-improve-survival-in-infantile-onset-niemann-pick-disease-type-c",
+     "publishedAt": "2026-11-17",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "US Food and Drug Administration",
+     "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
+     "publishedAt": "2026-11-18",
+     "kind": "Primary"
+    }
+   ],
+   "threadId": "rare-disease-treatments",
+   "threadTitle": "Treatments for rare diseases",
+   "threadSummary": "New therapies and approvals for rare and often fatal inherited diseases."
+  },
+  {
+   "id": "ebola-who-emergency-remains",
+   "section": "still",
+   "title": "The World Health Organization says Congo’s Ebola outbreak remains a global health emergency, as cases double in three months",
+   "category": "Public health",
+   "region": "Africa · Democratic Republic of Congo",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-17 / 2026-11-18",
+   "body": "The WHO’s emergency committee met on Wednesday, and Director-General Tedros Adhanom Ghebreyesus confirmed that Congo’s Bundibugyo Ebola outbreak remains a public health emergency of international concern. More than 11,300 cases and 5,500 deaths have been recorded, with 400 to 500 new cases a week across 67 health zones in eight provinces. Kenya has nine linked cases and Nigeria one imported case. Two vaccine candidates against this strain are due to start mid-stage trials in Congo next week.",
+   "whatChanged": "The WHO kept its highest alert in place and said updated recommendations would follow in the coming days, while cases kept climbing.",
+   "whyMatters": "There is no licensed vaccine for the Bundibugyo strain, and the outbreak has more than doubled in three months, with spread already reaching Kenya.",
+   "uncertainty": "Case counts depend on testing in insecure areas and are likely incomplete. The new recommendations had not been published at our cutoff.",
+   "watchNext": "The WHO’s updated recommendations and the start of the vaccine trials in Congo next week.",
+   "keyFacts": [
+    "More than 11,300 cases and 5,500 deaths",
+    "400 to 500 new cases a week, in 67 health zones across eight provinces",
+    "Kenya: nine linked cases, two deaths; Nigeria: one imported case",
+    "Two Bundibugyo vaccine candidates begin phase 2 trials in Congo next week"
+   ],
+   "report": [
+    {
+     "heading": "The emergency stays",
+     "paragraphs": [
+      "The WHO emergency committee reviewed the outbreak on November 18 and Tedros said it still meets the threshold for a public health emergency of international concern, the agency’s highest level of alert. He said updated temporary recommendations would be issued in the coming days."
+     ]
+    },
+    {
+     "heading": "The scale",
+     "paragraphs": [
+      "UN News reports more than 11,300 cases and 5,500 deaths, with cases having more than doubled over three months. Transmission is now recorded in 67 health zones in eight provinces, and between 400 and 500 new cases are reported each week. Kenya has nine cases linked to the outbreak, two of them fatal, and Nigeria has recorded one imported case."
+     ]
+    },
+    {
+     "heading": "Vaccines",
+     "paragraphs": [
+      "Two candidate vaccines designed against the Bundibugyo strain are due to begin phase 2 trials in Congo next week. Phase 2 trials test safety and immune response in larger groups; they will not on their own show whether the vaccines prevent infection."
+     ]
+    },
+    {
+     "heading": "Six months on",
+     "paragraphs": [
+      "Congo declared the outbreak on May 15 in Ituri province. Earlier this week Africa’s own disease agency said it was still out of control, and Reuters notes that only the 2014 to 2016 West African epidemic, which infected more than 28,600 people, has been larger. It is Congo’s 17th Ebola epidemic and its deadliest."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Anadolu Agency",
+     "title": "WHO says Ebola outbreak in DR Congo remains public health emergency of international concern",
+     "url": "https://www.aa.com.tr/en/life/who-says-ebola-outbreak-in-dr-congo-remains-public-health-emergency-of-international-concern/4129534",
+     "publishedAt": "2026-11-18",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "UN News",
+     "title": "World news in brief: Ebola outbreak update and other stories",
+     "url": "https://news.un.org/en/story/2026/11/1168827",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "CNBC Africa (Reuters)",
+     "title": "Africa CDC says Ebola outbreak still out of control six months since it was declared",
+     "url": "https://www.cnbcafrica.com/2026/africa-cdc-says-ebola-outbreak-still-out-of-control-six-months-since-it-was-declared",
+     "publishedAt": "2026-11-16",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ebola-east-africa",
+   "threadTitle": "Ebola outbreak in Africa",
+   "threadSummary": "The Bundibugyo Ebola outbreak declared in Congo in May 2026 and the effort to stop its spread."
+  }
+ ],
+ "watch": [
+  {
+   "title": "COP31’s final day",
+   "text": "The Antalya climate talks are due to close on Friday, November 20, with countries still divided over wording on fossil fuels and an adaptation finance target."
+  },
+  {
+   "title": "Iraq’s militia deadline",
+   "text": "Kataib Hezbollah has until Friday, November 20, to leave Jurf al-Sakhr, and says it will not go."
+  },
+  {
+   "title": "Britain and the EU",
+   "text": "Prime Minister Andy Burnham meets EU leaders in Brussels on Friday, November 20, with deals expected on food trade, carbon markets and youth mobility."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "Trump met Xi and Putin in Shenzhen, Fed minutes pointed to more rate rises, and Washington’s Democrats prepared to take control of Congress in January.",
+   "briefs": [
+    {
+     "title": "House Democrats nominate Hakeem Jeffries to be the first Black speaker",
+     "text": "Current and incoming House Democrats voted 251 to 11 behind closed doors on Wednesday to nominate Jeffries for speaker, ahead of the full House vote on January 3. They chose Katherine Clark as majority leader, the first woman in the job, and Pete Aguilar as whip. Six incoming progressives voted no, seeking commitments on Medicare for All and Gaza.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "CBS News",
+       "title": "Jeffries wins Democratic nomination for House speaker, paving way for historic election",
+       "url": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Senate passes an energy permitting overhaul that would make big data centres pay for grid upgrades",
+     "text": "The Senate passed the bipartisan bill by 65 votes to 31 on Wednesday, sending it to the House. It would require large data centres to pay for the transmission upgrades they need, limit court challenges to environmental reviews to 150 days and set deadlines for agencies. Eleven Tribal organisations oppose it; Trump supports it.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "Worthy News (The Center Square)",
+       "title": "Senate Passes Energy Permitting Overhaul, Sends To House",
+       "url": "https://www.worthynews.com/119198-senate-passes-energy-permitting-overhaul-sends-to-house",
+       "publishedAt": "2026-11-19",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Trump administration asks the Supreme Court to end protected status for Venezuelans",
+     "text": "The solicitor general filed an emergency application on Wednesday asking the justices to block a lower-court ruling that keeps Temporary Protected Status in place for Venezuelans. An appeals court’s temporary stay expires on November 20. The government says reinstatement would affect hundreds of thousands of people.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "SCOTUSblog",
+       "title": "Trump administration asks Supreme Court to block lower court ruling keeping protected status in place for Venezuelan nationals",
+       "url": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-block-lower-court-ruling-keeping-protected-status-in-/",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "The US defence secretary announced a military partnership with Venezuela’s interim government, Brazil’s Senate passed a spending curb, and Colombia’s unions struck against a tax bill.",
+   "briefs": [
+    {
+     "title": "Hegseth announces a US military partnership with Venezuela on a surprise visit to Caracas",
+     "text": "US Defence Secretary Pete Hegseth announced an agreement with Venezuela’s interim government covering intelligence sharing and joint training on Wednesday. He said Venezuela had gone from the region’s most aggressive threat to a compliant security partner. Interim President Delcy Rodríguez, in office since the US seized Nicolás Maduro in January, called it a resumption of technical and military ties.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+       "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Brazil’s Senate passes Lula’s spending-curb bill by 69 votes to 2",
+     "text": "The bill caps real spending growth at 2 per cent rather than 2.5 per cent in years when containment measures are triggered, and the government says it will improve the 2027 budget result by up to 56 billion reais. It now goes to the Chamber of Deputies, which has not set a date.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "The Rio Times",
+       "title": "Brazil Senate Passes Budget Bill 69 to 2",
+       "url": "https://www.riotimesonline.com/the-big-read-brazil-19-november-2026",
+       "publishedAt": "2026-11-19",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Colombia’s unions hold a national strike against President De la Espriella’s tax bill",
+     "text": "Unions and opposition groups called strikes in Bogotá, Medellín, Cali and other cities on Thursday, the second against the government in about three months. The bill would lower income tax thresholds, cut corporate tax and allow state bodies to be merged; a plan to raise sales tax on basic foods was dropped days earlier. Congress faces a December 16 deadline.",
+     "eventDate": "2026-11-19",
+     "sources": [
+      {
+       "publisher": "Colombia One",
+       "title": "Colombia Holds Second Strike Against De la Espriella Government in Three Months",
+       "url": "https://colombiaone.com/2026/11/19/colombia-second-strike-de-la-espriella-government/",
+       "publishedAt": "2026-11-19",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "Brussels proposed a 45 billion euro loan for Ukraine, allies met US envoys in Berlin, and Ukraine struck the Crimean bridge for a second time in two days.",
+   "briefs": [
+    {
+     "title": "A cyberattack on the European Commission may have exposed large amounts of personal data",
+     "text": "Politico, reported by Reuters, said systems including payroll and medical-reimbursement services were disrupted for about ten days, and the Commission convened its top crisis body. A spokesperson said affected people had been informed. Who carried out the attack is not known.",
+     "eventDate": "2026-11-18 / 2026-11-19",
+     "sources": [
+      {
+       "publisher": "The Star (Reuters)",
+       "title": "EU Commission targeted in cyberattack, Politico reports",
+       "url": "https://www.thestar.com.my/tech/tech-news/2026/11/19/eu-commission-targeted-in-cyberattack-politico-reports",
+       "publishedAt": "2026-11-19",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Germany and Britain push back after a Pentagon official criticises Ukraine’s long-range strikes",
+     "text": "Elbridge Colby told allies at NATO headquarters on Tuesday that Ukraine’s deep strikes into Russia had not slowed Russia’s advance and urged aid to focus on front-line defence. Germany’s defence minister called the criticism stupid, and Britain’s defence secretary said the strikes had weakened Russia and saved lives.",
+     "eventDate": "2026-11-17 / 2026-11-18",
+     "sources": [
+      {
+       "publisher": "Kyiv Independent",
+       "title": "Germany, UK push back after US criticizes Ukraine's deep strikes into Russia",
+       "url": "https://kyivindependent.com/germany-uk-push-back-after-us-criticizes-ukraines-deep-strikes-into-russia/",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Britain and the EU prepare for their second summit since Brexit",
+     "text": "Prime Minister Andy Burnham meets EU leaders in Brussels on Friday, with deals expected on food trade, linking carbon markets and a youth mobility scheme. Burnham says the agreements could add 0.4 per cent to British output, but will not cross red lines on the customs union, single market or free movement before the next election.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "ClickOrlando (Associated Press)",
+       "title": "The UK and EU are holding a summit to patch up ties after their bitter Brexit divorce",
+       "url": "https://www.clickorlando.com/news/world/2026/11/18/the-uk-and-eu-are-holding-a-summit-to-patch-up-ties-after-their-bitter-brexit-divorce/",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Ethiopia and Eritrea massed forces on their border, the WHO kept Congo’s Ebola outbreak at its highest alert, and Sudan’s army advanced in Kordofan.",
+   "briefs": [
+    {
+     "title": "Sudan’s army pushes toward a key RSF town as the UN says drones caused most verified civilian deaths",
+     "text": "The army took Al Khuway in West Kordofan and is about 60 kilometres from the Rapid Support Forces’ hub of Al Nuhud, according to the monitor ACLED. The UN human rights office verified 2,230 civilian deaths from January to October, more than 1,630 of them caused by drones, and says the true toll is likely higher.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "The National",
+       "title": "Al Burhan's forces push towards RSF stronghold as UN warns of Sudan drone toll",
+       "url": "https://www.thenationalnews.com/news/mena/2026/11/18/al-burhans-forces-push-towards-rsf-stronghold-as-un-warns-of-sudan-drone-toll/",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Senegal’s ruling party expels President Faye",
+     "text": "Pastef expelled President Bassirou Diomaye Faye and 31 others on Tuesday, deepening his split with Ousmane Sonko, the party leader and speaker of the National Assembly, where Pastef holds 130 of 165 seats. The rift has stalled the budget and threatens IMF support.",
+     "eventDate": "2026-11-17",
+     "sources": [
+      {
+       "publisher": "Africanews",
+       "title": "Senegal's ruling party Pastef expels country's president and 31 others",
+       "url": "https://www.africanews.com/2026/11/18/senegals-ruling-party-pastef-expels-countrys-president-and-31-others/",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Dozens missing after a migrant boat capsizes off Senegal",
+     "text": "A boat overturned off Yenne, south of Dakar, on Thursday; at least one person is confirmed dead and a survivor said about 50 were aboard, while other reports put the number near 100. Nearly 600 people have died or gone missing on the West African route this year.",
+     "eventDate": "2026-11-19",
+     "sources": [
+      {
+       "publisher": "ThePrint (Reuters)",
+       "title": "Dozens missing as migrant boat capsizes off Senegal coast, NGO says",
+       "url": "https://theprint.in/world/dozens-missing-as-migrant-boat-capsizes-off-senegal-coast-ngo-says/3103105/",
+       "publishedAt": "2026-11-19",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Houthi fire damaged the Saudi wealth fund’s Riyadh tower, Iran claimed mine strikes on tankers as the US widened its blockade, and Israel’s new Knesset moved against Netanyahu’s judicial laws.",
+   "briefs": [
+    {
+     "title": "Israel ends a one-day ground raid in central Gaza that Hamas called a ceasefire violation",
+     "text": "Israeli forces operated beyond the line they hold under the ceasefire near the Bureij and Nuseirat camps on Wednesday, saying they were destroying a tunnel, and told AFP on Thursday the operation was complete. Residents of three blocks were ordered to leave. AFP counts more than 1,600 Palestinians killed since the ceasefire began.",
+     "eventDate": "2026-11-18 / 2026-11-19",
+     "sources": [
+      {
+       "publisher": "Arab News (AFP)",
+       "title": "Israel army says completed central Gaza ground operation",
+       "url": "https://www.arabnews.com/middle-east/israel-army-says-completed-central-gaza-ground-operation-3012886",
+       "publishedAt": "2026-11-19",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "US sanctions a Hezbollah-linked charity and a gold-smuggling network",
+     "text": "The US Treasury on Wednesday sanctioned the Ta’awanu Association, which does relief work in south Lebanon, along with a money changer it accuses of moving Iranian Quds Force funds to Hezbollah, and gold companies in Lebanon and Türkiye.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "Al-Monitor (Reuters)",
+       "title": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says",
+       "url": "https://www.al-monitor.com/originals/2026/11/us-sanctions-hezbollah-linked-charity-push-against-irans-proxies-treasury-says",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Shenzhen hosted the first US, China and Russia leaders’ meeting, Mongolia’s parliament accepted its president’s resignation, and Bangladesh braced for unrest over Sheikh Hasina’s return.",
+   "briefs": [
+    {
+     "title": "UN nuclear watchdog says North Korea is expanding its Yongbyon enrichment plant",
+     "text": "IAEA chief Rafael Grossi told the agency’s board on Wednesday that an extension to the uranium enrichment building at Yongbyon has been under construction since mid-September and looked complete from outside by late October, calling it extremely worrying.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+       "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says",
+       "publishedAt": "2026-11-19",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "South Korea and China conclude eight years of talks on opening services markets",
+     "text": "Presidents Lee Jae-myung and Xi Jinping declared the services and investment talks under their trade agreement effectively concluded in Shenzhen on Wednesday. The deal would open areas including film, games, tourism and finance, though technical details remain before signing.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "Korea Herald",
+       "title": "Lee, Xi broaden cultural ties as FTA deal opens service markets",
+       "url": "https://www.koreaherald.com/article/10941762",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "The Philippines eyes a US military loan of more than 2 billion dollars after Trump’s visit",
+     "text": "A White House fact sheet said the US is providing 400 million dollars in military financing for long-range weapons, command systems and drones, and that Manila is considering a loan of more than 2 billion dollars to buy US equipment. President Marcos said talks on a South China Sea code of conduct are 85 to 90 per cent complete.",
+     "eventDate": "2026-11-18 / 2026-11-19",
+     "sources": [
+      {
+       "publisher": "Philstar",
+       "title": "Philippines eyes over $2-billion US military loan after Trump visit",
+       "url": "https://www.philstar.com/headlines/2026/11/19/2571201/philippines-eyes-over-2-billion-us-military-loan-after-trump-visit",
+       "publishedAt": "2026-11-19",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "Australia’s jobless rate jumped to 4.9 per cent, Fiji declared a drought disaster, and a powerful cyclone threatened the northern Cook Islands.",
+   "briefs": [
+    {
+     "title": "Fiji declares a nationwide drought disaster",
+     "text": "Prime Minister Sitiveni Rabuka declared a state of disaster across Fiji on Wednesday because of drought linked to El Niño, with below-normal rain expected into early 2027. A declaration lasts up to 30 days and can be extended.",
+     "eventDate": "2026-11-18",
+     "sources": [
+      {
+       "publisher": "1News",
+       "title": "Fiji declares nationwide state of disaster as El Niño drought worsens",
+       "url": "https://1news.co.nz/2026/11/18/fiji-declares-nationwide-state-of-disaster-as-el-nino-drought-worsens",
+       "publishedAt": "2026-11-18",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Severe Cyclone Xavier threatens the northern Cook Islands",
+     "text": "The category 5 storm was moving slowly near Pukapuka, Nassau and Suwarrow, and residents were moved to shelters and schools closed. Nassau has no designated cyclone shelter. Reported wind speeds differ between accounts.",
+     "eventDate": "2026-11-17 / 2026-11-18",
+     "sources": [
+      {
+       "publisher": "Cook Islands News",
+       "title": "Severe Cyclone Xavier threatens Pukapuka, Nassau and Suwarrow",
+       "url": "https://www.cookislandsnews.com/national/local/outer-islands/weather/severe-cyclone-xavier-threatens-pukapuka-nassau-and-suwarrow/",
+       "publishedAt": "2026-11-17",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

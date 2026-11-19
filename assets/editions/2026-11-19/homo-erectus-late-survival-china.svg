@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A fossil molar on a cave floor framed by tropical leaves">
+  <rect width="800" height="500" fill="#09131d"/>
+  <path d="M120 430 Q140 150 400 110 Q660 150 680 430 Z" fill="#12263a" stroke="#5d7387" stroke-width="6"/>
+  <path d="M60 430 L740 430 L740 500 L60 500 Z" fill="#1a3147"/>
+  <g fill="#3f6a5a" opacity="0.9">
+    <path d="M40 120 Q150 150 190 300 Q110 260 40 120 Z"/>
+    <path d="M30 250 Q140 250 170 400 Q90 360 30 250 Z"/>
+    <path d="M760 110 Q650 150 610 300 Q690 260 760 110 Z"/>
+    <path d="M770 260 Q660 260 630 410 Q710 370 770 260 Z"/>
+  </g>
+  <g stroke="#7fa6c4" stroke-width="3" fill="none" opacity="0.7">
+    <path d="M40 120 Q130 190 190 300"/><path d="M30 250 Q110 300 170 400"/><path d="M760 110 Q670 190 610 300"/><path d="M770 260 Q690 310 630 410"/>
+  </g>
+  <g transform="translate(400 330)">
+    <path d="M-70 -40 Q-75 -95 -35 -90 Q-18 -105 0 -92 Q18 -105 35 -90 Q75 -95 70 -40 Q66 0 50 15 L40 80 Q32 95 24 80 L12 25 L-12 25 L-24 80 Q-32 95 -40 80 L-50 15 Q-66 0 -70 -40 Z" fill="#d9c3a0" stroke="#c8875a" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M-40 -55 Q-20 -40 0 -55 Q20 -40 40 -55" fill="none" stroke="#c8875a" stroke-width="4"/>
+  </g>
+</svg>

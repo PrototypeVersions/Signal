@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Server cabinets fed by a power line from a smoking chimney">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="#5d7387" opacity="0.55">
+    <circle cx="170" cy="118" r="34"/><circle cx="205" cy="88" r="42"/><circle cx="250" cy="64" r="36"/><circle cx="292" cy="52" r="26"/>
+  </g>
+  <rect x="140" y="150" width="56" height="250" fill="#12263a" stroke="#d6e6f2" stroke-width="5"/>
+  <rect x="140" y="190" width="56" height="10" fill="#c8875a"/>
+  <rect x="100" y="400" width="140" height="22" fill="#d6e6f2"/>
+  <polyline points="196,330 300,330 300,280 360,280" fill="none" stroke="#c8875a" stroke-width="6" stroke-linejoin="round"/>
+  <g stroke="#d6e6f2" stroke-width="5" fill="#12263a">
+    <rect x="360" y="170" width="110" height="230" rx="6"/>
+    <rect x="490" y="170" width="110" height="230" rx="6"/>
+    <rect x="620" y="170" width="110" height="230" rx="6"/>
+  </g>
+  <g fill="#7fa6c4">
+    <rect x="378" y="195" width="74" height="14" rx="3"/><rect x="378" y="225" width="74" height="14" rx="3"/><rect x="378" y="255" width="74" height="14" rx="3"/><rect x="378" y="285" width="74" height="14" rx="3"/><rect x="378" y="315" width="74" height="14" rx="3"/><rect x="378" y="345" width="74" height="14" rx="3"/>
+    <rect x="508" y="195" width="74" height="14" rx="3"/><rect x="508" y="225" width="74" height="14" rx="3"/><rect x="508" y="255" width="74" height="14" rx="3"/><rect x="508" y="285" width="74" height="14" rx="3"/><rect x="508" y="315" width="74" height="14" rx="3"/><rect x="508" y="345" width="74" height="14" rx="3"/>
+    <rect x="638" y="195" width="74" height="14" rx="3"/><rect x="638" y="225" width="74" height="14" rx="3"/><rect x="638" y="255" width="74" height="14" rx="3"/><rect x="638" y="285" width="74" height="14" rx="3"/><rect x="638" y="315" width="74" height="14" rx="3"/><rect x="638" y="345" width="74" height="14" rx="3"/>
+  </g>
+  <g fill="#c8875a">
+    <circle cx="444" cy="202" r="3"/><circle cx="444" cy="262" r="3"/><circle cx="574" cy="232" r="3"/><circle cx="574" cy="322" r="3"/><circle cx="704" cy="202" r="3"/><circle cx="704" cy="292" r="3"/><circle cx="444" cy="352" r="3"/>
+  </g>
+  <rect x="340" y="400" width="410" height="22" fill="#d6e6f2"/>
+</svg>

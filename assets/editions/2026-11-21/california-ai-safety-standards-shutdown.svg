@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A large emergency stop button mounted beside a server rack">
+  <rect width="800" height="500" fill="#09131d"/>
+  <rect x="140" y="80" width="200" height="340" rx="10" fill="#12263a" stroke="#d6e6f2" stroke-width="6"/>
+  <g fill="#7fa6c4">
+    <rect x="165" y="110" width="150" height="22" rx="4"/><rect x="165" y="150" width="150" height="22" rx="4"/><rect x="165" y="190" width="150" height="22" rx="4"/><rect x="165" y="230" width="150" height="22" rx="4"/><rect x="165" y="270" width="150" height="22" rx="4"/><rect x="165" y="310" width="150" height="22" rx="4"/><rect x="165" y="350" width="150" height="22" rx="4"/>
+  </g>
+  <g fill="#09131d"><circle cx="290" cy="121" r="5"/><circle cx="290" cy="161" r="5"/><circle cx="290" cy="201" r="5"/><circle cx="290" cy="241" r="5"/><circle cx="290" cy="281" r="5"/><circle cx="290" cy="321" r="5"/><circle cx="290" cy="361" r="5"/></g>
+  <polyline points="340,250 420,250" fill="none" stroke="#5d7387" stroke-width="8"/>
+  <rect x="420" y="130" width="250" height="250" rx="18" fill="#c8875a"/>
+  <rect x="440" y="150" width="210" height="210" rx="12" fill="#12263a"/>
+  <circle cx="545" cy="255" r="78" fill="#5d7387"/>
+  <circle cx="545" cy="245" r="70" fill="#b4573a" stroke="#d6e6f2" stroke-width="5"/>
+  <ellipse cx="520" cy="215" rx="26" ry="12" fill="#d6e6f2" fill-opacity="0.35"/>
+  <rect x="380" y="420" width="330" height="10" rx="5" fill="#5d7387"/>
+</svg>

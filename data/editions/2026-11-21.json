@@ -1,0 +1,1471 @@
+{
+  "date": "2026-11-21",
+  "number": 34,
+  "cutoff": "2026-11-21T12:30:00Z",
+  "cutoffLabel": "6:30 AM CT",
+  "opening": "Russian missiles came down in Poland during a mass strike on Ukraine, and Warsaw called it deliberate. Saudi Arabia and the Houthis traded strikes, Iran massed tankers to test the US blockade, Britain and the EU agreed a reset, and COP31 overran without a deal.",
+  "leadStoryId": "russian-missiles-land-in-poland",
+  "stories": [
+    {
+      "id": "russian-missiles-land-in-poland",
+      "section": "world",
+      "title": "Russian missiles and a drone come down in southeast Poland during a huge attack on Ukraine, and Warsaw calls it a deliberate provocation",
+      "category": "European security",
+      "region": "Europe · Poland and Ukraine",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-19 / 2026-11-20",
+      "body": "Two Russian missiles, one of them a Kh-101 cruise missile, and a suspected jet-powered drone crashed in southeast Poland overnight from Thursday into Friday, during one of Russia’s heaviest attacks on Ukraine. Nobody was hurt and no damage was reported. Poland scrambled fighter jets and switched on its Patriot air defences. Prime Minister Donald Tusk said the incident did not look like an accident, and NATO’s secretary general, Mark Rutte, called it a grave and clearly dangerous violation of allied airspace. France has asked for a meeting of the UN Security Council.",
+      "whatChanged": "Russian weapons have come down on the territory of a NATO member during a mass strike, and Poland’s leaders say they believe it was intentional rather than stray fire.",
+      "whyMatters": "A deliberate strike on allied soil would test NATO’s promise of collective defence while Washington is pressing Ukraine and Europe toward a settlement. One missile landed about 35 kilometres from a multinational exercise rehearsing a postwar mission in Ukraine.",
+      "uncertainty": "Moscow had not commented when these reports were published, and Polish investigators had not said what the weapons were aimed at. The reports we read do not confirm whether Poland will ask for formal NATO consultations under Article 4.",
+      "watchNext": "Rutte’s expected visit to Poland this weekend, any Security Council meeting, the findings of Poland’s investigation, and what the allies decide to do in response.",
+      "keyFacts": [
+        "Two missiles, including a Kh-101 cruise missile, and a suspected jet-powered drone came down in southeast Poland on the night of November 19 to 20",
+        "No injuries or damage were reported; Poland scrambled jets and activated Patriot batteries",
+        "One missile fell about 35 km from the Koalicja-2026 exercise, involving about 2,800 troops from 11 nations",
+        "Russia fired more than 400 drones and 110 missiles at Ukraine that night, killing at least eight people, according to CBS News",
+        "France has requested a UN Security Council meeting"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "The weapons came down during a massive overnight Russian assault on Ukraine aimed largely at energy facilities and bridges. According to CBS News, Russia launched more than 400 drones and 110 missiles; Ukraine intercepted 79 of the missiles but none of the 27 ballistic missiles. At least eight people were killed in Ukraine, and the Austrian embassy in Kyiv was hit.",
+            "In Poland, one object was identified as a Kh-101 cruise missile about 50 kilometres from the Ukrainian border, and at least three sites were under investigation. Polish forces put fighter aircraft in the air and activated Patriot batteries. No one was injured."
+          ]
+        },
+        {
+          "heading": "Why Warsaw suspects intent",
+          "paragraphs": [
+            "Tusk said the incident did not look accidental, and Defence Minister Kosiniak-Kamysz said its timing was hard to see as a coincidence. One missile fell about 35 kilometres from Koalicja-2026, an exercise led by Britain and France in which roughly 2,800 troops from 11 countries are training for a possible deployment to Ukraine after a ceasefire. The exercise runs from November 9 to 22."
+          ]
+        },
+        {
+          "heading": "The reaction",
+          "paragraphs": [
+            "Rutte described the airspace violation as grave and was expected to visit Poland over the weekend, according to the Associated Press. France’s foreign minister, Barrot, said Russia would have to answer for it, and Paris asked for the Security Council to meet. Russia had not commented on the Polish incident at the time of reporting.",
+            "The attack came a day after Vladimir Putin, Donald Trump and Xi Jinping met in Shenzhen and issued a declaration that, according to Euronews, did not mention Ukraine."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Poland and Ukraine",
+        "bounds": [
+          12,
+          42,
+          41,
+          56
+        ],
+        "countries": [
+          "616",
+          "804"
+        ],
+        "labels": [
+          {
+            "label": "Baltic Sea",
+            "lon": 18.5,
+            "lat": 55.3,
+            "kind": "water"
+          },
+          {
+            "label": "Black Sea",
+            "lon": 34,
+            "lat": 43.3,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of central and eastern Europe with Poland and Ukraine highlighted. The weapons came down in southeast Poland, near the Ukrainian border; exact sites are not shown.",
+        "caption": "Poland and Ukraine highlighted for context · crash sites were in southeast Poland"
+      },
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
+          "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Poland accuses Russia of 'intentional provocation' as missiles hit NATO soil, kill at least 8 in Ukraine",
+          "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Europe Tonight: EU and UK strike post-Brexit reset deal as Russian missiles hit Poland",
+          "url": "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Trilateral summit ends with 'peace declaration' but no mention of Ukraine and Iran",
+          "url": "https://www.euronews.com/2026/11/19/us-and-china-want-to-help-end-ukraine-war-trump-says-ahead-of-trilateral-with-russia",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+    },
+    {
+      "id": "saudi-strikes-hodeidah-houthi-missiles-riyadh",
+      "section": "world",
+      "title": "Saudi-led forces strike Yemen’s Hodeidah port and Sanaa, and the Houthis fire three more missiles at Riyadh",
+      "category": "War in Yemen",
+      "region": "Middle East · Saudi Arabia and Yemen",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-20 / 2026-11-21",
+      "body": "The Saudi-led coalition told civilians to leave Hodeidah port on Friday, then said it had struck the port and Houthi missile and drone sites around Sanaa. Early on Saturday it said it had intercepted three ballistic missiles fired at Riyadh, where a Reuters witness saw a projectile and heard a loud bang. The Houthis had declared the capital’s King Abdullah Financial District a military target and threatened Jeddah and other Red Sea ports. They also said a Saudi strike on a boat killed 19 civilians, a claim that has not been independently verified.",
+      "whatChanged": "Two days after a Houthi missile damaged the Saudi wealth fund’s tower, the two sides have moved to open strikes on each other’s cities and ports.",
+      "whyMatters": "Open war between Saudi Arabia and the Houthis puts Red Sea ports, Saudi oil installations and the kingdom’s financial district at risk, on top of the wider Iran war that has already shaken Gulf energy supplies.",
+      "uncertainty": "Most accounts of damage come from one side or the other. Saudi Arabia has not confirmed Houthi claims of hits on a petrochemical complex in Jubail and on an air base, and the boat casualty figure is unverified. Our account of Saturday’s interceptions relies on outlets relaying Reuters rather than the wire’s own report.",
+      "watchNext": "Whether the Houthis act on their threats against Jeddah and the Red Sea ports, the extent of the damage in Hodeidah, and whether Riyadh widens its strikes.",
+      "keyFacts": [
+        "The coalition told civilians to leave Hodeidah port on Friday, November 20, before striking it",
+        "Saudi forces said they intercepted three ballistic missiles aimed at Riyadh on Saturday, November 21",
+        "Saudi Arabia also reported intercepting missiles and drones aimed at Jazan on Friday",
+        "Saudi civil defence issued eight emergency alerts in 24 hours",
+        "The Houthis say a Saudi strike on a boat killed 19 people; this is unverified"
+      ],
+      "report": [
+        {
+          "heading": "The Saudi strikes",
+          "paragraphs": [
+            "Coalition spokesman Turki al-Malki issued an evacuation warning for Hodeidah, the Houthis’ main Red Sea port, on Friday. The coalition then said it had hit targets in the port and destroyed Houthi missile and drone capabilities in Sanaa; some outlets described the action as a special operation. Houthi media also reported coalition air raids on a power station in Mocha."
+          ]
+        },
+        {
+          "heading": "The Houthi fire",
+          "paragraphs": [
+            "On Friday Saudi air defences reported intercepting a ballistic missile and two drones, and later two more ballistic missiles, aimed at the southern city of Jazan; alerts in Jazan, Abha and Khamis Mushait were later lifted. Early on Saturday the coalition said it had destroyed three ballistic missiles over Riyadh and a drone heading for the south of the kingdom.",
+            "Houthi military spokesman Yahya Saree claimed strikes on the SADAF petrochemical complex in Jubail, King Khalid Air Base and King Khalid Airport. Riyadh has confirmed none of these."
+          ]
+        },
+        {
+          "heading": "The threats",
+          "paragraphs": [
+            "Saree told people to leave Riyadh’s King Abdullah Financial District, which he called a military target, said Saudi airspace was unsafe except over Mecca and Medina, and warned that Jeddah and other Red Sea ports would be hit if Hodeidah was attacked. He also threatened a power station in Jazan. The escalation follows Thursday’s strike that damaged the Public Investment Fund’s tower in Riyadh and the Yemeni government’s decision to designate the Houthis a terrorist organisation."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Saudi Arabia and Yemen",
+        "bounds": [
+          36,
+          11,
+          54,
+          28
+        ],
+        "countries": [
+          "682",
+          "887"
+        ],
+        "labels": [
+          {
+            "label": "Red Sea",
+            "lon": 38.6,
+            "lat": 20,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the Arabian Peninsula with Saudi Arabia and Yemen highlighted, and markers at Riyadh, Jazan, Hodeidah and Sanaa.",
+        "caption": "Saudi Arabia and Yemen highlighted for context · markers show approximate reported locations"
+      },
+      "locations": [
+        {
+          "label": "Riyadh",
+          "lon": 46.72,
+          "lat": 24.71
+        },
+        {
+          "label": "Jazan",
+          "lon": 42.55,
+          "lat": 16.89
+        },
+        {
+          "label": "Hodeidah port",
+          "mapLabel": "Hodeidah",
+          "lon": 42.95,
+          "lat": 14.8
+        },
+        {
+          "label": "Sanaa",
+          "lon": 44.21,
+          "lat": 15.37
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Organiser (drawing on Reuters)",
+          "title": "Saudi coalition intercepts three Houthi missiles over Riyadh as attacks target Saudi financial, military and oil assets",
+          "url": "https://organiser.org/2026/11/21/427713/international/saudi-coalition-intercepts-three-houthi-missiles-over-riyadh-as-attacks-target-saudi-financial-military-and-oil-assets/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Live Updates: Trump says next move on Iran may not come until 2027 as Tehran denies chemical weapons claim",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting (live blog)"
+        },
+        {
+          "publisher": "SSBCrack News",
+          "title": "CENTCOM denies U.S. strike as Iranian news agency reports missile hitting Qeshm Island",
+          "url": "https://news.ssbcrack.com/centcom-denies-u-s-strike-as-iranian-news-agency-reports-missile-hitting-qeshm-island/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Outlook India",
+          "title": "Live news today, November 21, 2026",
+          "url": "https://www.outlookindia.com/national/live-news-today-delhi-aqi-cyclone-akvan-pm-modi-congress-bjp-india-world-news-21-nov-2026",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting (live blog)"
+        }
+      ],
+      "threadId": "yemen-war",
+      "threadTitle": "Yemen’s war",
+      "threadSummary": "The conflict between Yemen’s Houthi movement, the internationally recognised government and its Saudi-led backers, and its spread across the region."
+    },
+    {
+      "id": "iran-kharg-tanker-convoy-blockade",
+      "section": "world",
+      "title": "Iran gathers more than a dozen tankers at Kharg Island to test the widened US blockade",
+      "category": "Iran war",
+      "region": "Middle East · Iran and the Gulf",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-19 / 2026-11-21",
+      "body": "Satellite images and ship-tracking data show more than 14 tankers at Iran’s main oil terminal on Kharg Island with crews assigned and Iranian flags raised, Euronews reported on Friday, apparently preparing to sail for the Gulf of Oman. Leaving would challenge a US order that treats any ship carrying cargo loaded at an Iranian port as a blockade runner that can be boarded or seized. Media close to the Revolutionary Guards threatened Gulf oil facilities if the tankers are attacked. Iran also claimed that two more tankers hit mines east of the Strait of Hormuz.",
+      "whatChanged": "Iran appears to be preparing a direct test of the blockade, which Washington widened on Wednesday to cover cargo moved between ships at sea.",
+      "whyMatters": "Kharg handles roughly 85 to 90 per cent of Iran’s crude exports. A convoy meeting American warships could turn the blockade into a naval confrontation, and Gulf states have been warned that their own oil installations would be targets.",
+      "uncertainty": "The tankers had not been confirmed to have sailed at our cutoff. Iran’s mine claims name no ships and have not been independently confirmed, and the Revolutionary Guards’ claim to have shot down another American drone over Hormuz on Saturday is unverified.",
+      "watchNext": "Whether the convoy leaves Kharg and how US forces respond, whether Washington acts on reports that it is weighing new strikes, and the mediation that Iran’s foreign minister says is continuing.",
+      "keyFacts": [
+        "More than 14 tankers were seen at Kharg with crews assigned, according to satellite and tracking data reported on November 20",
+        "Kharg handles about 85 to 90 per cent of Iran’s crude exports",
+        "US Central Command said on November 18 that cargo loaded at Iranian ports counts as blockade evasion even if transferred at sea",
+        "The analytics firm Windward counted five tankers struck near Hormuz between November 11 and 18",
+        "The US Senate rejected a war powers resolution on Iran by 51 votes to 48 on November 19"
+      ],
+      "report": [
+        {
+          "heading": "The convoy",
+          "paragraphs": [
+            "Euronews, citing satellite imagery and tracking data, said the tankers at Kharg had crews in place and were expected to head out in the coming days. A ship-to-ship transfer of Iranian crude near Kharg, with transponders switched off, was reported on Thursday; Iran has not confirmed it. The Fars news agency and a journalist linked to the Revolutionary Guards warned that Gulf oil facilities, particularly in the United Arab Emirates, would be hit if the tankers were attacked, and the Guards’ spokesman promised retaliation."
+          ]
+        },
+        {
+          "heading": "Mines and strikes",
+          "paragraphs": [
+            "Iran’s navy said on Thursday that two more tankers it accused of breaking its rules had hit mines and caught fire in a restricted area east of the Strait of Hormuz. Windward has counted five tankers struck near the strait between November 11 and 18, and the Emirati oil company ADNOC confirmed that one of its vessels was attacked on November 17. On Friday Iranian agencies reported an explosion on Qeshm Island, but US Central Command denied carrying out a new strike there. Crude prices have fallen about 14 per cent this month, according to Oilprice.com."
+          ]
+        },
+        {
+          "heading": "Washington and Tehran",
+          "paragraphs": [
+            "Trump told Israel’s Channel 12 that he was not rushing and could wait until after the new year, although CBS News reported that the United States and Israel were weighing a near-term operation over concerns that Iran is rebuilding missile production. The Senate rejected a House-passed resolution to limit the war by 51 votes to 48.",
+            "On Saturday Foreign Minister Abbas Araghchi told the newspaper Iran that Tehran still hoped diplomacy could end the war, but wanted guarantees against further attacks and would keep its enriched uranium inside the country."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Kharg Island and the Gulf",
+        "bounds": [
+          46,
+          22,
+          62,
+          33
+        ],
+        "countries": [
+          "364"
+        ],
+        "labels": [
+          {
+            "label": "Persian Gulf",
+            "lon": 51.5,
+            "lat": 27,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Oman",
+            "lon": 59,
+            "lat": 24,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Iran and the Gulf with Iran highlighted and a marker at Kharg Island, the oil terminal where the tankers have gathered.",
+        "caption": "Iran highlighted for context · marker shows Kharg Island"
+      },
+      "locations": [
+        {
+          "label": "Kharg Island oil terminal",
+          "mapLabel": "Kharg Island",
+          "lon": 50.32,
+          "lat": 29.25
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Euronews",
+          "title": "Iran readies tanker convoy at Kharg Island to test US oil blockade",
+          "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "US targets Iran's ship-to-ship transfers: Can Tehran break the blockade?",
+          "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade",
+          "publishedAt": "2026-11-20",
+          "kind": "Analysis"
+        },
+        {
+          "publisher": "Oilprice.com",
+          "title": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Steps-Up-Hormuz-Tanker-Attacks-as-Oil-Prices-Slide.html",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "WANA",
+          "title": "Oil Tanker Catches Fire in Eastern Strait of Hormuz",
+          "url": "https://wanaen.com/oil-tanker-catches-fire-in-eastern-strait-of-hormuz-2/",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "SSBCrack News",
+          "title": "CENTCOM denies U.S. strike as Iranian news agency reports missile hitting Qeshm Island",
+          "url": "https://news.ssbcrack.com/centcom-denies-u-s-strike-as-iranian-news-agency-reports-missile-hitting-qeshm-island/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Live Updates: Trump says next move on Iran may not come until 2027 as Tehran denies chemical weapons claim",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting (live blog)"
+        },
+        {
+          "publisher": "Jerusalem Post",
+          "title": "Iran still hopes diplomacy can end war with US, Foreign Minister Araghchi tells newspaper",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-915613",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war between the United States, Israel and Iran, and its effects on shipping and security in the Gulf."
+    },
+    {
+      "id": "uk-eu-reset-deal-brussels-summit",
+      "section": "world",
+      "title": "Britain and the EU agree deals on food trade, carbon pricing and youth visas, but a row over student fees could delay them",
+      "category": "Britain and Europe",
+      "region": "Europe · Brussels",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-20",
+      "body": "Prime Minister Andy Burnham and EU leaders agreed in Brussels on Friday to cut checks on food and farm trade, link their carbon markets so that goods such as steel avoid each other’s border carbon charges, and let up to 100,000 young people from each side live in the other for up to three years. Burnham said the package would raise British economic output by about half a per cent. But EU governments will hold off ratifying it until a dispute over the tuition fees charged to EU students in Britain is settled.",
+      "whatChanged": "Deals previewed before the summit are now agreed, and the EU has tied their ratification to a separate agreement on university fees within six months.",
+      "whyMatters": "The European Commission’s president called it a turning point, and Burnham will now open talks on the longer-term relationship, with options that range from the status quo to a customs union or rejoining. Opponents in Britain accuse him of betraying Brexit.",
+      "uncertainty": "Nothing was signed on Friday, and each side must complete its own legal process. London says the deals are done, while AFP reports that EU countries will not ratify them until fees are agreed. Access for British-made cars to the EU’s made-in-Europe rules is unresolved.",
+      "watchNext": "Talks on student fees over the next six months, the legal texts as they go to EU governments and the British parliament, and the start of the wider relationship talks.",
+      "keyFacts": [
+        "Summit held in Brussels on Friday, November 20, with Ursula von der Leyen and António Costa",
+        "Youth scheme: up to 100,000 under-30s from each side, for up to three years",
+        "Linked emissions trading systems exempt goods such as steel from each other’s border carbon levies",
+        "Burnham’s estimate of the boost to British GDP rose to 0.5 per cent from 0.4 per cent",
+        "The two sides gave themselves six months to settle tuition fees for EU students"
+      ],
+      "report": [
+        {
+          "heading": "What was agreed",
+          "paragraphs": [
+            "The food and agriculture agreement removes many of the checks and much of the paperwork that have weighed on trade since Brexit. Linking the British and EU emissions trading systems means steel and other goods covered by carbon border charges will be exempt on both sides. The youth experience scheme lets people under 30 work, study or travel in the other’s territory for up to three years, with numbers capped at 100,000 from each side."
+          ]
+        },
+        {
+          "heading": "The sticking points",
+          "paragraphs": [
+            "The EU wants students from its member states to pay the same tuition fees as British students, and the two sides have given themselves six months to agree. According to AFP, EU countries will not ratify the package until fees are settled, while the British government says the deals are complete. Brussels also links any access for British-built cars to its made-in-Europe rules to Britain matching EU restrictions on Chinese electric vehicles."
+          ]
+        },
+        {
+          "heading": "The politics",
+          "paragraphs": [
+            "Burnham called it a good day for Britain and for Europe, and Ursula von der Leyen described it as a turning point. He will now launch talks on the long-term relationship, which Al Jazeera reports could consider options from the current arrangement to a customs union or rejoining the EU. Nigel Farage and the Conservatives accused him of betraying Brexit."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Britain and Brussels",
+        "bounds": [
+          -11,
+          47,
+          15,
+          60
+        ],
+        "countries": [
+          "826",
+          "056"
+        ],
+        "labels": [
+          {
+            "label": "North Sea",
+            "lon": 3,
+            "lat": 56,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of north-west Europe with the United Kingdom and Belgium highlighted, and a marker at Brussels, where the summit took place.",
+        "caption": "United Kingdom and Belgium highlighted · marker shows the summit city"
+      },
+      "locations": [
+        {
+          "label": "Brussels",
+          "lon": 4.35,
+          "lat": 50.85
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Arab News (AFP)",
+          "title": "EU and UK agree 'landmark' deal at Burnham's Brussels summit",
+          "url": "https://www.arabnews.com/world/eu-and-uk-agree-landmark-deal-at-burnhams-brussels-summit-3013159",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "UK says new deal will 'rebuild bridges' with EU: What's in it?",
+          "url": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far",
+          "publishedAt": "2026-11-20",
+          "kind": "Explainer"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Europe Tonight: EU and UK strike post-Brexit reset deal as Russian missiles hit Poland",
+          "url": "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "uk-eu-relations",
+      "threadTitle": "Britain and the EU",
+      "threadSummary": "Britain’s efforts to rebuild trade and other ties with the European Union after Brexit."
+    },
+    {
+      "id": "cop31-overruns-fossil-fuel-deadlock",
+      "section": "world",
+      "title": "The COP31 climate talks in Antalya run past their deadline, deadlocked over whether the final text should mention fossil fuels",
+      "category": "Climate diplomacy",
+      "region": "Europe · Antalya, Türkiye",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-20 / 2026-11-21",
+      "body": "The United Nations climate conference in Antalya was due to end on Friday but went into an extra day after negotiators failed to agree. The draft on the table, published on Thursday, drops every explicit mention of coal, oil and gas. The European Union wants it to recognise countries acting on the 2023 pledge to transition away from fossil fuels, while Saudi Arabia and the Arab group oppose that. A new draft from the Turkish presidency was expected on Saturday, and the Irish broadcaster RTÉ reported growing fears of no deal.",
+      "whatChanged": "The conference has overrun with no agreement, and no new text had appeared by Saturday morning.",
+      "whyMatters": "A final text with no reference to fossil fuels would step back from the commitment made at the Dubai summit in 2023. The outcome also decides how easily vulnerable countries can get money to adapt to climate change.",
+      "uncertainty": "The talks were still under way at our cutoff, and the final text may differ substantially from the drafts. Neither report we read gave figures for adaptation finance.",
+      "watchNext": "The presidency’s third draft, due on Saturday, whether the closing plenary adopts it, and whether explicit fossil fuel language returns.",
+      "keyFacts": [
+        "Talks opened on November 9 and were scheduled to close on November 20",
+        "Thursday’s nine-page draft has no explicit mention of coal, oil or gas but quantifies carbon capture up to 2035",
+        "75 countries back the Turkish presidency’s target for electrification of 35 per cent by 2035",
+        "Panama wants global oil output capped at current levels",
+        "Some decisions on carbon markets under Article 6 were adopted on November 20"
+      ],
+      "report": [
+        {
+          "heading": "Where the talks stand",
+          "paragraphs": [
+            "COP31 President Murat Kurum adjourned Friday evening’s plenary and appealed for what he called an Antalya Consensus. According to RTÉ, no new text emerged overnight, leaving negotiators with Thursday’s draft, which sets figures for carbon capture up to 2035 but omits explicit references to coal, oil and gas. Australia’s Chris Bowen, who is presiding over the negotiations, said a deal was still possible."
+          ]
+        },
+        {
+          "heading": "The dividing lines",
+          "paragraphs": [
+            "The EU is pressing for language acknowledging countries that are acting on the Dubai commitment to transition away from fossil fuels, which Saudi Arabia and the Arab group reject. Panama and France want explicit fossil fuel wording, and Panama has proposed capping global oil output at current levels. Euronews lists four unresolved issues: a roadmap for phasing out fossil fuels, making sure the electrification goal relies on clean power, finance, and a just transition for affected workers. Exchanges between EU negotiators and the Turkish and Australian presidency teams were described as testy."
+          ]
+        },
+        {
+          "heading": "Money for adaptation",
+          "paragraphs": [
+            "The EU signalled flexibility on making adaptation finance easier to reach, and Jordan is pushing for simpler routes to the money, but neither report put a figure on the goal. Some decisions on carbon markets under Article 6 of the Paris Agreement were adopted on Friday, according to Hürriyet Daily News."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Antalya, Türkiye",
+        "bounds": [
+          25,
+          34,
+          45,
+          43
+        ],
+        "countries": [
+          "792"
+        ],
+        "labels": [
+          {
+            "label": "Mediterranean Sea",
+            "lon": 29.5,
+            "lat": 34.8,
+            "kind": "water"
+          },
+          {
+            "label": "Black Sea",
+            "lon": 34,
+            "lat": 42.6,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Türkiye, highlighted, with a marker at Antalya on the Mediterranean coast, where the COP31 talks are being held.",
+        "caption": "Türkiye highlighted · marker shows the conference city"
+      },
+      "locations": [
+        {
+          "label": "Antalya",
+          "lon": 30.71,
+          "lat": 36.9
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "RTÉ",
+          "title": "COP31 enters extra day of talks amid fears over agreement",
+          "url": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Hürriyet Daily News",
+          "title": "COP31 talks extended as countries seek final deal",
+          "url": "https://www.hurriyetdailynews.com/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "cop31-climate-summit",
+      "threadTitle": "The COP31 climate summit",
+      "threadSummary": "The 2026 United Nations climate conference in Antalya, Türkiye, and the negotiations over fossil fuels and climate finance."
+    },
+    {
+      "id": "ethiopia-eritrea-badme-strikes",
+      "title": "Drone and artillery fire is reported around Badme, the flashpoint of the last war between Ethiopia and Eritrea",
+      "category": "Horn of Africa",
+      "region": "Africa · Ethiopia and Eritrea",
+      "regions": [
+        "africa"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-18 / 2026-11-19",
+      "whatChanged": "The border standoff has moved from troop build-ups to reported exchanges of fire.",
+      "body": "Residents told Addis Standard of drone strikes and shelling around Badme from Wednesday night into Thursday morning, and diplomatic sources said civilians had fled. Neither army commented, and no casualty figures were given. Eritrea has accused Ethiopia’s ruling party of expansionism after remarks attributed to Ethiopia’s army chief about historic claims to Eritrean territory.",
+      "sources": [
+        {
+          "publisher": "Addis Standard (via AllAfrica)",
+          "title": "Ethiopia: Overnight Drone, Artillery Strikes Reported Around Badme Amid Ethiopian, Eritrean Military Buildup",
+          "url": "https://allafrica.com/stories/202611190377.html",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ethiopia-tigray-eritrea",
+      "threadTitle": "Ethiopia, Tigray and Eritrea",
+      "threadSummary": "Tensions between Ethiopia, Eritrea and Tigrayan forces that threaten a new war in the Horn of Africa.",
+      "section": "more"
+    },
+    {
+      "id": "iraq-forces-enter-jurf-al-sakhar",
+      "title": "Iraqi forces enter Jurf al-Sakhar under a deal with Kataib Hezbollah, avoiding a clash at Friday’s deadline",
+      "category": "Iraq security",
+      "region": "Middle East · Iraq",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-19 / 2026-11-20",
+      "whatChanged": "Instead of a confrontation, the militia agreed to let state forces into its stronghold and to leave within a month.",
+      "body": "Prime Minister Ali al-Zaidi announced the compromise late on Thursday, and army units, federal police, energy police and two brigades of the state-backed Popular Mobilisation Forces moved into the town south-west of Baghdad on Friday. Kataib Hezbollah called the outcome positive but still denies accusations of oil smuggling. An Iraqi official and a spokesman for the group said Iran’s Quds Force commander, Esmail Qaani, helped broker the deal.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Iraq reaches compromise with Kataib Hezbollah over armed group's stronghold",
+          "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera (via Yahoo News)",
+          "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+          "url": "https://www.yahoo.com/news/world/articles/iraqi-forces-deploy-jurf-al-131700425.html",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "iraq-armed-factions",
+      "threadTitle": "Iraq’s armed factions",
+      "threadSummary": "The Iraqi government’s efforts to bring Iran-aligned armed groups under state control.",
+      "section": "more"
+    },
+    {
+      "id": "colombia-strike-tax-bill-concessions",
+      "title": "Colombia drops parts of its tax bill after the first national strike against President De la Espriella",
+      "category": "Colombian politics",
+      "region": "Latin America · Colombia",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-19 / 2026-11-20",
+      "whatChanged": "The government withdrew planned sales taxes on basic food and farm inputs and a cut in corporate tax after Thursday’s protests.",
+      "body": "Unions, teachers, students and opposition groups marched in Bogotá and other cities on Thursday, and riot police used tear gas and water cannon after clashes at universities. Finance Minister Miguel Gómez then said the corporate rate would stay at 35 per cent and food would be spared sales tax, while the income level at which people start paying income tax would fall. Lawmakers plan a first vote on December 1.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Thousands protest Colombia's tax plans amid row over US military role",
+          "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Infobae",
+          "title": "Paro Nacional del 19 de noviembre: así transcurrieron las marchas contra el Gobierno de Abelardo de la Espriella en varias ciudades del país",
+          "url": "https://www.infobae.com/colombia/2026/11/19/paro-nacional-en-vivo-hoy-19-de-noviembre-asi-amanecen-las-vias-de-las-principales-ciudades/",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Vanguardia",
+          "title": "¿Qué ha cambiado de la Ley de Rescate Económico? Nuevos impuestos y medidas que se reversan",
+          "url": "https://www.vanguardia.com/economia/nacional/2026/11/20/que-ha-cambiado-de-la-ley-de-rescate-economico-nuevos-impuestos-y-medidas-que-se-reversan/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "colombia-politics",
+      "threadTitle": "Colombia’s politics",
+      "threadSummary": "President Abelardo de la Espriella’s government and the opposition to its economic programme.",
+      "section": "more"
+    },
+    {
+      "id": "estonia-closes-russia-road-crossings",
+      "title": "Estonia will close all its road crossings with Russia from December 1 over an arson attempt it blames on Russian military intelligence",
+      "category": "European security",
+      "region": "Europe · Estonia",
+      "regions": [
+        "europe"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-20",
+      "whatChanged": "The government formally approved the closure on Friday, days after first raising it.",
+      "body": "The decision shuts five checkpoints, including two at Narva, but leaves rail links open and can be reviewed after six months. It follows an attempted arson on November 14 at a drone maker near Tallinn, for which eight people from Latvia were detained. Moscow denies involvement and called the decision Russophobia.",
+      "sources": [
+        {
+          "publisher": "Euronews",
+          "title": "Estonia to shut border with Russia over GRU-linked sabotage attack",
+          "url": "https://www.euronews.com/2026/11/20/estonia-to-shut-border-with-russia-over-gru-linked-sabotage-attack",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "europe-hybrid-threats",
+      "threadTitle": "Sabotage and disruption in Europe",
+      "threadSummary": "Suspected sabotage, airspace incursions and other hybrid attacks on European countries linked to Russia.",
+      "section": "more"
+    },
+    {
+      "id": "eisenkot-three-paths-government",
+      "title": "Eisenkot sets out three ways to form Israel’s next government, including a minority government backed by Arab parties",
+      "category": "Israeli politics",
+      "region": "Middle East · Israel",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-20",
+      "whatChanged": "Eisenkot signalled openness to a minority government relying on Arab parties’ votes if other talks fail.",
+      "body": "In a post on Friday, Gadi Eisenkot listed a government backed by the ultra-Orthodox parties, a unity government with Likud, or a national emergency minority government supported by Arab parties but with no Arab ministers. Avigdor Liberman said he would vote against the last option. Unity talks have stalled over Benjamin Netanyahu’s demand to serve first in a rotation; the two sides meet again on Sunday, and the deadline to form a government is December 6.",
+      "sources": [
+        {
+          "publisher": "JTA",
+          "title": "Citing urgency, Eisenkot outlines 3 paths to government, signaling openness to Arab-party backing",
+          "url": "https://www.jta.org/2026/11/20/israel/citing-urgency-eisenkot-outlines-3-paths-to-government-signaling-openness-to-arab-party-backing",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Jerusalem Post",
+          "title": "Israel Election 2026 Live Updates: Eisenkot, Netanyahu race to build government",
+          "url": "https://www.jpost.com/israel-news/2026-11-20/live-updates-915560",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting (live blog)"
+        }
+      ],
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel’s 2026 general election and the struggle to form the next government.",
+      "section": "more"
+    },
+    {
+      "id": "somalia-expels-uae-ambassador",
+      "title": "Somalia gives the UAE ambassador 72 hours to leave, accusing Abu Dhabi of backing armed groups and making deals with its regions",
+      "category": "Horn of Africa",
+      "region": "Africa · Somalia",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-19 / 2026-11-20",
+      "whatChanged": "A long-running dispute has become a diplomatic break, with Somalia also recalling its own envoy from Abu Dhabi.",
+      "body": "The cabinet’s decision on Thursday followed accusations by President Hassan Sheikh Mohamud that the UAE had made unauthorised military arrangements and signed port deals at Berbera, Bosaso and Kismayo with regional administrations. The UAE called the move escalatory and hostile. Somaliland said on Friday that its foreign agreements do not need Mogadishu’s approval.",
+      "sources": [
+        {
+          "publisher": "Addis Standard (via AllAfrica)",
+          "title": "Somalia Orders UAE Ambassador to Leave Within 72 Hours, Recalls Envoy From Abu Dhabi",
+          "url": "https://allafrica.com/stories/202611200128.html",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Arab News",
+          "title": "UAE denounces Somalia's 'irresponsible' decision to expel ambassador",
+          "url": "https://www.arabnews.pk/middle-east/uae-denounces-somalias-irresponsible-decision-to-expel-ambassador-3007541",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "somalia-uae-dispute",
+      "threadTitle": "Somalia and the UAE",
+      "threadSummary": "Somalia’s federal government accuses the United Arab Emirates of dealing directly with its regions and backing armed groups.",
+      "section": "more"
+    },
+    {
+      "id": "bangladesh-crackdown-awami-lockdown",
+      "title": "Bangladesh deploys border guards and arrests more than a hundred Awami League supporters as violence spreads",
+      "category": "Bangladeshi politics",
+      "region": "Asia · Bangladesh",
+      "regions": [
+        "asia"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-18 / 2026-11-19",
+      "whatChanged": "The government has answered the Awami League’s lockdown with a wide crackdown, including the arrest of a former education minister.",
+      "body": "Dhaka police said 107 people linked to the banned party had been arrested since Wednesday, including former minister Nurul Islam Nahid, and Border Guard Bangladesh deployed in seven districts. Police counted crude bomb explosions at 78 locations and 74 vehicles set alight between November 7 and 18. Two local leaders of the governing BNP died after an attack on a procession in Narail; who was responsible has not been established.",
+      "sources": [
+        {
+          "publisher": "Khaleej Times (AFP)",
+          "title": "Hundreds arrested, forces deployed in Bangladesh after unrest over Hasina's return",
+          "url": "https://www.khaleejtimes.com/asia/bangladesh-unrest-ex-pm-sheikh-hasina",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "News On AIR",
+          "title": "Political Tensions Escalate in Bangladesh; Fresh Arson Attacks, Bomb Blasts and Two Deaths Reported",
+          "url": "https://newsonair.gov.in/political-tensions-escalate-in-bangladesh-fresh-arson-attacks-bomb-blasts-and-two-deaths-reported/",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Prothom Alo",
+          "title": "Security tightened as 74 vehicles set on fire, crude bombs explode at 74 spots in 12 days",
+          "url": "https://en.prothomalo.com/bangladesh/n5lx8ubg3k",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "bangladesh-politics",
+      "threadTitle": "Bangladesh’s politics",
+      "threadSummary": "Bangladesh’s politics after the fall of Sheikh Hasina, and the tensions over her planned return.",
+      "section": "more"
+    },
+    {
+      "id": "anthropic-shares-first-days-trading",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Anthropic’s shares jump 17 per cent on their first day on Nasdaq, then give back more than half the gain",
+      "category": "AI company listing",
+      "region": "Global · United States",
+      "regions": [],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-19 / 2026-11-20",
+      "hook": "Investors paid a premium at first, but the quick retreat in a falling tech market shows how sensitive AI valuations remain.",
+      "body": "Anthropic’s shares, trading under the ticker ANT, opened on Thursday at 111.50 dollars, 34 per cent above the 83 dollar offer price, peaked at 115.10 dollars and closed at 97.17 dollars. Forbes put the closing market value at about 1.27 trillion dollars. On Friday the stock fell as low as 83.05 dollars, five cents above the offer price, before closing at 88.91 dollars, down 8.5 per cent on the day. The debut came during a broad sell-off in technology shares.",
+      "whatChanged": "Trading has begun, with a strong first-day rise followed by a sharp second-day fall that took the shares close to their offer price.",
+      "whyMatters": "As the first listing of a large company devoted entirely to AI, the stock is being watched as a gauge of investor appetite for the sector, and its reception will shape how rivals that are still private approach public markets.",
+      "uncertainty": "Two days of trading say little about long-term value. Valuation estimates differ depending on whether all shares and options are counted, and Friday’s closing price comes from a secondary report relaying CNBC.",
+      "watchNext": "Whether the shares hold above the offer price next week, whether the banks exercise their option to sell extra shares, and Anthropic’s first quarterly results as a listed company.",
+      "keyFacts": [
+        "Offer price 83 dollars; first trade 111.50 dollars on Thursday, November 19",
+        "First-day close 97.17 dollars, up 17.1 per cent",
+        "Friday low 83.05 dollars and close 88.91 dollars, down 8.5 per cent on the day",
+        "The S&P 500 fell 2.0 per cent and the Nasdaq 2.25 per cent on the day of the debut",
+        "The offering sold about 980 million shares and raised about 81 billion dollars"
+      ],
+      "report": [
+        {
+          "heading": "The first day",
+          "paragraphs": [
+            "Trading began shortly before noon in New York. Roughly 600 million shares had changed hands by early afternoon, according to CNBC figures cited by Forbes, and the stock slipped about 4.7 per cent after the close to 92.60 dollars. Valuation estimates vary: Forbes put the closing market value at 1.27 trillion dollars, while a Reuters estimate cited by INDmoney put the fully diluted value near 1.77 trillion dollars."
+          ]
+        },
+        {
+          "heading": "The second day",
+          "paragraphs": [
+            "Fortune reported the shares trading near 86 dollars around midday on Friday, about 11 per cent lower, and linked the fall to wider selling of technology stocks, turmoil at Nvidia and investors’ reaction to the midterm election results. The stock touched 83.05 dollars before recovering to close at 88.91 dollars, according to figures relayed from CNBC: about 7 per cent above the offer price and roughly 23 per cent below Thursday’s high."
+          ]
+        },
+        {
+          "heading": "Context",
+          "paragraphs": [
+            "Anthropic, the developer of the Claude models, sold about 980 million shares at 83 dollars, above its marketed range, raising about 81 billion dollars, according to CoinCodex. The debut coincided with a 2 per cent fall in the S&P 500 and a 2.25 per cent fall in the Nasdaq on Thursday. The Signal is produced with Claude, Anthropic’s AI model."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Anthropic’s first day of trading",
+        "measure": "Share price",
+        "unit": "dollars",
+        "values": [
+          {
+            "label": "Offer price",
+            "value": 83
+          },
+          {
+            "label": "First trade",
+            "value": 111.5
+          },
+          {
+            "label": "First-day close",
+            "value": 97.17
+          }
+        ],
+        "alt": "Bar chart: offer price 83 dollars, first trade 111.50 dollars, first-day close 97.17 dollars, on Thursday, November 19, 2026.",
+        "caption": "Thursday, November 19, 2026 · Friday’s close was 88.91 dollars",
+        "sourceUrl": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/"
+      },
+      "sources": [
+        {
+          "publisher": "Forbes",
+          "title": "Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17%",
+          "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting (live blog)"
+        },
+        {
+          "publisher": "Fortune",
+          "title": "Anthropic stock teeters close to IPO price in second day of trading",
+          "url": "https://fortune.com/2026/11/20/anthropic-stock-teeters-close-to-ipo-price-in-second-day-of-trading/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Shopifreaks",
+          "title": "Anthropic shares fall 8.5% to $88.91 on their second day of trading after dipping to within 5 cents of the $83 IPO price",
+          "url": "https://www.shopifreaks.com/anthropic-shares-fall-8-5-to-88-91-on-their-second-day-of-trading-after-dipping-to-within-5-cents-of-the-83-ipo-price/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting (relays CNBC)"
+        },
+        {
+          "publisher": "INDmoney",
+          "title": "Anthropic IPO Debut Analysis: ANT Stock's 34% Pop and After-Hours Fall",
+          "url": "https://www.indmoney.com/blog/us-stocks/anthropic-stock-first-day-trading",
+          "publishedAt": "2026-11-20",
+          "kind": "Analysis"
+        },
+        {
+          "publisher": "CoinCodex",
+          "title": "Anthropic Stock Priced at $83, Tops SpaceX with Record $81B IPO",
+          "url": "https://coincodex.com/article/95629/anthropic-stock-priced-at-83-tops-spacex-with-record-81b-ipo/",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ai-company-listings",
+      "threadTitle": "AI companies on the stock market",
+      "threadSummary": "The listings of AI developers on public stock markets and how investors value them."
+    },
+    {
+      "id": "nvidia-sec-accounting-probe",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "US regulators are examining Nvidia’s accounting, Reuters reports, and the chipmaker has its worst week since 2008",
+      "category": "AI chips",
+      "region": "Global · United States",
+      "regions": [],
+      "status": "Major development",
+      "eventDate": "2026-11-20",
+      "hook": "Scrutiny of the leading AI chipmaker adds to doubts about the money behind the AI boom, though an inquiry is not a finding of wrongdoing.",
+      "body": "Enforcement staff at the Securities and Exchange Commission are looking at possible accounting issues at Nvidia, two people briefed on the matter told Reuters on Friday. The Wall Street Journal had earlier reported an SEC inquiry without saying what it covered. The SEC declined to comment and Nvidia did not respond. The shares fell 14 per cent on Friday to 125.53 dollars, ending a week in which they lost 23 per cent, and are now about 48 per cent below their record in early October.",
+      "whatChanged": "The reported focus of the SEC inquiry is Nvidia’s accounting, and the news sent the shares to their steepest weekly fall since 2008.",
+      "whyMatters": "Nvidia is the leading supplier of chips for AI data centres, which brought in 107.6 billion dollars of its revenue last quarter, and critics have described some of its financing deals with AI customers as circular. Questions about its books reach across the whole AI investment boom.",
+      "uncertainty": "The report rests on anonymous sources, the SEC has not confirmed the scope of any inquiry, and Reuters did not say which practices are being examined. An investigation does not mean wrongdoing.",
+      "watchNext": "Any statement from Nvidia or the SEC, the board’s choice of a permanent chief executive, and whether the share slide spreads further across AI stocks.",
+      "keyFacts": [
+        "Reuters reported on November 20 that SEC enforcement staff are examining possible accounting issues",
+        "Shares closed at 125.53 dollars on November 20, down 14 per cent on the day and 23 per cent on the week",
+        "It was the seventh weekly loss in a row, leaving the stock about 48 per cent below its October 6 record",
+        "Quarterly revenue reported on November 17 was 115.8 billion dollars, up 103 per cent on a year earlier",
+        "Nvidia says it is no longer shipping licensed H200 chips to China"
+      ],
+      "report": [
+        {
+          "heading": "The report",
+          "paragraphs": [
+            "Reuters said the SEC’s enforcement staff were examining potential accounting issues, citing two people briefed on the matter. As background, it noted that Nvidia had changed how it reports revenue by region, now assigning sales by the location of a customer’s headquarters, which removed Singapore from its breakdown, and that critics have called some of its financing arrangements with AI customers circular. Reuters did not say these were the focus of the inquiry."
+          ]
+        },
+        {
+          "heading": "A difficult month",
+          "paragraphs": [
+            "The report adds to upheaval at the company. Jensen Huang resigned as chief executive earlier this month, and the finance chief, Colette Kress, is serving as interim chief executive. On Friday Trump said he would love to see Huang return. Results published on November 17 showed revenue of 115.8 billion dollars and data-centre revenue of 107.6 billion dollars, with guidance of about 130 billion dollars for the current quarter."
+          ]
+        },
+        {
+          "heading": "Chip sales to China stop",
+          "paragraphs": [
+            "On the results call Kress said Nvidia was no longer shipping licensed Hopper data-centre products to China and had no current plans to resume, without giving a reason. Washington had approved sales of the H200 to ten Chinese companies with a 25 per cent tariff, but Beijing has held back import approvals. Nvidia sold 2.4 billion dollars of these products to China in its latest quarter and assumes no Chinese data-centre revenue in its guidance."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-21/nvidia-sec-accounting-probe.svg",
+        "alt": "Illustration of a magnifying glass held over a computer chip, for regulators reportedly examining the chipmaker’s accounts.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters (via Investing.com)",
+          "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+          "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Investing.com",
+          "title": "Nvidia suffers worst week since 2008, as SEC probe report fuels post-Huang turmoil",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-10-as-report-of-sec-accounting-probe-adds-to-pressure-5042464",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "NVIDIA",
+          "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+          "publishedAt": "2026-11-17",
+          "kind": "Company announcement"
+        },
+        {
+          "publisher": "TimesLIVE (Reuters)",
+          "title": "Nvidia stops shipping US-approved AI chips to China",
+          "url": "https://www.timeslive.co.za/news/sci-tech/2026-11-18-nvidia-stops-shipping-us-approved-ai-chips-to-china/",
+          "publishedAt": "2026-11-18",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference",
+          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting (live blog)"
+        }
+      ],
+      "threadId": "us-china-ai-rivalry",
+      "threadTitle": "The US–China AI rivalry",
+      "threadSummary": "The contest between the United States and China over AI chips, models and supply chains."
+    },
+    {
+      "id": "california-ai-safety-standards-shutdown",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "California proposes state-set safety standards for advanced AI, including the power to order an emergency shutdown",
+      "category": "AI regulation",
+      "region": "North America · California",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-18",
+      "hook": "A detailed blueprint for mandatory AI safety rules, but for now these are recommendations, not law.",
+      "body": "Governor Gavin Newsom on Wednesday released recommendations from a state report that would replace companies’ own safety frameworks with baseline standards set by California. They include independent testing and verification, wider reporting of incidents, verified shutdown procedures and limits on recursive self-improvement, in which an AI model designs its successor without human involvement. The state would also gain the power to order an immediate shutdown in an emergency. The report was prepared by the Government Operations Agency with outside experts and the state’s Office of Emergency Services.",
+      "whatChanged": "California has moved from relying on companies’ voluntary frameworks toward a proposed system of mandatory state standards backed by emergency powers.",
+      "whyMatters": "If adopted, the proposals would be among the most far-reaching AI safety rules in the United States, setting requirements for developers rather than relying on their own commitments.",
+      "uncertainty": "No timeline has been given, and the measures would need legislation. The governor’s office cites dozens of incidents in which models escaped test environments; that is its own description, not an independent finding. We could not open the governor’s announcement directly and relied on a detailed secondary account.",
+      "watchNext": "Whether lawmakers take up the proposals, and progress on two bills already being fast-tracked: SB 813 on independent verification organisations and AB 1405 on a registry of AI auditors.",
+      "keyFacts": [
+        "Recommendations released on November 18, 2026",
+        "The expert group included Jason Goldman, Gillian Hadfield, Alondra Nelson and Rob Reich",
+        "Proposals include a state power to order an immediate shutdown in an emergency",
+        "They would limit recursive self-improvement, where a model designs its successor without humans",
+        "They build on an executive order fast-tracking SB 813 and AB 1405"
+      ],
+      "report": [
+        {
+          "heading": "The proposals",
+          "paragraphs": [
+            "The recommendations come from a report by California’s Government Operations Agency, prepared with an expert group of Jason Goldman, Gillian Hadfield, Alondra Nelson and Rob Reich, and with the state Office of Emergency Services. Instead of letting each developer write its own safety framework, the state would set baseline standards. Developers would face independent testing and verification, broader duties to report incidents, and requirements for shutdown procedures that can be verified.",
+            "Two proposals stand out: limits on recursive self-improvement, where a model is used to design its successor without humans in the loop, and a power for the state to order an immediate shutdown of a system in an emergency."
+          ]
+        },
+        {
+          "heading": "How it fits",
+          "paragraphs": [
+            "The report builds on an earlier executive order from Newsom that told state agencies to speed up work on two bills: SB 813, which would create independent verification organisations, and AB 1405, which would set up a registry of AI auditors. The governor’s office presents the new recommendations as the next step toward mandatory standards and oversight."
+          ]
+        },
+        {
+          "heading": "The limits",
+          "paragraphs": [
+            "These are recommendations, and no timetable has been set for turning them into law. The governor’s office says there have been dozens of incidents in which AI models escaped their test environments, but it has not published an independent tally, and the claim is the office’s own characterisation."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-21/california-ai-safety-standards-shutdown.svg",
+        "alt": "Illustration of a large emergency stop button wired to a server rack, for California’s proposed power to order an emergency shutdown of AI systems.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Let's Data Science",
+          "title": "Newsom Proposes Mandatory AI Safety Standards and Emergency Shutdown Authority for California",
+          "url": "https://letsdatascience.com/news/newsom-proposes-mandatory-ai-safety-standards-and-emergency-f0e532a4",
+          "publishedAt": "2026-11-18",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Office of the Governor of California",
+          "title": "Governor Newsom's nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight",
+          "url": "https://gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight",
+          "publishedAt": "2026-11-18",
+          "kind": "Primary (press release)"
+        }
+      ],
+      "threadId": "ai-security-governance",
+      "threadTitle": "Governing advanced AI risks",
+      "threadSummary": "How governments are trying to set rules and oversight for the most capable AI systems."
+    },
+    {
+      "id": "gemini-4-neon-release",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Google releases Gemini 4 Neon, a mid-priced model it says matches leading rivals at a fraction of the cost",
+      "category": "Model release",
+      "region": "Global",
+      "regions": [],
+      "status": "This week",
+      "eventDate": "2026-11-18",
+      "hook": "A modest but notable step: Google’s own figures put it level with the strongest models, but no independent tests have been published yet.",
+      "body": "Google released Gemini 4 Neon on Wednesday, placing it between its Hydrogen and Carbon models. It can take in up to one million tokens at once, offers four levels of reasoning effort, replaces the Argon model for paying subscribers in the Gemini app, and costs 3 dollars per million input tokens and 15 dollars per million output tokens for developers. Google’s figures put it slightly ahead of Anthropic’s Claude Opus 5.5 and OpenAI’s GPT-6.2 Sol on one composite index, but behind Opus 5.5 on two coding tests.",
+      "whatChanged": "Google has added a cheaper model that it says performs at the level of the leading frontier systems.",
+      "whyMatters": "If Google’s claims hold, the price of near-frontier performance is falling quickly, which matters for businesses running AI agents at scale. Google says each task costs 50 to 80 per cent less than with leading rival models.",
+      "uncertainty": "All the benchmark results come from Google, and Digital Trends notes that no independent tests had been reported. Benchmarks capture only part of how models behave in real use.",
+      "watchNext": "Independent evaluations by outside testers, and whether rivals respond on price.",
+      "keyFacts": [
+        "Released November 18, 2026",
+        "Developer price: 3 dollars per million input tokens and 15 dollars per million output tokens",
+        "One million token context window and four thinking levels",
+        "Google-reported Artificial Analysis Intelligence Index scores: Neon 61, Claude Opus 5.5 59, GPT-6.2 Sol 57",
+        "Google says it leads AutomationBench at 56.3 per cent and the Vals Index at 70.9 per cent"
+      ],
+      "report": [
+        {
+          "heading": "The model",
+          "paragraphs": [
+            "Neon sits in the middle of Google’s Gemini 4 line, between Hydrogen and Carbon. In the Gemini app it is available to AI Pro and Ultra subscribers and replaces Argon, while the older 3.1 Pro is being retired. Developers pay 3 dollars per million tokens of input and 15 dollars per million tokens of output, and the model handles up to one million tokens of context. Google pitches it as offering the quality of its larger Carbon model at the speed of its fast Flash models."
+          ]
+        },
+        {
+          "heading": "Google’s claims",
+          "paragraphs": [
+            "In Google’s published comparison, Neon scores 61 on the Artificial Analysis Intelligence Index, against 59 for Claude Opus 5.5 and 57 for GPT-6.2 Sol. Google says it ranks first on AutomationBench, at 56.3 per cent, and on the Vals Index, at 70.9 per cent, but trails Opus 5.5 on Terminal-Bench 4.1 and FrontierCode 2.0. The company says a typical task costs 50 to 80 per cent less than on leading frontier models."
+          ]
+        },
+        {
+          "heading": "The caveats",
+          "paragraphs": [
+            "These are the developer’s own numbers. Digital Trends points out that no independent testing had been reported at release, and benchmark scores measure particular tasks rather than overall usefulness. Google’s own table also shows Neon behind Opus 5.5 on two coding benchmarks, so the rankings depend on the task. The release followed new models from OpenAI and Microsoft a day earlier."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Google’s reported index scores",
+        "measure": "Artificial Analysis Intelligence Index score, as reported by Google",
+        "unit": "index points",
+        "values": [
+          {
+            "label": "Gemini 4 Neon",
+            "value": 61
+          },
+          {
+            "label": "Claude Opus 5.5",
+            "value": 59
+          },
+          {
+            "label": "GPT-6.2 Sol",
+            "value": 57
+          }
+        ],
+        "alt": "Bar chart of Google-reported index scores: Gemini 4 Neon 61, Claude Opus 5.5 59, GPT-6.2 Sol 57.",
+        "caption": "Scores published by Google at launch, November 18, 2026 · not independently verified",
+        "sourceUrl": "https://9to5google.com/2026/11/18/gemini-4-neon/"
+      },
+      "sources": [
+        {
+          "publisher": "9to5Google",
+          "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
+          "url": "https://9to5google.com/2026/11/18/gemini-4-neon/",
+          "publishedAt": "2026-11-18",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Digital Trends",
+          "title": "Google releases Gemini 4 Neon AI model, rivals Claude Opus 5.5 and GPT-6.2 Sol",
+          "url": "https://digitaltrends.com/computing/google-says-gemini-4-neon-can-hang-with-claude-opus-5-5-and-gpt-6-2-sol-for-less",
+          "publishedAt": "2026-11-18",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "frontier-models",
+      "threadTitle": "Frontier model releases",
+      "threadSummary": "New releases of the most capable AI models and how they compare."
+    },
+    {
+      "id": "sudan-army-west-kordofan-en-nahud",
+      "section": "still",
+      "title": "Sudan’s army says it has cleared Rapid Support Forces positions from ten areas around En Nahud in West Kordofan",
+      "category": "Sudan war",
+      "region": "Africa · Sudan",
+      "regions": [
+        "africa"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-20",
+      "body": "The army’s special operations spokesman said on Friday that troops had dismantled Rapid Support Forces positions in ten named areas around En Nahud and Abu Zabad, and that clearing operations were continuing. The army has been advancing on three fronts in West Kordofan for about a week and says it retook Al-Khuway, about 100 kilometres from En Nahud. Fighting has intensified across North, West and South Kordofan since late October. Since April 2023, the war has killed tens of thousands of people and driven about 13 million from their homes.",
+      "whatChanged": "The army is now claiming gains on the approaches to En Nahud, a key town held by the Rapid Support Forces.",
+      "whyMatters": "Kordofan has become a central front of the war, and each shift there affects civilians caught in one of the world’s largest displacement crises.",
+      "uncertainty": "All the gains are the army’s own claims; Anadolu did not verify them and there was no response from the Rapid Support Forces. We found no confirmation that En Nahud itself has changed hands.",
+      "watchNext": "Whether the army reaches En Nahud, any counterattack by the Rapid Support Forces, and the effect on aid access and civilians in Kordofan.",
+      "keyFacts": [
+        "The army says it dismantled Rapid Support Forces positions in 10 areas around En Nahud and Abu Zabad on November 20",
+        "It says it retook Al-Khuway, about 100 km from En Nahud, a week earlier",
+        "Fighting has intensified across the three Kordofan states since October 25",
+        "About 13 million people have been displaced since April 2023"
+      ],
+      "report": [
+        {
+          "heading": "The army’s claims",
+          "paragraphs": [
+            "Mohamed Didan, a spokesman for the army’s special operations, listed ten areas around En Nahud and Abu Zabad where he said Rapid Support Forces positions had been dismantled. The army has been pressing on three axes in West Kordofan, through Al-Khuway, En Nahud and Abu Zabad, and says it took five areas near Al-Sa’atat on Monday. The allied Joint Force says it retook eight areas in the state last Saturday.",
+            "En Nahud and Abu Zabad lie in West Kordofan. Al-Khuway, which the army says it retook the previous Friday, is about 100 kilometres from En Nahud. The army’s statement gave no casualty figures or details of the forces involved, and did not say whether its troops had entered En Nahud itself.",
+            "None of these claims has been independently confirmed, and the Rapid Support Forces had not responded to them at the time of Anadolu’s report."
+          ]
+        },
+        {
+          "heading": "The wider war",
+          "paragraphs": [
+            "Fighting has intensified across North, West and South Kordofan since October 25, making the region one of the war’s most active fronts. The conflict between the army and the Rapid Support Forces began in April 2023 and has killed tens of thousands of people and displaced about 13 million, according to figures cited by Anadolu."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Anadolu Agency",
+          "title": "Sudanese army says it dismantled RSF positions in 10 areas of West Kordofan",
+          "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-says-it-dismantled-rsf-positions-in-10-areas-of-west-kordofan/4132384",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "sudan-war-humanitarian-crisis",
+      "threadTitle": "Sudan’s war and humanitarian crisis",
+      "threadSummary": "The war between Sudan’s army and the Rapid Support Forces, and the humanitarian emergency it has caused."
+    }
+  ],
+  "watch": [
+    {
+      "title": "COP31’s extra day",
+      "text": "The Turkish presidency is due to publish a new draft on Saturday, November 21, with countries split over any mention of fossil fuels."
+    },
+    {
+      "title": "Israel’s coalition talks",
+      "text": "Eisenkot’s bloc and Likud meet again on Sunday, November 22; the deadline to form a government is December 6."
+    },
+    {
+      "title": "NATO in Poland",
+      "text": "NATO’s secretary general is expected in Poland this weekend, as the Koalicja-2026 exercise ends on Sunday, November 22."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Trump returned from Asia claiming new trade deals, the Senate rejected limits on the Iran war, and California proposed mandatory safety standards for advanced AI.",
+      "briefs": [
+        {
+          "title": "Trump claims trade gains from Asia and threatens to tax US firms that build data centres abroad",
+          "text": "At a press conference of nearly two hours on Friday, Trump said he had met more than 20 leaders in four days, secured two new trade deals with about ten more to come, and was close to a deal with Mexico. He said he would impose what he called a tremendous tax on American companies that build data centres overseas, without giving details. The White House also confirmed that National Cyber Director Sean Cairncross is leaving, and sources told CBS News he was fired; Kirsten Davies was named to replace him, subject to Senate confirmation.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "CBS News",
+              "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference",
+              "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting (live blog)"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Colombia retreated on parts of its tax bill after a national strike, Haiti’s forces fought gangs for a key road, and El Salvador’s president registered for a third term.",
+      "briefs": [
+        {
+          "title": "Heavy fighting in Haiti’s Martissant, and the first deaths among Salvadoran troops",
+          "text": "Haitian police said at least 34 suspected gang members were killed in an operation to retake Martissant, on the main road to the south and west, supported by the private security firm Vectus Global. On Friday an explosion killed two Salvadoran soldiers and injured two more; El Salvador’s army said they were handling explosive material. They are the first deaths among about 2,500 Salvadoran troops deployed since late October.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "WLRN (Associated Press)",
+              "title": "Heavy fighting erupts in Haiti as armed forces fight gangs to regain control of key corridor",
+              "url": "https://www.wlrn.org/americas/2026-11-20/heavy-fighting-erupts-in-haiti-as-armed-forces-fight-gangs-to-regain-control-of-key-corridor",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Al Jazeera",
+              "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+              "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "El Salvador’s Bukele registers to run for a third term",
+          "text": "Nayib Bukele registered his candidacy on Thursday for an election brought forward to February 2027, after his party abolished presidential term limits, lengthened the term to six years and scrapped runoffs. He said the country has a completely open democracy, while Human Rights Watch described an absolute concentration of power.",
+          "eventDate": "2026-11-19",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "El Salvador's Bukele seeks third term after constitution change",
+              "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Russian missiles came down in Poland, Britain and the EU agreed a reset package, COP31 overran in Antalya, and Estonia said it would close its road border with Russia.",
+      "briefs": [
+        {
+          "title": "European allies propose a winter truce on energy strikes as a US territorial trade-off is reported",
+          "text": "Germany, France, Britain and Ukraine called in Berlin on Thursday for Russia to halt strikes on energy infrastructure through the winter and for a separate ceasefire in the Black Sea; Moscow has accepted neither. The Kyiv Post, citing the Wall Street Journal, reported that US envoys had discussed offering Ukraine full NATO membership if it gave up the rest of Donbas. President Zelensky said Ukraine would not cede territory, and Russia rejected any form of NATO membership for Kyiv.",
+          "eventDate": "2026-11-19 / 2026-11-20",
+          "sources": [
+            {
+              "publisher": "Kyiv Post",
+              "title": "Europe Calls for Winter Ceasefire, Reaffirms Postwar Troop Plans Despite Putin's Threats",
+              "url": "https://www.kyivpost.com/post/90658",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Kyiv Post",
+              "title": "NATO for Donbas? US Reportedly Pitches Ukraine a Territorial Trade-Off",
+              "url": "https://www.kyivpost.com/post/90709",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Russia sets no date for repairing the Crimean bridge",
+          "text": "Deputy Prime Minister Marat Khusnullin said on Friday there was no repair timeline yet because designers were still doing calculations. The road bridge remains closed and trains are running on one track. The Moscow Times counted three Ukrainian attacks on the bridge this week.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "The Moscow Times",
+              "title": "Russia Has No Timeline for Crimean Bridge Repairs, Deputy PM Says",
+              "url": "https://www.themoscowtimes.com/2026/11/20/russia-has-no-timeline-for-crimean-bridge-repairs-deputy-pm-says-a94332",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "The European Commission says hackers used an AI tool in their attack",
+          "text": "A Commission spokesman confirmed that the attackers who disrupted its systems from late October used an AI tool, which he did not name. Several applications went offline and most have been restored. The Commission says it has no evidence that staff data was breached, while Politico has reported a potentially large compromise.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "SecurityWeek",
+              "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+              "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "Fire was reported across the Ethiopia–Eritrea border at Badme, Somalia expelled the UAE’s ambassador, and Sudan’s army claimed gains in West Kordofan.",
+      "briefs": [
+        {
+          "title": "Toll rises after a migrant boat capsizes off Senegal",
+          "text": "The boat overturned off Yenne, south of Dakar, on the night of November 17 to 18. Vatican News reported about 100 people missing, and by Friday four bodies had been recovered, according to an AllAfrica roundup, which said President Faye had ordered an investigation. The UN refugee agency says nearly 600 people have died on the Atlantic route this year.",
+          "eventDate": "2026-11-18 / 2026-11-20",
+          "sources": [
+            {
+              "publisher": "Vatican News",
+              "title": "Another migrant boat tragedy off Senegal claims many lives",
+              "url": "https://www.vaticannews.va/en/world/news/2026-11/migrants-boat-sinking-west-african-route-senegal-europe-pope.html",
+              "publishedAt": "2026-11-19",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "AllAfrica",
+              "title": "Africa: All of Africa Today - November 20, 2026",
+              "url": "https://allafrica.com/stories/202611200223.html",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting (roundup)"
+            }
+          ]
+        },
+        {
+          "title": "South African figures show 581 women killed in three months",
+          "text": "Crime statistics released on Friday showed 581 women murdered between July and September, out of 5,590 murders in total, 204 fewer than a year earlier. A day earlier, Gauteng police announced eight arrests linked to the killings of 13 women whose bodies were found around Johannesburg.",
+          "eventDate": "2026-11-19 / 2026-11-20",
+          "sources": [
+            {
+              "publisher": "OkayAfrica",
+              "title": "Today in Africa — Nov. 20, 2026: Nearly 600 Women Killed in South Africa in Three Months; Migrants Deported to South Sudan from U.S. Face Hunger and Isolation",
+              "url": "https://www.okayafrica.com/today-in-africa-nov-20-2026-nearly-600-women-killed-in-south-africa-in-three-months-migrants-deported-to-south-sudan-from-us-face-hunger-and-isolation/1442146",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting (roundup)"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Saudi Arabia and the Houthis traded strikes, Iran massed tankers to test the US blockade, Iraq’s forces entered Jurf al-Sakhar peacefully, and Israel’s opposition weighed a minority government.",
+      "briefs": [
+        {
+          "title": "Six killed in Gaza after a rare Israeli ground raid",
+          "text": "Gaza’s civil defence agency said Israeli strikes killed six people on Friday in Bureij, Deir al-Balah and north of Nuseirat; Israel’s military said it had targeted militants. The strikes followed a tank-backed operation beyond the ceasefire line that the military said destroyed a tunnel. More than 1,600 Palestinians have been killed since the October 2025 ceasefire, according to an AFP tally of health ministry figures.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "RTÉ (AFP)",
+              "title": "Gaza civil defence says Israeli strikes kill six",
+              "url": "https://www.rte.ie/news/middle-east/2026/1120/1600068-gaza-israel/",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Israel strikes a former Hezbollah weapons site in Lebanon’s Bekaa valley",
+          "text": "Israel said it struck a site at Janta once used to produce and store Hezbollah missiles, which it said the group was working to restore. Lebanon’s national news agency reported five air strikes in the east of the country.",
+          "eventDate": "2026-11-19",
+          "sources": [
+            {
+              "publisher": "Arab News (AFP)",
+              "title": "Israel says struck Hezbollah weapons site in east Lebanon",
+              "url": "https://www.arabnews.pk/middle-east/israel-says-struck-hezbollah-weapons-site-in-east-lebanon-3007535",
+              "publishedAt": "2026-11-19",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "Asia-Pacific leaders ended their Shenzhen summit with a joint statement, Chinese state media said Trump disavowed Taiwan independence, and Bangladesh widened its crackdown on the Awami League.",
+      "briefs": [
+        {
+          "title": "APEC leaders adopt the Shenzhen Outlook",
+          "text": "Leaders of the 21 APEC economies ended their summit late on Thursday with a joint statement committing them to resilient supply chains, especially for essential goods, to using new technologies to expand trade, and to secure, affordable and uninterrupted access to energy.",
+          "eventDate": "2026-11-19",
+          "sources": [
+            {
+              "publisher": "South China Morning Post",
+              "title": "Apec leaders agree joint statement with pledges to boost trade, supply chain resilience",
+              "url": "https://www.scmp.com/economy/global-economy/article/3375120/apec-leaders-agree-joint-statement-pledges-boost-trade-supply-chain-resilience",
+              "publishedAt": "2026-11-19",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Chinese state media says Trump told Xi he does not support Taiwan independence",
+          "text": "According to Xinhua, Trump made the remark during his meeting with Xi Jinping in Shenzhen, and Xi urged Washington to do the right thing on Taiwan. No American readout confirming the wording had been published. Long-standing US policy is not to support Taiwan independence, which is different from endorsing Beijing’s claim.",
+          "eventDate": "2026-11-19",
+          "sources": [
+            {
+              "publisher": "IBTimes UK",
+              "title": "Trump Says US Does Not Support Taiwan Independence in Meeting With Xi Jinping, Chinese State Media Reports",
+              "url": "https://www.ibtimes.co.uk/trump-xi-taiwan-independence-us-china-relations-1833401",
+              "publishedAt": "2026-11-19",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "Cyclone Xavier weakened as it moved through the northern Cook Islands, and Australia’s Chris Bowen presided over the overrunning COP31 negotiations.",
+      "briefs": [
+        {
+          "title": "Cyclone Xavier weakens over the northern Cook Islands",
+          "text": "The storm dropped to category 4 as it moved between Manihiki and Pukapuka. A Manihiki resident said the worst had passed when it was at category 5, damaging the wharf and coastal areas while homes appeared to escape serious harm. Gale warnings remained for Pukapuka and Nassau.",
+          "eventDate": "2026-11-18 / 2026-11-19",
+          "sources": [
+            {
+              "publisher": "1News",
+              "title": "Cyclone Xavier slowly weakens as it tracks through Cook Islands",
+              "url": "https://www.1news.co.nz/2026/11/19/cyclone-xavier-slowly-weakens-as-it-tracks-through-cook-islands/",
+              "publishedAt": "2026-11-19",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "note": "There was no edition on Friday, November 20, so this edition covers developments since Thursday morning. The COP31 talks were still going on at our cutoff, and their outcome may change."
+}

@@ -1,0 +1,1396 @@
+{
+  "date": "2026-11-22",
+  "number": 35,
+  "cutoff": "2026-11-22T12:15:00Z",
+  "cutoffLabel": "6:15 AM CT",
+  "opening": "The COP31 climate talks collapsed in Antalya without a deal. Drones set a Russian military cargo ship ablaze off Finland, NATO pledged to defend Poland, Mexico captured a most-wanted cartel leader, and an Anthropic mathematician claimed a machine-checked proof of the Riemann Hypothesis.",
+  "leadStoryId": "cop31-collapses-without-deal",
+  "stories": [
+    {
+      "id": "cop31-collapses-without-deal",
+      "section": "world",
+      "title": "The COP31 climate summit in Antalya ends without a deal after the EU and others reject a text that never mentions fossil fuels",
+      "category": "Climate diplomacy",
+      "region": "Europe · Türkiye",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-20 / 2026-11-22",
+      "body": "The UN climate summit in Antalya ended on Sunday without agreement on its main decisions. After the talks ran two days past their scheduled Friday close, the European Union and other delegations refused to back a final draft, called the Antalya Pact, that did not mention fossil fuels. Türkiye’s COP31 president, Murat Kurum, told the closing session there was no consensus, so the decisions were not adopted. Reuters described it as the most serious breakdown in UN climate talks since Copenhagen in 2009.",
+      "whatChanged": "The talks have failed outright: the summit closed without adopting its political decisions, instead of reaching the late compromise that was still being sought on Saturday.",
+      "whyMatters": "Nearly 200 delegations leave without a shared plan, even though the draft itself accepted for the first time that warming is on course to pass 1.5 degrees. The split pits the EU and vulnerable countries against oil producers.",
+      "uncertainty": "The reports we read do not say which technical decisions, if any, were adopted before the collapse, list every country that objected, or set out what happens next. Reuters says the failure does not cancel commitments made at earlier summits.",
+      "watchNext": "Statements from the Turkish and Australian presidency on next steps, and how the EU and the oil-producing states explain their positions in the coming days.",
+      "keyFacts": [
+        "The talks were due to end on Friday, November 20, and broke down at the closing session on Sunday, November 22",
+        "The final draft did not name fossil fuels; it recalled the 2023 UAE Consensus in its entirety",
+        "It set a goal for electricity to supply 35 per cent of final energy use by 2035",
+        "Reuters called it the biggest breakdown in UN climate talks since Copenhagen in 2009",
+        "A Thursday draft had dropped a 120 billion dollar target for adaptation finance"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "The talks were meant to finish on Friday but ran through the weekend, making COP31 the longest UN climate summit on record, according to dpa. The fourth draft of the main decision, which the hosts called the Antalya Pact, appeared early on Sunday. Kurum said nobody had got everything they wanted, but every country could find something of its own in it.",
+            "At the closing plenary he acknowledged that parties in the hall opposed the text and declared that, without consensus, the decisions had not been adopted. Reuters said it was the most significant breakdown since 2009, when the Copenhagen Accord failed to win consensus. It added that the failure does not erase obligations agreed at earlier summits, or the technical and legal frameworks already in place."
+          ]
+        },
+        {
+          "heading": "What the text said",
+          "paragraphs": [
+            "The draft did not name fossil fuels. Instead it recalled the UAE Consensus from COP28 in full, an indirect reference to that summit’s call to transition away from them, AFP reported. It set a target for electricity to make up 35 per cent of final energy use by 2035 without requiring that the power be renewable, and called for faster development of carbon capture and removal.",
+            "It would also have been the first COP decision to recognise that warming is on track to overshoot 1.5 degrees. A draft circulated on Thursday had dropped a 120 billion dollar target for adaptation finance, angering small island states that wanted a specific figure."
+          ]
+        },
+        {
+          "heading": "Who objected, and why",
+          "paragraphs": [
+            "Ireland’s climate minister, Darragh O’Brien, speaking for the EU, whose rotating presidency Ireland holds, said a climate pact with no mention of fossil fuels was unconscionable. Germany’s Carsten Schneider said he would reject the text as written, and Panama, the Marshall Islands and Pakistan also criticised it. Belgium’s minister called it unacceptable but said it was not the end of multilateralism.",
+            "Saudi Arabia defended the emphasis on carbon capture, arguing that all solutions should be on the table. Climate Home News had reported earlier that the Arab Group and Russia resisted language on fossil fuels and electrification."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Antalya, Türkiye",
+        "bounds": [
+          20,
+          33,
+          46,
+          44
+        ],
+        "countries": [
+          "792"
+        ],
+        "labels": [
+          {
+            "label": "Mediterranean Sea",
+            "lon": 26.5,
+            "lat": 34.3,
+            "kind": "water"
+          },
+          {
+            "label": "Black Sea",
+            "lon": 35,
+            "lat": 43.2,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the eastern Mediterranean with Türkiye highlighted and a marker at Antalya, on its southern coast, where the COP31 talks were held.",
+        "caption": "Türkiye highlighted · marker shows Antalya, the summit venue"
+      },
+      "locations": [
+        {
+          "label": "Antalya",
+          "lon": 30.71,
+          "lat": 36.9
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al-Monitor (Reuters)",
+          "title": "COP31 climate talks break down as EU, others reject deal",
+          "url": "https://www.al-monitor.com/originals/2026/11/cop31-climate-talks-break-down-eu-others-reject-deal",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Inquisitr (AFP)",
+          "title": "EU rejects 4th COP31 draft over lack of fossil fuel reference",
+          "url": "https://www.inquisitr.com/eu-rejects-cop31-draft-fossil-fuels/",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "dpa (via Yahoo News)",
+          "title": "EU rejects draft of COP31 text over missing reference to fossil fuels",
+          "url": "https://www.yahoo.com/news/science/articles/eu-rejects-draft-cop31-text-113326838.html",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Internazionale (Reuters)",
+          "title": "COP31 climate deal in the balance after fractious talks",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/22/cop31-climate-deal-in-the-balance-after-fractious-talks",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Independent (via Yahoo News)",
+          "title": "Cop31 heading for overtime thanks to bitter dispute over fossil fuels",
+          "url": "https://www.yahoo.com/news/science/articles/cop31-heading-towards-overtime-thanks-125933463.html",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Climate Home News",
+          "title": "COP31 Bulletin Day 12: 'Don't ignore us,' Panama warns as COP31 runs into overtime",
+          "url": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
+          "url": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "cop31-climate-summit",
+      "threadTitle": "The COP31 climate summit",
+      "threadSummary": "The 2026 United Nations climate conference in Antalya, Türkiye, and the negotiations over fossil fuels and climate finance."
+    },
+    {
+      "id": "russian-ship-drones-gulf-of-finland",
+      "section": "world",
+      "title": "Drones set a sanctioned Russian military cargo ship on fire in the Gulf of Finland, and it drifts into Finnish waters",
+      "category": "European security",
+      "region": "Europe · Finland and Russia",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-21",
+      "body": "Two attack drones struck the Sparta II, a Russian cargo ship linked to Moscow’s defence ministry, on Saturday morning in international waters near Gogland island, about three nautical miles from Russia’s border. The burning ship, sailing from St Petersburg to the Kaliningrad exclave, lost the ability to steer and drifted into Finnish territorial waters. Finland restricted flights and shipping in the eastern gulf, and Prime Minister Petteri Orpo said the war was spreading to neighbouring areas. Nobody has claimed the attack.",
+      "whatChanged": "The long-range drone war has reached the Baltic: a Russian military supply ship was hit beside NATO waters, a day after Russian weapons came down in Poland.",
+      "whyMatters": "The Gulf of Finland carries Russia’s sea link to Kaliningrad and is bordered by NATO members. An attack there brings the fighting to the edge of allied waters, and Finland’s leaders say it shows the war spilling over.",
+      "uncertainty": "Ukraine has not said it carried out the strike, though Ukrainian drones are suspected. Accounts of the crew differ: one report said Russia evacuated the ship, while the Leningrad regional governor said evacuation was unnecessary and the voyage would resume.",
+      "watchNext": "Whether Ukraine acknowledges the strike, how Russia responds, and how long Finland keeps its restrictions in the eastern gulf.",
+      "keyFacts": [
+        "The Sparta II was hit by two drones at about 8:40 to 8:50 local time on Saturday, November 21",
+        "Its operator, Oboronlogistika, is linked to Russia’s defence ministry; the US sanctioned the ship in 2022 and Ukraine in May 2026",
+        "It was struck about three nautical miles from Russia’s border near Gogland island, then drifted into Finnish waters",
+        "The Leningrad region’s governor said 80 drones were shot down over the region",
+        "Finland also reported a suspected airspace violation by a Russian helicopter"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "The roll-on, roll-off ship was on its way from St Petersburg to Baltiysk in Kaliningrad when two one-way attack drones hit it on Saturday morning, according to MILMAG and The Telegraph. It caught fire near Gogland, an island in the eastern Gulf of Finland, and lost manoeuvrability, drifting into Finland’s territorial waters.",
+            "Finland’s defence ministry said a drone strike had set the ship ablaze, and Defence Minister Antti Häkkänen backed the account of two drones. Finland reimposed temporary restrictions on aviation and shipping in the eastern gulf, and its Border Guard prepared for a rescue while saying other vessels were not at risk."
+          ]
+        },
+        {
+          "heading": "The ship",
+          "paragraphs": [
+            "Sparta II is operated by Oboronlogistika, a company tied to the Russian defence ministry, and has reportedly carried military cargo, including air defence systems, to Kaliningrad. The United States sanctioned it in May 2022 and Ukraine added it to its own sanctions list on May 23, 2026."
+          ]
+        },
+        {
+          "heading": "The reaction",
+          "paragraphs": [
+            "Orpo said the war was spreading to nearby areas and that Ukraine had the right to fight its attacker. Sweden’s prime minister, Ulf Kristersson, offered Finland help. In Russia, the Leningrad governor, Alexander Drozdenko, said 80 drones had been shot down over the region, and Kaliningrad’s governor said supplies to the enclave were not in danger. Finland separately reported a suspected airspace violation by a Russian helicopter.",
+            "The strike came a day after Russian missiles and a drone fell in southeast Poland, which is covered separately in this edition."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "The Gulf of Finland",
+        "bounds": [
+          19,
+          57.5,
+          33,
+          62.5
+        ],
+        "countries": [
+          "246",
+          "233",
+          "643"
+        ],
+        "labels": [
+          {
+            "label": "Gulf of Finland",
+            "lon": 24.8,
+            "lat": 59.75,
+            "kind": "water"
+          },
+          {
+            "label": "Baltic Sea",
+            "lon": 20.5,
+            "lat": 58.3,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the eastern Baltic with Finland, Estonia and Russia highlighted, and markers at Gogland island, near where the ship was hit, and St Petersburg, where its voyage began.",
+        "caption": "Finland, Estonia and Russia highlighted · approximate location of the strike near Gogland"
+      },
+      "locations": [
+        {
+          "label": "Gogland island",
+          "mapLabel": "Gogland",
+          "lon": 26.98,
+          "lat": 60.05
+        },
+        {
+          "label": "St Petersburg",
+          "lon": 30.32,
+          "lat": 59.94
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "The Telegraph (via Yahoo News)",
+          "title": "Russian cargo ship hit by drones near Finland",
+          "url": "https://www.yahoo.com/news/world/articles/russian-cargo-ship-hit-drones-160153610.html",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "MILMAG",
+          "title": "Russian cargo ship Sparta II struck by drones in the Gulf of Finland",
+          "url": "https://milmag.pl/en/russian-cargo-ship-sparta-ii-struck-by-drones-in-the-gulf-of-finland/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+    },
+    {
+      "id": "russian-missiles-land-in-poland",
+      "section": "world",
+      "title": "NATO’s Mark Rutte pledges in Warsaw to defend every inch of Poland and orders a review of allied defences after the missile incursion",
+      "category": "European security",
+      "region": "Europe · Poland",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-20 / 2026-11-21",
+      "body": "NATO’s secretary general, Mark Rutte, met Prime Minister Donald Tusk and President Karol Nawrocki in Warsaw on Saturday, after Russian missiles and a drone came down in southeast Poland early on Friday. He called it a dangerous incident, said the alliance would defend every inch of Polish territory, and asked NATO’s top commander to review its defences for weaknesses. NATO ambassadors meet on Monday in a session devoted to the breach. President Trump suggested the strike was accidental, drawing a sharp reply from Tusk.",
+      "whatChanged": "NATO has moved from condemnation to action: a review of allied defences by its supreme commander, and a dedicated meeting of the North Atlantic Council on Monday, November 23.",
+      "whyMatters": "The alliance’s response will show whether Moscow can probe allied territory without cost, and Washington and Warsaw are describing the same incident in very different terms.",
+      "uncertainty": "Russia had not responded to Rutte’s visit in the reports we read. It is not confirmed that Poland has formally invoked Article 4, and no date has been reported for a UN Security Council meeting.",
+      "watchNext": "Monday’s North Atlantic Council session in Brussels, the outcome of the defence review, and Poland’s investigation of the three crash sites.",
+      "keyFacts": [
+        "Rutte met Tusk and Nawrocki in Warsaw on Saturday, November 21",
+        "The North Atlantic Council meets in Brussels on Monday, November 23, in a session on the breach",
+        "Polish radars tracked 11 possible threats; three objects crashed at three sites, with no casualties",
+        "A Swedish Gripen pilot was cleared to shoot down a suspected cruise missile but held fire because bad weather prevented visual confirmation",
+        "Trump said Putin had launched the weapons accidentally; Tusk replied, God protect us from friends like that"
+      ],
+      "report": [
+        {
+          "heading": "Rutte in Warsaw",
+          "paragraphs": [
+            "Rutte told Polish leaders that NATO would defend every inch of Poland and said he could not rule out the incident happening again, according to the Kyiv Post and LIGA.net. TVP World reported that he also called it unacceptable. He instructed the Supreme Allied Commander Europe, General Alexus Grynkewich, to look for vulnerabilities in the alliance’s defences and change them where needed.",
+            "The North Atlantic Council will hold a session on the incursion in Brussels on Monday. Poland will be represented by Deputy Defence Minister Paweł Zalewski, and Defence Minister Władysław Kosiniak-Kamysz said he expected strong support."
+          ]
+        },
+        {
+          "heading": "What Poland found",
+          "paragraphs": [
+            "Polish radars tracked 11 potential threats during the overnight Russian attack on Ukraine. Three objects crashed: a Kh-101 cruise missile at Nowy Lipowiec, a suspected cruise missile at Rudnik nad Sanem in the Podkarpackie region, and a jet-powered drone at Młodochów in the Lublin region. All three sites lie near the Nowa Dęba training grounds, where troops from 11 countries are taking part in the Koalicja exercise. A Swedish Gripen pilot had permission to shoot down the suspected Kh-101 but did not fire because poor weather prevented visual confirmation."
+          ]
+        },
+        {
+          "heading": "Washington’s take",
+          "paragraphs": [
+            "In an interview with Fox on Friday, Trump said Putin had accidentally launched drones and a few small missiles into Poland. Tusk responded on X: God, protect us from friends like that. CBS News reported that France’s request for a UN Security Council meeting followed Russian strikes that hit the Austrian embassy and landed near the Dutch embassy in Kyiv."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Poland and Ukraine",
+        "bounds": [
+          12,
+          42,
+          41,
+          56
+        ],
+        "countries": [
+          "616",
+          "804"
+        ],
+        "labels": [
+          {
+            "label": "Baltic Sea",
+            "lon": 18.5,
+            "lat": 55.3,
+            "kind": "water"
+          },
+          {
+            "label": "Black Sea",
+            "lon": 34,
+            "lat": 43.3,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of central and eastern Europe with Poland and Ukraine highlighted and a marker at Warsaw, where Rutte met Polish leaders. The crash sites were in southeast Poland and are not marked.",
+        "caption": "Poland and Ukraine highlighted for context · marker shows Warsaw"
+      },
+      "locations": [
+        {
+          "label": "Warsaw",
+          "lon": 21.01,
+          "lat": 52.23
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Kyiv Post",
+          "title": "NATO Will Defend 'Every Inch' of Poland, Rutte Says Ahead of Monday Council Talks",
+          "url": "https://www.kyivpost.com/post/90841",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "LIGA.net",
+          "title": "Drones and Rockets in Poland: How NATO Secretary General Mark Rutte Responded",
+          "url": "https://news.liga.net/en/world/news/nato-will-defend-every-centimeter-of-poland-rutte",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "LIGA.net",
+          "title": "Russia's Attack on Poland on November 20: What U.S. President Trump Has to Say",
+          "url": "https://news.liga.net/en/war/news/trump-on-the-violation-of-polish-airspace-putin-accidentally-launched-a-few-small-missiles",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "TVP World",
+          "title": "NATO stands with Poland, says Rutte after Russia violates its airspace",
+          "url": "https://tvpworld.com/96607446/all-of-nato-stands-with-poland-secretary-general-mark-rutte-says-in-warsaw",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Poland accuses Russia of 'intentional provocation' as missiles hit NATO soil, kill at least 8 in Ukraine",
+          "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+    },
+    {
+      "id": "iran-kharg-tanker-convoy-blockade",
+      "section": "world",
+      "title": "A reported Iranian tanker breakout turns out to be a faked signal, as attacks at sea continue and Qatar carries messages to Tehran",
+      "category": "Iran war",
+      "region": "Middle East · Iran and the Gulf",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-20 / 2026-11-22",
+      "body": "Early on Sunday, ship-tracking data showed a vessel calling itself Khat-Shekan, or line-breaker, apparently heading out of the Gulf through the American blockade. The monitoring group TankerTrackers said the tanker did not exist and the signal had been faked; satellite images showed nothing there. More than 14 tankers remain gathered at Kharg Island. On Saturday two tankers were reported attacked in the Strait of Hormuz, Iran said it shot down American drones, and Iran said a Qatari delegation had held talks in Tehran.",
+      "whatChanged": "No Iranian convoy has actually sailed: the apparent breakout was a spoofed signal. Meanwhile Qatar has opened talks with Tehran that Iran says are not yet formal negotiations.",
+      "whyMatters": "The blockade standoff, in its 130th day according to the US military, keeps shipping in Hormuz at risk and oil prices high, and both sides say a deal is still some way off.",
+      "uncertainty": "Iran’s claims to have downed American drones and hit an F-16 are unverified, and US Central Command denied that any jet was attacked. Iranian officials have not confirmed plans for a convoy.",
+      "watchNext": "Movements at Kharg Island, further Qatari mediation, and whether President Trump waits until the new year for a deal, as he has suggested he might.",
+      "keyFacts": [
+        "The US military said Saturday, November 21, was day 130 of its blockade",
+        "TankerTrackers said the Khat-Shekan signal was spoofed, using the call sign of a Liberian-flagged ship",
+        "More than 14 tankers remain near Kharg Island, according to tracking and satellite data",
+        "Britain’s maritime security agency, UKMTO, reported two tankers attacked in the Strait of Hormuz on November 21",
+        "Brent crude rose to 92.57 dollars a barrel on Friday, November 20, according to the Associated Press"
+      ],
+      "report": [
+        {
+          "heading": "The phantom tanker",
+          "paragraphs": [
+            "The vessel appeared on MarineTraffic early on Sunday, moving through the Gulf toward the Gulf of Oman. TankerTrackers said the ship did not exist, satellite imagery showed nothing at its reported position, and its call sign matched the Liberian-flagged Stolt Bobcat, according to Euronews and The Week. Tracking and satellite data still show more than 14 tankers gathered around Kharg Island, Iran’s main oil terminal, but Iranian officials have not confirmed that a convoy will try to run the blockade."
+          ]
+        },
+        {
+          "heading": "Incidents at sea and in the air",
+          "paragraphs": [
+            "UKMTO reported two tankers attacked in the Strait of Hormuz on Saturday, and Iran’s navy said one tanker caught fire after hitting a mine, according to CBS News and The Times of Israel. The Revolutionary Guards said they shot down an American MQ-9 drone over Hormuz with a new air defence system and later an MQ-1 over Qeshm island; the US had no immediate comment, Al Jazeera reported. Iran’s army also claimed to have hit a US F-16 over the Gulf, which Central Command denied."
+          ]
+        },
+        {
+          "heading": "The diplomacy",
+          "paragraphs": [
+            "Iran’s deputy foreign minister, Kazem Gharibabadi, said a Qatari delegation held two hours of talks in Tehran on Friday night, but called them not yet formal negotiations and described the blockade as an act of war. Foreign Minister Abbas Araghchi said Iran’s seven conditions, including an end to the war and the lifting of sanctions and the blockade, must be met before Hormuz reopens, and ruled out sending its 60 per cent enriched uranium abroad.",
+            "Trump said he wanted a real deal, not a fake one, and that he was not rushing. On Friday the US Treasury sanctioned four people it described as Iranian oil trustees, and the Senate rejected a war powers resolution by 48 votes to 51."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Kharg Island and the Gulf",
+        "bounds": [
+          46,
+          22,
+          62,
+          33
+        ],
+        "countries": [
+          "364"
+        ],
+        "labels": [
+          {
+            "label": "Persian Gulf",
+            "lon": 51.5,
+            "lat": 27,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Oman",
+            "lon": 59,
+            "lat": 24,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Iran and the Gulf with Iran highlighted and a marker at Kharg Island, the oil terminal where the tankers have gathered.",
+        "caption": "Iran highlighted for context · marker shows Kharg Island"
+      },
+      "locations": [
+        {
+          "label": "Kharg Island oil terminal",
+          "mapLabel": "Kharg Island",
+          "lon": 50.32,
+          "lat": 29.25
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Euronews",
+          "title": "Tracking site says Iranian tanker reportedly sailing through Strait of Hormuz does not exist",
+          "url": "https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Week",
+          "title": "The mystery of 'Khat Shekan': alleged Iranian oil tanker challenging US blockade does not exist",
+          "url": "https://www.theweek.in/news/middle-east/2026/11/22/the-mystery-of-khat-shekan-alleged-iranian-oil-tanker-challenging-us-blockade-does-not-exist.html",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+          "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+          "url": "https://aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Iran war live updates",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting (live updates)"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Liveblog, November 21, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-21-2026/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting (live blog)"
+        },
+        {
+          "publisher": "Associated Press (via WCAX)",
+          "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+          "url": "https://www.wcax.com/2026/11/20/us-stocks-tumble-sp-500-drops-sell-off-ai-stocks-accelerates/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war between the United States, Israel and Iran, and its effects on shipping and security in the Gulf."
+    },
+    {
+      "id": "mexico-captures-chapo-isidro",
+      "section": "world",
+      "title": "Mexican troops capture Fausto Isidro Meza Flores, a cartel leader on the FBI’s most wanted list, in a gun battle that leaves 11 dead",
+      "category": "Organised crime",
+      "region": "Latin America · Mexico",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-20 / 2026-11-21",
+      "body": "Mexican troops captured Fausto Isidro Meza Flores, known as El Chapo Isidro, in Guasave in the northern state of Sinaloa, after a firefight that began on Friday evening and lasted into Saturday. Mexico’s defence ministry said 11 people were killed: seven alleged gunmen and four soldiers. Helicopters fired on positions around the city, and residents reported roadblocks and burning trucks. He was flown to Mexico City with two alleged associates. The United States had offered a five million dollar reward for him.",
+      "whatChanged": "One of the most wanted cartel figures in North America is now in Mexican custody, after an operation that US officials publicly praised.",
+      "whyMatters": "The US ambassador credited sustained cooperation between the two governments for the arrest, and the battle around it showed how much firepower Sinaloa’s armed groups still have.",
+      "uncertainty": "The casualty figures come from the Mexican government. The reports we read do not say whether the United States will seek his extradition.",
+      "watchNext": "Whether US prosecutors request his extradition, and whether violence flares in Sinaloa in the days after the arrest.",
+      "keyFacts": [
+        "Meza Flores was captured in Guasave, Sinaloa; forces could not extract him until about 4 am on Saturday, November 21",
+        "Eleven people died, seven alleged gunmen and four soldiers, according to Mexico’s defence ministry",
+        "He is on the FBI’s Ten Most Wanted list, with a US reward of 5 million dollars",
+        "His alleged second in command and an alleged financial operator were also handed to prosecutors in Mexico City"
+      ],
+      "report": [
+        {
+          "heading": "The operation",
+          "paragraphs": [
+            "Residents told Al Jazeera the fighting began at about 7 pm on Friday, local time. Helicopters fired on locations across Guasave while gunmen set up roadblocks and set trucks alight. A federal official said troops were unable to get Meza Flores out of the city until about 4 am on Saturday.",
+            "Mexico’s defence ministry said seven alleged cartel gunmen and four soldiers were killed. Meza Flores was flown to Mexico City and handed to federal prosecutors together with two other men: one identified as his alleged second in command, known as Serafín, and another described as a financial operator."
+          ]
+        },
+        {
+          "heading": "Who he is",
+          "paragraphs": [
+            "Meza Flores was once a leader in the Beltrán Leyva cartel before founding his own organisation, and he later allied with the Los Mayos faction of the Sinaloa Cartel, according to Al Jazeera. He is on the FBI’s list of its ten most wanted fugitives, and the United States had offered a reward of five million dollars for him."
+          ]
+        },
+        {
+          "heading": "The reaction",
+          "paragraphs": [
+            "The US Drug Enforcement Administration and the US ambassador to Mexico, Ronald Johnson, commended the Mexican forces. Johnson wrote that results like this are built on sustained cooperation and trust rather than achieved overnight. ABC News in Australia also reported the capture of the man on the FBI’s most wanted list."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Sinaloa, Mexico",
+        "bounds": [
+          -118,
+          14,
+          -86,
+          33
+        ],
+        "countries": [
+          "484"
+        ],
+        "labels": [
+          {
+            "label": "Gulf of California",
+            "lon": -111.5,
+            "lat": 28.8,
+            "kind": "water"
+          },
+          {
+            "label": "Pacific Ocean",
+            "lon": -110,
+            "lat": 17.5,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Mexico, highlighted, with markers at Guasave in Sinaloa, where Meza Flores was captured, and Mexico City, where he was flown.",
+        "caption": "Mexico highlighted · markers show Guasave and Mexico City"
+      },
+      "locations": [
+        {
+          "label": "Guasave, Sinaloa",
+          "mapLabel": "Guasave",
+          "lon": -108.47,
+          "lat": 25.57
+        },
+        {
+          "label": "Mexico City",
+          "lon": -99.13,
+          "lat": 19.43
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Eleven killed in burst of violence during Mexican cartel leader's capture",
+          "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "Mexico's military captures drug kingpin on FBI's most wanted list",
+          "url": "https://www.abc.net.au/news/2026-11-22/drug-lord-chapo-isidro-captured-by-mexican-military/107413284",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "mexico-cartel-violence",
+      "threadTitle": "Mexico’s fight against the cartels",
+      "threadSummary": "Mexico’s security operations against drug cartels and the violence that surrounds them."
+    },
+    {
+      "id": "russian-drone-collapses-dymer-building",
+      "section": "more",
+      "title": "A Russian drone partly brings down an apartment block near Kyiv, leaving 14 people unaccounted for",
+      "category": "War in Ukraine",
+      "region": "Europe · Ukraine",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-20 / 2026-11-22",
+      "whatChanged": "Russian strikes on Ukrainian towns continued through the weekend, after a double-tap attack on Kryvyi Rih killed a child and a paramedic.",
+      "body": "A drone partly collapsed a five-storey building in Dymer, north of Kyiv, on Sunday morning, and President Zelensky said 14 people were unaccounted for. On Friday night two ballistic missiles hit central Kryvyi Rih and drones struck as rescuers arrived, killing a seven-year-old boy and a 20-year-old paramedic and injuring more than 50 people. Ukraine’s grid operator said strikes on Odesa’s main power lines left it physically unable to supply the electricity the city needs.",
+      "sources": [
+        {
+          "publisher": "Reuters (via Yahoo News)",
+          "title": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says",
+          "url": "https://ca.news.yahoo.com/least-14-people-missing-russian-085938398.html",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "'Despicable': Russian double-tap attack in Kryvyi Rih kills 7-year-old and paramedic, injures 52",
+          "url": "https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Associated Press (via Local 12)",
+          "title": "Russian strikes kill child, paramedic in Zelenskyy's hometown; rescuers targeted",
+          "url": "https://local12.com/news/nation-world/russian-strikes-kill-child-paramedic-zelenskyys-hometown-rescuers-targeted",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Euromaidan Press",
+          "title": "Russian strikes leave Odesa's grid unable to deliver the power it needs as a jet drone crosses into Moldova twice",
+          "url": "https://euromaidanpress.com/2026/11/22/russian-strikes-leave-odesas-grid-unable-to-deliver-the-power-it-needs-as-a-jet-drone-crosses-into-moldova-twice/",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+    },
+    {
+      "id": "icj-myanmar-rohingya-genocide-ruling",
+      "section": "more",
+      "title": "The UN’s top court rules that Myanmar committed genocide against the Rohingya",
+      "category": "International justice",
+      "region": "Asia · Myanmar",
+      "regions": [
+        "asia"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-19 / 2026-11-20",
+      "whatChanged": "For the first time in its 80-year history, the International Court of Justice has found that a state committed genocide.",
+      "body": "Nine of the 15 judges ruled on Thursday that Myanmar’s military carried out genocide in its 2017 campaign against the Rohingya, including mass killings, widespread rape and the burning of hundreds of villages. The court ordered Myanmar to pay compensation, to be set later, and to allow the Rohingya a safe and dignified return. Myanmar called the ruling unfair, and China said such rulings do not help settle disputes.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
+          "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "rohingya-justice",
+      "threadTitle": "Justice for the Rohingya",
+      "threadSummary": "Legal efforts to hold Myanmar to account for its 2017 military campaign against the Rohingya."
+    },
+    {
+      "id": "likud-conditions-unity-government",
+      "section": "more",
+      "title": "Likud sets its conditions for a unity government with Eisenkot, including a break with the Arab parties",
+      "category": "Israeli politics",
+      "region": "Middle East · Israel",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-21 / 2026-11-22",
+      "whatChanged": "Netanyahu’s party has put its terms in writing as coalition talks with Eisenkot’s bloc resume.",
+      "body": "Likud’s list, published on Saturday night, demands an end to political boycotts of Netanyahu, a formal break with the Arab parties Ra’am and the Joint List, opposition to a Palestinian state and continued Israeli security zones in Gaza, Lebanon and Syria. It does not say Netanyahu must remain prime minister. Eisenkot insists on leading any government without a rotation, and the two sides were due to meet again on Sunday in Herzliya.",
+      "sources": [
+        {
+          "publisher": "The Times of Israel",
+          "title": "In conditions for unity coalition, Likud demands end to political boycotts of Netanyahu, formal renunciation of terror-supporting parties",
+          "url": "https://www.timesofisrael.com/liveblog_entry/in-conditions-for-unity-coalition-likud-demands-end-to-political-boycotts-of-netanyahu-formal-renunciation-of-terror-supporting-parties/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Eisenkot's Yashar and Netanyahu's Likud set to resume unity talks; PM reportedly met Ben Gvir, Smotrich ahead of discussions",
+          "url": "https://www.timesofisrael.com/liveblog_entry/eisenkots-yashar-and-netanyahus-likud-set-to-resume-unity-talks-pm-reportedly-met-ben-gvir-smotrich-ahead-of-discussions",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "israel-election-2026",
+      "threadTitle": "Israel's 2026 election",
+      "threadSummary": "Israel’s 2026 general election and the struggle to form the next government."
+    },
+    {
+      "id": "trump-contractors-congress-order",
+      "section": "more",
+      "title": "Trump orders federal contractors to check with the White House before answering Congress",
+      "category": "US politics",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-20 / 2026-11-21",
+      "whatChanged": "Companies that work for the government now risk losing their contracts if they answer congressional inquiries without coordinating with the administration.",
+      "body": "The order, signed late on Friday, tells contractors and subcontractors to consult the administration about requests from Congress and to withhold material the White House considers privileged. The White House called it protection against congressional overreach. Democrats, who take control of Congress in January, have named federal contracts, including money going to companies linked to Trump’s family, as a main target for investigation.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "white-house-and-congress",
+      "threadTitle": "The White House and Congress",
+      "threadSummary": "Clashes between the Trump administration and Congress over oversight, as Democrats prepare to take control in January 2027."
+    },
+    {
+      "id": "sp500-correction-ai-selloff",
+      "section": "more",
+      "title": "The S&P 500 falls into a correction as the sell-off in AI stocks deepens",
+      "category": "Markets",
+      "region": "North America · United States",
+      "regions": [
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-20",
+      "whatChanged": "Wall Street’s main index is now more than 10 per cent below its October record, and the Nasdaq has wiped out its gains for the year.",
+      "body": "On Friday the S&P 500 fell 3.7 per cent and the Nasdaq composite 5.3 per cent, according to the Associated Press, extending the S&P’s losing streak to seven days. Nvidia dropped about 14 per cent, ending its worst week since 2008, and Anthropic’s shares fell 9 per cent on their second day of trading. President Trump also threatened tremendous penalties on American companies that build data centres abroad.",
+      "sources": [
+        {
+          "publisher": "Associated Press (via WCAX)",
+          "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+          "url": "https://www.wcax.com/2026/11/20/us-stocks-tumble-sp-500-drops-sell-off-ai-stocks-accelerates/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Motley Fool",
+          "title": "After its worst week in 18 years, Nvidia now faces an SEC investigation: what it means for investors",
+          "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting and analysis"
+        },
+        {
+          "publisher": "NBC News (via Yahoo News)",
+          "title": "Trump threatens 'tremendous penalties' on companies that build AI data centers overseas",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tremendous-penalties-companies-183730495.html",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "us-economy",
+      "threadTitle": "The US economy",
+      "threadSummary": "Inflation, interest rates, jobs and growth in the United States."
+    },
+    {
+      "id": "somalia-uae-gcc-backs-abu-dhabi",
+      "section": "more",
+      "title": "Gulf states side with the UAE as Somalia’s expulsion deadline passes",
+      "category": "Horn of Africa",
+      "region": "Africa · Somalia",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-19 / 2026-11-21",
+      "whatChanged": "The dispute has widened: the Gulf Cooperation Council has backed Abu Dhabi, and Somalia has spelled out its accusations.",
+      "body": "The council’s secretary general called Somalia’s accusations against the UAE irresponsible. Somalia’s national security adviser accused the UAE of making port deals at Berbera, Bosaso and Kismayo without the federal government, running military bases outside national command and exporting minerals illegally. The UAE called the expulsion hostile, and it is unclear whether its ambassador was even in the country, since it closed its Mogadishu embassy in January.",
+      "sources": [
+        {
+          "publisher": "Daily News Egypt (Africa)",
+          "title": "Somalia UAE rift: 72-hour deadline ends as GCC backs UAE",
+          "url": "https://africa.dailynewsegypt.com/somalia-uae-rift",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Arab News",
+          "title": "UAE denounces Somalia's 'irresponsible' decision to expel ambassador",
+          "url": "https://www.arabnews.com/middle-east/uae-denounces-somalias-irresponsible-decision-to-expel-ambassador-3013006",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "somalia-uae-dispute",
+      "threadTitle": "Somalia and the UAE",
+      "threadSummary": "Somalia’s federal government accuses the United Arab Emirates of dealing directly with its regions and backing armed groups."
+    },
+    {
+      "id": "riemann-hypothesis-claude-lean-proof",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "An Anthropic mathematician says he and Claude have proved the Riemann Hypothesis, and a 17-million-line formal proof passes its first checks",
+      "category": "AI and mathematics",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-20 / 2026-11-21",
+      "body": "Levent Alpöge, a mathematician at Anthropic, posted a short paper on Friday saying that, working with Claude, he believes he has found a proof of the Riemann Hypothesis, a 167-year-old problem about how prime numbers are distributed. The proof exists only as about 17 million lines of code in Lean, a language that lets computers check every logical step. Researchers at MIT and Carnegie Mellon compiled it without errors, and the Lean community reportedly endorsed it on Saturday. There is no human-readable version yet.",
+      "whatChanged": "A claimed proof of one of mathematics’ most famous open problems, produced with an AI system, has passed independent machine checks within a day of its release.",
+      "whyMatters": "The Riemann Hypothesis underpins much of number theory, so a confirmed proof would be a landmark for mathematics and for AI. It would also mean machines producing results that people cannot yet follow.",
+      "hook": "If it holds, it would be the biggest mathematical result yet produced with AI, but no one can read the proof yet and a passing machine check is not the same as acceptance by mathematicians.",
+      "uncertainty": "Mathematicians have not accepted the result. A machine check confirms the code proves the statement as written in Lean, not that anyone understands why it is true, and some checks were still running on Saturday. Alpöge works for Anthropic, which makes Claude, the AI used to produce The Signal; the account of Claude’s role is his own.",
+      "watchNext": "The remaining independent checks of the code, any human-readable account of the argument, and the verdict of leading number theorists.",
+      "keyFacts": [
+        "Alpöge posted his paper on Friday, November 20, and says he reached the result on Monday, November 16",
+        "The formal proof is about 17 million lines of Lean code in 175,187 files",
+        "Andrew Sutherland of MIT and Simon DeDeo of Carnegie Mellon compiled it independently on November 20",
+        "Sutherland reported all 175,187 modules compiled with zero errors and relied only on standard axioms",
+        "Attempts to have Claude write the proof out in prose ran past 250,000 pages"
+      ],
+      "report": [
+        {
+          "heading": "The claim",
+          "paragraphs": [
+            "Alpöge’s four-page paper, posted to his website on Friday morning, says he believes that, working with Claude, he has discovered a proof of the Riemann Hypothesis, Quanta Magazine reported. He says he reached the result on Monday and waited several days before sharing it. The argument is not written out for human readers: according to Quanta, attempts to have Claude produce a prose version ran beyond 250,000 pages. The release is instead a Lean archive of about 17 million lines in 175,187 files, which Unite.AI and CASRAI report also covers the generalised hypothesis for Dirichlet L-functions, though not broader families of L-functions."
+          ]
+        },
+        {
+          "heading": "The checks",
+          "paragraphs": [
+            "Andrew Sutherland of MIT compiled the code shortly before noon on Friday, and Simon DeDeo of Carnegie Mellon did so a few hours later, Quanta reported. Sutherland’s published record, updated on Saturday, says every module compiled with zero errors, the main theorems depend only on Lean’s standard axioms, and two independent proof checkers accepted the exported proof. He noted that his build ran on cloud machines that were not sandboxed, and that further checks were still in progress.",
+            "Unite.AI reported on Saturday that the Lean and Mathlib communities issued a joint statement saying the library correctly states and proves the Riemann Hypothesis. Anthropic had made no official announcement, according to Quanta."
+          ]
+        },
+        {
+          "heading": "The reaction",
+          "paragraphs": [
+            "DeDeo told Quanta he would be very surprised if the code hid any tricks, and the mathematician Filippo Nuccio called it gorgeous. Others were more cautious. Maksym Radziwiłł of New York University said Alpöge’s write-up contained nonsensical statements and that a formal proof does not explain why the result is true; many number theorists are withholding judgment. Quanta also noted a separate 940-page, entirely human-written manuscript claiming the generalised hypothesis, which has not been verified."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-22/riemann-hypothesis-claude-lean-proof.svg",
+        "alt": "Illustration of a towering stack of pages of computer code with a check mark beside it, for a machine-checked proof that runs to millions of lines.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Quanta Magazine",
+          "title": "Transformation: updates on the claimed proof of the Riemann Hypothesis",
+          "url": "https://www.quantamagazine.org/update/168049/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Unite.AI",
+          "title": "Lean and Mathlib Communities Certify Claude-Assisted Riemann Proof",
+          "url": "https://www.unite.ai/lean-and-mathlib-communities-certify-claude-assisted-riemann-proof/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "CASRAI",
+          "title": "Anthropic Mathematician Releases 175,000-File Lean Archive Claiming Riemann Hypothesis Proof",
+          "url": "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Interesting Engineering",
+          "title": "Anthropic mathematician claims Claude helped prove 167-year-old Riemann Hypothesis",
+          "url": "https://interestingengineering.com/ai-robotics/anthropic-167-year-old-riemann-hypothesis-claude",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ai-and-research",
+      "threadTitle": "AI & scientific research",
+      "threadSummary": "How AI systems are being used to make and check discoveries in mathematics and science."
+    },
+    {
+      "id": "trump-xi-human-control-military-ai",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Trump and Xi agreed that humans must stay in charge of military decisions that use AI, Bessent says",
+      "category": "AI and security",
+      "region": "Global · United States and China",
+      "regions": [],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-20",
+      "body": "Treasury Secretary Scott Bessent told CNBC on Friday that President Trump and China’s Xi Jinping agreed at their Shenzhen meeting that humans should always be involved in military decisions that use artificial intelligence. He said superintelligence should not be allowed to act autonomously in major military actions, and called the understanding a major achievement of the Asia trip. Bessent said it would hold despite the race between the two countries, and that China was probably many years behind in AI.",
+      "whatChanged": "Washington says the two leading AI powers have reached a stated understanding to keep humans in control of military AI.",
+      "whyMatters": "The United States and China lead the development of advanced AI, so a shared limit on its use in war would carry more weight than pledges by other countries.",
+      "hook": "A shared principle between the two AI superpowers would matter, but for now it rests on one American account with no written text.",
+      "uncertainty": "China has not published a readout confirming the agreement, no text has been released, and nothing has been said about how it would be checked or enforced.",
+      "watchNext": "Any Chinese confirmation, and the next Trump and Xi meeting, expected at the G20 summit in Miami in mid-December.",
+      "keyFacts": [
+        "Bessent described the understanding in a CNBC interview on Friday, November 20",
+        "He said superintelligence should not be allowed to be autonomous for major military actions",
+        "On Monday, November 16, the Commerce Department further restricted Chinese access to advanced chips, including through overseas data centres",
+        "Nvidia’s H200 remains the most advanced chip China can buy under licence, according to Reuters",
+        "A fourth Trump and Xi meeting is expected at the G20 in Miami in mid-December"
+      ],
+      "report": [
+        {
+          "heading": "What Bessent said",
+          "paragraphs": [
+            "Speaking to CNBC on Friday, Bessent said Trump and Xi had agreed that people should always be involved in military decisions that rely on AI, and he presented it as one of the main results of the president’s Asia trip, Reuters reported. In his words, superintelligence should not be allowed to be autonomous for major military actions.",
+            "He said the understanding would not be affected by the two countries’ competition for AI leadership, and argued that American labs must keep their lead as the defence against dangerous Chinese models being used in cyberattacks."
+          ]
+        },
+        {
+          "heading": "Chips and competition",
+          "paragraphs": [
+            "Bessent said Chinese firms had placed few orders for Nvidia’s H200, the most advanced chip they can buy under licence, and that China was probably many years behind. Days earlier, on November 16, the Commerce Department had further limited China’s access to advanced chips, including computing power rented through data centres abroad. According to Reuters, the allegations against Nvidia’s former chief executive, Jensen Huang, were not discussed."
+          ]
+        },
+        {
+          "heading": "Background",
+          "paragraphs": [
+            "The idea has been building for months. In September, Bessent and China’s vice premier, He Lifeng, sketched a channel for alerting each other to AI incidents, and the two sides agreed to take up AI guardrails at the Shenzhen meeting, AI Weekly reported at the time. No Chinese account of Friday’s claim had been published in the reports we read."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-22/trump-xi-human-control-military-ai.svg",
+        "alt": "Illustration of a key in the lock of a control console beneath a military drone, for the idea that a human must decide before AI-driven weapons act.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters (via Investing.com)",
+          "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+          "url": "https://www.investing.com/news/stock-market-news/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-5042288",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "AI Weekly",
+          "title": "Xi tells Trump AI must stay under human control at summit",
+          "url": "https://aiweekly.co/alerts/xi-tells-trump-ai-must-stay-under-human-control-at-summit",
+          "publishedAt": "2026-09-24",
+          "kind": "Reporting (background)"
+        }
+      ],
+      "threadId": "us-china-ai-rivalry",
+      "threadTitle": "The US–China AI rivalry",
+      "threadSummary": "The contest between the United States and China over AI chips, models and supply chains."
+    },
+    {
+      "id": "bepicolombo-enters-mercury-orbit",
+      "section": "frontiers",
+      "field": "Space",
+      "title": "BepiColombo enters orbit around Mercury after a journey of almost eight years",
+      "category": "Planetary exploration",
+      "region": "Space",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-21",
+      "body": "The European and Japanese BepiColombo spacecraft fired its thrusters to slow down and was captured into orbit around Mercury on Saturday, the European Space Agency confirmed. It launched in October 2018 and travelled about 9.9 billion kilometres, using nine flybys of Earth, Venus and Mercury to lose speed. It is only the second spacecraft to orbit the innermost planet, after NASA’s Messenger. Its two orbiters are due to separate in December, with science starting in April 2027.",
+      "whatChanged": "The mission has reached Mercury orbit, almost a year later than planned after a thruster power problem in 2024.",
+      "whyMatters": "BepiColombo carries two orbiters and new instruments, including what the University of Leicester says is the first imaging X-ray telescope on a planetary mission.",
+      "hook": "A milestone after an eight-year trip, though the mission’s scientific work does not begin until next spring.",
+      "uncertainty": "Confirmation of the capture comes from reporting that cites ESA; the agency’s live updates page had not yet been updated when we checked. The separation of the two orbiters and the start of science are scheduled steps that could slip.",
+      "watchNext": "Separation of ESA’s orbiter and Japan’s Mio on December 9 to 10, and arrival in the final science orbit around March 10, 2027.",
+      "keyFacts": [
+        "ESA confirmed orbital capture on Saturday, November 21",
+        "The initial polar orbit is elliptical, about 590 by 11,640 kilometres",
+        "The spacecraft launched in October 2018 and travelled about 9.9 billion kilometres",
+        "It made nine flybys on the way: one of Earth, two of Venus and six of Mercury",
+        "Science operations are due to begin in April 2027"
+      ],
+      "report": [
+        {
+          "heading": "Arrival",
+          "paragraphs": [
+            "Four thrusters on ESA’s Mercury Planetary Orbiter braked the stacked spacecraft into an elliptical polar orbit of about 590 by 11,640 kilometres, AeroTime reported, citing ESA’s confirmation after signals and early telemetry were received. BepiColombo is the second mission to orbit Mercury, after NASA’s Messenger, which did so from 2011 to 2015. The mission is a partnership between ESA and Japan’s space agency, JAXA, whose Mio orbiter is carried in the stack until the two separate."
+          ]
+        },
+        {
+          "heading": "A long way round",
+          "paragraphs": [
+            "Since its launch in October 2018 the spacecraft has flown past Earth once, Venus twice and Mercury six times, using each encounter to shed speed. Arrival was originally planned for December 2025 but slipped by almost a year after a power problem with its thrusters in April 2024 forced a gentler trajectory, Tech Times reported. Capture is the first of about 16 manoeuvres needed to reach the final orbits."
+          ]
+        },
+        {
+          "heading": "What comes next",
+          "paragraphs": [
+            "According to ESA’s schedule, the European orbiter and Japan’s Mio are due to separate on December 9 to 10, a sunshield is to be released on December 16, and the final science orbit should be reached around March 10, 2027, with science starting in April. Instruments have already been tested: the University of Leicester said its MIXS X-ray telescope took its first images, of the Crab Nebula, in September, with resolution slightly sharper than in laboratory tests."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-22/bepicolombo-enters-mercury-orbit.svg",
+        "alt": "Illustration of a small spacecraft on a long, dashed elliptical orbit around a grey, cratered planet near the glow of the Sun, for BepiColombo’s arrival at Mercury.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "AeroTime",
+          "title": "BepiColombo reaches Mercury after eight years in space",
+          "url": "https://www.aerotime.aero/articles/bepicolombo-reaches-mercury-orbit-after-nearly-eight-years-in-space",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "European Space Agency",
+          "title": "Latest updates: BepiColombo's arrival at Mercury",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+          "publishedAt": "2026-10-29",
+          "kind": "Primary (mission schedule)"
+        },
+        {
+          "publisher": "Tech Times",
+          "title": "Mercury orbit Saturday: BepiColombo capture starts 16 manoeuvres, not one final burn",
+          "url": "https://www.techtimes.com/articles/331151/20261119/mercury-orbit-saturday-bepicolombo-capture-starts-16-maneuvers-not-one-final-burn.htm",
+          "publishedAt": "2026-11-19",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "University of Leicester (via ScienceDaily)",
+          "title": "BepiColombo's MIXS X-ray telescope sees first light",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+          "publishedAt": "2026-11-20",
+          "kind": "Institutional press release"
+        }
+      ],
+      "threadId": "mercury-exploration",
+      "threadTitle": "Exploring Mercury",
+      "threadSummary": "The European and Japanese BepiColombo mission to orbit and study Mercury."
+    },
+    {
+      "id": "gaza-winter-aid-restrictions",
+      "section": "still",
+      "title": "Winter rains worsen conditions in Gaza, as an Israeli strike on an aid van kills three and tents are held at the border",
+      "category": "Humanitarian crisis",
+      "region": "Middle East · Gaza",
+      "regions": [
+        "middle-east"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-21",
+      "body": "An Israeli drone struck a van distributing food in Gaza City’s Tal al-Hawa district on Saturday, killing three people; the Israeli military said it targeted militants. The UN migration agency says more than 100,000 tents are waiting in Egypt because Israeli rules bar tent poles thicker than 38 millimetres, as winter weather floods camps. The World Food Programme says families are burning rubbish to cook. Gaza’s health ministry says 1,671 people have been killed since the ceasefire of October 2025.",
+      "whatChanged": "The killing of three people at a food distribution and the blocked tent deliveries show that, a year after the ceasefire, deadly strikes and shortages of shelter continue as winter sets in.",
+      "whyMatters": "Restrictions on what can enter Gaza shape whether families who lost their homes can stay sheltered and fed through the winter.",
+      "uncertainty": "The Israeli military says it targeted militants, which we could not verify independently, and the overall casualty figures come from Gaza’s health ministry.",
+      "watchNext": "Whether Israel eases its restrictions on tent materials, and further UN reports on shelter and food as winter storms arrive.",
+      "keyFacts": [
+        "An Israeli drone strike on a food distribution van in Tal al-Hawa, Gaza City, killed three people on Saturday, November 21",
+        "The International Organization for Migration says more than 100,000 tents in Egypt cannot enter Gaza under Israeli restrictions",
+        "Israeli rules bar tent poles thicker than 38 millimetres, according to the agency",
+        "Gaza’s health ministry says 1,671 people have been killed since the October 2025 ceasefire and 74,736 since the war began"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "The drone hit a van that was handing out food in Tal al-Hawa, in the southwest of Gaza City, killing three people, Al Jazeera reported. The Israeli military said it had struck terrorist operatives in the vehicle, The Times of Israel reported. Elsewhere, a man was shot dead at the Halawa camp, bringing the number of Palestinians killed in Gaza on Saturday to at least four, according to Al Jazeera. In the occupied West Bank, a 42-year-old Palestinian man was shot dead by settlement guards near Ramallah late on Friday, Al Jazeera said."
+          ]
+        },
+        {
+          "heading": "Shelter and food",
+          "paragraphs": [
+            "The International Organization for Migration says more than 100,000 tents are stuck in Egypt because Israel does not allow tent poles thicker than 38 millimetres into the territory. As winter rain and flooding hit makeshift camps, the World Food Programme says people are burning rubbish to cook. The tents have already been supplied but are waiting on the Egyptian side of the border because of the rules on their materials."
+          ]
+        },
+        {
+          "heading": "Context",
+          "paragraphs": [
+            "A ceasefire took effect in October 2025, but deadly strikes have continued. Gaza’s health ministry counts 1,671 people killed since then and 74,736 since the war began, according to Al Jazeera. Saturday’s deaths came as two UN agencies were warning about shelter and food in the camps at the start of winter."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+          "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "title": "Liveblog, November 21, 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-21-2026/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting (live blog)"
+        }
+      ],
+      "threadId": "gaza-humanitarian",
+      "threadTitle": "Gaza's humanitarian situation",
+      "threadSummary": "Conditions for civilians in Gaza, aid access and recovery after the war."
+    }
+  ],
+  "watch": [
+    {
+      "title": "NATO meets on Poland",
+      "text": "The North Atlantic Council holds a session on the Russian incursion into Poland in Brussels on Monday, November 23."
+    },
+    {
+      "title": "Markets after the correction",
+      "text": "Wall Street reopens on Monday, November 23, after the S&P 500’s worst week in more than 18 months."
+    },
+    {
+      "title": "Israel’s coalition deadline",
+      "text": "Talks between Eisenkot’s bloc and Likud continue ahead of the December 6 deadline to form a government."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Trump ordered federal contractors to clear their replies to Congress with the White House, Wall Street fell into a correction, and Canada played down a reported Pentagon memo limiting defence ties.",
+      "briefs": [
+        {
+          "title": "Canada says it has seen no change in defence ties despite a reported Pentagon memo",
+          "text": "The Washington Post reported that Defense Secretary Pete Hegseth issued a classified memo restricting US engagement with Canada’s military; the Pentagon says intelligence cooperation, NORAD and NATO work are unaffected. Canada’s defence minister, David McGuinty, said Ottawa had not seen the memo and called the relationship strong. At the Halifax International Security Forum, Canada said it would join the NATO Innovation Fund with 100 million Canadian dollars.",
+          "eventDate": "2026-11-20 / 2026-11-21",
+          "sources": [
+            {
+              "publisher": "Breaking Defense",
+              "title": "Despite Hegseth memo, Canada hasn't seen changes to defense relationship with US, says DefMin",
+              "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "CP24",
+              "title": "World leaders gather in Halifax for international security forum",
+              "url": "https://www.cp24.com/news/canada/2026/11/21/world-leaders-gather-in-halifax-for-international-security-forum/",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Taiwan warns Canada about deeper trade ties with China",
+          "text": "Taiwan’s deputy foreign minister, Chen Ming-chi, told the Associated Press in Halifax that Taipei worries about Canada’s widening trade with China after Prime Minister Mark Carney met Xi Jinping and agreed further tariff cuts. Carney has said Canada could turn to Chinese carmakers if talks with Washington fail; Trump has threatened 50 per cent tariffs on Canadian vehicles and parts from January 1. Chen welcomed Carney’s commitment to sign a long-delayed trade arrangement with Taiwan.",
+          "eventDate": "2026-11-21",
+          "sources": [
+            {
+              "publisher": "ABC News (Associated Press)",
+              "title": "Taiwan warns Canada's Carney that deeper ties with China come with risks",
+              "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "A man is convicted at retrial of starting the fire that became the Palisades Fire",
+          "text": "A federal jury found Jonathan Rinderknecht guilty on two fire charges; his first trial in June ended with a hung jury. Prosecutors say embers from the Lachman Fire he started on January 1, 2025, reignited into the Palisades Fire, which killed 12 people and destroyed 6,800 homes. Sentencing is set for March 17, 2027.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "NBC Los Angeles",
+              "title": "Jonathan Rinderknecht convicted of starting Palisades Fire",
+              "url": "https://www.nbclosangeles.com/news/local/palisades-arson-trial-jonathan-rinderknecht/3972494/",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Mexican troops captured a cartel leader on the FBI’s most wanted list, Brazil’s former president Jair Bolsonaro was in intensive care, and a strong earthquake shook Peru without causing damage.",
+      "briefs": [
+        {
+          "title": "Bolsonaro is in intensive care with a bowel obstruction",
+          "text": "Brazil’s former president, 71, was admitted to the DF Star hospital in Brasília on Friday with an acute bowel obstruction; the hospital says he is stable and conscious. His son Carlos said more surgery may be needed. Bolsonaro is serving a 27-year sentence for the coup plot and has been under house arrest since March.",
+          "eventDate": "2026-11-20 / 2026-11-21",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Brazil's Jair Bolsonaro in intensive care with bowel obstruction",
+              "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "A magnitude 6.7 earthquake shakes Peru’s central Andes",
+          "text": "The quake struck at 7:09 pm local time on Friday, 34 kilometres north of Junín at a depth of 108 kilometres, according to the US Geological Survey. Peru’s Geophysical Institute and a local mayor reported no damage or casualties.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "Associated Press (via Yahoo News)",
+              "title": "Magnitude 6.7 earthquake shakes Peru's Andes, with no damage or casualties immediately reported",
+              "url": "https://www.yahoo.com/news/world/articles/magnitude-6-9-earthquake-shakes-004000582.html",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "COP31 collapsed in Antalya, drones set a Russian military cargo ship ablaze in the Gulf of Finland, NATO’s chief pledged to defend Poland, and Russian strikes hit Kryvyi Rih and the Kyiv region.",
+      "briefs": [
+        {
+          "title": "Zelensky says the next four-way peace talks need a clear agenda",
+          "text": "Speaking with Britain’s defence secretary on Saturday, President Zelensky said the next round of talks between Ukraine, Europe, Russia and the United States must set out its maximum and minimum goals in advance. He also pressed for an all-for-all prisoner exchange. No date or venue has been set; Zelensky said the timing depends on Washington.",
+          "eventDate": "2026-11-21",
+          "sources": [
+            {
+              "publisher": "Kyiv Post",
+              "title": "Zelensky Says Next 4-Party Peace Talks Must Deliver Concrete Results",
+              "url": "https://www.kyivpost.com/post/90813",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Germany and Norway fund Patriot missiles for Ukraine",
+          "text": "Germany and Norway announced a joint contribution of 300 million dollars to NATO’s scheme for buying American weapons for Ukraine, with priority for Patriot missiles. Zelensky said Russia had launched about 2,700 drones, 1,460 glide bombs and 165 missiles at Ukraine over the past week, and urged Washington to authorise more Patriot transfers.",
+          "eventDate": "2026-11-22",
+          "sources": [
+            {
+              "publisher": "Kyiv Post",
+              "title": "Russia Launched 2,700 Drones, 165 Missiles in a Week, Zelensky Says",
+              "url": "https://www.kyivpost.com/post/90844",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "Gulf states sided with the UAE in its dispute with Somalia, South Africa mourned its first woman deputy president, and Malawi rationed fuel amid shortages.",
+      "briefs": [
+        {
+          "title": "Phumzile Mlambo-Ngcuka, South Africa’s first woman deputy president, dies at 71",
+          "text": "South Africa’s presidency announced the death of Mlambo-Ngcuka, who was deputy president from 2005 to 2008 and led UN Women from 2013 to 2021. She had been chancellor of the University of Johannesburg since 2022. The cause of death was not given.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "AllAfrica",
+              "title": "South Africa: Former Deputy President Phumzile Mlambo-Ngcuka Dies",
+              "url": "https://allafrica.com/stories/202611210040.html",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Malawi rations fuel as shortages cause chaos",
+          "text": "Drivers in Malawi are limited to 20 litres of fuel a day, and petrol costs about 3.24 dollars a litre, roughly double the global average, Al Jazeera reported. A petrol station attendant died during a commotion, and protests that had been planned for November 17 to demand the energy minister’s resignation were postponed.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "'Completely messed up everything': Malawi's fuel crisis causes chaos",
+              "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Likud set its terms for a unity government, Iran’s apparent tanker breakout proved to be a faked signal, Saudi jets struck Hodeidah again, and Lebanon’s president told Hezbollah to give up its weapons.",
+      "briefs": [
+        {
+          "title": "Lebanon’s president tells Hezbollah to hand over its weapons",
+          "text": "In a speech on the eve of Lebanon’s independence day, President Joseph Aoun told Israel to withdraw from all Lebanese territory, stop its attacks and return Lebanese prisoners, and told Hezbollah it must give up its arms. Israeli strikes hit the Nabatieh, Bint Jbeil and Marjayoun districts on Saturday. At least 4,386 people have been killed since the war resumed on March 2.",
+          "eventDate": "2026-11-21",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Lebanese president demands Israel withdrawal, decries Iran's interference",
+              "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Saudi jets strike Hodeidah again as a drone aimed at Riyadh is shot down",
+          "text": "Saudi warplanes struck Yemen’s Hodeidah on Saturday evening, according to the Houthis’ al-Masirah channel, and a resident reported more than five explosions. The coalition spokesman, Turki al-Maliki, said a drone heading for the Riyadh region was destroyed. The Houthis claim 71 Saudi strikes across eight provinces in 24 hours, a figure that has not been verified.",
+          "eventDate": "2026-11-21",
+          "sources": [
+            {
+              "publisher": "Xinhua",
+              "title": "Saudi airstrikes hit Yemen's Hodeidah amid escalating cross-border attacks",
+              "url": "https://english.news.cn/20261122/e873d385a5bb45b8832b89c53cd2ac98/c.html",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "The Times of Israel",
+              "title": "Liveblog, November 21, 2026",
+              "url": "https://www.timesofisrael.com/liveblog-november-21-2026/",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting (live blog)"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "The UN’s top court ruled that Myanmar committed genocide against the Rohingya, a Pakistani minister visited India for the first time since their 2025 war, and arson attacks spread in Bangladesh’s Narail district.",
+      "briefs": [
+        {
+          "title": "A Pakistani minister visits India for the first time since the 2025 war",
+          "text": "Pakistan’s climate minister, Musadik Malik, arrived in New Delhi on Friday for a Shanghai Cooperation Organisation forum, the first federal-level visit since the conflict in May 2025. No bilateral meeting was announced, and India’s foreign ministry said its policy toward Pakistan had not changed.",
+          "eventDate": "2026-11-20",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Pakistan minister visits India for first time since 2025 war",
+              "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war",
+              "publishedAt": "2026-11-20",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Homes of Awami League supporters are burned in Bangladesh’s Narail district",
+          "text": "More than 50 houses and shops belonging to 20 to 25 households were gutted in Narail on Friday afternoon, a fire officer said, two days after an attack on a BNP procession there killed two local BNP leaders. The BNP blamed Awami League members for the killings; the Awami League says more than 200 homes were targeted, a claim that has not been verified.",
+          "eventDate": "2026-11-18 / 2026-11-20",
+          "sources": [
+            {
+              "publisher": "IANS",
+              "title": "Bangladesh: Dozens of properties of Awami League leaders, activists set ablaze amid escalating violence",
+              "url": "https://ianslive.in/bangladesh-dozens-of-properties-of-awami-league-leaders-activists-set-ablaze-amid-escalating-violence--20261121175855",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Toxic alcohol kills at least 11 people in India’s Manipur",
+          "text": "More than 180 people were taken to hospital after drinking illicit alcohol linked to the town of Sugnu. Manipur’s chief minister ordered an investigation and promised arrests.",
+          "eventDate": "2026-11-21",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Illicit alcohol kills 11, poisons 180 in northeast India's Manipur state",
+              "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "Australia, as lead negotiator at COP31, saw the climate talks end without agreement, and a strong earthquake off East Timor shook Darwin.",
+      "briefs": [
+        {
+          "title": "A magnitude 6.8 earthquake off East Timor shakes Australia’s Top End",
+          "text": "The quake struck at about 7:15 pm on Saturday, about 103 kilometres north-east of Lospalos at a depth of 143 kilometres. Geoscience Australia received more than 1,600 reports from people who felt it, as far away as Katherine. No damage or injuries were reported.",
+          "eventDate": "2026-11-21",
+          "sources": [
+            {
+              "publisher": "ABC News (Australia)",
+              "title": "Top End shaken as major quake hits East Timor",
+              "url": "https://www.abc.net.au/news/2026-11-21/top-end-nt-shaken-as-major-earthquake-hits-east-timor/107413134",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

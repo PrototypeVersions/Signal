@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A towering stack of pages of computer code with a check mark beside it">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="#12263a" stroke="#5d7387" stroke-width="4">
+    <rect x="250" y="390" width="230" height="40" rx="4"/>
+    <rect x="256" y="345" width="230" height="40" rx="4"/>
+    <rect x="246" y="300" width="230" height="40" rx="4"/>
+    <rect x="254" y="255" width="230" height="40" rx="4"/>
+    <rect x="248" y="210" width="230" height="40" rx="4"/>
+    <rect x="256" y="165" width="230" height="40" rx="4"/>
+    <rect x="250" y="120" width="230" height="40" rx="4"/>
+  </g>
+  <rect x="244" y="50" width="240" height="66" rx="6" fill="#1b3550" stroke="#d6e6f2" stroke-width="5"/>
+  <g stroke="#7fa6c4" stroke-width="6" stroke-linecap="round">
+    <line x1="266" y1="72" x2="340" y2="72"/><line x1="352" y1="72" x2="420" y2="72"/>
+    <line x1="286" y1="94" x2="380" y2="94"/><line x1="392" y1="94" x2="456" y2="94"/>
+  </g>
+  <circle cx="600" cy="250" r="78" fill="#d6e6f2" fill-opacity="0.06" stroke="#c8875a" stroke-width="12"/>
+  <path d="M562 252 L592 282 L644 222" fill="none" stroke="#c8875a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

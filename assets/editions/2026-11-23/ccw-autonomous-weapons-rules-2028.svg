@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A military drone hovering above an hourglass whose sand is still running">
+  <rect width="800" height="500" fill="#09131d"/>
+  <g fill="#7fa6c4">
+    <path d="M400 60 L452 98 L580 106 L580 120 L454 126 L420 150 L380 150 L346 126 L220 120 L220 106 L348 98 Z"/>
+    <rect x="392" y="142" width="16" height="22" rx="4"/>
+  </g>
+  <line x1="400" y1="180" x2="400" y2="236" stroke="#5d7387" stroke-width="4" stroke-dasharray="10 10"/>
+  <g>
+    <rect x="320" y="244" width="160" height="16" rx="6" fill="#c8875a"/>
+    <rect x="320" y="440" width="160" height="16" rx="6" fill="#c8875a"/>
+    <path d="M340 260 L460 260 L460 272 C460 312 412 334 408 350 C412 366 460 388 460 428 L460 440 L340 440 L340 428 C340 388 388 366 392 350 C388 334 340 312 340 272 Z" fill="#12263a" stroke="#d6e6f2" stroke-width="5"/>
+    <path d="M362 290 L438 290 C430 312 410 326 400 340 C390 326 370 312 362 290 Z" fill="#c8875a" fill-opacity="0.75"/>
+    <line x1="400" y1="342" x2="400" y2="400" stroke="#c8875a" stroke-width="3" stroke-dasharray="4 6"/>
+    <path d="M360 430 C372 404 428 404 440 430 Z" fill="#c8875a" fill-opacity="0.75"/>
+  </g>
+</svg>

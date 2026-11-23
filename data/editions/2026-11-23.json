@@ -1,0 +1,1324 @@
+{
+  "date": "2026-11-23",
+  "number": 36,
+  "cutoff": "2026-11-23T12:15:00Z",
+  "cutoffLabel": "6:15 AM CT",
+  "opening": "Poland says all three objects that fell on its soil were Russian cruise missiles, as NATO allies meet. Ukraine says it sank a Russian warship in Libya, Trump threatened new strikes on Iran after the new year, and the AI share sell-off spread across Asia.",
+  "leadStoryId": "russian-missiles-land-in-poland",
+  "stories": [
+    {
+      "id": "russian-missiles-land-in-poland",
+      "section": "world",
+      "title": "Polish prosecutors say all three objects that came down in Poland were Russian cruise missiles, as NATO allies meet on Monday",
+      "category": "European security",
+      "region": "Europe · Poland",
+      "regions": [
+        "europe"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-20 / 2026-11-23",
+      "body": "Polish prosecutors said on Sunday that all three objects that fell in eastern Poland on Friday were Russian Kh-101 cruise missiles, including one the defence minister had first described as a probable jet drone. Preliminary findings say the missiles were built this autumn at a Russian plant in Dubna. They spent about three minutes in Polish airspace; two Swedish Gripen jets on NATO patrol could not identify them in bad weather. The North Atlantic Council meets in Brussels on Monday to discuss the incursion.",
+      "whatChanged": "Poland now has a formal finding that every object was a Russian cruise missile, which it will bring to the emergency NATO meeting on Monday.",
+      "whyMatters": "A confirmed Russian missile incursion into a NATO member puts pressure on the alliance to show it can detect and stop such weapons, and tests how far allies will go to reinforce the eastern flank.",
+      "uncertainty": "Russia had not commented on Poland’s findings in the reports we read. It is not known why the missiles crossed into Poland, and no new allied deployments had been announced before the meeting.",
+      "watchNext": "What Mark Rutte announces after the North Atlantic Council session, and whether allies answer Poland’s requests for more surveillance aircraft and fighter jets.",
+      "keyFacts": [
+        "Prosecutors in Lublin identified all three objects as Kh-101 cruise missiles on Sunday, November 22",
+        "The missiles were in Polish airspace for about three minutes, a Polish military commander said",
+        "Two Swedish Gripen jets on NATO air policing could not identify the targets in bad weather",
+        "One missile fell about 22 miles from Nowa Dęba, where allied troops were exercising",
+        "Nobody was hurt and no damage was reported"
+      ],
+      "report": [
+        {
+          "heading": "What the investigation found",
+          "paragraphs": [
+            "The district prosecutor’s office in Lublin, working with military prosecutors and the Military Gendarmerie, said on Sunday that the three objects that crashed near Nowy Lipowiec, Rudnik nad Sanem and Mołodycz on Friday were all Kh-101 cruise missiles. Earlier the defence ministry had suggested one of them was probably a jet-powered drone. According to the preliminary findings, the missiles were made in the final quarter of 2026 in Dubna, near Moscow, where the manufacturer MKB Raduga is based.",
+            "Justice Minister Waldemar Żurek said the evidence put an end to false claims about what had happened. The objects were over Poland for roughly three minutes, according to operational commander Ireneusz Nowak. Two Swedish Gripens flying NATO air policing missions tried to intercept them but could not identify them in poor weather; Kyiv Post reported that one pilot had been cleared to fire but held off."
+          ]
+        },
+        {
+          "heading": "What Poland wants from NATO",
+          "paragraphs": [
+            "In Warsaw on Saturday, NATO Secretary General Mark Rutte said the alliance would defend every inch of Polish territory and that its top commander, US General Alexus Grynkewich, was reviewing allied defences for weaknesses. He did not rule out a repeat.",
+            "Poland is sending Deputy Defence Minister Paweł Zalewski to Monday’s session. According to UNN, Warsaw wants its own account of the incident heard, a clear show of allied solidarity and concrete proposals to strengthen air defence on the eastern flank. It does not currently plan to invoke Article 4 or expect a joint statement. Poland has asked for more NATO surveillance aircraft and F-35 fighters. Defence Minister Władysław Kosiniak-Kamysz said it was hard to see the incident as a coincidence, because one missile landed about 22 miles from a site where allied troops were training."
+          ]
+        },
+        {
+          "heading": "What is still missing",
+          "paragraphs": [
+            "Moscow had not responded to the Polish findings in the reports we read. No outcome of the North Atlantic Council meeting was available at our cutoff, and no new deployments to Poland had been announced."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Eastern Poland",
+        "bounds": [
+          13,
+          48.5,
+          26,
+          55.5
+        ],
+        "countries": [
+          "616"
+        ],
+        "labels": [
+          {
+            "label": "Baltic Sea",
+            "lon": 17.5,
+            "lat": 55,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Poland, highlighted, with a marker at Rudnik nad Sanem in the south-east, one of the three places where the missiles came down.",
+        "caption": "Poland highlighted · marker shows one of the three crash sites, approximate"
+      },
+      "locations": [
+        {
+          "label": "Rudnik nad Sanem",
+          "mapLabel": "Rudnik",
+          "lon": 22.25,
+          "lat": 50.44
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Notes from Poland",
+          "title": "Poland confirms three objects that struck its territory were all Russian missiles",
+          "url": "https://notesfrompoland.com/2026/11/23/poland-confirms-three-objects-that-struck-its-territory-were-all-russian-missiles/",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Stars and Stripes",
+          "title": "NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland",
+          "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Kyiv Post",
+          "title": "NATO Will Defend ‘Every Inch’ of Poland, Rutte Says Ahead of Monday Council Talks",
+          "url": "https://www.kyivpost.com/post/90841",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "UNN",
+          "title": "NATO convenes an extraordinary meeting on Poland’s security: what issues will be considered",
+          "url": "https://unn.ua/en/news/nato-convenes-an-extraordinary-meeting-on-polands-security-what-issues-will-be-considered",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+    },
+    {
+      "id": "ukraine-sinks-russian-corvette-libya",
+      "section": "world",
+      "title": "Ukraine says its sea drones sank a Russian warship docked in Libya, its first acknowledged attack in the Mediterranean",
+      "category": "War in Ukraine",
+      "region": "Africa · Libya",
+      "regions": [
+        "europe",
+        "africa"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-22 / 2026-11-23",
+      "body": "President Volodymyr Zelensky said on Monday that seven Ukrainian naval drones sank the Russian corvette Merkury at the naval base in Benghazi, eastern Libya, on Sunday. He said the attack also destroyed a Russian navy helicopter and hit a cargo ship that he says was carrying Russian weapons. Libyan officials said the warship was badly damaged and capsized, and that it had stopped to refuel under an agreement with Russia. No casualties were reported, and Moscow had not commented.",
+      "whatChanged": "Ukraine has struck a Russian warship far from the Black Sea for the first time it has acknowledged, two days after drones hit a Russian military cargo ship in the Baltic.",
+      "whyMatters": "The attack shows Kyiv can reach Russian naval assets across the Mediterranean, and it pulls Libya, divided between rival governments, further into the war.",
+      "uncertainty": "Accounts differ: Libyan officials told the Associated Press that four drones were shot down and two hit the ship, while Kyiv says seven were used and the ship sank. Russia has not confirmed any loss, and how the drones reached Libya is unclear.",
+      "watchNext": "Whether Russia confirms the loss or retaliates, and what the joint Libyan–Russian investigation and any United Nations inquiry find.",
+      "keyFacts": [
+        "The corvette Merkury entered service in 2023 and was docked at Benghazi naval base",
+        "Zelensky says seven Ukrainian-made naval drones were used",
+        "Ukraine also claims a Ka-27 helicopter destroyed and the cargo ship Angara hit",
+        "Libyan officials told AP at least four drones were intercepted and two struck the ship",
+        "No casualties were reported"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "Several explosions hit the Merkury, a Russian corvette commissioned in 2023, while it was moored at the naval base in Benghazi on Sunday, and the ship capsized. On Monday Zelensky called it an exemplary Ukrainian operation and said seven Ukrainian-built sea drones had been used. He said a Russian Ka-27 helicopter was destroyed and that the cargo ship Angara, which he accused of carrying Russian weapons, was also hit. Ukraine’s Security Service released video and said the drones had been launched from a mother ship; a joint statement said Russia had no safe routes.",
+            "It is the first operation of its kind that Kyiv has acknowledged in Libya, and it came a day after drones set the Russian military cargo ship Sparta II on fire in the Gulf of Finland."
+          ]
+        },
+        {
+          "heading": "Libya’s response",
+          "paragraphs": [
+            "The eastern administration aligned with Khalifa Haftar said the warship had put in to refuel under a cooperation agreement with Moscow, and opened a joint investigation with Russia. Libyan officials told the Associated Press that at least four drones were intercepted and two struck the vessel, figures that differ from Zelensky’s account. Eastern Libya’s prime minister, Osama Hamad, asked the United Nations to investigate a suspected launch from western Libya.",
+            "The internationally recognised government in Tripoli condemned the use of Libyan territory for a proxy conflict. The Russian defence ministry had not commented at our cutoff."
+          ]
+        },
+        {
+          "heading": "Why it matters",
+          "paragraphs": [
+            "Russia has used eastern Libya as a foothold in the Mediterranean and Africa. A Ukrainian strike there shows how far Kyiv’s long-range maritime drone campaign now extends, and risks entangling a country that remains split between rival authorities."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Benghazi, Libya",
+        "bounds": [
+          8,
+          26,
+          30,
+          40
+        ],
+        "countries": [
+          "434"
+        ],
+        "labels": [
+          {
+            "label": "Mediterranean Sea",
+            "lon": 17,
+            "lat": 35,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the central Mediterranean with Libya highlighted and a marker at Benghazi, on its north-eastern coast, where the Russian warship was docked.",
+        "caption": "Libya highlighted · marker shows Benghazi naval base, approximate"
+      },
+      "locations": [
+        {
+          "label": "Benghazi",
+          "lon": 20.07,
+          "lat": 32.12
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "‘No safe routes’ — Ukraine sinks Russian corvette, destroys helicopter in drone attack off Libyan coast",
+          "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Reuters (via Investing.com)",
+          "title": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe",
+          "url": "https://za.investing.com/news/world-news/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe-4591685",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "Ukrainian naval drones sank Russia’s Merkury warship in Libya, Zelenskyy confirms",
+          "url": "https://abcnews.com/International/ukrainian-naval-drones-sank-russias-merkury-warship-libya/story?id=138369738",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Russian warship docked in Benghazi hit by suspected drone attack, Libyan officials say",
+          "url": "https://kyivindependent.com/russian-warship-docked-in-benghazi-hit-by-suspected-drone-attack-libyan-officials-say/",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+    },
+    {
+      "id": "trump-threatens-iran-strikes-new-year",
+      "section": "world",
+      "title": "Trump says he is inclined to resume major strikes on Iran after the new year, and Tehran vows to use every means against the blockade",
+      "category": "Iran war",
+      "region": "Middle East · Iran and the Gulf",
+      "regions": [
+        "middle-east",
+        "north-america"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-22 / 2026-11-23",
+      "body": "President Trump told Fox News on Sunday that he was inclined to order major new strikes on Iran after the new year if there is no deal, called Iran’s negotiators professional tap dancers, and said any ships that try to run the US naval blockade would end up at the bottom of the sea. On Monday Iran’s foreign ministry called the blockade military aggression and said Tehran would use every means against it. The British maritime agency reported another incident involving a tanker in the Gulf of Oman on Sunday.",
+      "whatChanged": "Washington has set out a rough timetable for renewed strikes, and Tehran has answered with a pledge to fight the blockade, even as Qatar tries to mediate.",
+      "whyMatters": "A return to full-scale strikes would end the uneasy pause in the war and deepen the shipping crisis in and around the Strait of Hormuz, through which much of the world’s oil normally passes.",
+      "uncertainty": "Trump has not said what would count as a deal. Iranian media say tanker convoys to test the blockade are being planned, but no official body has announced one, and details of Sunday’s incident in the Gulf of Oman have not been released.",
+      "watchNext": "Talks between Qatar’s prime minister and US Secretary of State Marco Rubio, which Euronews reported were expected on Monday, and whether any Iranian tanker convoy sails.",
+      "keyFacts": [
+        "Trump said on November 22 that he was inclined to resume major strikes after the new year if no deal is reached",
+        "Iran’s foreign ministry spokesman called the blockade an act of military aggression on November 23",
+        "Foreign Minister Abbas Araghchi said Hormuz could reopen within two hours once Iran’s conditions are met",
+        "US Central Command marked 130 days of the renewed blockade on November 21",
+        "Iran’s power authority said rolling blackouts would begin on November 22 because of fuel shortages"
+      ],
+      "report": [
+        {
+          "heading": "Washington’s warning",
+          "paragraphs": [
+            "In an interview with Fox News broadcast on Sunday, Trump said that without an agreement he was leaning towards renewing large-scale strikes on Iran after the new year. He described Iran’s negotiators as professional tap dancers and said they had become more aggressive than before the election. Asked about Iranian ships testing the blockade, he said he hoped they would try, because they would be sunk like the rest of Iran’s navy.",
+            "The US Central Command marked 130 days of the renewed blockade on Saturday, and earlier in the week the United States extended it to vessels taking Iranian cargo in transfers at sea."
+          ]
+        },
+        {
+          "heading": "Tehran’s answer",
+          "paragraphs": [
+            "At his weekly briefing on Monday, foreign ministry spokesman Esmaeil Baghaei called the blockade military aggression and a crime, and said Iran would use every means to counter it. Foreign Minister Abbas Araghchi said the Strait of Hormuz could reopen within two hours once the other side met its commitments, which Iran defines as lifting sanctions, ending the blockade and implementing a memorandum agreed in Islamabad that Trump has called void.",
+            "Iran’s Tasnim news agency said plans for tanker convoys were being drawn up, but no convoy has been ordered. The UK Maritime Trade Operations centre confirmed an incident involving a tanker and military forces in the Gulf of Oman on Sunday without giving details."
+          ]
+        },
+        {
+          "heading": "Mediation and pressure at home",
+          "paragraphs": [
+            "A Qatari delegation held about two hours of talks in Tehran on Friday evening, according to Iran’s deputy foreign minister, who said enriched uranium would not leave the country. Inside Iran, the head of the power utility said rolling blackouts would start on Sunday because of fuel supply problems, and President Masoud Pezeshkian warned of a hard winter."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "The Gulf and the Strait of Hormuz",
+        "bounds": [
+          46,
+          22,
+          62,
+          32
+        ],
+        "countries": [
+          "364"
+        ],
+        "labels": [
+          {
+            "label": "Persian Gulf",
+            "lon": 51,
+            "lat": 27.2,
+            "kind": "water"
+          },
+          {
+            "label": "Gulf of Oman",
+            "lon": 59,
+            "lat": 24,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of the Gulf region with Iran highlighted and a marker at the Strait of Hormuz, between the Persian Gulf and the Gulf of Oman.",
+        "caption": "Iran highlighted · marker shows the Strait of Hormuz"
+      },
+      "locations": [
+        {
+          "label": "Strait of Hormuz",
+          "mapLabel": "Hormuz",
+          "lon": 56.4,
+          "lat": 26.6
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Fox News",
+          "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
+          "url": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Iran vows ‘every means’ to counter US blockade of Hormuz after Trump threat",
+          "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Iran International",
+          "title": "Trump threatens Iran strikes in new year, says blockade runners will be sunk",
+          "url": "https://www.iranintl.com/en/202611226299",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Business Recorder (AFP)",
+          "title": "Two tankers struck in Hormuz; Iran holds talks with Qatar",
+          "url": "https://www.brecorder.com/news/40450177/two-tankers-struck-in-hormuz-iran-holds-talks-with-qatar",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The war between the United States, Israel and Iran, and its effects on shipping and security in the Gulf."
+    },
+    {
+      "id": "ai-selloff-hits-asian-markets",
+      "section": "world",
+      "title": "The AI share sell-off spreads through Asia, triggering a trading halt in Seoul and a short-selling ban in Taiwan",
+      "category": "Markets",
+      "region": "Asia · South Korea and Taiwan",
+      "regions": [
+        "asia",
+        "north-america"
+      ],
+      "status": "Major development",
+      "eventDate": "2026-11-20 / 2026-11-23",
+      "body": "Asian markets kept falling on Monday after Wall Street’s worst week since April 2025. South Korea’s main index, the Kospi, fell as much as 5.8 per cent and briefly halted program trading; it is now nearly half below its June record. Taiwan’s regulator banned short selling below the previous day’s close from Monday, after the island’s main index lost more than six per cent on Friday. Australian shares fell for an eighth straight session, while US stock futures pointed to a rebound.",
+      "whatChanged": "The sell-off in AI-linked shares, which pushed US indexes into a correction last week, has turned into emergency market measures in Asia’s chipmaking economies.",
+      "whyMatters": "South Korea and Taiwan are home to the chipmakers at the centre of the AI boom, so steep falls there hit savers and pension funds directly and show how concentrated the global market has become in a single theme.",
+      "uncertainty": "It is not clear whether Sunday night’s rebound in US futures will hold when New York opens, or whether Taiwan’s short-selling ban and Korea’s calls for a stabilisation fund will slow the falls.",
+      "watchNext": "How Wall Street trades in a holiday-shortened week, with markets closed on Thursday for Thanksgiving, and the Federal Reserve’s decision on December 9.",
+      "keyFacts": [
+        "The S&P 500 fell 3.7 per cent on Friday, November 20, and 8.4 per cent over the week",
+        "Taiwan’s main index lost 6.23 per cent on Friday and is about 28 per cent below its October record",
+        "Taiwan’s ban on short selling below the previous close took effect on Monday, November 23",
+        "Seoul’s Kospi fell as much as 5.8 per cent on Monday before trimming losses",
+        "Australia’s ASX 200 fell for an eighth straight session on Monday"
+      ],
+      "report": [
+        {
+          "heading": "Asia’s Monday",
+          "paragraphs": [
+            "In Seoul, the Kospi fell as much as 5.8 per cent on Monday, and a five-minute pause in sell-side program trading kicked in late in the morning. By mid-afternoon the index was down about 3.2 per cent, at roughly 48 per cent below its June record, after a fall of more than five per cent on Friday. Retail investors were urging the government to activate a 100 trillion won stabilisation fund.",
+            "In Sydney, the ASX 200 slipped 0.3 per cent, its eighth consecutive decline, after its worst week since mid-2022."
+          ]
+        },
+        {
+          "heading": "Taiwan steps in",
+          "paragraphs": [
+            "Taiwan’s main index fell 6.23 per cent on Friday, one of its largest one-day point losses on record, leaving it about 28 per cent below its October 6 peak. On Saturday the Financial Supervisory Commission banned short selling below the previous close from Monday, the first blanket restriction of this kind since 2015, according to the Central News Agency. It also raised margin requirements for short sales, suspended new put warrants and encouraged listed companies to buy back shares. A national stabilisation fund of 500 billion Taiwan dollars has been authorised to buy shares since November 6."
+          ]
+        },
+        {
+          "heading": "Wall Street’s week",
+          "paragraphs": [
+            "The S&P 500 closed Friday at 6,910 after a seventh straight daily loss, and the Nasdaq has given up its gains for the year. Futures markets nonetheless put the chance of another Federal Reserve rate rise in December at about 92 per cent. On Sunday night, futures on the Dow Jones index were up about 800 points and Nasdaq futures nearly three per cent, Fortune reported, a rebound that would need to survive the New York open."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "South Korea and Taiwan",
+        "bounds": [
+          115,
+          18,
+          135,
+          42
+        ],
+        "countries": [
+          "410",
+          "158"
+        ],
+        "labels": [
+          {
+            "label": "East China Sea",
+            "lon": 125,
+            "lat": 29,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of East Asia with South Korea and Taiwan highlighted and markers at Seoul and Taipei, home to the two stock markets that took emergency measures.",
+        "caption": "South Korea and Taiwan highlighted · markers show Seoul and Taipei"
+      },
+      "locations": [
+        {
+          "label": "Seoul",
+          "lon": 126.98,
+          "lat": 37.57
+        },
+        {
+          "label": "Taipei",
+          "lon": 121.56,
+          "lat": 25.03
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "IBTimes Australia",
+          "title": "Kospi Tumbles Over 3% as AI Sell-Off Triggers Sidecar Halt, Leaving Korean Stocks Nearly Half Below Record",
+          "url": "https://ibtimes.com.au/south-korea-kospi-falls-ai-stock-selloff-chipmakers-1879205",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Focus Taiwan (CNA)",
+          "title": "Taiwan further tightens short-selling amid stock market volatility",
+          "url": "https://focustaiwan.tw/business/202611210013",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Star (Bloomberg)",
+          "title": "Taiwan widens short sale curbs after shares dive",
+          "url": "https://www.thestar.com.my/business/business-news/2026/11/23/taiwan-widens-short-sale-curbs-after-shares-dive",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Fortune",
+          "title": "Dow futures jump 800 points and Nasdaq soars nearly 3% as stocks rebound from correction with Wall Street still upbeat on 2027",
+          "url": "https://fortune.com/2026/11/22/stock-market-today-dow-futures-sp500-nasdaq-correction-ai-bust/",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "24/7 Wall St",
+          "title": "This Stock Market Selloff Could Block the Fed’s Rate Hikes",
+          "url": "https://247wallst.com/investing/2026/11/21/this-stock-market-selloff-could-block-the-feds-rate-hikes/",
+          "publishedAt": "2026-11-21",
+          "kind": "Analysis"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "Wall St crashes to correction territory and ASX falls — as it happened",
+          "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ai-stock-selloff",
+      "threadTitle": "The AI stock sell-off",
+      "threadSummary": "The fall in AI-linked shares that pushed Wall Street into a correction in November 2026 and spread to markets around the world."
+    },
+    {
+      "id": "bangladesh-vows-arrest-hasina",
+      "section": "world",
+      "title": "Bangladesh says it will arrest Sheikh Hasina the moment she returns, after more than a week of violent unrest by her supporters",
+      "category": "Politics",
+      "region": "Asia · Bangladesh",
+      "regions": [
+        "asia"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-14 / 2026-11-23",
+      "body": "Bangladesh’s government said on Monday that former prime minister Sheikh Hasina would be arrested as soon as she tries to enter the country, and that it wants India to extradite her instead. Hasina, who fled to India in 2024 and has been sentenced to death in her absence, plans to return in December. Her banned Awami League has staged protests since November 14, and local media have counted dozens of crude bomb blasts and vehicle arsons in at least 28 districts over ten days.",
+      "whatChanged": "The government has publicly committed to arresting Hasina on arrival, turning her planned return into a direct confrontation.",
+      "whyMatters": "A return by Hasina could bring her supporters and the new government into open conflict, and the dispute strains relations with India, which is sheltering her.",
+      "uncertainty": "Hasina has given no date for her return, the government has refused her a new passport, and it is not clear who is behind the attacks; the prime minister has blamed India, which did not respond to Reuters.",
+      "watchNext": "Whether Hasina names a date for her return in December, and how India answers Bangladesh’s request for extradition.",
+      "keyFacts": [
+        "A state minister for foreign affairs said Hasina would be arrested as soon as she tries to enter Bangladesh",
+        "Hasina was sentenced to death in absentia and the Awami League is banned",
+        "At least four people have been killed since protests began on November 14, Al Jazeera reports",
+        "22 branches of Grameen Bank were among the targets of attacks",
+        "Bangladesh deployed 90 more platoons of border guards"
+      ],
+      "report": [
+        {
+          "heading": "The government’s warning",
+          "paragraphs": [
+            "A state minister for foreign affairs told Reuters on Monday that Hasina would be detained as soon as she tried to come back, and that Dhaka wanted India to hand her over under the two countries’ extradition treaty. Hasina has said she intends to return in December but has not given a date. The government rejected her application for a new passport and identity card earlier this month.",
+            "She has been sentenced to death in her absence, and her party, the Awami League, is banned from politics."
+          ]
+        },
+        {
+          "heading": "A week of violence",
+          "paragraphs": [
+            "Supporters of the former prime minister have held protests since November 14, including a nationwide lockdown called for November 19. Bangladeshi media counted dozens of crude bomb explosions and vehicle arsons across at least 28 districts. Al Jazeera reports at least four deaths, three political activists and a bus worker. Attackers targeted police stations and banks, including 22 branches of Grameen Bank, and set fire to the ancestral home of Muhammad Yunus in Chittagong; nobody was hurt there and the arsonists have not been identified.",
+            "The government sent 90 additional platoons of the Border Guard Bangladesh onto the streets. Prime Minister Tarique Rahman told parliament on Friday that India was to blame. India’s foreign ministry did not respond to Reuters’ request for comment."
+          ]
+        },
+        {
+          "heading": "Context",
+          "paragraphs": [
+            "Hasina fled to India in 2024 after mass protests ended her long rule. Her planned return has become the main source of tension in Bangladeshi politics since the new government took office."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Bangladesh",
+        "bounds": [
+          85,
+          19.5,
+          95,
+          27.5
+        ],
+        "countries": [
+          "050"
+        ],
+        "labels": [
+          {
+            "label": "Bay of Bengal",
+            "lon": 89.5,
+            "lat": 20.5,
+            "kind": "water"
+          }
+        ],
+        "alt": "Map of Bangladesh, highlighted, with a marker at the capital, Dhaka; the unrest has been reported in at least 28 districts.",
+        "caption": "Bangladesh highlighted · marker shows Dhaka; unrest reported across many districts"
+      },
+      "locations": [
+        {
+          "label": "Dhaka",
+          "lon": 90.41,
+          "lat": 23.81
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Reuters (via Yahoo News)",
+          "title": "Bangladesh vows to arrest Hasina if she returns from India",
+          "url": "https://www.yahoo.com/news/politics/articles/bangladesh-vows-arrest-hasina-she-090759089.html",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+          "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return",
+          "publishedAt": "2026-11-22",
+          "kind": "Analysis"
+        }
+      ],
+      "threadId": "bangladesh-politics",
+      "threadTitle": "Bangladesh’s politics",
+      "threadSummary": "Bangladesh’s politics after the fall of Sheikh Hasina, and the tensions over her planned return."
+    },
+    {
+      "id": "russian-ship-drones-gulf-of-finland",
+      "section": "more",
+      "title": "Russia tows the drone-hit cargo ship Sparta II out of Finnish waters, and the Kremlin accuses Ukraine of terrorism in the Baltic",
+      "category": "European security",
+      "region": "Europe · Finland",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-22 / 2026-11-23",
+      "whatChanged": "The burning ship has left Finnish waters under Russian tow, and Moscow has blamed Kyiv for the attack.",
+      "body": "After two days of firefighting, a Russian rescue vessel began towing the sanctioned military cargo ship Sparta II out of Finnish waters on Sunday; Finland’s border guard said some containers were still warm but no fire was visible and nothing was leaking. On Monday Kremlin spokesman Dmitry Peskov spoke of a dangerous trend of terrorist activity by Ukraine in the Baltic. Finnish officials have said Ukraine was likely responsible; Kyiv has not claimed the attack.",
+      "sources": [
+        {
+          "publisher": "Shipping Telegraph",
+          "title": "Russian cargo ship towed out of Finnish waters after suspected drone strike",
+          "url": "https://shippingtelegraph.com/shipping-reports/russian-cargo-ship-on-fire-in-gulf-of-finland-after-suspected-drone-strike/",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Euronews",
+          "title": "Finland confirms Russia is towing drone-hit cargo ship after Baltic Sea attack",
+          "url": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ThePrint (Reuters)",
+          "title": "Kremlin accuses Ukraine of ‘terrorist activity’ in Baltic after cargo ship drone strike",
+          "url": "https://theprint.in/world/kremlin-accuses-ukraine-of-terrorist-activity-in-baltic-after-cargo-ship-drone-strike/3106496/",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Russian military-linked cargo ship could sink after drone strike in Gulf of Finland, Finnish official warns",
+          "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+    },
+    {
+      "id": "russian-drone-collapses-dymer-building",
+      "section": "more",
+      "title": "The death toll in the drone strike on an apartment block in Dymer, near Kyiv, rises to 11",
+      "category": "War in Ukraine",
+      "region": "Europe · Ukraine",
+      "regions": [
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-22 / 2026-11-23",
+      "whatChanged": "Rescuers have recovered more bodies from the partly collapsed building, and the Kyiv region held a day of mourning on Monday.",
+      "body": "The head of the Kyiv regional administration said on Monday that 11 people were now known to have died after a Russian drone partly brought down a five-storey building in Dymer; a seven-year-old boy was pulled out alive after about 14 hours. A drone also hit a supermarket in Vyshneve on Sunday evening, killing at least two people. Overnight, Ukraine’s air force said Russia launched 153 drones and that 134 were shot down or jammed.",
+      "sources": [
+        {
+          "publisher": "Ukrinform",
+          "title": "Death toll from Russian strike on apartment building in Kyiv region’s Dymer rises to 11",
+          "url": "https://ukrinform.net/rubric-ato/4187563-death-toll-from-russian-strike-on-apartment-building-in-kyiv-regions-dymer-rises-to-11.html",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Meduza",
+          "title": "11 killed in Russian strike on Ukraine’s Dymer in Kyiv region",
+          "url": "https://meduza.io/en/news/2026/11/23/11-killed-in-russian-strike-on-ukraine-s-dymer-in-kyiv-region",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "‘Routine shopping trip turned tragedy’ — Russia attacks Kyiv Oblast supermarket during working hours",
+          "url": "https://kyivindependent.com/routine-shopping-trip-turned-tragedy-russia-attacks-kyiv-oblast-supermarket-during-working-hours-killing-2-injuring-at-least-8/",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "title": "Russian attacks kill 4, including 15-year-old boy, injure 19, across Ukraine over past day",
+          "url": "https://kyivindependent.com/russian-attacks-kill-4-including-15-year-old-boy-injure-19-across-ukraine-over-past-day/",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security consequences for Europe."
+    },
+    {
+      "id": "cop31-collapses-without-deal",
+      "section": "more",
+      "title": "After COP31’s collapse, the UN chief blames fossil fuel interests and Australia’s opposition calls on Chris Bowen to resign",
+      "category": "Climate diplomacy",
+      "region": "Europe · Türkiye",
+      "regions": [
+        "europe",
+        "oceania"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-22 / 2026-11-23",
+      "whatChanged": "The fallout from the failed Antalya summit has begun, with blame directed at oil-producing states and political pressure on the Australian minister who led the negotiations.",
+      "body": "UN Secretary-General António Guterres said he was deeply disappointed that COP31 ended without consensus and blamed powerful fossil fuel interests; the EU’s climate commissioner, Wopke Hoekstra, said the final text failed even to acknowledge the need to move away from fossil fuels. Russia’s negotiator said Moscow could not accept any such wording. In Canberra on Monday, opposition leader Angus Taylor called on Chris Bowen, who presided over the negotiations, to resign. Pacific states including the Marshall Islands and Vanuatu condemned the outcome.",
+      "sources": [
+        {
+          "publisher": "Al-Monitor (Reuters)",
+          "title": "Countries react as COP31 climate talks collapse",
+          "url": "https://www.al-monitor.com/originals/2026/11/countries-react-cop31-climate-talks-collapse",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "COP31 ends without deal after climate change talks break down",
+          "url": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "Federal politics: Shadow treasurer pledges to impose ‘speed limit’ on government spending — as it happened",
+          "url": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "cop31-climate-summit",
+      "threadTitle": "The COP31 climate summit",
+      "threadSummary": "The 2026 United Nations climate conference in Antalya, Türkiye, and the negotiations over fossil fuels and climate finance."
+    },
+    {
+      "id": "khartoum-drone-strikes-un-building",
+      "section": "more",
+      "title": "Drone strikes hit homes and a UN building in Sudan’s capital, and the army accuses Ethiopia",
+      "category": "Sudan’s war",
+      "region": "Africa · Sudan",
+      "regions": [
+        "africa"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-22",
+      "whatChanged": "The war’s drone campaign has reached Khartoum again, damaging United Nations premises with staff inside.",
+      "body": "Explosions were heard near Khartoum airport and elsewhere in the city early on Sunday, destroying at least one house, and the UN humanitarian office said a UN building with staff inside was damaged. An army source told AFP the drones were launched from Ethiopia, which denies helping the Rapid Support Forces. Casualty reports differ: AFP said none were immediately reported, while Australia’s ABC cited local reports of at least four civilians killed.",
+      "sources": [
+        {
+          "publisher": "The Manila Times (AFP)",
+          "title": "Drone strikes hit homes, UN building in Sudan’s capital",
+          "url": "https://www.manilatimes.net/2026/11/23/world/americas-emea/drone-strikes-hit-homes-un-building-in-sudans-capital/2475796",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "Drone strikes kill four in Khartoum and damage UN building",
+          "url": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "sudan-war-humanitarian-crisis",
+      "threadTitle": "Sudan’s war and humanitarian crisis",
+      "threadSummary": "The war between Sudan’s army and the Rapid Support Forces, and the humanitarian emergency it has caused."
+    },
+    {
+      "id": "indonesia-banten-candy-factory-fire",
+      "section": "more",
+      "title": "Police remove 24 body bags from a fire-gutted sweet factory in Indonesia, with dozens of workers still missing",
+      "category": "Disaster",
+      "region": "Asia · Indonesia",
+      "regions": [
+        "asia"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-21 / 2026-11-23",
+      "whatChanged": "Search teams have recovered remains from the factory, but the death toll is still unclear.",
+      "body": "Fire swept through a three-storey confectionery factory in Cikande, in Indonesia’s Banten province, on Saturday afternoon. Police have removed 24 body bags, but say the toll is not yet known because some may hold remains of more than one person, and DNA identification could take weeks. Counts of the missing differ between the company and the authorities, and parts of the building are at risk of collapse. The cause is under investigation.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera (Reuters)",
+          "title": "Indonesian police remove 24 body bags from factory fire site",
+          "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "ABC News (Australia)",
+          "title": "Fire rips through Indonesian confectionary factory, leaving dozens missing",
+          "url": "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720",
+          "publishedAt": "2026-11-22",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "indonesia-factory-fire",
+      "threadTitle": "Indonesia’s factory fire",
+      "threadSummary": "The November 2026 fire at a confectionery factory in Banten province, Indonesia, and the search for its victims."
+    },
+    {
+      "id": "france-seeks-un-action-myanmar-ruling",
+      "section": "more",
+      "title": "France asks the UN Security Council to act after Myanmar rejects the genocide ruling",
+      "category": "International justice",
+      "region": "Asia · Myanmar",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-21",
+      "whatChanged": "The first enforcement step after the World Court’s genocide ruling: France wants the Security Council to take up Myanmar’s refusal to comply.",
+      "body": "France’s foreign ministry said on Saturday that it would seek a Security Council meeting after Myanmar’s military-backed government rejected last week’s ruling by the International Court of Justice that it committed genocide against the Rohingya. Paris said the court’s rulings are final and binding, and noted that the UN Charter lets the Council act when a party does not comply. About 1.2 million Rohingya refugees live in Bangladesh.",
+      "sources": [
+        {
+          "publisher": "Devdiscourse (Reuters)",
+          "title": "France wants Security Council action after Myanmar rejects UN court’s ruling",
+          "url": "https://www.devdiscourse.com/article/international/4010389-france-wants-security-council-action-after-myanmar-rejects-un-courts-ruling",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Reuters (via Yahoo News)",
+          "title": "Bangladesh vows to arrest Hasina if she returns from India",
+          "url": "https://www.yahoo.com/news/politics/articles/bangladesh-vows-arrest-hasina-she-090759089.html",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "rohingya-justice",
+      "threadTitle": "Justice for the Rohingya",
+      "threadSummary": "Legal efforts to hold Myanmar to account for its 2017 military campaign against the Rohingya."
+    },
+    {
+      "id": "colombia-asks-x-suspend-petro",
+      "section": "more",
+      "title": "Colombia’s government asks X to suspend former president Petro’s account after he calls for the president to resign",
+      "category": "Politics",
+      "region": "Latin America · Colombia",
+      "regions": [
+        "latin-america"
+      ],
+      "status": "This week",
+      "eventDate": "2026-11-21 / 2026-11-22",
+      "whatChanged": "The confrontation between President Abelardo de la Espriella and his predecessor has moved onto social media and into a dispute over censorship.",
+      "body": "Gustavo Petro posted a speech on Saturday urging Colombians to demand President De la Espriella’s resignation, repeating allegations of electoral fraud that election observers reject. On Sunday the information technology ministry asked X to suspend his account, which has 9.1 million followers, citing rules against incitement. Petro called the request censorship. This account rests on a single report from MercoPress.",
+      "sources": [
+        {
+          "publisher": "MercoPress",
+          "title": "Colombia’s government asks X to suspend Petro’s account after he calls for the president to resign",
+          "url": "https://en.mercopress.com/2026/11/23/colombia-s-government-asks-x-to-suspend-petro-s-account-after-he-calls-for-the-president-to-resign",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "colombia-politics",
+      "threadTitle": "Colombia’s politics",
+      "threadSummary": "President Abelardo de la Espriella’s government and the opposition to its economic programme."
+    },
+    {
+      "id": "riemann-hypothesis-claude-lean-proof",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "As mathematicians check the AI-assisted Riemann proof, a separate 940-page human-written proof is posted for review",
+      "category": "AI and mathematics",
+      "region": "Global",
+      "regions": [],
+      "status": "Research result",
+      "eventDate": "2026-11-20",
+      "body": "Mathematicians are still testing Levent Alpöge’s claim that he and Claude, Anthropic’s AI system, proved the Riemann Hypothesis in some 17 million lines of Lean code. The code compiled at MIT and Carnegie Mellon, but slower checks for hidden shortcuts in how the theorem was stated were still running in the latest reporting we read. Meanwhile, the president of the American Mathematical Society posted a 940-page, entirely human manuscript by Alessandro Masullo that also claims a proof. Specialists remain cautious about both.",
+      "whatChanged": "The AI-assisted claim now has a rival human-written one, and reporting makes clear that the decisive formal checks were not finished when the first claims of success circulated.",
+      "whyMatters": "A proof would settle one of mathematics’ central open questions. How the two claims are checked, one readable by people and one readable only by machines, will shape how mathematicians treat AI-produced results.",
+      "hook": "Two very different claimed proofs of a 167-year-old problem are now under scrutiny; neither has yet been accepted, and the machine checks on the AI-assisted one were still under way.",
+      "uncertainty": "We could not confirm the report, which we repeated on Sunday, that the Lean community had endorsed the AI-assisted proof; the checks that would test for that were still running in the latest account we read. The human manuscript is a draft, and an earlier attempt by the same author did not hold up.",
+      "watchNext": "Results of the comparator checks on the Lean code, and whether number theorists begin a formal review of either proof.",
+      "keyFacts": [
+        "Alpöge posted a four-page paper on November 20 and says he reached the result on November 16",
+        "Producing readable text from Claude ran to more than 250,000 pages, so he released Lean code instead",
+        "Andrew Sutherland at MIT and Simon DeDeo at Carnegie Mellon compiled the code independently",
+        "Ravi Vakil, president of the American Mathematical Society, posted Masullo’s 940-page manuscript",
+        "Vakil said Brian Conrad had reviewed the human manuscript for months"
+      ],
+      "report": [
+        {
+          "heading": "Where the AI-assisted claim stands",
+          "paragraphs": [
+            "Levent Alpöge, a mathematician at Anthropic, said in a four-page paper posted on November 20 that he and Claude had found a proof of the Riemann Hypothesis, and that the code also verifies the stronger generalised version. There is no human-readable proof: asking Claude for one produced more than 250,000 pages, so he released about 17 million lines of Lean, a language in which a computer checks every step.",
+            "Andrew Sutherland at MIT compiled the code first, and Simon DeDeo at Carnegie Mellon did so a few hours later. Compiling is not the last word. Further comparator checks, which look for definitions quietly altered to make a statement trivially true, cannot be split across machines and were expected to take hours or days. Quanta reported no results from them."
+          ]
+        },
+        {
+          "heading": "Reactions",
+          "paragraphs": [
+            "DeDeo said he would be very surprised to find any hidden tricks, and Filippo Nuccio of Jean Monnet University praised the scope of the formal work. Maksym Radziwiłł of New York University was critical, arguing that a proof made of machine code bypasses understanding and does not explain why the result is true. Many number theorists are withholding judgement."
+          ]
+        },
+        {
+          "heading": "A human proof appears",
+          "paragraphs": [
+            "Separately, Ravi Vakil of Stanford, president of the American Mathematical Society, posted a 940-page manuscript by Alessandro Masullo that claims a proof of the generalised hypothesis, written without AI. Vakil said Brian Conrad had been reviewing it for months. Number theorists are wary because an earlier attempt by the same author did not survive scrutiny, and members of the Lean community have begun discussing whether to formalise it.",
+            "The Signal is produced with the help of Claude, the AI system involved in the first claim."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-23/riemann-hypothesis-claude-lean-proof.svg",
+        "alt": "A tall stack of code blocks beside a thick bound manuscript, with a magnifying glass between them: a machine-checked proof and a human-written proof both under examination.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Quanta Magazine",
+          "title": "A claimed proof of the Riemann hypothesis",
+          "url": "https://www.quantamagazine.org/update/168049/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Quanta Magazine",
+          "title": "As mathematicians race to verify AI Riemann proof, a human proof emerges",
+          "url": "https://www.quantamagazine.org/update/169054/",
+          "publishedAt": "2026-11-20",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ai-and-research",
+      "threadTitle": "AI & scientific research",
+      "threadSummary": "How AI systems are being used to make and check discoveries in mathematics and science."
+    },
+    {
+      "id": "ccw-autonomous-weapons-rules-2028",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "UN talks on AI-run weapons end with a two-year mandate to work on rules, but no move to negotiate a binding treaty",
+      "category": "Military AI",
+      "region": "Global",
+      "regions": [],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-16 / 2026-11-21",
+      "body": "The 128 countries that belong to the Convention on Certain Conventional Weapons agreed in Geneva on Saturday to elaborate a possible agreement on lethal autonomous weapons over the next two years, aiming at 2028. Nearly 100 states had pushed for swift negotiations on legally binding rules, but the United States, Russia and Israel opposed them, and the convention works by consensus. Some countries refused even the word negotiate. Campaigners called the mandate watered down.",
+      "whatChanged": "The review conference has ended with a mandate to keep working rather than to negotiate a treaty, pushing any binding rules on autonomous weapons to 2028 at the earliest.",
+      "whyMatters": "AI-guided weapons are already being used in current wars, and this forum is the main place where nearly all military powers discuss limits on them.",
+      "hook": "A modest procedural step: talks continue, but the main military powers blocked a push for binding rules on weapons that select targets without a human decision.",
+      "uncertainty": "The text of the mandate and how much it binds states to produce were not detailed in the reports we read, and it is unclear whether frustrated countries will pursue a treaty outside the convention.",
+      "watchNext": "Whether the nearly 100 states that wanted negotiations start a separate treaty process, as campaigners propose.",
+      "keyFacts": [
+        "128 states agreed on Saturday, November 21, to elaborate a possible accord over two years",
+        "Nearly 100 countries backed swift negotiation of legally binding rules",
+        "The United States, Russia and Israel opposed that push",
+        "UN Secretary-General António Guterres had called for clear prohibitions and restrictions",
+        "Decisions under the convention require consensus"
+      ],
+      "report": [
+        {
+          "heading": "What was agreed",
+          "paragraphs": [
+            "The seventh review conference of the Convention on Certain Conventional Weapons closed in Geneva on Saturday after talks on the final wording ran through the night. Its member states agreed to elaborate on a possible accord covering lethal autonomous weapons over the next two years. The Swiss diplomat chairing the conference said some countries had rejected the word negotiate, but called the result a significant step for humanitarian disarmament.",
+            "Nearly 100 countries had wanted to move quickly to legally binding rules. The United States, Russia and Israel opposed this, and because the convention decides by consensus, any one state can block a decision. Russian procedural objections forced some formal sessions to be cancelled."
+          ]
+        },
+        {
+          "heading": "Reaction",
+          "paragraphs": [
+            "Stop Killer Robots, a coalition of about 300 organisations, called the mandate watered down; its executive director, Nicole van Rooijen, said delay puts civilians at risk. Human Rights Watch called the outcome disappointing and said the technology is racing ahead.",
+            "When the conference opened on November 16, Guterres had urged delegates to agree a legally binding instrument with clear prohibitions and restrictions, and the UN human rights chief, Volker Türk, called for a ban on weapons that target people."
+          ]
+        },
+        {
+          "heading": "Background",
+          "paragraphs": [
+            "An expert group had already weakened its draft in September, removing prohibitions and replacing a reference to human control with softer language, Justice Info reported. In October, 163 states voted at the UN General Assembly to press ahead with the issue, and campaigners point to the treaties on landmines and cluster munitions, negotiated outside this forum, as a model."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-23/ccw-autonomous-weapons-rules-2028.svg",
+        "alt": "A military drone hovering above an hourglass with sand still running, reflecting UN talks that gave themselves until 2028 to work on rules for autonomous weapons.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "Al Jazeera (AFP)",
+          "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
+          "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit",
+          "publishedAt": "2026-11-21",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "UN News",
+          "title": "Guterres calls for a legally binding instrument for ‘killer robots’",
+          "url": "https://news.un.org/en/story/2026/11/1168810",
+          "publishedAt": "2026-11-16",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Justice Info",
+          "title": "Regulating ‘Killer Robots’: another missed opportunity?",
+          "url": "https://www.justiceinfo.net/en?p=168382",
+          "publishedAt": "2026-11-12",
+          "kind": "Analysis"
+        }
+      ],
+      "threadId": "ai-security-governance",
+      "threadTitle": "Governing advanced AI risks",
+      "threadSummary": "How governments are trying to set rules and oversight for the most capable AI systems."
+    },
+    {
+      "id": "ebola-congo-fighting-ituri",
+      "section": "still",
+      "title": "Fighting near an Ebola hospital in eastern Congo traps health workers for more than a day, as the country’s worst outbreak continues",
+      "category": "Global health",
+      "region": "Africa · DR Congo",
+      "regions": [
+        "africa"
+      ],
+      "status": "Still matters",
+      "eventDate": "2026-11-22",
+      "body": "Health workers sheltered in a hospital maternity ward in Congo’s Ituri province for more than 24 hours as fighting raged nearby, the head of the World Health Organization said on Sunday, adding that the best medicine is peace. The WHO is arranging a safe exit for the team. The outbreak, Congo’s largest and deadliest, had caused 5,678 deaths among 11,613 cases by November 17. The WHO says transmission remains high, although some areas show a slight decline.",
+      "whatChanged": "Conflict is now directly endangering the people fighting the outbreak, with a medical team pinned down by fighting in one of the worst-hit provinces.",
+      "whyMatters": "Ebola is controlled by tracing contacts, isolating patients and vaccinating, all of which depend on health workers being able to move safely; fighting makes each of those harder.",
+      "uncertainty": "The report we read does not say who was fighting near the hospital or whether anyone was hurt, and WHO case figures lag by several days.",
+      "watchNext": "Whether the WHO team is evacuated safely, and the next WHO update on case numbers in Ituri and North Kivu.",
+      "keyFacts": [
+        "Health workers sheltered for more than 24 hours in a hospital maternity ward in Ituri",
+        "WHO counted 5,678 deaths and 11,613 cases as of November 17",
+        "It is the largest and deadliest Ebola outbreak in Congo’s history",
+        "Ituri and North Kivu are the worst-affected provinces"
+      ],
+      "report": [
+        {
+          "heading": "What happened",
+          "paragraphs": [
+            "WHO Director-General Tedros Adhanom Ghebreyesus said on Sunday that heavy fighting near a hospital in Ituri had put patients and staff at grave risk. Health workers and partners took shelter in the maternity ward for more than a day, and the WHO said it was working to get the team out safely. Tedros said the best medicine is peace."
+          ]
+        },
+        {
+          "heading": "The state of the outbreak",
+          "paragraphs": [
+            "As of November 17 the WHO had recorded 11,613 cases and 5,678 deaths, making this Congo’s largest and deadliest Ebola outbreak. Ituri and North Kivu in the east are worst affected. A WHO statement on November 22 said some areas were showing a slight decline in new cases, but that transmission remains high overall."
+          ]
+        },
+        {
+          "heading": "Why the fighting matters",
+          "paragraphs": [
+            "Clashes between Congo’s army and the Rwanda-backed M23 rebels have disrupted deliveries of supplies, and earlier this month a group linked to the Islamic State raided villages in North Kivu, Al Jazeera reports. Every part of the response, from tracing the contacts of patients to running treatment centres, depends on medical teams being able to work in the affected areas.",
+            "On the same day, the presidents of Kenya and Congo, meeting in Oyo in the Republic of Congo to restore diplomatic ties, pledged to work together on preventing Ebola, according to China’s Xinhua news agency."
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+          "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "News.az (Xinhua)",
+          "title": "Kenya and DR Congo agree to restore diplomatic ties",
+          "url": "https://news.az/news/kenya-and-dr-congo-agree-to-restore-diplomatic-ties",
+          "publishedAt": "2026-11-23",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "ebola-east-africa",
+      "threadTitle": "Ebola outbreak in Africa",
+      "threadSummary": "The Bundibugyo Ebola outbreak declared in Congo in May 2026 and the effort to stop its spread."
+    }
+  ],
+  "watch": [
+    {
+      "title": "NATO’s answer to Poland",
+      "text": "The North Atlantic Council meets in Brussels on Monday, November 23, and Mark Rutte is expected to set out the results, including any new air defence measures for the eastern flank."
+    },
+    {
+      "title": "A shortened week on Wall Street",
+      "text": "US markets close on Thursday, November 26, for Thanksgiving and open for half a day on Friday, as investors test whether the rebound in futures holds."
+    },
+    {
+      "title": "Spain votes",
+      "text": "Spain holds its snap general election on Sunday, November 29; the ban on publishing polls begins on Tuesday, November 24."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Wall Street heads into Thanksgiving week after its worst week since April 2025, storms threaten holiday travel on both coasts, and Democrats push back against a new limit on what contractors can tell Congress.",
+      "briefs": [
+        {
+          "title": "Storms on both coasts threaten Thanksgiving travel",
+          "text": "AccuWeather expects a storm to form over the Gulf on Tuesday and spread rain, coastal flooding and possible power cuts from the Southeast to the Northeast and Midwest by Thanksgiving, with airport delays likely from Florida to Boston and Detroit. In the West, Fox Weather forecasts back-to-back Pacific storms from Tuesday bringing several feet of snow to the Sierra, Cascades and Rockies and a higher flood risk in California. Forecasters say details may change because the eastern storm had not yet formed.",
+          "eventDate": "2026-11-22",
+          "sources": [
+            {
+              "publisher": "AccuWeather",
+              "title": "Thanksgiving storm could snarl travel, upend plans in East, Central US",
+              "url": "https://www.accuweather.com/en/weather-forecasts/thanksgiving-storm-could-snarl-travel-upend-plans-in-east-central-us/1962508",
+              "publishedAt": "2026-11-22",
+              "kind": "Forecast"
+            },
+            {
+              "publisher": "FOX Weather",
+              "title": "Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays",
+              "url": "https://www.foxweather.com/weather-news/relentless-storm-train-takes-aim-west-coast-thanksgiving-travel-delays",
+              "publishedAt": "2026-11-22",
+              "kind": "Forecast"
+            }
+          ]
+        },
+        {
+          "title": "Democrats vow to fight Trump’s order on contractors and Congress",
+          "text": "President Trump’s order requiring federal contractors to consult the White House before answering congressional inquiries drew sharp criticism over the weekend. Representative Robert Garcia, the top Democrat on the Oversight Committee, called it a blatant attack on Congress’s power of oversight, and Democrats sent letters asking a dozen current and former officials to preserve records. No legal challenge had been filed in the reports we read.",
+          "eventDate": "2026-11-20 / 2026-11-21",
+          "sources": [
+            {
+              "publisher": "Associated Press (via Yahoo News)",
+              "title": "Trump orders federal contractors to check with White House before responding to Congress",
+              "url": "https://www.yahoo.com/news/politics/articles/trump-orders-federal-contractors-check-170716986.html",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Common Dreams",
+              "title": "As Democrats Pledge ‘Accountability,’ Trump Tries to Limit What Federal Contractors Can Tell Congress",
+              "url": "https://www.commondreams.org/news/trump-exec",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "latin-america": {
+      "summary": "Troops remain in Sinaloa after the capture of a most-wanted cartel leader, Brazil’s jailed former president is in intensive care, and Colombia’s government is in a social media fight with its predecessor.",
+      "briefs": [
+        {
+          "title": "Mexican troops stay in Sinaloa after the capture of ‘El Chapo Isidro’",
+          "text": "Mexico’s security secretary, Omar García Harfuch, said troops would remain deployed in Sinaloa after the operation that captured Fausto Isidro Meza Flores, in which four soldiers and seven alleged gunmen died. Meza Flores and two lieutenants were flown to Mexico City and handed to organised crime prosecutors, and US officials credited intelligence sharing. A tense calm has settled over Guasave, and no US extradition request had been reported.",
+          "eventDate": "2026-11-21 / 2026-11-22",
+          "sources": [
+            {
+              "publisher": "CBS News",
+              "title": "Mexico arrests drug kingpin on FBI’s 10 Most Wanted, sparking violence in Sinaloa",
+              "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "Al Jazeera (AP)",
+              "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+              "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Bolsonaro is in intensive care with a bowel obstruction",
+          "text": "Brazil’s former president Jair Bolsonaro, 71, was admitted to a hospital in Brasília on Friday with a bowel obstruction and was described on Saturday as clinically stable and conscious, with no date for discharge. He is serving a 27-year sentence for plotting a coup and has been under house arrest since March. His son Carlos said he might need another operation.",
+          "eventDate": "2026-11-20 / 2026-11-21",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+              "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Poland takes its finding that Russian cruise missiles crossed its territory to NATO, Russia tows its drone-hit ship home from Finland, and Spain enters the last week before its snap election.",
+      "briefs": [
+        {
+          "title": "Spain’s right keeps its lead a week before the snap election",
+          "text": "Most polls published before Spain’s November 29 election show the conservative People’s Party and the far-right Vox together above the 176 seats needed for a majority, though one pollster has the Socialists first and the right three seats short. Spain bans the publication of polls in the final five days of the campaign, starting on Tuesday, November 24. The only head-to-head debate between Pedro Sánchez and Alberto Núñez Feijóo, on November 19, drew more than ten million viewers.",
+          "eventDate": "2026-11-19 / 2026-11-23",
+          "sources": [
+            {
+              "publisher": "Brussels Signal",
+              "title": "Spain’s Right holds its majority in final poll one week before the election",
+              "url": "https://brusselssignal.eu/2026/11/spains-right-holds-its-majority-in-final-poll-one-week-before-the-election/",
+              "publishedAt": "2026-11-23",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "The Olive Press",
+              "title": "Political round-up: Apologies, chainsaws and corruption jibes as Spain enters the final week before pivotal snap election",
+              "url": "https://www.theolivepress.es/spain-news/2026/11/22/spain-election-debate-polls-roundup/",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "EU leaders clash over a proposed cut to the next long-term budget",
+          "text": "France called European Council President António Costa’s proposal for the 2028 to 2034 budget, which trims about ten per cent from the Commission’s draft, very disappointing and not a basis for agreement, especially on farm spending. Germany’s Friedrich Merz said the total was still too high, and Sweden said the 27 members were very far from a compromise. The Kyiv Independent reported that an internal Commission estimate puts interest on loans to Ukraine at 55.4 billion euros over the period.",
+          "eventDate": "2026-11-21 / 2026-11-23",
+          "sources": [
+            {
+              "publisher": "Democrata",
+              "title": "France, Germany, and Sweden press Costa over the EU budget",
+              "url": "https://www.democrata.es/en/international/france-rejects-costa-s-european-budget-while-germany-and-sweden-call-for-more-cuts/",
+              "publishedAt": "2026-11-21",
+              "kind": "Reporting"
+            },
+            {
+              "publisher": "The Kyiv Independent",
+              "title": "Exclusive: Ukraine aid expected to cost next EU budget 55 billion euros in interest payments alone",
+              "url": "https://kyivindependent.com/exclusive-ukraine-aid-expected-to-cost-next-eu-budget-55-billion-euros-in-interest-payments-alone/",
+              "publishedAt": "2026-11-23",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "Drones struck Sudan’s capital, Ukraine hit a Russian warship in Libya, and fighting endangered Ebola responders in eastern Congo, while Kenya and Congo agreed to restore full diplomatic ties.",
+      "briefs": [
+        {
+          "title": "A boat carrying mourners capsizes in Nigeria’s Bayelsa state",
+          "text": "A boat taking people to a funeral overturned at a river junction in the Southern Ijaw area, and the National Emergency Management Agency said 24 bodies had been recovered. Police said 24 people were rescued. Residents told Reuters there were at least 300 people on board, a figure police did not confirm; overcrowding and mechanical failure have been cited, and the boat’s manager is in custody.",
+          "eventDate": "2026-11-20 / 2026-11-21",
+          "sources": [
+            {
+              "publisher": "Al Jazeera (Reuters)",
+              "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+              "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Kenya and Congo agree to restore full diplomatic relations",
+          "text": "Presidents William Ruto and Félix Tshisekedi agreed at a meeting in Oyo, in the Republic of Congo, on Sunday to return their ambassadors and revive a joint cooperation commission, according to China’s Xinhua news agency. Relations had been strained since December 2023, when a rebel alliance that includes M23 was launched in Nairobi. The two leaders also pledged to work together against Ebola.",
+          "eventDate": "2026-11-22",
+          "sources": [
+            {
+              "publisher": "News.az (Xinhua)",
+              "title": "Kenya and DR Congo agree to restore diplomatic ties",
+              "url": "https://news.az/news/kenya-and-dr-congo-agree-to-restore-diplomatic-ties",
+              "publishedAt": "2026-11-23",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "Trump set a rough timetable for renewed strikes on Iran and Tehran vowed to fight the blockade, while Houthi missile fire at Saudi Arabia continued.",
+      "briefs": [
+        {
+          "title": "Saudi-led coalition intercepts a Houthi missile aimed at western Saudi Arabia",
+          "text": "The Saudi-led coalition said on Sunday it had intercepted a ballistic missile fired by the Houthis towards the kingdom’s western region, which is home to the Yanbu South oil terminal and the Jazan refinery. It is the latest in a series of Houthi attacks on Saudi territory this month.",
+          "eventDate": "2026-11-22",
+          "sources": [
+            {
+              "publisher": "The Times of Israel",
+              "title": "Liveblog: November 22, 2026",
+              "url": "https://www.timesofisrael.com/liveblog-november-22-2026/",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Israeli investigators find no evidence the election result was skewed",
+          "text": "Police and Shin Bet investigators told the chair of Israel’s Central Elections Committee, Justice Noam Sohlberg, that there was no suspicion the results were invalid, the news site Ynet reported. The Shin Bet chief had pushed for a tougher inquiry, but investigators found no evidence of skewed results in Arab municipalities. Coalition talks continue ahead of the December 6 deadline.",
+          "eventDate": "2026-11-22",
+          "sources": [
+            {
+              "publisher": "The Times of Israel",
+              "title": "Liveblog: November 22, 2026",
+              "url": "https://www.timesofisrael.com/liveblog-november-22-2026/",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "Markets in Seoul and Taipei took emergency steps as the AI share sell-off deepened, Bangladesh vowed to arrest Sheikh Hasina on her return, and a factory fire in Indonesia left dozens feared dead.",
+      "briefs": [
+        {
+          "title": "Japan’s ruling bloc demands a bigger five-year defence budget",
+          "text": "Lawmakers in Japan’s ruling coalition rejected a government plan to spend about 60 trillion yen on defence over the five years from 2027 and called for at least 70 trillion, Jiji Press reported. They argue that payments for equipment already bought in instalments, estimated by the defence ministry at 16.8 trillion yen, would eat into the budget. The government is revising its three main security documents by the end of the year.",
+          "eventDate": "2026-11-22",
+          "sources": [
+            {
+              "publisher": "Nippon.com (Jiji Press)",
+              "title": "Japan Ruling Bloc Demands Defense Spending of 70 T. Yen or More",
+              "url": "https://www.nippon.com/en/articles/-/57834",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "oceania": {
+      "summary": "Australia’s parliament opens its last sitting week of the year with Labor tied with One Nation in a new poll and under fire over COP31, where Chris Bowen led the talks.",
+      "briefs": [
+        {
+          "title": "Newspoll puts One Nation level with Labor in Australia",
+          "text": "A Newspoll published by The Australian on Sunday night put Labor and One Nation on 27 per cent each, with the Coalition on 22 and the Greens on 14. For the first time, opposition leader Angus Taylor led Anthony Albanese as preferred prime minister, by 42 to 41. Parliament began its final sitting week of the year on Monday with several government bills still needing support from the Greens or the Coalition.",
+          "eventDate": "2026-11-22 / 2026-11-23",
+          "sources": [
+            {
+              "publisher": "The Poll Bludger",
+              "title": "Newspoll: Labor 27, One Nation 27, Coalition 22 (open thread)",
+              "url": "https://www.pollbludger.net/2026/11/22/newspoll-labor-27-one-nation-27-coalition-22-open-thread/",
+              "publishedAt": "2026-11-22",
+              "kind": "Analysis"
+            },
+            {
+              "publisher": "ABC News (Australia)",
+              "title": "Federal politics: Shadow treasurer pledges to impose ‘speed limit’ on government spending — as it happened",
+              "url": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
+              "publishedAt": "2026-11-23",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Singapore’s prime minister arrives for annual talks with Australia",
+          "text": "Lawrence Wong began a three-day visit to Australia on Monday for the eleventh annual Singapore–Australia leaders’ meeting in Canberra and Sydney, flying in on Singapore Airlines’ first service to the new Western Sydney International airport. He is also due to meet opposition leader Angus Taylor and New South Wales Premier Chris Minns.",
+          "eventDate": "2026-11-23 / 2026-11-25",
+          "sources": [
+            {
+              "publisher": "Malay Mail (AsiaOne)",
+              "title": "Singapore PM to take SIA’s inaugural flight to Western Sydney International Airport for three-day visit to Australia",
+              "url": "https://www.malaymail.com/news/singapore/2026/11/22/singapore-pm-to-take-sias-inaugural-flight-to-western-sydney-international-airport-for-three-day-visit-to-australia/244353",
+              "publishedAt": "2026-11-22",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1114 @@
+{
+ "date": "2026-11-25",
+ "number": 38,
+ "cutoff": "2026-11-25T12:10:00Z",
+ "cutoffLabel": "6:10 AM CT",
+ "opening": "A US jury convicted Huawei of fraud, sanctions violations and trade-secret theft. Washington told Americans to leave Iran as Tehran tightened Hormuz, a drone wounded 11 at Riyadh’s tallest tower, Ukraine set two Russian refineries ablaze, and China opened an investigation into Shanghai’s party chief.",
+ "leadStoryId": "huawei-convicted-brooklyn",
+ "stories": [
+  {
+   "id": "huawei-convicted-brooklyn",
+   "section": "world",
+   "title": "A US jury convicts Huawei of bank fraud, breaking Iran sanctions and conspiring to steal trade secrets, but clears it of racketeering",
+   "category": "Courts and trade",
+   "region": "North America · United States",
+   "regions": [
+    "north-america",
+    "asia"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-24",
+   "body": "A federal jury in Brooklyn found China’s Huawei guilty on Tuesday on 10 of the 12 counts it faced, including bank fraud, wire fraud, violating US sanctions on Iran and conspiring to steal trade secrets from American companies. Jurors acquitted the company of racketeering conspiracy, the charge prosecutors used to portray it as a criminal enterprise, and of conspiring to obstruct justice. Judge Ann Donnelly set sentencing for September 14, 2027. Huawei’s lawyer said the company was disappointed and expected to appeal.",
+   "whatChanged": "A prosecution that began in 2018 has ended in a criminal conviction for one of China’s largest technology companies, after a trial of more than two months.",
+   "whyMatters": "Huawei is central to China’s telecoms networks and its push to build its own AI chips. A jury finding that it deceived banks over Iran and took American technology gives Washington a court judgment to point to in its long campaign against the company.",
+   "uncertainty": "No penalty has been set, and outlets differ on the details: some list money-laundering conspiracy among the convictions and others do not, and accounts of how long the jury deliberated vary. The reports we read carried no reaction from the Chinese government.",
+   "watchNext": "Post-trial motions, which one outlet expects from January, and the sentencing hearing on September 14, 2027.",
+   "keyFacts": [
+    "Convicted on 10 of 12 counts by a federal jury in Brooklyn on November 24",
+    "Acquitted of racketeering conspiracy and conspiracy to obstruct justice",
+    "Prosecutors called more than 60 witnesses; the defence called 15",
+    "Sentencing is set for September 14, 2027, before Judge Ann Donnelly",
+    "Huawei has been on a US trade blacklist since 2019"
+   ],
+   "report": [
+    {
+     "heading": "The verdict",
+     "paragraphs": [
+      "The jury returned its verdict after a trial that ran for more than two months. The counts on which Huawei was convicted cover bank and wire fraud, breaches of US sanctions on Iran and a conspiracy to steal trade secrets. Prosecutors argued that the company misled banks including HSBC about its ties to Skycom, a firm that did business in Iran.",
+      "On trade secrets, the jury heard evidence about technology taken from American firms, including video of a part from a T-Mobile testing robot being carried off in a backpack and an engineer photographing equipment at a Fujitsu stand at a trade show, the International Business Times reported. Jurors rejected the racketeering charge, which would have treated the company as a criminal enterprise."
+     ]
+    },
+    {
+     "heading": "The response",
+     "paragraphs": [
+      "Huawei welcomed the racketeering acquittal and rejected the remaining findings. In a statement it said the trade-secret disputes had been settled years ago as civil matters and that its success came from its own research spending. Its lawyer, Brian Heberlig, said the company expected to appeal, according to Reuters as cited by Vision Times. The US Attorney in Brooklyn, Joseph Nocella Jr., described the company’s conduct as a decades-long danger to American national security. No fine or forfeiture has been set."
+     ]
+    },
+    {
+     "heading": "How the case began",
+     "paragraphs": [
+      "The prosecution grew out of the December 2018 arrest in Canada, at Washington’s request, of Meng Wanzhou, Huawei’s finance chief and the daughter of its founder, Ren Zhengfei. She fought extradition for nearly three years before reaching a deferred prosecution agreement in 2021 in which she acknowledged misleading statements about the Iran business. The charges against her were later dropped and she returned to China; she did not testify at this trial. The United States put Huawei on a trade blacklist in 2019, and the company has since expanded into semiconductors and AI computing."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "The verdict, count by count",
+    "measure": "Counts against Huawei in the Brooklyn trial",
+    "unit": "counts",
+    "values": [
+     {
+      "label": "Convicted",
+      "value": 10
+     },
+     {
+      "label": "Acquitted",
+      "value": 2
+     }
+    ],
+    "alt": "Bar chart showing that Huawei was convicted on 10 counts and acquitted on 2, out of 12.",
+    "caption": "Jury verdict of November 24, 2026 · as reported by the International Business Times",
+    "sourceUrl": "https://www.yahoo.com/news/us/articles/huawei-found-guilty-major-us-225328401.html"
+   },
+   "sources": [
+    {
+     "publisher": "International Business Times (via Yahoo News)",
+     "title": "Huawei Found Guilty In Major US Corporate Espionage And Iran Sanctions Case. Chinese Tech Giant Convicted On 10 Charges.",
+     "url": "https://www.yahoo.com/news/us/articles/huawei-found-guilty-major-us-225328401.html",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "LB.ua (Reuters)",
+     "title": "US Court Finds Huawei Guilty of Fraud Over Iran Business",
+     "url": "https://en.lb.ua/news/2026/11/25/51410_us_court_finds_huawei_guilty.html",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Vision Times",
+     "title": "Huawei Found Guilty on 10 Counts in US Trial Over Fraud, Trade Secret Theft, and Sanctions",
+     "url": "https://www.visiontimes.com/2026/11/24/huawei-found-guilty-on-10-counts-in-us-trial-over-fraud-trade-secret-theft-and-sanctions.html",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Startup Fortune",
+     "title": "Huawei is convicted on 10 of 12 counts in Brooklyn but cleared of racketeering",
+     "url": "https://startupfortune.com/huawei-is-convicted-on-10-of-12-counts-in-brooklyn-but-cleared-of-racketeering/",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting and analysis"
+    }
+   ],
+   "threadId": "huawei-prosecution",
+   "threadTitle": "The US case against Huawei",
+   "threadSummary": "The US criminal prosecution of the Chinese technology company Huawei over bank fraud, Iran sanctions and the theft of trade secrets."
+  },
+  {
+   "id": "us-tells-americans-leave-iran",
+   "section": "world",
+   "title": "The United States tells its citizens to leave Iran immediately, as Iran’s military orders the Strait of Hormuz closed further",
+   "category": "War and diplomacy",
+   "region": "Middle East · Iran",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-23 / 2026-11-25",
+   "body": "In a security alert dated November 24, the US Virtual Embassy in Iran told Americans to leave the country immediately, warning that hostilities could escalate quickly and that Iran and its allies might target US citizens and companies in the region. On Monday Iran’s armed forces commander, Major General Amir Hatami, ordered the navy to tighten the closure of the Strait of Hormuz day by day until Tehran’s seven conditions are met. Qatar’s prime minister said his country was still working to bring the two sides closer.",
+   "whatChanged": "Washington is now urging its citizens out of Iran, while Iran’s military has formally ordered tighter restrictions on shipping through Hormuz.",
+   "whyMatters": "A departure warning from Washington and a harder squeeze on the strait together raise the risk that the blockade standoff turns back into open war, with direct consequences for Gulf shipping and oil supplies.",
+   "uncertainty": "We could not open the embassy’s alert and rely on Euronews’s account of it. Iran’s claims that tankers struck mines are unconfirmed, and Iranian accounts differ on whether two or three ships were hit. Officials have not said whether the alert reflects any decision on strikes.",
+   "watchNext": "Whether Qatar’s mediation produces a first step before the new year, when President Trump has said strikes could resume.",
+   "keyFacts": [
+    "The US alert tells citizens not to travel to Iran for any reason and to leave immediately",
+    "Hatami ordered Hormuz closed “further day by day” until Iran’s seven conditions are met",
+    "The Joint Maritime Information Centre counted 114 US-assisted passages through Hormuz from November 19 to 21",
+    "The US Treasury sanctioned 22 entities and eight people over Iranian shadow banking on November 23",
+    "Brent crude was about $88 a barrel on November 24, a three-month low"
+   ],
+   "report": [
+    {
+     "heading": "The warning",
+     "paragraphs": [
+      "According to Euronews, the alert warned that Iran, Yemen’s Houthis and other groups aligned with Tehran could target American interests, including companies and institutions, and that hostilities could escalate rapidly. It told citizens to prepare for flight cancellations and airspace closures, to expect sudden changes at land borders, and to avoid demonstrations. The United States has had no diplomatic relations with Iran since 1980, and Switzerland represents its interests in Tehran. Bahrain said Iranian attacks on Saturday wounded two people and set fire to an industrial site."
+     ]
+    },
+    {
+     "heading": "Iran’s terms",
+     "paragraphs": [
+      "Hatami said he was acting on the orders of the supreme leader, Ayatollah Mojtaba Khamenei, and warned that any new war would bring blows without geographical limits. The parliament speaker and chief negotiator, Mohammad Bagher Qalibaf, repeated that there would be no talks until Iran’s conditions were met; Gulf News reported that they include lifting the naval blockade and sanctions, releasing frozen funds, ending hostilities on all fronts and formally declaring the war over.",
+      "Iran’s Revolutionary Guards said three tankers struck mines, while the regular army spoke of two. The Joint Maritime Information Centre said the claims were unconfirmed. Britain’s maritime agency separately reported that a tanker was hit by an unknown projectile in the strait on November 22, with all crew accounted for."
+     ]
+    },
+    {
+     "heading": "Diplomacy and pressure",
+     "paragraphs": [
+      "Sheikh Mohammed bin Abdulrahman Al Thani, Qatar’s prime minister and foreign minister, told Al Jazeera that Qatar was working with both sides and that the region could not withstand more escalation, Iran International reported. He met Secretary of State Marco Rubio and Vice President JD Vance in Washington on Monday. The same day the Treasury added 22 entities and eight people to its sanctions list over an Iranian shadow-banking network, and the Wall Street Journal reported that US investigators are examining whether Iran was behind cyberattacks on up to 50 merchant ships, without having established responsibility."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Iran and the Strait of Hormuz",
+    "bounds": [
+     44,
+     22,
+     63,
+     40
+    ],
+    "countries": [
+     "364"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 51,
+      "lat": 27.3,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 59.5,
+      "lat": 24.2,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Iran, highlighted, with a marker at the Strait of Hormuz, where Iran has ordered tighter restrictions on shipping.",
+    "caption": "Iran highlighted · marker shows the Strait of Hormuz, approximate"
+   },
+   "locations": [
+    {
+     "label": "Strait of Hormuz",
+     "mapLabel": "Hormuz",
+     "lon": 56.4,
+     "lat": 26.5
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Euronews",
+     "title": "US tells citizens to leave Iran, warns hostilities could escalate fast",
+     "url": "https://www.euronews.com/2026/11/25/us-tells-citizens-to-leave-iran-warns-hostilities-could-escalate-fast",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "Iran orders Hormuz closed 'further day by day' as Qatar seeks to revive peace talks",
+     "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Iran International",
+     "title": "Qatar urges US and Iran to de-escalate, says efforts to revive talks continue",
+     "url": "https://www.iranintl.com/en/202611244147",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "Middle East conflict: Iran warns Hormuz ships, rules out US talks until 7 conditions met",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting (live blog)"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war between Iran and the United States and Israel, the US naval blockade, and attacks across the Gulf."
+  },
+  {
+   "id": "houthis-strike-riyadh-pif-tower",
+   "section": "world",
+   "title": "A drone hits Riyadh’s tallest tower for the second time in a week, wounding 11, as Yemen’s war reaches the Saudi capital",
+   "category": "Conflict",
+   "region": "Middle East · Saudi Arabia",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-19 / 2026-11-24",
+   "body": "A drone struck the tower in Riyadh’s financial district that houses the headquarters of Saudi Arabia’s Public Investment Fund on Tuesday, wounding at least 11 people, according to Saudi Civil Defense. The same building was hit on November 19, causing damage but no injuries. The Saudi-led coalition blamed Yemen’s Houthis and promised a decisive response. The Houthis have been firing at Saudi airports, oil facilities and office buildings since Yemen’s civil war reignited in July, while their forces have pushed back government troops on the ground.",
+   "whatChanged": "Attacks on the Saudi capital, which had caused damage, have now wounded people in the centre of Riyadh.",
+   "whyMatters": "The tower is a symbol of Saudi Arabia’s investment drive, and repeated strikes on it show how far the Yemen war, itself a knock-on of the US–Iran war, now reaches; most international flights to Riyadh have already been cancelled.",
+   "uncertainty": "The reports we read contained no Houthi claim for Tuesday’s strike, and the full extent of the damage is unknown. Casualty figures from coalition strikes in Yemen come from Houthi-run bodies and have not been independently verified.",
+   "watchNext": "The coalition’s promised response, and the fighting on the ground in southern Yemen, where a spokesman quoted by Gulf News placed Houthi forces about 60 kilometres from Aden.",
+   "keyFacts": [
+    "At least 11 people wounded, according to Saudi Civil Defense",
+    "The same tower was hit on November 19, causing damage but no injuries",
+    "Most international flights to Riyadh have been cancelled, Reuters reports",
+    "Saudi Arabia has postponed or cancelled major events, including football’s AFC Asian Cup"
+   ],
+   "report": [
+    {
+     "heading": "The attack",
+     "paragraphs": [
+      "Saudi Civil Defense reported the injuries and published a photograph of the tower showing damage about halfway up its facade, similar to that caused by the strike five days earlier. Reuters said it could not determine when the picture was taken. The coalition said later on Tuesday that a drone had been used and that it would respond decisively to the deliberate targeting of civilians. Saudi authorities called it a cowardly terrorist attack, Middle East Eye reported."
+     ]
+    },
+    {
+     "heading": "Reaction",
+     "paragraphs": [
+      "The United Arab Emirates condemned the strike as a flagrant violation of Saudi sovereignty, and Britain announced sanctions on the Houthi movement and four of its leading officials on the same day, according to Gulf News. The attacks have already disrupted life in the capital: most international flights have been cancelled, and major international events, including the AFC Asian Cup, have been postponed or cancelled."
+     ]
+    },
+    {
+     "heading": "The war in Yemen",
+     "paragraphs": [
+      "Yemen’s civil war reignited in July, which Reuters describes as a knock-on effect of the US–Iran war. The Houthis, who control much of the west of the country including Sanaa, have seized large areas, and government-aligned forces made a major retreat this month. The coalition has answered with widespread air strikes. The Houthis’ Saba news agency said a Saudi strike on buses and trucks in Lahj province left 25 people dead or missing; the figure could not be verified. Hundreds of thousands of people have been displaced since July."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Saudi Arabia and Yemen",
+    "bounds": [
+     34,
+     11,
+     60,
+     32
+    ],
+    "countries": [
+     "682",
+     "887"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 38.5,
+      "lat": 20.5,
+      "kind": "water"
+     },
+     {
+      "label": "Persian Gulf",
+      "lon": 51.5,
+      "lat": 27.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Saudi Arabia and Yemen, highlighted, with a marker at Riyadh’s financial district, where a drone hit the Public Investment Fund tower.",
+    "caption": "Saudi Arabia and Yemen highlighted for context · marker shows Riyadh, approximate"
+   },
+   "locations": [
+    {
+     "label": "Riyadh financial district",
+     "mapLabel": "Riyadh",
+     "lon": 46.64,
+     "lat": 24.76
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Reuters (via Yahoo News)",
+     "title": "Houthis hit Riyadh's tallest tower, 11 wounded, Saudi Civil defense says",
+     "url": "https://www.yahoo.com/news/world/articles/eleven-hurt-second-houthi-strike-164808701.html",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Middle East Eye",
+     "title": "Riyadh's landmark 'PIF Tower' struck in aerial attack for second time in five days",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadhs-landmark-pif-tower-struck-aerial-attack-second-time-five-days",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting (live blog)"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "Middle East conflict: Iran warns Hormuz ships, rules out US talks until 7 conditions met",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting (live blog)"
+    }
+   ],
+   "threadId": "yemen-war",
+   "threadTitle": "Yemen’s war",
+   "threadSummary": "The conflict between Yemen’s Houthi movement, the internationally recognised government and its Saudi-led backers, and its spread across the region."
+  },
+  {
+   "id": "ukraine-strikes-samara-refineries",
+   "section": "world",
+   "title": "Ukrainian drones set two Russian refineries ablaze in Samara, a day after Putin admitted the strikes are straining fuel supplies",
+   "category": "War",
+   "region": "Europe · Russia and Ukraine",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-24 / 2026-11-25",
+   "body": "Ukrainian drones hit Rosneft’s Syzran and Kuibyshev oil refineries in Russia’s Samara region overnight into Wednesday, starting fires at both, and one person was killed, the regional governor said. He said air defences shot down more than 145 drones. A day earlier, President Vladimir Putin told energy officials that the domestic fuel market remained difficult and urged companies to expand refining in Siberia and the Far East. In Ukraine, a Russian raid on Zaporizhzhia on Tuesday killed two people and wounded more than 40.",
+   "whatChanged": "Ukraine has struck two more large Russian refineries, and Putin has acknowledged in public that the campaign is hurting Russia’s fuel market.",
+   "whyMatters": "Ukraine is trying to choke the fuel supply and revenue behind Russia’s war. Putin’s comments show the campaign is now a real pressure point, and he says it continues despite a request from President Trump to stop.",
+   "uncertainty": "Damage at the plants has not been independently assessed, and reported strikes on a third refinery and a pipeline station are unconfirmed. Figures on Russia’s refining losses come from industry sources and analysts cited by Kyiv Post, not official data.",
+   "watchNext": "Whether Rosneft says how long the two plants will be out of action, and whether Russia steps up strikes on Ukraine’s power grid as winter sets in.",
+   "keyFacts": [
+    "Fires broke out at Rosneft’s Syzran and Kuibyshev refineries after the attack on the night of November 24 to 25",
+    "One person was killed, according to Samara governor Vyacheslav Fedorishchev",
+    "Russian refining volumes fell 45 per cent in the first three weeks of November, according to industry sources cited by Reuters",
+    "A Russian strike on Zaporizhzhia on November 24 killed two people and wounded more than 40"
+   ],
+   "report": [
+    {
+     "heading": "The strikes",
+     "paragraphs": [
+      "Governor Vyacheslav Fedorishchev reported the death and some power cuts, and said publishing photos or videos of the aftermath was banned. Footage shared by monitoring channels, and analysed by the independent Russian outlet Astra, showed fires at both plants, which belong to Rosneft. Militarnyi, citing an open-source analysis, said the Syzran strike hit the area of its main crude distillation and catalytic cracking units. The two refineries can process roughly 8.5 to 8.9 million and 7 million tonnes of crude a year, and both were damaged in September. Kyiv Post reported that residents complained the air-raid alert came about an hour after the attack began."
+     ]
+    },
+    {
+     "heading": "Putin’s account",
+     "paragraphs": [
+      "At a meeting on the fuel and energy sector on Tuesday, Putin said the domestic petroleum market remained difficult and called for more refining and petrochemicals in Russia’s east. He accused Kyiv of carrying on with the strikes despite what he described as a direct request from Trump to stop. The Institute for the Study of War said Putin had acknowledged that the campaign imposes a substantial financial burden on the state to keep fuel available and prices under control. Kyiv Post, citing Reuters, RAND and the analyst Sergey Vakulenko, reported that several large plants are offline or running well below capacity."
+     ]
+    },
+    {
+     "heading": "Attacks on Ukraine",
+     "paragraphs": [
+      "In Zaporizhzhia, a dawn Russian raid on Tuesday destroyed a house and damaged a five-storey apartment block, killing two people and wounding more than 40, including an infant, regional officials said. The day before, Kyiv said its naval drones had sunk the Russian corvette Merkury in the Libyan port of Benghazi. Poland’s military said a Russian drone briefly entered its airspace on Monday evening."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Samara’s refineries and Zaporizhzhia",
+    "bounds": [
+     28,
+     42,
+     54,
+     57
+    ],
+    "countries": [
+     "643",
+     "804"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Ukraine and western Russia with markers at Syzran and Samara, where two refineries were hit, and at Zaporizhzhia, where a Russian strike killed two people.",
+    "caption": "Ukraine and Russia highlighted for context · markers show approximate reporting locations"
+   },
+   "locations": [
+    {
+     "label": "Syzran refinery",
+     "mapLabel": "Syzran",
+     "lon": 48.47,
+     "lat": 53.16
+    },
+    {
+     "label": "Kuibyshev refinery, Samara",
+     "mapLabel": "Samara",
+     "lon": 50.15,
+     "lat": 53.2
+    },
+    {
+     "label": "Zaporizhzhia",
+     "lon": 35.14,
+     "lat": 47.84
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Meduza",
+     "title": "Ukrainian drones strike Russia's Samara region, killing one and setting two Rosneft oil refineries ablaze",
+     "url": "https://meduza.io/en/news/2026/11/25/ukrainian-drones-strike-russia-s-samara-region-killing-one-and-setting-two-rosneft-oil-refineries-ablaze",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Militarnyi",
+     "title": "Ukrainian Drones Strike Syzran and Kuibyshev Oil Refineries in Russia's Samara Region",
+     "url": "https://militarnyi.com/en/news/ukrainian-drones-strike-syzran-and-kuibyshev-oil-refineries-in-russia-s-samara-region/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Post (via KhanList)",
+     "title": "Ukrainian Drones Hit Two Major Oil Refineries in Samara as Putin Urges Oil Industry Shift East",
+     "url": "https://khanlist.com/story/ukrainian-drones-hit-two-major-oil-refineries-in-samara-as-7cf76fe8",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting (summary of Kyiv Post)"
+    },
+    {
+     "publisher": "Kyiv Post (ISW)",
+     "title": "ISW Russian Offensive Campaign Assessment, November 24, 2026",
+     "url": "https://www.kyivpost.com/post/91108",
+     "publishedAt": "2026-11-25",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "Al Jazeera",
+     "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+     "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security of Europe."
+  },
+  {
+   "id": "china-investigates-chen-jining",
+   "section": "world",
+   "title": "China puts Shanghai’s Communist Party chief, a Politburo member once tipped for promotion, under investigation",
+   "category": "Politics",
+   "region": "Asia · China",
+   "regions": [
+    "asia"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-24",
+   "body": "China’s top anti-corruption body is investigating Chen Jining, the Communist Party secretary of Shanghai and a member of the ruling Politburo, for serious violations of discipline and law, state media said on Tuesday. The phrase usually signals corruption, and no details were given. Chen, a former Beijing mayor, environment minister and president of Tsinghua University, has run Shanghai since 2022 and was widely seen as a candidate for higher office. A Eurasia Group analyst said he is the fourth Politburo member brought down in the current term.",
+   "whatChanged": "Xi Jinping’s anti-corruption campaign has reached the leader of China’s biggest city, less than a month after a party plenum stressed discipline and loyalty.",
+   "whyMatters": "Shanghai’s party chief is one of the most senior jobs in China, a post previously held by the current premier, Li Qiang. The probe comes as Xi prepares for next year’s party congress, where he is expected to secure a fourth term, and signals that no rank is protected.",
+   "uncertainty": "Authorities have made no specific allegation, and analysts quoted by the ABC and AP said it was unclear why Chen fell from favour.",
+   "watchNext": "Who is appointed to replace Chen in Shanghai, and whether the investigation leads to his expulsion from the party.",
+   "keyFacts": [
+    "State media announced the investigation by the Central Commission for Discipline Inspection on November 24",
+    "Chen has been Shanghai party secretary since 2022",
+    "He previously served as Beijing mayor, environment minister and president of Tsinghua University",
+    "Shanghai’s party committee said it firmly supported the decision"
+   ],
+   "report": [
+    {
+     "heading": "The announcement",
+     "paragraphs": [
+      "The state broadcaster CCTV reported on Tuesday that the Central Commission for Discipline Inspection had opened the investigation; the short statement gave no further details. Shanghai’s municipal government said the city’s party standing committee firmly supported the decision and that the fight against corruption would continue without pause, AP reported."
+     ]
+    },
+    {
+     "heading": "Who Chen is",
+     "paragraphs": [
+      "Chen led Tsinghua University before serving as environment minister and then, for five years, as mayor of Beijing. He became party secretary of Shanghai in 2022, succeeding Li Qiang, and in that role met foreign leaders and visiting delegations. He had been widely tipped for promotion to the party’s top leadership. Joseph Torigian of American University told AP that on paper Chen looked like an official Xi would value."
+     ]
+    },
+    {
+     "heading": "A widening purge",
+     "paragraphs": [
+      "Xi’s anti-corruption drive, now in its 14th year, has punished at least 7.9 million party members and officials, the ABC reported, citing a government report. Recent targets include Generals Zhang Youxia and He Weidong of the Central Military Commission and a provincial party secretary, Ma Xingrui. Mingda Qiu of Eurasia Group said Chen is the fourth sitting Politburo member to fall in this cycle. Steve Tsang of the SOAS China Institute told the ABC that the message to officials was to fear and obey, while Wen-Ti Sung of the Australian National University told AFP that no one is safe in Chinese politics today."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Shanghai, China",
+    "bounds": [
+     73,
+     17,
+     136,
+     54
+    ],
+    "countries": [
+     "156"
+    ],
+    "labels": [
+     {
+      "label": "East China Sea",
+      "lon": 126,
+      "lat": 28,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of China, highlighted, with a marker at Shanghai, whose party chief is under investigation.",
+    "caption": "China highlighted · marker shows Shanghai"
+   },
+   "locations": [
+    {
+     "label": "Shanghai",
+     "lon": 121.47,
+     "lat": 31.23
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "Key Chinese official Chen Jining under investigation in widening anti-corruption drive",
+     "url": "https://abc.net.au/news/2026-11-25/chinese-communist-party-leader-under-corruption-investigation/107423468",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "AP (via Arab News)",
+     "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+     "url": "https://www.arabnews.com/world/china-investigates-politburo-member-and-shanghai-party-chief-chen-jining-3013876",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "AP (via NPR and KPBS)",
+     "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+     "url": "https://www.kpbs.org/news/international/2026/11/25/china-investigates-politburo-member-and-shanghai-party-chief-chen-jining",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "china-party-politics",
+   "threadTitle": "China's Communist Party politics",
+   "threadSummary": "Leadership changes, purges and power struggles inside China’s ruling Communist Party."
+  },
+  {
+   "id": "us-tariffs-overcapacity-probe",
+   "section": "more",
+   "title": "The United States is reported to be preparing new tariffs on China, the European Union and 14 other economies",
+   "category": "Trade",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-24",
+   "whatChanged": "The Wall Street Journal reported that the trade representative could publish the findings of a months-long investigation into industrial overcapacity as soon as this week.",
+   "body": "The probe, opened in March under Section 301 of the Trade Act, covers 16 economies including the EU, China, Japan, South Korea, India, Mexico and Vietnam. According to the reports, the EU, Japan and South Korea would probably face rates of 15 per cent or less under earlier deals, China a higher rate, and steel, aluminium and cars would be excluded. The European Commission has said overcapacity does not originate in Europe and that it would respond proportionately if its deal with Washington were breached.",
+   "sources": [
+    {
+     "publisher": "Investing.com (via Yahoo Finance)",
+     "title": "White House prepares sweeping new tariffs on China, EU, and dozens of nations",
+     "url": "https://finance.yahoo.com/economy/policy/articles/white-house-prepares-sweeping-tariffs-135524943.html",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Brussels Signal",
+     "title": "US readies new tariffs on EU and China over 'overcapacity'",
+     "url": "https://brusselssignal.eu/2026/11/us-readies-new-tariffs-on-eu-and-china-over-overcapacity/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-tariffs",
+   "threadTitle": "America’s tariffs",
+   "threadSummary": "The tariffs the United States imposes on its trading partners, the legal fights over them and the responses abroad."
+  },
+  {
+   "id": "venezuela-debt-237-billion",
+   "section": "more",
+   "title": "Venezuela puts its debt at $237.5 billion, about two and a half times its economy, before a record restructuring",
+   "category": "Economy",
+   "region": "Latin America · Venezuela",
+   "regions": [
+    "latin-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-24",
+   "whatChanged": "The government published its first economic framework in years, giving the long-awaited tally of what it owes.",
+   "body": "The nearly 200-page document says public debt is in protracted default and unsustainable, and promises a comprehensive restructuring with all creditor groups. It counts $110.1 billion in bonds, including $45.9 billion of unpaid interest, and debts of $16.87 billion to China and $5.08 billion to Russia. It projects oil output rising to 2.9 million barrels a day by 2036. Venezuelan bonds rose on the news, Reuters reported, but investors are still waiting for a full analysis of how much debt the country can carry.",
+   "sources": [
+    {
+     "publisher": "Reuters (via GV Wire)",
+     "title": "Venezuela Unveils Long-Awaited Economic Framework, Puts Debt at $237.5 Billion",
+     "url": "https://gvwire.com/2026/11/24/venezuela-unveils-long-awaited-economic-framework-puts-debt-at-237-5-billion/",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Reuters (via NTD)",
+     "title": "Venezuela Reveals $237.5 Billion Debt Pile in Key Step Towards Restructuring",
+     "url": "https://www.ntd.com/venezuela-reveals-237-5-billion-debt-pile-in-key-step-towards-restructuring_1187326.html",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "venezuela-transition",
+   "threadTitle": "Venezuela after Maduro",
+   "threadSummary": "Venezuela’s political and economic transition after the capture of Nicolás Maduro in January 2026."
+  },
+  {
+   "id": "australia-digital-duty-of-care",
+   "section": "more",
+   "title": "Australia passes a law making tech platforms prevent foreseeable harms, with fines of up to 5 per cent of global revenue",
+   "category": "Tech regulation",
+   "region": "Oceania · Australia",
+   "regions": [
+    "oceania"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-25",
+   "whatChanged": "Parliament approved the Digital Duty of Care bill on Wednesday after the Labor government struck a deal with the Greens.",
+   "body": "Platforms will have to assess risks at least once a year, warn the regulator before risky design changes and let users switch off algorithmic feeds, and Australians gain the right to sue platforms that breach the duty. The existing industry codes will be replaced after a 12-month transition. The US ambassador, David Brat, said vaguely defined harms backed by large fines would push platforms to censor lawful speech; the opposition Coalition called the law a blank cheque for censorship, while the communications minister, Anika Wells, said it concerned what platforms do, not what users say.",
+   "sources": [
+    {
+     "publisher": "TIME",
+     "title": "What Australia's 'Digital Duty of Care' Law Means for Big Tech",
+     "url": "https://time.com/article/2026/11/25/australia-digital-duty-of-care-big-tech-fines-social-media-platforms-risks-harms-safety/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Australasian Lawyer",
+     "title": "Parliament passes Digital Duty of Care legislation",
+     "url": "https://www.thelawyermag.com/au/news/general/parliament-passes-digital-duty-of-care-legislation/598746",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "children-online-safety",
+   "threadTitle": "Children’s safety online",
+   "threadSummary": "Laws, lawsuits and company rules on how children and teenagers use social media and AI apps."
+  },
+  {
+   "id": "oregon-virginia-sue-spacex-grok",
+   "section": "more",
+   "title": "Oregon and Virginia sue SpaceX over sexual deepfakes made with its Grok AI, including images of children",
+   "category": "AI and the law",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-23",
+   "whatChanged": "Two state attorneys general filed separate consumer-protection suits on Monday against the company that now owns xAI and X.",
+   "body": "Virginia’s Jay Jones and Oregon’s Dan Rayfield allege that the company kept Grok’s image tools available after they were plainly being used to make nude and sexual images of real people, including children, while telling users they were protected. They want a court to stop the company profiting from the feature, order restitution and impose penalties. X Safety said users who made such images had deliberately broken its rules and that it acts against them.",
+   "sources": [
+    {
+     "publisher": "CyberScoop",
+     "title": "Virginia, Oregon hit SpaceX with fresh lawsuits over Grok-created CSAM",
+     "url": "https://cyberscoop.com/virginia-oregon-sue-spacex-grok-deepfakes/",
+     "publishedAt": "2026-11-23",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Engadget",
+     "title": "Two states sue SpaceX over sexually explicit Grok deepfakes",
+     "url": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/",
+     "publishedAt": "2026-11-23",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-accountability",
+   "threadTitle": "AI and the law",
+   "threadSummary": "Lawsuits, court rulings and legal disputes over the harms caused by AI systems."
+  },
+  {
+   "id": "sudan-rejects-ethiopia-talks",
+   "section": "more",
+   "title": "Sudan’s army-backed government rejects Ethiopia’s offer to host peace talks, accusing it of helping the RSF",
+   "category": "Diplomacy",
+   "region": "Africa · Sudan",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-24 / 2026-11-25",
+   "whatChanged": "A day after Prime Minister Abiy Ahmed invited Sudan’s military, political and civilian groups to talks in Ethiopia, the government in Port Sudan turned the offer down.",
+   "body": "In a statement carried by the state news agency, the government said Ethiopia was not neutral, accused it of supporting the Rapid Support Forces and of letting drones be launched from its territory, and asked the African Union to exclude it from mediation. The RSF-led rival administration and a civilian coalition led by former prime minister Abdalla Hamdok welcomed the offer. Ethiopia denies the accusations, and the two countries closed each other’s border consulates earlier this month, Radio Tamazuj reported.",
+   "sources": [
+    {
+     "publisher": "Radio Tamazuj",
+     "title": "Sudan divided over Ethiopia's offer to host peace talks",
+     "url": "https://www.radiotamazuj.org/en/news/article/sudan-divided-over-ethiopias-offer-to-host-peace-talks",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "sudan-war-humanitarian-crisis",
+   "threadTitle": "Sudan’s war and humanitarian crisis",
+   "threadSummary": "The war between Sudan’s army and the Rapid Support Forces, and the humanitarian emergency it has caused."
+  },
+  {
+   "id": "malaysia-returns-myanmar-nationals",
+   "section": "more",
+   "title": "Malaysia will send another 6,803 people back to Myanmar in December, a week after the world court’s genocide ruling",
+   "category": "Migration",
+   "region": "Asia · Malaysia and Myanmar",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-24",
+   "whatChanged": "Prime Minister Anwar Ibrahim told parliament on Tuesday that the returns would go ahead, by navy ship and by air.",
+   "body": "Anwar said Malaysia respected the International Court of Justice’s finding that Myanmar committed genocide against the Rohingya, but would keep working with Myanmar’s military leaders. He said resettlement in third countries had failed and Malaysia, which hosts nearly 200,000 refugees from Myanmar, could not carry the burden indefinitely. About 1,500 people are due to sail on December 6 and 7 and the rest to fly. Anwar said Malaysia had a guarantee of safe return; the report we read did not say how many of those being sent back are Rohingya.",
+   "sources": [
+    {
+     "publisher": "AP (via Deccan Chronicle)",
+     "title": "Malaysia to Deport 6,803 More Myanmar Nationals Despite ICJ Genocide Ruling",
+     "url": "https://www.deccanchronicle.com/world/malaysia-to-deport-6803-more-myanmar-nationals-despite-icj-genocide-ruling-2007495",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "rohingya-justice",
+   "threadTitle": "Justice for the Rohingya",
+   "threadSummary": "Legal efforts to hold Myanmar to account for violence against the Rohingya, and the fate of Rohingya refugees."
+  },
+  {
+   "id": "deepmind-agents-quantum-algorithms",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Teams of AI agents find cheaper versions of quantum algorithms, each one checked by a mathematical proof",
+   "category": "AI and science",
+   "region": "Global",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-23",
+   "body": "Google DeepMind and Google Quantum AI say teams of Gemini 4 agents improved several known quantum algorithms, with every result proven correct in the Lean proof assistant before it counted. The best gains included an 11.8-fold cut in the estimated cost of a circuit for simulating fusion, an eightfold saving for a light-sensitive molecule and a 290-fold speedup in one arithmetic routine. The company says running these algorithms would still need more computing power than the first error-corrected quantum computers are likely to have.",
+   "whatChanged": "Google published the results and an accompanying paper, and is releasing its formal library and the verified solutions.",
+   "whyMatters": "Quantum computers will only be useful if their programs become cheaper, and pairing AI search with machine-checked proofs is a way to find savings without trusting the AI’s word.",
+   "hook": "A useful method rather than a breakthrough: real savings on paper, formally proven, for machines that do not yet exist at the scale needed.",
+   "uncertainty": "The work has not been peer reviewed, and the figures in the blog and the paper differ slightly, for example 11.8 against 10.9 for the fusion circuit. The authors note the gains depend on how each problem was specified, and some loopholes in specifications had to be closed during the work.",
+   "watchNext": "Whether outside researchers use the released library to confirm or extend the results.",
+   "keyFacts": [
+    "Fusion-simulation circuit cost cut 11.8 times, with memory reduced from 5,650 to 4,338 error-corrected qubits, according to Google",
+    "A cytochrome P450 simulation became 2.5 times cheaper",
+    "An arcsine routine was sped up about 290 times",
+    "Every result was verified in Lean before being accepted"
+   ],
+   "report": [
+    {
+     "heading": "What Google did",
+     "paragraphs": [
+      "Separate teams of agents worked on each problem and could only add an idea to a shared notebook once it had been proven in Lean. The teams met in a virtual conference every four hours to swap approaches. An external checker compared each submission against a fixed formal specification of the task, so a program counted only if it provably did what was asked at the stated cost."
+     ]
+    },
+    {
+     "heading": "The results",
+     "paragraphs": [
+      "According to the DeepMind blog, the agents cut the estimated cost of a circuit for studying fusion by 11.8 times, made a photochemistry simulation eight times cheaper and improved a simulation of the drug-metabolising enzyme cytochrome P450 by 2.5 times. A version of Grover’s search algorithm ran 2.57 times faster and an arcsine routine about 290 times faster. The accompanying paper reports slightly different figures, including 10.9 times for the fusion circuit and up to 2.55 times for parallel search."
+     ]
+    },
+    {
+     "heading": "The limits",
+     "paragraphs": [
+      "These are savings in estimated resources, not runs on real hardware. The blog says the improved algorithms would still need more resources than the first error-corrected machines are likely to provide. The arcsine routine can be simulated on ordinary computers, which made it easier to search. The paper notes that results depend on how each specification is written. The blog says the library, problem specifications and solutions are being published openly, which would let others check the claims."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-25/deepmind-agents-quantum-algorithms.svg",
+    "alt": "A long quantum circuit with many gates above a much shorter circuit, joined by an arrow, with a copper tick: a cheaper quantum program that has been formally checked.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Google DeepMind",
+     "title": "Finding faster quantum algorithms with agents and formal verification",
+     "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+     "publishedAt": "2026-11-23",
+     "kind": "Company announcement"
+    },
+    {
+     "publisher": "arXiv",
+     "title": "Discovering formally verified quantum programs with AI",
+     "url": "https://arxiv.org/pdf/2611.09822",
+     "publishedAt": "2026-11",
+     "kind": "Preprint"
+    },
+    {
+     "publisher": "Quantum Zeitgeist",
+     "title": "Google DeepMind's agents may shrink quantum circuits for fusion and drug design",
+     "url": "https://quantumzeitgeist.com/google-quantum-circuits-fusion-deepmind-agents/",
+     "publishedAt": "2026-11-23",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ai-and-research",
+   "threadTitle": "AI & scientific research",
+   "threadSummary": "How AI systems are being used to make and check discoveries in mathematics and science."
+  },
+  {
+   "id": "shenzhou-24-pakistani-astronaut",
+   "section": "frontiers",
+   "field": "Space",
+   "title": "China’s Shenzhou 24 carries Pakistan’s first astronaut to the Tiangong space station, its first foreign crew member",
+   "category": "Human spaceflight",
+   "region": "Asia · China and Pakistan",
+   "regions": [
+    "asia"
+   ],
+   "status": "Research result",
+   "eventDate": "2026-11-25",
+   "body": "Shenzhou 24 lifted off from the Jiuquan launch centre on Wednesday morning carrying Muhammad Zeeshan Ali, 40, of Pakistan, with Chinese astronauts Tang Hongbo, 51, and Wu Yi, 39. The crew later entered the Tiangong station and joined the three Shenzhou 23 astronauts. It is the first joint flight of Chinese and foreign astronauts in China’s crewed programme, under a 2025 agreement with Pakistan. Ali will stay briefly, run an experiment on photosynthetic cyanobacteria and return aboard Shenzhou 23.",
+   "whatChanged": "For the first time, China has flown an astronaut from another country to its space station.",
+   "whyMatters": "Opening Tiangong to foreign crew lets China offer partners an alternative to the US-led International Space Station, and gives Pakistan its first person in orbit.",
+   "hook": "A diplomatic milestone more than a scientific one: China’s station now hosts foreign astronauts, starting with its closest partner.",
+   "uncertainty": "The reports we read did not give the exact length of Ali’s stay or the docking time. The scientific value of the short mission’s experiments is not yet known.",
+   "watchNext": "Ali’s return aboard Shenzhou 23, and whether China announces flights for astronauts from other countries.",
+   "keyFacts": [
+    "Launched from Jiuquan on November 25 with Muhammad Zeeshan Ali, Tang Hongbo and Wu Yi",
+    "Ali is the first foreign astronaut to visit Tiangong",
+    "Tang is the first astronaut to board Tiangong three times, according to CCTV",
+    "The crew plans more than 90 experiments and technology tests, according to Xinhua"
+   ],
+   "report": [
+    {
+     "heading": "The flight",
+     "paragraphs": [
+      "The spacecraft separated from its rocket and entered its planned orbit after the morning launch from north-western China, AP reported. The three new arrivals then entered Tiangong and posed for photographs with the Shenzhou 23 crew. For Ali and Wu it is a first spaceflight; Tang has flown twice before and, according to CCTV, is now the first astronaut to board Tiangong three times. Ali, who speaks Mandarin, recited a line of Chinese poetry before the launch and said the sky was no longer a limit but a launching pad."
+     ]
+    },
+    {
+     "heading": "The partnership",
+     "paragraphs": [
+      "The mission stems from an agreement signed by China and Pakistan in February 2025. Presidents Xi Jinping and Asif Ali Zardari exchanged congratulatory letters, and Xi described the station as a vessel for peace and cooperation, according to CCTV. Pakistan’s prime minister, Shehbaz Sharif, called it the journey of 240 million Pakistanis, and the planning minister, Ahsan Iqbal, said Pakistan would one day send astronauts on its own."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Ali will return to Earth on the Shenzhou 23 spacecraft after a short stay; the crew as a whole plans more than 90 experiments and technology tests. China is preparing for its first crewed Moon landing by 2030, while NASA aims to land astronauts on the Moon in 2028, AP noted."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-25/shenzhou-24-pakistani-astronaut.svg",
+    "alt": "A crew capsule approaching a space station module with solar panels, above the curve of the Earth: Shenzhou 24 arriving at the Tiangong station.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "AP (via ABC News)",
+     "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut",
+     "url": "https://abcnews.com/Technology/wireStory/china-launches-shenzhou-24-spacecraft-carrying-2-chinese-138427131",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "AP (via The Irish News)",
+     "title": "China launches Shenzhou 24 carrying first Pakistani astronaut to space station",
+     "url": "https://www.irishnews.com/news/world/china-launches-shenzhou-24-carrying-first-pakistani-astronaut-to-space-station-BEXUD667JJKLRHKJYLQW5EXQPA/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "china-space-programme",
+   "threadTitle": "China’s space programme",
+   "threadSummary": "China’s crewed spaceflights, its Tiangong space station and its plans for the Moon."
+  },
+  {
+   "id": "nhs-edith-ai-breast-screening",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "England starts recruiting nearly 700,000 women for the largest trial yet of AI in breast cancer screening",
+   "category": "Clinical trial",
+   "region": "Europe · United Kingdom",
+   "regions": [],
+   "status": "Research result",
+   "eventDate": "2026-11-23",
+   "body": "The NHS has begun enrolling women in EDITH, a three-year trial at 30 sites that will test whether one radiologist working with an AI tool can safely read some mammograms that two specialists read today. The first participants joined at Addenbrooke’s Hospital in Cambridge. Every scan will still be read by at least one person, and the NHS says it will adopt AI only if the evidence shows it is at least as safe and effective as the current system. The trial is funded by the National Institute for Health and Care Research.",
+   "whatChanged": "A trial announced in February 2025 has moved from planning to recruitment.",
+   "whyMatters": "Breast screening depends on the time of specialist readers. A trial this large, run inside routine screening, should show whether AI can ease that pressure without missing cancers.",
+   "hook": "The right kind of test: a large trial that will measure safety in real screening, rather than another accuracy claim on old scans.",
+   "uncertainty": "There are no results yet. Reports give the funding as both £10 million and £11 million, and the AI tools to be used were not named in the reports we read.",
+   "watchNext": "Which further hospitals join in the coming months, and any interim safety findings.",
+   "keyFacts": [
+    "Nearly 700,000 women across 30 sites over three years",
+    "Today each mammogram is read by two specialists; the trial tests one reader plus AI for some scans",
+    "Fewer than 1 per cent of mammograms show cancer",
+    "Led by the universities of Cambridge and Warwick with Cambridge University Hospitals and NHS England"
+   ],
+   "report": [
+    {
+     "heading": "The trial",
+     "paragraphs": [
+      "EDITH, short for Early Detection using Information Technology in Health, is led by researchers at the universities of Cambridge and Warwick and Cambridge University Hospitals, working with NHS England. Women invited for routine screening receive information about the trial with their appointment and can opt out. More centres will join over the coming months, The European reported."
+     ]
+    },
+    {
+     "heading": "What it tests",
+     "paragraphs": [
+      "In England each mammogram is currently read by two specialists. The trial will test whether, for some scans, one radiologist supported by an AI tool can do the same job, freeing time in a stretched service. Because fewer than 1 per cent of mammograms show cancer, much of the reading time is spent on normal scans. Professor Fiona Gilbert said the trial would examine whether the tool helps experts review images more efficiently. NHS England is also building a platform, costing about £6 million, for future AI screening studies."
+     ]
+    },
+    {
+     "heading": "Context",
+     "paragraphs": [
+      "When the trial was announced in February 2025, the University of Warwick said the UK records about 55,000 breast cancer diagnoses a year and carries out about 2.1 million screens. The NHS has said it will only adopt AI in screening if the trial shows it is at least as safe and effective as the current system."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-25/nhs-edith-ai-breast-screening.svg",
+    "alt": "A mammogram on a lightbox under a copper magnifying glass, with a computer chip beside it: AI helping a radiologist read breast screening images.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "The European",
+     "title": "NHS begins world's biggest AI breast cancer screening trial involving 700,000 women",
+     "url": "https://the-european.eu/story-69631/nhs-begins-worlds-biggest-ai-breast-cancer-screening-trial-involving-700000-women.html",
+     "publishedAt": "2026-11-23",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "University of Warwick",
+     "title": "Warwick Professor to lead cutting-edge trial using AI to catch breast cancer early",
+     "url": "https://warwick.ac.uk/newsandevents/pressreleases/warwick-professor-to-lead-cutting-edge-trial-using-ai-to-catch-breast-cancer-early",
+     "publishedAt": "2025-02",
+     "kind": "Primary (background)"
+    }
+   ],
+   "threadId": "ai-in-cancer-screening",
+   "threadTitle": "AI in cancer screening",
+   "threadSummary": "Trials testing whether AI tools can help doctors find cancers earlier in screening programmes."
+  },
+  {
+   "id": "ebola-ituri-responders-evacuated",
+   "section": "still",
+   "title": "Ebola responders trapped by fighting in Congo are evacuated after three days, as the outbreak nears 12,000 cases",
+   "category": "Global health",
+   "region": "Africa · DR Congo",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-21 / 2026-11-24",
+   "body": "Staff from the World Health Organization, Congo’s health ministry and partners left a hospital in Akwe, in Ituri province, on Tuesday after sheltering from fighting for three days, WHO chief Tedros Adhanom Ghebreyesus said. The WHO has temporarily moved an Ebola team out of the area. The outbreak of the Bundibugyo strain, which has no approved vaccine, had reached 11,762 confirmed cases and 5,775 deaths. Gavi has agreed to buy up to 1.5 million doses of an experimental vaccine if trials succeed.",
+   "whatChanged": "The trapped health workers are out, but insecurity has forced the WHO to pull a team back from part of the worst-hit province.",
+   "whyMatters": "Ebola is stopped by tracing contacts and isolating patients, work that depends on teams moving safely; the Africa CDC says only 11 per cent of confirmed cases came from known contact lists, against a target of 95 per cent.",
+   "uncertainty": "Accounts differ on who was fighting: The Telegraph, citing RFI, said the clashes were between the army and a group led by Thomas Lubanga. Official case figures lag events by several days.",
+   "watchNext": "When the WHO team can return, and the start of vaccine trials in Ituri.",
+   "keyFacts": [
+    "11,762 confirmed cases and 5,775 deaths, the latest WHO figures cited by AFP",
+    "Responders sheltered in a maternity ward in Akwe for three days before leaving on November 24",
+    "Gavi committed to buy up to 1.5 million doses of the ChAdOx1 candidate vaccine if it is approved",
+    "Nearly six in ten women and girls surveyed in Ituri said violence or abuse began or increased since the outbreak"
+   ],
+   "report": [
+    {
+     "heading": "The evacuation",
+     "paragraphs": [
+      "Fighting broke out on Saturday near the area where the outbreak was first detected in May, and responders took shelter in a maternity ward. A WHO spokesman said on Tuesday morning that conflict and heavy rain had prevented a safe move the day before. Later that day Tedros said the staff had been evacuated under very challenging circumstances and that a team had been relocated until the situation calms, AFP reported. The Telegraph said at least 10 people were killed in the recent clashes."
+     ]
+    },
+    {
+     "heading": "Vaccines and the response",
+     "paragraphs": [
+      "There is no approved vaccine or treatment for the Bundibugyo strain. Two candidates, the ChAdOx1 vaccine and Moderna’s mRNA-1469, are due to be tested in Ituri, and Gavi has signed an advance commitment with the Serum Institute of India to buy up to 1.5 million doses if the shot proves effective and is approved. An Africa CDC update cited by The Telegraph found that only 11 per cent of confirmed cases came from people already on contact lists."
+     ]
+    },
+    {
+     "heading": "The wider toll",
+     "paragraphs": [
+      "A UNICEF-backed survey of 1,062 women and adolescent girls in five Ituri health zones, published on Tuesday, found that nearly six in ten said violence or abuse had started or increased since the outbreak began, UN News reported. Visits to safe spaces run by the local group SOFEPADI roughly tripled between the first and third quarters of the year."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "AFP (via Arab News)",
+     "title": "WHO chief says staff evacuated from DR Congo hospital",
+     "url": "https://www.arabnews.com/world/who-chief-says-staff-evacuated-from-dr-congo-hospital-3013939",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Telegraph (via Yahoo News)",
+     "title": "Trapped Ebola health workers rescued after three days of fighting in Congo",
+     "url": "https://www.yahoo.com/news/world/articles/trapped-ebola-health-workers-rescued-161837971.html",
+     "publishedAt": "2026-11-24",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "UN News",
+     "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+     "url": "https://news.un.org/en/story/2026/11/1168865",
+     "publishedAt": "2026-11-24",
+     "kind": "Primary"
+    }
+   ],
+   "threadId": "ebola-east-africa",
+   "threadTitle": "Ebola outbreak in Africa",
+   "threadSummary": "The Bundibugyo Ebola outbreak declared in Congo in May 2026 and the effort to stop its spread."
+  }
+ ],
+ "watch": [
+  {
+   "title": "America’s tariff findings",
+   "text": "The US trade representative could publish the findings of the overcapacity investigation into 16 economies as soon as this week, according to the Wall Street Journal."
+  },
+  {
+   "title": "A ruling in Mexico",
+   "text": "On Saturday, November 28, a federal judge decides whether Fausto Isidro Meza Flores and two alleged associates will stand trial."
+  },
+  {
+   "title": "Spain votes",
+   "text": "Spain holds its snap general election on Sunday, November 29."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "A Brooklyn jury convicts Huawei on most charges, Washington is reported to be readying new tariffs on 16 economies, and two states sue SpaceX over Grok deepfakes.",
+   "briefs": []
+  },
+  "latin-america": {
+   "summary": "Venezuela publishes its debt tally of $237.5 billion ahead of what would be the largest sovereign restructuring on record.",
+   "briefs": []
+  },
+  "europe": {
+   "summary": "Ukrainian drones set two Russian refineries on fire as Putin acknowledges the strain on fuel supplies, and Hungary’s new prime minister visits Ukraine.",
+   "briefs": [
+    {
+     "title": "Hungary’s Magyar meets Zelenskyy in Ukraine, breaking with the Orbán era",
+     "text": "Hungarian Prime Minister Péter Magyar met President Volodymyr Zelenskyy in Uzhhorod, in western Ukraine, on Tuesday, and both called the talks substantive. Magyar brought medical equipment, medicines and generators worth about 1 billion forints, while stressing that Hungary will not send weapons or troops. Euronews reported that Hungary had dropped its objections to the last two groups of Ukraine’s EU accession talks.",
+     "eventDate": "2026-11-24",
+     "sources": [
+      {
+       "publisher": "Euronews",
+       "title": "Peter Magyar and Volodymyr Zelenskyy open new chapter in Ukraine-Hungary relations",
+       "url": "https://www.euronews.com/2026/11/25/peter-magyar-and-volodymyr-zelenskyy-open-new-chapter-in-ukraine-hungary-relations",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "Euronews",
+       "title": "Hungary's Magyar meets Zelenskyy in Ukraine in sharp break with Orban era",
+       "url": "https://www.euronews.com/2026/11/24/hungarys-magyar-meets-zelenskyy-in-ukraine-in-sharp-break-with-orban-era",
+       "publishedAt": "2026-11-24",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Ebola responders are evacuated from a besieged hospital in Congo, Sudan’s government rejects Ethiopia as a mediator, and a court restores Senegal’s football title.",
+   "briefs": [
+    {
+     "title": "Sport’s highest court restores Senegal as Africa Cup of Nations champions",
+     "text": "The Court of Arbitration for Sport on Tuesday overturned a ruling by an African football confederation appeals panel that had awarded the 2025 title to Morocco after Senegal briefly walked off in protest during the final. The court said the rule on refusing to play applies only when a team’s conduct makes the referee abandon the match, and that the referee was right to restart it. Senegal had won the January final 1–0 after extra time.",
+     "eventDate": "2026-11-24",
+     "sources": [
+      {
+       "publisher": "AP (via ESPN)",
+       "title": "Senegal reinstated as Africa Cup of Nations winners over Morocco by CAS ruling",
+       "url": "https://www.espn.com/soccer/story/_/id/50582074/senegal-africa-cup-nations-morocco-cas",
+       "publishedAt": "2026-11-24",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Washington tells Americans to leave Iran as Tehran orders tighter limits on Hormuz, and a drone wounds 11 at Riyadh’s tallest tower.",
+   "briefs": [
+    {
+     "title": "Israeli strike in Gaza kills Hamas’s internal security chief",
+     "text": "Israel’s military and Shin Bet said on Tuesday that an air strike in Gaza had killed Naim Abu Nahal, director of Hamas’s internal security, Gulf News reported. The same report said Israeli strikes that day killed seven people in total. A ceasefire has formally been in place since last year.",
+     "eventDate": "2026-11-24",
+     "sources": [
+      {
+       "publisher": "Gulf News",
+       "title": "Middle East conflict: Iran warns Hormuz ships, rules out US talks until 7 conditions met",
+       "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+       "publishedAt": "2026-11-24",
+       "kind": "Reporting (live blog)"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "China opens an investigation into Shanghai’s party chief, Shenzhou 24 carries Pakistan’s first astronaut to orbit, and Malaysia presses ahead with returns to Myanmar.",
+   "briefs": []
+  },
+  "oceania": {
+   "summary": "Australia passes a sweeping online safety law over objections from the US ambassador and the opposition.",
+   "briefs": []
+  }
+ }
+}

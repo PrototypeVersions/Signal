@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Two different capsules above a simple outline of the stomach and intestine">
+<rect width="800" height="500" fill="#09131d"/>
+<g transform="translate(300 110) rotate(-25)"><rect x="-70" y="-26" width="140" height="52" rx="26" fill="#d8e6f0"/><path d="M0 -26 H44 A26 26 0 0 1 44 26 H0 Z" fill="#b87333"/></g>
+<g transform="translate(500 110) rotate(25)"><rect x="-70" y="-26" width="140" height="52" rx="26" fill="#7fa6c4"/><path d="M0 -26 H44 A26 26 0 0 1 44 26 H0 Z" fill="#5d7387"/></g>
+<path d="M330 210 Q300 230 310 280 Q320 340 400 340 Q470 340 480 290 Q490 240 450 225" fill="#12263a" stroke="#7fa6c4" stroke-width="6"/>
+<path d="M470 300 Q560 320 540 380 Q520 430 420 420 Q320 410 300 450" fill="none" stroke="#5d7387" stroke-width="10" stroke-linecap="round"/>
+<circle cx="380" cy="300" r="14" fill="#b87333"/>
+</svg>

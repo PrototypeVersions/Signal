@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A small round implant beneath a curved outline of the skull">
+<rect width="800" height="500" fill="#09131d"/>
+<path d="M200 430 Q190 120 400 90 Q610 120 600 430" fill="none" stroke="#7fa6c4" stroke-width="6"/>
+<path d="M240 420 Q235 160 400 135 Q565 160 560 420" fill="#12263a" stroke="#5d7387" stroke-width="3"/>
+<path d="M300 260 Q350 220 400 250 Q450 220 500 260 M290 320 Q345 290 400 315 Q455 290 510 320" fill="none" stroke="#5d7387" stroke-width="3" opacity="0.7"/>
+<circle cx="400" cy="112" r="26" fill="#b87333"/>
+<circle cx="400" cy="112" r="14" fill="#09131d" stroke="#d8e6f0" stroke-width="3"/>
+<path d="M400 138 Q390 170 380 200 M400 138 Q405 175 410 205 M400 138 Q420 168 432 196" fill="none" stroke="#d8e6f0" stroke-width="2" opacity="0.8"/>
+</svg>

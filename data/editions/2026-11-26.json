@@ -1,0 +1,1432 @@
+{
+ "date": "2026-11-26",
+ "number": 39,
+ "cutoff": "2026-11-26T13:00:00Z",
+ "cutoffLabel": "7:00 AM CT",
+ "opening": "Washington proposed tariffs of up to 35 per cent on 14 economies including China and the EU. Drone debris killed two Italians in Kuwait as more tankers were hit near Hormuz, Kim Jong Un ordered wider tactical nuclear deployment, and EU leaders met on funding for Ukraine.",
+ "leadStoryId": "us-tariffs-overcapacity-probe",
+ "note": "This edition was published around midday Central time, later than usual. It reflects reporting up to about 7 AM.",
+ "stories": [
+  {
+   "id": "us-tariffs-overcapacity-probe",
+   "section": "world",
+   "title": "The United States proposes new tariffs of up to 35 per cent on 14 economies, from China and the EU to Vietnam and India",
+   "category": "Trade",
+   "region": "North America · United States",
+   "regions": [
+    "north-america",
+    "asia"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-25",
+   "body": "The US trade representative said on Wednesday that 14 economies have trade practices that create excess industrial capacity and can be punished under Section 301 of US trade law. The proposed ceilings are 15 per cent for the European Union, Japan, South Korea, Switzerland and Taiwan, 20 per cent for China and Singapore, 25 per cent for India and 35 per cent for Vietnam. Mexico and Norway, also investigated, were spared for now. Public comments are due on January 5 and hearings begin on January 25.",
+   "whatChanged": "The tariffs reported as imminent on Tuesday are now a formal proposal, with named rates, two economies left out and a timetable that runs into late January.",
+   "whyMatters": "It would rebuild much of the tariff wall that the Supreme Court struck down in February, on a different legal footing, and hit most of America’s biggest suppliers at once.",
+   "uncertainty": "No start date has been set, and the published rates are ceilings: several countries could pay less under existing or future deals. The trade representative gave no reason for deferring Mexico and Norway. China has not said what measures it might take.",
+   "watchNext": "The comment deadline of January 5 and the hearings from January 25, and whether China responds before the US-China trade truce expires on January 10.",
+   "keyFacts": [
+    "14 of the 16 economies investigated were found to have actionable practices; Mexico and Norway were deferred",
+    "Proposed ceilings range from 15 per cent for the EU to 35 per cent for Vietnam",
+    "The duties would not stack on existing sector tariffs on steel, aluminium, cars and other goods",
+    "The investigations, opened on March 11, drew about 1,070 written comments",
+    "Comments are due January 5, 2027, with hearings from January 25"
+   ],
+   "report": [
+    {
+     "heading": "What Washington proposed",
+     "paragraphs": [
+      "The trade representative’s office published findings in 14 of the 16 investigations into structural excess capacity that it opened in March, weeks after the Supreme Court struck down tariffs imposed under emergency powers. The economies found to be at fault are China, the European Union, Japan, South Korea, Taiwan, Switzerland, Singapore, India, Vietnam, Indonesia, Malaysia, Thailand, Cambodia and Bangladesh. It made no determination on Mexico or Norway at this stage.",
+      "The rates are stated as maximums. The EU would face 15 per cent on top of its normal duties, and Japan, Korea, Switzerland and Taiwan up to 15 per cent. Five Southeast and South Asian economies face up to 18 per cent. China faces up to 20 per cent on most goods, 10 per cent on one list and nothing on another; the office said it had taken account of the rate agreed with Beijing in Kuala Lumpur in October 2025. India could pay 17 per cent instead of 25, and Vietnam 20 instead of 35, under trade deals."
+     ]
+    },
+    {
+     "heading": "Limits and timetable",
+     "paragraphs": [
+      "According to a trade-law analysis by Thompson Coburn and wire reports carried by RTÉ, the new duties would not be added to existing sector tariffs on goods such as steel, aluminium, copper, cars and semiconductors, and would stay inside the caps written into existing deals. A US official told Reuters implementation could come no earlier than January."
+     ]
+    },
+    {
+     "heading": "Reactions",
+     "paragraphs": [
+      "A European Commission spokesperson said the EU would study the findings but rejected the idea that Europe is a source of structural overcapacity, and said its 15 per cent cap must be respected in full. China’s commerce ministry said on Thursday that it firmly opposed the move, called it unilateral and reserved the right to take necessary measures, according to SBS. The trade representative, Jamieson Greer, told CNBC that China understood there would be some level of tariffs."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Proposed tariff ceilings",
+    "measure": "Maximum proposed additional tariff under Section 301",
+    "unit": "per cent",
+    "values": [
+     {
+      "label": "European Union",
+      "value": 15
+     },
+     {
+      "label": "China",
+      "value": 20
+     },
+     {
+      "label": "India",
+      "value": 25
+     },
+     {
+      "label": "Vietnam",
+      "value": 35
+     }
+    ],
+    "alt": "Bar chart of proposed maximum tariff rates: 15 per cent for the European Union, 20 for China, 25 for India and 35 for Vietnam.",
+    "caption": "Proposed ceilings announced November 25, 2026; China’s 20 per cent applies to goods outside its two annexes · US Trade Representative",
+    "sourceUrl": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+   },
+   "sources": [
+    {
+     "publisher": "Office of the US Trade Representative",
+     "title": "USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+     "publishedAt": "2026-11-25",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "RTÉ (AFP and Reuters)",
+     "title": "US proposes new tariffs on trading partners, including EU",
+     "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "US proposes new tariffs on 14 major trading partners, the EU included",
+     "url": "https://www.euronews.com/2026/11/25/us-proposes-new-tariffs-on-14-major-trading-partners-the-eu-included",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Thompson Coburn",
+     "title": "USTR finds structural excess capacity practices in 14 economies, proposes new Section 301 tariffs",
+     "url": "https://www.thompsoncoburn.com/insights/90-november-25-2026-ustr-finds-structural-excess-capacity-practices-in-14-economies-proposes-new-section-301-tariffs-from-15-25/",
+     "publishedAt": "2026-11-25",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "SBS (Korea)",
+     "title": "China Strongly Opposes US Additional Tariffs, Vows to Defend Legitimate Rights",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008865600",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TRT World",
+     "title": "US mulls fresh tariffs over 'excess production'; EU rejects 'premise'",
+     "url": "https://www.trtworld.com/article/86f0b74a5858",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-tariffs",
+   "threadTitle": "America’s tariffs",
+   "threadSummary": "The tariffs the United States imposes on its trading partners, the legal fights over them and the responses abroad."
+  },
+  {
+   "id": "kuwait-drones-italians-killed-hormuz",
+   "section": "world",
+   "title": "Drone debris kills two Italian technicians in Kuwait, which blames Iran, as two more tankers are hit near Hormuz",
+   "category": "War and diplomacy",
+   "region": "Middle East · Kuwait and the Strait of Hormuz",
+   "regions": [
+    "middle-east",
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-25 / 2026-11-26",
+   "body": "Kuwait’s defence ministry said it shot down Iranian drones on Thursday and that falling debris killed two Italian technicians and wounded a Kuwaiti and a Pakistani at a vital site. Italy said the men worked for Rheinmetall Italia at an air-defence station. Iran’s military denied carrying out any attacks. Britain’s maritime agency reported two tankers struck by unknown projectiles, one east of Oman and one west of Dubai, with all crews safe; Iran’s Revolutionary Guards said two tankers hit mines. Iran’s foreign minister said talks continue through Qatar and Pakistan.",
+   "whatChanged": "Foreign workers have now been killed in a Gulf state, two more ships have been hit, and Iran says ideas for a deal are still passing through Qatari and Pakistani hands.",
+   "whyMatters": "Deaths of European civilians in Kuwait widen the circle of countries with a direct stake in the standoff, while every new tanker incident adds to the risk premium on Gulf oil.",
+   "uncertainty": "Iran denies sending the drones, and Kuwait has not published evidence. Accounts of the tanker incidents conflict on cause and place, and the ships were not named. It is unclear what proposals the mediators are carrying.",
+   "watchNext": "Whether Italy or the European Union responds to the deaths, and whether Qatar or Pakistan convenes a new round of contacts before the new year.",
+   "keyFacts": [
+    "Two Italian technicians employed by Rheinmetall Italia were killed in Kuwait on November 26",
+    "Kuwait says it was the second Iranian drone attack on its territory this month, after November 17",
+    "Britain’s maritime agency reported two tankers hit, one about 93 km west of Dubai",
+    "Brent crude was $93.79 a barrel on Thursday morning, after a sharp rise the day before"
+   ],
+   "report": [
+    {
+     "heading": "The attack on Kuwait",
+     "paragraphs": [
+      "Kuwait’s defence ministry described the strike as Iranian aggression and said its air defences brought the drones down over a sensitive site. Italy’s foreign minister, Antonio Tajani, said the two men killed were technicians at an air-defence surveillance station, and Prime Minister Giorgia Meloni sent condolences. The secretary-general of the Gulf Cooperation Council condemned the attack. Iranian state media quoted the military as saying it had carried out no offensive operations in the region, and a spokesman blamed Israeli and American false-flag operations, according to Al Jazeera."
+     ]
+    },
+    {
+     "heading": "Ships in the strait",
+     "paragraphs": [
+      "Britain’s maritime trade agency said one tanker was hit on Wednesday afternoon east of Oman and another early on Thursday west of Dubai. The Revolutionary Guards said two tankers using an unauthorised route struck sea mines north of Oman’s Khasab and caught fire, and Tasnim said one was a supertanker carrying more than 2 million barrels. Reuters noted that maritime agencies usually report fewer incidents than the Guards claim, and the Associated Press could not verify the mine claim. A Guards spokesman said the force was using heavy firepower to keep the strait closed as pressure on the US economy."
+     ]
+    },
+    {
+     "heading": "Talks and markets",
+     "paragraphs": [
+      "Foreign Minister Abbas Araghchi told state television that Iran had not abandoned negotiations, that Qatar and Pakistan were relaying proposals Tehran was reviewing, and that showing sanctions and the blockade to be ineffective mattered more for now, TASS reported. Brent crude eased to $93.79 on Thursday morning after jumping in the previous session, the Oman Observer reported."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Kuwait and the Strait of Hormuz",
+    "bounds": [
+     44,
+     22,
+     61,
+     32
+    ],
+    "countries": [
+     "414",
+     "364"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 51,
+      "lat": 27.3,
+      "kind": "water"
+     },
+     {
+      "label": "Gulf of Oman",
+      "lon": 58.8,
+      "lat": 24.0,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Gulf with Kuwait and Iran highlighted, and markers at Kuwait, where drone debris killed two Italians, and at the Strait of Hormuz, where tankers were hit.",
+    "caption": "Kuwait and Iran highlighted · markers are approximate; the exact site in Kuwait was not disclosed"
+   },
+   "locations": [
+    {
+     "label": "Kuwait",
+     "lon": 47.98,
+     "lat": 29.37
+    },
+    {
+     "label": "Strait of Hormuz",
+     "mapLabel": "Hormuz",
+     "lon": 56.4,
+     "lat": 26.5
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Two Italians killed by 'drone strike debris' in Kuwait",
+     "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Business Recorder (Reuters)",
+     "title": "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman's Khasab",
+     "url": "https://www.brecorder.com/news/40450865/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Associated Press (via Audacy)",
+     "title": "Israeli strikes kill 10 in Gaza, and other Mideast news",
+     "url": "https://www.audacy.com/wwl/news/world/gaza-iran-israel-uae-hormuz-november-26-2026-522676f17532b878878ff7a4347d0e31",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TASS",
+     "title": "Proving futility of sanctions against Iran is more important than talks — foreign minister",
+     "url": "https://tass.com/world/2225507",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Oman Observer",
+     "title": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships",
+     "url": "https://www.omanobserver.om/article/1200248/business/oil-prices-fall-as-supply-concerns-linger-after-iran-claims-mine-strikes-on-ships",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war between Iran and the United States and Israel, the US naval blockade, and attacks across the Gulf."
+  },
+  {
+   "id": "north-korea-tactical-nuclear-expansion",
+   "section": "world",
+   "title": "Kim Jong Un tours uranium plants and orders tactical nuclear weapons deployed more widely, calling the task urgent",
+   "category": "Nuclear weapons",
+   "region": "Asia · North Korea",
+   "regions": [
+    "asia"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-25 / 2026-11-26",
+   "body": "North Korea’s state news agency said Kim Jong Un visited two factories producing nuclear material, one new and one being enlarged, as well as a nuclear research institute. He said production capacity was being expanded steadily and that deploying tactical nuclear weapons in more areas and for more missions was important and urgent. Kim called the country’s nuclear status irreversible and said any attempt to undermine it would amount to a declaration of war. South Korea said it takes the remarks seriously.",
+   "whatChanged": "A week after President Trump sought a meeting during his Asia trip, Kim answered with a public tour of uranium sites and an order to spread battlefield nuclear weapons more widely.",
+   "whyMatters": "More fissile material and more forward-deployed nuclear weapons would shorten warning times on the Korean peninsula and make any future arms talks harder.",
+   "uncertainty": "State media did not say where the sites are. Photos appeared to show uranium centrifuges, but output cannot be checked independently. Estimates of the arsenal, put by Seoul at 80 to 120 warheads, are uncertain.",
+   "watchNext": "North Korea’s year-end party meeting, which often sets weapons goals for the coming year, and any further missile tests.",
+   "keyFacts": [
+    "Kim visited two nuclear-material plants, a nuclear-powered equipment base and a research institute",
+    "He called wider tactical nuclear deployment important and urgent",
+    "Kim said any challenge to North Korea’s nuclear status would be a declaration of war",
+    "South Korea estimates the North has 80 to 120 warheads"
+   ],
+   "report": [
+    {
+     "heading": "What state media reported",
+     "paragraphs": [
+      "The Korean Central News Agency said on Thursday that Kim had inspected sites producing nuclear material, one recently opened and one under expansion, plus a base making nuclear-powered equipment and a research institute. The Associated Press said photographs released with the report appeared to show centrifuges used to enrich uranium to weapons grade. According to the JoongAng Daily, Kim said the North was systematically expanding production capacity and that tactical nuclear weapons should be deployed in diverse areas for various missions, pointing to the border with what he called the most dangerous hostile country.",
+      "He said the country did not need anyone’s recognition of its status and that undermining its constitutional position as a nuclear state would be a declaration of war. He also accused Washington of fuelling proliferation by encouraging allies to acquire nuclear-powered submarines."
+     ]
+    },
+    {
+     "heading": "Response and context",
+     "paragraphs": [
+      "South Korea’s defence ministry said it was maintaining readiness with the United States. President Trump sought talks with Kim during his trip to China and the APEC summit last week, but no meeting took place; Trump told the New York Post there would be a time when they meet. Al Jazeera noted that the North fired about 10 short-range missiles in October after a row over a landmine blast in the demilitarised zone. The head of the International Atomic Energy Agency has said the enrichment plant at Yongbyon is being expanded."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "The Korean peninsula",
+    "bounds": [
+     123,
+     33,
+     132,
+     43.5
+    ],
+    "countries": [
+     "408",
+     "410"
+    ],
+    "labels": [
+     {
+      "label": "Sea of Japan",
+      "lon": 131,
+      "lat": 39.5,
+      "kind": "water"
+     },
+     {
+      "label": "Yellow Sea",
+      "lon": 124,
+      "lat": 36.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the Korean peninsula with North and South Korea highlighted and a marker at Pyongyang. The plants Kim visited were not located by state media.",
+    "caption": "North and South Korea highlighted · marker shows Pyongyang; site locations were not disclosed"
+   },
+   "locations": [
+    {
+     "label": "Pyongyang",
+     "lon": 125.75,
+     "lat": 39.03
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Associated Press (via CP24)",
+     "title": "North Korea's Kim Jong Un vows to build more nuclear weapons after ignoring Trump's overture",
+     "url": "https://cp24.com/news/world/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Korea JoongAng Daily",
+     "title": "Kim Jong-un inspects North Korean nuclear sites, calls for expanded tactical nuclear weapons use",
+     "url": "https://www.koreajoongangdaily.com/korea/norths-kim-inspects-nuclear-material-sites-calls-for-broader-use-of-tactical-nukes/12991741",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera (Reuters)",
+     "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+     "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "north-korea-nuclear-programme",
+   "threadTitle": "North Korea’s nuclear programme",
+   "threadSummary": "North Korea’s production of nuclear material and weapons, and the international response."
+  },
+  {
+   "id": "eu-summit-ukraine-budget-loan",
+   "section": "world",
+   "title": "EU leaders open a two-day summit on a new €45 billion loan for Ukraine and the bloc’s next seven-year budget",
+   "category": "Diplomacy and finance",
+   "region": "Europe · Belgium",
+   "regions": [
+    "europe"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-26 / 2026-11-27",
+   "body": "European Union leaders meet in Brussels on Thursday and Friday to discuss a budget for 2028 to 2034 that includes €100 billion for Ukraine, and a separate €45 billion loan for 2027 that the European Commission would raise on capital markets. Diplomats expect conclusions from the summit chair, António Costa, but a final deal more likely next month. Germany’s chancellor has threatened to block the budget without a joint commitment to Ukraine, while four central European members oppose EU money for weapons.",
+   "whatChanged": "The haggling moves from ambassadors to leaders, with Germany tying the budget to Ukraine and France warning that a delay into January could push a deal past its April election.",
+   "whyMatters": "Ukraine faces a funding gap for 2027 that former European leaders put at €70 billion, and the summit shows whether Europe can fill it as US support becomes less certain.",
+   "uncertainty": "No outcome is expected before Friday. Reports differ on how firmly Hungary’s new government opposes military aid. The size of interest costs, put by the Commission at €55.4 billion, is disputed by Italy and Bulgaria.",
+   "watchNext": "Costa’s conclusions on Friday, November 27, and the December summit where diplomats expect a decision.",
+   "keyFacts": [
+    "The proposed 2028–34 budget includes €100 billion for Ukraine over seven years",
+    "The new 2027 loan would total €45 billion: €20 billion for the economy and €25 billion for defence",
+    "Costa’s draft cuts about 10 per cent from the Commission’s plan and adds a digital services tax",
+    "Germany, Austria, the Netherlands and Sweden oppose paying more into the budget"
+   ],
+   "report": [
+    {
+     "heading": "What is on the table",
+     "paragraphs": [
+      "According to the Associated Press, the budget under discussion would equal between 1 and 1.2 per cent of the bloc’s gross national income. Costa’s compromise trims about a tenth from the Commission’s proposal and adds an EU digital services tax expected to raise €5 billion a year. Separately, the Commission would borrow €45 billion to cover 2027, split between Ukraine’s economy and its armed forces. A €90 billion loan agreed earlier covers most of Ukraine’s needs for two years."
+     ]
+    },
+    {
+     "heading": "The divisions",
+     "paragraphs": [
+      "Chancellor Friedrich Merz wrote to Costa that helping Ukraine was a matter of indivisible European security and that he could block a deal without a collective commitment. Germany, Austria, the Netherlands and Sweden want to avoid larger contributions, and Bulgaria, Czechia, Hungary and Slovakia object to EU funds paying for weapons, the AP reported. The Kyiv Independent, citing diplomatic notes, said Estonia called €100 billion an absolute minimum, that Hungary, Czechia and Slovakia opted out of the earlier loan and that Bulgaria is expected to stay out of the new one. France warned that if talks slip into January, a deal before its presidential election in April would not be possible."
+     ]
+    },
+    {
+     "heading": "Pressure from outside",
+     "paragraphs": [
+      "More than 100 former leaders and officials, including Josep Borrell, Enrico Letta and Dalia Grybauskaitė, urged the EU on Wednesday to close Ukraine’s 2027 gap and to use €210 billion in frozen Russian assets, Ukrinform reported."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Brussels and Ukraine",
+    "bounds": [
+     -5,
+     43,
+     41,
+     57
+    ],
+    "countries": [
+     "056",
+     "804"
+    ],
+    "labels": [
+     {
+      "label": "Black Sea",
+      "lon": 34,
+      "lat": 43.6,
+      "kind": "water"
+     },
+     {
+      "label": "North Sea",
+      "lon": 3,
+      "lat": 55.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Europe with Belgium and Ukraine highlighted and a marker at Brussels, where EU leaders are meeting on funding for Ukraine.",
+    "caption": "Belgium and Ukraine highlighted · marker shows Brussels"
+   },
+   "locations": [
+    {
+     "label": "Brussels",
+     "lon": 4.35,
+     "lat": 50.85
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Associated Press (via ABC News)",
+     "title": "EU leaders seek to bridge differences and agree on a budget deal and a new loan for Ukraine",
+     "url": "https://abcnews.com/International/wireStory/eu-leaders-seek-bridge-differences-agree-budget-deal-138463077",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Independent",
+     "title": "Days before key summit, EU countries want to help Ukraine, but can't agree on how",
+     "url": "https://kyivindependent.com/days-before-key-summit-eu-countries-want-to-help-ukraine-but-cant-agree-on-how/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Ukrinform",
+     "title": "Former European leaders urge EU to make long-term commitments to Ukraine",
+     "url": "https://www.ukrinform.net/rubric-polytics/4188675-former-european-leaders-urge-eu-to-make-longterm-commitments-to-ukraine.html",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security of Europe."
+  },
+  {
+   "id": "houthis-ras-tanura-refinery",
+   "section": "world",
+   "title": "The Houthis say they attacked Saudi Arabia’s largest refinery at Ras Tanura, and satellite images show a wide plume of smoke",
+   "category": "War",
+   "region": "Middle East · Saudi Arabia",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25",
+   "body": "The Saudi-led coalition said its air defences destroyed four drones over Ras Tanura, on the Gulf coast, on Wednesday, without saying whether the refinery was hit. Footage appeared to show smoke rising from the site, and Reuters said NASA and Planet Labs images showed smoke over about 600 square kilometres. The Houthis’ military spokesman said the attack started fires and claimed a further strike on Riyadh’s financial district. Ras Tanura can refine about 550,000 barrels a day, about a sixth of Saudi capacity.",
+   "whatChanged": "A day after a second strike on Riyadh’s tallest tower wounded 11, the Houthis turned to the heart of Saudi oil infrastructure.",
+   "whyMatters": "Ras Tanura is also one of the world’s largest crude export terminals, so damage there would matter for oil supply far beyond Yemen’s war.",
+   "uncertainty": "Neither Saudi Arabia nor Aramco has confirmed damage or any effect on output, and Aramco did not respond to Reuters. The Houthi claim of significant damage in Riyadh has not been confirmed.",
+   "watchNext": "Whether Aramco reports any disruption at Ras Tanura, and whether Saudi strikes on Sanaa intensify.",
+   "keyFacts": [
+    "The coalition said four drones were destroyed over Ras Tanura on November 25",
+    "Satellite images showed smoke over about 600 square kilometres, Reuters reported",
+    "Ras Tanura refines about 550,000 barrels a day, roughly 16 per cent of Saudi capacity",
+    "More than 364,000 Yemenis have been displaced since August, according to the UN"
+   ],
+   "report": [
+    {
+     "heading": "The attack",
+     "paragraphs": [
+      "The National reported that the coalition announced the interception of four drones over the Eastern Province town, while video circulating online appeared to show smoke from the refinery. Houthi spokesman Yahya Saree said the operation caused fires and described a three-phase attack on Riyadh’s financial district. Reuters, reported by Al-Monitor, said satellite imagery from NASA and Planet Labs showed a smoke plume covering about 600 square kilometres; Aramco and the Saudi government did not respond to requests for comment."
+     ]
+    },
+    {
+     "heading": "Why the site matters",
+     "paragraphs": [
+      "Besides its refinery, Ras Tanura’s terminal can load about 6.5 million barrels of crude a day, according to The National. The complex was struck by Iranian drones in March, and the Houthis claimed a missile attack on it in October. On Tuesday, Saudi civil defence said 11 people were wounded when the tower housing the Public Investment Fund in Riyadh was hit for the second time in under a week.",
+      "The first strike on the tower, on November 19, caused no injuries, according to Saudi civil defence. Reuters said Aramco and the Saudi government had not commented on the state of the refinery by the time of its report."
+     ]
+    },
+    {
+     "heading": "In Yemen",
+     "paragraphs": [
+      "Overnight strikes were reported in Sanaa, which Houthi media blamed on Saudi Arabia; the Associated Press could not verify that. The UN’s humanitarian chief, Tom Fletcher, said more than 364,000 people had been displaced in Yemen since August and urged the Houthis to release detained UN staff."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Ras Tanura and Riyadh",
+    "bounds": [
+     34,
+     11,
+     60,
+     32
+    ],
+    "countries": [
+     "682",
+     "887"
+    ],
+    "labels": [
+     {
+      "label": "Red Sea",
+      "lon": 38.5,
+      "lat": 20.5,
+      "kind": "water"
+     },
+     {
+      "label": "Persian Gulf",
+      "lon": 52,
+      "lat": 27.6,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Saudi Arabia and Yemen, highlighted, with markers at Ras Tanura on the Gulf coast, where the Houthis claim to have attacked the refinery, and at Riyadh.",
+    "caption": "Saudi Arabia and Yemen highlighted · markers show Ras Tanura and Riyadh, approximate"
+   },
+   "locations": [
+    {
+     "label": "Ras Tanura",
+     "lon": 50.16,
+     "lat": 26.64
+    },
+    {
+     "label": "Riyadh",
+     "lon": 46.72,
+     "lat": 24.71
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The National",
+     "title": "Saudi defences destroy drones in Ras Tanura as footage shows smoke from refinery",
+     "url": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al-Monitor (Reuters)",
+     "title": "Yemen's Houthis claim attack on Saudi Arabia's largest refinery",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-claim-attack-saudi-arabias-largest-refinery",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Associated Press (via Audacy)",
+     "title": "Israeli strikes kill 10 in Gaza, and other Mideast news",
+     "url": "https://www.audacy.com/wwl/news/world/gaza-iran-israel-uae-hormuz-november-26-2026-522676f17532b878878ff7a4347d0e31",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "ABC News",
+     "title": "Iran live updates",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting (live blog)"
+    }
+   ],
+   "threadId": "yemen-war",
+   "threadTitle": "Yemen’s war",
+   "threadSummary": "The conflict between Yemen’s Houthi movement, the internationally recognised government and its Saudi-led backers, and its spread across the region."
+  },
+  {
+   "id": "us-brazil-aircraft-sugar-tariffs",
+   "section": "more",
+   "title": "Washington proposes a 10 per cent tariff on Brazilian aircraft and new sugar duties, and Brazil calls it unacceptable",
+   "category": "Trade",
+   "region": "Latin America · Brazil",
+   "regions": [
+    "latin-america",
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25",
+   "whatChanged": "The US trade representative proposed ending the tariff exemption for finished Brazilian aircraft, a blow aimed squarely at Embraer.",
+   "body": "The proposal extends an existing Section 301 action against Brazil and adds an extra duty on out-of-quota sugar, without giving a rate. Aircraft are Brazil’s fourth-largest export to the United States, and Embraer said it was studying the plan. President Lula’s office said Brazil would not yield to threats, called the move unacceptable in the middle of negotiations and kept open reciprocal measures and a complaint at the World Trade Organization. A hearing is set for January 14.",
+   "sources": [
+    {
+     "publisher": "Office of the US Trade Representative",
+     "title": "USTR Invites Public Comment on Proposed Modifications of the Section 301 Action Regarding Brazil's Unreasonable Acts, Policies, and Practices",
+     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+     "publishedAt": "2026-11 (exact day not stated)",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "AIN",
+     "title": "U.S. Proposes Ending Tariff Exemption for Brazilian Aircraft",
+     "url": "https://www.ainonline.com/aviation-news/air-transport/2026-11-25/us-proposes-new-10-tariff-brazilian-aircraft",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Free Malaysia Today (AFP)",
+     "title": "Brazil terms US tariffs on aircraft, sugar 'unacceptable'",
+     "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/brazil-terms-us-tariffs-on-aircraft-sugar-unacceptable",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-tariffs",
+   "threadTitle": "America’s tariffs",
+   "threadSummary": "The tariffs the United States imposes on its trading partners, the legal fights over them and the responses abroad."
+  },
+  {
+   "id": "russia-strikes-odesa-grain-ships",
+   "section": "more",
+   "title": "Russia hits two grain ships near Odesa and a Kyiv shopping centre in an overnight barrage across eight regions",
+   "category": "War",
+   "region": "Europe · Ukraine",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25 / 2026-11-26",
+   "whatChanged": "Ukraine’s prime minister said two foreign cargo ships carrying more than 100,000 tonnes of grain were attacked near Odesa’s ports.",
+   "body": "Prime Minister Serhii Koretskyi said strikes hit seven regions and Kyiv and injured at least 10 people, including at a shopping centre in the capital’s Desnianskyi district. He called repeated attacks on water facilities in Dnipropetrovsk region deliberate. Reuters noted that shipments from the Odesa ports have nearly stopped since late July, and that Ukraine’s grain exports this season stand at 7.6 million tonnes against 11.5 million a year earlier. The ships’ names and any crew casualties were not given.",
+   "sources": [
+    {
+     "publisher": "Reuters (via Yahoo News)",
+     "title": "Ukraine says Russia hits two grain ships near Odesa ports",
+     "url": "https://ca.news.yahoo.com/ukraine-says-russia-hits-two-105033322.html",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "LB.ua",
+     "title": "Overnight Russian Strikes Hit Water Supply, Heating Networks, Shopping Centres and Homes",
+     "url": "https://en.lb.ua/news/2026/11/26/51574_overnight_russian_strikes_hit.html",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Kyiv Independent",
+     "title": "Russia slams Kyiv in ballistic missile attack, hits shopping center",
+     "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security of Europe."
+  },
+  {
+   "id": "poland-no-fly-zone-ukraine-border",
+   "section": "more",
+   "title": "Poland plans a no-fly zone along its border with Ukraine and raises shooting down Russian missiles over Ukrainian territory",
+   "category": "Security",
+   "region": "Europe · Poland",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25",
+   "whatChanged": "A deputy defence minister said the zone would reach more than 10 km from the border and be in place by early 2027.",
+   "body": "Inside the zone, pilots could engage targets on the basis of radar, allied intelligence, altitude and speed rather than sight, the Kyiv Independent reported. Bloomberg reported that Warsaw raised intercepting Russian missiles over Ukraine with NATO ambassadors on November 23, with some support but no decision, though the same minister said NATO was not supportive. Foreign Minister Radosław Sikorski said such interceptions at Kyiv’s request could count as self-defence. The move follows the crash of Russian cruise missiles in southeastern Poland on November 20.",
+   "sources": [
+    {
+     "publisher": "Kyiv Independent",
+     "title": "Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
+     "url": "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "PBS NewsHour (AP)",
+     "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
+     "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
+     "publishedAt": "2026-11-20",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security of Europe."
+  },
+  {
+   "id": "us-gdp-revised-pce-inflation",
+   "section": "more",
+   "title": "America’s economy grew at a revised 4.3 per cent in the third quarter, while inflation rose to 3.8 per cent",
+   "category": "Economy",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25",
+   "whatChanged": "Revised figures show the fastest growth since 2023 alongside rising inflation, and markets now expect the Federal Reserve to raise rates in December.",
+   "body": "The second estimate lifted annualised growth from 3.4 per cent, helped by stronger consumer spending and a 21.8 per cent jump in business equipment investment, Reuters reported. The Fed’s preferred price index rose 3.8 per cent in the year to October, and the core measure 3.3 per cent, its highest since November 2023. Futures markets price a quarter-point increase at the December 8–9 meeting. Stocks recovered most of a steep, AI-led fall on Wednesday before the Thanksgiving holiday.",
+   "sources": [
+    {
+     "publisher": "GV Wire (Reuters)",
+     "title": "US Third-Quarter Economic Growth Revised Sharply Higher; Inflation Broadening Out",
+     "url": "https://gvwire.com/2026/11/25/us-third-quarter-economic-growth-revised-sharply-higher-inflation-broadening-out/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "WSLS (Associated Press)",
+     "title": "World shares push higher, while markets in US will be closed for Thanksgiving",
+     "url": "https://www.wsls.com/business/2026/11/26/asian-shares-rebound-led-by-ai-stocks-after-wall-street-pares-sharp-losses/",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-economy",
+   "threadTitle": "The US economy",
+   "threadSummary": "Inflation, interest rates, jobs and growth in the United States."
+  },
+  {
+   "id": "birthright-citizenship-second-block",
+   "section": "more",
+   "title": "A second federal judge blocks President Trump’s newest order narrowing birthright citizenship",
+   "category": "Courts",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25",
+   "whatChanged": "Judge Christopher Cooper in Washington issued a preliminary injunction and certified a nationwide class of affected children.",
+   "body": "The injunction bars the State Department, Homeland Security and the Social Security Administration from applying the August order to covered children. Cooper wrote that the president cannot create new exceptions for children born in the United States and subject to its laws. A Maryland judge blocked the order in September, after the Supreme Court struck down Trump’s 2025 order in June. The White House called Cooper an activist judge. Reports differ on exactly which groups of children the order covers.",
+   "sources": [
+    {
+     "publisher": "Daily Maverick (Reuters)",
+     "title": "Trump's newest order curtailing birthright citizenship is blocked by second judge",
+     "url": "https://www.dailymaverick.co.za/article/2026-11-26-trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge/",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Good Morning America (ABC News)",
+     "title": "Judge blocks latest Trump effort to restrict birthright citizenship",
+     "url": "https://www.goodmorningamerica.com/news/story/judge-blocks-latest-trump-effort-restrict-birthright-citizenship-138451919",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "birthright-citizenship",
+   "threadTitle": "Birthright citizenship in the US",
+   "threadSummary": "The legal fight over President Trump’s orders limiting automatic citizenship for children born in the United States."
+  },
+  {
+   "id": "south-africa-phala-phala-ruling",
+   "section": "more",
+   "title": "A South African court sets aside the Phala Phala report, removing the basis for impeachment proceedings against Ramaphosa",
+   "category": "Politics",
+   "region": "Africa · South Africa",
+   "regions": [
+    "africa"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25",
+   "whatChanged": "The Western Cape High Court unanimously found that the 2022 independent panel misread its role and made material errors of law.",
+   "body": "The panel had found a possible conflict of interest over foreign cash stolen from a sofa at President Cyril Ramaphosa’s Phala Phala farm. In May the Constitutional Court ordered parliament to open an impeachment inquiry, which this court paused in July pending the ruling. The presidency said Ramaphosa would study the decision, and the African Transformation Movement criticised it. Opposition parties may appeal, and sources differ on the year of the theft and the sum involved.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "South Africa court repeals 'farmgate' impeachment threat against Ramaphosa",
+     "url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "allAfrica",
+     "title": "Africa: All of Africa Today - November 26, 2026",
+     "url": "https://allafrica.com/stories/202611260155.html",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting (digest)"
+    }
+   ],
+   "threadId": "south-africa-politics",
+   "threadTitle": "South Africa's politics",
+   "threadSummary": "South Africa’s coalition politics, its 2026 local elections and the parties competing to govern its cities."
+  },
+  {
+   "id": "gaza-strikes-education-official",
+   "section": "more",
+   "title": "Israeli strikes in Gaza kill at least eight people, including a senior official of the education ministry",
+   "category": "Conflict",
+   "region": "Middle East · Gaza",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25 / 2026-11-26",
+   "whatChanged": "An overnight strike on a flat in Deir el-Balah killed Khaled Abu Nada, whom Israel described as a Hamas official handling economic and education matters.",
+   "body": "Al Jazeera counted at least eight dead and the Associated Press, citing hospitals, 10, after four strikes and a shooting. The day before, strikes killed the internal security chief of northern Gaza with his wife and two daughters. Gaza’s health ministry says more than 1,600 people have been killed since the ceasefire of October 2025, 130 of them this month.",
+   "sources": [
+    {
+     "publisher": "Al Jazeera",
+     "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+     "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Associated Press (via Audacy)",
+     "title": "Israeli strikes kill 10 in Gaza, and other Mideast news",
+     "url": "https://www.audacy.com/wwl/news/world/gaza-iran-israel-uae-hormuz-november-26-2026-522676f17532b878878ff7a4347d0e31",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "gaza-humanitarian",
+   "threadTitle": "Gaza's humanitarian situation",
+   "threadSummary": "Conditions for civilians in Gaza, aid access and recovery after the war."
+  },
+  {
+   "id": "australia-senator-blyth-one-nation",
+   "section": "more",
+   "title": "An Australian shadow minister, Senator Leah Blyth, quits the Liberal Party for One Nation",
+   "category": "Politics",
+   "region": "Oceania · Australia",
+   "regions": [
+    "oceania"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-26",
+   "whatChanged": "Blyth becomes One Nation’s first federal senator for South Australia, without warning the opposition leader, Angus Taylor.",
+   "body": "The former state Liberal president said she had lost confidence in the opposition on immigration, spending and energy, and could no longer tell voters the party could save the country. She was reported to have fallen out with a powerful South Australian Liberal and to face a poor place on the next Senate ticket. The Nationals leader said the move smacked of self-interest; Pauline Hanson said Blyth had approached her.",
+   "sources": [
+    {
+     "publisher": "ABC News (Australia)",
+     "title": "Liberal senator Leah Blyth defects to One Nation in major blow for Angus Taylor",
+     "url": "https://www.abc.net.au/news/2026-11-26/leah-blyth-liberal-one-nation-angus-taylor-/107428224",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "australia-politics",
+   "threadTitle": "Australia’s politics",
+   "threadSummary": "Australia’s parliament and parties, including the rise of One Nation on the right."
+  },
+  {
+   "id": "fcc-spacex-orbital-data-centres",
+   "section": "frontiers",
+   "field": "Space",
+   "title": "US regulators conditionally approve SpaceX’s plan for up to a million satellites working as data centres in orbit",
+   "category": "AI infrastructure",
+   "region": "Global",
+   "regions": [],
+   "status": "Major development",
+   "eventDate": "2026-11-25",
+   "body": "The Federal Communications Commission granted SpaceX conditional permission on Wednesday to launch up to one million satellites at altitudes between 500 and 1,002 kilometres, designed to run computing workloads such as AI in space. It is the first approval of an orbital data-centre constellation. SpaceX plans to start launches in 2027 and must have half the satellites up by 2038. Amazon, Viasat and the American Astronomical Society had asked the commission to refuse, and the debris plan for higher orbits is still unapproved.",
+   "whatChanged": "A proposal filed in January now has a licence, with lower altitudes than SpaceX asked for and deployment deadlines out to 2040.",
+   "whyMatters": "AI’s appetite for electricity is pushing companies to look beyond Earth, and this licence sets the first rules for how crowded low orbit could become.",
+   "hook": "A licence, not a working system: whether computing in orbit can be cooled, financed and made cheaper than on the ground is still unproven.",
+   "uncertainty": "The commission said questions about feasibility and some scientific concerns fell outside its remit. Cost, cooling in orbit and financing are unresolved. We did not read the grant order itself and rely on trade reporting.",
+   "watchNext": "Whether the commission approves the debris plan for satellites above 600 kilometres, and rulings on rival plans from Starcloud and Blue Origin.",
+   "keyFacts": [
+    "Up to 1,000,000 satellites approved at 500 to 1,002 km; SpaceX had asked for up to 2,000 km",
+    "Each satellite would carry about 175 kilowatts of computing on average",
+    "Milestones: 10 per cent deployed by 2035, half by 2038, all by November 25, 2040",
+    "Amazon, Viasat and the American Astronomical Society opposed the application"
+   ],
+   "report": [
+    {
+     "heading": "What was approved",
+     "paragraphs": [
+      "SpaceX applied on January 30 for a constellation it calls Starmind, and the commission accepted the filing in February. According to Via Satellite, the grant allows up to a million satellites but caps them at 1,002 kilometres rather than the 2,000 requested. Each would average 175 kilowatts of computing payload, peaking at 250, linked mainly by lasers. The first satellite must be in orbit by November 2033, a tenth of the system by 2035 and half by 2038. TechCrunch reported that the commission has not yet approved SpaceX’s plans to limit orbital debris for satellites above 600 kilometres."
+     ]
+    },
+    {
+     "heading": "The objections",
+     "paragraphs": [
+      "Amazon called the plan a lofty ambition rather than a real plan, and Viasat and astronomers asked the commission to deny it. The commission said feasibility and some concerns about research were outside its mandate, required no further environmental review and described worries about satellites burning up in the atmosphere as speculative. Its chair, Brendan Carr, said the decision opened a bold new frontier."
+     ]
+    },
+    {
+     "heading": "The race",
+     "paragraphs": [
+      "Two rival proposals are pending: Starcloud with 88,000 satellites and Blue Origin’s Project Sunrise with 51,600, Via Satellite reported. TechCrunch noted that cost, cooling and financing remain open questions for computing in orbit.",
+      "According to Via Satellite, the satellites would talk to each other mainly by optical links, with radio links in the Ka band as a backup."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-26/fcc-spacex-orbital-data-centres.svg",
+    "alt": "Small square satellites with solar panels strung along curved orbits above the edge of the Earth: a constellation of computing satellites.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Via Satellite",
+     "title": "FCC Approves SpaceX's 1-Million Satellite Orbital Data Center Constellation",
+     "url": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "TechCrunch",
+     "title": "FCC approves SpaceX plan to put AI data centers in space",
+     "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Federal Communications Commission",
+     "title": "Space Bureau Accepts for Filing SpaceX's Application for Orbital Data Centers (DA 26-113)",
+     "url": "https://docs.fcc.gov/public/attachments/DA-26-113A1.txt",
+     "publishedAt": "2026-02-04",
+     "kind": "Primary (background)"
+    }
+   ],
+   "threadId": "orbital-data-centres",
+   "threadTitle": "Data centres in orbit",
+   "threadSummary": "Plans to put computing for AI into satellites, and the regulators deciding whether they can launch."
+  },
+  {
+   "id": "neuralink-pivotal-trial-als",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "Neuralink gets US approval to begin a pivotal trial of its brain implant in people paralysed by ALS",
+   "category": "Brain-computer interfaces",
+   "region": "North America · United States",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25",
+   "body": "Neuralink said on Wednesday that the Food and Drug Administration has cleared it to start a pivotal study of its implant in adults with severe paralysis from ALS, described as the first such trial of an implanted brain-computer interface in the United States. Participants will be followed for two years after surgery, and the study will measure whether they can control devices by thought, how independent they become and whether the system stays safe and reliable. Enrolment is open, but the company has not said how many people it will include.",
+   "whatChanged": "After feasibility studies in more than 30 people, Neuralink can now run the kind of larger trial that regulators use to decide on approval.",
+   "whyMatters": "A pivotal trial is the step before a device can be sold, so brain implants for people who cannot move or speak are moving from experiments towards possible routine care.",
+   "hook": "An important regulatory step, not an approval: the device remains experimental, and the trial’s size and targets have not been published.",
+   "uncertainty": "This is permission to run a trial, not approval of the device. The number of participants, sites and the thresholds for success were not disclosed, and the details come from the company’s announcement as reported.",
+   "watchNext": "Publication of the trial’s design and size, and results from the earlier feasibility studies.",
+   "keyFacts": [
+    "The trial is for adults with severe paralysis caused by ALS",
+    "Participants are followed for 24 months after implantation",
+    "More than 30 people have received the implant in studies in the US, Canada and Britain",
+    "The system combines the N1 implant with the R1 surgical robot"
+   ],
+   "report": [
+    {
+     "heading": "The trial",
+     "paragraphs": [
+      "According to Engadget and Interesting Engineering, Neuralink announced the clearance on its website and on X. The study, called LINK, will test whether people can operate computers and other devices through the implant, whether this improves their day-to-day independence, and how safe and dependable the system is over time. The company’s published pathway says follow-up lasts 24 months, and the trial is expected to run at several US sites, though the number was not given.",
+      "Engadget described the study as the first pivotal trial of an implantable brain-computer interface in the United States. Interesting Engineering said enrolment is open to adults living with severe paralysis from ALS, but that the company has not said how many participants it plans to recruit."
+     ]
+    },
+    {
+     "heading": "How it got here",
+     "paragraphs": [
+      "Neuralink’s system pairs an implant, the N1, with a surgical robot, the R1, that places it. More than 30 people have received it in early feasibility studies in the United States, Canada and Britain. Last year the first participant with ALS, Bradford Smith, communicated using brain signals alone, Engadget reported."
+     ]
+    },
+    {
+     "heading": "What a pivotal trial means",
+     "paragraphs": [
+      "Pivotal studies are the larger trials whose results regulators weigh when deciding whether a medical device can be marketed. The device remains investigational, and Neuralink has not published the endpoints it must hit for the study to count as a success."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-26/neuralink-pivotal-trial-als.svg",
+    "alt": "A small round implant beneath a curved outline of the skull: a brain implant entering a larger clinical trial.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "Engadget",
+     "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients",
+     "url": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Interesting Engineering",
+     "title": "Neuralink wins FDA approval for first pivotal brain-computer implant trial in the US",
+     "url": "https://interestingengineering.com/health/neuralink-fda-approval-link-pivotal-brain-implant-trial",
+     "publishedAt": "2026-11-25",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "brain-computer-interfaces",
+   "threadTitle": "Brain-computer interfaces",
+   "threadSummary": "Implants that let people with paralysis control devices with their thoughts, and the trials testing them."
+  },
+  {
+   "id": "fda-bezuclastinib-gist",
+   "section": "frontiers",
+   "field": "Medicine",
+   "title": "The FDA approves the first new treatment in two decades for a rare gut cancer after standard therapy fails",
+   "category": "Cancer treatment",
+   "region": "North America · United States",
+   "regions": [],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-24",
+   "body": "The Food and Drug Administration approved Cogent Biosciences’ bezuclastinib, sold as Ekitna, taken with the older drug sunitinib for adults with advanced gastrointestinal stromal tumours already treated with imatinib. In a trial of 413 patients, the combination delayed cancer growth to a median of 16.5 months, against 9.2 months on sunitinib alone, and shrank tumours in 46 per cent of patients against 26. It is the first new option in this setting in more than 20 years, but it carries a boxed warning for liver damage.",
+   "whatChanged": "The approval came on November 24, ahead of the FDA’s November 30 deadline, giving patients whose cancer has outgrown imatinib a new combination therapy.",
+   "whyMatters": "For people with these tumours, options after the first drug fails have barely changed in a generation, and the trial roughly doubled the time before the disease advanced.",
+   "hook": "A real gain for a small group of patients, with a cost: more side effects, and no proof yet that it helps people live longer.",
+   "uncertainty": "Survival data are immature, so it is not yet known whether patients live longer. Serious side effects were more common with the combination, 72 against 52 per cent. We rely on trade reporting rather than the FDA notice.",
+   "watchNext": "Overall survival results from the PEAK trial as they mature.",
+   "keyFacts": [
+    "Median progression-free survival was 16.5 months with the combination against 9.2 months",
+    "Tumours shrank in 46 per cent of patients, against 26 per cent",
+    "The PEAK trial randomised 413 patients",
+    "The label carries a boxed warning for liver toxicity"
+   ],
+   "report": [
+    {
+     "heading": "The approval",
+     "paragraphs": [
+      "According to AJMC, the FDA approved the drug for adults with advanced gastrointestinal stromal tumours, who have previously received imatinib. Patients take bezuclastinib alongside sunitinib, the drug normally used at this stage. The decision came six days before the agency’s target date."
+     ]
+    },
+    {
+     "heading": "The evidence",
+     "paragraphs": [
+      "Patients in the trial took 600 milligrams of bezuclastinib with 37.5 milligrams of sunitinib each day, or sunitinib alone.",
+      "The phase 3 PEAK trial randomly assigned 413 patients to the combination or to sunitinib alone. Assessed by independent reviewers who did not know which treatment patients received, the median time before the cancer progressed was 16.5 months against 9.2, which halved the risk of progression. Overall survival data are immature, with fewer than a fifth of the expected events so far. Andrew Wagner of the Dana-Farber Cancer Institute called the combination a new standard of care after imatinib."
+     ]
+    },
+    {
+     "heading": "The trade-offs",
+     "paragraphs": [
+      "Liver enzymes rose in 43 per cent of patients on the combination, and the drug carries the FDA’s strongest warning for liver harm. Serious treatment-related side effects occurred in 71.6 per cent of patients on the combination against 52.4 per cent on sunitinib alone, and 7.4 per cent stopped treatment because of them, against 3.8 per cent. There were no treatment-related deaths in the combination group."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-26/fda-bezuclastinib-gist.svg",
+    "alt": "Two different capsules side by side above a simple outline of the stomach and intestine: a two-drug combination for a gut tumour.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "AJMC",
+     "title": "FDA Approves Bezuclastinib Plus Sunitinib for GIST After Imatinib",
+     "url": "https://www.ajmc.com/view/fda-approves-bezuclastinib-plus-sunitinib-for-gist-after-imatinib",
+     "publishedAt": "2026-11-25",
+     "kind": "Trade reporting"
+    }
+   ],
+   "threadId": "gist-cancer-treatment",
+   "threadTitle": "Treating gastrointestinal stromal tumours",
+   "threadSummary": "New drugs for gastrointestinal stromal tumours, a rare cancer of the digestive tract."
+  },
+  {
+   "id": "ebola-12000-cases-bunia-fighting",
+   "section": "still",
+   "title": "Congo’s Ebola outbreak passes 12,000 confirmed cases, as fighting resumes near the response hub of Bunia",
+   "category": "Public health",
+   "region": "Africa · DR Congo",
+   "regions": [
+    "africa"
+   ],
+   "status": "Still matters",
+   "eventDate": "2026-11-25 / 2026-11-26",
+   "body": "Congo’s health ministry counted 12,021 confirmed Ebola cases on Thursday, in what the Associated Press calls the fastest-growing outbreak on record. Nearly half of confirmed patients have died. Fighting between the army and a rebel group resumed in Iga-Barriere, about 25 kilometres north of Bunia, the hub of the response in Ituri, sending more displaced people towards the city. The World Health Organization said the violence has cut teams off from some communities and disrupted the tracing of people exposed to the virus.",
+   "whatChanged": "Cases have passed 12,000, and fighting has moved close to the city that coordinates the response.",
+   "whyMatters": "The Bundibugyo strain has no approved vaccine or treatment, so tracing contacts is the main defence, and conflict is breaking that chain.",
+   "uncertainty": "No updated death toll was published with the new case count. The scale of the new displacement towards Bunia is not yet known.",
+   "watchNext": "The WHO’s next situation report, and whether fighting reaches Bunia’s treatment centres.",
+   "keyFacts": [
+    "12,021 confirmed cases, according to Congo’s health ministry on November 26",
+    "The WHO counted 11,762 cases and 5,775 deaths as of November 20",
+    "Ituri province accounts for more than 8,000 cases",
+    "Fighting resumed about 25 km north of Bunia on November 26"
+   ],
+   "report": [
+    {
+     "heading": "The numbers",
+     "paragraphs": [
+      "The outbreak, caused by the Bundibugyo strain and declared in May, is the deadliest of Congo’s 17 Ebola outbreaks. The WHO’s most recent detailed count, as of November 20, recorded 11,762 confirmed cases and 5,775 deaths across 68 health zones in eight provinces, with Ituri accounting for more than 8,000 cases and a fatality rate of 47 per cent, UN News reported. The AP said the outbreak is on course to overtake the roughly 11,000 deaths of the West African epidemic of 2014 to 2016."
+     ]
+    },
+    {
+     "heading": "The fighting",
+     "paragraphs": [
+      "Clashes between the army and the Convention for the Popular Revolution resumed on Thursday morning in the mining town of Iga-Barriere. The WHO’s incident manager, Catherine Smallwood, said the violence had blocked teams from some communities, disrupted monitoring of contacts and left some treatment centres short of staff. Earlier in the week about a dozen people, including two WHO staff, were evacuated to Bunia after three days trapped in a hospital at Akwe."
+     ]
+    },
+    {
+     "heading": "Why the fighting matters",
+     "paragraphs": [
+      "Because the Bundibugyo strain has no approved vaccine or treatment, the response depends heavily on monitoring people who have been exposed, the work the WHO says the fighting is disrupting. The AP said the renewed clashes were sending new waves of displaced people towards Bunia, the city from which the response in Ituri is run."
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Associated Press (via ABC News)",
+     "title": "Ebola outbreak in Congo reaches 12,000 cases; violence forces responders to evacuate",
+     "url": "https://abcnews.com/Health/wireStory/ebola-outbreak-congo-reaches-12000-cases-violence-forces-138463911",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews (AP)",
+     "title": "Ebola cases in Congo surpass 12,000 in fastest-growing outbreak",
+     "url": "https://www.euronews.com/2026/11/26/ebola-cases-in-congo-surpass-12000-in-fastest-growing-outbreak",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "UN News",
+     "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+     "url": "https://news.un.org/en/story/2026/11/1168858",
+     "publishedAt": "2026-11-23",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ebola-east-africa",
+   "threadTitle": "Ebola outbreak in Africa",
+   "threadSummary": "The Bundibugyo Ebola outbreak declared in Congo in May 2026 and the effort to stop its spread."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Europe’s money for Ukraine",
+   "text": "The EU summit ends on Friday, November 27, when António Costa is expected to set out his conclusions on the budget and the €45 billion loan."
+  },
+  {
+   "title": "New Zealand’s final count",
+   "text": "New Zealand publishes its official election results, including about 399,000 special votes, on Friday, November 27, New Zealand time."
+  },
+  {
+   "title": "Spain votes",
+   "text": "Spain holds its snap general election on Sunday, November 29, after a campaign dominated by housing."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "Washington proposes tariffs of up to 35 per cent on 14 economies and new duties on Brazilian aircraft, growth is revised up as inflation climbs, and a second judge blocks the newest birthright citizenship order.",
+   "briefs": [
+    {
+     "title": "Huawei vows to fight its conviction, and Beijing condemns the verdict",
+     "text": "Huawei said on Wednesday that the Brooklyn jury’s guilty verdicts were without legal or factual merit and that it would review them and take legal action, while welcoming its acquittal on the racketeering charge. China’s foreign ministry accused Washington of using its courts to suppress Chinese companies. Sentencing is expected next September.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
+       "url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The Nigeria Lawyer",
+       "title": "'Verdict Without Legal Or Factual Merit' — Huawei Rejects US Jury Conviction On 10 Criminal Counts, Vows Legal Action",
+       "url": "https://thenigerialawyer.com/verdict-without-legal-or-factual-merit-huawei-rejects-us-jury-conviction-on-10-criminal-counts-vows-legal-action/",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "latin-america": {
+   "summary": "Brazil rejects a proposed US tariff on its aircraft, Venezuelan bonds extend their rally ahead of a debt analysis, and Argentina’s government rules out changing course despite a recession.",
+   "briefs": [
+    {
+     "title": "Venezuela promises its debt analysis within weeks as bonds rally again",
+     "text": "Venezuelan and PDVSA dollar bonds rose for a second day on Wednesday after the government published its economic framework, Reuters reported. Deputy Finance Minister Christiam Hernández said a debt sustainability analysis would follow in the coming days or weeks. Current US sanctions waivers do not yet allow Caracas to negotiate directly with creditors.",
+     "eventDate": "2026-11-24 / 2026-11-25",
+     "sources": [
+      {
+       "publisher": "WIFC (Reuters)",
+       "title": "Analysis-Venezuela data deluge cheers investors, but $237 billion debt test lies ahead",
+       "url": "https://wifc.com/2026/11/25/analysis-venezuela-data-deluge-cheers-investors-but-237-billion-debt-test-lies-ahead/",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Argentina slips into recession, and the economy minister refuses to change course",
+     "text": "Official figures showed Argentina’s economy shrank 1.8 per cent in the third quarter, its second fall in a row. Economy Minister Luis Caputo called the recession label arbitrary and said the programme would not change. Senate leader Patricia Bullrich, an ally of President Milei, said it needed surgical adjustments, including lower taxes and further rate cuts.",
+     "eventDate": "2026-11-24 / 2026-11-25",
+     "sources": [
+      {
+       "publisher": "Buenos Aires Times",
+       "title": "Milei government rules out economic policy changes despite creeping recession",
+       "url": "https://batimes.com.ar/news/economy/argentinas-government-rules-out-economic-policy-changes-despite-creeping-recession.phtml",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The Rio Times",
+       "title": "Milei’s Ally Wants Argentina Economy Fixes",
+       "url": "https://www.riotimesonline.com/argentina-bullrich-surgical-economic-changes-milei/",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Bolsonaro remains in intensive care with no discharge date",
+     "text": "The DF Star hospital in Brasília said on Wednesday that former president Jair Bolsonaro was clinically stable while being treated for a partial bowel obstruction and pneumonia, with antibiotics and without surgery for now. Doctors set no date for his discharge. He is serving a 27-year sentence for plotting a coup, under house arrest.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "Tribuna do Sertão",
+       "title": "Bolsonaro segue estável na UTI e sem previsão de alta, diz boletim médico",
+       "url": "https://www.tribunadosertao.com.br/poder-e-governo/2026/11/25/1029978-bolsonaro-segue-estavel-na-uti-e-sem-previsao-de-alta-diz-boletim-medico",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "MercoPress",
+       "title": "Pneumonia complicates Jair Bolsonaro’s hospital stay in Brasília",
+       "url": "https://en.mercopress.com/2026/11/23/pneumonia-complicates-jair-bolsonaro-s-hospital-stay-in-brasilia",
+       "publishedAt": "2026-11-23",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "summary": "EU leaders meet in Brussels on money for Ukraine, Russia hits grain ships near Odesa, and Poland plans a no-fly zone on its eastern border.",
+   "briefs": [
+    {
+     "title": "Estonia expels a Russian over suspected contacts with Russian intelligence",
+     "text": "Estonia’s internal security service deported a Russian citizen, Anton Zuyev, on Monday over contacts with Russian intelligence, and announced it on Tuesday. The case follows an attempted arson attack on the Estonian drone maker Threod Systems on November 14, which Estonia blames on Russian military intelligence.",
+     "eventDate": "2026-11-24 / 2026-11-25",
+     "sources": [
+      {
+       "publisher": "Kyiv Independent",
+       "title": "Estonia deports Russian national over suspected ties to Russian intelligence",
+       "url": "https://kyivindependent.com/estonia-deports-russian-national-over-suspected-ties-to-russian-intelligence/",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Ukraine and Hungary revive a joint commission on national minorities",
+     "text": "After Prime Minister Péter Magyar’s visit to Uzhhorod, the two governments said a revived commission on minorities, co-chaired by Ukraine’s deputy prime minister and Hungary’s foreign minister, will first meet in early 2027. Budapest links its support for opening further stages of Ukraine’s EU accession talks to progress on minority rights.",
+     "eventDate": "2026-11-26",
+     "sources": [
+      {
+       "publisher": "Ukrinform",
+       "title": "Ukraine, Hungary planning first meeting of Commission on National Minorities for early 2027",
+       "url": "https://www.ukrinform.net/rubric-polytics/4188638-ukraine-hungary-planning-first-meeting-of-commission-on-national-minorities-for-early-2027.html",
+       "publishedAt": "2026-11-26",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Ukraine says it hit five Russian warplanes at an airbase east of Moscow",
+     "text": "Ukraine’s general staff said a strike overnight into Wednesday damaged three MiG-31 and two Su-34 jets at the Savasleyka airbase in Nizhny Novgorod region. The Kyiv Independent said it could not independently verify the damage.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "Kyiv Independent",
+       "title": "5 Russian aircraft hit at airfield in Russia’s Nizhny Novgorod Oblast, General Staff says",
+       "url": "https://kyivindependent.com/5-russian-aircraft-hit-at-airfield-in-russias-nizhny-novgorod-oblast-general-staff-says/",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "Congo’s Ebola outbreak passes 12,000 cases as fighting nears Bunia, and a South African court lifts the impeachment threat over Phala Phala.",
+   "briefs": [
+    {
+     "title": "Drone strikes kill at least 19 in Sudan’s Blue Nile state",
+     "text": "Drone strikes late on Tuesday hit Damazin and Roseires, killing at least 19 people and wounding 20, including members of three families in a residential area, Al Jazeera reported. A military source blamed the RSF, and a rights group said power facilities and the Roseires dam were hit. The National reported that the RSF and its allies have taken small towns about 65 to 70 kilometres from Damazin.",
+     "eventDate": "2026-11-24 / 2026-11-25",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Sudan’s RSF kills at least 19 in drone attacks on Blue Nile state",
+       "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      },
+      {
+       "publisher": "The National",
+       "title": "Sudan war grinds on with RSF seeking to stretch SAF’s resources thin",
+       "url": "https://www.thenationalnews.com/news/mena/2026/11/25/sudan-war-grinds-on-with-rsf-seeking-to-stretch-safs-resources-thin/",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Tinubu campaigns in Maiduguri, promising to end the insurgency",
+     "text": "Nigeria’s President Bola Tinubu told a rally in Maiduguri on Wednesday that terrorism in the northeast would end, and said security forces were working to free more than 70 schoolchildren still held after abductions in Borno in May and June. Nigeria votes on January 16.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+       "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Drone debris kills two Italians in Kuwait as more tankers are hit near Hormuz, the Houthis claim an attack on Ras Tanura, and Israeli strikes continue in Gaza and Lebanon.",
+   "briefs": [
+    {
+     "title": "Eisenkot’s and Netanyahu’s parties hold a fourth round of unity talks",
+     "text": "Negotiators for Gadi Eisenkot’s Yashar and Benjamin Netanyahu’s Likud met for a fourth round in two weeks on Wednesday, the Jerusalem Post reported, after earlier sessions skipped the question of a rotating premiership. Netanyahu insists that ultra-Orthodox parties be part of any unity government. Eisenkot received the mandate to form a government on November 8.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "Jerusalem Post (via Yahoo News)",
+       "title": "Eisenkot’s Yashar, Netanyahu’s Likud teams meet for fourth round of unity government talks",
+       "url": "https://www.yahoo.com/news/politics/articles/eisenkots-yashar-netanyahus-likud-teams-174640582.html",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Israel strikes southern Lebanon as drones fly low over Beirut and Tyre",
+     "text": "Lebanon’s national news agency said Israeli warplanes destroyed a building in Haris and struck Kfar Tebnit on Thursday, with artillery fire on several other areas and a large-scale sweep by Israeli forces in Khiam. No casualties were reported. Lebanese authorities count more than 4,300 people killed since March 2, despite a US-mediated deal in June.",
+     "eventDate": "2026-11-26",
+     "sources": [
+      {
+       "publisher": "Anadolu Agency",
+       "title": "Israel strikes southern Lebanon as drones fly over Beirut, Tyre",
+       "url": "https://www.aa.com.tr/en/middle-east/israel-strikes-southern-lebanon-as-drones-fly-over-beirut-tyre/4138927",
+       "publishedAt": "2026-11-26",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "asia": {
+   "summary": "Kim Jong Un orders wider deployment of tactical nuclear weapons, China condemns the new US tariff plan, and India separates Sheikh Hasina’s planned return from Dhaka’s extradition request.",
+   "briefs": [
+    {
+     "title": "India says Hasina’s planned return is separate from Bangladesh’s extradition request",
+     "text": "India’s foreign ministry said on Wednesday that former Bangladeshi prime minister Sheikh Hasina’s voluntary return on a travel document was a separate matter from Dhaka’s request for her extradition, which it is examining. Hasina, who fled in August 2024 and was sentenced to death in absentia, plans to return on December 16. Dhaka says she can only come back through extradition.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "The Business Standard (Reuters)",
+       "title": "India says Hasina’s plan to return to Bangladesh is separate from extradition request",
+       "url": "https://www.tbsnews.net/bangladesh/india-says-hasinas-plan-return-bangladesh-separate-extradition-request-1613921",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Bangladesh raises the garment workers’ minimum wage by 36 per cent",
+     "text": "After weeks of protests, Bangladesh’s wage board raised the monthly minimum for garment workers from 12,500 to 17,500 taka, about $136, Al Jazeera reported. Protesters had demanded 30,000 taka. Wages will now be reviewed every three years.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "After weeks of protests, Bangladesh garment workers win 36% pay rise",
+       "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "Myanmar’s military budget reaches a record",
+     "text": "Myanmar’s junta plans record military spending of 10.533 trillion kyat, about $2.8 billion, for 2026–27, nearly a fifth of public spending, according to a supplementary budget reported by Myanmar Now. The figure comes a week after the world court ruled that Myanmar committed genocide against the Rohingya.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "Myanmar Now",
+       "title": "Myanmar military spending hits record high as budget deficit widens",
+       "url": "https://myanmar-now.org/en/news/myanmar-military-spending-hits-record-high-as-budget-deficit-widens/",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "A Liberal shadow minister defects to One Nation, the Solomon Islands signs a security treaty with Australia, and a bushfire burns across Tasmania’s Flinders Island.",
+   "briefs": [
+    {
+     "title": "Solomon Islands signs a security treaty with Australia",
+     "text": "Prime Ministers Matthew Wale and Anthony Albanese signed a treaty in Canberra on Wednesday that makes Australia the Solomon Islands’ primary security partner, rules out foreign military bases and commits A$740 million over 10 years, Al Jazeera reported. Wale said talks with China were continuing, and Beijing said the deal should not target any third party.",
+     "eventDate": "2026-11-25",
+     "sources": [
+      {
+       "publisher": "Al Jazeera",
+       "title": "Solomon Islands signs security deal with Australia",
+       "url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia",
+       "publishedAt": "2026-11-25",
+       "kind": "Reporting"
+      }
+     ]
+    },
+    {
+     "title": "A bushfire burns out of control on Tasmania’s Flinders Island",
+     "text": "An uncontrolled fire of about 13,000 hectares made a significant run across the north of Flinders Island, home to just under 900 people, prompting emergency warnings and evacuations to Whitemark, ABC News reported. Lightning last week is the suspected cause.",
+     "eventDate": "2026-11-26",
+     "sources": [
+      {
+       "publisher": "ABC News (Australia)",
+       "title": "Flinders Island bushfire destroys or damages six homes, burns 10pc of island",
+       "url": "https://www.abc.net.au/news/2026-11-26/flinders-island-bushfire-thursday-making-significant-run/107425982",
+       "publishedAt": "2026-11-26",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

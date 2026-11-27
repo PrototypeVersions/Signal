@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="A server rack behind a closed gate with a padlock">
+<rect width="800" height="500" fill="#09131d"/>
+<rect x="300" y="90" width="200" height="330" rx="8" fill="#12263a" stroke="#7fa6c4" stroke-width="4"/>
+<g fill="#1b3550" stroke="#5d7387" stroke-width="2">
+<rect x="320" y="112" width="160" height="38" rx="3"/><rect x="320" y="162" width="160" height="38" rx="3"/><rect x="320" y="212" width="160" height="38" rx="3"/><rect x="320" y="262" width="160" height="38" rx="3"/><rect x="320" y="312" width="160" height="38" rx="3"/><rect x="320" y="362" width="160" height="38" rx="3"/>
+</g>
+<g fill="#d8e6f0"><circle cx="460" cy="131" r="4"/><circle cx="460" cy="181" r="4"/><circle cx="460" cy="231" r="4"/><circle cx="460" cy="281" r="4"/><circle cx="460" cy="331" r="4"/><circle cx="460" cy="381" r="4"/></g>
+<g stroke="#b87333" stroke-width="7" stroke-linecap="round">
+<line x1="220" y1="60" x2="220" y2="450"/><line x1="290" y1="60" x2="290" y2="450"/><line x1="360" y1="60" x2="360" y2="450"/><line x1="440" y1="60" x2="440" y2="450"/><line x1="510" y1="60" x2="510" y2="450"/><line x1="580" y1="60" x2="580" y2="450"/>
+<line x1="200" y1="70" x2="600" y2="70"/><line x1="200" y1="440" x2="600" y2="440"/>
+</g>
+<rect x="372" y="268" width="56" height="46" rx="6" fill="#b87333"/>
+<path d="M382 268 V250 A18 18 0 0 1 418 250 V268" fill="none" stroke="#b87333" stroke-width="7"/>
+<circle cx="400" cy="288" r="6" fill="#09131d"/><rect x="397" y="290" width="6" height="12" fill="#09131d"/>
+</svg>

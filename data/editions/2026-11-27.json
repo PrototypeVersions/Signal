@@ -1,0 +1,940 @@
+{
+ "date": "2026-11-27",
+ "number": 40,
+ "cutoff": "2026-11-27T12:25:00Z",
+ "cutoffLabel": "6:25 AM CT",
+ "opening": "EU leaders ended their summit without a budget deal and with three governments still blocking a new loan for Ukraine. New Zealand’s final count left its coalition a seat short, Iran denied the deadly Kuwait drone attack, and Spain’s Pablo Hernández de Cos was picked to lead the European Central Bank.",
+ "leadStoryId": "eu-summit-ukraine-budget-loan",
+ "stories": [
+  {
+   "id": "eu-summit-ukraine-budget-loan",
+   "section": "world",
+   "title": "EU leaders break up their summit early without a budget deal, and three countries still block a €45 billion loan for Ukraine",
+   "category": "European politics",
+   "region": "Europe · Brussels",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-26 / 2026-11-27",
+   "body": "A special summit planned for two days ended in the early hours of Friday after about 14 hours, with no agreement on the EU’s 2028 to 2034 budget. Council President António Costa said 24 of the 27 governments support a new €45 billion loan for Ukraine in 2027, but Hungary, Czechia and Slovakia do not. Richer net payers want a smaller budget than Costa’s €1.78 trillion compromise, while poorer members resist cuts to farm and regional money. Leaders will try again at their December summit.",
+   "whatChanged": "The haggling reached leaders and stalled: the second day was cancelled, the loan still lacks three governments, and France now says talks cannot run past December 31.",
+   "whyMatters": "Ukraine needs the 2027 money to keep its state and army running, and a budget fight that drags into France’s presidential campaign could make both harder to secure.",
+   "uncertainty": "It is unclear whether Germany will carry out its threat to hold the budget hostage to unanimous Ukraine support, and accounts differ on how the €45 billion would be split between budget and military aid.",
+   "watchNext": "The December summit in Brussels, expected on December 17 and 18, and whether Hungary, Czechia or Slovakia move before it.",
+   "keyFacts": [
+    "The summit ended early on Friday, November 27, after about 14 hours; the planned second day was cancelled",
+    "24 of 27 member states back a €45 billion loan for Ukraine in 2027; Hungary, Czechia and Slovakia do not",
+    "Costa’s compromise budget is €1.78 trillion over seven years, about €204 billion below the Commission’s proposal",
+    "Macron said December 31 is the absolute limit for concluding the budget talks"
+   ],
+   "report": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "Leaders met in Brussels on Thursday for an extraordinary European Council on the next long-term budget, which must be in place by January 1, 2028. Talks ran through the night and broke up after about 14 hours, and the second day was dropped. Costa told reporters there was no agreement but said the meeting had helped outline where a December compromise might land, according to Euronews and EU Perspectives.",
+      "On Ukraine, Costa said 24 governments support the €45 billion loan, raised through joint borrowing, for 2027. The Copenhagen Post, carrying the Danish agency Ritzau, reported that Hungary, Czechia and Slovakia did not sign up and that Bulgaria would join only the non-military part. Those three also stayed out of last December’s €90 billion loan and carry no liability for it."
+     ]
+    },
+    {
+     "heading": "Where the lines are drawn",
+     "paragraphs": [
+      "A group of net contributors including Germany, Austria, the Netherlands, Denmark and Sweden want a smaller budget with less for farming and regional cohesion and more for competitiveness and defence; Austria’s chancellor said Costa’s offer did not go far enough for them. Poland’s Donald Tusk warned that a cheap Europe could prove an expensive mistake. Italy’s Giorgia Meloni said the sides were light years apart.",
+      "Germany’s Friedrich Merz said he sees a link between support for Ukraine and the budget because the Union has 27 members, not 23 or 24, and Ritzau reported he threatened to halt the budget talks unless every state contributes. Emmanuel Macron insisted France keep its €66 billion in farm funding and said he could not reopen the budget after December 31, citing France’s 2027 presidential election."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Costa said leaders would return to Ukraine’s financing at the December summit, which EU Perspectives dates to December 17 and 18. Any budget needs unanimity among governments and the consent of the European Parliament, whose president, Roberta Metsola, warned against cutting more than €46 billion from cohesion funds."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Brussels and the loan holdouts",
+    "bounds": [
+     -5,
+     42,
+     32,
+     57
+    ],
+    "countries": [
+     "056",
+     "348",
+     "203",
+     "703"
+    ],
+    "labels": [
+     {
+      "label": "North Sea",
+      "lon": 3,
+      "lat": 55.5,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of Europe with Belgium highlighted, where leaders met, and Hungary, Czechia and Slovakia highlighted as the three governments not backing the Ukraine loan. A marker shows Brussels.",
+    "caption": "Belgium and the three loan holdouts highlighted · marker shows Brussels"
+   },
+   "locations": [
+    {
+     "label": "Brussels",
+     "lon": 4.35,
+     "lat": 50.85
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "The Copenhagen Post (Ritzau)",
+     "title": "EU remains divided over new €45 billion loan to Ukraine",
+     "url": "https://cphpost.dk/2026-11-27/global/eu-remains-divided-over-new-e45-billion-loan-to-ukraine/",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euronews",
+     "title": "EU summit: Lengthy budget talks fail to yield breakthrough",
+     "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "EU Perspectives",
+     "title": "After failed summit, can EU leaders agree on €1.78tn budget by Christmas?",
+     "url": "https://euperspectives.eu/2026/11/eu-budget-deadlock-brussels-summit/",
+     "publishedAt": "2026-11-27",
+     "kind": "Analysis"
+    },
+    {
+     "publisher": "Il Sole 24 Ore",
+     "title": "EU budget under discussion in Brussels. ECB: many governors in favour of a further rate rise",
+     "url": "https://en.ilsole24ore.com/art/the-eu-summit-in-brussels-on-the-eu-budget-has-begun-AJB1uHTC",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security of Europe."
+  },
+  {
+   "id": "nz-final-results-hung-parliament",
+   "section": "world",
+   "title": "New Zealand’s final count leaves Christopher Luxon’s coalition one seat short, making the Opportunity Party the kingmaker",
+   "category": "Elections",
+   "region": "Oceania · New Zealand",
+   "regions": [
+    "oceania"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-27",
+   "body": "The Electoral Commission’s official results, released on Friday afternoon New Zealand time, give National, ACT and New Zealand First 65 of 130 seats, one short of a majority. Special votes cost National two seats and handed the Greens one more. Labour narrowly won the party vote but National holds the most seats. The left bloc has 58, and the Opportunity Party’s seven seats now decide whether Prime Minister Christopher Luxon can keep governing. More than 484,000 special votes were counted.",
+   "whatChanged": "Election night’s 67-seat majority for the governing parties has disappeared, and with it any certainty about who governs.",
+   "whyMatters": "A small, centrist party that the prime minister ruled out working with during the campaign now holds the balance, which could force a new kind of deal or even a second election.",
+   "uncertainty": "New Zealand First has said it will not work with the Opportunity Party, and no party has set out terms. Judicial recounts could still be requested in close seats.",
+   "watchNext": "Recount applications, due by Wednesday, December 2, and the formal return of the writ on Thursday, December 3, after which negotiations should take clearer shape.",
+   "keyFacts": [
+    "National 40 seats, Labour 36, Greens 17, ACT 13, New Zealand First 12, Opportunity 7, Te Pāti Māori 5",
+    "Parliament has 130 seats including an overhang of 10, so a majority is 66",
+    "484,865 special votes were cast, 16.5 per cent of the total; turnout was 77.2 per cent of enrolled voters",
+    "Labour took Hamilton East by 173 votes and Wairarapa by 81 on specials"
+   ],
+   "report": [
+    {
+     "heading": "The final numbers",
+     "paragraphs": [
+      "Labour won 29.9 per cent of the party vote to National’s 28.4 per cent, but National’s 40 electorate seats give it the largest caucus, according to the Electoral Commission. Overhang seats won by National and Te Pāti Māori push Parliament to 130 members, so a government needs 66 votes.",
+      "Compared with election night, National fell from 42 seats to 40 and the Greens rose from 16 to 17, bringing in Bhen Goodsir from the list, 1News reported. The Spinoff noted that specials also flipped Hamilton East and Wairarapa to Labour and handed Wellington Bays to the Greens’ Julie Anne Genter."
+     ]
+    },
+    {
+     "heading": "The arithmetic of a government",
+     "paragraphs": [
+      "The three governing parties have 65 seats and Labour, the Greens and Te Pāti Māori have 58. With the Opportunity Party, led by Qiulae Wong, the right would reach 72; if it backed the left, both sides would sit at 65. PMN said a minority government relying on confidence and supply support remains possible.",
+      "Luxon repeatedly ruled out working with the Opportunity Party before the vote but has since softened that line, 1News reported, while New Zealand First says it will not deal with the party. The Spinoff said a fresh election is possible if no arrangement emerges, though no party appears keen on one."
+     ]
+    },
+    {
+     "heading": "What comes next",
+     "paragraphs": [
+      "Applications for judicial recounts must reach the District Court by December 2. If none are made, the writ is returned on December 3 and list MPs are declared, the commission said. Detailed statistics are due by December 18."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "bars",
+    "title": "Seats in New Zealand’s new Parliament",
+    "measure": "Seats won",
+    "unit": "seats",
+    "values": [
+     {
+      "label": "National, ACT and NZ First",
+      "value": 65
+     },
+     {
+      "label": "Labour, Greens and Te Pāti Māori",
+      "value": 58
+     },
+     {
+      "label": "Opportunity Party",
+      "value": 7
+     }
+    ],
+    "alt": "Bar chart of seats: the governing bloc 65, the left bloc 58 and the Opportunity Party 7, in a 130-seat Parliament where 66 is a majority.",
+    "caption": "Official results, November 27, 2026 · 66 seats needed for a majority",
+    "sourceUrl": "https://elections.nz/media-and-news/2026/2026-general-election-official-results"
+   },
+   "locations": [
+    {
+     "label": "Wellington",
+     "lon": 174.78,
+     "lat": -41.29
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Electoral Commission (New Zealand)",
+     "title": "2026 General Election official results",
+     "url": "https://elections.nz/media-and-news/2026/2026-general-election-official-results",
+     "publishedAt": "2026-11-27",
+     "kind": "Primary"
+    },
+    {
+     "publisher": "1News",
+     "title": "The special votes are in — what's changed since election night?",
+     "url": "https://www.1news.co.nz/2026/11/27/the-special-votes-are-in-whats-changed-since-election-night/",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "PMN News",
+     "title": "New Zealand faces hung Parliament as coalition loses majority",
+     "url": "https://pmn.co.nz/read/election/national-finishes-on-top-ahead-of-labour-as-final-election-result-reshapes-nz-s-parliament",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Spinoff",
+     "title": "The final 2026 election results are in, but who actually won?",
+     "url": "https://thespinoff.co.nz/politics/27-11-2026/who-won-the-2026-nz-election",
+     "publishedAt": "2026-11-27",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "new-zealand-election-2026",
+   "threadTitle": "New Zealand’s 2026 election",
+   "threadSummary": "New Zealand’s November 2026 general election and the formation of its next government."
+  },
+  {
+   "id": "iran-denies-kuwait-attack-offers-inquiry",
+   "section": "world",
+   "title": "Iran denies the Kuwait drone attack that killed two Italians and offers a joint inquiry, as Trump says victory is in his hands",
+   "category": "War and diplomacy",
+   "region": "Middle East · Kuwait and Iran",
+   "regions": [
+    "middle-east",
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-26 / 2026-11-27",
+   "body": "Iran’s foreign minister, Abbas Araghchi, called accusations over Thursday’s attack baseless and offered Italy and Kuwait a joint investigation into where the drones came from. Italy’s foreign minister told the Senate that Iranian drones hit an air-defence radar centre where two Rheinmetall technicians worked. Saudi Arabia, Bahrain, Qatar, the United Arab Emirates and Britain condemned Iran, and the European Commission’s president called for more pressure on Tehran. Speaking to troops, President Trump said victory over Iran would come whenever he wanted.",
+   "whatChanged": "The deaths have become a diplomatic dispute: Iran is offering an inquiry while Gulf states, Britain and Brussels line up behind Kuwait and Italy.",
+   "whyMatters": "Whether Europe treats the killings as an Iranian attack shapes how far it joins pressure on Tehran, while talks on ending the war still run through Qatar and Pakistan.",
+   "uncertainty": "Kuwait has published no evidence of the drones’ origin, and accounts differ on whether the men died in a direct hit or from falling debris. Trump gave no timetable or terms.",
+   "watchNext": "Whether Italy accepts Iran’s offer of an inquiry, and whether Bahrain’s request to the UN Security Council leads to a meeting.",
+   "keyFacts": [
+    "Two technicians employed by Rheinmetall Italia, aged 36 and 65, were killed in Kuwait on November 26",
+    "Araghchi offered Rome and Kuwait City a joint investigation and called the incident suspicious",
+    "Bahrain asked the UN Security Council to hold Iran accountable and demanded compensation",
+    "Brent crude was near $94 a barrel on Thursday evening"
+   ],
+   "report": [
+    {
+     "heading": "Competing accounts",
+     "paragraphs": [
+      "Antonio Tajani told the Italian Senate that several Iranian drones struck Kuwaiti military sites at about 2 pm local time, including a radar centre where the two Italians were maintaining antennas for an anti-aircraft system, Euronews and HNGN reported. Saudi Arabia’s foreign ministry instead said the men were killed by debris as drones were intercepted, and Kuwait first described four people wounded by falling fragments.",
+      "Iran’s armed forces spokesman denied any Iranian operation and blamed a false-flag attack by the United States and Israel, offering no evidence. Araghchi phoned his Kuwaiti and Italian counterparts, wrote that the incident looked like a recipe for war, and said Iran was ready to help establish the drones’ origin."
+     ]
+    },
+    {
+     "heading": "Reaction",
+     "paragraphs": [
+      "Saudi Arabia held Tehran responsible, Bahrain went to the Security Council, and Qatar warned that repeated strikes on Kuwait undermine diplomacy, according to Euronews. Britain’s Middle East minister, Stephen Doughty, called the attacks utterly unacceptable, and Ursula von der Leyen wrote that pressure on Iran must rise because Gulf security is tied to Europe’s, Gulf News reported."
+     ]
+    },
+    {
+     "heading": "Washington and the strait",
+     "paragraphs": [
+      "In a Thanksgiving call with troops from Mar-a-Lago, Trump said victory was at hand and would happen whenever he chose, while saying the United States was giving Iran every chance to make a deal. He played down Russian and Chinese help to Iran. On Friday an Iranian lawmaker and former Revolutionary Guards officer, Esmaeil Kowsari, told state television the armed forces would break the US naval blockade at a time of their choosing; House of Saud noted that English coverage of his remarks traces to a single agency report. HNGN reported that Trump called Iran’s claims of tankers hitting mines lies meant to raise energy prices."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Kuwait, Iran and Italy’s loss",
+    "bounds": [
+     42,
+     23,
+     60,
+     33
+    ],
+    "countries": [
+     "414",
+     "364"
+    ],
+    "labels": [
+     {
+      "label": "Persian Gulf",
+      "lon": 51,
+      "lat": 27.3,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of the northern Gulf with Kuwait and Iran highlighted and a marker at Kuwait, where drones killed two Italian technicians.",
+    "caption": "Kuwait and Iran highlighted · the exact site in Kuwait was not disclosed"
+   },
+   "locations": [
+    {
+     "label": "Kuwait",
+     "lon": 47.98,
+     "lat": 29.37
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Euronews",
+     "title": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
+     "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Gulf News",
+     "title": "Middle East tensions: Trump signals victory as Iran offers Kuwait drone probe",
+     "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting (live blog)"
+    },
+    {
+     "publisher": "HNGN",
+     "title": "Two Italians Killed in Kuwait; Iran Claims Hormuz Mine Strikes",
+     "url": "https://www.hngn.com/articles/273970/20261126/two-italians-killed-kuwait-iran-claims-hormuz-mine-strikes.htm",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "House of Saud",
+     "title": "Iran MP Kowsari Claims Iran Can Break US Naval Blockade and Controls Hormuz",
+     "url": "https://houseofsaud.com/iran-mp-kowsari-hormuz-blockade-break-claim/",
+     "publishedAt": "2026-11-27",
+     "kind": "Analysis"
+    }
+   ],
+   "threadId": "iran-gulf-war",
+   "threadTitle": "The Iran war and Gulf security",
+   "threadSummary": "The war between the United States, Israel and Iran, the struggle over the Strait of Hormuz and efforts to negotiate an end to the fighting."
+  },
+  {
+   "id": "trump-rutte-statement-ukraine-edit",
+   "section": "world",
+   "title": "Trump rewrites a joint warning with NATO’s chief so that it tells Ukraine, as well as Russia, not to widen the war",
+   "category": "Diplomacy",
+   "region": "North America and Europe · Florida and Ukraine",
+   "regions": [
+    "north-america",
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-25 / 2026-11-26",
+   "body": "After meeting NATO Secretary General Mark Rutte at Mar-a-Lago on Wednesday, the two issued a statement stressing that Russia should avoid actions that expand the war, following Russian airspace violations in Poland. Hours later President Trump posted his own version naming both Russia and Ukraine and calling for peace as rapidly as possible. A NATO official told Politico both sides had agreed the original text. Trump also said he had urged Vladimir Putin in China last week to end aggression across Europe.",
+   "whatChanged": "A message aimed at Moscow became, in Trump’s telling, an even-handed warning to both sides, days after Ukraine sank a Russian warship off Libya.",
+   "whyMatters": "Kyiv and its European backers depend on a united NATO line toward Russia, and visible daylight between Washington and the alliance’s own chief weakens it.",
+   "uncertainty": "The White House has not explained the change, and the reports give no details of the latest Russian incursions over Poland.",
+   "watchNext": "NATO foreign ministers meet in Brussels on Wednesday, December 2.",
+   "keyFacts": [
+    "Trump and Rutte met at Mar-a-Lago on the evening of November 25",
+    "The agreed text named only Russia; Trump’s post named Russia and Ukraine",
+    "Ukraine said it sank the Russian corvette Merkury off Benghazi, Libya, on November 23",
+    "Zelensky says US deliveries of Patriot missiles are still delayed"
+   ],
+   "report": [
+    {
+     "heading": "Two versions of one statement",
+     "paragraphs": [
+      "The joint text released after the Mar-a-Lago meeting said the two men had discussed the importance of Russia avoiding any actions that intentionally or unintentionally expand the war, according to the Kyiv Independent and Ukrinform. Trump’s Truth Social post a few hours later added Ukraine to that sentence and a call to obtain a peaceful resolution as rapidly as possible.",
+      "A NATO official told Politico that both sides had signed off on the original wording, which suggests the change was made by Trump alone, and the White House did not respond to questions, the Kyiv Independent reported. Italy’s Giorgia Meloni and Germany’s foreign minister, Johann Wadephul, separately warned against any geographic spread of the war while restating support for Kyiv."
+     ]
+    },
+    {
+     "heading": "What prompted it",
+     "paragraphs": [
+      "Both reports tie the statement to a series of Russian airspace violations over Poland, which has floated NATO shooting down Russian missiles over Ukrainian territory, and to Ukraine’s strike on the Russian corvette Merkury in the Mediterranean. Trump said he had pressed Putin to stop aggression across Europe when they met in Shenzhen on November 19."
+     ]
+    },
+    {
+     "heading": "Kyiv’s concerns",
+     "paragraphs": [
+      "Zelensky told the BBC that the United States was not pressing Russia hard enough and that Patriot deliveries remain delayed, Euromaidan Press reported in its daily digest. The same digest said Jared Kushner had spoken of a large prisoner exchange before the winter holidays."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "From Florida to the front",
+    "bounds": [
+     -90,
+     20,
+     45,
+     62
+    ],
+    "countries": [
+     "840",
+     "804",
+     "616"
+    ],
+    "labels": [
+     {
+      "label": "Atlantic Ocean",
+      "lon": -40,
+      "lat": 35,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map spanning the Atlantic with the United States, Poland and Ukraine highlighted, and markers at Palm Beach in Florida, where Trump met Rutte, and at Kyiv.",
+    "caption": "United States, Poland and Ukraine highlighted · markers are approximate"
+   },
+   "locations": [
+    {
+     "label": "Mar-a-Lago, Florida",
+     "mapLabel": "Mar-a-Lago",
+     "lon": -80.04,
+     "lat": 26.68
+    },
+    {
+     "label": "Kyiv",
+     "lon": 30.52,
+     "lat": 50.45
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Kyiv Independent (via Yahoo News)",
+     "title": "Trump adds Ukraine to warning against expanding war, diverging from joint NATO statement",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-adds-ukraine-warning-against-024044725.html",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Ukrinform",
+     "title": "Trump adds Ukraine to joint statement with NATO chief urging restraint in war escalation",
+     "url": "https://ukrinform.net/rubric-polytics/4189083-trump-adds-ukraine-to-joint-statement-with-nato-chief-urging-restraint-in-war-escalation.html",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Euromaidan Press",
+     "title": "Russo-Ukrainian war, day 1737: Russian ballistic missiles hit a Kyiv shopping center and injure seven people in the city",
+     "url": "https://euromaidanpress.com/2026/11/27/russo-ukrainian-war-day-1737/",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting (daily digest)"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security of Europe."
+  },
+  {
+   "id": "ecb-hernandez-de-cos-nominated",
+   "section": "world",
+   "title": "Euro-area governments pick Spain’s Pablo Hernández de Cos to succeed Christine Lagarde at the European Central Bank",
+   "category": "Economy",
+   "region": "Europe · Euro area",
+   "regions": [
+    "europe"
+   ],
+   "status": "Major development",
+   "eventDate": "2026-11-26",
+   "body": "Euro-area countries agreed on Thursday to recommend Pablo Hernández de Cos, a former governor of the Bank of Spain who now runs the Bank for International Settlements, as the next president of the European Central Bank. António Costa announced the choice, which came after the Netherlands backed him and its own candidate, Klaas Knot, dropped out. He would be the first Spaniard in the post. Leaders are expected to formally appoint him in December, after consulting the European Parliament and the bank’s governing council.",
+   "whatChanged": "A months-long contest is over: the Spanish candidate is now the only name before leaders, with formal appointment expected next month.",
+   "whyMatters": "The next president will steer interest rates for 20 countries while energy costs from the Iran war push inflation well above the bank’s 2 per cent target.",
+   "uncertainty": "Economists disagree on whether he leans toward higher or lower rates, and the exact date he takes over has not been formally set.",
+   "watchNext": "The formal appointment by EU leaders at the December summit, and the bank’s own rate decision and new forecasts in December.",
+   "keyFacts": [
+    "Hernández de Cos was governor of the Bank of Spain from 2018 to 2024 and has led the BIS since July 2025",
+    "Lagarde is due to step down on February 7, 2027, months before her term would end",
+    "The president serves a single eight-year term",
+    "The ECB’s deposit rate is 2.5 per cent after increases in June and September"
+   ],
+   "report": [
+    {
+     "heading": "The choice",
+     "paragraphs": [
+      "Xinhua reported that Costa announced on Thursday that euro-area states had agreed to recommend Hernández de Cos, and that the European Council would consult the European Parliament and the ECB’s governing council before a formal decision in December. Reuters said the nomination was settled after the Netherlands chose to back him, and an analyst it quoted said Knot’s withdrawal left him as the only contender.",
+      "Lagarde, who took office in November 2019, is due to leave on February 7, 2027. Two members of the bank’s executive board, Isabel Schnabel and Philip Lane, are also due to leave in the first half of 2027, Xinhua reported."
+     ]
+    },
+    {
+     "heading": "What economists expect",
+     "paragraphs": [
+      "ING’s Carsten Brzeski called him an excellent candidate likely to leave a clearer personal mark on policy than Lagarde, while several analysts quoted by Reuters described him as broadly a continuation of her approach. RBC’s Peter Schaffrik said markets see him as dovish even though he sounded hawkish in a recent speech. Reuters said euro markets barely moved on the news."
+     ]
+    },
+    {
+     "heading": "The inheritance",
+     "paragraphs": [
+      "The European Commission expects euro-area inflation of 3.2 per cent this year and 3.1 per cent next, driven partly by energy prices, Xinhua reported. Il Sole 24 Ore said minutes of the October meeting showed many governors were open to a further rate rise and that the debate was mainly about timing."
+     ]
+    }
+   ],
+   "visual": {
+    "type": "map",
+    "title": "Madrid to Frankfurt",
+    "bounds": [
+     -11,
+     35,
+     16,
+     55
+    ],
+    "countries": [
+     "724",
+     "276"
+    ],
+    "labels": [
+     {
+      "label": "Bay of Biscay",
+      "lon": -5,
+      "lat": 45,
+      "kind": "water"
+     }
+    ],
+    "alt": "Map of western Europe with Spain highlighted, the nominee’s home country, and Germany highlighted, with a marker at Frankfurt, the ECB’s headquarters.",
+    "caption": "Spain and Germany highlighted · marker shows the ECB in Frankfurt"
+   },
+   "locations": [
+    {
+     "label": "Frankfurt",
+     "lon": 8.68,
+     "lat": 50.11
+    }
+   ],
+   "sources": [
+    {
+     "publisher": "Xinhua",
+     "title": "Roundup: Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
+     "url": "https://english.news.cn/20261127/4691f4568ae54368b112eea813ec7932/c.html",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Reuters (via Investing.com)",
+     "title": "Instant View: Spain's De Cos set to be nominated by EU leaders as next ECB chief",
+     "url": "https://www.investing.com/news/economy-news/instant-view-spains-de-cos-set-to-be-nominated-by-eu-leaders-as-next-ecb-chief-5052548",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Il Sole 24 Ore",
+     "title": "EU budget under discussion in Brussels. ECB: many governors in favour of a further rate rise",
+     "url": "https://en.ilsole24ore.com/art/the-eu-summit-in-brussels-on-the-eu-budget-has-begun-AJB1uHTC",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "ecb-leadership",
+   "threadTitle": "Who runs the European Central Bank",
+   "threadSummary": "The succession to Christine Lagarde at the European Central Bank and the bank’s handling of high inflation."
+  },
+  {
+   "id": "us-thanksgiving-storm-outages",
+   "section": "more",
+   "title": "A Thanksgiving Day storm cuts power to about 900,000 homes and businesses and postpones the Macy’s parade",
+   "category": "Weather",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-26",
+   "whatChanged": "Heavy rain, wind and coastal flooding struck the Midwest and East Coast on the holiday, and New Jersey declared a statewide emergency.",
+   "body": "Outage trackers counted roughly 900,000 customers without power on Thursday evening, including more than 200,000 in Pennsylvania and 150,000 in Virginia, CBS News reported. Drivers were rescued from floodwater in New York City and along the New Jersey shore, and more than 400 flights were cancelled. The Macy’s Thanksgiving Day Parade was moved to Saturday because of wind. No deaths were reported in the coverage we read.",
+   "sources": [
+    {
+     "publisher": "CBS News",
+     "title": "Powerful Thanksgiving Day storm brings flooding, power outages to Northeast, Midwest",
+     "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Al Jazeera (Associated Press)",
+     "title": "Thanksgiving storms leave nearly a million without power across the US",
+     "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "us-severe-weather",
+   "threadTitle": "Severe weather in the US",
+   "threadSummary": "Storms, floods and other extreme weather affecting the United States."
+  },
+  {
+   "id": "russia-drones-ukraine-grid-six-regions",
+   "section": "more",
+   "title": "Russian drones kill six people across Ukraine and cut power in six regions",
+   "category": "War",
+   "region": "Europe · Ukraine",
+   "regions": [
+    "europe"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-26 / 2026-11-27",
+   "whatChanged": "Russia launched 155 drones overnight, hitting substations and leaving homes without electricity from Dnipropetrovsk to Kherson.",
+   "body": "Ukraine’s air force said 110 of the drones were shot down or jammed, with impacts at 27 locations, the Kyiv Independent reported. Deaths were reported in Kharkiv, Kherson, Zaporizhzhia, Donetsk, Dnipropetrovsk and Odesa regions. A day earlier, ballistic missiles hit a shopping centre and two other buildings in Kyiv, wounding seven, according to Reuters. Strikes hit Kharkiv again on Friday morning, injuring three people.",
+   "sources": [
+    {
+     "publisher": "Kyiv Independent",
+     "title": "Russian attacks kill 6, injure 25 across Ukraine over past day, power outages across 6 oblasts",
+     "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-25-across-ukraine-over-past-day-power-outages-across-6-oblasts/",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "Reuters (via Hawaii Tribune-Herald)",
+     "title": "Russian forces hit Kyiv with ballistic missiles, seven wounded, mayor says",
+     "url": "https://www.hawaiitribune-herald.com/2026/11/27/nation-world-news/russian-forces-hit-kyiv-with-ballistic-missiles-seven-wounded-mayor-says/",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "LB.ua",
+     "title": "Russians Attack Kharkiv in Morning Strike, Injuries Reported",
+     "url": "https://en.lb.ua/news/2026/11/27/51664_russians_attack_kharkiv_morning.html",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "russia-ukraine-security",
+   "threadTitle": "Russia, Ukraine & European security",
+   "threadSummary": "Russia’s war in Ukraine, efforts to end it, and the wider security of Europe."
+  },
+  {
+   "id": "houthis-jazan-coalition-strikes",
+   "section": "more",
+   "title": "A Houthi strike on Saudi Arabia’s Jazan refinery kills a Nepali worker, and the coalition says it hit 50 targets in Yemen",
+   "category": "War",
+   "region": "Middle East · Saudi Arabia and Yemen",
+   "regions": [
+    "middle-east"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-26 / 2026-11-27",
+   "whatChanged": "A day after the Houthis claimed an attack on Ras Tanura, a strike on Jazan caused a death and a fire, and Saudi-led forces hit back across northern Yemen.",
+   "body": "Gulf News reported that one Nepali worker was killed and several injured at the Jazan refinery on Thursday, and that operations were suspended after a fire; Nepal’s foreign ministry confirmed one death and three injured. The coalition spokesman, Turki al-Maliki, said its aircraft struck 50 military targets in Sanaa, Hodeidah and Saada and destroyed a launcher used in the attack. An earlier coalition statement had described only minor damage at Jazan port, HNGN reported.",
+   "sources": [
+    {
+     "publisher": "Gulf News",
+     "title": "Middle East tensions: Trump signals victory as Iran offers Kuwait drone probe",
+     "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting (live blog)"
+    },
+    {
+     "publisher": "HNGN",
+     "title": "Two Italians Killed in Kuwait; Iran Claims Hormuz Mine Strikes",
+     "url": "https://www.hngn.com/articles/273970/20261126/two-italians-killed-kuwait-iran-claims-hormuz-mine-strikes.htm",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "yemen-war",
+   "threadTitle": "Yemen’s war",
+   "threadSummary": "The war between Yemen’s Houthi movement and the Saudi-backed government, and its spread across the region."
+  },
+  {
+   "id": "uk-net-migration-lowest-since-1997",
+   "section": "more",
+   "title": "Net migration to Britain falls to 77,000, the lowest outside the pandemic since 1997",
+   "category": "Migration",
+   "region": "Europe · United Kingdom",
+   "regions": [
+    "europe"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-26",
+   "whatChanged": "Official estimates for the year to June show net migration down from a peak of 944,000 in 2023 to a small fraction of it.",
+   "body": "The Office for National Statistics estimated that 738,000 people moved to Britain and 661,000 left in the year to June 2026. Immigration fell 17 per cent on the year, mostly among people from outside the EU, while emigration was broadly stable. More British citizens left than arrived. The figures are provisional and the ONS warns that estimates for British nationals rely on projections.",
+   "sources": [
+    {
+     "publisher": "Office for National Statistics",
+     "title": "Long-term international migration, provisional: year ending June 2026",
+     "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/latest",
+     "publishedAt": "2026-11-26",
+     "kind": "Primary"
+    }
+   ],
+   "threadId": "uk-migration",
+   "threadTitle": "Migration to Britain",
+   "threadSummary": "How many people move to and from the United Kingdom, and the policies shaping those numbers."
+  },
+  {
+   "id": "cairo-fuel-tanker-fire",
+   "section": "more",
+   "title": "A fuel tanker overturns and burns on a Cairo highway, killing at least 31 people",
+   "category": "Disaster",
+   "region": "Africa · Egypt",
+   "regions": [
+    "africa"
+   ],
+   "status": "This week",
+   "eventDate": "2026-11-26",
+   "whatChanged": "One of Egypt’s deadliest road disasters in years struck the capital’s Warraq district.",
+   "body": "The tanker caught fire after overturning, killing at least 31 people and injuring 21, AllAfrica’s daily roundup reported, citing local reports. Thirty-nine ambulances were sent to the scene and the highway later reopened. The cause has not been established. We could open only the roundup, not the underlying reports, so the toll may change.",
+   "sources": [
+    {
+     "publisher": "AllAfrica",
+     "title": "All of Africa Today - November 26, 2026",
+     "url": "https://allafrica.com/stories/202611260155.html",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting (daily roundup)"
+    }
+   ],
+   "threadId": "egypt-road-safety",
+   "threadTitle": "Egypt’s road disasters",
+   "threadSummary": "Deadly crashes and fires on Egypt’s roads and the state’s response."
+  },
+  {
+   "id": "nvidia-southeast-asia-server-halt",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Nvidia is reported to have halted AI server shipments to four Southeast Asian countries under new US export rules",
+   "category": "AI chips and export controls",
+   "region": "Asia · Southeast Asia",
+   "regions": [
+    "asia"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-26 / 2026-11-27",
+   "body": "The Financial Times reported on Thursday that Nvidia told its manufacturing partners to stop shipping servers with its chips to buyers in Malaysia, Singapore, Thailand and Indonesia, according to AFP. The pause may be temporary while data-centre operators seek a newly required US licence. On Friday Singapore’s deputy prime minister, Gan Kim Yong, said the government was engaging local businesses but could not confirm the report. The rules aim to stop Chinese firms renting advanced computing in third countries.",
+   "whatChanged": "Export rules announced on November 16 appear to have reached the supply chain, with servers reportedly held back from the region’s fastest-growing data-centre markets.",
+   "whyMatters": "Southeast Asia has drawn tens of billions of dollars of data-centre investment, and the rules test whether Washington can close the rental route that Chinese AI labs have used.",
+   "hook": "A reported pause, not a confirmed ban: how long it lasts depends on how quickly US licences are granted.",
+   "uncertainty": "Nvidia has not confirmed the halt, which rests on one newspaper’s sources. Its length and scope are unclear, and Singapore says it is still studying the rules.",
+   "watchNext": "Whether Nvidia or US officials confirm the pause and begin granting licences, and the closed-door congressional interviews on Nvidia’s China dealings set for early December.",
+   "keyFacts": [
+    "The FT reported the halt on November 26; Singapore’s deputy prime minister responded on November 27",
+    "The US rule names Singapore, Thailand, Malaysia, Indonesia and Brazil as diversion risks requiring licences",
+    "Malaysia has approved about $95 billion of data-centre investment since 2021",
+    "Malaysian data-centre suppliers fell by up to about 20 per cent when the rule was announced"
+   ],
+   "report": [
+    {
+     "heading": "The reported halt",
+     "paragraphs": [
+      "According to AFP, the Financial Times cited sources saying Nvidia instructed partners to stop shipping servers containing its chips to customers in four Southeast Asian countries. AFP said the stop could be temporary while operators work out how to obtain a licence the new rules require. Gan Kim Yong told reporters on Friday that Singapore was engaging its businesses on the impact, and Fitch Ratings said data-centre investment across Asia-Pacific would slow and become more selective."
+     ]
+    },
+    {
+     "heading": "The rules behind it",
+     "paragraphs": [
+      "Reuters reported on November 17 that the US measures require licences for advanced chips shipped to Singapore, Thailand, Malaysia, Indonesia and Brazil, and impose new duties on overseas data centres that supply large amounts of computing to Chinese-headquartered companies. A Counterpoint analyst said Chinese developers could no longer get around hardware embargoes by renting US computing power abroad. The rules followed Jensen Huang’s resignation as Nvidia’s chief executive over his relationship with a former executive of Megaspeed, a Singapore cloud company that US officials linked to Chinese intelligence; China rejected that claim."
+     ]
+    },
+    {
+     "heading": "Why the region matters",
+     "paragraphs": [
+      "Malaysia’s trade ministry says it has approved about $95 billion of data-centre investment since 2021, and Thailand had 42 data centres as of February, Reuters reported. When the rule was announced, shares in Malaysian data-centre suppliers fell by up to about a fifth. Singapore’s government said it does not condone companies using Singapore to evade export controls."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-27/nvidia-southeast-asia-server-halt.svg",
+    "alt": "A server rack standing behind a closed gate with a padlock: AI servers held back from shipment.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "The Standard (AFP)",
+     "title": "Singapore 'engaging' with local firms over US chip restrictions",
+     "url": "https://www.thestandard.com.hk/world/article/349825/Singapore-engaging-with-local-firms-over-US-chip-restrictions",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Standard (Reuters)",
+     "title": "US AI chip curbs threaten Southeast Asia data center boom, shares slump",
+     "url": "https://www.thestandard.com.hk/innovation/article/348740/US-AI-chip-curbs-threaten-Southeast-Asia-data-center-boom-shares-slump",
+     "publishedAt": "2026-11-17",
+     "kind": "Reporting (background)"
+    }
+   ],
+   "threadId": "us-china-ai-rivalry",
+   "threadTitle": "The US–China AI rivalry",
+   "threadSummary": "Competition between the United States and China over AI chips, models and supply chains."
+  },
+  {
+   "id": "character-ai-chats-auction-ags",
+   "section": "frontiers",
+   "field": "AI",
+   "title": "Forty-two US states move to stop bankrupt Character.AI from auctioning its users’ private chats, including children’s",
+   "category": "AI and privacy",
+   "region": "North America · United States",
+   "regions": [
+    "north-america"
+   ],
+   "status": "Meaningful update",
+   "eventDate": "2026-11-24 / 2026-11-26",
+   "body": "A coalition of 42 state attorneys general has asked the bankruptcy court overseeing Character.AI to reject the lead bidder for its user data and, at a minimum, keep children’s conversations out of any sale. The chatbot company, which filed for Chapter 11 in October, plans an auction on December 1 covering chats from more than 21 million US accounts, over 2.1 million of them registered to minors. The only disclosed bidder is a Delaware company formed on November 13 that names no owners.",
+   "whatChanged": "The states have gone to court before next week’s auction, arguing that bankruptcy cannot override promises Character.AI made not to sell personal data.",
+   "whyMatters": "People pour intimate details into AI companions, and this case will set an early rule on whether those conversations become a saleable asset when a company fails.",
+   "hook": "The first big test of what happens to AI chat logs when the company holding them goes bust.",
+   "uncertainty": "Reports conflict on whether a judge has already approved the bidder as the base bid. The buyer’s backers have not been disclosed in court papers, and Character.AI has not answered the states publicly.",
+   "watchNext": "The auction on December 1 and the court’s sale hearing on December 3 and 4.",
+   "keyFacts": [
+    "42 attorneys general object to the sale of chats from more than 21 million US accounts",
+    "More than 2.1 million of those accounts are registered to minors, according to California’s attorney general",
+    "The lead bidder, Smirks and Pangs Acquisition LLC, was formed in Delaware on November 13",
+    "The states also oppose a proposed $350,000 break-up fee"
+   ],
+   "report": [
+    {
+     "heading": "What the states want",
+     "paragraphs": [
+      "The coalition asks the court to reject Smirks and Pangs Acquisition as lead bidder, refuse its break-up fee and, if a sale goes ahead, exclude children’s chats and other sensitive data, The Next Web and The Boston Report said. California’s Rob Bonta said bankruptcy should not be used to sidestep consumer protections. Connecticut’s William Tong said the company had promised users it would never sell their personal information."
+     ]
+    },
+    {
+     "heading": "What is for sale",
+     "paragraphs": [
+      "According to the states, the chats would be sold along with profiles, IP addresses and the company’s own risk scores for flagged users, and the buyer would not have to follow Character.AI’s privacy policy or honour deletion requests. The states say the logs include sexual conversations involving minors and talks with therapist-style characters about mental health. The Next Web reported that the New York firm Octave Advisors backs the bidder, citing the Wall Street Journal; the court filing names no parent company or investors."
+     ]
+    },
+    {
+     "heading": "The wider wind-down",
+     "paragraphs": [
+      "Disney has a separate $20 million licensing deal with Character.AI that excludes user chats and is hiring most of its staff, according to The Next Web. The company has said user data remains protected and that it will wind down the platform if no bidder keeps it running, The AI Insider and The Boston Report reported. New chatbot safety laws in California, New York, Colorado and Connecticut take effect on January 1."
+     ]
+    }
+   ],
+   "image": {
+    "asset": "assets/editions/2026-11-27/character-ai-chats-auction-ags.svg",
+    "alt": "Stacked chat speech bubbles resting on an auctioneer’s sound block beside a gavel: private conversations put up for auction.",
+    "credit": "Editorial illustration"
+   },
+   "sources": [
+    {
+     "publisher": "The Next Web",
+     "title": "42 attorneys general fight Character.AI's plan to auction users' chats",
+     "url": "https://thenextweb.com/news/character-ai-chats-auction-attorneys-general-bankruptcy",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The Boston Report",
+     "title": "42 Attorneys General Move to Block Character.AI's Dec. 1 Auction of 21 Million Users' Private Chats",
+     "url": "https://thebostonreport.com/2026/11/26/attorneys-general-character-ai-auction-private-chats-bankruptcy",
+     "publishedAt": "2026-11-26",
+     "kind": "Reporting"
+    },
+    {
+     "publisher": "The AI Insider",
+     "title": "State Attorneys General Move to Block Character.ai From Auctioning Users' Private AI Chats",
+     "url": "https://theaiinsider.tech/2026/11/27/state-attorneys-general-move-to-block-character-ai-from-auctioning-users-private-ai-chats/",
+     "publishedAt": "2026-11-27",
+     "kind": "Reporting"
+    }
+   ],
+   "threadId": "children-online-safety",
+   "threadTitle": "Children’s safety online",
+   "threadSummary": "Laws, lawsuits and company rules on how children and teenagers use social media and AI apps."
+  }
+ ],
+ "watch": [
+  {
+   "title": "Who governs New Zealand",
+   "text": "Recount applications close on Wednesday, December 2, and the writ is due back on Thursday, December 3, as National courts the Opportunity Party."
+  },
+  {
+   "title": "Spain votes",
+   "text": "Spain holds its snap general election on Sunday, November 29, after a campaign dominated by housing."
+  },
+  {
+   "title": "Character.AI’s auction",
+   "text": "The auction of Character.AI’s user data is set for Tuesday, December 1, with a court hearing on December 3 and 4."
+  }
+ ],
+ "regions": {
+  "north-america": {
+   "summary": "A holiday storm knocks out power across the East and Midwest, Trump recasts a NATO warning to include Ukraine, and states fight the sale of Character.AI users’ chats.",
+   "briefs": []
+  },
+  "latin-america": {
+   "summary": "A quiet morning in the region’s verified news; Brazil’s objection to proposed US aircraft tariffs and Venezuela’s debt talks remain the open questions.",
+   "briefs": []
+  },
+  "europe": {
+   "summary": "EU leaders fail to agree a budget or unanimous backing for Ukraine’s loan, Spain’s Hernández de Cos is picked to lead the ECB, and Russian drones cut power in six Ukrainian regions.",
+   "briefs": [
+    {
+     "title": "Washington approves a $622 million package to keep Ukraine’s F-16s flying",
+     "text": "The US State Department approved maintenance and equipment for Ukraine’s F-16 fighter jets worth an estimated $621.9 million, funded by European contributions, Reuters reported. The approval came the same day Russian ballistic missiles struck Kyiv.",
+     "eventDate": "2026-11-26",
+     "sources": [
+      {
+       "publisher": "Reuters (via Hawaii Tribune-Herald)",
+       "title": "Russian forces hit Kyiv with ballistic missiles, seven wounded, mayor says",
+       "url": "https://www.hawaiitribune-herald.com/2026/11/27/nation-world-news/russian-forces-hit-kyiv-with-ballistic-missiles-seven-wounded-mayor-says/",
+       "publishedAt": "2026-11-27",
+       "kind": "Reporting"
+      }
+     ]
+    }
+   ]
+  },
+  "africa": {
+   "summary": "A tanker fire kills at least 31 people in Cairo, while Congo’s Ebola outbreak, now past 12,000 confirmed cases, continues amid fighting in Ituri.",
+   "briefs": [
+    {
+     "title": "The EU extends its military training mission in Mozambique to 2028",
+     "text": "The European Union extended its military assistance mission in Mozambique until December 2028 with a budget of about €17 million for 2027 and 2028, AllAfrica reported. The mission trains and advises Mozambican forces fighting an insurgency in Cabo Delgado and has no combat role.",
+     "eventDate": "2026-11-26",
+     "sources": [
+      {
+       "publisher": "AllAfrica",
+       "title": "All of Africa Today - November 26, 2026",
+       "url": "https://allafrica.com/stories/202611260155.html",
+       "publishedAt": "2026-11-26",
+       "kind": "Reporting (daily roundup)"
+      }
+     ]
+    }
+   ]
+  },
+  "middle-east": {
+   "summary": "Iran denies killing two Italians in Kuwait and offers an inquiry, a Houthi strike kills a worker at Saudi Arabia’s Jazan refinery, and Saudi-led jets hit 50 targets in Yemen.",
+   "briefs": []
+  },
+  "asia": {
+   "summary": "Nvidia reportedly pauses AI server shipments to four Southeast Asian countries, and Ukraine says North Korea has paused arms deliveries to Russia.",
+   "briefs": [
+    {
+     "title": "Ukraine says North Korea has paused missile and shell deliveries to Russia",
+     "text": "Ukrainian military intelligence said North Korea temporarily suspended some military cooperation with Russia, including deliveries of ballistic missiles and artillery shells, and closed its airspace to Russian military transport planes, Euromaidan Press reported. The claim, reportedly linked to a dispute over Moscow’s ties with Seoul, has not been independently confirmed.",
+     "eventDate": "2026-11-26",
+     "sources": [
+      {
+       "publisher": "Euromaidan Press",
+       "title": "Russo-Ukrainian war, day 1737: Russian ballistic missiles hit a Kyiv shopping center and injure seven people in the city",
+       "url": "https://euromaidanpress.com/2026/11/27/russo-ukrainian-war-day-1737/",
+       "publishedAt": "2026-11-27",
+       "kind": "Reporting (daily digest)"
+      }
+     ]
+    }
+   ]
+  },
+  "oceania": {
+   "summary": "New Zealand’s final count leaves the governing coalition one seat short of a majority, with the Opportunity Party holding the balance.",
+   "briefs": []
+  }
+ }
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="An opened shipping crate holding rows of medicine vials beside a syringe">
+<rect width="800" height="500" fill="#09131d"/>
+<ellipse cx="380" cy="430" rx="260" ry="20" fill="#0f2030"/>
+<path d="M170 250 L210 200 L470 200 L430 250 Z" fill="#8a5a2b"/>
+<rect x="170" y="250" width="260" height="170" fill="#b87333"/>
+<path d="M430 250 L470 200 L470 370 L430 420 Z" fill="#7a4d24"/>
+<g fill="#d8e6f0">
+<rect x="230" y="168" width="26" height="60" rx="5"/><rect x="272" y="168" width="26" height="60" rx="5"/><rect x="314" y="168" width="26" height="60" rx="5"/><rect x="356" y="168" width="26" height="60" rx="5"/>
+</g>
+<g fill="#7fa6c4">
+<rect x="230" y="156" width="26" height="16" rx="3"/><rect x="272" y="156" width="26" height="16" rx="3"/><rect x="314" y="156" width="26" height="16" rx="3"/><rect x="356" y="156" width="26" height="16" rx="3"/>
+</g>
+<path d="M170 250 L210 200 L470 200 L430 250 Z" fill="none" stroke="#5a3a1a" stroke-width="3"/>
+<rect x="170" y="250" width="260" height="170" fill="none" stroke="#5a3a1a" stroke-width="3"/>
+<line x1="170" y1="335" x2="430" y2="335" stroke="#8a5a2b" stroke-width="6"/>
+<g transform="translate(560 300) rotate(-30)">
+<rect x="-90" y="-16" width="160" height="32" rx="6" fill="#d8e6f0"/>
+<rect x="-70" y="-16" width="90" height="32" fill="#7fa6c4"/>
+<rect x="70" y="-6" width="40" height="12" fill="#5d7387"/>
+<rect x="110" y="-24" width="10" height="48" rx="3" fill="#5d7387"/>
+<line x1="-90" y1="0" x2="-150" y2="0" stroke="#d8e6f0" stroke-width="4"/>
+</g>
+</svg>

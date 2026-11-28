@@ -1,0 +1,874 @@
+{
+  "date": "2026-11-28",
+  "number": 41,
+  "cutoff": "2026-11-28T12:10:00Z",
+  "cutoffLabel": "6:10 AM CT",
+  "opening": "Two UN agencies say hunger will worsen in 16 hotspots over the next six months. The United States disabled another ship running its blockade of Iran, Pakistan, Saudi Arabia and Türkiye met under their new defence pact, Spain votes on Sunday, and Venezuela plans to lift its ban on opposition candidates.",
+  "leadStoryId": "un-hunger-hotspots-16",
+  "stories": [
+    {
+      "id": "un-hunger-hotspots-16",
+      "section": "world",
+      "title": "UN food agencies warn that hunger will worsen in 16 hotspots over the next six months, with five countries at risk of famine",
+      "category": "Hunger and aid",
+      "region": "Global · Africa and the Middle East",
+      "regions": ["africa", "middle-east"],
+      "status": "Major development",
+      "eventDate": "2026-11-27",
+      "body": "The Food and Agriculture Organization and the World Food Programme said on Friday that acute hunger will deepen in 16 hotspots between December and May, up from 13 in their June report. Sudan, South Sudan, Somalia, northern Nigeria and Yemen face the gravest risk. Conflict drives hunger in 12 of the 16. A strengthening El Niño is behind three of the four new entries: Southern Africa, Central America’s Dry Corridor and northeastern Uganda. Chad was also added, and Lebanon dropped off the list.",
+      "whatChanged": "The twice-yearly early warning has grown from 13 hotspots to 16, and it ties much of the new risk to the Iran war’s fuel costs and to El Niño.",
+      "whyMatters": "The five places of highest concern have seen aid fall by roughly three-fifths since 2022, so the agencies’ warning arrives with far less money available to act on it.",
+      "uncertainty": "These are projections, not counts of deaths or declared famines, and there is no recent assessment for Houthi-held Yemen. The full list of 16 was not in the reporting we read.",
+      "watchNext": "Whether donors respond before the lean season, and new famine-classification findings for North Darfur and South Kordofan, where the risk is projected to last through January.",
+      "keyFacts": [
+        "16 hunger hotspots for December to May, up from 13 in June",
+        "Highest concern: Sudan, South Sudan, Somalia, northern Nigeria and Yemen",
+        "Aid to those five fell from $5.1 billion in 2022 to $2 billion in 2025",
+        "About 19.5 million people in Sudan, 41 per cent of the population, face crisis-level hunger or worse",
+        "67 per cent of Gaza’s population still faces crisis-level hunger or worse"
+      ],
+      "report": [
+        {
+          "heading": "What the agencies found",
+          "paragraphs": [
+            "The Hunger Hotspots report, published twice a year through the Global Network Against Food Crises, projects where acute food insecurity is likely to worsen. This edition lists 16 hotspots, Al Jazeera reported, with armed conflict and violence the main driver in 12 of them. Afghanistan, Haiti, the Democratic Republic of the Congo and Gaza are rated of very great concern.",
+            "Gaza was moved down from the top tier after small gains following the October 2025 ceasefire, but the Associated Press reported that two-thirds of its people still face crisis-level hunger or worse, and the agencies called the improvement fragile. Hunger in the occupied West Bank is expected to worsen."
+          ]
+        },
+        {
+          "heading": "Sudan and Yemen",
+          "paragraphs": [
+            "In Sudan, famine remains a risk in 13 areas of North Darfur and South Kordofan through January. Two displacement camps in South Darfur already exceed the famine threshold for malnutrition, and sorghum and diesel prices have more than doubled in a year, according to the AP’s account of the report.",
+            "In Yemen, fighting that resumed in July has displaced more than 300,000 people, mostly around Taiz, Lahj and Aden. In government-held areas, 1.8 million people face emergency levels of hunger, up from 1.6 million."
+          ]
+        },
+        {
+          "heading": "Money, fuel and weather",
+          "paragraphs": [
+            "The agencies point to shipping disruption in the Strait of Hormuz, the Red Sea and the Black Sea, and to Gulf fertiliser shipments that remain largely halted. Food and nutrition aid to the five highest-concern countries fell by about 62 per cent between 2022 and 2025, and by 79 per cent in Yemen. The World Meteorological Organization expects El Niño to reach exceptional strength. FAO’s deputy director-general, Beth Bechdol, told the AP that predictable funding, and acting before disasters, matter as much as the amount given."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "bars",
+        "title": "Humanitarian aid to the five highest-risk countries",
+        "measure": "Humanitarian assistance received",
+        "unit": "US$ billion",
+        "values": [
+          {"label": "2022", "value": 5.1},
+          {"label": "2025", "value": 2.0}
+        ],
+        "alt": "Bar chart showing humanitarian assistance to Sudan, South Sudan, Somalia, northern Nigeria and Yemen falling from 5.1 billion dollars in 2022 to 2 billion dollars in 2025.",
+        "caption": "Sudan, South Sudan, Somalia, Nigeria and Yemen combined · FAO and WFP figures as reported by Al Jazeera",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un"
+      },
+      "sources": [
+        {
+          "publisher": "Al Jazeera (AFP and Reuters)",
+          "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
+          "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Gulf News (Associated Press)",
+          "title": "UN warns hunger crisis will deepen as war, fuel costs and aid cuts hit Middle East",
+          "url": "https://gulfnews.com/world/mena/un-warns-hunger-crisis-will-deepen-as-war-fuel-costs-and-aid-cuts-hit-middle-east-1.500763304",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "global-hunger",
+      "threadTitle": "Hunger and famine risk worldwide",
+      "threadSummary": "UN warnings and assessments of acute hunger and famine risk across the world’s crisis zones."
+    },
+    {
+      "id": "us-disables-pacific-archer-blockade",
+      "section": "world",
+      "title": "The United States disables another ship running its blockade of Iran, as Italy says the drone that killed two of its citizens in Kuwait was made in Iran",
+      "category": "Conflict",
+      "region": "Middle East · Gulf of Oman and Kuwait",
+      "regions": ["middle-east", "europe"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-26 / 2026-11-28",
+      "body": "US Central Command said its aircraft fired precision munitions into the stern of the Palau-flagged Pacific Archer in the Gulf of Oman on Thursday, after the ship left Bandar Abbas and tried to break the blockade of Iranian ports. Its crew was unharmed. Italy’s foreign minister said Kuwaiti investigators found that the drone which killed two Italian technicians in Kuwait was made in Iran, though not necessarily launched by Iran. Kuwait summoned Iran’s ambassador on Friday, and Italy is moving its troops out of the country.",
+      "whatChanged": "The investigation into Thursday’s deaths in Kuwait now points to an Iranian-made drone, Italy is pulling its soldiers out, and the US has stopped its first blockade-runner since early November.",
+      "whyMatters": "A European government is now publicly tracing a deadly attack to Iranian hardware, while US forces keep firing on merchant ships to enforce the blockade.",
+      "uncertainty": "Who launched the drone is unresolved: Tajani noted that Iran-backed groups also use Iranian drones, and Tehran denies involvement. Iran’s claims that tankers hit its mines near Hormuz could not be independently verified.",
+      "watchNext": "Whether a joint Kuwaiti, Italian and Iranian inquiry is formed, where Italy’s troops are redeployed, and whether more ships try to run the blockade.",
+      "keyFacts": [
+        "The Pacific Archer is at least the 15th ship the US has publicly disabled since the blockade began in April",
+        "CENTCOM says it has redirected 158 merchant ships",
+        "The two Italians killed were Rheinmetall technicians servicing an air-defence radar",
+        "Kuwait summoned Iran’s ambassador on Friday, November 27"
+      ],
+      "report": [
+        {
+          "heading": "The ship",
+          "paragraphs": [
+            "CENTCOM said the Pacific Archer ignored repeated warnings before an American aircraft disabled its propulsion on Thursday. Ship-tracking data listed its destination as Singapore, Al Jazeera reported, adding that it was the sixth vessel disabled since the blockade resumed in July and the first since November 7.",
+            "Iran’s navy commander, Shahram Irani, vowed to break the blockade. The Revolutionary Guards said on Friday that a tanker using what they called an unauthorised route struck naval mines north of Oman’s Al Ghanam Island and caught fire, while a second turned back. CENTCOM separately denied Iranian claims that it had seized two Iranian tankers, that the carrier Abraham Lincoln had been hit, and that it charges ships to cross Hormuz, Gulf News reported."
+          ]
+        },
+        {
+          "heading": "The Kuwait inquiry",
+          "paragraphs": [
+            "The Italian news agency ANSA, as reported by the Arab Times, named the dead as Antonio Saccoccio, 65, and Emanuele Lo Russo, 36, who were maintaining a Skyguard air-defence radar at a Kuwaiti military site. Antonio Tajani said the drone was Iranian-made but stressed that this did not prove it came from Iranian territory or forces.",
+            "Iran’s foreign minister, Abbas Araghchi, denied that the drone came from Iran and offered a joint commission of inquiry with Kuwait and Italy. Kuwait handed Iran’s ambassador a formal protest over continued attacks. Defence Minister Guido Crosetto told Italy’s parliament that troops based in Kuwait under the US-led coalition would move, partly to Saudi Arabia."
+          ]
+        },
+        {
+          "heading": "Washington’s message",
+          "paragraphs": [
+            "Speaking to troops by phone on Thanksgiving, President Trump said victory in Iran was at hand and that the timing was his decision, according to Gulf News."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "The Strait of Hormuz and the Gulf of Oman",
+        "bounds": [50, 22, 62, 30],
+        "countries": ["364", "512", "784"],
+        "labels": [
+          {"label": "Gulf of Oman", "lon": 59, "lat": 24.4, "kind": "water"},
+          {"label": "Persian Gulf", "lon": 52.5, "lat": 26.6, "kind": "water"}
+        ],
+        "alt": "Map of the Strait of Hormuz with Iran, Oman and the United Arab Emirates highlighted, and markers at Bandar Abbas, where the Pacific Archer sailed from, and Khasab in Oman, near where Iran says tankers hit mines.",
+        "caption": "Iran, Oman and the UAE · approximate reporting locations; the exact strike position was not disclosed"
+      },
+      "locations": [
+        {"label": "Bandar Abbas", "lon": 56.27, "lat": 27.18},
+        {"label": "Khasab, Oman", "mapLabel": "Khasab", "lon": 56.25, "lat": 26.18}
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera (Associated Press)",
+          "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+          "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Arab Times",
+          "title": "Iran-made drone killed two Italian technicians in Kuwait",
+          "url": "https://www.arabtimesonline.com/news/iran-made-drone-killed-two-italian-technicians-in-kuwait/",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran",
+          "publishedAt": "2026-11-28",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Gulf News",
+          "title": "Middle East tensions: Trump signals victory as Iran offers Kuwait drone probe",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+          "publishedAt": "2026-11-28",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Gulf News",
+          "title": "Middle East tensions: Saudi Arabia, Pakistan and Turkey strengthen defence ties, US blockade and Iran claims",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-saudi-arabia-pakistan-and-turkey-strengthen-defence-ties-us-blockade-and-iran-claims-1.500763810",
+          "publishedAt": "2026-11-28",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "iran-gulf-war",
+      "threadTitle": "The Iran war and Gulf security",
+      "threadSummary": "The 2026 war involving Iran, the United States and Israel, and its spread to shipping and Gulf states."
+    },
+    {
+      "id": "mecca-pact-islamabad-houthis",
+      "section": "world",
+      "title": "Pakistan, Saudi Arabia and Türkiye meet in Islamabad under their new defence pact and condemn Houthi attacks, but announce no military steps",
+      "category": "Security alliances",
+      "region": "Asia · Pakistan; Middle East · Saudi Arabia",
+      "regions": ["middle-east", "asia"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-27",
+      "body": "Foreign and defence ministers and military chiefs from the three countries met in Islamabad on Friday for about two and a half hours, in what Gulf News called the second meeting of the pact’s strategic committee. Pakistan’s foreign minister, Ishaq Dar, said they condemned what he called persistent and heinous Houthi attacks on Saudi civilians and pledged to step up support for the kingdom. No concrete measures were announced, and Türkiye’s foreign minister said no decision had been taken on sending troops into Yemen.",
+      "whatChanged": "The treaty, signed in Mecca in August, has moved from paper to a working committee that is now openly focused on the Houthi strikes on Saudi Arabia.",
+      "whyMatters": "The pact treats an attack on one member as an attack on all three, joining a nuclear-armed Pakistan and NATO member Türkiye to Saudi security as the Yemen war reaches Saudi cities.",
+      "uncertainty": "What the members would actually do is unclear: Pakistan has ruled out striking the Houthis inside Yemen, and the meeting set out no timetable or forces.",
+      "watchNext": "Any follow-up decisions from the pact’s committee, and whether Houthi attacks on Saudi airports and refineries continue.",
+      "keyFacts": [
+        "The Mecca pact was signed on August 7, 2026; an attack on one member counts as an attack on all three",
+        "Friday’s Islamabad meeting lasted about two and a half hours",
+        "At least 26 people have been killed in suspected Houthi attacks in Saudi Arabia since September 23, 23 of them at airports",
+        "Saudi Defence Minister Prince Khalid bin Salman led his country’s delegation"
+      ],
+      "report": [
+        {
+          "heading": "The meeting",
+          "paragraphs": [
+            "Al Jazeera described the session as a meeting of the pact’s strategic political and defence committee, which Dar said reviewed the region’s changing security situation. Pakistan’s army chief, Field Marshal Asim Munir, attended. Gulf News reported that Saudi Arabia was represented by Defence Minister Prince Khalid bin Salman and Foreign Minister Prince Faisal bin Farhan, who were also received by Prime Minister Shehbaz Sharif.",
+            "Türkiye’s foreign minister, Hakan Fidan, said no decision had been made on deploying troops in Yemen, and Al Jazeera noted that Pakistan has ruled out attacking the Houthis on Yemeni soil."
+          ]
+        },
+        {
+          "heading": "Why now",
+          "paragraphs": [
+            "Saudi authorities say at least 26 people have been killed in suspected Houthi drone and missile attacks on the kingdom since September 23, most of them at airports. This week a strike on the Jazan refinery killed a Nepali worker, and the Saudi-led coalition said it destroyed 50 targets in Yemen in response.",
+            "Gulf News also reported that President Erdoğan had formally signed Türkiye’s ratification of the treaty, following earlier approval by parliament."
+          ]
+        },
+        {
+          "heading": "What it adds up to",
+          "paragraphs": [
+            "The pact gives Saudi Arabia formal commitments from two large militaries, but Friday’s statements stayed political. The three governments condemned the attacks and promised more support without saying what form it would take."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "The Mecca pact members and Yemen",
+        "bounds": [24, 10, 76, 44],
+        "countries": ["586", "682", "792", "887"],
+        "labels": [
+          {"label": "Arabian Sea", "lon": 63, "lat": 16, "kind": "water"},
+          {"label": "Red Sea", "lon": 38.5, "lat": 20, "kind": "water"}
+        ],
+        "alt": "Map with Pakistan, Saudi Arabia, Türkiye and Yemen highlighted, and markers at Islamabad, where the pact members met, and Jazan in southern Saudi Arabia, where a Houthi strike hit a refinery.",
+        "caption": "Pact members Pakistan, Saudi Arabia and Türkiye, with Yemen for context · approximate locations"
+      },
+      "locations": [
+        {"label": "Islamabad", "lon": 73.05, "lat": 33.68},
+        {"label": "Jazan", "lon": 42.55, "lat": 16.89}
+      ],
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+          "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Gulf News",
+          "title": "Middle East tensions: Saudi Arabia, Pakistan and Turkey strengthen defence ties, US blockade and Iran claims",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-saudi-arabia-pakistan-and-turkey-strengthen-defence-ties-us-blockade-and-iran-claims-1.500763810",
+          "publishedAt": "2026-11-28",
+          "kind": "Live reporting"
+        },
+        {
+          "publisher": "Gulf News",
+          "title": "Middle East tensions: Trump signals victory as Iran offers Kuwait drone probe",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+          "publishedAt": "2026-11-28",
+          "kind": "Live reporting"
+        }
+      ],
+      "threadId": "turkey-defence-pacts",
+      "threadTitle": "Türkiye’s new defence pacts",
+      "threadSummary": "Türkiye’s growing set of defence agreements with Gulf and other Muslim-majority states during the 2026 Iran war."
+    },
+    {
+      "id": "spain-votes-sunday",
+      "section": "world",
+      "title": "Spain votes on Sunday after a campaign that ended with the conservatives narrowly ahead and the far right hoping to nearly double its seats",
+      "category": "Elections",
+      "region": "Europe · Spain",
+      "regions": ["europe"],
+      "status": "This week",
+      "eventDate": "2026-11-27 / 2026-11-29",
+      "body": "Party leaders held their final rallies on Friday before Sunday’s snap general election. Prime Minister Pedro Sánchez told supporters in Madrid he could not imagine losing, and accused Alberto Núñez Feijóo of planning a coalition with the far right. Feijóo closed his campaign in Seville, and Vox’s Santiago Abascal in a Valencia bullring. The last polls, published on Monday, put Feijóo’s People’s Party narrowly ahead; most suggested it could govern with Vox, though some had the two short of a majority. About 38.6 million people can vote.",
+      "whatChanged": "The campaign is over and Saturday is a legally required day of reflection, with no new polls allowed since Monday.",
+      "whyMatters": "A People’s Party government relying on Vox would give a far-right party a share of national power for the first time since Franco’s death, after an election fought largely over housing.",
+      "uncertainty": "Polls disagreed: the state-run CIS institute had Sánchez’s Socialists first, while most private pollsters had the People’s Party ahead. A hung parliament and even a repeat election are possible.",
+      "watchNext": "Turnout figures at 2:30 PM and 6:30 PM local time on Sunday and the first results from 9 PM, then whether any bloc reaches 176 of 350 seats.",
+      "keyFacts": [
+        "350 seats in Congress; 176 are needed for a majority",
+        "38,616,949 people are eligible to vote, including 2.66 million abroad",
+        "In 2023 the People’s Party won 137 seats, and with Vox held 170",
+        "Postal votes accepted: 1,012,033, well below 2023’s 2.47 million",
+        "Polling stations open from 9 AM to 8 PM; Congress first sits on December 23"
+      ],
+      "report": [
+        {
+          "heading": "The final day",
+          "paragraphs": [
+            "Sánchez closed his campaign at Madrid’s Caja Mágica arena, which his party said drew 13,000 people, setting a target of 75 per cent turnout and a progressive majority. Feijóo, after a stop in Barcelona, promised decency and good government in Seville and repeated a pledge to build a million homes in four years. Abascal, whose party hopes to almost double the 33 seats it won in 2023, campaigned on what Vox calls national priority and remigration, the BBC reported.",
+            "Ada Colau, Irene Montero and Yolanda Díaz held separate rallies for the left. Feijóo said his party had never discussed giving Vox ministerial posts, though the People’s Party already governs with Vox in several regions."
+          ]
+        },
+        {
+          "heading": "Late controversies",
+          "paragraphs": [
+            "Feijóo faced renewed questions about photographs, published in 2013, showing him in the 1990s with a convicted drug trafficker, and was challenged over a debate claim about pensions, Gulf Times reported. On Friday the People’s Party complained to the Central Electoral Board about postal-vote papers found in a Madrid container, El Constitucional reported, while Abascal warned of possible tricks without offering evidence."
+          ]
+        },
+        {
+          "heading": "What happens next",
+          "paragraphs": [
+            "If no candidate wins an absolute majority in a first investiture vote, a simple majority suffices 48 hours later. If nobody wins a confidence vote within two months, parliament is dissolved, as happened before the repeat elections of 2016 and 2019, idealista noted. The official count begins on Friday, December 4."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Spain’s closing rallies",
+        "bounds": [-10, 35.5, 4.5, 44.5],
+        "countries": ["724"],
+        "labels": [{"label": "Mediterranean Sea", "lon": 2.2, "lat": 38.3, "kind": "water"}],
+        "alt": "Map of Spain highlighted, with markers at Madrid, Seville and Valencia, where the three main party leaders held their final rallies.",
+        "caption": "Spain · final rallies of Sánchez in Madrid, Feijóo in Seville and Abascal in Valencia"
+      },
+      "locations": [
+        {"label": "Madrid", "lon": -3.70, "lat": 40.42},
+        {"label": "Seville", "lon": -5.98, "lat": 37.39},
+        {"label": "Valencia", "lon": -0.38, "lat": 39.47}
+      ],
+      "sources": [
+        {
+          "publisher": "BBC (via Yahoo News)",
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "url": "https://www.yahoo.com/news/world/articles/spanish-pm-rivals-rally-supporters-200914104.html",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "El Constitucional",
+          "title": "Spain enters the 29N reflection day after the last rallies of Sánchez, Feijóo, Abascal, Colau and Montero to mobilize every last vote",
+          "url": "https://elconstitucional.es/en/national/spain-enters-the-29n-reflection-day-after-the-last-rallies-of-sanchez-feijoo-abascal-colau-and-montero-to-mobilize-every-last-vote_10807_102.html",
+          "publishedAt": "2026-11-28",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Gulf Times",
+          "title": "Spain’s election campaigning draws to a close ahead of vote",
+          "url": "https://www.gulf-times.com/article/664911/international/spains-election-campaigning-draws-to-a-close-ahead-of-vote",
+          "publishedAt": "Undated (late November 2026)",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "idealista/news",
+          "title": "Spain election polls 2026: who could form the next government?",
+          "url": "https://www.idealista.com/en/news/node/924140",
+          "publishedAt": "2026-11-13",
+          "kind": "Explainer"
+        }
+      ],
+      "threadId": "spain-housing-election",
+      "threadTitle": "Spain’s housing anger and snap election",
+      "threadSummary": "Protests over rents and the cost of living in Spain, and the early general election called for November 29, 2026."
+    },
+    {
+      "id": "venezuela-repeal-opposition-ban",
+      "section": "world",
+      "title": "Venezuela’s interim authorities say they will repeal the 2024 law used to bar opposition figures from public office",
+      "category": "Democracy",
+      "region": "Latin America · Venezuela",
+      "regions": ["latin-america"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-26",
+      "body": "National Assembly president Jorge Rodríguez announced on Thursday that the law will be scrapped. Passed in 2024, after the disputed election that kept Nicolás Maduro in power, it targeted people accused of promoting sanctions against Venezuela and was criticised as a tool of persecution. Rodríguez said it belonged to a very specific moment and that the transition talks with the opposition had agreed to review several laws. The same day, opposition leader María Corina Machado began a campaign of neighbourhood assemblies across the country.",
+      "whatChanged": "Days after a fourth round of talks ended without an election date, the government has offered its first concrete legal concession to the opposition.",
+      "whyMatters": "The law was one of the tools used to keep opponents off the ballot, so repealing it is a precondition for the competitive election the interim government has promised but not scheduled.",
+      "uncertainty": "No repeal text or vote date has been published, and it is not yet clear whether earlier disqualifications, including Machado’s, will be lifted. This account rests on one wire-based report.",
+      "watchNext": "A National Assembly vote on the repeal, and whether the talks produce an election date or a new electoral council.",
+      "keyFacts": [
+        "Announced by National Assembly president Jorge Rodríguez on November 26",
+        "The law was passed in 2024 and targeted people who promoted or supported sanctions",
+        "Delcy Rodríguez has led an interim government since US forces seized Maduro in January",
+        "Machado’s team said about 2,000 neighbourhood assemblies met on the first day"
+      ],
+      "report": [
+        {
+          "heading": "The announcement",
+          "paragraphs": [
+            "Jorge Rodríguez, who leads the National Assembly and is the brother of interim leader Delcy Rodríguez, said the law had responded to particular circumstances and would be repealed, Al Jazeera reported, citing AFP. He said the dialogue with opposition figures chosen with Washington’s involvement had agreed to review a number of laws."
+          ]
+        },
+        {
+          "heading": "Background",
+          "paragraphs": [
+            "The law was approved after the 2024 vote that Maduro claimed amid allegations of fraud, and critics said its penalties for anyone who backed sanctions made it a tool for punishing dissent. Delcy Rodríguez has governed since US forces seized Maduro in January. At the United Nations in September she promised free elections but gave no date. The fourth round of transition talks ended this week without an election date or agreement on a new electoral council.",
+            "Machado, who was legally barred from running in 2024, returned from exile last month and is widely expected to stand if an election is called."
+          ]
+        },
+        {
+          "heading": "The opposition’s next move",
+          "paragraphs": [
+            "On Thursday Machado launched neighbourhood assemblies built around 19 questions. Her team told AFP that about 2,000 meetings took place on the first day and that it expects more than a million people to take part over several months. The effort looks designed to build an organisation ready for a vote whenever one is called."
+          ]
+        }
+      ],
+      "visual": {
+        "type": "map",
+        "title": "Venezuela",
+        "bounds": [-74, 0, -59, 13],
+        "countries": ["862"],
+        "labels": [{"label": "Caribbean Sea", "lon": -68.5, "lat": 12.4, "kind": "water"}],
+        "alt": "Map of Venezuela highlighted, with a marker at Caracas, where the National Assembly announced the repeal.",
+        "caption": "Venezuela · Caracas marked as the reporting location"
+      },
+      "locations": [{"label": "Caracas", "lon": -66.90, "lat": 10.49}],
+      "sources": [
+        {
+          "publisher": "Al Jazeera (AFP)",
+          "title": "Venezuela to repeal law that bans opposition figures from office",
+          "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "venezuela-transition",
+      "threadTitle": "Venezuela after Maduro",
+      "threadSummary": "Venezuela’s political transition, talks and economic restructuring after Nicolás Maduro’s removal."
+    },
+    {
+      "id": "ukraine-bear-trap-kharkiv",
+      "section": "more",
+      "title": "Ukraine says a counteroffensive in northern Kharkiv has retaken about 200 square kilometres and 14 settlements",
+      "category": "Conflict",
+      "region": "Europe · Ukraine",
+      "regions": ["europe"],
+      "status": "This week",
+      "eventDate": "2026-11-20 / 2026-11-27",
+      "whatChanged": "Ukraine’s command gave the first figures for Operation Bear Trap, which it says is still going on.",
+      "body": "Ukraine’s military says the operation, which became public on November 20, used deception, rear attacks and drone-laid mines on supply routes to stop a Russian push for almost 500 square kilometres. Russia still holds at least four border villages in the area, including Vovchansk, Al Jazeera reported. The claims have not been independently confirmed. The report also noted that US-brokered proposals on security guarantees remain under discussion, with President Zelensky saying he does not trust a deal struck between Washington and Moscow.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+          "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "russia-ukraine-security",
+      "threadTitle": "Russia, Ukraine & European security",
+      "threadSummary": "Russia’s war in Ukraine and its effects on European and NATO security."
+    },
+    {
+      "id": "guinea-bissau-election-delayed-2028",
+      "section": "more",
+      "title": "Guinea-Bissau’s military rulers postpone elections by two years, to November 2028",
+      "category": "Democracy",
+      "region": "Africa · Guinea-Bissau",
+      "regions": ["africa"],
+      "status": "This week",
+      "whatChanged": "Presidential and legislative elections due on December 6 were pushed back on the first anniversary of last year’s coup.",
+      "eventDate": "2026-11-26",
+      "body": "A decree from the transitional president, Major General Horta Inta-a, cited insufficient technical, material and financial conditions. The army seized power in November 2025, interrupting a presidential vote and ousting Umaro Sissoco Embaló, and was meant to oversee a one-year transition. The West African bloc ECOWAS has called for a short, structured return to civilian rule.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera (AFP and Reuters)",
+          "title": "Guinea-Bissau military leaders delay presidential election until 2028",
+          "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years",
+          "publishedAt": "2026-11-26",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Deutsche Welle (via allAfrica)",
+          "title": "Guinea-Bissau Junta Delays Presidential Vote for 2 Years",
+          "url": "https://allafrica.com/stories/202611270135.html",
+          "publishedAt": "2026-11-26",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "guinea-bissau-politics",
+      "threadTitle": "Guinea-Bissau’s military rule",
+      "threadSummary": "Guinea-Bissau’s politics after the November 2025 military takeover and the delayed return to civilian rule."
+    },
+    {
+      "id": "niger-sanam-attack",
+      "section": "more",
+      "title": "At least 13 members of Niger’s National Guard are killed in an attack on their base in the west of the country",
+      "category": "Conflict",
+      "region": "Africa · Niger",
+      "regions": ["africa"],
+      "status": "This week",
+      "whatChanged": "It is the second deadly attack on Niger’s forces in three days, after 11 soldiers were killed near the border with Nigeria.",
+      "eventDate": "2026-11-26",
+      "body": "Niger’s defence ministry said heavily armed attackers struck the compound at Sanam, in the Tillabéri region near Mali, early on Thursday, killing at least 13 and wounding 20, a toll it called provisional. No group has been named. Two days earlier the ministry blamed Boko Haram for an attack in Diffa that killed 11 soldiers.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+          "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "sahel-conflict",
+      "threadTitle": "War in the Sahel",
+      "threadSummary": "Armed groups, military governments and the conflicts across West Africa’s Sahel."
+    },
+    {
+      "id": "costa-rica-bars-albanese",
+      "section": "more",
+      "title": "Costa Rica refuses entry to the UN’s special rapporteur on the Palestinian territories, Francesca Albanese",
+      "category": "Diplomacy",
+      "region": "Latin America · Costa Rica",
+      "regions": ["latin-america"],
+      "status": "This week",
+      "whatChanged": "Albanese was stopped at San José’s airport on Thursday as she arrived to receive an honorary doctorate.",
+      "eventDate": "2026-11-26 / 2026-11-27",
+      "body": "Costa Rica’s immigration chief said she was the subject of an international alert over links to terrorist acts, without saying which country issued it. Albanese called her detention a disgrace. She has been sanctioned by the United States after criticising its Gaza policy, and Israel’s UN ambassador praised Costa Rica’s decision.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera (AFP)",
+          "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+          "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "un-rapporteur-albanese",
+      "threadTitle": "The UN rapporteur Francesca Albanese",
+      "threadSummary": "The disputes over Francesca Albanese, the UN special rapporteur on the occupied Palestinian territories."
+    },
+    {
+      "id": "mexico-complaint-dea-tip-line",
+      "section": "more",
+      "title": "Mexico lodges a formal complaint with Washington over a US drug agency tip line seeking information on Mexican officials",
+      "category": "Diplomacy",
+      "region": "Latin America · Mexico",
+      "regions": ["latin-america", "north-america"],
+      "status": "This week",
+      "whatChanged": "President Claudia Sheinbaum said on Friday that her foreign minister had raised the complaint with the US ambassador.",
+      "eventDate": "2026-11-27",
+      "body": "The Drug Enforcement Administration launched the line this week, inviting tips by Signal, WhatsApp and email on suspected traffickers and corrupt officials, with a focus on Sinaloa. Sheinbaum said the relationship should rest on coordination, not subordination, and said the agency had plenty to do at home. The DEA did not respond to Reuters.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera (AP and Reuters)",
+          "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+          "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "mexico-cartel-violence",
+      "threadTitle": "Mexico’s fight against the cartels",
+      "threadSummary": "Mexico’s campaign against drug cartels and its security relationship with the United States."
+    },
+    {
+      "id": "msf-gaza-clinic-strike",
+      "section": "more",
+      "title": "An Israeli strike on a Doctors Without Borders clinic in Gaza City kills two of its staff",
+      "category": "Humanitarian",
+      "region": "Middle East · Gaza",
+      "regions": ["middle-east"],
+      "status": "This week",
+      "whatChanged": "The medical charity says it was a direct hit on a marked clinic whose location Israel knew, bringing its staff killed in Gaza to 17.",
+      "eventDate": "2026-11-27",
+      "body": "The two dead were watchmen, the charity said on Friday. Israel’s military said, without giving evidence, that both were Hamas members. The World Health Organization’s chief called the attack outrageous. Strikes have continued despite the ceasefire that began in October 2025.",
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+          "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff",
+          "publishedAt": "2026-11-28",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "gaza-humanitarian",
+      "threadTitle": "Gaza's humanitarian situation",
+      "threadSummary": "The humanitarian situation in Gaza, including strikes, aid access and the ceasefire."
+    },
+    {
+      "id": "nvidia-blackwell-shanghai-site",
+      "section": "frontiers",
+      "field": "AI",
+      "title": "Restricted Nvidia Blackwell hardware is traced to a Shanghai data-centre site linked to Alice Huang, days before Jensen Huang faces Congress",
+      "category": "AI chips and export controls",
+      "region": "Asia · China",
+      "regions": ["asia", "north-america"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-27",
+      "body": "Bloomberg reported on Friday that loan filings to Chinese regulators show Nvidia’s most advanced systems at a Shanghai site called the Yangtze River Delta Project. One company, Shanghai Shuoyao, pledged a GB300 NVL72 rack, which holds 72 Blackwell Ultra chips, as collateral for a 96 million yuan loan, about $14 million. Another, Shanghai Kezhan, listed a GB200 server. Shipping such chips to China requires a US licence. Bloomberg traced the rack’s serial number to Taiwan’s Gigabyte, which would not say who bought it.",
+      "whatChanged": "For the first time, documents place Blackwell-generation hardware inside China, at a site with ties to the woman at the centre of Nvidia’s leadership crisis.",
+      "whyMatters": "It is concrete evidence that the most restricted US AI chips can still reach China, arriving just before lawmakers question Nvidia about its controls.",
+      "hook": "A paper trail, not a smuggling verdict: the filings show where the hardware ended up, not how it got there.",
+      "uncertainty": "Bloomberg says it has no evidence that Megaspeed, the Singapore broker Alice Huang founded, sent the hardware, and Megaspeed denies wrongdoing. The filings cover only equipment pledged for loans, so the site’s full contents are unknown.",
+      "watchNext": "Jensen Huang’s closed-door interview with House committees on December 1 and the public Senate Banking Committee hearing on export controls on December 3.",
+      "keyFacts": [
+        "A GB300 NVL72 rack with 72 Blackwell Ultra chips was pledged for a 96 million yuan loan from Shanghai Innovation Bank",
+        "Shanghai Kezhan also listed a GB200 server and 32 servers with H200 chips",
+        "Local media say the site is designed for up to 800,000 servers",
+        "The US blacklisted Megaspeed this month; the Justice Department is investigating it"
+      ],
+      "report": [
+        {
+          "heading": "What the filings show",
+          "paragraphs": [
+            "According to Bloomberg’s reporting, as relayed by The Next Web, Engadget and IBTimes, Shuoyao’s loan came from Shanghai Innovation Bank, while Kezhan described its GB200 server when it took a 90 million yuan loan in late 2025 from a leasing firm owned by a Shanghai government agency. A sister company of Shuoyao disclosed Hopper-generation servers made by Super Micro and Dell; it is unclear whether those had US approval.",
+            "Gigabyte said it follows applicable laws and its own compliance rules, but declined to name the rack’s first buyer."
+          ]
+        },
+        {
+          "heading": "The Alice Huang link",
+          "paragraphs": [
+            "Shuoyao says it is one of Megaspeed’s service providers but calls the relationship ordinary commercial cooperation. Megaspeed used a rendering of the Shanghai project in a 2024 investor pitch without naming the country, Bloomberg found. Engadget reported that Kang Wei, whom The New York Times has described as often introduced as Alice Huang’s husband, is listed as the facility’s president.",
+            "Neither Nvidia nor Megaspeed answered Bloomberg’s questions. The reporting follows Nvidia’s reinstatement of Jensen Huang as chief executive on November 23."
+          ]
+        },
+        {
+          "heading": "Why Washington cares",
+          "paragraphs": [
+            "President Trump has said he does not want Blackwell chips going to China, and shipping them there requires a US licence. Lawmakers are expected to press Huang on how far Nvidia can see where its chips end up once they pass through resellers and server makers."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-28/nvidia-blackwell-shanghai-site.svg",
+        "alt": "A tall server rack with a paper collateral tag tied to its handle, illustrating Nvidia hardware pledged as security for a loan at a Shanghai data centre.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "The Next Web (reporting Bloomberg)",
+          "title": "Blackwell rack found at Alice Huang-linked Shanghai site, Bloomberg reports",
+          "url": "https://thenextweb.com/news/nvidia-blackwell-chips-alice-huang-shanghai-data-centre-bloomberg",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "Engadget",
+          "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+          "url": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "International Business Times UK",
+          "title": "NVIDIA-Powered Servers Surface at Alice Huang-Linked China Site Ahead of Senate Export Hearing",
+          "url": "https://www.ibtimes.co.uk/nvidia-blackwell-servers-shanghai-megaspeed-links-1835285",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        },
+        {
+          "publisher": "LB.ua",
+          "title": "Bloomberg: Powerful Nvidia Blackwell Chips Found at China Data Centre Linked to Smuggling",
+          "url": "https://en.lb.ua/news/2026/11/27/51826_bloomberg_powerful_nvidia.html",
+          "publishedAt": "2026-11-27",
+          "kind": "Reporting"
+        }
+      ],
+      "threadId": "us-china-ai-rivalry",
+      "threadTitle": "The US–China AI rivalry",
+      "threadSummary": "Competition between the United States and China over AI chips, models and export controls."
+    },
+    {
+      "id": "generic-lenacapavir-arrives-zambia",
+      "section": "frontiers",
+      "field": "Medicine",
+      "title": "The first generic doses of a twice-yearly HIV prevention injection arrive in Africa, starting with Zambia",
+      "category": "HIV prevention",
+      "region": "Africa · Zambia and Uganda",
+      "regions": ["africa"],
+      "status": "Meaningful update",
+      "eventDate": "2026-11-25",
+      "body": "The Global Fund said on Wednesday that the world’s first deliveries of generic lenacapavir have reached Zambia, with Uganda expecting supplies within days and Zimbabwe early next year. The injection, given every six months, protects people who do not have HIV from infection. The deliveries come a year after Gilead’s branded version reached sub-Saharan Africa. More than 189,000 people in 10 early-adopter countries have had a first dose, and the Fund and the US government aim to reach at least three million people by the end of 2028.",
+      "whatChanged": "Lenacapavir has moved from the originator company’s supply to cheaper generic production, which is what large-scale rollout depends on.",
+      "whyMatters": "An injection that lasts six months offers an alternative to daily pills, and generic supply is what allows the volumes the Global Fund is planning.",
+      "hook": "A supply milestone rather than a new medical result: the drug’s effect is established, and the test now is how many people it reaches.",
+      "uncertainty": "The Global Fund did not name the generic manufacturers or say what the generic doses cost. Uganda’s delivery was expected, not confirmed, at the time of the announcement.",
+      "watchNext": "Larger generic shipments to many more countries in the first quarter of 2027, and whether 24 countries have the drug by the end of this year as planned.",
+      "keyFacts": [
+        "First generic deliveries arrived in Zambia, announced on November 25, 2026",
+        "More than 189,000 people in 10 countries have received a first dose",
+        "24 countries are expected to have lenacapavir by the end of 2026",
+        "The 2027 delivery volume is planned at four times 2026’s"
+      ],
+      "report": [
+        {
+          "heading": "What arrived",
+          "paragraphs": [
+            "The Global Fund announced the Zambian delivery from Geneva and said a shipment to Uganda would follow in the coming days, with one it is financing due in Zimbabwe in early 2027. A digest of African reporting by allAfrica on Friday likewise described Uganda as about to receive its first generic supplies.",
+            "The Fund credited Gilead’s early voluntary licences with generic makers, investment by the Gates Foundation and Unitaid, and technical support funded with the Children’s Investment Fund Foundation. It said its expert review process and a recent US Food and Drug Administration approval had allowed faster purchasing through its pooled platform."
+          ]
+        },
+        {
+          "heading": "The scale of the plan",
+          "paragraphs": [
+            "Together with the US government, the Global Fund plans to deliver four times this year’s volume in 2027 and to reach at least three million people by the end of 2028. Gilead’s own product will keep flowing during the switch to generics. The Fund describes the injection as nearly 100 per cent effective at preventing infection, a figure drawn from earlier clinical trials rather than from this rollout.",
+            "Its executive director, Peter Sands, called the arrival of generics a major breakthrough, while its head of supply operations said more quality-assured suppliers are still needed."
+          ]
+        },
+        {
+          "heading": "The limits",
+          "paragraphs": [
+            "The release gives no generic price and does not name the manufacturers, so the savings cannot yet be judged. Reaching people also depends on clinics, testing and follow-up visits every six months."
+          ]
+        }
+      ],
+      "image": {
+        "asset": "assets/editions/2026-11-28/generic-lenacapavir-arrives-zambia.svg",
+        "alt": "An opened shipping crate holding rows of small medicine vials beside a syringe, illustrating the first generic HIV prevention injections delivered to Zambia.",
+        "credit": "Editorial illustration"
+      },
+      "sources": [
+        {
+          "publisher": "The Global Fund",
+          "title": "First Deliveries of Generic Lenacapavir for HIV Prevention Arrive in Countries",
+          "url": "https://www.theglobalfund.org/en/news/2026/2026-11-25-first-deliveries-generic-lenacapavir-hiv-prevention-arrive/",
+          "publishedAt": "2026-11-25",
+          "kind": "Primary"
+        },
+        {
+          "publisher": "allAfrica",
+          "title": "Africa: All of Africa Today - November 27, 2026",
+          "url": "https://allafrica.com/stories/202611270160.html",
+          "publishedAt": "2026-11-27",
+          "kind": "News digest"
+        }
+      ],
+      "threadId": "hiv-prevention",
+      "threadTitle": "HIV prevention",
+      "threadSummary": "New tools for preventing HIV, including long-acting injections, and efforts to roll them out."
+    }
+  ],
+  "watch": [
+    {
+      "title": "Spain’s result",
+      "text": "Polls close at 8 PM local time on Sunday, November 29, with the first provisional results from 9 PM."
+    },
+    {
+      "title": "Nvidia in Congress",
+      "text": "Jensen Huang faces a closed-door interview with House committees on Tuesday, December 1, and a public Senate Banking hearing on export controls on Thursday, December 3."
+    },
+    {
+      "title": "Who governs New Zealand",
+      "text": "Recount applications close on Wednesday, December 2, and the writ is due back on Thursday, December 3, as talks with the Opportunity Party continue."
+    }
+  ],
+  "regions": {
+    "north-america": {
+      "summary": "Nvidia faces new questions after restricted Blackwell hardware was traced to a Shanghai site, ahead of congressional hearings next week, and Mexico protests a US drug agency tip line.",
+      "briefs": []
+    },
+    "latin-america": {
+      "summary": "Venezuela plans to repeal its law barring opposition figures from office, Costa Rica turns away a UN rapporteur, and Mexico complains to Washington about a drug tip line.",
+      "briefs": [
+        {
+          "title": "Argentina bars its central bank from printing money to fund the government",
+          "text": "Argentina’s Chamber of Deputies gave final approval on Thursday, by 141 votes to none with 99 abstentions, to a law making the preservation of the currency’s value the central bank’s main mission and ending money-printing to cover public spending. The Senate had removed President Javier Milei’s proposal to require two-thirds majorities to dismiss the bank’s governors. Separately, the Senate voted 43 to 29 to suspend the primaries before the 2027 presidential race; that bill now goes to the lower house.",
+          "eventDate": "2026-11-26",
+          "sources": [
+            {
+              "publisher": "Al Jazeera (Reuters and AP)",
+              "title": "Argentina bars Central Bank from printing money to fund government spending",
+              "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending",
+              "publishedAt": "2026-11-27",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "summary": "Spain ends its campaign before Sunday’s vote, Italy moves its troops out of Kuwait after two citizens were killed, and Ukraine reports gains in northern Kharkiv and new strikes inside Russia.",
+      "briefs": [
+        {
+          "title": "Ukraine says it hit a Russian plant that makes an ingredient for missile fuel",
+          "text": "Ukraine’s General Staff said forces struck the Efremov synthetic rubber plant in Russia’s Tula region overnight on Friday, working with a resistance group; the plant’s product is used in solid fuel for Iskander missiles, and damage was still being assessed. The military also said an earlier strike on the Novoshakhtinsk refinery in Rostov destroyed 20 storage tanks.",
+          "eventDate": "2026-11-27",
+          "sources": [
+            {
+              "publisher": "The Kyiv Independent",
+              "title": "Ukraine war latest: Ukraine hits missile fuel production facility in Russia's Tula Oblast, military says",
+              "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-hits-missile-fuel-production-facility-in-russias-tula-oblast-military-says/",
+              "publishedAt": "2026-11-27",
+              "kind": "Reporting"
+            }
+          ]
+        },
+        {
+          "title": "Nine more Ukrainian children are returned through Melania Trump’s mediation",
+          "text": "President Zelensky said on Friday that nine children, the youngest aged eight, had been brought back from Crimea and occupied parts of the Zaporizhzhia and Kherson regions with the help of the US first lady. He put the total number of children returned to Ukraine at 2,875, without giving a timeframe.",
+          "eventDate": "2026-11-27",
+          "sources": [
+            {
+              "publisher": "The Kyiv Independent",
+              "title": "Ukraine war latest: Ukraine hits missile fuel production facility in Russia's Tula Oblast, military says",
+              "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-hits-missile-fuel-production-facility-in-russias-tula-oblast-military-says/",
+              "publishedAt": "2026-11-27",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "africa": {
+      "summary": "UN agencies put Sudan, South Sudan, Somalia and northern Nigeria among the places at highest risk of famine, Guinea-Bissau’s junta delays elections to 2028, and the first generic HIV prevention injections reach Zambia.",
+      "briefs": [
+        {
+          "title": "Zambia bans a protest against removing presidential term limits",
+          "text": "Police in Zambia banned a march planned for November 25 against a petition to scrap presidential term limits, citing the risk of clashes with a rival pro-government rally. Three groups aligned with the governing party have asked parliament to remove the limits, which would let President Hakainde Hichilema stay beyond 2031; ministers say he is not seeking a third term, and the organisers have appealed.",
+          "eventDate": "2026-11-25",
+          "sources": [
+            {
+              "publisher": "Al Jazeera",
+              "title": "Zambia bans protest against push to remove presidential term limits",
+              "url": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits",
+              "publishedAt": "2026-11-26",
+              "kind": "Reporting"
+            }
+          ]
+        }
+      ]
+    },
+    "middle-east": {
+      "summary": "The US disables another ship running its Iran blockade, Italy says the drone that killed two Italians in Kuwait was Iranian-made, and Saudi Arabia’s pact partners condemn Houthi attacks.",
+      "briefs": [
+        {
+          "title": "Eisenkot says he will try to form an Israeli government in the time left on his mandate",
+          "text": "Gadi Eisenkot, the opposition leader tasked with forming a government, said he intends to do so within the eight days remaining and accused Likud of stalling unity talks, Gulf News reported, citing Xinhua; Likud called it a double game. Al Jazeera’s analysis notes that his bloc cannot win a confidence vote alone and that a rotation deal with Netanyahu would break his campaign promise.",
+          "eventDate": "2026-11-27 / 2026-11-28",
+          "sources": [
+            {
+              "publisher": "Gulf News (Xinhua)",
+              "title": "Middle East tensions: Saudi Arabia, Pakistan and Turkey strengthen defence ties, US blockade and Iran claims",
+              "url": "https://gulfnews.com/world/mena/middle-east-tensions-saudi-arabia-pakistan-and-turkey-strengthen-defence-ties-us-blockade-and-iran-claims-1.500763810",
+              "publishedAt": "2026-11-28",
+              "kind": "Live reporting"
+            },
+            {
+              "publisher": "Al Jazeera",
+              "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+              "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu",
+              "publishedAt": "2026-11-27",
+              "kind": "Analysis"
+            }
+          ]
+        }
+      ]
+    },
+    "asia": {
+      "summary": "Pakistan hosts the Mecca defence pact’s ministers, and loan filings place restricted Nvidia hardware at a Shanghai data-centre site.",
+      "briefs": []
+    },
+    "oceania": {
+      "summary": "Australia sanctions two men it accuses of acting for Iran’s Revolutionary Guards, as New Zealand’s parties keep negotiating after the final count.",
+      "briefs": [
+        {
+          "title": "Australia sanctions two alleged agents of Iran over antisemitic arson attacks",
+          "text": "Australia imposed sanctions on Zohair Hassib and Kazem Hamad, whom it accuses of acting as proxies for Iran’s Revolutionary Guards in arson attacks on Jewish targets in Sydney and Melbourne in 2024, Gulf News and Khaleej Times reported on Friday.",
+          "eventDate": "2026-11-27",
+          "sources": [
+            {
+              "publisher": "Gulf News",
+              "title": "Middle East tensions: Trump signals victory as Iran offers Kuwait drone probe",
+              "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+              "publishedAt": "2026-11-28",
+              "kind": "Live reporting"
+            },
+            {
+              "publisher": "Khaleej Times",
+              "title": "Turkey, Pakistan, Saudi Arabia agree principles for new Makkah alliance members",
+              "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-27-2026",
+              "publishedAt": "2026-11-27",
+              "kind": "Live reporting"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
